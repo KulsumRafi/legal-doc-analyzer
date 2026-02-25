@@ -15,3 +15,5 @@ sentence-transformers==3.0.0
 ollama==0.3.0
 requests==2.31.0
 beautifulsoup4==4.12.0
+huggingface-hub==0.24.0
+sec-api==1.0.1

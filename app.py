@@ -1,7 +1,6 @@
 """
-Legal Document Analyzer - Dash Version
-For Hugging Face Spaces deployment
-Combines Stanford MCC + SEC API data
+Legal Document Analyzer - Dash Version with Hugging Face Inference API
+No local LLM needed! Uses Hugging Face's free Inference API.
 """
 
 import os
@@ -12,15 +11,34 @@ import plotly.graph_objs as go
 import pandas as pd
 import numpy as np
 from datetime import datetime
-import base64
-import io
+import requests
+import json
 
 # RAG imports
 from langchain.vectorstores import Chroma
 from langchain.embeddings import HuggingFaceEmbeddings
-from langchain.llms import Ollama
+from langchain.llms import HuggingFaceHub  # For HF Inference API
 from langchain.chains import RetrievalQA
 from langchain.prompts import PromptTemplate
+
+# ============================================
+# HUGGING FACE SETUP
+# ============================================
+
+# 🔑 Load HF token from environment (set in Hugging Face Spaces Secrets)
+HF_TOKEN = os.environ.get("HF_TOKEN")
+if not HF_TOKEN:
+    print("⚠️ WARNING: HF_TOKEN not found in environment variables!")
+    print("Please add HF_TOKEN to your Hugging Face Space Secrets")
+    print("The app will run in demo mode without actual LLM responses")
+
+# Model to use (free, fast, works well for legal text)
+# Options: "meta-llama/Llama-3.2-3B-Instruct", "microsoft/phi-3-mini-4k-instruct", "HuggingFaceH4/zephyr-7b-beta"
+HF_MODEL = "meta-llama/Llama-3.2-3B-Instruct"  # Good balance of quality and speed
+
+# ============================================
+# DASH APP INITIALIZATION
+# ============================================
 
 # Initialize the Dash app
 app = dash.Dash(
@@ -36,13 +54,13 @@ app = dash.Dash(
 # For Hugging Face Spaces deployment - THIS IS CRITICAL
 server = app.server
 
-# Custom CSS
+# Custom CSS (same as before - keeping it clean)
 app.index_string = '''
 <!DOCTYPE html>
 <html>
     <head>
         {%metas%}
-        <title>{%title%}</title>
+        <title>⚖️ Legal Document Analyzer</title>
         {%favicon%}
         {%css%}
         <style>
@@ -118,6 +136,7 @@ app.index_string = '''
                 margin: 1rem 0;
                 font-size: 1rem;
                 line-height: 1.6;
+                white-space: pre-wrap;
             }
             .citation {
                 background: #f8f9fa;
@@ -173,6 +192,14 @@ app.index_string = '''
                 background: #D1FAE5;
                 color: #065F46;
             }
+            .token-warning {
+                background: #FEF3C7;
+                border-left: 4px solid #F59E0B;
+                padding: 1rem;
+                border-radius: 8px;
+                margin: 1rem 0;
+                color: #92400E;
+            }
         </style>
     </head>
     <body>
@@ -190,12 +217,20 @@ app.index_string = '''
 app.layout = html.Div([
     # Header
     html.Div([
-        html.H1("Legal Document Analyzer"),
-        html.P("Analyze contracts from Stanford MCC (1M+ historical) + SEC EDGAR (Live)")
+        html.H1("⚖️ Legal Document Analyzer"),
+        html.P("Analyze contracts from Stanford MCC (1M+ historical) + SEC EDGAR (Live)"),
+        html.P("🤖 Powered by Hugging Face Inference API", 
+               style={"font-size": "0.9rem", "opacity": "0.8", "margin-top": "0.5rem"})
     ], className="main-header"),
     
     # Main container
     html.Div([
+        # Token warning (if missing)
+        html.Div(id="token-warning", className="token-warning", children=[
+            html.Strong("⚠️ HF_TOKEN not found! "),
+            "The app is running in demo mode. Add your Hugging Face token to enable AI responses."
+        ]) if not HF_TOKEN else html.Div(),
+        
         # Stats section
         html.Div(id="stats-section", className="stat-grid", children=[
             html.Div([
@@ -211,15 +246,15 @@ app.layout = html.Div([
             ], className="stat-card"),
             
             html.Div([
-                html.Div("🏛️ ⚡", className="stat-number", style={"font-size": "1.8rem"}),
-                html.Div("Hybrid Search", className="stat-label"),
-                html.Div("Historical + Live", className="stat-label", style={"font-size": "0.8rem"})
+                html.Div("🤖", className="stat-number", style={"font-size": "2rem"}),
+                html.Div("HF Inference API", className="stat-label"),
+                html.Div("No local LLM needed", className="stat-label", style={"font-size": "0.8rem"})
             ], className="stat-card"),
         ]),
         
         # Main query interface
         html.Div([
-            html.H3("Ask About Any Contract", style={"margin-top": "0", "margin-bottom": "1rem"}),
+            html.H3("🔍 Ask About Any Contract", style={"margin-top": "0", "margin-bottom": "1rem"}),
             html.P("Ask questions about termination clauses, confidentiality terms, governing law, etc."),
             
             # Query input
@@ -254,7 +289,7 @@ app.layout = html.Div([
                 ], style={"display": "flex", "align-items": "center", "flex-wrap": "wrap", "gap": "1rem"}),
                 
                 html.Button(
-                    "Analyze Contract",
+                    "🔍 Analyze Contract",
                     id="search-button",
                     className="btn-primary",
                     style={"margin-left": "auto"}
@@ -263,17 +298,19 @@ app.layout = html.Div([
             
         ], className="card"),
         
-        # Results section
-        html.Div(id="results-section", className="card", children=[
-            html.Div(id="loading-output", children=[
+        # Loading indicator
+        dcc.Loading(
+            id="loading",
+            type="circle",
+            children=html.Div(id="loading-output", className="card", children=[
                 html.Div("Enter a query above to analyze contracts.", 
                         style={"text-align": "center", "color": "#6B7280", "padding": "2rem"})
             ])
-        ]),
+        ),
         
         # Analytics section
         html.Div([
-            html.H3("Contract Analytics", style={"margin-bottom": "1.5rem"}),
+            html.H3("📊 Contract Analytics", style={"margin-bottom": "1.5rem"}),
             
             # Contract type distribution
             dcc.Graph(
@@ -302,14 +339,14 @@ app.layout = html.Div([
         
         # Data sources info
         html.Div([
-            html.H4("Data Sources", style={"margin-bottom": "1rem"}),
+            html.H4("📚 Data Sources", style={"margin-bottom": "1rem"}),
             html.Div([
                 html.Span("Stanford MCC", className="data-source-tag source-stanford"),
                 html.Span("SEC EDGAR API", className="data-source-tag source-sec"),
-                html.Span("Local LLM (Ollama)", className="data-source-tag", 
+                html.Span("Hugging Face Inference API", className="data-source-tag", 
                          style={"background": "#FEF3C7", "color": "#92400E"})
             ]),
-            html.P("All processing happens locally - your queries are private.", 
+            html.P("All processing happens via Hugging Face's free Inference API - no local LLM needed.", 
                   style={"color": "#6B7280", "font-size": "0.9rem", "margin-top": "1rem"})
         ], className="card")
         
@@ -318,15 +355,70 @@ app.layout = html.Div([
     # Footer
     html.Div([
         html.P(f"© 2026 Legal Document Analyzer | Built with Dash + Hugging Face Spaces"),
-        html.P("Data: Stanford Material Contracts Corpus + SEC EDGAR", 
+        html.P(f"Model: {HF_MODEL}", 
                style={"font-size": "0.8rem", "margin-top": "0.5rem"})
     ], className="footer")
 ])
 
-# Callback for search functionality
+# ============================================
+# HELPER FUNCTIONS
+# ============================================
+
+def query_huggingface(prompt, context=""):
+    """
+    Query Hugging Face Inference API directly
+    """
+    if not HF_TOKEN:
+        return "⚠️ Demo mode: No HF_TOKEN provided. Add your token to enable AI responses."
+    
+    # Construct full prompt with context
+    full_prompt = f"""You are a legal document analyst. Based on the following contract excerpts, answer the question.
+
+Context:
+{context[:2000]}  # Limit context to avoid token limits
+
+Question: {prompt}
+
+Provide a concise, accurate answer based only on the context. If the answer cannot be found, say so.
+Answer:"""
+    
+    # API endpoint
+    API_URL = f"https://api-inference.huggingface.co/models/{HF_MODEL}"
+    headers = {"Authorization": f"Bearer {HF_TOKEN}"}
+    
+    payload = {
+        "inputs": full_prompt,
+        "parameters": {
+            "max_new_tokens": 500,
+            "temperature": 0.1,
+            "do_sample": False,
+            "return_full_text": False
+        }
+    }
+    
+    try:
+        response = requests.post(API_URL, headers=headers, json=payload, timeout=30)
+        
+        if response.status_code == 200:
+            result = response.json()
+            if isinstance(result, list) and len(result) > 0:
+                return result[0].get('generated_text', str(result))
+            return str(result)
+        elif response.status_code == 503:
+            # Model is loading
+            return "⏳ Model is loading on Hugging Face servers. Please try again in a few seconds."
+        else:
+            return f"❌ API Error {response.status_code}: {response.text}"
+            
+    except Exception as e:
+        return f"❌ Error: {str(e)}"
+
+# ============================================
+# CALLBACKS
+# ============================================
+
 @callback(
-    [Output("loading-output", "children"),
-     Output("contract-type-chart", "figure")],
+    Output("loading-output", "children"),
     [Input("search-button", "n_clicks")],
     [State("query-input", "value"),
      State("source-selector", "value")]
@@ -335,60 +427,82 @@ def search_contracts(n_clicks, query, sources):
     """Handle contract search and analysis"""
     
     if not n_clicks or not query:
-        # Return default view
-        default_fig = {
-            "data": [
-                {
-                    "values": [40, 25, 15, 12, 8],
-                    "labels": ["Employment", "M&A", "Lease", "Security", "Services"],
-                    "type": "pie",
-                    "hole": 0.4
-                }
-            ],
-            "layout": {"title": "Contract Types in Stanford MCC", "height": 400}
-        }
         return html.Div("Enter a query above to analyze contracts.", 
-                       style={"text-align": "center", "color": "#6B7280", "padding": "2rem"}), default_fig
+                       style={"text-align": "center", "color": "#6B7280", "padding": "2rem"})
     
-    # Simulate search results (in production, this would use your RAG pipeline)
-    # For demo purposes, we'll show placeholder results
+    # Simulate finding relevant documents (in production, this would query ChromaDB)
+    # For demo, we'll create sample contexts
     
+    context_parts = []
     results = []
     
     if "stanford" in sources:
+        stanford_context = """
+        Employment Agreement between TechCorp and John Smith dated 2023-01-15:
+        Section 5. Termination. This Agreement may be terminated by either party upon thirty (30) days written notice. 
+        For cause termination, including material breach of confidentiality obligations, shall be effective immediately.
+        Section 6. Confidentiality. Employee shall not disclose trade secrets for a period of two (2) years post-employment.
+        """
+        context_parts.append(stanford_context)
+        
         results.append(html.Div([
             html.Div([
                 html.Span("Stanford MCC", className="data-source-tag source-stanford"),
-                html.Small(" 2023-01-15", style={"color": "#6B7280", "margin-left": "0.5rem"})
+                html.Small(" Employment Agreement • 2023-01-15", style={"color": "#6B7280", "margin-left": "0.5rem"})
             ]),
-            html.P(f"Found relevant section about '{query}' in Employment Agreement"),
             html.Div(
-                "This Employment Agreement may be terminated by either party upon 30 days written notice. For cause termination (including breach of confidentiality or misconduct) is effective immediately...",
+                "Employment Agreement between TechCorp and John Smith...",
                 className="citation"
             )
         ], style={"margin-bottom": "1rem"}))
     
     if "sec" in sources:
+        sec_context = """
+        Apple Inc. Form 8-K filed 2024-02-20, Exhibit 10.1:
+        Section 8. Termination. This Agreement may be terminated (a) by mutual written consent, 
+        (b) by either party upon 60 days written notice, or (c) immediately by Company for cause, 
+        including breach of confidentiality, violation of policies, or misconduct.
+        """
+        context_parts.append(sec_context)
+        
         results.append(html.Div([
             html.Div([
                 html.Span("SEC Live", className="data-source-tag source-sec"),
-                html.Small(" AAPL • 2024-02-20", style={"color": "#6B7280", "margin-left": "0.5rem"})
+                html.Small(" Apple Inc. • 2024-02-20", style={"color": "#6B7280", "margin-left": "0.5rem"})
             ]),
-            html.P(f"Recent filing related to '{query}' from Apple Inc."),
             html.Div(
-                "The Company may terminate this Agreement immediately upon written notice if the Supplier breaches any confidentiality obligation or fails to perform...",
+                "Apple Inc. Form 8-K filed 2024-02-20, Exhibit 10.1...",
                 className="citation"
             )
         ], style={"margin-bottom": "1rem"}))
     
+    # Get AI answer from Hugging Face
+    full_context = "\n\n".join(context_parts)
+    answer = query_huggingface(query, full_context)
+    
     # Answer section
     answer_section = html.Div([
         html.H4("📝 Analysis Result", style={"margin": "1rem 0"}),
-        html.Div(
-            f"Based on the contracts analyzed, {query.lower()} typically include provisions for mutual termination with 30-60 days notice, immediate termination for cause (breach, illegality), and survival of confidentiality obligations post-termination. Recent SEC filings show similar patterns with additional Sarbanes-Oxley compliance clauses.",
-            className="answer-box"
-        )
+        html.Div(answer, className="answer-box")
     ])
+    
+    # Show token warning if needed
+    if not HF_TOKEN:
+        answer_section = html.Div([
+            html.H4("📝 Demo Mode", style={"margin": "1rem 0"}),
+            html.Div(
+                "⚠️ **HF_TOKEN not configured.**\n\n"
+                "To enable real AI responses:\n"
+                "1. Get a free token from huggingface.co/settings/tokens\n"
+                "2. Add it to your Space Secrets as HF_TOKEN\n"
+                "3. Restart the app\n\n"
+                "For now, here's what your query would analyze:\n"
+                f"Query: '{query}'\n"
+                f"Sources: {', '.join(sources)}",
+                className="answer-box",
+                style={"white-space": "pre-wrap"}
+            )
+        ])
     
     # Combine all sections
     final_output = html.Div([
@@ -398,20 +512,7 @@ def search_contracts(n_clicks, query, sources):
         *results
     ])
     
-    # Update chart (in production, this would show actual distribution)
-    updated_fig = {
-        "data": [
-            {
-                "values": [42, 23, 14, 13, 8],
-                "labels": ["Employment", "M&A", "Lease", "Security", "Services"],
-                "type": "pie",
-                "hole": 0.4
-            }
-        ],
-        "layout": {"title": "Contract Types with Latest SEC Additions", "height": 400}
-    }
-    
-    return final_output, updated_fig
+    return final_output
 
 # Run the app
 if __name__ == "__main__":
