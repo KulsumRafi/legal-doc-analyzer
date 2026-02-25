@@ -1,0 +1,2302 @@
+<DOCUMENT>
+<TYPE>EX-2.1
+<SEQUENCE>3
+<FILENAME>dex21.txt
+<DESCRIPTION>JOINT PLAN OF REORGANIZATION
+<TEXT>
+<PAGE>
+
+
+                                                                     EXHIBIT 2.1
+
+                         UNITED STATES BANKRUPTCY COURT
+                          NORTHERN DISTRICT OF GEORGIA
+                                 NEWNAN DIVISION
+
+                                       :
+IN RE:                                 :            CASE NO. 02-
+                                       :                         ----------
+                                       :            CHAPTER 11
+                                       :
+KNOLOGY BROADBAND, INC.                :
+(formerly Knology Holdings, Inc.),     :            JOINT PLAN OF REORGANIZATION
+a Delaware corporation,                :
+               Debtor.                 :
+Fed. Tax Id No. 58-2203141             :
+                                       :
+---------------------------------------:
+
+
+                                 RONALD E. BARAB
+                                 BARBARA ELLIS-MONRO
+                                 SMITH, GAMBRELL & RUSSELL, LLP
+                                 Suite 3100, Promenade II
+                                 1230 Peachtree Street, N.E.
+                                 Atlanta, Georgia 30309
+                                 (404) 815-3500
+
+                                 Attorneys for
+                                 Knology Broadband, Inc.,
+                                 Debtor and Debtor in Possession
+
+                                 CHRISTOPHER STRICKLAND
+                                 ALSTON & BIRD, LLP
+                                 One Atlantic Center
+                                 1201 W. Peachtree Street, N.E.
+                                 Atlanta, Georgia 30309
+                                 (404) 881-7000
+
+                                 Attorneys for Knology, Inc.
+
+September 18, 2002
+
+<PAGE>
+
+
+                                TABLE OF CONTENTS
+
+ARTICLE I Definitions and Interpretation .............................    1
+  1.1     DEFINITIONS ................................................    1
+  1.2     INTERPRETATION AND RULES OF CONSTRUCTION ...................   12
+  1.3     OTHER TERMS ................................................   12
+  1.4     HEADINGS ...................................................   13
+  1.5     INCORPORATION OF EXHIBITS ..................................   13
+
+ARTICLE II Classification of Claims and Interests ....................   13
+  2.1     CLAIMS AND EQUITY INTERESTS CLASSIFIED .....................   13
+  2.2     ADMINISTRATIVE CLAIMS AND PRIORITY TAX CLAIMS ..............   13
+  2.3     CLAIMS AGAINST AND EQUITY INTERESTS IN BROADBAND ...........   13
+
+ARTICLE III Identification of Impaired Classes of Claims and Equity
+               Interests .............................................   14
+  3.1     UNIMPAIRED CLASSES OF CLAIMS ...............................   14
+  3.2     IMPAIRED CLASSES OF CLAIMS AND EQUITY INTERESTS ............   14
+  3.3     IMPAIRMENT CONTROVERSIES ...................................   14
+
+ARTICLE IV Treatment of Administrative and Priority Tax Claims .......   14
+  4.1     PAYMENT OF ADMINISTRATIVE CLAIMS ...........................   14
+  4.2     PAYMENT OF PRIORITY TAX CLAIMS .............................   14
+
+ARTICLE V Treatment of Claims and Interests ..........................   15
+  5.1     CLAIMS AGAINST AND EQUITY INTERESTS IN BROADBAND ...........   15
+  5.2     SATISFACTION OF CLAIMS AND INTERESTS .......................   17
+
+ARTICLE VI Means for Execution of the Plan ...........................   17
+  6.1     GENERAL IMPLEMENTATION MATTERS .............................   17
+  6.2     REORGANIZED BROADBAND AND KNOLOGY. .........................   18
+  6.3     CORPORATE ACTION ...........................................   19
+  6.4     DISTRIBUTIONS ..............................................   20
+  6.5     VESTING OF PROPERTY OF BROADBAND ...........................   24
+  6.6     MAINTENANCE AND WAIVER OF CAUSES OF ACTION .................   24
+  6.7     SECURITIES LAW MATTERS .....................................   25
+
+ARTICLE VII Acceptance or Rejection of the Plan ......................   25
+  7.1     CLASSES ENTITLED TO VOTE ...................................   25
+  7.2     CLASS ACCEPTANCE REQUIREMENT ...............................   25
+
+ARTICLE VIII Procedure for Resolving Disputed Claims .................   25
+  8.1     UNIMPAIRED CLAIMS GENERALLY ................................   25
+  8.2     REJECTION CLAIMS ...........................................   26
+  8.3     IMPAIRED CLAIMS ............................................   26
+  8.4     AUTHORITY TO OPPOSE CLAIMS .................................   26
+  8.5     TREATMENT OF DISPUTED CLAIMS ...............................   27
+
+                                        i
+
+<PAGE>
+
+ARTICLE IX Executory Contracts and Unexpired Leases .......................   27
+  9.1     GENERAL TREATMENT ...............................................   27
+  9.2     PROFESSIONAL PERSON ENGAGEMENTS .................................   27
+  9.3     BAR TO REJECTION DAMAGES ........................................   27
+  9.4     CURE OF DEFAULTS FOR EXECUTORY CONTRACTS AND UNEXPIRED
+             LEASES .......................................................   27
+
+ARTICLE X Conditions Precedent to Confirmation and Effective Date .........   28
+  10.1    CONDITIONS PRECEDENT TO CONFIRMATION OF THE PLAN ................   28
+  10.2    CONDITIONS TO EFFECTIVE DATE ....................................   29
+  10.3    WAIVER OF CONDITIONS ............................................   30
+
+ARTICLE XI Effects of Confirmation and Effectiveness of the Plan ..........   30
+  11.1    DISCHARGE OF CLAIMS .............................................   30
+  11.2    DISCHARGE OF BROADBAND ..........................................   30
+  11.3    INJUNCTION ......................................................   31
+  11.4    SURVIVAL OF INDEMNIFICATION CLAIMS AND OBLIGATIONS ..............   31
+  11.5    EXCULPATIONS AND LIMITATION OF LIABILITY ........................   31
+  11.6    RELEASES BY RECIPIENTS OF NEW NOTES AND NEW EQUITY SECURITIES ...   32
+  11.7    INDENTURE TRUSTEE ...............................................   32
+
+ARTICLE XII Retention of Jurisdiction .....................................   32
+  12.1    SCOPE OF JURISDICTION ...........................................   32
+  12.2    FAILURE OF THE BANKRUPTCY COURT TO EXERCISE JURISDICTION ........   33
+
+ARTICLE XIII Miscellaneous Provisions .....................................   33
+  13.1    COMPLIANCE WITH TAX REQUIREMENTS ................................   33
+  13.2    COMPLIANCE WITH ALL APPLICABLE LAWS .............................   33
+  13.3    DISCHARGE OF OLD INDENTURE TRUSTEE ..............................   34
+  13.4    PAYMENT OF STATUTORY FEES .......................................   34
+  13.5    POST-CONFIRMATION DATE FEES AND EXPENSES OF PROFESSIONAL
+             PERSONS ......................................................   34
+  13.6    BINDING EFFECT ..................................................   34
+  13.7    GOVERNING LAW ...................................................   34
+  13.8    FILING OF ADDITIONAL DOCUMENTS ..................................   35
+  13.9    AMENDMENTS AND MODIFICATIONS ....................................   35
+  13.10   REVOCATION ......................................................   35
+  13.11   SEVERABILITY ....................................................   35
+  13.12   NOTICES .........................................................   35
+  13.13   DE MINIMIS DISTRIBUTIONS ........................................   36
+
+                                       ii
+
+<PAGE>
+
+                         UNITED STATES BANKRUPTCY COURT
+                          NORTHERN DISTRICT OF GEORGIA
+                                 NEWNAN DIVISION
+
+                                        :
+IN RE:                                  : CASE NO. 02-
+                                                       -----------
+                                        : CHAPTER 11
+                                        :
+KNOLOGY BROADBAND, INC.                 :
+(formerly Knology Holdings, Inc.),      : JOINT PLAN OF REORGANIZATION
+a Delaware corporation,                 :
+                            Debtor.     :
+Fed. Tax Id No.58-2203141               :
+                                        :
+--------------------------------------
+
+     Knology Broadband, Inc., as debtor and debtor in possession, and Knology,
+Inc. propose the joint plan of reorganization set forth below (the "Plan")
+pursuant to Chapter 11 of Title 11 of the United States Code (the "Bankruptcy
+Code").
+
+                                    ARTICLE I
+
+                         Definitions and interpretation
+
+     1.1 DEFINITIONS. All capitalized terms used in the Plan (excluding the Plan
+Documents, unless expressly incorporated therein by reference) and not otherwise
+defined shall have the respective meanings set forth below.
+
+          1.1.1 "Administrative Claim" shall mean a Claim or portion of a Claim
+which is a cost or expense of administration of the Estate allowed under
+Sections 503(b) or 507(b) of the Bankruptcy Code that is entitled to priority
+under Section 507(a)(1) of the Bankruptcy Code, including (a) any actual and
+necessary costs and expenses of preserving the Estate and operating Broadband's
+business, (b) the fees and expenses of Professional Persons in such amounts as
+are allowed by Final Order of the Bankruptcy Court under Section 330 of the
+Bankruptcy Code, (c) to the extent applications for allowance thereof as
+Administrative Claims are made pursuant to Sections 503(b)(1), (3), (4) or (5)
+of the Bankruptcy Code, including any Claim arising from the use of cash
+collateral, in such amounts as are determined and allowed by Final Order of the
+Bankruptcy Court, (d) any fees or charges assessed against the Estate under
+Section 1930 of Title 28 of the United States Code, and (e) the outstanding
+principal amount, interest thereon and other fees and charges, if any, owing on
+account of any loans made to or other credit accommodations extended to
+Broadband on or after the Petition Date.
+
+          1.1.2 "Affiliate" shall mean any Entity within the meaning of Section
+101(2) of the Bankruptcy Code.
+
+          1.1.3 "Allowed," "Allowed Claim" or "Allowed Interest" shall mean and
+include, with reference to a Claim or Interest, (a) any Claim against or
+Interest in Broadband,
+
+<PAGE>
+
+proof of which is filed within the applicable period of limitation fixed by the
+Bankruptcy Court in accordance with Bankruptcy Rule 3003(c)(3) or fixed pursuant
+to Section 9.3 of the Plan and which is not a Disputed Claim or Disputed
+Interest, (b) if no proof of the Claim or Interest is so filed, any Claim
+against or Interest in Broadband which has been listed by Broadband in its
+Chapter 11 schedules, as such schedules may be amended from time to time in
+accordance with Bankruptcy Rule 1009, as liquidated in amount and not disputed
+or contingent, (c) any Claim or Interest allowed by a Final Order or which shall
+have been resolved by written agreement between the Holder of the Claim or
+Interest and Broadband or Reorganized Broadband, as the case may be, or (d) any
+Unimpaired Claim other than a Rejection Claim which Unimpaired Claim is not a
+Disputed Claim, whether or not proof of the Claim has been filed and whether or
+not the Claim has been listed by Broadband in its Chapter 11 schedules, as such
+schedules may be amended from time to time. An Allowed Claim or Allowed Interest
+does not include any Claim or Interest or portion thereof which is a Disallowed
+Claim or Disallowed Interest or which is subsequently withdrawn, disallowed,
+released or waived by the Holder thereof or pursuant to a Final Order.
+
+          1.1.4 "Amended and Restated Wachovia Guaranty" shall mean an
+unconditional guaranty of payment and performance having the terms and
+conditions set forth in the Wachovia Term Sheet and having such other terms and
+conditions consistent therewith as are acceptable to Wachovia and Broadband, to
+be executed and delivered to Wachovia by Reorganized Broadband, pursuant to
+which Reorganized Broadband will amend and restate the unconditional guaranty of
+the full payment and performance at maturity of the indebtedness of the
+Subsidiaries under that certain Credit Agreement dated as of December 22, 1998,
+as amended and restated, due four years from the Effective Pate, in the
+aggregate principal amount of $15,464,750.
+
+          1.1.5 "Amended and Restated Wachovia Security Documents" shall mean
+those security agreements, mortgages and other documents of every kind and
+nature having the terms and conditions set forth in the Wachovia Term Sheet and
+having such other terms and conditions consistent therewith as are acceptable to
+Wachovia and Broadband, pursuant to which Reorganized Broadband is to amend and
+restate its grant to Wachovia of Liens and other Encumbrances on substantially
+all of Reorganized Broadband's assets as security for the Amended and Restated
+Wachovia Guaranty.
+
+          1.1.6 "Bankruptcy Code" shall mean the Bankruptcy Reform Act of 1978,
+as amended, codified at Title 11 of the United States Code, as the same may from
+time to time be in effect and as applicable to the Case.
+
+          1.1.7 "Bankruptcy Court" shall mean the United States Bankruptcy
+Court for the Northern District of Georgia or, to the extent of any transfer of
+the Case or any proceedings arising therein or relating thereto and commenced in
+said bankruptcy court to another district pursuant to 28 U.S.C. (S) 1412, the
+United States Bankruptcy Court for said other district, or, to the extent of any
+withdrawal of the reference of the Case or any proceedings arising therein or
+relating thereto and commenced in said bankruptcy court made pursuant to 28
+U.S.C. (S) 157, the United States District Court for the district of which said
+bankruptcy court constitutes a unit.
+
+                                        2
+
+<PAGE>
+
+          1.1.8 "Bankruptcy Rules" shall mean the Federal Rules of Bankruptcy
+Procedure, as promulgated by the United States Supreme Court pursuant to 28
+U.S.C. (S) 2075, to the extent not inconsistent, the local rules of the
+Bankruptcy Court, as amended from time to time.
+
+          1.1.9 "Broadband" shall mean Knology Broadband, Inc., a Delaware
+corporation, prior to the Petition Date and as debtor and debtor in possession
+in the Case.
+
+          1.1.10 "Broadband Bylaws" shall mean the bylaws of Broadband in force
+on the day immediately preceding the Petition Date.
+
+          1.1.11 "Broadband Restated Certificate of Incorporation" shall mean
+the Amended and Restated Certificate of Incorporation of Broadband to be adopted
+by Broadband in accordance with applicable law on the Effective Date pursuant to
+the provisions of Section 6.3.1 of the Plan.
+
+          1.1.12 "Business Day" shall mean any day other than a Saturday, a
+Sunday or any other day on which commercial banks in the City of New York, State
+of New York, are required or authorized to close.
+
+          1.1.13 "CSFB" shall mean Credit Suisse First Boston Corporation, the
+financial advisor to Knology.
+
+          1.1.14 "Case" shall mean any case commenced by or against Broadband
+under the Bankruptcy Code in which the Proponents are or become the proponents
+of the Plan.
+
+          1.1.15 "Cash" shall mean legal tender of the United States of America
+or cash equivalents, including cash balances of depository accounts and cash on
+hand.
+
+          1.1.16 "Claim" shall mean (a) any right to payment from Broadband or
+its property, whether or not such right is reduced to judgment, liquidated,
+unliquidated, fixed, contingent, matured, unmatured, disputed, undisputed,
+legal, equitable, secured, or unsecured or (b) any right to an equitable remedy
+for breach of performance if such breach gives rise to a right of payment from
+Broadband, whether or not such right to an equitable remedy is reduced to
+judgment, fixed, contingent, matured, unmatured, disputed, undisputed, secured
+or unsecured.
+
+          1.1.17 "Class" shall mean a category or group of Holders designated as
+a class or subclass in Article II pursuant to Section 1123(a)(1) of the
+Bankruptcy Code.
+
+          1.1.18 "CoBank" shall mean CoBank, ACB.
+
+          1.1.19 "Committee" shall mean the unofficial committee of Holders of
+Old Notes, which shall have been organized prior to the Petition Date.
+
+          1.1.20 "Committee Claim" shall mean a contractual Claim held by a
+Committee or any of its members, attorneys or financial advisors arising from an
+agreement between Broadband and/or Knology and the Committee or such attorneys
+or financial advisors pursuant to which Broadband and/or Knology shall have
+agreed to pay certain fees and expenses incurred
+
+                                        3
+
+<PAGE>
+
+in connection with the Case and the negotiation, documentation, implementation
+and consummation of the transactions contemplated by the Plan, regardless of
+whether such fees and expenses are incurred prior or subsequent to the Petition
+Date.
+
+          1.1.21 "Common Stock" shall mean the 100 shares of $0.01 par value per
+share common stock of Broadband issued and outstanding as of the Petition Date.
+
+          1.1.22 "Confirmation" shall mean entry of the Confirmation Order.
+
+          1.1.23 "Confirmation Date" shall mean the date upon which the
+Confirmation Order is entered on the docket by the Clerk of the Bankruptcy
+Court, within the meaning of Bankruptcy Rules 5003 and 9021.
+
+          1.1.24 "Confirmation Hearing" shall mean the hearing held by the
+Bankruptcy Court on the confirmation of the Plan pursuant to Section 1128 of the
+Bankruptcy Code, as it may be adjourned or continued from time to time.
+
+          1.1.25 "Confirmation Order" shall mean the order of the Bankruptcy
+Court confirming the Plan pursuant to Section 1129 of the Bankruptcy Code.
+
+          1.1.26 "Contingent Claim" shall mean a Claim that is contingent or
+unliquidated.
+
+          1.1.27 "Creditor" shall mean any Entity that holds a Claim against
+Broadband (a) that arose at the time of or before the order for relief
+concerning Broadband entered in the Case or (b) of a kind specified in Sections
+502(g), 502(h) or 502(i) of the Bankruptcy Code.
+
+          1.1.28 "Disallowed Claim" or "Disallowed Interest" shall mean an
+alleged Claim against or Interest in Broadband, or any portion thereof, that has
+been disallowed by a Final Order or has been disallowed by written agreement of
+the Holder thereof.
+
+          1.1.29 "Disbursing Agent" shall mean any Entity designated by
+Broadband and approved by the Bankruptcy Court or designated in the Plan to make
+distributions required under the Plan, which may include Broadband, Reorganized
+Broadband, the Old Indenture Trustee or any financial institution of recognized
+standing.
+
+          1.1.30 "Disbursing Agreement" shall mean, with respect to any
+Disbursing Agent (other than Reorganized Broadband and other than an Old
+Indenture Trustee designated as a Disbursing Agent pursuant to Section 6.4.2 of
+the Plan), the agreement referenced in Article VI of the Plan, which shall be
+entered into between Broadband and such Disbursing Agent and shall govern the
+rights and obligations of such Disbursing Agent. Each Disbursing Agreement, if
+any, will be filed as a Plan Document and be subject to the approval of the
+Bankruptcy Court.
+
+          1.1.31 "Disputed Claim" or "Disputed Interest" shall mean a Claim
+against or Interest in Broadband that is not an Allowed Claim or an Allowed
+Interest and (a) to the extent that proof of the Claim or Interest has been
+filed or deemed filed under applicable law, as to which an objection has been
+filed with the Bankruptcy Court and which objection has not been withdrawn or
+denied by Final Order, (b) which has been listed on Broadband's Chapter 11
+
+                                        4
+
+<PAGE>
+
+schedules, as such schedules may be amended from time to time in accordance with
+Bankruptcy Rule 1009, as contingent, unliquidated or disputed, or (c) as to any
+Unimpaired Claim other than a Rejection Claim, which Broadband or Reorganized
+Broadband, as the case may be, shall have objected to, disputed, defended
+against or otherwise opposed pursuant to the provisions of Article VIII of the
+Plan.
+
+          1.1.32 "Distribution Date" shall mean, (a) for any Impaired Claim or
+Interest that is an Allowed Claim or Allowed Interest on the Effective Date, the
+Effective Date or as soon thereafter as reasonably practicable, (b) for any
+Unimpaired Claim, Administrative Claim or Priority Tax Claim that is due on or
+before the Effective Date and that is an Allowed Claim on the Effective Date,
+the Effective Date or as soon thereafter as reasonably practicable, (c) for any
+Unimpaired Claim, Administrative Claim or Priority Tax Claim that is due after
+the Effective Date and that is an Allowed Claim on the date on which such Claim
+is due, on the date such Claim is due, and (d) for any Claim or Interest that is
+a Disputed Claim or Disputed Interest on the Effective Date, the later of thirty
+(30) days after the date upon which such Claim or Interest becomes an Allowed
+Claim or Allowed Interest or the date such Claim or Interest is due.
+
+          1.1.33 "Distribution Record Date" shall mean the close of business in
+the City of New York, State of New York, on the date one (1) Business Day before
+the Effective Date.
+
+          1.1.34 "Effective Date" shall mean the date on which each of the
+conditions precedent set forth in Section 10.2 have been either satisfied or, in
+accordance with Section 10.3, waived.
+
+          1.1.35 "Encumbrance" shall mean any Lien, imperfection of title,
+option, or restriction of any kind any affecting any property.
+
+          1.1.36 "Entity" shall mean a person, a corporation, a partnership, an
+association, a joint stock company, a joint venture, a limited liability
+company, an estate, a trust, an unincorporated organization, a government or any
+subdivision thereof or any other entity.
+
+          1.1.37 "Equity Commitment" shall mean an agreement by and between
+Knology and Broadband pursuant to which Knology shall commit to make equity
+investments in Broadband (including an equity investment effected by Knology's
+cancellation of an Allowed Administrative Claim owing to Knology on the
+Effective Date on account of loans made to or other credit accommodations
+extended to Broadband on or after the Petition Date), not to exceed the
+aggregate amount of the greater of $7,500,000 or the unpaid balance (not to
+exceed $10,000,000) of the Allowed Administrative Claim, if any, owing to
+Knology on the Effective Date on account of loans made to or other credit
+accommodations extended to Broadband on or after the Petition Date, at the
+request of Broadband from time to time on or before the first anniversary of the
+Effective Date, subject only to the condition that no default shall have
+occurred and be continuing under the Existing Wachovia Facility, as restructured
+in accordance with Section 10.1.4, as a result of which default the maturity of
+the indebtedness owing thereunder shall have been accelerated in accordance with
+the terms thereof.
+
+          1.1.38 "Estate" shall mean the estate of Broadband created by Section
+541 of the Bankruptcy Code upon the commencement of the Case.
+
+                                        5
+
+<PAGE>
+
+          1.1.39 "Existing CoBank Facility" shall mean the $40,000,000 credit
+facility provided by CoBank, as lender, to Globe Communications, Inc.,
+Interstate Telephone Company and Valley, as borrowers.
+
+          1.1.40 "Existing CoBank Financing Agreements" shall mean,
+collectively, the Master Loan Agreement and First Supplement to Master Loan
+Agreement, each, dated as of June 29, 2001, by and among CoBank, as lender, and
+Globe Communications, Inc., Interstate Telephone Company and Valley, as
+borrowers, and other documents pursuant to which CoBank established the CoBank
+Facility.
+
+          1.1.41 "Existing Wachovia Facility" shall mean the $22,750,000 senior
+secured credit facility provided pursuant to the Wachovia Financing Agreements
+by Wachovia, as lender, to the Subsidiaries of Broadband, as borrowers, under
+which the principal sum of $15,464,750 is outstanding and unpaid and under which
+no further sums may be borrowed.
+
+          1.1.42 "Existing Wachovia Financing Agreements" shall mean,
+collectively, the Credit Agreement, dated as of December 22, 1998, by and
+between Wachovia, as lender, the Subsidiaries of Broadband, as borrower, and
+Broadband, as guarantor, the Wachovia Guaranty, the Wachovia Security Documents
+and other documents pursuant to which Wachovia established the Wachovia
+Facility.
+
+          1.1.43 "Existing Wachovia Guaranty" shall mean the unconditional
+guaranty of payment and performance, dated as of December 22, 1998, executed and
+delivered by Broadband to Wachovia, pursuant to which Broadband guarantied the
+payment and performance by the Subsidiaries of Broadband of the indebtedness
+arising under the Wachovia Financing Agreements.
+
+          1.1.44 "Existing Wachovia Security Documents" shall mean those
+security agreements, mortgages and other documents of every kind and nature
+evidencing a Lien or other Encumbrance granted by Broadband in favor of Wachovia
+relating to the Wachovia Guaranty Claim.
+
+          1.1.45 "Final Order" shall mean an order of the Bankruptcy Court or
+any other court of competent jurisdiction (a) as to which the time to appeal,
+petition for certiorari or move for reargument or rehearing has expired and as
+to which no timely appeal, petition for certiorari or other proceedings for
+reargument or rehearing shall then be pending, or (b) if a timely appeal, writ
+of certiorari, reargument or rehearing thereof has been sought, which shall have
+been affirmed by the highest court to which such order was appealed, or
+certiorari shall have been denied or reargument or rehearing shall have been
+denied or resulted in no modification of such order, and the time to take any
+further appeal, petition for certiorari or move for reargument or rehearing
+shall have expired; provided, however, that the possibility that a motion under
+Rule 59 or Rule 60 of the Federal Rules of Civil Procedure, or any analogous
+rule under the Bankruptcy Rules or other rules governing procedure in cases
+before the court, if not the Bankruptcy Court, may be filed with respect to such
+order shall not cause such order not to be a Final Order.
+
+          1.1.46 "Fractional New Note" shall mean that portion of the principal
+amount of a New Note that (a) exceeds zero dollars or an integral multiple of
+$1,000, but is less than
+
+                                        6
+
+<PAGE>
+
+$1,000.00, and (b) would be distributed to the Holder of record of an Allowed
+Old Note Claim absent the limitation set forth in Section 6.4.6(a) on the
+denominations of New Notes to be issued pursuant to the Plan.
+
+          1.1.47 "General Unsecured Claim" shall mean any Unsecured Claim
+(including any Trade Claim, Rejection Claim and Indenture Trustee Claim) that is
+not a Priority Claim, a Priority Tax Claim or an Administrative Claim.
+
+          1.1.48 "Holder" shall mean an Entity holding a Claim or Interest.
+
+          1.1.49 "Houlihan Lokey" shall mean Houlihan Lokey Howard & Zukin
+Capital, the financial advisor to the Committee.
+
+          1.1.50 "Impaired Claim" shall mean a Claim identified in Section 3.2
+of the Plan as impaired under the Plan.
+
+          1.1.51 "Indenture Trustee Charging Lien" shall mean any Lien or other
+priority payment available to the Old Indenture Trustee pursuant to an Old
+Indenture against distributions made to Holders of Allowed Old Note Claims for
+payment of any fees, costs or disbursements incurred by such Old Indenture
+Trustee, to the extent not otherwise paid pursuant to the applicable terms of
+the Plan.
+
+          1.1.52 "Indenture Trustee Claim" shall mean a contractual Claim held
+by the Old Indenture Trustee for compensation, reimbursement of costs or
+disbursements (including without limitation the costs and expenses of its
+attorneys, accountants and financial advisors), or indemnity arising from the
+Old Indenture to which such Old Indenture Trustee is a party, regardless of
+whether such fees and expenses are incurred prior or subsequent to the Petition
+Date.
+
+          1.1.53 "Intercompany Financing Agreements" shall mean, collectively,
+the Subordinated Intercompany Credit Agreement Promissory Note, dated January 1,
+2002, by and between Knology, as lender, and Broadband, as borrower, the
+Promissory Note, dated October 1, 2000, between Knology, as lender, and
+Broadband, as borrower, the Intercompany Notes, the Intercompany Security
+Documents and other documents pursuant to which Knology established the
+Intercompany Secured Facility or the Intercompany Unsecured Facility.
+
+          1.1.54 "Intercompany Claims" shall mean the Claims arising from the
+indebtedness evidenced by the Intercompany Notes.
+
+          1.1.55 "Intercompany Notes" shall mean, collectively, the Intercompany
+Secured Note and the Intercompany Unsecured Note.
+
+          1.1.56 "Intercompany Secured Facility" shall mean the $34,500,000
+secured credit facility provided by Kno1ogy, as lender, to Broadband, as
+borrower, under which the principal sum of $13,024,128 is outstanding and
+unpaid.
+
+                                        7
+
+<PAGE>
+
+          1.1.57 "Intercompany Secured Note" shall mean the promissory note made
+by Broadband to the order of Knology to evidence loans made by Knology to
+Broadband pursuant to the Intercompany Secured Facility.
+
+          1.1.58 "Intercompany Security Documents" shall mean those security
+agreements, mortgages and other documents of every kind and nature evidencing a
+Lien or other Encumbrance granted by Broadband in favor of Knology relating to
+the Intercompany Claim arising from the indebtedness evidenced by the
+Intercompany Secured Note.
+
+          1.1.59 "Intercompany Unsecured Facility" shall mean the $10,000,000
+unsecured credit facility provided by Knology, as lender, to Broadband, as
+borrower.
+
+          1.1.60 "Intercompany Unsecured Note" shall mean the promissory note
+made by Broadband to the order of Kno1ogy to evidence loans made by Knology to
+Broadband pursuant to the Intercompany Unsecured Facility.
+
+          1.1.61 "Interest" shall mean an equity security in Broadband within
+the meaning of Section 101(16) of the Bankruptcy Code.
+
+          1.1.62 "Knology" shall mean Knology, Inc., a Delaware corporation, and
+the owner of 100% of the shares of the issued and outstanding common stock of
+Valley.
+
+          1.1.63 "Knology Common Stock" shall mean the 200,000,000 shares of
+$0.01 par value per share (voting) common stock of Kno1ogy authorized as of the
+Petition Date and to be authorized pursuant to the Kno1ogy Restated Certificate
+of Incorporation.
+
+          1.1.64 "Knology Restated Certificate of Incorporation" shall mean the
+Amended and Restated Certificate of Incorporation of Knology, in the form
+Exhibit G to the Offering Circular, to be adopted by Knology in accordance with
+applicable law on the Effective Date pursuant to the provisions of the Plan.
+
+          1.1.65 "Knology Stockholders Agreement" shall mean the Stockholders
+Agreement by and among Knology and certain stockholders of Knology, dated
+February 7, 2000, as amended from time to time.
+
+          1.1.66 "Lien" shall mean any conveyance in trust, assignment or pledge
+of, mortgage or lien on, security interest in, or charge or encumbrance of any
+kind against, any property.
+
+          1.1.67 "Limited Broadband/CoBank Guaranty" shall mean an unsecured
+unconditional guaranty of payment and performance to be executed by Reorganized
+Broadband and distributed pursuant to the provisions of the Plan for delivery to
+CoBank pursuant to which Reorganized Broadband will unconditionally guaranty
+(limited to an amount specified therein) the full payment and performance at
+maturity of the indebtedness of Globe Communications, Inc., Interstate Telephone
+Company and Valley to CoBank under that certain Master Loan Agreement dated as
+of June 29, 2001, as amended and as restructured in accordance with the terms
+and conditions set forth on pages 102-103 of the Offering Circular, the payment
+obligations under which shall be cumulative with any other Limited
+Broadband/CoBank
+
+                                        8
+
+<PAGE>
+
+Guaranty and shall be subordinated to Reorganized Broadband's obligations under
+the Amended and Restated Wachovia Guaranty.
+
+          1.1.68 "Lockup Agreement" shall mean that certain agreement dated
+July 11, 2002, a copy of which is attached as Exhibit H to the Offering
+Circular.
+
+          1.1.69 "Milbank" shall mean Milbank, Tweed, Hadley & McCloy, LLP, the
+attorneys for the Committee.
+
+          1.1.70 "New Equity Securities" shall mean, collectively, the
+13,000,000 additional shares of Series C Preferred Stock to be issued pursuant
+to Section 6.l.2(h) and the Series D Preferred Stock and the Series E Preferred
+Stock to be issued pursuant to Section 6.1.2(d).
+
+          1.1.71 "New Notes" shall mean the 12% Senior Unsecured Notes due 2009
+to be issued by Knology pursuant to the New Notes Indenture.
+
+          1.1.72 "New Notes Indenture" shall mean an Indenture between Knology,
+as issuer, and the New Notes Indenture Trustee, as trustee, pursuant to which
+the New Notes will be issued and which will have the terms and conditions set
+forth on pages 174-220 of the Offering Circular.
+
+          1.1.73 "New Notes Indenture Trustee" shall mean Wilmington Trust
+Company, if such Entity is eligible under the New Notes Indenture to serve as
+the trustee under said indenture, as trustee under the New Notes Indenture, and
+if such Entity is not so eligible, then such other Entity selected by Knology on
+or before the Effective Date which is so eligible, as trustee under the New
+Notes Indenture.
+
+          1.1.74 "Offering Circular" shall mean the Offering Circular and
+Consent Solicitation of the Proponents dated July 25, 2002, transmitted by the
+Proponents to certain Holders of Claims and Interests for the purpose of, among
+other things, soliciting acceptances of the Plan, as such Offering Circular may
+be amended, supplemented, or modified from time to time, and including all
+exhibits thereto.
+
+          1.1.75 "Old Note Claims" shall mean the claims arising from the
+indebtedness evidenced by the Old Notes.
+
+          1.1.76 "Old Notes" shall mean the 11? Senior Discount Notes due 2007,
+issued by Broadband pursuant to the Old Notes Indenture.
+
+          1.1.77 "Old Notes Indenture" shall mean the Indenture between
+Broadband, as issuer, and the Old Notes Indenture Trustee, as trustee, dated as
+of October 22, 1997, which indenture relates to the Old Notes.
+
+          1.1.78 "Old Notes Indenture Trustee" shall mean U.S. Trust Company, or
+its successor, as trustee under the Old Notes Indenture.
+
+                                        9
+
+<PAGE>
+
+          1.1.79 "Other Secured Claims" shall mean all Secured Claims against
+Broadband other than the Wachovia Guaranty Claim and the other Intercompany
+Secured Claim.
+
+          1.1.80 "Petition Date" shall mean the date on which the petition for
+relief is filed commencing the Case.
+
+          1.1.81 "Plan" shall mean this Joint Plan of Reorganization and the
+Plan Documents, including the schedules and exhibits hereto and thereto, each of
+which shall constitute provisions of this Joint Plan of Reorganization as if
+fully set forth herein, as the same may be amended, modified or supplemented
+from time to time by any duly authorized amendment or modification to the extent
+permitted by the terms hereof and by the Bankruptcy Code and Bankruptcy Rules.
+
+          1.1.82 "Plan Documents" shall mean those documents identified on
+Exhibit A.
+
+          1.1.83 "Plan Securities" shall mean, collectively, the New Notes, the
+Series C Preferred Stock to be authorized pursuant to the Knology Restated
+Certificate of Incorporation, the Series D Preferred Stock and the Series E
+Preferred Stock.
+
+          1.1.84 "Priority Claim" shall mean a Claim which is entitled to
+priority treatment under Sections 507(a)(3), (4), (5), (6), (7) or (9) of the
+Bankruptcy Code.
+
+          1.1.85 "Priority Tax Claim" shall mean any Claim of a governmental
+unit specified in Section 507(a)(8) of the Bankruptcy Code.
+
+          1.1.86 "Professional Person" shall mean (a) any professional retained
+in the Case pursuant to an order of the Bankruptcy Court in accordance with
+Sections 327 or 1103 of the Bankruptcy Code, (b) any attorney or accountant
+seeking compensation or reimbursement of expenses pursuant to Section 503(b) of
+the Bankruptcy Code, (c) any Entity whose fees and expenses are subject to
+approval by the Bankruptcy Court as reasonable pursuant to Section 1129(a)(4) of
+the Bankruptcy Code, and (d) any attorney, accountant or financial advisor
+holding an Indenture Trustee Claim or a Committee Claim.
+
+          1.1.87 "Proponents" shall mean Broadband and Knology.
+
+          1.1.88 "Registrar" shall mean the registrar under the Old Indenture of
+transfers and exchanges of Old Notes.
+
+          1.1.89 "Rejection Claims" shall mean the Claims, if any, of parties
+other than Broadband to executory contracts or unexpired leases with Broadband
+which are rejected or deemed rejected pursuant to a Final Order.
+
+          1.1.90 "Reorganized Broadband" shall mean Broadband on and after the
+Effective Date.
+
+          1.1.91 "Retiree" shall mean a person who retired from employment with
+Broadband before the Petition Date and was and continues to be eligible for
+medical, death,
+
+                                       10
+
+<PAGE>
+
+and/or insurance benefits provided in the Retiree Benefit Plans as required by
+Section 1114 of the Bankruptcy Code.
+
+          1.1.92 "Retiree Administrative Claim" shall mean the Claim of a
+Retiree under the Retiree Benefit Plans, to the extent such Claim is entitled
+to treatment as an Administrative Claim.
+
+          1.1.93 "Retiree Benefit Plans" shall mean any plan or policy of
+Broadband in full force and effect as of the Petition Date pursuant to which
+medical, death, and/or insurance benefits are provided to Retirees, as any such
+plan or policy may have been modified during the pendency of the Case.
+
+          1.1.94 "Retiree Claim" shall mean the Claim of a Retiree under the
+Retirement Benefit Plans.
+
+          1.1.95 "SCANA" shall mean SCANA Communications Holdings, Inc., a
+Delaware corporation, and any Affiliate of said corporation determined as if
+said corporation were a debtor concerning which a case under the Bankrupt Code
+had been commenced.
+
+          1.1.96 "Secured Claim" shall mean any Claim that is secured by a Lien
+on property in which the Estate has an interest or that is subject to setoff
+under Section 553 of the Bankruptcy Code, to the extent of the value of such
+other Claim Holder's interest in the Estate's interest in such property or to
+the extent of the amount subject to setoff, as applicable, as determined
+pursuant to Section 506 of the Bankruptcy Code.
+
+          1.1.97 "Series C Preferred Stock" shall mean the 60,000,000 shares of
+Series C, $0.01 par value per share, preferred stock of Knology authorized as of
+the Petition Date and to be authorized pursuant to the Kno1ogy Restated
+Certificate of Incorporation.
+
+          1.1.98 "Series D Preferred Stock" shall mean the 34,000,000 shares of
+Series D, $0.01 par value per share, preferred stock to be authorized pursuant
+to the Knology Restated Certificate of Incorporation, to have those
+designations, preferences and rights set forth on pages 224-225 of the Offering
+Circular and to be issued pursuant to the Plan.
+
+          1.1.99 "Series E Preferred Stock" shall mean the 25,000,000 shares of
+Series E, $0.01 par value per share, preferred stock to be authorized pursuant
+to the Knology Restated Certificate of Incorporation, to have those
+designations, preferences and rights set forth in pages 225-226 to the Offering
+Circular and to be issued pursuant to the Plan.
+
+          1.1.100 "Stockholders Agreement" shall mean that certain Stockholders
+Agreement, dated February 7, 2000, by and among Knology and its stockholders, as
+amended from time to time.
+
+          1.1.101 "Stockholders Agreement Amendment" shall mean the amendment to
+the Stockholders Agreement, in substantially the form of Exhibit C to the
+Offering Circular, to be entered into by the stockholders of Knology.
+
+                                       11
+
+<PAGE>
+
+          1.1.102 "Subsidiaries" shall mean any and all Entities of which 50% or
+more of the outstanding equity having ordinary voting power to elect a majority
+of the board of directors or other managers of such Entity is owned directly or
+indirectly by Broadband or Reorganized Broadband.
+
+          1.1.103 "Trade Claim" shall mean any Unsecured Claim arising from or
+with respect to the sale and delivery of goods or the rendition of services to
+Broadband prior to the Petition Date.
+
+          1.1.104 "Unimpaired Claim" shall mean a Claim in a Class identified in
+Section 3.1 of the Plan as unimpaired under the Plan.
+
+          1.1.105 "Unsecured Claim" shall mean any Claim against Broadband that
+is not a Secured Claim.
+
+          1.1.106 "Valley" shall mean Valley Telephone Company, Inc., a Delaware
+corporation and the holder of 100% of the shares of the issued and outstanding
+Common Stock.
+
+          1.1.107 "Wachovia" shall mean Wachovia Bank, National Association,
+formerly known as First Union National Bank.
+
+          1.1.108 "Wachovia Guaranty Claim" shall mean the Claim arising from
+the indebtedness evidenced by the Wachovia Guaranty.
+
+          1.1.109 "Wachovia Term Sheet" shall mean the summary of the terms and
+conditions of the restructuring of the Existing Wachovia Facility, including
+terms and conditions of the guaranty thereof and security therefor to be
+provided by Broadband, set forth on Annex C-1 to the Lockup Agreement.
+
+     1.2 INTERPRETATION AND RULES OF CONSTRUCTION. Unless otherwise specified,
+all section, article, schedule and exhibit references in the Plan are to the
+respective section in, article of, or schedule or exhibit to, the Plan, as the
+same may be amended, waived, or modified from time to time in accordance with
+the provisions hereof. The rules of construction contained in Section 102 of the
+Bankruptcy Code shall apply to the construction of the Plan (excluding the Plan
+Documents, unless made applicable thereto pursuant to an express provision
+thereof). When anything is described or referred to in this Plan in general
+terms and one or more examples or components of what has been described or
+referred to generally is associated with that description (whether or not
+following the word "including"), the examples or components shall be deemed
+illustrative only and shall not be construed as limiting the generality of the
+description or reference in any way. All personal pronouns used in the Plan,
+whether used in the masculine, feminine or neuter gender, shall include all
+other genders; the singular shall include the plural, and the plural shall
+include the singular.
+
+     1.3 OTHER TERMS. The words "herein," "hereof," "hereto," "hereunder," and
+others of similar import refer to the Plan as a whole and not to any particular
+section, subsection, or clause contained in the Plan. A capitalized term used
+herein that is not defined herein shall have the meaning ascribed to that term,
+if any, in the Bankruptcy Code or Bankruptcy Rules. The term "Holder of record"
+with respect to any Old Note Claim as of any record date shall
+
+                                       12
+
+<PAGE>
+
+mean the holder of record on such record date of the Old Note evidencing such
+Old Note Claim (as reflected in the register maintained by the Registrar under
+the Old Notes Indenture).
+
+     1.4 HEADINGS. Headings are used in the Plan for convenience of reference
+only and shall not constitute a part of the Plan for any other purpose. Headings
+shall not limit or otherwise affect the provisions of the Plan.
+
+     1.5 INCORPORATION OF EXHIBITS. Each of the Plan Documents constituting an
+exhibit to the Offering Circular or an exhibit to the Plan is incorporated into
+and is a part of the Plan as if set forth in full herein.
+
+                                   ARTICLE II
+
+                     Classification of Claims and Interests
+
+     2.1 CLAIMS AND EQUITY INTERESTS CLASSIFIED. For purposes of voting on and
+making distributions under the Plan, all Claims (except for Administrative
+Claims and Priority Tax Claims) and all Interests shall be classified as set
+forth in Section 2.3.
+
+     2.2 ADMINISTRATIVE CLAIMS AND PRIORITY TAX CLAIMS. As provided in Section
+1123(a)(1) of the Bankruptcy Code, Administrative Claims and Priority Tax Claims
+against Broadband shall not be classified for purposes of voting on or receiving
+distributions under the Plan. All such Claims shall be treated separately as
+unclassified Claims on the terms set forth in Article IV of the Plan.
+
+     2.3 CLAIMS AGAINST AND EQUITY INTERESTS IN BROADBAND.
+
+          2.3.1 Class 1 Claims. Class 1 consists of all Priority Claims.
+
+          2.3.2 Class 2 Claims. Class 2 consists of all Old Note Claims other
+than Old Note Claims held of record on July 25, 2002, by SCANA, The Burton
+Partnership, Limited Partnership, The Burton Partnership (QP), Limited
+Partnership or Valley.
+
+          2.3.3 Class 3 Claims. Class 3 Claims consists of the Old Note Claims
+held of record on July 25, 2002, by The Burton Partnership, Limited Partnership
+or The Burton Partnership (QP), Limited Partnership.
+
+          2.3.4 Class 4 Claims. Class 4 Claims consists of the Old Note Claims
+held of record on July 25, 2002, by SCANA.
+
+          2.3.5 Class 5 Claims. Class 5 Claims consists of the Old Note Claims
+held of record on July 25, 2002, by Valley.
+
+          2.3.6 Class 6 Claims. Class 6 consists of the Wachovia Guaranty Claim.
+
+          2.3.7 Class 7 Claims. Class 7 consists of all Other Secured Claims.
+For purposes of the Plan, all Other Secured Claims held by a single Holder are
+designated as a separate subclass.
+
+                                       13
+
+<PAGE>
+
+          2.3.8 Class 8 Claims. Class 8 consists of all General Unsecured
+Claims.
+
+          2.3.9 Class 9 Claims. Class 9 consists of the Intercompany Claims.
+
+          2.3.10 Class 10 Interests. Class 10 consists of all Interests of
+Holders of Common Stock issued and outstanding on the Petition Date.
+
+                                   ARTICLE III
+
+        Identification of Impaired Classes of Claims and Equity Interests
+
+     3.1 UNIMPAIRED CLASSES OF CLAIMS. With the exception of the impaired
+Classes specified in Section 3.2 of the Plan, all Classes of Claims and
+Interests are unimpaired under the Plan.
+
+     3.2 IMPAIRED CLASSES OF CLAIMS AND EQUITY INTERESTS. Class 2, Class 3,
+Class 4, Class 5, Class 6 and Class 9 Claims are impaired under the Plan.
+
+     3.3 IMPAIRMENT CONTROVERSIES. If a controversy arises as to whether any
+Claim or Interest, or any Class of Claims of Interests, is impaired under the
+Plan, the Bankruptcy Court shall, after notice and a hearing, resolve such
+controversy.
+
+                                   ARTICLE IV
+
+               Treatment of Administrative and Priority Tax Claims
+
+     4.1 PAYMENT OF ADMINISTRATIVE CLAIMS.
+
+          4.1.1 Administrative Claims in General. Subject to the provisions of
+Sections 330 and 331 of the Bankruptcy Code, each Holder of an Allowed
+Administrative Claim shall receive on the Distribution Date, in full
+satisfaction of such Allowed Administrative Claim, Cash equal to the amount of
+such Allowed Claim, unless such Holder shall have agreed to different treatment
+of such Claim; provided that Allowed Administrative Claims representing
+obligations incurred by Broadband in the ordinary course of business or
+otherwise assumed by Broadband pursuant to the Plan will be paid or performed by
+Broadband in accordance with the terms and conditions of each agreement relating
+thereto. All Administrative Claims of Professional Persons arising after the
+Confirmation Date shall be paid as provided in Section 13.5.
+
+          4.1.2 Retire Administrative Claims. Holders of Retiree Administrative
+Claims shall continue to receive benefits provided for by the terms and
+conditions of the Retiree Benefit Plans.
+
+     4.2 PAYMENT OF PRIORITY TAX CLAIMS. Unless otherwise agreed between the
+Holder of a Priority Tax Claim and Broadband, in accordance with Section
+l129(a)(9)(C) of the Bankruptcy Code, each Holder of an Allowed Priority Tax
+Claim shall receive, at Broadband's option, either (a) Cash, in the full amount
+of such Allowed Priority Tax Claim, on the Distribution Date or (b) deferred
+payments of Cash in the full amount of such Allowed Priority Tax Claim, payable
+in equal annual principal installments beginning the first anniversary
+
+                                       14
+
+<PAGE>
+
+of the Effective Date and ending on the earlier of the sixth anniversary of the
+Effective Date or the sixth anniversary of the date of the assessment of such
+Claim, together with interest (payable quarterly in arrears) on the unpaid
+balance of such Allowed Priority Tax Claim at an annual rate equal to the rate
+applicable to Treasury Bills on the Confirmation Date or such other rate as may
+be set by the Bankruptcy Court at the Confirmation Hearing. The amount of any
+Allowed Priority Tax Claim for which the time for filing a return, if required,
+under applicable law or under any authorized extension thereof, has not expired
+on or prior to the Effective Date, and the rights of the Holder of such Claim,
+if any, to payment in respect thereof shall (i) be determined in the manner in
+which the amount of such Claim and the rights of the Holder of such Claim would
+have been resolved or adjudicated if the Case had not been commenced, (ii)
+survive the Effective Date and consummation of the Plan as if the Case had not
+been commenced, and (iii) not be discharged pursuant to Section 1141 of the
+Bankruptcy Code.
+
+                                    ARTICLE V
+
+                        Treatment of Claims and Interests
+
+     5.1 CLAIMS AGAINST AND EQUITY INTERESTS IN BROADBAND.
+
+          5.1.1 Class 1. Class 1 Claims are Unimpaired. Unless otherwise agreed
+between the Holder of an Allowed Priority Claim and Broadband, each Holder of an
+Allowed Priority Claim under Sections 507(a)(3), (4), (5), (6), (7) or (9) of
+the Bankruptcy Code shall receive on the Distribution Date Cash in the full
+amount of such Allowed Priority Claim.
+
+          5.1.2 Class 2. Class 2 Claims are Impaired. Each Holder of record of
+an Allowed Class 2 Claim on the Distribution Record Date (as reflected in the
+register maintained by the Old Notes Registrar) shall receive on the
+Distribution Date on account of and in exchange for each $1,000 (due at
+maturity) of Old Notes evidencing the indebtedness from which such Holder's
+Allowed Class 2 Claim arises, subject to the Indenture Trustee Charging Lien to
+which the Old Notes Indenture Trustee is entitled pursuant to Section 6.4.2, (i)
+$586.5498 aggregate principal amount of New Notes (subject to the terms and
+conditions of the New Notes Indenture), and (ii) 33.1789 shares of Series D
+Preferred Stock or, if the Holder of record of the Allowed Class 2 Claim on the
+Distribution Record Date is SCANA and SCANA shall have agreed to accept Series E
+Preferred Stock in lieu of Series D Preferred Stock, 33.1789 shares of Series E
+Preferred Stock.
+
+          5.1.3 Class 3. Class 3 Claims are Impaired. Each Holder of record of
+an Allowed Class 3 Claim on the Distribution Record Date (as reflected in the
+register maintained by the Old Notes Registrar) shall receive on the
+Distribution Date on account of and in exchange for each $1,000 (due at
+maturity) of Old Notes evidencing the indebtedness from which such Holder's
+Allowed Class 3 Claim arises subject to the Indenture Trustee Charging Lien to
+which the Old Notes Indenture Trustee is entitled pursuant to Section 6.4.2, (i)
+$356.6641 aggregate principal amount of New Notes (subject to the terms and
+conditions of the New Notes Indenture), and (ii) 187.6864 shares of Series D
+Preferred Stock.
+
+          5.1.4 Class 4. Class 4 Claims are Impaired. The Holder of record of
+the Allowed Class 4 Claim on the Distribution Record Date (as reflected in the
+register maintained
+
+                                       15
+
+<PAGE>
+
+by the Old Notes Registrar) shall receive on the Distribution Date, to the
+extent that the indebtedness from which such Holder's Allowed Class 4 Claim
+arises is evidenced by Old Notes in an amount less than or equal to $115,100,000
+(due at maturity), on account of and in exchange for each $1,000 (due at
+maturity) of such Old Notes, subject to the Indenture Trustee Charging Lien to
+which the Old Notes Indenture Trustee is entitled pursuant to Section 6.4.2, (i)
+$356.6641 aggregate principal amount of New Notes (subject to the terms and
+conditions of the New Notes Indenture), and (ii) 187.6864 shares of Series E
+Preferred Stock, and to the extent that the indebtedness from which such
+Holder's Allowed Class 4 Claim arises is evidenced by Old Notes in an amount
+greater than $115,100,000 (due at maturity), subject to the Indenture Trustee
+Charging Lien to which the Old Notes Indenture Trustee is entitled pursuant to
+Section 6.4.2, (i) 586.5498 aggregate principal amount of New Notes (subject to
+the terms and conditions of the New Notes Indenture), and (ii) 33.1789 shares of
+Series E Preferred Stock.
+
+          5.1.5 Class 5. Class 5 Claims are Impaired. The Holder of record of
+the Allowed Class 5 Claim on the Distribution Record Date (as reflected in the
+register maintained by the Old Notes Registrar) shall receive on the
+Distribution Date on account of and in exchange for 100% of its Old Note Claims,
+for delivery to CoBank in connection with the consummation of the transaction
+described in Section 10.1.5, a Limited Broadband/CoBank Guaranty limited in
+amount to $18,474,000.
+
+          5.1.6 Class 6. Class 6 Claims are Impaired. The Holder of the Allowed
+Class 6 Claim shall receive, on account of and in exchange for the Wachovia
+Guaranty Claim, and in connection with the consummation of the transaction
+described in Section 10.1.4, the Amended and Restated Wachovia Guaranty and the
+Amended and Restated Wachovia Security Documents.
+
+          5.1.7 Class 7. Class 7 Claims are Unimpaired. At Broadband's option,
+each Holder of an Allowed Class 7 Claim shall either (a) retain unaltered the
+legal, equitable and contractual rights to which such Allowed Class 7 Claim
+entitles the Holder thereof or (b) be treated in accordance with Section 1124(2)
+of the Bankruptcy Code.
+
+          5.1.8 Class 8. Class 8 Claims are Unimpaired. To the extent any
+Allowed General Unsecured Claim has not been paid or satisfied by performance in
+full prior to the Effective Date, Reorganized Broadband shall pay such Allowed
+General Unsecured Claim in full in Cash or satisfy such Allowed General
+Unsecured Claim by performance, on the Distribution Date if such Allowed General
+Unsecured Claim is matured, or if such Allowed General Unsecured Claim is not
+matured, in accordance with its respective terms, or in either case as otherwise
+agreed by the Holder of the Allowed General Unsecured Claim and Reorganized
+Broadband, or provide such other treatment as will render such Allowed General
+Unsecured Claim unimpaired in accordance with Section 1124 of the Bankruptcy
+Code, provided that Reorganized Broadband shall pay any General Unsecured Claim
+which is subject to approval by the Bankruptcy Court as reasonable pursuant to
+Section 1129(a)(4) of the Bankruptcy Code upon entry of a Final Order of the
+Bankruptcy Court allowing such Claim and approving such Claim as reasonable. The
+reasonableness of any General Unsecured Claim held by any Entity which is
+subject to approval by the Bankruptcy Court as reasonable pursuant to Section
+1129(a)(4) of the Bankruptcy Code which shall have made an application for
+approval of such Claim as reasonable prior to ten (10) days before the
+commencement of the Confirmation Hearing shall be
+
+                                       16
+
+<PAGE>
+
+determined, in the discretion of the Bankruptcy Court, at the Confirmation
+Hearing or as soon thereafter as such application may be considered.
+
+          5.1.9 Class 9. Class 9 Claims are Impaired. The Holder of the Allowed
+Class 9 Claims on the Distribution Record Date shall receive on the Distribution
+Date on account of and in exchange for 100% of its Intercompany Claims, for
+delivery to CoBank in connection with the consummation of the transaction
+described in Section 10.1.5, a Limited Broadband/CoBank Guaranty limited in
+amount to $4,326,000.
+
+          5.1.10 Class 10. Class 10 Interests are Unimpaired. Each Holder of
+record of an Allowed Class 10 Interest on the Distribution Record Date shall
+retain unaltered the legal, equitable and contractual rights to which such
+Allowed Class 10 Interest entitles the Holder thereof.
+
+     5.2 SATISFACTION OF CLAIMS AND INTERESTS. The treatment of, and
+consideration to be received by, Holders of Allowed Claims and Allowed Interests
+pursuant to this Article V will be in full satisfaction, release and discharge
+of and exchange for their respective Claims against or Interests in Broadband.
+
+                                   ARTICLE VI
+
+                         Means for Execution of the Plan
+
+     6.1 GENERAL IMPLEMENTATION MATTERS.
+
+          6.1.1 General Corporate Matters. Reorganized Broadband and Knology
+shall each take such action as is necessary under the laws of the State of
+Delaware, federal law and other applicable law to effect the terms and
+provisions of the Plan. Among other actions, on the Effective Date, Reorganized
+Broadband and Knology shall each file its respective Restated Certificate of
+Incorporation with the Secretary of State of Delaware in accordance with
+Sections 102 and 103 of the Delaware General Corporation Law.
+
+          6.1.2 Effective Date Transactions. On the Effective Date, the
+following transactions will be effected:
+
+               (a) Knology and the New Notes Indenture Trustee shall enter into
+          the New Notes Indenture, and Knology shall execute and/or deliver to
+          the New Notes Indenture Trustee all instruments, agreements, legal
+          opinions and other operative documents required by and relative to the
+          New Notes Indenture.
+
+               (b) Knology shall deliver to the Disbursing Agent for Old Note
+          Claims, for distribution to each Holder of a Claim in Class 2, Class 3
+          or Class 4, counterparts of a joinder agreement pursuant to which such
+          Holder may become a party to the Stockholders Agreement, as amended by
+          the Stockholders Agreement Amendment.
+
+               (c) Knology will direct the New Indenture Trustee to issue,
+          authenticate and deliver to the Disbursing Agent for Old Note Claims,
+          for
+
+                                       17
+
+<PAGE>
+
+          distribution in accordance with the Plan, the New Notes required by
+          the provisions of Article V.
+
+               (d) Knology shall take all action necessary and appropriate to
+          effect the issuance and delivery to the Disbursing Agent for Old Note
+          Claims, for distribution in accordance with the Plan, of the number of
+          shares of Series D Preferred Stock and Series E Preferred Stock
+          required by the provisions of Article V which shares, when so issued
+          and delivered, shall be validly issued, fully paid and non-assessable.
+
+               (e) Broadband shall execute and deliver to the Disbursing Agent
+          for the Class 6 Claim, for distribution in accordance with the Plan,
+          the Amended and Restated Wachovia Guaranty and the Amended and
+          Restated Wachovia Security Documents required by the provisions of
+          Article V.
+
+               (f) Broadband shall execute and deliver to the Disbursing Agents
+          for the Class 5 Claim and the Class 9 Claims, respectively, for
+          distribution in accordance with the Plan, the Limited Broadband/CoBank
+          Guaranties required by the provisions of Article V.
+
+               (g) Except as otherwise provided in Sections 6.4.2, 11.4 or 11.7,
+          the Old Notes Indenture shall be terminated and canceled.
+
+               (h) Knology will take all action necessary and appropriate to
+          effect the issuance and delivery of 13,000,000 shares of Series C
+          Preferred Stock to the purchasers thereof as required to perform its
+          obligations pursuant to the agreements described in Section 10.1.6,
+          which shares, when so issued and delivered, shall be validly issued,
+          fully paid and non-assessable.
+
+               (i) The Knology Stockholders Agreement shall be amended as
+          necessary to satisfy the condition precedent set forth in Section
+          10.1.7.
+
+               (j) The Intercompany Notes shall be surrendered to Broadband and
+          thereupon cancelled, and the Intercompany Financing Agreements shall
+          be terminated.
+
+               (k) Knology and Broadband shall enter into the Equity Commitment.
+
+     6.2 REORGANIZED BROADBAND AND KNOLOGY.
+
+          6.2.1 Reconstituted Board of Directors of Reorganized Broadband. On
+and after the Effective Date, the Board of Directors of Reorganized Broadband
+shall remain at three (3) members. The initial Board of Directors of Reorganized
+Broadband shall consist of the Board of Directors of Broadband on the day
+immediately prior to the Effective Date. If a vacancy among the initial members
+of the Board of Directors of Reorganized Broadband arises, such vacancy shall be
+filled in accordance with the Broadband Restated Certificate of Incorporation
+and the Broadband Bylaws.
+
+                                       18
+
+<PAGE>
+
+          6.2.2 Officers of Reorganized Broadband. The corporate officers of
+Broadband shall serve as the initial officers of Reorganized Broadband on the
+Effective Date. The selection of officers of Reorganized Broadband after the
+Effective Date shall be as provided in the Restated Certificate of Incorporation
+and the Broadband Bylaws.
+
+          6.2.3 Board of Directors of Knology. On and after the Effective Date,
+the Board of Directors of Knology shall remain at nine (9) members, provided
+that following the Effective Date, the holders of the Series D Preferred Stock
+(other than the Burton Partnership Limited Partnership, The Burton Partnership
+(QP), Limited Partnership and SCANA) will be entitled, pursuant to the terms of
+the New Notes Indenture, to designate an additional member of the Board of
+Directors to serve a three (3) year term. The initial Board of Directors of
+Knology shall consist of the Board of Directors of Knology on the day
+immediately prior to the Effective Date. If a vacancy among the members of the
+Board of Directors of Knology arises, such vacancy shall be filled in accordance
+with the Knology Restated Certificate of Incorporation and the Knology Bylaws.
+
+          6.2.4 Officers of Knology. The corporate officers of Knology shall
+continue to serve as the officers of Knology on the Effective Date. The
+selection of officers of Knology after the Effective Date shall be as provided
+in Knology's certificate of incorporation and bylaws.
+
+     6.3 CORPORATE ACTION
+
+          6.3.1 Broadband. As of the Effective Date, Reorganized Broadband shall
+be deemed to have adopted the Broadband Restated Certificate of Incorporation.
+The Broadband Restated Certificate of Incorporation shall, among other things,
+contain appropriate provisions consistent with the Plan and other Plan Documents
+(a) prohibiting the issuance of nonvoting equity securities as required by
+Section 1123(a)(6) of the Bankruptcy Code, and (b) implementing such other
+matters as Broadband believes are necessary and appropriate to effectuate the
+terms and conditions of the Plan. Except as specifically provided in the Plan,
+the adoption of the Broadband Restated Certificate of Incorporation or similar
+constituent documents, the amendment of the Bylaws for Reorganized Broadband,
+the selection of directors and officers for Reorganized Broadband, the
+distribution of Cash, and the adoption, execution and delivery of all contracts,
+instruments, indentures, modifications and other agreements related to any of
+the foregoing, and other matters provided for under the Plan involving corporate
+action to be taken by or required of Reorganized Broadband shall be deemed to
+have occurred and be effective as provided herein, and shall be authorized and
+approved in all respects without any requirement of further action by
+stockholders, officers or directors of Reorganized Broadband. To the extent
+required by law, the Board of Directors of Reorganized Broadband shall take such
+action as may be necessary from time to time to approve the such action, if any,
+as may be required to meet the requirements of the Plan.
+
+          6.3.2 Knology. As of the Effective Date, Knology shall have taken such
+corporate action, subject to the approval of its stockholders as set forth in
+Section 10.1.7, as shall be required to adopt the Knology Restated Certificate
+of Incorporation containing provisions consistent with the Plan and other Plan
+Documents and implementing such matters as Knology believes are necessary and
+appropriate to effectuate the terms and conditions of the Plan, including
+provisions authorizing the issuance and distribution of the New Equity
+Securities. The
+
+                                       19
+
+<PAGE>
+
+Board of Directors of Knology shall take such action as shall be required to
+effect the adoption, approval, execution and delivery of all contracts,
+instruments, indentures, modifications and other agreements related to any of
+the foregoing and all other matters provided for under the Plan involving
+corporate action to be taken by or requited of Knology, including such action as
+may be necessary from time to time to approve the issuance of the Plan
+Securities and such other action, if any, as may be required to meet the
+requirements of the Plan, the Plan Documents or any of the Plan Securities
+issued pursuant thereto.
+
+     6.4 DISTRIBUTIONS
+
+          6.4.1 Generally. All distributions required hereunder to Holders of
+Allowed Claims shall be made by a Disbursing Agent pursuant to a Disbursing
+Agreement, provided that no Disbursing Agreement shall be required if
+Reorganized Broadband makes such distributions or if the Old Indenture Trustee
+makes such distributions pursuant to Section 6.4.2. The Disbursing Agent may
+designate, employ or contract with other Entities to assist in or perform the
+distribution of the property to be distributed. The Disbursing Agent and such
+other Entities shall serve without bond.
+
+          6.4.2 Services of Old Indenture Trustee. The Old Indenture Trustee (or
+its nominees, designees or affiliates) under the Old Notes Indenture is
+designated the Disbursing Agent for purposes of effecting distributions to
+Holders of Old Note Claims, subject to its acceptance of such designation. In
+the event and to the extent of such acceptance (except where the context
+otherwise requires), any reference in this Plan to "Disbursing Agent" shall
+instead be deemed to refer to the Old Indenture Trustee (or its nominee,
+designee or affiliate). In the event and to the extent that the Old Indenture
+Trustee is so designated as a Disbursing Agent with respect to Old Note Claims,
+(i) distributions to be made to such Old Note Claim Holders under the Plan will
+be made to the Old Indenture Trustee in accordance with the applicable Old
+Indenture, applicable law and the Plan, and (ii) the Old Indenture Trustee
+shall, as soon as reasonably practicable, in accordance with the Old Indenture,
+applicable law and the Plan, deliver the distributions, excluding such property
+as may be reserved by the Old Indenture Trustee to satisfy its compensation and
+those costs, fees and expenses for which the Old Indenture Trustee is entitled
+to an Indenture Trustee Charging Lien under such Old Indenture, the Plan or
+applicable law, to each such Old Note Claim Holder, subject to the provisions of
+Section 6.4.4. To secure the payment of such compensation of, and fees, costs
+and disbursements incurred by the Old Indenture Trustee, if any, which is not
+paid in Cash by Broadband or Reorganized Broadband pursuant to the provisions of
+the Plan, the Old Indenture or applicable law, such Old Indenture Trustee shall
+have and retain, to the extent provided in the Old Notes Indenture or under
+applicable law, an Indenture Trustee Charging Lien for its compensation and
+fees, costs and disbursements incurred, on the property to be distributed for
+the benefit of the Old Note Claim Holders under the Old Notes Indenture. If the
+Old Indenture Trustee does not act as the Disbursing Agent for distributions to
+the Holders of the Old Note Claims arising under the Old Notes issued pursuant
+to the Old Notes Indenture, then the Disbursing Agent designated for
+distributions to such Holders shall disburse the distributions to such Holders,
+in compliance with such direction as may be given by the Old Indenture Trustee
+as may be necessary to permit such Old Indenture Trustee to retain and enforce
+its Indenture Trustee Charging Lien and otherwise in accordance with applicable
+law and the Plan.
+
+                                       20
+
+<PAGE>
+
+          6.4.3 Distributions to be Made to Holders as of Record Dates. Only
+Holders of record of Old Note Claims as of the Distribution Record Date shall be
+entitled to receive the distributions provided for in Article V of the Plan. As
+of the close of business on the Distribution Record Date, the transfer ledgers
+in respect of the Old Notes shall be closed for purposes of making the
+distributions required in accordance with the provisions of Article V.
+Reorganized Broadband, Knology, the Disbursing Agents, and their respective
+agents shall have no obligation to recognize any transfer of Old Notes occurring
+after such date for purposes of such distributions. Reorganized Broadband,
+Knology, the Disbursing Agents, and their respective agents shall recognize and,
+for purposes of making such distributions under the Plan, deal only with those
+Holders of record reflected on the transfer ledgers maintained by the Registrar
+for the Old Notes as of the close of business on the Distribution Record Date,
+provided that nothing contained herein shall be deemed to prohibit or otherwise
+restrict the right of any such Holder to transfer such securities at any time.
+
+          6.4.4 Procedures for Distribution to Holders of Old Note Claims.
+
+               (a) On the Effective Date, Knology shall direct the New Indenture
+          Trustee to issue, authenticate and deliver to Disbursing Agent
+          designated for distributions to Holders of Old Note Claims
+          certificates representing the New Notes and shall take all action
+          necessary and appropriate to effect delivery to the Disbursing Agent
+          of the Series D Preferred Stock and the Series E Preferred Stock as
+          provided for under the Plan, together with counterparts of the joinder
+          agreement referred to in Section 6.1.2(b). As soon as practicable
+          after the Effective Date, the Disbursing Agent, in accordance with the
+          Disbursing Agreement, if any, and the Plan, and subject to the
+          provisions of Section 6.4.2, shall deliver such certificates to the
+          Holders that have validly surrendered such Old Notes held by such
+          Holders.
+
+               (b) As a condition to receiving from the Disbursing Agent
+          distributions provided for on the Distribution Date under the Plan in
+          respect of the Old Notes, any Holder thereof shall be required to
+          surrender its certificates or other instruments representing such
+          securities, accompanied by duly executed and completed letters of
+          transmittal (including such Holder's election to become, pursuant to
+          the joinder agreement referred to in Section 6.1.2(b), or not to
+          become, a party to the Stockholders Agreement, as amended by the
+          Stockholders Agreement Amendment), to the Disbursing Agent. All other
+          such instruments surrendered to the Disbursing Agent shall be
+          canceled, marked "Compromised and Settled Only as Provided in the
+          Joint Plan of Reorganization for Knology Broadband, Inc. and Knology,
+          Inc." and delivered to Reorganized Broadband. The Disbursing Agent
+          shall make such distributions only to Holders that have surrendered
+          such instruments as herein provided. Except as provided in Section
+          6.4.4(c), no such distribution shall be made to any such Holder that
+          has not so surrendered such instruments held by it.
+
+               (c) Unless waived by the Disbursing Agent, any Holder of an Old
+          Note Claim which has been lost, stolen, mutilated or destroyed shall,
+          in lieu of surrendering such instrument as provided in this section,
+          deliver to the Disbursing
+
+                                       21
+
+<PAGE>
+
+          Agent (i) evidence satisfactory to the Disbursing Agent of the loss,
+          theft, mutilation or destruction of such instrument and (ii) such
+          security or indemnity as may be reasonably required by Broadband,
+          Knology and the Disbursing Agent to hold Reorganized Broadband,
+          Knology and the Disbursing Agent harmless from any damages,
+          liabilities, or costs incurred in treating such Entity as a Holder of
+          such Old Note Claim. Thereafter, such Entity shall be treated as the
+          Holder of such instrument for all purposes of the Plan and shall, for
+          all purposes under this Plan, be deemed to have surrendered the
+          instrument representing such Old Note Claim.
+
+               (d) Any Holder of an Old Note Claim who shall not have
+          surrendered or be deemed to have surrendered the certificates or other
+          instruments representing such security within twenty-four (24) months
+          after the Effective Date shall have its Claim based on or Interest in
+          such security disallowed, shall receive no distribution on such Claim
+          under this Plan and shall be forever barred from asserting any claim
+          or interest the on. In such case, the Disbursing Agent shall return to
+          Knology, and Knology shall retain, all certificates or other
+          instruments representing the Plan Securities allocable to such
+          non-surrendering Holders (excluding such certificates or other
+          instruments as may be reserved by any Old Indenture Trustee pursuant
+          to an Indenture Trustee Charging Lien in accordance with Section
+          6.4.2). All such certificates or other instruments representing Plan
+          Securities which are so returned to Knology shall be canceled.
+
+          6.4.5 Means of Cash Payment. Cash payments made pursuant to the Plan
+shall be in U.S. funds by check drawn on a domestic bank, or, at the option of
+Reorganized Broadband, by wire transfer from a domestic bank; except that
+payment made to foreign trade creditors holding Unsecured Claims or to foreign
+governmental units holding Priority Tax Claims shall be in such funds and by
+such means as are customary or as may be necessary in a particular foreign
+jurisdiction.
+
+          6.4.6 Calculation of Distribution Amounts of Securities.
+
+               (a) No fractional shares of Series D Preferred Stock or Series E
+          Preferred Stock shall be issued or distributed, but the number of
+          shares of Series D Preferred Stock or Series E Preferred Stock to
+          which any Holder of record is entitled to receive pursuant to the Plan
+          shall be rounded up to the next whole share. Subject to the provisions
+          of Section 6.4.6(b), New Notes will be issued only in denominations of
+          $1,000.00 or an integral multiple thereof.
+
+               (b) On the Distribution Date, or as soon thereafter as reasonably
+          practicable, the Disbursing Agent for Old Note Claims shall calculate
+          the aggregate principal amount of Fractional New Notes that would be
+          distributed to Holders of record of Allowed Old Note Claims fulfilling
+          the conditions for distributions under the Plan set forth in Sections
+          6.4.4(a) and (b), absent the limitation set forth in Section 6.4.6(a)
+          on the denominations of New Notes to be issued pursuant to the Plan.
+          Such Disbursing Agent will from time to time notify Knology of said
+          aggregate principal amount of Fractional New Notes, and
+
+                                       22
+
+<PAGE>
+
+          Knology shall promptly after receiving such notice deliver to said
+          Disbursing Agent Cash in said aggregate principal amount for the
+          purpose of distributing to each Holder of record of Allowed Old Note
+          Claims Cash in the dollar amount of the Fractional New Notes to which
+          such Holder would have been entitled, absent said limitation set forth
+          in Section 6.4.6(a).
+
+          6.4.7 Delivery of Distributions . Subject to Bankruptcy Rule 9010,
+distributions to Holders of Allowed Claims shall be made at the address of each
+such Holder as set forth on the Chapter 11 schedules filed by Broadband with the
+Bankruptcy Court, unless superseded by the address as set forth on proofs of
+Claim filed by such Holders or other writings notifying Broadband of a change of
+address (or at the last known address of such a Holder if no proof of Claim or
+proof of Interest is filed or if Broadband has not been notified in writing of a
+change of address), or in the case of Holders of Old Note Claims, may be made at
+the addresses of the registered Holders contained in the records of the
+Registrar as of the applicable record date, except as provided below. If any
+Holder's distribution is returned as undeliverable, no further distributions to
+such Holder shall be made, unless and until Reorganized Broadband or the
+Disbursing Agent is notified of such Holder's then current address, at which
+time all missed distributions shall be made to such Holder together with any
+interest or dividends earned thereon. Amounts in respect of undeliverable
+distributions made through the Disbursing Agent shall be returned to the
+Disbursing Agent making such distribution until such distributions are claimed.
+All Claims for undeliverable distributions shall be made on or before the later
+of the second anniversary of the Effective Date and the date ninety (90) days
+after such Claim is Allowed. After such date all unclaimed property held by a
+Disbursing Agent for distribution to Holders of Allowed Claims shall be returned
+to Reorganized Broadband, and the Claim of any Holder with respect to such
+property shall be discharged and forever barred.
+
+          6.4.8 Fees and Expenses of Disbursing Agents. Except as otherwise
+ordered by the Bankruptcy Court, the amount of any reasonable fees and expenses
+incurred by a Disbursing Agent, including the Old Indenture Trustee, on or after
+the Confirmation Date, and any compensation and expense reimbursement claims
+(including reasonable fees and expenses of its attorneys and other agents) made
+by such Disbursing Agent shall be paid by Reorganized Broadband in accordance
+with the applicable Disbursing Agreement or Old Indenture, as the case may be,
+without further order of the Bankruptcy Court; provided that the Bankruptcy
+Court will hear and determine any disputes in respect of such fees and expenses.
+
+          6.4.9 Time Bar to Cash Payments. Checks issued by Reorganized
+Broadband in respect of Allowed Claims shall be null and void if not negotiated
+within six (6) months after the date of issuance thereof. Any amounts paid to
+the Disbursing Agent in respect of such a check shall be promptly returned to
+Reorganized Broadband by the Disbursing Agent. Requests for reissuance of any
+check shall be made directly to Reorganized Broadband by the Holder of the
+Allowed Claim with respect to which such check originally was issued. Any claim
+in respect of such a voided check shall be made on or before the fifth
+anniversary of the Confirmation Date. After such date, all claims in respect of
+void checks shall be discharged and forever barred.
+
+          6.4.10 Effect of Recapitalizations. All amounts of New Equity
+Securities issuable or distributable pursuant to the Plan are subject to
+automatic adjustments to reflect changes in the total number of outstanding
+shares of Knology Common Stock or rights thereto
+
+                                       23
+
+<PAGE>
+
+by reason of any recapitalization, reclassification, split, combination,
+dividend or similar transaction involving shares or rights thereto not expressly
+provided for in the Plan or the Plan Securities.
+
+          6.4.11 Effect of Issuance of Additional Knology Common Stock. In the
+event that Knology issues shares of Knology Common Stock or securities, options
+or warrants convertible into or exercisable or exchangeable for Knology Common
+Stock (other than shares of Knology Common Stock issuable upon conversion of
+securities outstanding on July 1, 2002, or upon the exercise of outstanding
+options and warrants to purchase equity securities of Knology Issued prior to
+July 1, 2002), the number of shares of New Equity Securities issuable or
+distributable to Holders of Allowed Claims pursuant to the Plan shall be
+adjusted such that (a) the aggregate number of shares of New Preferred Stock
+distributable on account of and in exchange for Allowed Class 2 Claims and on
+account of and in exchange for Allowed Class 4 Claims to the extent that the
+indebtedness from which such Allowed Class 4 Claims arises is evidenced by Old
+Notes in an amount in excess of $115,100,000 (due at maturity) shall equal 5.0%,
+and (b) the aggregate number of shares of New Preferred Stock distributable on
+account of and in exchange for Allowed Class 3 Claims and Allowed Class 4 Claims
+to the extent that the indebtedness from which such Allowed Class 4 Claims
+arises is evidenced by Old Notes in an amount less than or equal to $115,100,000
+(due at maturity) shall equa1 14.3%, of the outstanding Kno1ogy Common Stock as
+of the Effective Date, on an as-converted basis, after giving effect to the
+issuance of New Preferred Stock pursuant to the provisions of Sections 6.1.2(d)
+and (h), but without giving effect to outstanding options and warrants to
+purchase equity securities of Knology issued prior to July 1, 2002.
+
+     6.5 VESTING OF PROPERTY OF BROADBAND. Except as otherwise provided in the
+Plan (including any Plan Document) or any other indentures, instruments or
+agreements to be executed and delivered pursuant to the Plan or the Confirmation
+Order, upon the Effective Date all property of the Estate, wherever situated,
+shall vest in Reorganized Broadband and shall be retained by Reorganized
+Broadband or distributed to Creditors or Interest Holders as provided in the
+Plan. On the Effective Date, all property of the Estate, whether retained by
+Reorganized Broadband or distributed to Creditors or Interest Holders, shall be
+free and clear of all Claims, Liens, Encumbrances and interests, except the
+Claims, Liens, Encumbrances and interests of Creditors and Interest Holders
+expressly provided for in the Plan (including any Plan Document).
+
+     6.6 MAINTENANCE AND WAIVER OF CAUSES OF ACTION. Neither Broadband nor
+Reorganized Broadband shall commence and/or prosecute any avoidance or recovery
+actions under, or raise any defense based on, Sections 544, 545, 547, 548, 549,
+550, 551 or 553 of the Bankruptcy Code arising as a result of the commencement
+of the Case. On the Effective Date, all such avoidance or recovery causes of
+action and defenses shall be deemed waived, released and forever barred.
+Reorganized Broadband shall retain and may enforce or assert any and all other
+claims, rights, causes of action and defenses that Broadband or the Estate may
+hold against any Entity, excluding such claims, rights, causes of action and
+defenses as are released by Broadband pursuant to the Plan, and may pursue such
+retained claims, rights, causes of action and defenses, as appropriate, in
+accordance with the best interests of Reorganized Broadband.
+
+                                       24
+
+<PAGE>
+
+     6.7 SECURITIES LAW MATTERS
+
+          6.7.1 Section 1145 Exemption. Kno1ogy shall issue the Plan Securities
+without registration under federal or state securities laws in reliance upon the
+exemption set forth in Section 1145 of the Bankruptcy Code.
+
+          6.7.2 Rule 506. To the extent that the issuance, transfer or exchange
+of the Plan Securities is not exempt under Section 1145 of the Bankruptcy Code,
+the issuance, transfer and exchange of the Plan Securities are being made by
+Knology in reliance upon the exemption from the registration requirements of the
+Securities Act of 1933, as amended, afforded by Rule 506 promulgated pursuant to
+the Securities Act of 1933, as amended.
+
+          6.7.3 Trust Indenture Act. Commencing on or before the Effective Date,
+Knology shall use its commercially reasonable best efforts to qualify the New
+Notes Indenture under the Trust Indenture Act of 1939, as amended, unless the
+issuance of the New Notes otherwise is exempt from the requirements of the Trust
+Indenture Act of 1939, as amended, pursuant to Section 1145 of the Bankruptcy
+Code or another applicable exemption.
+
+                                   ARTICLE VII
+
+                       Acceptance or Rejection of the Plan
+
+     7.1 CLASSES ENTITLED TO VOTE. Each Holder of an Allowed Claim in a Class of
+Claims against Broadband which may be Impaired under the Plan, including any
+Holder of a Class 2 Claim, Class 3 Claim, Class 4 Claim, Class 5 Claim, Class 6
+Claim or Class 9 Claim shall be entitled to vote separately to accept or reject
+the Plan. Each Holder of a Claim or Interest in a Class of Claims or Interests
+which is unimpaired under the Plan, including Class 7, Class 8 and Class 10
+shall be deemed to have accepted the Plan pursuant to Section 1126(f) of the
+Bankruptcy Code.
+
+     7.2 CLASS ACCEPTANCE REQUIREMENT. An impaired Class of Claims shall have
+accepted the Plan if (i) the Holders (other than any Holder designated under
+Section 1126(e) of the Bankruptcy Code) of at least two-thirds in amount of the
+Allowed Claims actually voting in such Class have voted to accept the Plan and
+(ii) the Holders (other than any Holder designated under Section 1126(e) of the
+Bankruptcy Code) of more than one-half in number of the Allowed Claims actually
+voting in such Class have voted to accept the Plan.
+
+                                  ARTICLE VIII
+
+                     Procedure for Resolving Disputed Claims
+
+     8.1 UNIMPAIRED CLAIMS GENERALLY. The amount of any Allowed Unimpaired Claim
+other than a Rejection Claim and the rights of the Holder of such Claim, if any,
+to payment in respect thereof shall (a) be determined, at the option of the
+Holder of such Unimpaired Claim, (i) by electing not to file proof of the Claim
+within the applicable period of limitation fixed by the Bankruptcy Court in
+accordance with Bankruptcy Rule 3003(c)(3), by any court of competent
+jurisdiction other than the Bankruptcy Court in the manner in which the amount
+of such Claim and the rights of the Holder of such Claim would have been
+resolved and
+
+                                       25
+
+<PAGE>
+
+adjudicated if the Case had not been commenced, or (ii) by filing proof of the
+Claim within the applicable period of limitation set by the Bankruptcy Court in
+the manner provided for in the Bankruptcy Rules, (b) survive the Effective Date
+and consummation of the Plan as if the Case had not been commenced, and (c) not
+be discharged pursuant to Section 1141 of the Bankruptcy Code. In order to carry
+out the foregoing provisions of the Plan, Broadband and Reorganized Broadband
+and Holders of Unimpaired Claims other than Rejection Claims shall have, among
+other rights and obligations, the following rights and obligations:
+
+          8.1.1 The Holder of any such Unimpaired Claim shall be entitled, on
+and after the Effective Date, to commence any action or proceeding against
+Reorganized Broadband, or to continue any action or proceeding against
+Broadband, to determine the amount of its Allowed Claim in any court of
+competent jurisdiction.
+
+          8.1.2 Broadband and Reorganized Broadband, as the case may be, shall
+waive any defense based solely upon the facts that (a) no proof of such Claim
+shall have been filed within the period of limitation, if any, fixed by the
+Bankruptcy Court in accordance with Bankruptcy Rule 3003(c)(3), and (b) such
+Claim was listed by Broadband in its Chapter 11 schedules as unliquidated,
+contingent or disputed.
+
+          8.1.3 Broadband or Reorganized Broadband, as the case may be, may at
+any time before or after the Confirmation Date and before or after the Effective
+Date, dispute, defend against or otherwise oppose, in accordance with
+nonbankruptcy law, any such Claim (other than any such Claim to the extent
+allowed by Final Order of the Bankruptcy Court or the Confirmation Order)
+without taking any formal action either in or out of court (except as otherwise
+required by nonbankruptcy law). Reorganized Broadband shall retain, in addition
+to all claims, rights and causes of action retained by Reorganized Broadband
+pursuant to Section 6.6, all defenses, at law or in equity, to any and all such
+Claims (other than any such Claim to the extent allowed by Final Order of the
+Bankruptcy Court or the Confirmation Order), other than the defense waived
+pursuant to the provisions of Section 8.1.2.
+
+     8.2 REJECTION CLAIMS. Any Rejection Claim not barred pursuant to the
+provisions of Section 9.3 of the Plan shall be an Allowed Claim in the amount
+set forth in the filed proof of Claim evidencing such Claim unless an objection
+is filed to such Claim not later than sixty (60) days after the filing of such
+proof of Claim. Upon the filing of any such objection, the amount of the Allowed
+Rejection Claim, if any, shall be determined by the Bankruptcy Court unless it
+shall have sooner become an Allowed Claim.
+
+     8.3 IMPAIRED CLAIMS. The amount of any Impaired Claim which is a Disputed
+Claim and the rights of the Holder of such Claim, if any, to payment in respect
+thereof shall be determined by the Bankruptcy Court, unless it shall have sooner
+become an Allowed Claim.
+
+     8.4 AUTHORITY TO OPPOSE CLAIMS. On and after the Effective Date, except as
+the Bankruptcy Court may otherwise order, the objecting to, disputing, defending
+against, and otherwise opposing, and the making, asserting, filing, litigation,
+settlement or withdrawal of all objections to, Claims shall be the exclusive
+responsibility of Reorganized Broadband.
+
+                                       26
+
+<PAGE>
+
+     8.5 TREATMENT OF DISPUTED CLAIMS. Notwithstanding any other provisions of
+the Plan, no payments or distributions shall be made on account of a Disputed
+Claim until such Claim becomes an Allowed Claim.
+
+                                   ARTICLE IX
+
+                    Executory Contracts and Unexpired Leases
+
+     9.1 GENERAL TREATMENT. Except as otherwise provided in Section 9.2, all
+executory contracts and unexpired leases of Broadband shall be assumed by
+Reorganized Broadband as of the Effective Date, unless (a) rejected pursuant to
+an order entered on or prior to the Effective Date, or (b) a motion to reject
+any such executory contract or unexpired lease is pending before the Bankruptcy
+Court on the Effective Date, or (c) assumed pursuant to an order entered on or
+prior to the Effective Date.
+
+     9.2 PROFESSIONAL PERSON ENGAGEMENTS. Broadband shall assume as of the
+Effective Date (a) its agreement, dated and effective as of April 1, 2002, with
+Houlihan Lokey concerning the engagement of Houlihan Lokey by the Committee to
+provide financial advisory services to the Committee in connection with the
+restructuring of Broadband's obligations under the Old Notes, (b) its agreement,
+dated February 8, 2002, with CSFB concerning the engagement of CSFB by Knology
+to provide financial advisory services to Knology in connection with the
+restructuring of Broadband's obligations under the Old Notes; and (c) its
+agreement dated and effective on May 1, 2002 with Milbank concerning the
+engagement of Milbank by the Committee to provide legal services to he Committee
+in connection with the restructuring of Broadband's obligations under the Old
+Notes.
+
+     9.3 BAR TO REJECTION DAMAGES. If the rejection of an executory contract or
+unexpired lease by Broadband results in damages to the other party or parties to
+such contract or lease, a Claim for such damages, if not previously evidenced by
+a filed proof of Claim or barred by a Final Order, shall be forever barred and
+shall not be enforceable against Broadband or Reorganized Broadband, or their
+properties or agents, successors, or assigns, unless a proof of Claim relating
+thereto is filed with the Bankruptcy Court within thirty (30) days after the
+later of (a) the entry of a Final Order authorizing such rejection and (b) the
+Confirmation Date, or within such shorter period as may be ordered by the
+Bankruptcy Court.
+
+     9.4 CURE OF DEFAULTS FOR EXECUTORY CONTRACTS AND UNEXPIRED LEASES. Each
+executory contract and unexpired lease to be assumed pursuant to the Plan shall
+be reinstated and rendered unimpaired in accordance with Sections 1124(2) and
+365(b)(1) of the Bankruptcy Code. In connection therewith, Broadband shall cure
+or provide adequate assurance that it will cure any monetary default (other than
+of the kind specified in Section 365(b)(2) of the Bankruptcy Code), by payment
+of the default amount in Cash on the Distribution Date or on such other terms as
+the parties to such executory contract or unexpired lease may otherwise agree,
+compensate, or provide adequate assurance that Broadband will promptly
+compensate, parties other than Broad and to such contract or lease for any
+actual pecuniary loss to such parties resulting from such default and provide
+adequate assurance of future performance under such contract or lease. In the
+event of a dispute regarding: (a) the amount of any cure payments, (b) the
+ability of Reorganized Broadband or any of the assignees to provide "adequate
+assurance
+
+                                       27
+
+<PAGE>
+
+of future performance" (within the meaning of Section 365 of the Bankruptcy
+Code) under the contract or lease to be assumed, or (c) any other matter
+pertaining to assumption, the cure payments or performance required by Section
+365(b)(1) of the Bankruptcy Code shall be made following the entry of a Final
+Order resolving the dispute and approving the assumption.
+
+                                    ARTICLE X
+
+             Conditions Precedent to Confirmation and Effective Date
+
+     10.1 CONDITIONS PRECEDENT TO CONFIRMATION OF THE PLAN. Confirmation of the
+Plan will not occur unless all of the following conditions precedent have been
+satisfied or, in accordance with Section 10.3, waived:
+
+          10.1.1 The Confirmation Order shall approve in all respects all of the
+provisions, terms, and conditions of the Plan.
+
+          10.1.2 The Confirmation Order shall contain the following findings,
+conclusions and other provisions:
+
+               (a) except as expressly provided in the Plan, all of the property
+          distributed under the Plan shall vest in the recipients thereof, free
+          and clear of all claims, Encumbrances and interests of any nature
+          whatsoever;
+
+               (b) the issuance of the Plan Securities, the entering into of the
+          New Notes Indenture, the entering into of the Operative Documents (as
+          defined in the New Notes Indenture), and the grant of Liens and
+          Encumbrances as provided for in the Plan and all other indentures,
+          instruments or agreements to be executed and delivered pursuant to the
+          Plan have been validly authorized by all necessary corporate action of
+          Broadband, Reorganized Broadband or Knology, as the case may be, or by
+          applicable law;
+
+               (c) the Lien or other interest in the collateral created by such
+          indentures, instruments or other agreements shall be valid and binding
+          on and enforceable against Reorganized Broadband or Knology, as the
+          case may be, subject to the effect of (i) general principles of
+          equity, (ii) the possible unenforceability of specific remedial
+          provisions of any particular document, (iii) the Bankruptcy Code or
+          any applicable state insolvency or receivership law, and (iv) other
+          laws affecting the rights of creditors generally; and such collateral
+          shall be subject to no prior, pari passu or subordinate Encumbrances
+          or claims, except as provided for in such indentures, instruments or
+          other agreements;
+
+               (d) New Equity Securities, when issued and delivered pursuant to
+          the Plan, shall be deemed validly issued, fully paid, and
+          non-assessable; and
+
+               (e) if the Effective Date of the Plan does not occur on or before
+          December 31, 2002, the Confirmation Order shall thereupon be null,
+          void and of no further force or effect.
+
+                                       28
+
+<PAGE>
+
+          10.1.3 The Confirmation Order shall be acceptable in form and
+substance to Broadband.
+
+          10.1.4 Wachovia and the Subsidiaries of Broadband shall have executed
+and delivered, subject only to the execution and delivery of the Amended and
+Restated Wachovia Guaranty and the Amended and Restated Wachovia Security
+Documents pursuant to the provisions of the Plan, all instruments, agreements
+and other documents (including modifications to the Existing Wachovia Financing
+Agreements) necessary or appropriate to effect the restructuring of the Existing
+Wachovia Facility in accordance with the terms and conditions set forth in the
+Wachovia Term Sheet.
+
+          10.1.5 CoBank, Globe Communications, Inc., Interstate Telephone
+Company and Valley shall have executed and delivered, subject only to the
+execution and delivery of the Limited Broadband/CoBank Guaranty pursuant to the
+provisions of the Plan, all instruments, agreements and other documents
+(including modifications to the CoBank Financing Agreements) necessary or
+appropriate to effect the restructuring of the CoBank Facility in accordance
+with the terms and conditions as set forth on pages 102-103 of the Offering
+Circular.
+
+          10.1.6 Certain stockholders of Knology shall have executed and
+delivered to Knology subscription agreements providing for the purchase on the
+Effective Date by such Stockholders from Knology of the aggregate amount of
+13,000,000 shares of Class C Preferred Stock for the aggregate subscription
+price of $39,000,000, due and payable in Cash on the Effective Date.
+
+          10.1.7 The stockholders of Knology shall have, in accordance with the
+applicable provisions of its certificate of incorporation and bylaws and the
+Stockholders Agreement, approved the Knology Restated Certificate of
+Incorporation, the Stockholders Agreement Amendment, the issuance of New Notes,
+Series D Preferred Stock and Series E Preferred Stock in exchange for Old Notes
+in accordance with the provisions of the Plan, and the issuance of 13,000,000
+shares of Class C Preferred Stock to certain stockholders of Knology for the
+consideration set forth in Section 10.1.6.
+
+          10.1.8 Broadband shall have listed the Old Note Claims in its
+schedules filed under Section 521(1) of the Bankruptcy Code, as undisputed,
+non-contingent and liquidated, in the aggregate accreted amount thereof on the
+Petition Date, and such Claims shall have been allowed by Final Order of the
+Bankruptcy Court or by the Confirmation Order in said aggregate amount.
+
+          10.1.9 All of the requirements of Section 1129(a) of the Bankruptcy
+Code shall be met.
+
+     10.2 CONDITIONS TO EFFECTIVE DATE. The Effective Date of the Plan will not
+occur unless all of the following conditions precedent have been satisfied or,
+in accordance with Section 10.3, waived:
+
+          10.2.1 Each of the conditions precedent set forth in Section 10.1
+shall have been satisfied or, in accordance with Section 10.3, waived.
+
+                                       29
+
+<PAGE>
+
+          10.2.2 The Confirmation Order shall have been entered and shall not be
+stayed.
+
+          10.2.3 All those transactions described in Section 6.1.2 shall have
+been effected, and all other agreements and instruments to be delivered under or
+necessary to effectuate the Plan shall have been executed and delivered.
+
+          10.2.4 Knology shall have paid and satisfied in full any Committee
+Claim that shall be mature as of the Effective Date.
+
+          10.2.5 No condition to the issuance or authentication of the New Notes
+to be distributed pursuant to Article V of the Plan shall be unsatisfied.
+
+          10.2.6 The Classes designated by the Plan as Class 2, Class 3, Class
+4, Class 5, Class 6 and Class 9 shall have accepted the Plan.
+
+          10.2.7 The Stockholders of Knology who shall have executed and
+delivered the subscription agreements described in Section 10.1.6 shall have
+paid to Knology, in exchange for the delivery of the shares of Series C
+Preferred Stock referred to in Section 6.1.2(h), the aggregate subscription
+price due on the Effective Date under the terms of the subscription agreements.
+
+          10.2.8 The Effective Date shall have occurred no later than December
+31, 2002.
+
+     10.3 WAIVER OF CONDITIONS. The Proponents may waive, without notice and
+without leave of or order of the Bankruptcy Court, any condition or any portion
+of any condition set forth in this Article X (except that the conditions set
+forth in Sections 10.1.2, 10.1.4, 10.1.5, 10.1.6, 10.1.7, 10.1.8, 10.2.2,
+10.2.4, 10.2.6, 10.2.7 and 10.2.8 may not be waived without the written consent
+of holders of 75% in aggregate amount due at maturity of Old Notes evidencing
+Class 2 Claims held by parties to the Lockup Agreement, SCANA, Wachovia, CoBank,
+J. H. Witney, I.V., L.P. and Blackstone CCC Capital Partners, L.P.).
+
+                                   ARTICLE XI
+
+              Effects of Confirmation and Effectiveness of the Plan
+
+     11.1 DISCHARGE OF CLAIMS. Except as otherwise provided herein or in the
+Confirmation Order, the rights afforded in the Plan and the payments and
+distributions to be made hereunder shall discharge all existing debts and Claims
+of any kind, nature, or description whatsoever against Broadband, any of its
+assets or properties or any property dealt with under the Plan to the extent
+permitted by Section 1141 of the Bankruptcy Code; upon the Effective Date, all
+existing Claims against Broadband shall be and shall be deemed to be discharged;
+and all Holders of Claims and Interests shall be precluded from asserting
+against Broadband, any of its assets or properties, or any property dealt with
+under the Plan any other or further Claim based upon any act or omission,
+transaction, or other activity of any kind or nature that occurred prior to the
+Confirmation Date, whether or not such Holder filed a proof of Claim.
+
+     11.2 DISCHARGE OF BROADBAND. Except as otherwise provided herein, any
+consideration distributed to Creditors under the Plan shall be in exchange for
+and in complete
+
+                                       30
+
+<PAGE>
+
+satisfaction, discharge, and release of all Claims of any nature whatsoever
+against Broadband or any of its assets or properties; and, except as otherwise
+provided herein, upon the Effective Date, Broadband shall be deemed discharged
+and released to the extent permitted by Section 1141 of the Bankruptcy Code from
+any and all Claims, including demands and liabilities that arose before the
+Confirmation Date, and all debts of the kinds specified in Sections 502(g),
+502(h) or 502(i) of the Bankruptcy Code, whether or not (a) a proof of Claim
+based upon such debt is filed or deemed filed under Section 501 of the
+Bankruptcy Code; or (b) the Holder of a Claim based upon such debt has accepted
+the Plan. Except as provided herein and therein, the Confirmation Order shall be
+a judicial determination of discharge of all liabilities of Broadband. As
+provided in Section 524 of the Bankruptcy Code, such discharge shall void any
+judgment against Broadband at any time obtained to the extent it relates to a
+Claim discharged, and operates as an injunction against the commencement or
+continued prosecution of any action against Broadband or its property, or
+Reorganized Broadband or its property, to the extent it relates to a Claim
+discharged.
+
+     11.3 INJUNCTION. Except as provided herein or in the Confirmation Order,
+from and after the Effective Date, all Holders of Claims against the Estate are
+permanently restrained and enjoined from continuing, or taking any act, to
+enforce any Claim against Reorganized Broadband; provided that each Holder of a
+Claim may, to the extent permitted by and in accordance with the provisions of
+the Plan, commence or continue any action or proceeding to determine the amount
+of its Claim in the Bankruptcy Court or any other court of competent
+jurisdiction, and all Holders of Claims shall be entitled to enforce their
+rights under the Plan and the Plan Documents.
+
+     11.4 SURVIVAL OF INDEMNIFICATION CLAIMS AND OBLIGATIONS. Notwithstanding
+any other provision of this Plan, all obligations of Broadband for
+indemnification of current and former officers and directors and the Old
+Indenture Trustee, and all Claims of such officers and directors and the Old
+Indentures Trustee related thereto, under the Broadband Bylaws, the Old
+Indenture or other applicable law, corporate documents or agreements shall
+expressly survive confirmation of the Plan and be binding on and enforceable
+against Reorganized Broadband irrespective of whether indemnification is owed in
+connection with an event occurring before, on or after the Petition Date.
+
+     11.5 EXCULPATIONS AND LIMITATION OF LIABILITY. Notwithstanding any other
+provisions of the Plan, (a) none of the directors, officers, employees, agents,
+representatives, financial advisors or attorneys of Broadband, Reorganized
+Broadband, Knology, any Subsidiary of Broadband, Reorganized Broadband or
+Knology, or the Old Indenture Trustee, or the Committee or any of its members,
+nor (b) any Subsidiary of Broadband, Reorganized Broadband or Knology, nor (c)
+the Old Indenture Trustee, nor (d) any Committee or its members, shall have any
+liability to Broadband or Reorganized Broadband or any Holder of a Claim or
+Interest for actions taken or omitted to be taken in connection with or arising
+out of the solicitation of votes on or the administration of the Plan or the
+property distributed under the Plan, or any other matters arising in or related
+to the Case, except for any liabilities which may arise under statutes or
+regulations administered by the Securities and Exchange Commission or from
+willful misconduct or gross negligence, and, in all respects, such persons shall
+be entitled to rely upon the advice of counsel with respect to their duties and
+responsibilities under the Plan. Upon the full performance by the Old Notes
+Indenture Trustee of its obligations to make the
+
+                                       31
+
+<PAGE>
+
+distributions that are required pursuant to the Plan and the Confirmation Order,
+such Old Indenture Trustee and its Professional Persons shall be relieved,
+discharged and released by Broadband and Reorganized Broadband from all
+obligations, claims, rights, demands and causes of action in favor of Broadband
+or Reorganized Broadband associated with, arising from or related to the Old
+Indenture.
+
+     11.6 RELEASES BY RECIPIENTS OF NEW NOTES AND NEW EQUITY SECURITIES. Except
+as otherwise provided in the Plan or the Confirmation Order, to the full extent
+permitted by the Bankruptcy Code and other applicable law, each Entity receiving
+New Notes and/or New Equity Securities on account of an Allowed Claim or an
+Allowed Interest, upon receipt of such Plan Securities, shall be deemed forever
+to release, waive and discharge all known and unknown claims of any nature
+(other than claims of fraud or intentional misrepresentation) that such Entity
+has, had or may have against Broadband and Reorganized Broadband on account of
+or relating to any claim or cause of action relating in any way to the Claims or
+Interests discharged under the Plan or the negotiation, documentation and
+implementation of the Plan. The Confirmation Order shall enjoin from and after
+the Effective Date the prosecution, whether directly, derivatively or otherwise,
+of any claim, debt, right cause of action or liability released or to be
+released pursuant to this Section 11.6.
+
+     11.7 INDENTURE TRUSTEE. Notwithstanding the provisions of Sections 6.1.2(g)
+regarding the termination and cancellation of the Old Notes Indenture, the Old
+Notes Indentures shall continue in effect to the extent necessary; to allow the
+Old Indenture Trustee to receive and make distributions as a Disbursing Agent
+pursuant to the Plan on account of Old Note Claims, to maintain the validity of
+the Indenture Trustee Charging Lien provided for thereunder, to enforce
+Indenture Trustee Claims provided for thereunder and to enforce any
+indemnification rights provided for thereunder.
+
+                                   ARTICLE XII
+
+                            Retention of Jurisdiction
+
+     12.1 SCOPE OF JURISDICTION. Pursuant to Sections 1334 and 157 of Title 28
+of the United States Code, from and after the Confirmation Date, the Bankruptcy
+Court shall retain and have jurisdiction of all matters arising in, arising
+under, and related to the Case and the Plan pursuant to, and for the purposes
+of, Sections 105(a) and 1142 of the Bankruptcy Code and for, among other things,
+the following purposes:
+
+          12.1.1 To hear and determine any and all adversary proceedings,
+applications or contested matters pending on the Effective Date or brought after
+the Effective Date;
+
+          12.1.2 To hear and determine any and all applications for substantial
+contribution and for compensation and reimbursement of expenses filed by
+Professional Persons;
+
+          12.1.3 To hear and determine Rejection Claims, disputes arising from
+the assumption and assignment of executory contracts and unexpired leases, and
+Disputed Claims which are Impaired Claims or which are held by Holders of
+Unimpaired Claims who have filed proofs of their Claims in accordance with
+Section 8.1;
+
+                                       32
+
+<PAGE>
+
+          12.1.4 To hear and determine, pursuant to the provisions of Section
+505 of the Bankruptcy Code, all issues related to the liability of Broadband for
+any tax incurred prior to the Effective Date;
+
+          12.1.5 To enforce the provisions of the Plan and to determine any and
+all disputes arising under the Plan;
+
+          12.1.6 To enter and implement such orders as may be appropriate in the
+event Confirmation is for any reason stayed, reversed, revoked, modified or
+vacated;
+
+          12.1.7 To modify any provision of the Plan to the extent permitted by
+the Bankruptcy Code and to correct any defect, cure any omission or reconcile
+any inconsistency in the Plan or the Confirmation Order as may be necessary to
+carry out the purposes and intent of the Plan;
+
+          12.1.8 To enter such orders as may be necessary or appropriate in
+furtherance of consummation and implementation of the Plan; and
+
+          12.1.9 To enter an order closing the Case.
+
+     12.2 FAILURE OF THE BANKRUPTCY COURT TO EXERCISE JURISDICTION. If the
+Bankruptcy Court abstains from exercising, or declines to exercise, jurisdiction
+or is otherwise without jurisdiction over any matter arising in, arising under
+or related to the Case, including the matters set forth in Section 12.1 of the
+Plan, this Article XII shall have no effect upon and shall not control,
+prohibit, or limit the exercise of jurisdiction by any other court having
+jurisdiction with respect to such matter.
+
+                                  ARTICLE XIII
+
+                            Miscellaneous Provisions
+
+     13.1 COMPLIANCE WITH TAX REQUIREMENTS. In connection with the Plan,
+Broadband and Reorganized Broadband, as the case may be, and the Disbursing
+Agent shall comply with all applicable withholding and reporting requirements
+imposed by federal, state, local and foreign taxing authorities, and all
+distributions hereunder shall be subject to such withholding and reporting
+requirements. Creditors may be required to provide certain tax information as a
+condition to receipt of distributions pursuant to the Plan.
+
+     13.2 COMPLIANCE WITH ALL APPLICABLE LAWS. If notified by any governmental
+authority that it is in violation of any applicable law, rule, regulation, or
+order of such governmental authority relating to its businesses, Broadband or
+Reorganized Broadband, as the case may be, shall comply with such law, rule,
+regulation, or order; provided, however, that nothing contained herein shall
+require such compliance by Broadband or Reorganized Broadband, as the case may
+be, where the legality or applicability of any such requirement is being
+contested in good faith in appropriate proceedings by Broadband or Reorganized
+Broadband, as the case may be, and, if appropriate, for which an adequate
+reserve has been set aside on the books of Broadband or Reorganized Broadband,
+as the case may be.
+
+                                       33
+
+<PAGE>
+
+     13.3 DISCHARGE OF OLD INDENTURE TRUSTEE. Subsequent to the performance of
+the Old Notes Indenture Trustee or its agents, of its duties and obligations
+under the provisions of the Plan and the Confirmation Order, if any, and under
+the terms of such Old Indenture, such Old Indenture Trustee and its agents shall
+be relieved, discharged and released from all obligations, claims, rights,
+demands and causes of action associated with or arising from such Old Indenture.
+The Confirmation Order shall enjoin from and after the Effective Date the
+prosecution, whether directly, derivately or otherwise, of any claim, debt,
+right, cause of action or liability released or to be released pursuant to this
+Section 13.3.
+
+     13.4 PAYMENT OF STATUTORY FEES. All fees payable pursuant to Section 1930
+of title 28 of the United States Code, as determined by the Bankruptcy Court at
+the Confirmation Hearing, shall be paid on or before the Effective Date.
+
+     13.5 POST-CONFIRMATION DATE FEES AND EXPENSES OF PROFESSIONAL PERSONS.
+After the Confirmation Date, Broadband, and after the Effective Date,
+Reorganized Broadband shall, in the ordinary course of business and without the
+necessity for any approval by the Bankruptcy Court (except as may be required by
+Section 1129(a)(4) of the Bankruptcy Code), pay the reasonable fees and
+reasonable expenses of the Professional Persons related to implementation and
+consummation of the Plan; provided that no such fees and expenses shall be paid
+except upon receipt by Broadband or Reorganized Broadband, as may be applicable,
+of a detailed written invoice from the Professional Person seeking compensation
+and expense reimbursement and provided further, that any such party may, within
+ten (10) days after receipt of an invoice for fees and expenses, request that
+the Bankruptcy Court determine the reasonableness of such fees and expenses.
+After the Confirmation Date, Broadband, and after the Effective Date,
+Reorganized Broadband, shall, in the ordinary course of business and without the
+necessity for any approval by the Bankruptcy Court (except as may be required by
+Section 1129(a)(4) of the Bankruptcy Court), pay the reasonable fees and
+reasonable expenses of the Old Indenture Trustee and its Professional Persons
+related to the implementation and consummation of the Plan; provided that no
+such fees and expenses shall be paid except upon receipt by Broadband or
+Reorganized Broadband, as may be applicable, of a detailed written invoice
+evidencing the incurrence by the Old Indenture Trustee of such fees or expenses
+and provided further that Broadband or Reorganized Broadband, as the case may
+be, may, within ten (10) days after receipt of an invoice for fees and expenses,
+request the Bankruptcy Court to determine the reasonableness of such fees and
+expenses.
+
+     13.6 BINDING EFFECT. The Plan shall be binding upon and inure to the
+benefit of Broadband, the Holders of Claims, the Holders of Interests, and their
+respective successors and assigns; provided that if the Plan is not confirmed,
+the Plan shall be deemed null and void and nothing contained herein shall be
+deemed (a) to constitute a waiver or release of any Claims by Broadband or any
+other Entity, (b) to prejudice in any manner the rights of Broadband or any
+other Entity, or (c) to constitute any admission by Broadband or any other
+Entity.
+
+     13.7 GOVERNING LAW. Unless an applicable rule of law or procedure is
+supplied by federal law (including the Bankruptcy Code and the Bankruptcy Rules)
+or the Delaware General Corporation Law, the internal laws of New York shall
+govern the construction and implementation of the Plan and any agreements,
+documents, and instruments executed in
+
+                                       34
+
+<PAGE>
+
+connection with the Plan or the Case, except as may otherwise be provided in
+such agreements, documents, and instruments.
+
+     13.8 FILING OF ADDITIONAL DOCUMENTS. On or before the conclusion of the
+Confirmation Hearing, Broadband shall file with the Bankruptcy Court such
+agreements and other documents as may be necessary or appropriate to effectuate
+and further evidence the terms and conditions of the Plan.
+
+     13.9 AMENDMENTS AND MODIFICATIONS. The Proponents may, in accordance with
+Section 1127(a) of the Bankruptcy Code and Bankruptcy Rule 3019, after hearing
+on notice to the Old Indenture Trustee and such other Entities as are entitled
+to such notice pursuant to Bankruptcy Rule 3019, amend or modify the Plan prior
+to the entry of the Confirmation Order.
+
+     13.10 REVOCATION. Broadband reserves the right to revoke and withdraw the
+Plan prior to Confirmation. If Broadband revokes or withdraws the Plan pursuant
+to this Section 13.10, then the Plan shall be deemed null and void and, in such
+event, nothing contained herein shall be deemed to constitute a waiver or
+release of any Claims or other rights by or against Broadband or any Entity in
+any further proceedings involving Broadband or otherwise.
+
+     13.11 SEVERABILITY. Should any provision in the Plan be determined to be
+unenforceable, such determination shall in no way limit or affect the
+enforceability and operative effect of any other provisions of the Plan.
+
+     13.12 NOTICES. All notices, requests, or demands for payments provided for
+in the Plan shall be in writing and shall be deemed to have been given when
+personally delivered by hand, or deposited in any general or branch post office
+of the United States Postal Service, or received by telex or te1ecopier;
+provided that the Old Indenture Trustee shall give any required notices to the
+Holders of Old Notes in accordance with the terms of the Old Indentures.
+Notices, requests and demands for payments shall be addressed and sent, postage
+prepaid, or delivered as follows:
+
+               (a) in the case of notices, requests, or demands for payments to
+          Broadband or Reorganized Broadband, at 1241 O.G. Skinner Drive, West
+          Point, Georgia 31833, Attn: General Counsel, or at any other address
+          designated by Broadband by notice to each Holder of a Claim or
+          Interest, with copies to Smith, Gambrell & Russell, LLP, Suite 3100,
+          Promenade II, 1230 Peachtree Street, Atlanta, Georgia 30309, Attn:
+          Ronald E. Barab, Esq.
+
+               (b) in the case of notices, requests or demands for payment to
+          Knology, at 1241 O.G. Skinner Drive, West Point, Georgia 31833, Attn:
+          General Counsel, or at any other address designated by Knology by
+          notice to each Holder of a Claim or Interest, with copies to Alston &
+          Bird, LLP, One Atlantic Center, 1201 W. Peachtree Street, N.E.,
+          Atlanta, Georgia 30309, Attn: Christopher Strickland, Esq.; and
+
+               (c) in the case of notices to Holders of Claims or Interests, at
+          the last known address according to Broadband's or Reorganized
+          Broadband's books and records, or at any other address designated by a
+          Holder of a Claim or Interest, by
+
+                                       35
+
+<PAGE>
+
+          notice to Broadband or Reorganized Broadband; provided that any notice
+          of change of address shall be effective only upon receipt. In
+          addition, all notices to the Holders of Old Note Claims shall also be
+          given to the Old Indenture Trustee; and
+
+               (d) in the case of notices to the Committee, to the Committee c/o
+          Houlihan Lokey Howard & Zukin Capital, 685 Third Avenue, 15th Floor,
+          New York, New York 10017, Attn: Saul E. Burian/Oscar A. Mockridge,
+          with copies to Milbank, Tweed, Hadley & McCloy LLP, 601 South Figueroa
+          Street, 30th Floor, Los Angeles, California 90017, Attn: Thomas R.
+          Kreller, Esq.
+
+     13.13 DE MINIMIS DISTRIBUTIONS. Notwithstanding any provision to the
+contrary contained herein, after the initial distribution to Holders of Old
+Notes and other Creditors under the Plan, no distribution of less than twenty-
+five dollars ($25) in Cash or less than five (5) shares of New Equity Securities
+shall be made to any Holder of an Allowed Claim, unless such Holder shall
+have-requested such distribution in writing from Reorganized Broadband before
+the fifth anniversary of the Confirmation Date. Such undistributed amount will
+be retained by Reorganized Broadband or, in the case of undistributed New Equity
+Securities retained by Knology and cancelled.
+
+Dated: September 18, 2002
+       Atlanta, Georgia
+
+                                                Respectfully submitted,
+
+                                                KNOLOGY BROADBAND, INC.
+
+
+                                                By: /s/ Robert Mills
+                                                    ----------------------------
+                                                    Robert Mills
+                                                    Its: Chief Financial Officer
+
+
+                                                KNOLOGY, INC.
+
+
+                                                By: /s/ Robert Mills
+                                                    ----------------------------
+                                                    Robert Mills
+                                                    Its: Chief Financial Officer
+
+                   [Signature Continues on the following Page]
+
+                                       36
+
+<PAGE>
+
+OF COUNSEL
+
+RONALD E. BARAB
+BARBARA ELLIS-MONRO
+SMITH, GAMBRELL & RUSSELL
+Suite 3100, Promenade II, 1230 Peachtree Street
+Atlanta, Georgia 30309 404/815-3500
+(404) 815-3573
+
+Attorneys for Knology Broadband, Inc.,
+Debtor and Debtor in Possession
+
+CHRISTOPHER STRICKLAND
+ALSTON & BIRD
+One Atlantic Center
+1201 W. Peachtree Street, N.E.
+Atlanta, Georgia 30309
+(404) 881-7000
+
+Attorneys for Knology, Inc.
+
+                                       37
+
+<PAGE>
+
+                    EXHIBIT A To Joint Plan of Reorganization
+
+                           SCHEDULE OF PLAN DOCUMENTS
+
+<TABLE>
+<S>                                                  <C>
+ 1.  Knology Amended and Restated Certificate of     Exh. G. to Offering Circular
+     Incorporation
+
+ 2.  Broadband Amended and Restated Certificate of   See Section 6.3.1 of Plan for terms
+     Incorporation
+
+ 3.  New Notes Indenture                             See pages 174-221 of Offering
+                                                     Circular for terms
+
+ 4.  Stockholder Agreement Amendment                 Exh. C. to Offering Circular
+
+ 5.  Stockholder Joinder Agreement                   Exh. D. to Offering Circular
+
+ 6.  Wachovia Term Sheet                             Annex C-1 to Exh. H Offering
+                                                     Circular
+
+ 7.  Amended and Restated Wachovia Guaranty          See Wachovia Term Sheet for terms
+
+ 8.  Amended and Restated Wachovia Security          See Wachovia Term Sheet for terms
+     Documents
+
+ 9.  Limited Broadband/CoBank Guaranty               See  Section  1.1.67  of Plan  and p.
+                                                     102-103  of  Offering Circular for
+                                                     terms
+
+10.  Equity Commitment Agreement                     See Section 1.1.37 for terms
+
+11.  Disbursing Agreement                            See Section 1.1.30 for terms
+</TABLE>
+
+</TEXT>
+</DOCUMENT>

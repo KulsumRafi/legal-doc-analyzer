@@ -1,0 +1,709 @@
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>4
+<FILENAME>edgar-ex10oii_ibmpatentxlicn.txt
+<DESCRIPTION>IBM PATENT CROSS LICENSE AGREEMENT
+<TEXT>
+               LICENSE REFERENCE NUMBER________________
+
+013003                   PATENT CROSS LICENSE
+
+
+     LICENSE AGREEMENT ("Agreement") dated January 30, 2003
+("Agreement Date") between INTERNATIONAL BUSINESS MACHINES CORPORATION, a New
+York corporation ("IBM"), and INTERGRAPH CORPORATION, a Delaware Corporation
+("INTERGRAPH").
+
+     Each of the parties (as "Grantee") desires to acquire a nonexclusive
+license under patents of the other party (as "Grantor"). In consideration of
+the premises and mutual covenants herein contained, IBM and INTERGRAPH agree
+as follows:
+
+Section 1.     Definitions
+               -----------
+
+     1.1  "Information Handling System" shall mean any instrumentality or
+aggregate of instrumentalities primarily designed to compute, classify, process,
+transmit, receive, retrieve, originate, switch, store, display, manifest,
+measure, detect, record, reproduce, handle or utilize any form of information,
+intelligence or data for business, scientific, control or other purposes.
+
+     1.2  "IHS Product" shall mean an Information Handling System or any
+instrumentality or aggregate of instrumentalities (including, without
+limitation, any component, subassembly, computer program or supply) designed
+for incorporation in an Information Handling System.  Any instrumentality or
+aggregate of instrumentalities primarily designed for use in the fabrication
+(including testing) of an IHS Product shall not be considered to be an IHS
+Product.
+
+     1.3  "Licensed Patents" shall mean all patents, including utility models
+and typeface design patents and registrations (but not including any other
+design patents or registrations):
+
+          (a)   issued or issuing on patent applications entitled to an
+     effective filing date prior to January 1, 2013; and
+
+          (b)   under which patents or the applications therefor a party hereto
+     or any of its Subsidiaries has as of the Agreement Date, or thereafter
+     obtains, the right to grant licenses to Grantee of or within the scope
+     granted herein without such grant or the exercise of rights thereunder
+     resulting in the payment of royalties or other consideration by Grantor
+     or its Subsidiaries to third parties (except for payments among Grantor
+     and its Subsidiaries, and payments to third parties for inventions made
+     by said third parties while employed by Grantor or any of its
+     Subsidiaries).
+
+Licensed Patents shall include said patent applications, continuations-in-part
+of said patent applications, and any patents reissuing on any of the aforesaid
+patents.
+
+     1.4  "Licensed Products" shall mean either IBM Licensed Products or
+INTERGRAPH Licensed Products as the context indicates.
+
+     1.5  "IBM Licensed Products" shall mean IHS Products and any combination
+thereof. Any such combination shall be considered an IBM Licensed Product even
+though its elements are leased, sold or otherwise transferred at different
+times.
+
+     1.6  "INTERGRAPH Licensed Products" shall mean IHS Products and any
+combination thereof. Any such combination shall be considered an INTERGRAPH
+Licensed Product even though its elements are leased, sold or otherwise
+transferred at different times.
+
+     1.7  "Subsidiary" of a party hereto or of a third party shall mean a
+corporation, company or other entity:
+
+          (a)   more than fifty percent (50%) of whose outstanding shares or
+     securities (representing the right to vote for the election of directors
+     or other managing authority) are, now or hereafter, owned or controlled,
+     directly or indirectly, by a party hereto or such third party, but such
+     corporation, company or other entity shall be deemed to be a Subsidiary
+     only so long as such ownership or control exists; or
+
+          (b)   which does not have outstanding shares or securities, as may be
+     the case in a partnership, joint venture or unincorporated association,
+     but more than fifty percent (50%) of whose ownership interest representing
+     the right to make the decisions for such corporation, company or other
+     entity is now or hereafter, owned or controlled, directly or indirectly,
+     by a party hereto or such third party, but such corporation, company or
+     other entity shall be deemed to be a Subsidiary only so long as such
+     ownership or control exists.
+
+     1.8  "Authorized Assembler" shall mean a third party that, pursuant to
+a written contract with a Grantee, assembles Grantee's Licensed Products, in
+accordance with written specifications provided by said Grantee, for sale under
+Grantee's brand name.
+
+     1.9  "Effective Date" shall mean January 1, 2003.
+
+Section 2.     Grant of Rights
+               ---------------
+
+     2.1  IBM, on behalf of itself and its Subsidiaries, grants to INTERGRAPH,
+a nonexclusive and worldwide license under IBM's Licensed Patents:
+
+          (a)   to make (including the right to use any apparatus and practice
+     any method in making), use, import, offer for sale, lease, license,
+     sell and/or otherwise transfer INTERGRAPH Licensed Products; and
+
+          (b)   to have INTERGRAPH Licensed Products made by another
+     manufacturer for the use, importation, offer for sale,  lease, sale and/
+     or other transfer by INTERGRAPH only when the conditions set forth in
+     Section 2.2 are met.
+
+A particular Licensed Product shall be licensed under only those of IBM's
+Licensed Patents which, but for the license granted herein, would have been
+infringed (including contributory infringement) if INTERGRAPH had made, used,
+imported, offered for sale, leased, sold and/or otherwise transferred such
+product in the country where such Licensed Patents exist.
+
+The license granted by IBM to INTERGRAPH is fully paid up.
+
+     2.2  The license granted in Section 2.1(b) to INTERGRAPH to have
+products made by another manufacturer:
+
+          (a)   shall only apply to products sold to INTERGRAPH after the
+     Agreement Date;
+
+          (b)   shall only apply when the designs, working drawings, and/or
+     detailed specifications for such INTERGRAPH Licensed Products originated
+     with and were designed by INTERGRAPH (either solely or jointly with one or
+     more third parties) and that such designs are in sufficient detail that no
+     substantial additional design is required by the manufacturer;
+
+          (c)   shall only be under claims of IBM's Licensed Patents, the
+     infringement of which would be necessitated by compliance with such
+     specifications; and
+
+          (d)   shall not apply to (i) any methods used, or (ii) any products
+     in the form manufactured or marketed, by said other manufacturer prior to
+     INTERGRAPH's furnishing of said specifications.
+
+Unless INTERGRAPH informs IBM to the contrary, INTERGRAPH shall be
+deemed to have authorized said other manufacturer to make INTERGRAPH's
+Licensed Products under the license granted to INTERGRAPH in this
+section when the conditions specified in this Section 2.2 are
+fulfilled.  In response to a written request identifying a product and
+a manufacturer, INTERGRAPH shall in a timely manner inform IBM of the
+quantity of such product, if any, manufactured by such manufacturer
+pursuant to the license granted in Section 2.1(b).
+
+     2.3  Intergraph Properties Company, Inc.,Intergraph Hardware
+Technologies, Inc., and Intergraph Software Technology Company Inc.
+(hereinafter collectively referred to as "COMPANIES") and INTERGRAPH,
+each on behalf of itself and its Subsidiaries grants IBM a
+nonexclusive and worldwide license under INTERGRAPH and COMPANIES
+Licensed Patents:
+
+          (a)   to make (including the right to use any apparatus and practice
+     any method in making), use, import, offer for sale, lease, license,
+     sell and/or otherwise transfer IBM Licensed Products; and
+
+          (b)   to have IBM Licensed Products made by another manufacturer for
+     the use, importation, offer for sale,  lease, sale and/or other
+     transfer by IBM only when the conditions set forth in Section 2.4 are
+     met.
+
+A particular Licensed Product shall be licensed under only those of INTERGRAPH
+and COMPANIES Licensed Patents which, but for the license granted herein, would
+have been infringed (including contributory infringement) if IBM had made, used,
+imported, offered for sale, leased, sold and/or otherwise transferred such
+product in the country where such Licensed Patents exist.
+
+     2.4  The license granted in Section 2.3(b) to IBM to have products
+made by another manufacturer:
+
+          (a)   shall only apply to products sold to IBM after the Agreement
+     Date;
+
+          (b)   shall only apply when the designs, working drawings, and/or
+     detailed specifications for such IBM Licensed Products originated with
+     and were designed by IBM (either solely or jointly with one or more
+     third parties) and that such designs are in sufficient detail that no
+     substantial additional design is required by the manufacturer;
+
+          (c)   shall only be under claims of INTERGRAPH and COMPANIES Licensed
+     Patents, the infringement of which would be necessitated by compliance
+     with such specifications; and
+
+          (d)   shall not apply to (i) any methods used, or (ii) any products
+     in the form manufactured or marketed, by said other manufacturer prior to
+     IBM's furnishing of said specifications.
+
+Unless IBM informs INTERGRAPH to the contrary, IBM shall be deemed to have
+authorized said other manufacturer to make IBM's Licensed Products under the
+license granted to IBM in this section when the conditions specified in this
+Section 2.4 are fulfilled.  In response to a written request identifying a
+product and a manufacturer, IBM shall in a timely manner inform INTERGRAPH of
+the quantity of such product, if any, manufactured by such manufacturer
+pursuant to the license granted in Section 2.3(b).
+
+     2.5  Under this Agreement, COMPANIES shall be considered as Subsidiaries
+of INTERGRAPH, notwithstanding that they are Grantors under Section 2.3.
+COMPANIES shall not be considered to satisfy the term party or parties for any
+other section of this Agreement. For the avoidance of doubt INTERGRAPH Licensed
+Patents shall include all patents of COMPANIES as defined by Section 1.3.
+
+     2.6  Except as expressly provided herein, no license or immunity is granted
+under this Agreement by either party, either directly or by implication,
+estoppel or otherwise to any third parties acquiring items from either party
+for the combination of such acquired items with other items (unless such other
+items are acquired from either party hereto).
+
+     2.7  Subject to Section 2.8, the licenses granted herein shall include
+the right of each party to grant sublicenses to its Subsidiaries existing on or
+after the Agreement Date, which sublicenses may include the right of
+sublicensed Subsidiaries to sublicense other Subsidiaries of said party. Each
+sublicensed Subsidiary shall be bound by the terms and conditions of this
+Agreement, other than Section 4 and 5, as if it where named herein in the place
+of the party with whom the sublicense originated.   No sublicense shall be
+broader in any respect at any time during the life of this Agreement than the
+license held at that time by the party that granted the sublicense.
+
+     2.8  A sublicense granted to a Subsidiary shall terminate on the
+earlier of:
+
+          (a)   the date such Subsidiary ceases to be a Subsidiary; and
+
+          (b)   the date of termination or expiration of the license of the
+     party or Subsidiary that granted the sublicense.
+
+If a Subsidiary ceases to be a Subsidiary and holds any patents under which a
+party hereto is licensed, such license shall continue for the term defined
+herein.
+
+     2.9  In the event that neither a party nor any of its Subsidiaries has
+the right to grant a license under any particular Licensed Patent of the scope
+set forth in Section 2, then the license granted herein under said Licensed
+Patent shall be of the broadest scope which said party or any of its
+Subsidiaries has the right to grant within the scope set forth above.
+
+     2.10 If, after the Agreement Date, a party or any of its Subsidiaries
+("Acquiring Party") either acquires an entity or acquires substantially all of
+the assets from an entity, and said entity is, immediately prior to the date of
+acquisition, licensed by the other party ("Licensor") under one or more
+Licensed Patents through an existing agreement pursuant to which royalties or
+other payments are made by said entity to Licensor, then the license and other
+rights granted herein to the Acquiring Party with respect to said Licensed
+Patents shall apply to products manufactured by said entity or through the use
+of said assets, provided that such royalties or other payments shall continue
+to be made by the Acquiring Party or said entity to the Licensor with respect
+to such products notwithstanding that the Acquiring Party may have been
+licensed for the same Licensed Products before the acquisition.
+
+     2.11 If, subsequent to the Agreement date, a party (the "Transferring
+Party") either: (i) transfers a product line to a third party without
+transferring a Subsidiary to said third party; or (ii) spins off a Subsidiary
+(either by disposing of it to a third party or in some other manner reducing
+ownership or control so that the spun-off entity is no longer a Subsidiary);
+and if such transfer or spin off includes at least one marketable product in a
+product line and tangible assets having a net value of at least twenty five
+million US dollars ($25,000,000.00), then after written request to the other
+party hereto jointly by the Transferring Party and either: (i) such third party
+in the case of a transfer; or (ii) such ex-Subsidiary in the case of a spin off;
+and where, in either case, such request is within sixty (60) days following the
+transfer or spin off, the other party hereto shall grant a royalty-free license
+(under the same terms as the license granted to the Transferring Party herein)
+under its Licensed Patents for the field (as such field is defined between the
+Transferring Party and the other party or ex-Subsidiary) of such product line
+to such third party or such ex-Subsidiary, (the "Recipient") provided that:
+
+          (a)   such field shall not be defined more broadly than appropriate
+     to cover the particular product line being transferred or spun off,
+     including extensions thereto based on the same technology;
+
+          (b)   the license granted shall be limited in the twelve (12) months
+     immediately following such transfer or spin off to a volume of licensed
+     products having an aggregate selling price equal to no more than the
+     aggregate selling prices of such products by said one party in the twelve
+     (12) months preceding such transfer or spin off plus ten percent (10%);
+     and shall be limited, in each of the successive twelve-month periods
+     following such transfer or spin off, to a volume of licensed products
+     having an aggregate selling price equal to no more than the limit for the
+     immediately preceding twelve-month period plus ten percent (10%);
+
+          (c)   the Recipient shall grant to such other party a royalty-free
+     license (under the same terms as the license granted to such other
+     party herein) under all Recipient Patents for all products licensed
+     herein to such other party on the date of the product line transfer or
+     spin off.  "Recipient Patents" shall mean all patents throughout the
+     world under which, at any time commencing with the date of the product
+     line transfer or spin off, the Recipient or any of its Subsidiaries
+     has the right to grant such licenses;
+
+          (d)   this Section 2.11, Section 3, and Section 4 shall be omitted
+     from the license granted to the Recipient; and
+
+          (e)  the license granted to the Recipient shall terminate if the
+     license granted to the Transferring Party terminates or is terminated
+     for any reason.
+
+Notwithstanding the foregoing provisions of this Section 2.11, the transfer by
+one party of substantially all of its assets to any third party shall not be
+considered to be a transfer of a product line or a spin off of a Subsidiary
+under this Section 2.11, and the other party shall have no obligation to grant
+a license under its Licensed Patents to such third party as a result of such
+transfer.
+
+     2.12      A product which, if assembled by Grantee, would be licensed to
+Grantee hereunder shall also be licensed hereunder if assembled by an
+Authorized Assembler, provided the product is sold under Grantee's
+brand name.
+
+     2.13      If, pursuant to a license granted by Grantee to a third party,
+copies are made of all or part of a computer program provided by
+Grantee, such copies will be treated for purposes of this Agreement as
+if they had been transferred directly by Grantee, provided:
+
+               (a)   such copies are transferred or used by such third party
+         as products of Grantee; and
+
+               (b)   there is an accounting back to Grantee for all copies so
+         made.
+
+
+       2.14 [_____________________________________________________________]*
+
+*CONFIDENTIAL INFORMATION HAS BEEN OMITTED AND FILED SEPARATELY WITH THE
+COMMISSION
+
+Section 3.     Releases
+               --------
+
+       3.1     Each party (as "Releasor") on behalf of itself and its
+Subsidiaries which are Subsidiaries on the Agreement Date, irrevocably releases
+the other party, its Subsidiaries which are Subsidiaries on the Agreement Date
+and its and their respective customers from any and all claims of infringement
+of Releasor's Licensed Patents which claims are based on acts prior to the
+Effective Date, which, had they been performed after the Effective Date would
+have been licensed under this Agreement.
+
+The release contained herein shall not apply to any person other than the
+persons named in this Section 3 and shall not apply to the manufacture of any
+items by any person other than the parties and their Subsidiaries.  The
+releases granted shall be effective immediately.
+
+Section 4.     Payment
+               -------
+
+       4.1     IBM shall pay to INTERGRAPH the total sum of ten million US
+Dollars ($10,000,000) in the following installments:
+
+               (a)  five million US dollars ($5,000,000) within 30 days after
+         signing of this Agreement; and
+
+               (b)  five million US dollars ($5,000,000) on or before April 10,
+         2003.
+
+[_______________________________________________________________________] *
+
+*CONFIDENTIAL INFORMATION HAS BEEN OMITTED AND FILED SEPARATELY WITH THE
+COMMISSION
+
+
+Section 5.     Term of Agreement; Acquisition of a Party
+               -----------------------------------------
+
+       5.1     The term of the licenses granted under this Agreement shall be
+from the Effective Date until the expiration of the last to expire of
+the Licensed Patents, unless earlier terminated under the provisions
+of this Agreement.
+
+       5.2     If one party (the "Acquired Party") is acquired by a third
+party:
+
+               (a)   the Acquired Party shall promptly give notice of such
+         acquisition to the other party; and
+
+               (b)   the license granted to the Acquired Party and all
+         sublicenses (if any) granted to the Acquired Party's remaining
+         Subsidiaries shall automatically become limited to only those products
+         manufactured and marketed by said Acquired Party prior to said
+         acquisition [____________________________________________________]. *
+
+*CONFIDENTIAL INFORMATION HAS BEEN OMITTED AND FILED SEPARATELY WITH THE
+COMMISSION
+
+Section 6.     Means of Payment and Communication
+               ----------------------------------
+
+      6.1      Payment shall be made by electronic funds transfer.  Payments
+shall be deemed to be made on the date credited to the following account:
+
+         [__________________________] *
+
+*CONFIDENTIAL INFORMATION HAS BEEN OMITTED AND FILED SEPARATELY WITH THE
+COMMISSION
+
+       6.2     Notices and other communications shall be sent by facsimile or
+by registered or certified mail to the following addresses and shall be
+effective upon mailing:
+
+         For IBM:
+         Director of Licensing
+         IBM Corporation
+         North Castle Drive, MD-NC119
+         Armonk, NY  10504-1785
+         United States of America
+         Facsimile: (914) 765-4380
+
+         For INTERGRAPH:
+         Intergraph Hardware Technologies Company Inc.
+         2325B Renaissance Drive
+         Suite 16
+         Las Vegas, NV  89119; and
+
+         David Vance Lucas
+         Office of General Counsel
+         Mailstop IW2008
+         Huntsville, AL  35894-0001
+
+       6.3     A License Reference Number will be assigned to our agreement
+upon execution.  This number should be included in all communications, including
+wire transfer payments, royalty reports, tax credit certificates, letters, faxes
+and E-Mail messages.
+
+Section 7.     Miscellaneous
+               -------------
+
+       7.1     Neither party shall assign or grant any right under any of its
+Licensed Patents unless such assignment or grant is made subject to the terms
+of this Agreement.
+
+       7.2     Neither party shall assign any of its rights (other than the
+right to receive payments) or delegate any of its obligations under this
+Agreement.  Any attempt to do so shall be void.  However, a party which
+undergoes reorganization may assign such rights and delegate such obligations
+to its legal successor, provided that after the reorganization, the successor
+and its Subsidiaries will have essentially the same assets as such party and
+its Subsidiaries had prior to the reorganization.
+
+       7.3     Except as otherwise agreed in writing, neither party shall use
+or refer to this Agreement or any of its provisions in any promotional activity.
+
+       7.4     Each party represents and warrants that it has the full right and
+power to grant the license and release set forth in Sections 2 and 3. Each party
+(as a Grantor) further represents and warrants that prior to the Agreement Date,
+it has informed the other party of any patent originating from inventions made
+by employees of Grantor or its Subsidiaries, which patent is or was owned by
+Grantor or its Subsidiaries as of the Effective Date, and which patent, owing
+to prior arrangements with third parties, does not qualify as a Licensed Patent
+of Grantor under which licenses are granted in Section 2.  A listing of such .
+patents owned by IBM is attached as Attachment A. Neither party makes any other
+representation or warranty, express or implied, nor shall either party have any
+liability in respect of any infringement of patents or other rights of third
+parties due to the other party's operation under the license herein granted.
+
+       7.5     Nothing contained in this Agreement shall be construed as
+conferring any rights by implication, estoppel or otherwise, under any
+non-patent intellectual property right, or any patents or patent applications,
+other than the Licensed Patents.  Neither party is required hereunder to
+furnish or disclose to the other any technical or other information (including
+copies of Licensed Patents) except as specifically provided herein.
+
+       7.6     Neither party shall have any obligation hereunder to institute
+any action or suit against third parties for infringement of any of its
+Licensed Patents or to defend any action or suit brought by a third party which
+challenges or concerns the validity of any of its Licensed Patents.  Neither
+party shall have any right to institute any action or suit against third
+parties for infringement of any of the other party's Licensed Patents.  Neither
+party, nor any of its Subsidiaries, is required to file any patent application,
+or to secure any patent or patent rights, or to maintain any patent in force.
+
+       7.7     Each party shall, upon a request from the other party
+sufficiently identifying any patent or patent application, inform the other
+party as to the extent to which said patent or patent application is subject to
+the licenses and other rights granted hereunder.  If such licenses or other
+rights under said patent or patent application are restricted in scope, copies
+of all pertinent provisions of any contract or other arrangement creating such
+restrictions shall, upon request, be furnished to the party making such request,
+unless such disclosure is prevented by such contract, and in such event, a
+statement of the nature of such restriction shall be provided.
+
+       7.8     If a third party has the right to grant licenses under a patent
+to a party hereto (as a "Licensee") with the consent of the other party hereto,
+said other party shall provide said third party with any consent required to
+enable said third party to license said Licensee on whatever terms such third
+party may deem appropriate.  Each party hereby waives any right it may have to
+receive royalties or other consideration from said third party as a result of
+said third party's so licensing said Licensee within the scope of the licenses
+granted under Section 2 of this Agreement.
+
+       7.9     This Agreement shall not be binding upon the parties until it
+has been signed hereinbelow by or on behalf of each party.  No amendment or
+modification hereof shall be valid or binding upon the parties unless made in
+writing and signed as aforesaid, except that INTERGRAPH may amend Section 6.1
+and either party may amend its address in Section 6.2 by written notice to the
+other party.
+
+       7.10    The Licensed Products of a party to this Agreement, which are
+leased, sold or otherwise transferred by such party or its sublicensed
+Subsidiary during the term of this Agreement, shall be considered to be
+licensed under any of the others party's Licensed Patents which at any time
+covers such Licensed Products, notwithstanding that the Licensed Product has
+been re-leased, re-sold or re-transferred by any entity in the same or another
+country.
+
+       7.11    If any section of this Agreement is found by competent authority
+to be invalid, illegal or unenforceable in any respect for any reason, the
+validity, legality and enforceability of such section in every other respect
+and the remainder of this Agreement shall continue in effect so long as the
+Agreement still expresses the intent of the parties.  However, if the intent of
+the parties cannot be preserved, this Agreement shall be either renegotiated or
+terminated.
+
+       7.12    This Agreement shall be construed, and the legal relations
+between the parties hereto shall be determined, in accordance with the law of
+the State of New York, USA, as such law applies to contracts signed and fully
+performed in New York.
+
+       7.13    The headings of sections are inserted for convenience of
+reference only and are not intended to be a part of or to affect the meaning or
+interpretation of this Agreement.
+
+       7.14    Each party agrees not to disclose this Agreement to any third
+party (other than its Subsidiaries) without the prior written consent of the
+other party.  This obligation is subject to the following exceptions:
+
+               (a)  disclosure is permissible if required by government or
+          court order, provided the party required to disclose first gives the
+          other prior written notice to enable it to seek a protective order;
+
+               (b)  disclosure is permissible if otherwise required by law;
+
+               (c)  disclosure is permissible if required to enforce rights
+          under this Agreement;
+
+               (d)  each party may use similar terms and conditions in other
+          agreements; and
+
+               (e)  each party may disclose this Agreement or its contents to
+          the extent reasonably necessary, on a confidential basis, to its
+          accountants, attorneys, financial advisors, its present or future
+          providers of venture capital and/or potential investors in or
+          acquirers of such party or product lines which qualify under Section
+          2.8.
+
+
+
+     This Agreement and its attachments embody the entire understanding of the
+     parties with respect to the Licensed Patents, and replaces any prior oral
+     or written communications between them.
+
+Agreed to:                              Agreed to:
+INTERGRAPH CORPORATION                  INTERNATIONAL BUSINESS
+                                        MACHINES CORPORATION
+
+
+By:/s/ David Vance Lucas             By:  /s/ Gerald Rosenthal
+Name:  David Vance Lucas                  Gerald Rosenthal
+Title: Vice President and General         Vice President
+       Counsel
+Date:  January 30, 2003              Date:   January 30, 2003
+
+
+                             As Grantors:
+
+Agreed to:                             Agreed to:
+Intergraph Properties                  Intergraph Software
+Company, Inc.                          Technology Company Inc.
+
+
+By:  /s/ David R. Hancock              By:  /s/ David R. Hancock
+Name:    David R. Hancock              Name:    David R. Hancock
+Title:   President                     Title:   President
+Date:    January 30, 2003              Date:    January 30, 2003
+
+
+Agreed to:
+Intergraph Hardware
+Technologies, Inc.
+
+
+By:  /s/ David R. Hancock
+Name:    David R. Hancock
+Title:   President
+Date:    January 30, 2003
+
+                             ATTACHMENT A
+                             ------------
+
+                         Non-Licensed Patents
+
+          PATENTS OWNED BY IBM WHICH ARE NOT LICENSED PATENTS
+
+PATENT NUMBER      TITLE
+-------------      -----
+
+U.S. 5,086,401     Image-Directed Robotic System for Precise Robotic Surgery
+                   Including Redundant Consistency Checking
+     5,279,309     Signalling Device and Method for Monitoring Positions in a
+                   Surgical Operation
+     5,299,288     Image-Directed Robotic System for Precise Robotic Surgery
+                   Including Redundant Consistency Checking
+     5,343,385     Interference-Free Insertion of a Solid Body Into a
+                   Cavity
+     5,397,323     Remote Center-of-Motion Robot for Surgery
+     5,402,801     System and Method for Augmentation of Surgery
+     5,408,409     Image-Directed Robotic System for Precise Robotic Surgery
+                   Including Redundant Consistency Checking
+     5,417,210     System and Method for Augmentation of Endoscopic Surgery
+     5,445,166     System for Advising a Surgeon
+     5,487,120     Optical wavelength division multiplexer for high speed,
+                   protocol-independent serial data sources
+     5,572,999     Robotic System for Positioning a Surgical Instrument
+                   Relative to a Patient's Body
+     5,630,431     System and Method for Augmentation of Surgery
+     5,695,500     System for Manipulating Movement of a Surgical Instrument
+                   with Computer Controlled Brake
+     4,912,521     Electro-optical transducer assembly
+     5,005,939     Optoelectronic assembly
+     5,202,943     Optoelectronic assembly with alignment member
+     5,295,214     Optical module with tolerant wave soldered joints
+     5,329,428     High-density packaging for multiple
+                   removable electronics subassemblies
+     5,329,604     Optical fiber coupling device and
+                   optoelectronic system utilizing same
+     5,511,140     Molded plastic optical fiber-optoelectronic converter
+                   subassembly
+     5,513,073     Optical device heat spreader and thermal isolation apparatus
+     5,537,504     Molded plastic optical fiber-optoelectronic converter
+                   subassembly
+     5,604,831     Optical module with fluxless laser reflow solder joints
+     5,631,991     Plastic optical subassemblies for light transfer between an
+                   optical fiber and an optoelectronic converter and the
+                   fabrication of such plastic optical subassemblies
+     5,632,630     Optical module with tolerant wave soldered joints
+     5,663,526     Optical module with tolerant wave soldered joints
+     5,742,025     Laser reflow soldering process with lead-tin solder pads
+     5,763,854     Machine for laser reflow soldering
+     5,802,711     Process for making an electrical interconnect structure
+     5,852,257     Optical module with fluxless laser reflow solder joints
+     5,901,263     Hot pluggable module integrated lock/extraction tool
+     5,980,324     Guide rail and CAM system with integrated connector for
+                   removable transceiver
+     6,074,228     Guide rail and CAM system with integrated connector for
+                   removable transceiver
+     6,085,006     Optical fiber link module with internal electromagnetic
+                   shield
+     6,091,750     Method and apparatus for providing hot plugging protection
+                   for laser optoelectronic devices
+     6,142,802     Guide rail and CAM system with integrated connector for
+                   removable transceiver
+     6,149,465     Guide rail and CAM system with integrated connector for
+                   removable transceiver
+     6,200,041     Data transfer system incorporating optical fiber link module
+                   with internal electromagnetic shield
+     6,302,596     Small form factor optoelectric transceivers
+     6,304,436     Connector system with outwardly opening door for a removable
+                   transceiver module
+     09/410016     Electronic interference shield and ground cage
+     09/410786     Removable latch with bezel EMI grounding feature for fiber-
+                   optic transceivers
+     09/489184     Removable small form factor fiber optic transceiver module
+                   and electromagnetic radiation shield
+     09/489870     Removable small form factor fiber optic transceiver module
+                   chassis
+     09/566012     Internal electromagnetic radiation shield with ground cage
+                   connection for removable small form factor
+     09/591640     Pivoting type latch for removable electronic devices
+     09/616576     Optoelectronic transceiver employing test band signaling
+     09/656086     Electromagnetic radiation grounding shield for optoelectronic
+                   components
+     09/657214     Pull type latch mechanism for removable small form factor
+                   electronic modules
+     09/669624     Pull type latch mechanism for removable small form factor
+                   electronic modules
+     09/703644     Enhanced module kick-out spring mechanism for removable
+                   small form factor optical transceiver
+     09/801320     Pull-to-release latch for removable small form factor
+                   electronic modules
+     09/809127     High frequency matching method and silicon optical bench
+                   employing high frequency matching networks
+     09/809531     Technique and apparatus for compensating for variable
+                   lengths of terminated optical fibers in confined spaces
+     09/809650     Optical fiber coupler and an optical fiber coupler
+                   incorporated within a transceiver module
+     09/852003     Module having a latch
+     09/885683     Optical subassembly for optical communications
+     09/893812     A processing protective plug insert for optical modules
+     09/946053     Opto-electronic transceiver module and hermetically sealed
+                   housing therefore
+     09/985345     Enhanced flex cable
+     09/994229     Detector for short wave fiber optic communications with
+                   compensation to reduce detector jitter
+     09/995107     Fiber optic transceiver array for implementing testing
+     10/015024     Compact optical transceiver module having housing with
+                   improved coupling mechanism and assembly method thereof
+
+and all continuations (including continuations in part), divisions, reissues
+and foreign counterparts thereof.
+
+
+                           END ATTACHMENT A
+                           ----------------
+
+
+
+</TEXT>
+</DOCUMENT>

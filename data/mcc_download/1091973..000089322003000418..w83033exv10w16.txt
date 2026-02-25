@@ -1,0 +1,1010 @@
+<DOCUMENT>
+<TYPE>EX-10.16
+<SEQUENCE>7
+<FILENAME>w83033exv10w16.txt
+<DESCRIPTION>ROAMING AGREEMENT SUPPLEMENT FOR GSM AND/OR GPRS
+<TEXT>
+<PAGE>
+                                                               Exhibit 10.16
+
+
+         ROAMING AGREEMENT SUPPLEMENT ("SUPPLEMENT") FOR GSM AND/OR GPRS
+
+                                     BETWEEN
+
+                          AT&T WIRELESS SERVICES, INC.,
+                         having its registered address:
+
+                     7277 164th Avenue NE, Redmond WA 98052
+          (hereinafter referred to as "A" or "AT&T Wireless" or "AWS")
+
+                                       and
+
+                       TRITON PCS OPERATING COMPANY L.L.C.
+                         having its registered address:
+
+                       1100 Cassatt Road, Berwyn, PA 19312
+(hereinafter referred to as "B" or "Triton" and, together with A, AT&T Wireless
+                             or AWS, the "Parties")
+
+The above mentioned Parties are parties to a certain Intercarrier Roamer Service
+Agreement dated as of the 4th day of February, 1998 (as amended to date, and as
+may be further amended from time to time, the "Roaming Agreement"). Such Parties
+hereby agree to supplement the Roaming Agreement by establishing GSM and GPRS
+Roaming between each other (and the related pricing therefor) when operating GSM
+or GPRS digital telecommunications services, all on the terms and conditions
+stated below.
+
+In this Supplement is included the General Terms and Conditions for GSM and /or
+GPRS Roaming and the mutually agreed to portion of the Annexes (GSM Association
+Permanent Reference Documents AA.13 and AA.14).
+
+The term "Agreement" used throughout the General Terms and Conditions for GSM
+and/or GPRS Roaming shall mean this Supplement and the General Terms and
+Conditions for GSM and/or GPRS Roaming as defined above.
+
+The mutually agreed to portion of the Annexes, including the Overview of the
+Annex Structure, constitute an integral part of this Supplement. All notices,
+information and communication required under this Supplement shall be given as
+described in Annex C.1: Agreement Management Principles.
+
+The targeted starting date for commercial Roaming in respect of this Supplement
+shall be December 1, 2002. However, both Parties have to confirm the actual
+commercial starting date for Roaming (the "Roaming Start Date") in written form
+after successful substantial completion of all necessary test procedures.
+
+<TABLE>
+<S>                                         <C>
+Date      10-3-02                           Date       10-4-02
+     -----------------------                    -----------------------
+     /s/ Robert Stokes                      /s/ David Clark
+     ---------------------------            ---------------------------
+     For AT&T Wireless Services, Inc.       for Triton PCS Operating Company L.L.C.
+     Mr. Robert Stokes                      By: Triton Management Company, Inc., its manager
+     Senior Vice President                  David Clark
+     Corporate Development                  Executive Vice President
+</TABLE>
+<PAGE>
+1.       PARTIES
+
+         General Terms and Conditions for GSM and/or GPRS Roaming apply for the
+         Parties who have signed this Supplement.
+
+2.       INTRODUCTION
+
+         The Parties have expressed their wish to supplement the Roaming
+         Agreement for the establishment of Roaming Services between their GSM
+         and /or GPRS networks (and the related pricing therefor) and it is
+         therefore agreed as follows:
+
+3.       DEFINITIONS
+
+         For the purpose of this Supplement the following terms shall have the
+         meanings set forth in their respective definitions, unless a different
+         meaning is called for in the context of another provision in this
+         Supplement:
+
+3.1      "Date of this Supplement" shall mean the date as of which both Parties
+         have signed this Supplement by their duly authorized representatives.
+
+3.2      "Roaming Subscriber" shall mean a person or entity with valid
+         subscription for use issued by one of the Parties and using a GSM SIM
+         (Subscriber Identity Module) and/or a GSM USIM (Universal Subscriber
+         Identity Module) who seeks GSM and/or GPRS service(s) in a geographic
+         area outside the area served by its HPMN Operator.
+
+3.3      "Technical Specifications" shall mean the technical specifications
+         defined and adopted by 3GPP (Third Generation Partnership Project),
+         including the ETSI technical specifications defined and adopted by
+         3GPP.
+
+3.4      "GSM Association Plenary" shall mean the group of appointed
+         representatives of the Signatories of the GSM Association.
+
+3.5      "GSM Association Permanent Reference Documents" shall mean the
+         documents that are established, recognized and classified as binding by
+         the GSM Association Plenary.
+
+3.6      "HPMN Operator" shall mean a Party who is providing Services to its
+         subscribers in a geographic area where it holds a license or has a
+         right to establish and operate a GSM and/or GPRS network.
+
+3.7      "VPMN Operator" shall mean a Party who allows Roaming Subscribers to
+         use its GSM and/or GPRS network(s).
+
+3.8      "Roaming" shall include GSM and/or GPRS Roaming.
+
+3.9      "TAP" shall mean Transferred Account Procedure as defined and described
+         in GSM Association Permanent Reference Documents.
+
+3.10     "Services" shall mean the services for GSM and/or GPRS Roaming as
+         agreed upon by the Parties in AA.14 and may include:
+
+3.10.1   Circuit Switched based services, hereinafter called "CS" and/or "GPRS
+         CS" as specified in AA.14, Annex 1.2,; and/or
+<PAGE>
+3.10.2   Packet Switched based services, hereinafter called "GPRS" and/or "GPRS
+         PS" as specified in AA.14, Annex 1.2.
+
+3.11     "GPRS Roaming" shall mean General Packet Radio Service Roaming,
+         providing packet mode transmission between PMN's and interworking with
+         external networks. GPRS Roaming allows the service subscriber to send
+         and receive data in an end-to-end packet transfer mode, without
+         utilizing network resources in circuit switched mode, outside of their
+         HPMN. For the avoidance of doubt, and in accordance with the relevant
+         licensing requirements, GPRS Roaming shall not prevent the user's
+         operation of other GSM Services.
+
+3.12     "GSM Roaming" shall mean GSM roaming which means providing circuit mode
+         and packet mode transmission between PMN's. GSM Roaming allows the
+         service subscriber to send and receive data in an end-to-end packet
+         transfer mode outside their HPMN and also make circuit switched
+         connections, such as voice calls.
+
+
+4.       ANNEXES
+
+         The Annexes are divided as set out in the Overview of the Annex
+         Structure, in Common Annexes and in 2 sets of individual Annexes; one
+         set for each operator.
+
+5.       SCOPE OF THIS SUPPLEMENT
+
+5.1      In respect of and subject to their licenses or rights and other
+         national binding regulations to establish and operate GSM and/or GPRS
+         networks, the Parties to this Supplement agree to establish Roaming
+         between their GSM and/or GPRS network(s) in accordance with relevant
+         Technical Specifications and GSM Association Permanent Reference
+         Documents, including all the commercial aspects, as defined in the
+         Annexes hereto or as may be amended from time to time.
+
+5.2      Additional requirements and exceptions to the Technical Specifications
+         and GSM Association Permanent Reference Documents, as agreed between
+         the Parties, are detailed in the Annexes to this Supplement as may be
+         amended from time to time.
+
+5.3      Subject to each Party's respective national law, rules or regulations,
+         nothing in this Supplement prevents a Party from offering its services
+         within the EU, either directly or through service providers or agents
+         outside its licensed area.
+
+6.       IMPLEMENTATION OF THE NETWORK AND SERVICES
+
+6.1      Network Implementation
+
+         The Parties agree to comply with the relevant requirements and
+         procedures of the GSM Association Permanent Reference Documents agreed
+         by the GSM Association from time to time and as amended by the GSM
+         Association from time to time.
+
+6.2      Services
+<PAGE>
+6.2.1    The Services provided by each Party are defined in Annex I.2 as may be
+         amended from time to time.
+
+6.2.4    6.2.2 The Services made available to individual Roaming Subscribers
+         shall only be those for which the Roaming Subscribers have valid
+         subscriptions in their HPMN. Both parties agree that the Roaming
+         Subscribers, during Roaming, may experience conditions of service
+         different from the conditions in their HPMN.
+
+7.       MODIFICATIONS
+
+7.1      This Supplement shall not limit each Party's ability to implement new
+         Services or change its existing Services as it sees fit. Each Party
+         agrees to use its best efforts to give the other Party at least four
+         (4) weeks written notice of any major change which has an impact on
+         Roaming.
+
+7.2      Following such notice of change both Parties agree to discuss the
+         impact of any such change for Roaming Subscribers including Roaming
+         Subscribers access to these Services and the necessary actions to be
+         performed, e.g. testing or administrative activities.
+
+8.       CHARGING, BILLING AND ACCOUNTING
+
+8.1      Charging and tariffs
+
+         8.1.1 Both Parties agree that when a Roaming Subscriber uses the
+         Services of the VPMN Operator, the Roaming Subscriber's HPMN Operator
+         shall be responsible for payment of charges for the Services so used in
+         accordance with the tariff of the VPMN Operator stated in Annex I.3.1.
+         Subject to the other provisions of this Article 8, the Parties agree
+         that, for the duration of this Supplement, the VPMN Operator tariffs
+         for domestic Roaming shall be the following:
+
+TRITON AS VPMN     AWS AS VPMN      TOLL RATE    GPRS RATE      SMS RATE
+*****              *****            *****        *****          *****
+
+         Tariffs for calls to international destinations are identified in Annex
+         I.3.1.
+
+8.1.2    However, the HPMN Operator shall not be liable for the payment of
+         charges for chargeable Services provided by the VPMN Operator without
+         Subscriber Identity Authentication as defined in GSM Association
+         Permanent Reference Documents, except to the extent that the HPMN
+         Operator actually recovers all charges due in relation to the Roaming
+         Subscriber. In the case of re-authentication malfunction, procedures
+         are further detailed in Annex I.5.2.
+
+8.1.3    Notwithstanding the foregoing, the Service charges described above in
+         any geographic area shall be reasonably competitive, taking into
+         account price, coverage and quality, with the rates charged for
+         comparable telecommunications services by other carriers in such
+         geographic area, disregarding any carriers that do not service a
+         material number of customers in such geographic area covered by this
+         Supplement, and if such Service charges are not so competitive, such
+         Service charges shall be reduced to a reasonably competitive rate for
+         any such area served by a carrier offering a more competitive rate.
+
+***** Certain information on this page has been omitted from this filing and
+filed separately with the Securities and Exchange Commission. Confidential
+treatment has been requested with respect to the omitted portions.
+<PAGE>
+8.1.4    *****
+
+8.2      Implementation of TAP
+
+         The implementation of TAP shall be done according to the GSM
+         Association Permanent Reference Documents and the provisions set out in
+         the Annex C.3.1.
+
+8.3      Billing and Accounting
+
+         The implementation of billing and accounting shall be done according to
+         the GSM Association Permanent Reference Documents and the provisions
+         set out in Annex C.3.2.
+
+8.4      Any company that contracts with AWS for roaming administration may be
+         deemed an Affiliate of AWS for the purposes of this Supplement upon the
+         receipt of the written consent of Triton, which consent shall not be
+         unreasonably withheld.
+
+9.       CUSTOMER CARE
+
+         The responsibilities of each Party concerning Customer Care are
+         described in Annex C.4.
+
+10.      CONFIDENTIALITY
+
+10.1     The Parties agree that all aspects of the contents of this Supplement
+         shall be treated as confidential and that no information in respect to
+         the content of this Supplement shall be disclosed without the prior
+         written consent of both of the Parties except as necessary to implement
+         this Supplement and inform customers and except as otherwise provided
+         in this Article 10.
+
+10.2     The Parties hereby agree to treat all information exchanged between
+         them under this Supplement (hereinafter referred to as "Information")
+         as confidential and agree not to disclose such Information in any
+         manner whatsoever, in whole or in part except as provided in this
+         Article 10. The other Party shall not use any Information other than in
+         connection with the discussions between them and any transactions
+         resulting therefrom, or for the borrowing of funds or obtaining of
+         insurance, in which case the lenders or insurance companies are obliged
+         to undersign a confidentiality undertaking which has the equivalent
+         content as this Article 10 before receiving the Information. Each Party
+         shall be liable to the other Party in respect of any unauthorized
+         disclosure of Information made by the lender or by the insurance
+         company to whom it has disclosed Information.
+
+10.3     The Parties will disclose Information only to their directors,
+         employees, professional advisers and agents who need to know such
+         Information for the purposes of providing Roaming services and any
+         transaction resulting therefrom, or for the borrowing of funds or
+         obtaining of insurance and who are informed of the confidential nature
+         of such Information.
+
+10.4     In addition to the above, Information may be transmitted to
+         governmental, judicial or regulatory authorities, as may be required by
+         any governmental, judicial or regulatory authority.
+
+***** Certain information on this page has been omitted from this filing and
+filed separately with the Securities and Exchange Commission. Confidential
+treatment has been requested with respect to the omitted portions.
+<PAGE>
+10.5     For the purposes of the Supplement, Information shall not be considered
+         to be confidential if such Information is:
+
+         a) in or passed into the public domain other than by breach of this
+         Article; or
+
+         b) known to a receiving Party prior to the disclosure by a disclosing
+         Party; or
+
+         c) disclosed to a receiving Party without restriction by a third party
+         that the Receiving Party believes has the full right to disclose; or
+
+         d) independently developed by a receiving Party to whom no disclosure
+         of confidential Information relevant to such Information has been made.
+
+10.6     Article 10 shall survive the termination of this Supplement for a
+         period of ten (10) years but shall not in any way limit or restrict a
+         disclosing Party's use of its own confidential Information.
+
+11.      DATA PRIVACY
+
+11.1     Each Party's obligations hereunder to transfer information to the
+         other Party shall not apply to the extent that a Party is prohibited
+         from doing so by the regulations and laws of its own country applicable
+         to Roaming and/or data protection.
+
+11.2     Each Party shall inform its subscribers that during Roaming, the
+         storage, treatment and transfer of their personal data may be subject
+         to regulation different from the regulation in their own country.
+
+11.3     The Parties confirm that they shall comply with applicable Data Privacy
+         Regulations/Laws. Further Details of Data Privacy aspects are given in
+         Annexes C.6. and I.6
+
+12.      FRAUD PREVENTION
+
+         The Parties shall co-operate in good faith regarding the procedures
+         concerning fraudulent or unauthorised use by Roaming Subscribers.
+         Details of Fraud Prevention procedures are given in Annex C.7.
+
+13.      DURATION OF THIS SUPPLEMENT
+
+         This Supplement  comes into force on the Date of this Supplement and
+         shall remain in force until the date that is four (4) years after the
+         Roaming Start Date. Unless either party provides the other with no less
+         than ninety (90) days notice prior to the expiration of the initial
+         term, this Supplement shall continue on a month-to-month basis, subject
+         to termination by either party on ninety (90) days notice.
+
+14.      MISCELLANEOUS
+
+         The Roaming Agreement as supplemented hereby constitutes the entire
+         agreement of the Parties with respect to the subject matter hereof and
+         thereof, and supersedes all prior and contemporaneous agreements with
+         respect to such subject matter. Neither the existence nor the terms of
+         this Supplement (or any other agreement, exhibit or annex referred to
+         herein), nor the Parties' performance of their obligations hereunder,
+         shall (i) constitute an approval or consent, or a waiver or
+         modification by any Party of any rights, remedies or obligations that
+         such Party may have (including, without limitation, with respect to
+         exclusivity rights), under any other agreements (including, without
+         limitation,
+
+<PAGE>
+         the First Amended and Restated Stockholders' Agreement of Triton PCS
+         Holdings, Inc. dated October 27, 1999, as amended, among certain
+         Affiliates of the Parties) or (ii) be used to interpret the provisions
+         or intent of such Stockholders Agreement in any arbitration, litigation
+         or other adversarial proceeding.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE>
+ANNEX C.1 AGREEMENT MANAGEMENT PRINCIPLES
+
+Notices
+
+All notices, information and communications required under this Agreement shall
+be given in writing and be in the English language and shall be sent either by
+mail, telefax or preferably secure e-mail to the addresses indicated in Annex
+I.1.1.
+
+Each Operator specifies only one contact point for exchange of updates to the
+Agreement.
+
+Structure of Annexes and Addenda
+
+The Annexes are of two types:
+
+                           "Common" Annexes are common for both Parties.
+
+                           "Individual" Annexes consist of two separate parts,
+                           one part for each Party. Each Party provides and
+                           maintains his own part. This gives the possibility to
+                           update e.g. a contact point list individually for
+                           each operator.
+
+Each set of individual Annexes holds a revision sheet containing an index of all
+individual Annexes contained, with the revision status and recognition level.
+
+"Addenda" are common for both Parties.
+
+Revision Procedure
+
+The general revision procedure is specified in the Agreement. For the updating
+of the Annexes the following procedure is recommended:
+
+                           All updates to the Annexes shall be exchanged by mail
+                           or courier. For individual Annexes, each Party
+                           updates separately: The updating Party shall forward
+                           at least one signed copy of the updated pages,
+                           including an updated revision sheet to the contact
+                           point indicated in Annex I.1.1. The receiving Party
+                           acknowledges/approves the updating by returning the
+                           revision sheet duly signed.
+
+                           For common Annexes the updating Party shall forward 2
+                           signed copies of the updated pages to the contact
+                           point indicated in Annex I.1.1. The receiving Party
+                           approves the updating by returning one of the 2
+                           copies, duly signed.
+
+Each revision shall be clearly identified by its Revision date. For Annexes of
+informative type (to be acknowledged by receiving Party), the Revision date is
+equal to the date of issue. For other Annexes, the Revision date is equal to the
+date when the Annex is approved by both Parties.
+
+
+
+DATE: 10/03/02  /s/ Robert Stokes       DATE: 10/04/02  /s/ David Clark
+                -------------------                     ------------------
+APPROVED BY:      Robert Stokes         APPROVED BY:  David Clark
+SVP Corporate Development               EVP and Chief Financial Officer
+For:  AT&T Wireless Services            For: Triton PCS Operating Company L.L.C.
+<PAGE>
+ANNEX C.2 SERVICES
+
+The implementation of Services shall be in accordance with the Technical
+Specifications with the exception of network specific deviations and/or chosen
+options agreed by both Parties during the testing phase.
+
+Short Codes
+
+The Parties agree to implement the short codes as detailed in the other Party's
+Annex I2.2. The agreement on the implementation is only valid after the VPMN
+operator has confirmed the short code numbers and the implementation date in
+written form.
+
+[AT&T Wireless currently does not allow GPRS ISP (Internet Service Provider)
+roaming scenarios on our network. All internet, portal and content access will
+be directed back to the home PLMN's GGSN through a GRX for these services.
+Please ensure that the "VPLMN Flag" in your HLR is set to "FALSE" to ensure the
+proper treatment for your customers while roaming on the AT&T Wireless network.]
+
+[Triton currently does not allow GPRS ISP (Internet Service Provider) roaming
+scenarios on our network. All internet, portal and content access will be
+directed back to the home PLMN's GGSN through a GRX for these services. Please
+ensure that the "VPLMN Flag" in your HLR is set to "FALSE" to ensure the proper
+treatment for your customers while roaming on the Triton network.]
+
+DATE: 10/03/02 /s/ Robert Stokes        DATE: 10/04/02  /s/ David Clark
+               -------------------                     ------------------
+APPROVED BY:      Robert Stokes         APPROVED BY:  David Clark
+SVP Corporate Development               EVP and Chief Financial Officer
+For:  AT&T Wireless Services            For: Triton PCS Operating Company L.L.C.
+<PAGE>
+ANNEX C.3 BILLING AND ACCOUNTING
+
+Billing and Accounting relating to GSM and/or GPRS Roaming comes into effect as
+from the confirmed starting date of GSM and/or GPRS commercial roaming, as
+appropriate.
+
+Billing and Accounting relating to SMS Interworking comes into force based on
+the provision in the AA.12 for SMS billing
+
+DATE: 10/03/02 /s/ Robert Stokes        DATE: 10/04/02 /s/ David Clark
+               -------------------                     ------------------
+APPROVED BY:  Robert Stokes             APPROVED BY:  David Clark
+SVP Corporate Development               EVP and Chief Financial Officer
+For:  AT&T Wireless Services            For: Triton PCS Operating Company L.L.C.
+<PAGE>
+ANNEX C.3.1 INFORMATION ON BILLING DATA
+
+ANNEX C.3.1.1 INFORMATION ON TAP
+
+The implementation of the TAP
+
+The implementation of the TAP necessary to provide GSM services including GPRS
+shall be in accordance with the GSM Permanent Reference Documents.
+
+Data Exchange Procedure
+
+Interchange of TAP records shall be performed by Electronic Data Interchange
+(EDI).
+
+For the time being the transfer schedules for the Parties shall be as follows:
+
+When AT&T is the sending PMN Operator: DAILY
+
+When TRITON is the sending PMN Operator: DAILY
+
+Any changes in the exchange frequencies shall be agreed to in writing at least
+thirty (30) days before implementation.
+
+When no charging data are available Notification files will be exchanged.
+
+If the sending PMN Operator is unable to support EDI but the receiving PMN
+Operator does support EDI and call records are not made available to the
+receiving PMN Operator within the standard timescale, and it subsequently proves
+impossible after the use of all reasonable efforts for the receiving PMN
+Operator to recover the call charges from its subscribers, then the charges
+shall remain at the expense of the sending PMN Operator provided the
+non-recovery can be specifically related to the delay in transfer.
+
+If the receiving PMN Operator is unable to support EDI but the sending PMN
+Operator does support EDI then the liability associated with the requirement to
+transfer data within the standard timescale referred to in the preceding
+paragraph shall not apply to the sending PMN Operator.
+
+EDI Address as well as Contact Points for enquiries and complaints are defined
+in Annex I.3.2.
+
+Fallback Procedure
+
+In case of EDI failures or delays in EDI transfer the fallback procedure shall
+come into effect as specified by TADIG in GSM Permanent Reference Documents.
+
+The fallback procedure as specified by TADIG will only be used in exceptional
+circumstances and the method of transfer shall be as follows:
+COMPACT DISK (CD)WILL BE USED WHEN EDI FAILS OR IS NOT SUPPORTED.
+
+IF AN OPERATOR DOES NOT YET USE CD'S THEN TAPE EXCHANGE WILL COME INTO EFFECT.
+
+Cut off shall be as follows:
+
+CD's or Tapes will be delivered by EXPRESS MAIL TWICE A MONTH AND NOT LATER THAN
+10 DAYS AFTER CUT OFF. CUT OFF DATES SHALL BE THE 15TH AND LAST DAY OF THE
+MONTH. Where there is a delay in sending CD'S OR TAPES, then the other Party
+shall be immediately advised. Such advice will be communicated by e-mail and
+phone to the contacts in I.3.2 before the cut off date.
+<PAGE>
+Addresses for CD'S and TAPES as well as Contact Points for enquiries and
+complaints are defined in Annex I.3.2.
+
+Both parties agree not to return CD'S OR TAPES.
+
+The use of the CD'S OR TAPE EXCHANGE does not change the liability as defined
+under Data Exchange Procedure above.
+
+Changes in the time schedules
+
+Any changes in the time schedules concerning the exchange of billing files shall
+be agreed before implementation.
+
+Data Clearing House
+
+In case of using Data Clearing House for data interchange, the responsibilities
+of a Party remain as they are defined by the GSM Association and in Permanent
+Reference Documents.
+
+DATE: 10/03/02  /s/ Robert Stokes       DATE: 10/04/02  /s/ David Clark
+               -------------------                     ------------------
+APPROVED BY:  Robert Stokes             APPROVED BY:  David Clark
+SVP Corporate Development               EVP and Chief Financial Officer
+For:  AT&T Wireless Services            For: Triton PCS Operating Company L.L.C.
+<PAGE>
+ANNEX C.3.1.2 INFORMATION ON BULK SMS DATA TRANSFER
+
+The implementation of the Bulk SMS Data transfer
+
+The implementation of the Bulk SMS Data transfer shall be in accordance with the
+GSM Permanent Reference Documents with the exception of network specific
+deviations and/or chosen options agreed by both parties during the testing
+phase. The Bulk SMS Data transfer versions implemented by both parties are to be
+agreed on during the testing phase or mutually agreed to by both parties at a
+later date.
+
+Data exchange procedure
+
+The sending PMN shall provide the Bulk SMS Data in form of a print out.
+
+This print out shall be sent by express mail or courier.
+
+Where there is a delay in sending data then the other Party shall be immediately
+advised.
+
+Addresses for Data as well as Contact Points for enquiries and complaints are
+defined in Annex I.3.2.
+
+Bulk SMS Data shall be transferred at least monthly, even if the amount is zero.
+The receiving PMN Operator shall not be liable for any bulk charge if the Bulk
+SMS Data are not made available to him by the end of the second month following
+the invoicing period. If the receiving PMN Operator contests the Bulk SMS Data,
+he may request greater detail from the sending Operator, provided a reason is
+given.
+
+The cost of the transfer will be covered by the sending Operator.
+
+The HPMN is responsible for storing a safety copy of the Bulk SMS Data for six
+months after the data were made available to the APMN.
+
+ARTICLE 3.1.3
+
+"GPRS Roaming" shall mean General Packet Radio Service Roaming, providing packet
+mode transmission between PMNs and interworking with external networks. GPRS
+Roaming allows the service subscriber to send and receive data in an end-to-end
+packet transfer mode, without utilizing network resources in circuit switched
+mode, outside of their HPMN. For the avoidance of doubt, and in accordance with
+the relevant licensing requirements, GPRS Roaming shall not prevent the user's
+operation of other GSM Services.
+
+ARTICLE 3.1.4
+
+"Session" shall mean the time between PDP Context Activation until PDP Context
+deactivation or a session crosses the 10pm (PST) (time parameters may vary by
+carrier and each carrier is not obligated to use 10pm PST as a cutoff time). A
+single TAP record will be created per GPRS session if the VPMN's billing company
+can support this requirement, otherwise TAP records will be created based on
+each VPMN's billing system parameters.
+
+DATE: 10/03/02  /s/ Robert Stokes       DATE: 10/04/02  /s/ David Clark
+               -------------------                     ------------------
+APPROVED BY:  Robert Stokes             APPROVED BY:  David Clark
+SVP Corporate Development               EVP and Chief Financial Officer
+For:  AT&T Wireless Services            For: Triton PCS Operating Company L.L.C.
+<PAGE>
+ANNEX C.3.2 F SETTLEMENT PROCEDURE (Multilateral Financial Settlement Program)
+
+The Parties shall carry out settlement according to MFSP guidelines outlined in
+BA18.
+
+Each Party as VPMN Operator shall prepare a monthly invoice for calls registered
+during the invoice period made by the visiting subscribers in the visited PMN.
+Each Party as APMN Operator shall prepare a monthly invoice for SMS-MO
+registered during the invoice period made by the HPMN's subscribers and prepare
+a monthly invoice for reversed charge MT SMS registered during the period
+received by the HPMN's subscribers. Each Party as HPMN Operator shall prepare a
+monthly invoice for SMS-MT registered during the invoice period by its
+subscribers.
+
+The invoice period shall in general be a calendar month. However, a single
+transfer covering a month end shall not be divided between two invoices. The
+original invoice has to be sent by the 15th of the following month at latest.
+The invoice and the information shall be sent to the address of the other Party
+as defined in the Annex I.3.3.
+
+Each Party will issue as appropriate credit notes and or correction invoices,
+without any delay, for agreed changes to or agreed errors in the basic inter PMN
+invoices.
+
+The invoice amounts (and credit note amounts if appropriate), for the two
+directions, shall be offset against each other and included in the MFSP.
+
+Payment shall be made in US dollars.
+
+Payment by the debtor shall be made in accordance with the MFSP timetable and no
+later than 15Th of the second month after the traffic period.
+
+If the debtor does not pay the net balance by the due date then the creditor
+shall have the right to charge its normal interest rate on the overdue amount
+from the due date for payment until payment is made.
+
+The normal interest rate for the Party concerned is:
+
+                           *****% per annum.
+
+
+Changes in time schedules concerning the exchange of invoices and settlement
+periods shall be fixed three months before implementation at the latest.
+
+All enquiries and complaints concerning invoicing shall be done through points
+of contact as defined in Annex I.3.3.
+
+Each Party shall pay its own bank fees.
+
+Each Party shall have the right to terminate the Clearing Settlement method as
+defined in this Annex and have it replaced by another bilaterally agreed payment
+method by giving three (3) months written notice. If no agreement can be
+reached, direct payment in US dollars shall apply.
+
+***** Certain information on this page has been omitted from this filing and
+filed separately with the Securities and Exchange Commission. Confidential
+treatment has been requested with respect to the omitted portions.
+<PAGE>
+At all times during a Multilateral Financial Settlement Program, it is the
+debtor operator's responsibility to ensure its funds are properly transferred
+through the program to its creditor operators.
+
+DATE: 10/03/02  /s/ Robert Stokes       DATE: 10/04/02  /s/ David Clark
+               -------------------                     ------------------
+APPROVED BY:  Robert Stokes             APPROVED BY:  David Clark
+SVP Corporate Development               EVP and Chief Financial Officer
+For:  AT&T Wireless Services            For: Triton PCS Operating Company L.L.C.
+<PAGE>
+ANNEX C.4 CUSTOMER CARE PRINCIPLES
+
+1.       General
+
+         In general, a Roaming Subscriber should contact the Customer Care
+         Services of his home contract partner (Customer Care Services of the
+         HPMN Operator or of Service Providers) while roaming in another
+         network. This home Customer Care Services will provide the first point
+         of contact but may refer the subscriber to the VPMN Customer Care
+         Services if appropriate.
+
+         The Roaming Subscriber is free to contact the VPMN Customer Care
+         Services directly. However, the responsibility remains with the HPMN
+         Operator.
+
+         Each Party will ensure that there is, at least during office hours, an
+         English speaking operator on duty, to whom a Roaming Subscriber can be
+         referred. Further details and the customer care contact numbers are
+         defined in Annex I.4.3.
+
+         The APMN Operator should provide the HPMN Operator with a Customer Care
+         contact point. The HPMN may refer the subscriber to this APMN Customer
+         Care service if appropriate and provided that the APMN Operator agrees.
+
+2.       Roaming Information
+
+         Changes in Emergency Service, Customer Service, Directory Enquiry
+         numbers, and Tariffs shall be exchanged in accordance with the
+         provisions of the Agreement. Each Party shall inform its own
+         subscribers about roaming in the other Party's network.
+
+3.       Network Faults
+
+         In the event of a perceived network fault a Roaming Subscriber should
+         contact the home Customer Care Services while roaming in another
+         network. The home Customer Care Services will provide the first point
+         of contact but may refer the subscriber to the VPMN Customer Care
+         Services if appropriate.
+
+         In the event that the Customer Care Services of one Party has a query
+         concerning potential faults of the other Party's network, then the
+         Customer Care Services shall contact the contact point defined in Annex
+         I.4.1.
+
+         In addition, it may be necessary that technical experts of one Party
+         get into direct contact with the other Party's technical experts (e.g.
+         to establish trouble shooting). In such cases additional contact points
+         shall be provided. These contact points are defined in Annex I.4.1.
+
+Frequently arising faults in the VPMN experienced by Roaming Subscribers and
+indicated to the HPMN Operator shall be reported to the other Party's contact
+point defined in Annex I.4.1.
+
+4.       Lost/Stolen SIM and/or USIM-Cards
+
+         In the event that a SIM and/or USIM-card is lost or stolen, the Roaming
+         Subscriber shall be asked to contact his home Customer Care Services.
+         If the subscriber contacts the VPMN Customer Care Services, the VPMN
+         Customer Care Services will provide the subscriber with the contact
+         number of his home Customer Care Services.
+<PAGE>
+5.       Lost/stolen or Faulty Mobile Equipment
+
+         In the event that a mobile equipment is lost, stolen, or faulty, the
+         Roaming Subscriber shall be asked to contact his home Customer Care
+         Services. If the subscriber contacts the VPMN Customer Care Services he
+         will be referred to his home Customer Care Services.
+
+6.       Billing Enquiries
+
+         In the event that a subscriber has an enquiry relating to the amount
+         billed during roaming, the subscriber shall resolve this query with his
+         home Customer Care Services. Any contact with the VPMN will be achieved
+         through his home Customer Care Services.
+
+7.       Customer Service Numbers
+
+         Customer Service Numbers are contained in Annex I.4.2.
+
+8.       Customer Care Contact Numbers
+
+Customer Care Contact Numbers are contained in Annex I.4.3.
+
+
+DATE: 10/03/02  /s/ Robert Stokes       DATE: 10/04/02  /s/ David Clark
+               -------------------                     ------------------
+APPROVED BY:  Robert Stokes             APPROVED BY:  David Clark
+SVP Corporate Development               EVP and Chief Financial Officer
+For:  AT&T Wireless Services            For: Triton PCS Operating Company L.L.C.
+<PAGE>
+ANNEX 5  TECHNICAL ASPECTS
+
+Technical aspects concerning both the precommercial and commercial phases of GSM
+and SMS Interworking and GPRS Roaming are dealt with in the Annexes to follow.
+
+DATE: 10/03/02  /s/ Robert Stokes       DATE: 10/04/02  /s/ David Clark
+               -------------------                     ------------------
+APPROVED BY:  Robert Stokes             APPROVED BY:  David Clark
+SVP Corporate Development               EVP and Chief Financial Officer
+For:  AT&T Wireless Services            For: Triton PCS Operating Company L.L.C.
+<PAGE>
+ANNEX C.5.1 TESTING
+
+1.       Certification of testing
+
+         Both Parties shall exchange Completion Certificates confirming the
+         successful execution of IREG tests which includes testing of the TAP
+         procedures according to the test specifications of Permanent Reference
+         Documents. Both Parties shall confirm the successful execution of TADIG
+         tests.
+
+2.       Testing of Service availability:
+
+         The parties agree to perform relevant tests of service availability,
+         according to the IREG and TADIG test specifications, every time one of
+         the parties indicates a major change which has an impact on Roaming and
+         SMS Interworking.
+
+3.       Exchange of SIM and/or USIM-Cards
+
+         General
+
+         The issuing operator (the HPMN Operator) will make the bilaterally
+         agreed number of test SIM and/or USIM-cards available to the testing
+         operator (the VPMN Operator) under the following conditions:
+
+         Both Parties exchange test SIM and/or USIM-card(s) as agreed
+         bilaterally in a written notice without any activation fee or any
+         subscription fee. The VPMN Operator will be treated as a customer of
+         the HPMN Operator.
+
+         All necessary information concerning the SIM and/or USIM-card(s), i.e.
+         IMSI, MSISDN, PIN, PUK, shall be forwarded to the VPMN Operator as
+         well.
+
+         The SIM and/or USIM-card(s) remain in the property of the HPMN
+         Operator.
+
+         It is only allowed to use the test SIM and/or USIM-card(s) in the VPMN
+         Operator's network for the purpose of testing of Roaming functions.
+
+         TAP-data for traffic generated by these test SIM and/or USIM-card(s)
+         shall be included in the normal billing and accounting procedures
+         between the two PMNs and thereby also invoiced by the VPMN Operator.
+
+         None of the above shall be construed to allow reselling the SIM and/or
+         USIM-card(s) or in any other way forward the SIM and/or USIM-card on
+         conditions that could be negative for the HPMN. The SIM and/or USIM
+         card(s) issued as a result of this paragraph must be and remain in the
+         name of the VPMN Operator.
+
+Tests before the commercial start of roaming services (Precommercial roaming
+phase) As a general principle, it is agreed that the operator actually using
+test-SIM and/or USIM-card(s) will not receive a payable bill from the issuing
+operator for the test calls made in the network under test. TAP-data and bills
+will only be exchanged for test purposes.
+
+All costs occurring for calls made outside the network under test will be
+charged by the issuing operator as if they were ordinary customer calls. The
+testing operator will be fully responsible for these costs. Furthermore, the
+testing operator is fully liable for all damages and costs incurred by misuse of
+the test SIM and/or USIM cards.
+<PAGE>
+Unless otherwise agreed, it is the sole responsibility of the VPMN Operator to
+block Roaming Subscribers of the HPMN Operator during the precommercial phase
+and in no case the HPMN Operator has to bear the costs incurred by its
+subscribers roaming in the VPMN.
+
+Tests during the Commercial roaming phase
+
+During the commercial roaming phase the usage of these SIM and/or USIM-card(s)
+is fully chargeable for traffic charges. The HPMN Operator shall therefore have
+the right to send a (single) bill to the VPMN Operator for the traffic generated
+by the exchanged SIM and/or USIM-card(s), however, only if the amount exceeds
+the bilaterally agreed non chargeable value. The amount charged is only the
+amount exceeding the non chargeable value calculated on a monthly basis. The non
+chargeable monthly value for AT&T is $50 USD and for TRITON it is $50 USD.
+
+For control purposes the HPMN Operator will attach an itemized bill to the
+invoice. The tariffs used are as for normal Roaming Subscribers in the VPMN. The
+invoice regarding test SIM and/or USIM-card(s) shall be sent to the address
+defined in Annex I.3.3.
+
+In the event that the VPMN Operator has a query concerning the other Party's
+test SIM and/or USIM-card(s), then the VPMN Operator shall contact the contact
+point defined in Annex I.5.1.
+
+DATE: 10/03/02  /s/ Robert Stokes       DATE: 10/04/02   /s/ David Clark
+               -------------------                     ------------------
+APPROVED BY:  Robert Stokes             APPROVED BY:  David Clark
+SVP Corporate Development               EVP and Chief Financial Officer
+For:  AT&T Wireless Services            For: Triton PCS Operating Company L.L.C.
+<PAGE>
+ANNEX C.5.2 SECURITY
+
+Security functions of the individual Operators are specified in Annex I.5.2 and
+any other PRD documents.
+
+DATE: 10/03/02  /s/ Robert Stokes       DATE: 10/04/02  /s/ David Clark
+               -------------------                     ------------------
+APPROVED BY:  Robert Stokes             APPROVED BY:  David Clark
+SVP Corporate Development               EVP and Chief Financial Officer
+For:  AT&T Wireless Services            For: Triton PCS Operating Company L.L.C.
+<PAGE>
+ANNEX C.5.3 INFORMATION ON SIGNALLING INTERCONNECTION AND/OR IP CONNECTIVITY
+
+The implementation of the Signalling Protocols and/or Inter-PLMN backbone (as
+defined in IREG PRDs) shall be in accordance with the Technical Specifications
+and relevant GSM Association Permanent Reference Documents with the exception of
+network specific deviations and/or chosen options agreed by both Parties during
+the testing phase.
+
+The technical information relevant for Roaming or SMS Interworking shall be
+exchanged between the Parties as part of IREG testing procedures and IREG PRDs.
+
+Each Party agrees to make its best efforts to give the other Party at least four
+(4) weeks prior written notice about changes in the numbering and addressing
+information with an impact on Roaming or SMS Interworking.
+
+DATE: 10/03/02  /s/ Robert Stokes       DATE: 10/04/02  /s/ David Clark
+               -------------------                     ------------------
+APPROVED BY:  Robert Stokes             APPROVED BY:  David Clark
+SVP Corporate Development               EVP and Chief Financial Officer
+For:  AT&T Wireless Services            For: Triton PCS Operating Company L.L.C.
+<PAGE>
+ANNEX C.6 DATA PRIVACY. GENERAL PRINCIPLES
+
+Data Privacy requirements of the individual Operators are defined in Annex
+I.6.1.
+
+DATE: 10/03/02  /s/ Robert Stokes       DATE: 10/04/02   /s/ David Clark
+               -------------------                     ------------------
+APPROVED BY:  Robert Stokes             APPROVED BY:  David Clark
+SVP Corporate Development               EVP and Chief Financial Officer
+For:  AT&T Wireless Services            For: Triton PCS Operating Company L.L.C.
+<PAGE>
+ANNEX C.7 FRAUD PREVENTION PROCEDURES
+
+1.       General
+
+Each VPMN operator shall use commercially reasonable efforts to provide each
+HPMN operator with real time visibility of call detail records delivered through
+a network compatible with the VPMN and HPMN networks. Such information shall be
+delivered within one hour of the applicable call. In the event that the VPMN
+provides such real time visibility system, the VPMN shall not be liable in any
+event for a temporary failure of the system unless the VPMN has been notified of
+such failure by the HPMN and the VPMN does not take commercially reasonable
+steps to remedy the failure. If the VPMN has been so notified and has failed to
+take such commercially reasonable steps, the VPMN shall be liable for all
+unauthorized usage attributed to HPMN's subscribers during the period from the
+time VPMN was notified of the problem to the time that the problem has been
+resolved to the reasonable satisfaction of the HPMN.
+
+Notwithstanding the foregoing, the VPMN Operator shall not be obligated to
+provide a Report on Suspected Fraud with respect to GPRS, SMS PS Services until
+the VPMN Operator is technologically capable of providing such reports and until
+the Parties have agreed in writing on the specific requirements for such reports
+and have completed testing and validation of a procedure for transferring such
+reports. Each party agrees to work in good faith and to use commercially
+reasonable efforts to develop the technology capabilities to provide such
+reports.
+
+DATE: 10/03/02  /s/ Robert Stokes       DATE: 10/04/02  /s/ David Clark
+               -------------------                     ------------------
+APPROVED BY:  Robert Stokes             APPROVED BY:  David Clark
+SVP Corporate Development               EVP and Chief Financial Officer
+For:  AT&T Wireless Services            For: Triton PCS Operating Company L.L.C.
+
+</TEXT>
+</DOCUMENT>

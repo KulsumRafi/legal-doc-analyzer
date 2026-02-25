@@ -1,0 +1,299 @@
+<DOCUMENT>
+<TYPE>EX-10.37
+<SEQUENCE>7
+<FILENAME>f88230exv10w37.txt
+<DESCRIPTION>EXHIBIT 10.37
+<TEXT>
+<PAGE>
+
+                                                                   Exhibit 10.37
+
+                                                                [IBM LOGO]
+                                                             5600 Cottle Road
+                                                         San Jose, CA 95193 0001
+
+January 1, 2003
+
+Brocade Communications Systems, Inc.
+1745 Technology Drive
+San Jose, CA  95110
+
+Attention: Mr. Michael Harrison
+
+Subject: Amendment 9 to SOW#1 of the IBM/Brocade Goods Agreement ROC-P-68
+
+Dear Michael:
+
+This letter (the "Amendment") serves as Amendment Number 9 to SOW#1, including
+all amendments thereto ("SOW#1") of the Goods Agreement ROC-P-68, including all
+amendments thereto (the "Goods Agreement") which the parties hereto do mutually
+agree to amend as follows:
+
+1.       Delete pricing table in its entirety in Section 2.1, "Pricing" and
+         replace with the following:
+
+<TABLE>
+<CAPTION>
+IBM P/N / NUMA-Q
+      P/N           BROCADE P/N           DESCRIPTION                 UNIT PRICE
+----------------    -----------     -------------------------------   ----------
+<S>                 <C>             <C>                               <C>
+      [*]               [*]         8-Port Fibre Channel                 [*]
+                                    Switch Single Power
+                                    Supply (SW2400)
+                                    Includes SES, Web
+                                    tools, Zoning and
+                                    Fabric Watch - whole
+                                    unit switch Product
+----------------    -----------     -------------------------------   ----------
+      [*]               [*]         16 Port Fibre Channel                [*]
+                                    Switch Single Power
+                                    Supply (SW2800)
+                                    Includes SES, Web
+                                    tools, Zoning and
+                                    Fabric Watch - whole
+                                    unit switch Product
+----------------    -----------     -------------------------------   ----------
+      [*]               [*]         Silkworm 2000 Power                  [*]
+                                    Supply
+----------------    -----------     -------------------------------   ----------
+      [*]               [*]         Mainboard, SW 2400                   [*]
+                                    (8-port)
+----------------    -----------     -------------------------------   ----------
+      [*]               [*]         Fan Tray, SW 2400                    [*]
+                                    (8-port)
+----------------    -----------     -------------------------------   ----------
+      [*]               [*]         Chassis, SW 2400                     [*]
+                                    (8-port)
+----------------    -----------     -------------------------------   ----------
+      [*]               [*]         Mainboard, SW 2800                   [*]
+                                    (16-port)
+----------------    -----------     -------------------------------   ----------
+      [*]               [*]         Fan Tray, SW 2800                    [*]
+                                    (16-port)
+----------------    -----------     -------------------------------   ----------
+      [*]               [*]         Chassis, SW 2800                     [*]
+                                    (16-port) with operator
+                                    panel / LCD
+----------------    -----------     -------------------------------   ----------
+      [*]               [*]         Quick Loop License                   [*]
+----------------    -----------     -------------------------------   ----------
+      [*]               [*]         Fabric Watch License                 [*]
+----------------    -----------     -------------------------------   ----------
+</TABLE>
+
+* Certain information on this page has been omitted and filed separately with
+the Commission. Confidential treatment has been requested with respect to the
+omitted portions.
+
+<PAGE>
+
+<TABLE>
+<S>                 <C>             <C>                               <C>
+      [*]               [*]         Extended Fabrics                     [*]
+----------------    -----------     -------------------------------   ----------
+      [*]               [*]         Extended Fabrics                     [*]
+----------------    -----------     -------------------------------   ----------
+      [*]               [*]         Remote Switch                        [*]
+----------------    -----------     -------------------------------   ----------
+      [*]               [*]         Remote Switch                        [*]
+----------------    -----------     -------------------------------   ----------
+      [*]               [*]         8 Port Fibre Channel                 [*]
+                                    Switch Single Power
+                                    Supply (SW3200)
+                                    Includes Web Tools
+----------------    -----------     -------------------------------   ----------
+      [*]               [*]         Full Fabric Upgrade                  [*]
+                                    Includes Zoning and
+                                    Fabric Watch
+----------------    -----------     -------------------------------   ----------
+      [*]               [*]         16 Port Fibre Channel                [*]
+                                    Switch Single Power
+                                    Supply (SW3800) Includes
+                                    Web tools, Zoning and
+                                    Fabric Watch - whole
+                                    unit switch Product
+----------------    -----------     -------------------------------   ----------
+      [*]               [*]         Fan (SW3800)                         [*]
+----------------    -----------     -------------------------------   ----------
+      [*]               [*]         Power Supply (SW3800)                [*]
+----------------    -----------     -------------------------------   ----------
+      [*]               [*]         Mainboard FRU (SW3800)               [*]
+----------------    -----------     -------------------------------   ----------
+      [*]               [*]         32 Port Fibre Channel                [*]
+                                    Switch Double Power
+                                    Supply (SW3900)
+                                    Includes, Webtools,
+                                    Zoning, Fabric Watch,
+                                    Trunking, and
+                                    Performance Monitor -
+                                    whole unit switch
+                                    Product
+----------------    -----------     -------------------------------   ----------
+      [*]               [*]         Fan (SW3900)                         [*]
+----------------    -----------     -------------------------------   ----------
+      [*]               [*]         Power Supply (SW3900)                [*]
+----------------    -----------     -------------------------------   ----------
+      [*]               [*]         Mainboard FRU (SW3900)               [*]
+----------------    -----------     -------------------------------   ----------
+      [*]               [*]         LUN Zoning                           [*]
+----------------    -----------     -------------------------------   ----------
+      [*]               [*]         LUN Zoning                           [*]
+----------------    -----------     -------------------------------   ----------
+      [*]               [*]         LUN Zoning                           [*]
+----------------    -----------     -------------------------------   ----------
+      [*]               [*]         Advanced Security                    [*]
+----------------    -----------     -------------------------------   ----------
+      [*]               [*]         Advanced Security                    [*]
+----------------    -----------     -------------------------------   ----------
+      [*]               [*]         Advanced Security                    [*]
+                                    (SW2800)
+----------------    -----------     -------------------------------   ----------
+      [*]               [*]         Advanced Security                    [*]
+----------------    -----------     -------------------------------   ----------
+      [*]               [*]         Performance Bundle                   [*]
+                                    (Trunking and
+                                    Performance Monitoring)
+----------------    -----------     -------------------------------   ----------
+      [*]               [*]         Performance Bundle                   [*]
+                                    (Trunking and
+                                    Performance Monitoring)
+----------------    -----------     -------------------------------   ----------
+      [*]               [*]         32 Port Fibre Channel                [*]
+                                    Core Switch (SW12000)
+                                    Includes 2
+----------------    -----------     -------------------------------   ----------
+</TABLE>
+
+* Certain information on this page has been omitted and filed separately with
+the Commission. Confidential treatment has been requested with respect to the
+omitted portions.
+
+<PAGE>
+
+<TABLE>
+<S>                 <C>             <C>                               <C>
+                                    Stiletto
+                                    Port Blades, 2 CP
+                                    Blades, 4 Power
+                                    Supplies, 3 Blowers, 6
+                                    Port Blade Filler
+                                    Panels, 1 Cable
+                                    Management Pillar,
+                                    Fabric OS, Advanced Web
+                                    Tools, Advanced Zoning,
+                                    Fabric Watch,
+                                    Performance Monitoring,
+                                    Trunking.
+----------------    -----------     -------------------------------   ----------
+      [*]               [*]         Rack Mounting Kit 14U,               [*]
+                                    FRU
+----------------    -----------     -------------------------------   ----------
+      [*]               [*]         Switch Blade 16 port,                [*]
+                                    2GB
+----------------    -----------     -------------------------------   ----------
+      [*]               [*]         Chassis Door, Includes               [*]
+                                    Plastic and Metal door
+                                    Components and IBM
+                                    Front Badge
+----------------    -----------     -------------------------------   ----------
+      [*]               [*]         Control Processor Blade              [*]
+----------------    -----------     -------------------------------   ----------
+      [*]               [*]         Stiletto Port Blade                  [*]
+                                    Slot Filler Panel,
+                                    SW12000, FRU
+----------------    -----------     -------------------------------   ----------
+      [*]               [*]         Power Supply ,                       [*]
+                                    180-264VAC, 1000W, FRU
+----------------    -----------     -------------------------------   ----------
+      [*]               [*]         Blower Assembly, FRU                 [*]
+----------------    -----------     -------------------------------   ----------
+      [*]               [*]         Cable Management                     [*]
+                                    Pillar, FRU
+----------------    -----------     -------------------------------   ----------
+      [*]               [*]         WWN Card                             [*]
+----------------    -----------     -------------------------------   ----------
+      [*]               [*]         Power Plug, Switch and               [*]
+                                    Distribution Panel
+----------------    -----------     -------------------------------   ----------
+      [*]               [*]         Chassis FRU, includes                [*]
+                                    backplane, blower and
+                                    power supply backplane,
+                                    AC and blower harness.
+----------------    -----------     -------------------------------   ----------
+      [*]               [*]         Rear WWN Bezel Assy                  [*]
+----------------    -----------     -------------------------------   ----------
+      [*]               [*]         Cable Management Tray                [*]
+----------------    -----------     -------------------------------   ----------
+      [*]               [*]         AC Power Cord, FRU                   [*]
+----------------    -----------     -------------------------------   ----------
+      [*]               [*]         AC Power Cord,                       [*]
+                                    UK/Ireland, 250V, FRU
+----------------    -----------     -------------------------------   ----------
+      [*]               [*]         AC Power Cord, Cont.                 [*]
+                                    Europe CEE7/7, FRU
+----------------    -----------     -------------------------------   ----------
+      [*]               [*]         AC Power Cord,                       [*]
+                                    AUST/INZ, 250V
+----------------    -----------     -------------------------------   ----------
+      [*]               [*]         AC Power Cord, Intl IEC              [*]
+----------------    -----------     -------------------------------   ----------
+      [*]               [*]         Remote Switch software               [*]
+----------------    -----------     -------------------------------   ----------
+      [*]               [*]         Extended Fabric software             [*]
+----------------    -----------     -------------------------------   ----------
+</TABLE>
+
+* Certain information on this page has been omitted and filed separately with
+the Commission. Confidential treatment has been requested with respect to the
+omitted portions.
+
+<PAGE>
+
+<TABLE>
+<S>                 <C>             <C>                               <C>
+                                    software
+----------------    -----------     -------------------------------   ----------
+      [*]               [*]         Fabric Manager 3.x                   [*]
+----------------    -----------     -------------------------------   ----------
+</TABLE>
+
+All prices are in U.S. dollars.
+
+Please have your authorized representative indicate acceptance thereof by
+signing both copies of the Amendment and returning one copy to the attention of
+Karen Takahashi at 5600 Cottle Road, San Jose, California 95193.
+
+The effective date of this Amendment shall be the date on the top of this
+Amendment (the "Effective Date").
+
+The parties acknowledge that they have read this Amendment, understand it, and
+agree to be bound by its terms and conditions. All capitalized terms not defined
+herein shall have the meaning set forth in the Goods Agreement or the SOW #1.
+All other terms and conditions of the Goods Agreement and SOW#1 that are
+unaffected by the revisions set forth in this Amendment shall remain in full
+force and effect. Further, the parties agree that this Amendment and the Goods
+Agreement and SOW#1 are the complete and exclusive statement of the agreement
+between the parties, superseding all proposals or other prior agreement, oral or
+written, and all other communications between the parties relating to this
+subject.
+
+ACCEPTED AND AGREED TO:                     ACCEPTED AND AGREED TO:
+INTERNATIONAL BUSINESS MACHINES             BROCADE COMMUNICATIONS SYSTEMS, INC.
+CORPORATION
+
+By:____________________________             By:_________________________________
+Authorized Signature       Date             Authorized Signature            Date
+
+_______________________________             ____________________________________
+Type or Print Name                          Type or Print Name
+
+_______________________________             ____________________________________
+Title & Organization                        Title & Organization
+
+* Certain information on this page has been omitted and filed separately with
+the Commission. Confidential treatment has been requested with respect to the
+omitted portions.
+
+</TEXT>
+</DOCUMENT>

@@ -1,0 +1,1709 @@
+<DOCUMENT>
+<TYPE>EX-10.F
+<SEQUENCE>3
+<FILENAME>dex10f.txt
+<DESCRIPTION>1990 STOCK OPTION PLAN AS AMENDED
+<TEXT>
+<PAGE>
+
+                                                                Exhibit 10(f)
+
+--------------------------------------------------------------------------------
+
+
+                               Sprint Corporation
+
+
+
+                             1990 Stock Option Plan
+
+
+
+                    Adopted as a Stock Option Plan under the
+            1997 Sprint Corporation Long-Term Stock Incentive Program
+
+
+
+                                   As Amended
+                             by the Board Effective
+                                February 11, 2003
+
+
+
+--------------------------------------------------------------------------------
+
+<PAGE>
+
+                                Table of Contents
+
+
+
+1    Establishment .................................................  1
+
+2    Defined Terms .................................................  1
+
+3    Purpose .......................................................  1
+
+4    Administration ................................................  1
+
+     4.01        Interpretation of the Plan ........................  1
+
+     4.02        Abstention in Certain Cases by Committee Members ..  2
+
+
+5    Number of Shares Authorized to be Issued ......................  2
+
+
+6    Grant of Options ..............................................  3
+
+     6.01        Eligibility for Grants ............................  3
+
+     6.02        Committee Grants ..................................  3
+
+     6.03        Interim Grants ....................................  3
+
+     6.04        Limitation on Discretion of Committee and
+                   Authorized Officers .............................  4
+
+
+7    Terms of Options ..............................................  4
+
+     7.01        Standard Terms of Options .........................  4
+
+     7.02        Mandatory Terms of Incentive Stock Options ........  8
+
+     7.03        Standard Terms of Incentive Stock Options .........  8
+
+     7.04        Stock Option Agreement ............................  9
+
+
+8    Exercise of Options ...........................................  9
+
+     8.01        Notice of Exercise ................................  9
+
+     8.02        Form of Payment of Exercise Price ................. 10
+
+
+9    Withholding of Payroll Taxes on Exercise ...................... 11
+
+     9.01        Obligation to Pay Payroll Taxes ..................  11
+
+     9.02        Amount to Be Withheld ............................  11
+
+     9.03        Eligibility to Elect Stock Withholding ...........  11
+
+     9.04        Manner of Withholding ............................  11
+
+
+10   Issuance of Shares on Exercise ...............................  12
+
+     10.01       Generally ........................................  12
+
+     10.02       Elective Issuance of Restricted Shares ...........  12
+
+                                        i
+
+<PAGE>
+
+     10.03       Issuance of Restricted Shares Not Available to
+                   Transferred Options .............................. 13
+
+     10.04       Terms of Restricted Shares Issued on Exercise ...... 13
+
+
+11   Reload Rights .................................................. 16
+
+     11.01       Grant of Reload Rights on Outstanding Non-Qualified
+                   Options .......................................... 16
+
+     11.02       Terms of Reload Options ............................ 16
+
+     11.03       Variant Reload Rights .............................. 17
+
+
+12   Change in Stock, Adjustments, Etc .............................. 17
+
+
+13   Amendment and Termination ...................................... 18
+
+
+14   Effective Date and Duration of the Plan ........................ 18
+
+
+15   Definitions .................................................... 18
+
+     15.01       1989 Program ....................................... 18
+
+     15.02       1997 Program ....................................... 18
+
+     15.03       Affiliate .......................................... 18
+
+     15.04       Authorized Officer ................................. 19
+
+     15.05       Board .............................................. 19
+
+     15.06       Change in Control .................................. 19
+
+     15.07       Code ............................................... 21
+
+     15.08       Code Section ....................................... 21
+
+     15.09       Committee .......................................... 21
+
+     15.10       Common Stock ....................................... 21
+
+     15.11       Company ............................................ 21
+
+     15.12       Corporate Secretary ................................ 21
+
+     15.13       Director ........................................... 21
+
+     15.14       Employee ........................................... 21
+
+     15.15       Equity Security .................................... 21
+
+     15.16       Exchange Act ....................................... 22
+
+     15.17       Exchange Act Section 16 ............................ 22
+
+     15.18       Executive Officer .................................. 22
+
+     15.19       Exercise Date ...................................... 22
+
+     15.20       Exercise Price ..................................... 22
+
+     15.21       Expiration Date .................................... 22
+
+     15.22       Fair Market Value .................................. 22
+
+                                       ii
+
+
+<PAGE>
+
+     15.23       FON Stock .......................................... 22
+
+     15.24       Foreign Reload Option .............................. 22
+
+     15.25       Grant Date ......................................... 22
+
+     15.26       Grantee ............................................ 23
+
+     15.27       Incentive Stock Option ............................. 23
+
+     15.28       Minimum Withholding Amount ......................... 23
+
+     15.29       Non-Qualified Option ............................... 23
+
+     15.30       Normal Retirement .................................. 23
+
+     15.31       Notice of Exercise ................................. 23
+
+     15.32       Option ............................................. 23
+
+     15.33       Option Class ....................................... 23
+
+     15.34       Optionee ........................................... 23
+
+     15.35       Payroll Tax ........................................ 24
+
+     15.36       Payroll Taxpayer ................................... 24
+
+     15.37       PCS Stock .......................................... 24
+
+     15.38       Permitted Disposition .............................. 24
+
+     15.39       Person ............................................. 24
+
+     15.40       Program Adoption Date .............................. 24
+
+     15.41       Plan ............................................... 24
+
+     15.42       Qualified Transferee ............................... 24
+
+     15.43       Qualified Trust .................................... 24
+
+     15.44       Reload Option ...................................... 24
+
+     15.45       Restricted Shares .................................. 25
+
+     15.46       Retirement ......................................... 25
+
+     15.47       Seasoned Shares .................................... 25
+
+     15.48       Securities Act ..................................... 25
+
+     15.49       Strike Price ....................................... 25
+
+     15.50       Subsidiary ......................................... 25
+
+     15.51       Tax Date ........................................... 25
+
+     15.52       Termination Date ................................... 25
+
+     15.53       Termination for Cause .............................. 26
+
+     15.54       Total Disability ................................... 26
+
+     15.55       Underlying Option .................................. 26
+
+     15.56       Vesting Period ..................................... 26
+
+     15.57       Withholding Amount ................................. 26
+
+                                       iii
+
+
+<PAGE>
+
+                                    Article 1
+                                  Establishment
+
+
+Pursuant to the 1989 Program the Company established a stock option plan named
+the 1990 Stock Option Plan (the "Plan") for officers and key employees of the
+Company and its subsidiaries. The 1989 Program has been replaced by the 1997
+Program, and this Plan is now established pursuant to the 1997 Program.
+
+
+                                    Article 2
+                                  Defined Terms
+
+
+Capitalized words used throughout this Plan have the meanings assigned to them
+parenthetically throughout the Plan or in Article 15.
+
+
+                                    Article 3
+                                     Purpose
+
+
+The purposes of the Plan are to induce officers and key employees of the Company
+or its Subsidiaries who are in a position to contribute materially to the
+Company's prosperity to remain with the Company or its Subsidiaries, to offer
+them incentives and rewards in recognition of their share in the Company's
+progress, to encourage them to continue to promote the best interests of the
+Company and its stockholders, and to allow the Company and its Subsidiaries to
+successfully compete with other enterprises in the recruitment of new officers
+and key employees.
+
+
+                                    Article 4
+                                 Administration
+
+
+The Committee shall administer the Plan as set forth in this Section.
+
+4.01.       Interpretation of the Plan
+
+The Committee may from time to time adopt, and thereafter amend or rescind, such
+rules and regulations for carrying out the Plan and take such action in the
+administration of the Plan, not inconsistent with the provisions of the Plan and
+the 1997 Program, as it considers proper. The interpretation and construction of
+any provisions of the Plan by the Committee shall be final. No member of the
+Board or the Committee shall be liable for any action or determination made in
+good faith with respect to the Plan or any Option granted under it.
+
+The Corporate Secretary shall have the discretion and authority to establish any
+and all procedures, forms, and rules of a ministerial nature that the Corporate
+Secretary considers necessary or desirable for the orderly administration
+
+                                        1
+
+
+<PAGE>
+
+of the Plan and shall have other administrative responsibilities as set forth
+elsewhere in this Plan.
+
+The Committee may designate one or more Employees to hear and resolve disputes
+arising under the Plan.
+
+4.02.       Abstention in Certain Cases by Committee Members
+
+If any Committee member's participation in an action to approve the acquisition
+or disposition of an Equity Security by an Executive Officer would prevent the
+Executive Officer's acquisition or disposition of the Equity Security from being
+exempt from the liability provisions of Exchange Act Section 16, the member
+shall abstain from voting on the transaction if doing so would cause the
+acquisition or disposition to be exempt.
+
+
+                               Article 5
+               Number of Shares Authorized to be Issued
+
+
+The number of shares of Common Stock that may be issued upon exercise of Options
+granted under the Plan may not exceed 103,500,000 shares of FON Stock or
+86,000,000 shares of PCS Stock, subject to adjustment as provided in Article
+12 hereof. The shares issued under the Plan may be either treasury shares or
+authorized but unissued shares.
+
+The number of shares of Common Stock that may be issued upon exercise of Options
+granted pursuant to this Plan after April 15, 1997, together with shares of
+Common Stock subject to other awards under the 1997 Program, may not exceed the
+limits set forth in Section 4(a) of the 1997 Program.
+
+The number of shares of Common Stock that may be issued upon exercise of
+Incentive Stock Options granted pursuant to this Plan after April 15, 1997, may
+not exceed 8,000,000 shares of FON Stock or 4,000,000 shares of PCS Stock.
+
+The shares of Common Stock allocable to the unexercised portion of any Option
+that for any reason is forfeited, canceled, expired or is otherwise terminated
+may again be subject to an Option under the Plan.
+
+                                        2
+
+<PAGE>
+
+                                    Article 6
+                                Grant of Options
+
+
+6.01.       Eligibility for Grants
+
+The Committee or an Authorized Officer may grant Options under this Plan to any
+Grantee who is a Director or Employee of the Company or a Subsidiary of the
+Company on the Grant Date of the Option and to whom the granting of Options and
+the exercise thereof would not be in violation of the laws of the jurisdiction,
+foreign or domestic, having legal authority over the issuance of Options to, or
+the exercise thereof by, Directors or Employees working or residing in such
+jurisdiction.
+
+No Incentive Stock Option may be granted to any Grantee who owns directly or
+indirectly shares of Common Stock or options to purchase shares of Common Stock,
+together possessing more than 10% of the total combined voting power or value of
+all classes of stock of the Company or any of its Subsidiaries.
+
+6.02.       Committee Grants
+
+The Committee shall determine which Directors or Employees among those eligible
+shall be granted Options and, with respect to each Option, shall specify the
+Option Class and number of shares of Common Stock subject to the Option. The
+Committee may designate Grantees, the Option Class, and the number of shares
+subject to each Option by any objectively determinable description. The
+Committee may also specify the Grant Date of the Option, the Strike Price, the
+Expiration Date of the Option, the rate at which the Option may be exercised,
+and such other terms of the Option as the Committee may consider appropri- ate.
+In making its determinations, the Committee shall take into consideration the
+value of the services rendered by the Grantees, their present and potential
+contribution to the success of the Company and its Subsidiaries, and such other
+factors the Committee may consider relevant in accomplishing the purposes of the
+Plan.
+
+6.03.       Interim Grants
+
+Between meetings of the Committee, any of the Authorized Officers may grant an
+Option to any eligible Employee other than a Director or an Executive Officer.
+The number of shares subject to Options granted pursuant to this Section 6.03
+may not exceed a total of 20,000 shares of all Classes of Common Stock for any
+single Grantee between any two meetings of the Committee. An Authorized Officer
+may make interim grants of Options in excess of 20,000 shares with the written
+concurrence of the chairman of the Committee on or before the Grant Date.
+
+In making such grants, the Authorized Officer shall specify in a writing,
+executed by the Authorized Officer (and the chairman of the Committee, if the
+number of shares subject to the Option are in excess of 20,000) and setting
+forth the actual date of execution, which Employees among those eligible shall
+be granted Options and, with respect to each Option, shall specify the Option
+
+                                        3
+
+<PAGE>
+
+Class and number of shares of Common Stock subject to the Option. The Authorized
+Officer may designate Grantees, the Option Class, and the number of shares
+subject to each Option by any objectively determinable description. The
+Authorized Officer may also specify the Grant Date of the Option, the Strike
+Price, the Expiration Date of the Option, the rate at which the Option may be
+exercised, and such other terms of the Option as the Authorized Officer may
+consider appropriate. In making its determinations, the Authorized Officer shall
+take into consideration the value of the services rendered by the Grantees,
+their present and potential contribution to the success of the Company and its
+Subsidiaries, and such other factors the Authorized Officer may consider
+relevant in accomplishing the purposes of the Plan.
+
+The Authorized Officer shall report to the Committee the Grantees and terms of
+all Options granted pursuant to this Section 6.03 at the next meeting of the
+Committee following such grants.
+
+6.04.       Limitation on Discretion of Committee and Authorized Officers
+
+Neither the Committee nor the Authorized Officer may
+
+  (i)   set the Grant Date of any Option to any date earlier than the date of
+        the action granting the Option;
+
+  (ii)  establish the Strike Price of any Option at a price lower than the
+        greater of (a) the Fair Market Value of one share of the Option Class of
+        Common Stock on the Grant Date of the Option or (b) the par value on the
+        Grant Date of the Option Class of the Common Stock; or
+
+  (iii) subject more than 6,000,000 shares to Options in the FON Stock Option
+        Class nor more than 3,000,000 shares to Options in the PCS Stock Option
+        Class granted to any single Director or Employee in any calendar year.
+
+For purposes of clause (iii), shares subject to Options granted pursuant to the
+last sentence of Section 4(a) of the 1997 Program shall be counted in the year
+the Option is granted, rather than the year in which shares become first
+available for issuance.
+
+
+                                    Article 7
+                                Terms of Options
+
+7.01.       Standard Terms of Options
+
+Unless the Committee or Authorized Officer specifies otherwise, the terms set
+forth in this Section 7.01 shall apply to all Options granted under this Plan.
+Any Stock Option Agreement that incorporates the terms of the Plan by reference
+shall be deemed to have incorporated the terms set forth in this Section 7.01 to
+the extent that these terms are not in conflict with those explicitly set forth
+in the Stock Option Agreement.
+
+(a)    Non-Qualified Options   Each Option shall be a Non-Qualified Option.
+
+                                        4
+
+<PAGE>
+
+(b) Grant Date The Grant Date of each Option shall be the date of the
+    Committee's or Authorized Officer's action granting the Option.
+
+(c) Strike Price The Strike Price of each Option shall be the Fair Market Value
+    of one share of the Option Class of Common Stock on the Grant Date.
+
+(d) Expiration Date The Expiration Date of each Option shall be the close of
+    business on the tenth anniversary of the Option's Grant Date. The Option
+    shall not be exercisable after its Expiration Date.
+
+(e) Rate of Exercisability Each Option shall become exercisable with respect to
+    25% of the number of shares of the Option Class of Common Stock subject to
+    the Option on each of the first four anniversaries of the Grant Date if, on
+    such anniversary date, the Grantee shall have been continuously employed by
+    or served as a Director of the Company, a Subsidiary of the Company, or an
+    Affiliate from the Grant Date.
+
+(f) Reload Rights Each Non-Qualified Option, other than Options granted pursuant
+    to Reload Rights, shall be granted with Reload Rights.
+
+(g) Limitations on Transfer No Option may, during the lifetime of the Grantee,
+    be transferred, levied, garnished, executed upon, subjected to a security
+    interest, or assigned to any person other than the Grantee, except that a
+    Grantee may transfer an Option to a Qualified Transferee if the transfer is
+    made without payment of consideration being paid to the Grantee. Documents
+    evidencing the transfer of any Option and the identity of the Qualified
+    Transferee shall be in such form as may be required by the Corporate
+    Secretary. No such Qualified Transferee may dispose of shares issued upon
+    exercise of an Option, other than to the Company, until such shares are
+    validly registered or, in the opinion of the Corporate Secretary, exempt
+    from registration under the Securities Act.
+
+(h) Post-Employment Exercise of Options Each Option may be exercised after the
+    Grantee's Termination Date only with respect to the number of shares of
+    Common Stock that were exercisable on the Grantee's Termination Date. An
+    Optionee may exercise an Option before its Expiration Date with respect to
+    those shares during a limited period beginning on the Grantee's Termination
+    Date and ending
+
+         (i)  on the fifth anniversary of the Grantee's Termination Date, if the
+              Grantee's service as Director or employment terminated by reason
+              of his Retirement or Total Disability;
+
+        (ii)  on the first anniversary of the Grantee's Termination Date if the
+              Grantee's employment or service as Director terminated by reason
+              of his death;
+
+        (iii) on the day three months following the Grantee's Termination Date
+              if the Grantee terminated his employment or service as Director
+              voluntarily, for a reason other than Retirement, or involuntarily
+              for a reason not constituting Termination for Cause.
+
+                                        5
+
+<PAGE>
+
+       If a Grantee's employment has been Terminated for Cause, the Optionee
+       shall forfeit all outstanding Options immediately on the Grantee's
+       Termination Date.
+
+       An Option granted pursuant to the last sentence of Section 4(a) of the
+       1997 Program that was not exercisable on the Grantee's Termination Date
+       solely because the number of shares covered by the Option exceeded the
+       number of shares available for issuance may be exercised during the
+       period described above to the extent that shares become available for
+       issuance during such period.
+
+(i)    Acceleration on Termination of Employment for Certain Reasons
+
+       (1) Death or Total Disability Each Option shall become exercisable
+           immediately on the Grantee's Termination Date if the reason for
+           termination was the Grantee's death or Total Disability.
+
+       (2) Normal Retirement Each Option shall become exercisable immediately on
+           the Grantee's Termination Date if (i) the reason for termination was
+           the Grantee's Normal Retirement and (ii) the Option's Grant Date was,
+           except in the case of Normal Retirement for non-Employee Directors,
+           at least one year before the Grantee's Termination Date.
+
+(j)    Acceleration on Change in Control
+
+       (1) Acceleration Each Option shall become immediately exercisable in full
+           upon a Change in Control if
+
+               (i)  the Change in Control occurs at least one year after the
+                    Option's Grant Date and
+
+               (ii) the Grantee of the Option has been a Director, Employee, or
+                    an employee of an Affiliate continuously from the Option's
+                    Grant Date to the date of the Change in Control.
+
+       (2) Limitation on Acceleration If the acceleration of exercisability
+           under Section 7.01(j)(1), together with all other payments or
+           benefits contingent on the Change in Control with the meaning of Code
+           Section 280G, results in any portion of such payments or benefits not
+           being deductible by the Company as a result of the application of
+           Code Section 280G, the benefits shall be reduced until the entire
+           amount of the benefits is deductible. The reduction shall be effected
+           by the exclusion of grants of options or portions thereof in reverse
+           chronological order of their respective Grant Dates from the
+           application of Section 7.01(j)(1) until no portion of such benefits
+           is rendered nondeductible by application of Code Section 280G.
+
+(k) Exercise After Death of Optionee Upon the death of an Optionee, all Options
+    held by the Optionee on the Optionee's date of death, to the extent
+    exercisable under their terms, may be exercised by
+
+         (i)   the executor or administrator of the Optionee's estate,
+
+                                        6
+
+<PAGE>
+
+        (ii)  the Person or Persons to whom the Optionee's rights under the
+              Options pass by the Optionee's will or the laws of descent and
+              distribution, or
+
+        (iii) the beneficiary or beneficiaries designated by the Optionee in
+              accordance with Section 7.01(l).
+
+(l) Designation of Beneficiaries An Optionee may designate a beneficiary or
+    beneficiaries to exercise unexpired Options and to own shares issued upon
+    any such exercise after the Optionee's death without order of any probate
+    court or otherwise. A beneficiary so designated may exercise an Option upon
+    presentation to the Company of evidence satisfactory to the Corporate
+    Secretary of the beneficiary's identity and the death of the Optionee. An
+    Optionee may change any beneficiary designation at any time before his death
+    but may not do so by testamentary designation in his will or otherwise.
+    Beneficiary designations must be made in writing on a form provided by the
+    Corporate Secretary. Beneficiary designations shall become effective on the
+    date that the form, properly completed, signed, and notarized, is received
+    by the Corporate Secretary. Any designation of a beneficiary by an Optionee
+    with respect to any Option shall be canceled upon the transfer of such
+    Option by the Optionee in accordance with the terms of the Plan.
+
+(m) Agreement to Remain Employed Each Grantee other than Directors shall, as
+    consideration for the grant of each Option, agree in the Stock Option
+    Agreement to remain in the employ of the Company, its Subsidiaries, or an
+    Affiliate at the pleasure of the Company, such Subsidiary, or Affiliate for
+    at least one year from the Option's Grant Date or the earlier termination of
+    the Grantee's employment effected or approved by the Company, the
+    Subsidiary, or Affiliate. If the Grantee violates the agreement, the
+    Optionee shall forfeit the Option.
+
+    Nothing contained in the Plan or in any Option granted pursuant to the Plan
+    shall confer upon any Grantee any right to continue employment with the
+    Company, its Subsidiaries, or Affiliates nor interfere in any way with the
+    right of the Company, its Subsidiaries, or Affiliates to terminate the
+    Grantee's employment or change the Grantee's compensation at any time.
+
+(n) Forfeiture Upon Conflict of Interest If any Grantee, without the consent of
+    the Committee, becomes associated with, employed by, renders services to, or
+    owns any significant interest in any business that is in competition with
+    the Company, its Subsidiaries, or Affiliates, any outstanding Option granted
+    to such Grantee shall be forfeited.
+
+(o) Exercise Subject to Available Shares No Option shall be exercisable unless,
+    on the Exercise Date, there are sufficient shares available under the Plan
+    and the 1997 Program to allow for the issuance of shares pursuant to the
+    Exercise. At any time when sufficient shares are not available, all
+    Exercises
+
+                                        7
+
+<PAGE>
+
+    of Options granted under the authority of the last sentence of Section 4(a)
+    of the 1997 Program shall be suspended, and the term of any Options that
+    would otherwise expire during the term of any such suspension shall be
+    extended by the amount of time during which the suspension was in effect.
+
+7.02.       Mandatory Terms of Incentive Stock Options
+
+If the Committee or Authorized Officer specifies that an Option is an Incentive
+Stock Option, the terms set forth in this Section 7.02 shall be incorporated
+into the terms of the Option in preference to any conflicting terms set forth in
+Section 7.01. If the Stock Option Agreement setting forth the terms of any
+Option contradict the terms set forth in this Section 7.02, such Option shall be
+treated as a Non-Qualified Stock Option, notwithstanding its designation as an
+Incentive Stock Option.
+
+(a) Grant Date within 10 Years of Program Adoption No Incentive Stock Option may
+    be granted under the Plan after the tenth anniversary of the Program
+    Adoption Date.
+
+(b) Limitation on Option Term No Incentive Stock Option may be exercised after
+    the tenth anniversary of its Grant Date.
+
+(c) Strike Price No Incentive Stock Option may have a Strike Price less than the
+    Fair Market Value of one share of the Option Class of Common Stock on the
+    Grant Date of the Incentive Stock Option.
+
+(d) Non-Transferability No Incentive Stock Option may be transferred by the
+    Grantee except by the Grantee's will or the laws of descent and
+    distribution. An Incentive Stock Option may be exercised during the
+    Grantee's lifetime only by the Grantee, and after the Grantee's death only
+    by a beneficiary designated by the Grantee pursuant to the terms of the
+    Plan, or otherwise by the executor or administrator of the Grantee's estate
+    or the Person succeeding to the Grantee's interest in the Incentive Stock
+    Option under the Grantee's will or the applicable laws of intestacy.
+
+7.03.       Standard Terms of Incentive Stock Options
+
+Unless the Committee or Authorized Officer specifies otherwise in the action
+granting the Option, the following terms shall apply to all Incentive Stock
+Options granted under the Plan. To the extent the terms set forth in this
+Section 7.03 conflict with the standard terms applicable to Options generally
+set forth in Section 7.01, the terms of this section shall control the terms of
+any Options designated as Incentive Stock Options at the time of grant.
+
+(a) Maximum Rate of Exercisability The Fair Market Value on the Grant Date of
+    the shares of Common Stock subject to any Incentive Stock Option with
+    respect to which the Incentive Stock Option becomes exercisable for the
+    first time during any calendar year, together with the Fair Market Value of
+    shares of Common Stock subject to other Incentive Stock Options on their
+    respective Grant Dates owned by the Optionee under all plans of the
+
+                                        8
+
+<PAGE>
+
+Company and its Subsidiaries and first becoming exercisable in the same calendar
+year, shall not exceed $100,000 or, if different, the maximum limitation in
+effect under Code Section 422 for Incentive Stock Options on the Grant Date of
+such Incentive Stock Option. To the extent the terms of the Option permit the
+exercise of an Option for more shares than permitted by this Section 7.03(a),
+each Option or portion of an Option, in reverse chronological order of their
+Grant Dates, shall be treated as Non-Qualified Options until the remaining
+Options or portions of Options meet the limitations set forth in this Section
+7.03(a).
+
+(b) Post-Termination Exercise Any Incentive Stock Option exercised after the end
+    of the 12-month period beginning on the Grantee's Termination Date shall, to
+    that extent, be treated as a Non-Qualified Option.
+
+7.04.       Stock Option Agreement
+
+The terms of each Option shall be set forth in a Stock Option Agreement executed
+by the Company and the Grantee. The Stock Option Agreement must set forth those
+terms that are not made standard terms of the Option pursuant to this Plan.
+
+
+                                    Article 8
+                               Exercise of Options
+
+8.01.       Notice of Exercise
+
+An Optionee may exercise his Option to purchase shares of Common Stock by
+written notice to the Corporate Secretary
+
+   (i)   unambiguously identifying the Option that he is exercising;
+
+   (ii)  stating the number of shares with respect to which he is exercising the
+         Option;
+
+   (iii) accompanied by payment of the Exercise Price in cash or any other form
+         permitted by Section 8.02;
+
+   (iv)  if the Optionee wants to have the shares issued to be registered
+         jointly with the Optionee's spouse, a statement to that effect;
+
+   (v)   if the Optionee is electing to have any Payroll Tax withholding
+         obligation discharged by delivery of Seasoned Shares or withholding of
+         shares from shares issuable upon the exercise pursuant to Section 9.04,
+         a statement to that effect, and, if the Optionee elects to have more
+         than the required minimum percentage of Payroll Taxes withheld, a
+         statement of the percentage to be withheld, not exceeding, if the
+         Grantee is an Executive Officer, the applicable marginal tax rate; and
+
+   (vi)  if the Optionee is electing to receive Restricted Shares pursuant to
+         Section 10.02, a statement of the Vesting Period the Optionee is
+         electing.
+
+                                        9
+
+<PAGE>
+
+The Corporate Secretary may dispense with a written Notice of Exercise in the
+case of certain exercises in which he considers a written Notice of Exercise
+unnecessary.
+
+The Exercise Date shall be the date on which the Notice of Exercise, together
+with the payment of the Exercise Price, is received by the Corporate Secretary
+or his designee. The Optionee may not, after the Exercise Date, change the form
+of payment of the Exercise Price, the election regarding stock withholding, or
+other aspects of the exercise dependent on the Fair Market Value of the Common
+Stock.
+
+The Corporate Secretary may condition the exercise of any Option on the
+Optionee's filing with the Company a representation in such form as the
+Corporate Secretary considers appropriate at the time of the exercise to insure
+the Grantee's, the Optionee's, or the Company's compliance with (1) the terms of
+the Option, (2) the terms of any policies of the Company, or (3) any laws or
+regulations, in each case as they may be potentially affected by the exercise of
+the Option or the disposition of the shares of Common Stock acquired in its
+exercise.
+
+8.02.       Form of Payment of Exercise Price
+
+(a) Payment in Cash. Unless the Optionee elects in the Notice of Exercise to
+    make payment in another form authorized by the Plan, payment of the Exercise
+    Price shall be in United States dollars, payable in cash or by check. The
+    Corporate Secretary may establish procedures to delay the processing of any
+    Option exercise until any check delivered in payment of the Exercise Price
+    has cleared, and, if a check fails to clear, cancel the exercise.
+
+(b) Payment in Shares of Common Stock. On exercise of any Option, the Optionee
+    may elect in the Notice of Exercise to pay the Exercise Price by surrender
+    of stock certificates in transferable form representing Seasoned Shares of
+    the Option Class having an aggregate Fair Market Value, determined as of the
+    Exercise Date, at least equal to the Exercise Price.
+
+(c) Payment by Attestation. In lieu of the delivery of physical certificates, an
+    Optionee may deliver shares in payment of the Exercise Price by attesting,
+    on a form established by the Corporate Secretary, to the ownership, either
+    outright or through ownership of a broker account, of a sufficient number of
+    Seasoned Shares of the Option Class to pay the Exercise Price. The
+    attestation must be notarized and signed by the Optionee and any co-owners
+    with the Optionee of the shares with respect to which the attestation is
+    being made. The form of attestation must be accompanied by any other
+    documentation the Corporate Secretary considers necessary to evidence actual
+    ownership of such shares or otherwise preserve the integrity of the Plan.
+    Shares, the ownership of which is so attested to by the Optionee, shall be
+    deemed to have been re-issued to the Optionee on the Exercise Date in
+    partial satisfaction of the Company's obligation to issue shares of the
+    Option Class of Common Stock pursuant to the Option exercise to
+
+                                       10
+
+<PAGE>
+
+
+which it relates.
+
+(d) Fractional Shares. If an Optionee pays the Exercise Price of an Option by
+    delivery or attestation of Seasoned Shares, the Company shall apply to
+    payment of the Exercise Price from the shares delivered or attested the
+    highest number of whole shares having a Fair Market Value on the Exercise
+    Date less than or equal to the Exercise Price, and the Optionee shall be
+    required to pay in cash the Fair Market Value of the fractional share
+    resulting from truncating the number of shares to a whole number of shares.
+
+
+                                    Article 9
+                    Withholding of Payroll Taxes on Exercise
+
+
+9.01.       Obligation to Pay Payroll Taxes
+
+Any Optionee, Grantee, or other Person (the "Payroll Taxpayer") with respect to
+whom the Company or a Subsidiary of the Company has an obligation under any
+Payroll Tax law to withhold amounts with respect to income arising from the
+exercise of any Option must pay to the Company or Subsidiary of the Company the
+Minimum Withholding Amount.
+
+9.02.       Amount to Be Withheld
+
+The Payroll Taxpayer may elect in the Notice of Exercise or on another form
+specified by the Corporate Secretary for such purpose an amount to be withheld
+(the "Withholding Amount") with respect to the exercise of any Option. The
+Withholding Amount must be greater than or equal to the Minimum Withholding
+Amount and, if the Payroll Taxpayer is an Executive Officer, less than or equal
+to the Payroll Taxpayer's combined marginal tax rate for all Payroll Taxes. In
+the absence of such an election, the Withholding Amount shall be the Minimum
+Withholding Amount.
+
+If all amounts withheld in payment of Payroll taxes are reported to the
+appropriate taxing jurisdiction as amounts withheld from the Payroll Taxpayer,
+the Company or Subsidiary may, in cases where the Corporate Secretary considers
+it necessary, set the Withholding Amount to an amount in excess of the Minimum
+Withholding Amount based on assumptions about the amount required by law to be
+withheld.
+
+9.03.       Eligibility to Elect Stock Withholding
+
+A Payroll Taxpayer may elect to pay all or part of the Withholding Amount in
+shares of the Option Class of Common Stock if the Optionee pays the Exercise
+Price by delivering or attesting to ownership of shares of the Option Class of
+Common Stock pursuant to Sections 8.02(b) or 8.02(c).
+
+9.04.       Manner of Withholding
+
+If the Payroll Taxpayer is eligible to satisfy his obligation to pay the
+Withholding Amount by payment of shares of the Option Class of the Common Stock
+
+                                       11
+
+<PAGE>
+
+pursuant to Section 9.03, he may pay the Withholding Amount by one or more of
+the following methods:
+
+  (i)   delivering Seasoned Shares of the Option Class; or
+
+  (ii)  directing the Company to withhold from those shares that would otherwise
+        be received upon exercise of the Option or upon the vesting of
+        Restricted Shares, shares of the Option Class of the Common Stock
+        having a Fair Market Value on the Tax Date of no more than the Minimum
+        Withholding Amount; or
+
+ (iii)  paying cash to the Company.
+
+If the Payroll Taxpayer is not eligible to elect stock withholding, the
+Withholding Amount must be paid entirely in cash. Any portion of the Withholding
+Amount that would require withholding or delivery of a fractional share and any
+portion of the Withholding Amount not paid by the withholding or surrender of
+Common Stock must be paid in cash.
+
+(a) Limit on Use of Unvested Restricted Shares. If the Option exercise resulted
+    in the issuance of Restricted Shares and the Vesting Period with respect to
+    the Restricted Shares has not ended on or before the Tax Date, method (ii)
+    described in Section 9.04 shall not be available as a means of stock
+    withholding.
+
+(b) Limit with Respect to Transferred Options. If an Option was transferred by
+    the Grantee or the tax liability resulting from the exercise of the Option
+    is otherwise not imposed on the Optionee, method (ii) described in Section
+    9.04 shall not be available as a means of stock withholding.
+
+
+                                   Article 10
+                         Issuance of Shares on Exercise
+
+10.01.      Generally
+
+No Optionee will be considered a holder of any shares of Common Stock subject to
+an Option until a stock certificate or certificates for such shares are issued
+to the Optionee after an exercise of the Option under the terms of the Plan. No
+Optionee shall be entitled to dividends (ordinary or extraordinary, whether in
+cash, securities or other property), distributions, or other rights with respect
+to the shares subject to purchase under the Option unless the record date for
+any such dividend, distribution, or other right falls on or after the date the
+Optionee becomes a record holder of such shares.
+
+All shares of Common Stock issued pursuant to an exercise of an Option shall be
+issued in the name of the Optionee, or in the name of the Optionee and the
+Optionee's spouse, and shall, except as otherwise provided in Article 8, be
+freely transferable by the registered owners upon issuance.
+
+10.02.      Elective Issuance of Restricted Shares
+
+                                       12
+
+<PAGE>
+
+Certain Optionees, as determined by the Committee, may elect to receive
+Restricted Shares upon the exercise of an Option if the Optionee so states in
+the Notice of Exercise and has paid the Exercise Price of the Option by
+attesting to or by delivering shares of unrestricted Common Stock pursuant to
+Sections 8.02(b) or 8.02(c).
+
+If an Optionee elects on exercise of any Option to receive Restricted Shares,
+the Company shall issue to the Optionee
+
+  (i)  a number of unrestricted shares of the Option Class of Common Stock equal
+       to the number of unrestricted shares the Optionee used to pay the
+       Exercise Price plus
+
+  (ii) all other shares issuable pursuant to the exercise of the Option as
+       Restricted Shares, having the Vesting Period specified by the Optionee in
+       the Notice of Exercise and otherwise subject to the restrictions on
+       transfer and other terms set forth in Section 10.04.
+
+10.03.  Issuance of Restricted Shares Not Available to Transferred Options
+
+Neither the Optionee nor the Grantee of an Option transferred by the Grantee
+pursuant to the provisions of this Plan may elect to receive Restricted Shares
+on exercise of the Option.
+
+10.04.  Terms of Restricted Shares Issued on Exercise
+
+Subject to the right of the Optionee to elect the length of the Vesting Period
+applicable to Restricted Shares issued pursuant to an Option exercise under the
+Plan, all Restricted Shares issued pursuant to the Plan shall be subject to the
+terms and conditions set forth in this Section 10.04.
+
+(a) Restriction on Transfer An Optionee who receives Restricted Shares may not
+    sell, transfer, assign, pledge or otherwise encumber or dispose of the
+    Restricted Shares until the end of the Vesting Period for such shares,
+    except to a trust that is a Qualified Trust upon the following terms:
+
+         (i) the Company receives, before the transfer, a true copy of the trust
+             agreement of the Qualified Trust and an opinion from Optionee's
+             counsel that (1) the trust will be treated as a grantor trust owned
+             by the Optionee under Subchapter J of the Code at all times until
+             the restrictions on such stock lapse or the stock is forfeited
+             under the terms of their grant, (2) the terms of the trust provide
+             that upon the forfeiture of the Restricted Shares under the terms
+             of its grant or the earlier termination of the trust for whatever
+             reason, ownership of the Restricted Shares shall revert to the
+             Optionee or to the Company, (3) the trustee of such trust may not,
+             prior to the lapsing of restrictions on such stock, sell, transfer,
+             assign, pledge, or otherwise encumber or dispose of the Restricted
+             Shares except to the Company or to the Optionee, subject to the
+             restrictions provided for in this Plan, and (4) until the
+             restrictions lapse, the trustee is not authorized to incur
+             liabilities on behalf of the trust, other than to the
+
+                                       13
+
+<PAGE>
+
+               beneficiaries of the trust; and
+
+        (ii) the Corporate Secretary, in his discretion, may require the
+             Optionee and the trustee to execute other documents as a
+             pre-condition to such transfer to insure enforcement of the terms
+             of the Restricted Shares or otherwise.
+
+(b) Enforcement of Transfer Restrictions Unless the Corporate Secretary
+    establishes alternative procedures, certificates representing Restricted
+    Shares shall be registered in the name of the Optionee (or the Qualified
+    Transferee trust in the case of shares transferred to such a trust pursuant
+    to Section 10.04(a)) and shall be held by the Company in escrow, together
+    with a stock power assigning the Restricted Shares back to the Company, to
+    be used only in the event of the forfeiture of any of the Restricted Shares.
+
+(c) Vesting Period When an Optionee elects a Vesting Period to apply to
+    Restricted Shares issued under the Plan, the Optionee shall elect a Vesting
+    Period ending at least six months and no more than ten years after the
+    Exercise Date of the Option with respect to which the Restricted Shares were
+    issued.
+
+    The Corporate Secretary may establish restrictions on the dates during the
+    year which Vesting Periods electable pursuant to this Article 10 may end for
+    the convenient administration of Restricted Shares issued under the Plan.
+
+    At any time on or before the last day of the 13th calendar month that ends
+    on or before the last day of the Vesting Period for any Restricted Shares,
+    the Optionee may elect to extend the Vesting Period on all but not a portion
+    of the Restricted Shares by any multiple of six months.
+
+(d) Forfeiture and Vesting of Restricted Shares
+
+       (1) Vesting at End of Vesting Period. Any Restricted Shares not forfeited
+           by the end of the Vesting Period shall vest, and the Company shall
+           issue a certificate evidencing the shares to the registered owner
+           thereof promptly after the end of the Vesting Period.
+
+       (2) Restricted Shares Issued Electively. Unless the Committee determines
+           otherwise, restrictions on Restricted Shares issued at the election
+           of the Optionee under Section 10.02 shall lapse if the Grantee
+           terminates his service or employment at any time before the end of
+           the Vesting Period for the Restricted Shares if
+
+               (i)  the Grantee terminated service or employment by reason of
+                    the Grantee's Death or Total Disability,
+
+               (ii) the Grantee terminated service or employment by reason of
+                    the Grantee's Normal Retirement, or
+
+              (iii) the Grantee's employment was terminated involuntarily other
+                    than as a Termination for Cause,
+
+                                       14
+
+<PAGE>
+
+       in which cases, the Company shall issue a certificate representing the
+       shares to the registered owner thereof; otherwise the Restricted Shares
+       shall be forfeited.
+
+(e) Acceleration on Change in Control Unless the Committee determines otherwise,
+    Restricted Shares issued at the election of the Optionee under Section 10.02
+    shall vest on a Change in Control if the Change in Control occurs at least
+    one year after the Exercise Date on which the Restricted Shares were issued.
+
+(f) Rights of Grantee in Restricted Stock The registered owner of Restricted
+    Shares shall have the right to vote the shares of stock and to receive
+    dividends or other distributions with respect to the shares.
+
+                                       15
+
+<PAGE>
+
+                                   Article 11
+                                  Reload Rights
+
+
+11.01.      Grant of Reload Rights on Outstanding Non-Qualified Options
+
+The Committee may grant Reload Rights with respect to any outstanding Non-
+Qualified Options issued under any stock option plan of the Company, whether
+originally granted with Reload Rights or not.
+
+11.02.      Terms of Reload Options
+
+Any Underlying Option granted Reload Rights shall, unless the Committee
+specifies other terms at the time the Reload Rights are granted, entitle the
+Grantee to receive a new Option (a "Reload Option") to purchase shares of the
+same Option Class as the Underlying Option upon the Optionee's exercise of the
+Underlying Option by delivery or attestation of shares of Common Stock in
+payment of the Exercise Price on the terms set forth in this Article 11.
+
+(a) Conditions to the Grant of Reload Options.  No Reload Option shall be
+    granted on the exercise of the Underlying Option unless
+
+        (i)   a sufficient number of shares remain authorized and not issued or
+              subject to purchase under outstanding Options granted under the
+              Plan;
+
+        (ii)  the Grantee of the Option is a Director or Employee on the
+              Exercise Date of the Underlying Option;
+
+        (iii) the exercise of the Underlying Option is for the purchase of a
+              number of shares of Common Stock at least equal to the lesser of
+              (a) 25% of the total number of shares subject to purchase under
+              the Underlying Option or (b) 100% of the shares with respect to
+              which the Underlying Option is then exercisable;
+
+        (iv)  the Grant Date of the Reload Option would be at least one year
+              before the Expiration Date of the Underlying Option; and
+
+        (v)   the Fair Market Value of one share of the Underlying Option's
+              Option Class on the Exercise Date is greater than or equal to the
+              Strike Price of the Underlying Option.
+
+(b) Number of Shares Subject to Purchase; Grant Date Each Reload Option shall
+    entitle the Optionee to purchase a number of shares equal to the sum of
+
+         (i)  the number of shares of the Option Class used to pay the Exercise
+              Price of the Underlying Option pursuant to Sections 8.02(b) or
+              8.02(c) on the Exercise Date and
+
+        (ii)  the number of shares of the Option Class delivered or withheld in
+              payment of the Withholding Amount pursuant to Section 9.04.
+
+       If the Exercise Date and the Tax Date do not coincide, the Reload Option
+       shall be issued as two separate Options to purchase the number of shares
+
+                                       16
+
+<PAGE>
+
+       set forth in (i) and (ii) above and having Grant Dates on the Exercise
+       Date and the Tax Date, respectively.
+
+(c) Strike Price Each. Reload Option shall have a Strike Price equal to the Fair
+    Market Value of one share of the Option Class of the Common Stock on the
+    Grant Date of the Reload Option.
+
+(d) Expiration Date.  Each Reload Option shall have the same Expiration Date as
+    the Underlying Option.
+
+(e) No Reload Rights.  No Reload Option shall have Reload Rights.
+
+(f) Rate of Exercisability. Each Reload Option shall become exercisable in full
+    on the first anniversary of the Grant Date of the Reload Option.
+
+(g) Forfeiture on Disposition of Shares Acquired in Exercise of Underlying
+    Option. Each Reload Option shall be forfeited if the Optionee disposes of
+    any of the shares issued on exercise of the Underlying Option, except in a
+    Permitted Disposition, before the date six months after the Exercise Date to
+    any Person other than the Company in the payment of Payroll Taxes on
+    exercise of the Underlying Option.
+
+(h) Other Terms and Conditions. Except to the extent in conflict with the terms
+    set forth in this Article 11, the terms for Options granted under the Plan
+    as set forth in Section 7.01 shall apply to each Reload Option.
+
+(i) Terms of Foreign Reload Options.  A Foreign Reload Option shall be subject
+    to the terms and conditions set forth in the plan in which the underlying
+    reload right was granted.
+
+11.03.      Variant Reload Rights
+
+Any terms of Reload Rights or Reload Options different from those set forth in
+this Article 11 must be set forth in the Stock Option Agreement for the
+Underlying Option.
+
+
+                                   Article 12
+                        Change in Stock, Adjustments, Etc
+
+
+If the outstanding Common Stock of the Company is increased or decreased or
+changed into or exchanged for a different number of shares or kind of shares or
+other securities of the Company or of another Person by reason of a
+reorganization, merger, consolidation, recapitalization, reclassification, stock
+split-up, combination of shares, or a dividend payable in capital stock
+(including a spin- off), or otherwise, the Committee shall make an appropriate
+adjustment to the number and kind of shares for the purchase of which Options
+may be granted under the Plan including the maximum number that may be granted
+to any one person.
+
+In addition, the Committee shall make appropriate adjustment to the number and
+kind of shares as to which outstanding Options, or portions thereof then
+
+                                       17
+
+
+<PAGE>
+
+unexercised, shall be exercisable and to the Strike Price of the Options. Each
+such adjustment to outstanding Incentive Stock Options shall be made in such a
+manner as not to constitute a modification as defined in Code Section 424. If
+any outstanding Options are subject to any conditions affected by the event, the
+Committee shall also make appropriate adjustments to such conditions. Any such
+adjustments made by the Committee shall be conclusive.
+
+The grant of an Option pursuant to the Plan shall not affect in any way the
+right or power of the Company to make adjustments, reclassifications,
+reorganizations or changes of its capital or business structure or to merge or
+to consolidate or to dissolve, liquidate, or to sell or transfer all or any part
+of its business or assets.
+
+
+                                   Article 13
+                            Amendment and Termination
+
+
+The Board may at any time amend or terminate the Plan as it considers advisable
+and in the best interests of the Company, but no such termination or amendment
+may
+
+  (i)  without the consent of the Optionee, adversely affect or impair the
+       rights of the Optionee under any outstanding Option; or
+
+  (ii) be inconsistent with the provisions of the 1997 Program.
+
+
+                                   Article 14
+                     Effective Date and Duration of the Plan
+
+
+This Plan was initially effective as of February 17, 1990, and was continued as
+a plan under the 1997 Program on the Program Adoption Date. No Option shall be
+granted under the Plan after the last permissible date for the granting of
+Options under the 1997 Program, but Options granted before that date may have
+Expiration Dates that extend beyond such date.
+
+
+                                   Article 15
+                                   Definitions
+
+
+15.01.      1989 Program
+
+"1989 Program" means the Company's Long-Term Stock Incentive Program, approved
+by the Company's shareholders on April 18, 1989.
+
+15.02.      1997 Program
+
+"1997 Program" means the Company's 1997 Long-Term Stock Incentive Pro- gram,
+approved by the Company's shareholders on April 15, 1997, as amended from time
+to time.
+
+                                       18
+
+
+<PAGE>
+
+15.03.      Affiliate
+
+"Affiliate" means those Persons, other than Subsidiaries of the Company,
+designated from time to time by the Committee as such.
+
+15.04.      Authorized Officer
+
+"Authorized Officer" means the Chief Executive Officer of the Company.
+
+15.05.      Board
+
+"Board" means the board of directors of the Company.
+
+15.06.      Change in Control
+
+"Change in Control" means the occurrence of any of the following events:
+
+ (i)  the acquisition, directly or indirectly, by any "person" or "group" (as
+      those terms are defined in Sections 3(a)(9), 13(d), and 14(d) of the
+      Exchange Act, including, without limitation, Rule 13d-5(b)) of "beneficial
+      ownership" (as determined pursuant to Rule 13d-3 under the Exchange Act)
+      of securities entitled to vote generally in the election of directors
+      ("voting securities") of the Company that represent 30% or more of the
+      combined voting power of the Company's then outstanding voting securities,
+      other than
+
+         (A) an acquisition by a trustee or other fiduciary holding securities
+             under any employee benefit plan (or related trust) sponsored or
+             maintained by the Company or any person controlled by the Company
+             or by any employee benefit plan (or related trust) sponsored or
+             maintained by the Company or any person controlled by the Company,
+             or
+
+         (B) an acquisition of voting securities by the Company or a corporation
+             owned, directly or indirectly, by the stockholders of the Company
+             in substantially the same proportions as their ownership of the
+             stock of the Company, or
+
+         (C) an acquisition of voting securities pursuant to a transaction
+             described in clause (iii) below that would not be a Change in
+             Control under clause (iii);
+
+ (ii) a change in the composition of the Board that causes less than a majority
+      of the directors of the Company to be directors that meet one or more of
+      the following descriptions:
+
+         (A) a director who has been a director of the Company for a continuous
+             period of at least 24 months, or
+
+         (B) a director whose election or nomination as director was approved by
+             a vote of at least two-thirds of the then directors described in
+             clauses (ii)(A), (B), or (C) by prior nomination or election, but
+             excluding, for the purpose of this subclause (B), any director
+             whose
+
+                                       19
+
+<PAGE>
+
+         initial assumption of office occurred as a result of an actual or
+         threatened (y) election contest with respect to the election or removal
+         of directors or other actual or threatened solicitation of proxies or
+         consents by or on behalf of a person or group other than the Board or
+         (z) tender offer, merger, sale of substantially all of the Company's
+         assets, consolidation, reorganization, or business combination that
+         would be a Change in Control under clause (iii) on consummation
+         thereof, or
+
+     (C) a director who is serving on the Board as a result of the consummation
+         of a transaction described in clause (iii) that would not be a Change
+         in Control under clause (iii);
+
+ (iii) the consummation by the Company (whether directly involving the Company
+       or indirectly involving the Company through one or more intermediaries)
+       of (x) a merger, consolidation, reorganization, or business combination
+       or (y) a sale or other disposition of all or substantially all of the
+       Company's assets or (z)  the acquisition of assets or stock of another
+       entity, in each case, other than in a transaction
+
+         (A) that results in the Company's voting securities outstanding
+             immediately before the transaction continuing to represent (either
+             by remaining outstanding or by being converted into voting
+             securities of the Company or the person that, as a result of the
+             transaction, controls, directly or indirectly, the Company or owns,
+             directly or indirectly, all or substantially all of the Company's
+             assets or otherwise succeeds to the business of the Company (the
+             Company or such person, the "Successor Entity")) directly or
+             indirectly, at least 50% of the combined voting power of the
+             Successor Entity's outstanding voting securities immediately after
+             the transaction, and
+
+         (B) after which more than 50% of the members of the board of directors
+             of the Successor Entity were members of the Board at the time of
+             the Board's approval of the agreement providing for the transaction
+             or other action of the Board approving the transaction (or whose
+             election or nomination was approved by a vote of at least
+             two-thirds of the members who were members of the Board at that
+             time), and
+
+         (C) after which no person or group beneficially owns voting securities
+             representing 30% or more of the combined voting power of the
+             Successor Entity; provided, however, no person or group shall be
+             treated for purposes of this clause (C) as beneficially owning 30%
+             or more of the combined voting power of the Successor Entity solely
+             as a result of the voting power held in the Company before the
+             consummation of the transaction; or
+
+ (iv) a liquidation or dissolution of the Company.
+
+For purposes of clarification, (x) a change in the voting power of the Company's
+voting securities based on the relative trading values of the Company's
+
+                                       20
+
+<PAGE>
+
+then outstanding securities as determined pursuant to the Company's Articles of
+Incorporation or (y) an acquisition of the Company's securities by the Company
+that, in either case, by itself (or in combination only with the other event
+listed in this sentence) causes the Company's voting securities beneficially
+owned by a person or group to represent 30% or more of the combined voting power
+of the Company's then outstanding voting securities is not to be treated as an
+"acquisition" by any person or group for purposes of clause (i) above. For
+purposes of clause (i) above, the Company makes the calculation of voting power
+as if the date of the acquisition were a record date for a vote of the Company's
+shareholders, and for purposes of clause (iii) above, the Company makes the
+calculation of voting power as if the date of the consummation of the
+transaction were a record date for a vote of the Company's shareholders.
+
+15.07.      Code
+
+"Code" means the Internal Revenue Code of 1986, as amended, or any successor
+statute.
+
+15.08.      Code Section
+
+"Code Section" is a reference to a particular section of the Code, and includes
+any successor provision or the same or a successor provision as renumbered at
+any time.
+
+15.09.      Committee
+
+"Committee" means the the Organization, Compensation, and Nominating Committee
+of the Board.
+
+15.10.      Common Stock
+
+"Common Stock" means any class of the Company's publicly-traded common stock as
+the Committee may determine to issue under the Plan, including the FON Stock and
+the PCS Stock.
+
+15.11.      Company
+
+"Company" means Sprint Corporation, a Kansas corporation, or its successor.
+
+15.12.      Corporate Secretary
+
+"Corporate Secretary" means the secretary of the Company.
+
+15.13.      Director
+
+"Director" means a member of the Board or a member of the board of directors of
+a Subsidiary of the Company.
+
+15.14.      Employee
+
+"Employee" means an employee of the Company or a Subsidiary of the Company.
+
+15.15.      Equity Security
+
+                                       21
+
+<PAGE>
+
+"Equity Security" means an equity security as defined by the Exchange Act for
+purposes of Exchange Act Section 16.
+
+15.16.      Exchange Act
+
+"Exchange Act" means the Securities Exchange Act of 1934, as amended from time
+to time and as interpreted and implemented by the rules and regulations issued
+thereunder.
+
+15.17.      Exchange Act Section 16
+
+"Exchange Act Section 16" means section 16 of the Exchange Act.
+
+15.18.      Executive Officer
+
+"Executive Officer" means an officer of the Company that is subject to the
+liability provisions of Exchange Act Section 16.
+
+15.19.      Exercise Date
+
+"Exercise Date" has the meaning indicated in Section 8.01.
+
+15.20.      Exercise Price
+
+"Exercise Price" means, with respect to the exercise of an Option, the Strike
+Price of the Option multiplied by the number of shares with respect to which the
+Option is being exercised.
+
+15.21.      Expiration Date
+
+"Expiration Date" means, with respect to any Option, the last date on which the
+Option may be exercised in the absence of an earlier forfeiture of the Option.
+
+15.22.      Fair Market Value
+
+"Fair Market Value" means, with respect to any class of the Common Stock on any
+date, the average of the high and low prices per share of that class of Common
+Stock for composite transactions on that date, unless there was no trading in
+that class of Common Stock on that date, in which case, on the most recent day
+before that date on which that class of Common Stock was traded. The Fair Market
+Value of shares of Restricted Stock shall be determined without taking into
+account any restrictions.
+
+"Fair Market Value" means, with respect to other property, the value of the
+property as determined by the Committee.
+
+15.23.      FON Stock
+
+"FON Stock" means the Series 1 FON Stock as described in the Company's articles
+of incorporation.
+
+15.24.      Foreign Reload Option
+
+"Foreign Reload Option" means a reload option issued with respect to an option
+issued under a plan of Sprint's other than this Plan.
+
+15.25.      Grant Date
+
+                                       22
+
+<PAGE>
+
+"Grant Date" means, with respect to any Option, the date on which the term of
+the Option begins, as determined in Article 7 and Article 11.
+
+15.26.      Grantee
+
+"Grantee" means, with respect to any Option, the Director or Employee to whom
+the Option was originally granted, notwithstanding any subsequent transfer of
+the Option under the terms of the Plan.
+
+15.27.      Incentive Stock Option
+
+"Incentive Stock Option" means an Option designated as such in the action
+granting the Option. This Plan's intent is that Incentive Stock Options meet the
+requirements of Code Section 422.
+
+15.28.      Minimum Withholding Amount
+
+"Minimum Withholding Amount" means, with respect to any Option exercise, the
+amount the employer is required to withhold from the income of the Payroll
+Taxpayer under the Payroll Tax laws.
+
+15.29.      Non-Qualified Option
+
+"Non-Qualified Option" means any Option that is not an Incentive Stock Option.
+
+15.30.      Normal Retirement
+
+"Normal Retirement" means, with respect to any Employee, Retirement at or later
+than an age qualifying as "normal retirement" under the Company's defined
+benefit pension plan, whether or not the person is a participant in the plan
+and, with respect to any Director, termination of service as a Director at the
+mandatory retirement age for members of the Board under its policies, as amended
+from time to time, even if the Director serves on the board of a Subsidiary or
+Affiliate.
+
+15.31.      Notice of Exercise
+
+"Notice of Exercise" means the notice by an Optionee of the exercise of an
+Option as set forth in Section 8.01.
+
+15.32.      Option
+
+"Option" means the right, set forth in a written agreement between the Company
+and an Optionee, authorized by this Plan to acquire a determinable number of
+shares of the Option Class of Common Stock at a determinable price for a
+determinable period of time and having such other terms as may be determined by
+the Committee or Authorized Officer or as set forth in this Plan.
+
+15.33.      Option Class
+
+"Option Class" means, with respect to any Option, the class of Common Stock
+subject to purchase pursuant to the terms of the Option.
+
+15.34.      Optionee
+
+                                       23
+
+<PAGE>
+
+"Optionee" means, with respect to any Option at any particular time, the holder
+of the Option at that time.
+
+15.35.      Payroll Tax
+
+"Payroll Tax" means any tax required by an employer to be withheld from wages
+paid to its employees, including but not limited to federal income tax
+withholding, Social Security and Medicare withholding taxes, and state and local
+income tax withholding.
+
+15.36.      Payroll Taxpayer
+
+"Payroll Taxpayer" has the meaning specified in Section 9.01.
+
+15.37.      PCS Stock
+
+"PCS Stock" means the Series 1 PCS Stock as defined in the Company's articles of
+incorporation.
+
+15.38.      Permitted Disposition
+
+"Permitted Disposition" means, with respect to any Optionee, (i) a disposition
+of shares by the Optionee in which the Optionee remains the sole beneficial
+owner or (ii) a disposition upon death of the Optionee.
+
+15.39.      Person
+
+"Person" means any individual, corporation, partnership, limited liability
+company, business trust, or other entity.
+
+15.40.      Program Adoption Date
+
+"Program Adoption Date" means April 15, 1997.
+
+15.41.      Plan
+
+"Plan" means the 1990 Stock Option Plan, the terms of which are set forth in
+this document.
+
+15.42.      Qualified Transferee
+
+"Qualified Transferee" means a Qualified Trust.
+
+15.43.      Qualified Trust
+
+"Qualified Trust" means a trust
+
+  (i)   that is a grantor trust treated as owned by the Grantee under Subchapter
+        J of the Code;
+
+  (ii)  of which the Grantee, the Grantee's spouse, or the Grantee's descendants
+        by blood, adoption, or marriage, are the sole beneficiaries; and
+
+  (iii) that, by its terms, may not be amended to violate the foregoing
+        restrictions so long as the trust is an Optionee under this Plan.
+
+15.44.      Reload Option
+
+                                       24
+
+<PAGE>
+
+"Reload Option" means an Option granted upon exercise of an Option having Reload
+Rights under the terms and conditions set forth in Article 11
+
+15.45.      Restricted Shares
+
+"Restricted Shares" means shares of Common Stock that are substantially
+nonvested within the meaning of Treasury regulations under Code Section 83.
+
+15.46.      Retirement
+
+"Retirement" means, in the case of an Employee, termination of employment by an
+employee who is entitled to receive payment of pension benefits in accordance
+with the Sprint Retirement Pension Plan or his employer's defined benefit
+pension plan, if any, immediately after the employee's Termination Date and, in
+the case of a Director, termination of service as a Director after five years of
+service as a Director.
+
+15.47.      Seasoned Shares
+
+"Seasoned Shares" means, with respect to any Person on any date,
+shares of Common Stock that
+
+  (i)  are not Restricted Shares, were acquired by the Person from the Company,
+       and have been owned by the Person on that date for a period of at least
+       six months; or
+
+  (ii) were acquired by such Person other than from the Company.
+
+15.48.      Securities Act
+
+"Securities Act" means the Securities Act of 1933, as amended from time to time
+and as interpreted and implemented by the rules and regulations issued
+thereunder.
+
+15.49.      Strike Price
+
+"Strike Price" means, with respect to any Option, the price per share at which
+the Optionee is entitled to purchase shares of Common Stock.
+
+15.50.      Subsidiary
+
+"Subsidiary" means, with respect to any Person (the "Controlling
+Person"),
+
+  (i)  all Persons (the "Controlled Persons") in whom the Controlling Person,
+       together with its Subsidiaries, directly owns more than 50% of the voting
+       rights, and
+
+  (ii) all Subsidiaries of the Controlled Persons.
+
+15.51.      Tax Date
+
+"Tax Date" means, with respect to any Option exercise, the date on which the
+shares issued pursuant to the Option exercise become subject to federal income
+taxation.
+
+15.52.      Termination Date
+
+                                       25
+
+<PAGE>
+
+"Termination Date" means,
+
+  (i)  with respect to any Employee, the date on which the Employee ceases to be
+       employed by the Company, any of its Subsidiaries, or any Affiliate, and
+       ceases to receive severance benefits under any applicable plans for the
+       payment of severance benefits by the employing entity, or
+
+  (ii) with respect to any Director, the date on which the Director's service as
+       a director ends.
+
+15.53.      Termination for Cause
+
+In the case of an Employee, "Termination for Cause" means an involuntary
+termination of employment because
+
+  (i)  the employee has materially breached the Company's Code of Ethics, or the
+       code of ethics of the employer;
+
+  (ii) the employee has materially breached the Sprint Employee Agreement
+       Regarding Property Rights and Business Practices;
+
+ (iii) the employee has engaged in acts or omissions constituting dishonesty,
+       intentional breach of a fiduciary obligation, or intentional acts of
+       wrongdoing or misfeasance; or
+
+ (iv)  the employee has acted intentionally and in bad faith in a manner that
+       results in a material detriment to the assets, business, or prospects of
+       the employer.
+
+In determining whether any particular employee was Terminated for Cause, the
+characterization of the reason for termination used for purposes of other
+employee benefit plans of the Company or other employer shall apply to this
+Plan.
+
+In the case of a Director, "Termination for Cause" means removal for cause from
+service as a director.
+
+15.54.      Total Disability
+
+"Total Disability" means, in the case of employees, termination of employment
+under circumstances that would make the employee eligible to receive benefits
+under the employer's long-term disability plan and, in the case of Directors,
+termination of service as a Director under circumstances that would make the
+Director eligible to receive Social Security disability benefits.
+
+15.55.      Underlying Option
+
+"Underlying Option" means, with respect to any Reload Option, the Option to
+which the Reload Rights were attached and the exercise of which resulted in the
+grant of the Reload Option.
+
+15.56.      Vesting Period
+
+"Vesting Period" means, with respect to any Restricted Shares, the period during
+which the shares continue to meet the definition of Restricted Shares.
+
+                                       26
+
+
+<PAGE>
+
+15.57.      Withholding Amount
+
+"Withholding Amount" has the meaning specified in Section 9.02.
+
+                                       27
+
+</TEXT>
+</DOCUMENT>

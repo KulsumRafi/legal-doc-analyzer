@@ -1,0 +1,241 @@
+<DOCUMENT>
+<TYPE>EX-10.7.1
+<SEQUENCE>4
+<FILENAME>ex10_7-1.txt
+<TEXT>
+                                                             EXHIBIT 10.7.1
+
+WACHOVIA                    CROSS CURRENCY RATE
+                  AND FORWARD FOREIGN EXCHANGE TRANSACTION
+                                CONFIRMATION
+--------------------------------------------------------------------------------
+
+DATE:                December 03, 2002
+
+TO:                  Commscope, Inc. of North Carolina ("Counterparty")
+
+ADDRESS:             1100 Commscope Place Southeast
+                     Hickory NC
+                     28603 USA
+
+FAX:                 828-315-2958
+
+ATTENTION:           Barry Graham
+
+FROM:                Wachovia Bank, National Association ("Wachovia")
+
+REF NO.              161116
+
+Dear Barry Graham:
+
+This confirms the terms of the Transaction described below between
+Counterparty and Wachovia. The definitions and provisions contained in the
+2000 ISDA Definitions and as amended and supplemented by the 1998 ISDA Euro
+Definitions, as published by the International Swaps and Derivatives
+Association, Inc., are incorporated into this Confirmation. In the event of
+any inconsistency between those definitions and provisions and this
+Confirmation, this Confirmation will govern. Fixed Amounts and Floating
+Amounts for each applicable Payment Date hereunder will be calculated in
+accordance with the ISDA Definitions, and if any Fixed Amount and Floating
+Amount are for the same Payment Date hereunder, then those amounts shall
+not be payable and instead the Fixed Rate Payer shall pay the positive
+difference, if any, between the Fixed Amount and the Floating Amount, and
+the Floating Rate Payer shall pay the positive difference, if any, between
+the Floating Amount and the Fixed Amount.
+
+1. The terms of the particular Transaction to which the Confirmation
+relates are as follows:
+
+Transaction Type:       Cross Currency Rate Swap, subject to Optional Early
+----------------        Termination Term:
+Term:
+----
+   Trade Date:            November 27, 2002
+   Effective Date:        December 02, 2002
+   Termination Date:      December 01, 2009
+
+
+Fixed Amounts I:
+---------------
+
+Fixed Rate Payer I:       Wachovia
+Fixed Rate Payer I
+Currency Amount:          USD 20,000,000.00
+Period End Dates:         Semi-annually on the 1st of each June and December
+                          commencing June 01, 2003, through and including the
+                          Termination Date; No Adjustment.
+Payment Dates:            Semi-annually on the 1st of each June and December
+                          commencing June 02, 2003, through and including the
+                          Termination Date.
+Business Day Convention:  Modified Following
+Business Day:             New York, TARGET Settlement Day
+Fixed Rate:               4.00%
+Fixed Rate Day Count
+Fraction:                 30./360
+
+<PAGE>
+
+Fixed Amounts II:
+----------------
+
+Fixed Rate Payer II:      Counterparty
+Currency Amount:          EUR 20,253,164.56
+Period End Dates:         Semi-annually on the 1st of each June and December
+                          commencing June 01, 2003, through and including the
+                          Termination Date; No Adjustment.
+Payment Dates:            Semi-annually on the 1st of each June and December
+                          commencing June 02, 2003, through and including the
+                          Termination Date.
+Business Day Convention:  Modified Following
+Business Day:             New York, TARGET Settlement Day
+Fixed Rate:               4.54%
+Fixed Rate Day Count
+Fraction:                 30/360
+
+
+2. The additional provisions of this Confirmation are as follows:
+
+Calculation Agent:        Wachovia
+-----------------
+Initial Exchange
+---------------
+   Initial Exchange Date  The Effective Date
+   Wachovia Initial
+   Exchange Amount        EUR 10,618,912.50
+   Counterparty Initial
+   Exchange Amount        USD 10,486,176.09
+Final Exchange
+--------------
+   Final Exchange Date    The Termination Date
+   Wachovia Final
+   Exchange Amount        USD 20,000,000.00
+   Counterparty Final
+   Exchange Amount        EUR 20,353,164.56
+Payment Instructions:     USD
+--------------------      ---
+
+                          Bank Name:  Wachovia Bank, National Association, New
+                          York
+                          Account No: 2000191755725
+                          SWIFT Code: PNBPUS3NNYC
+                          Ref: Derivative Desk
+
+                          EUR
+                          ---
+                          Bank Name:  Bayerische Landesbank-Munich
+                          Account No: 0000008116711
+                          SWIFT Code:  BYLADEMM
+Wachovia Contacts:        Settlements and/or Rate Resets:
+-----------------         Tel: (800) 249-3865
+                          Fax: (704) 383-9139
+
+                          Documentation:
+                          Tel:  (704) 715-1023
+                          Fax:  (704) 383-9139
+
+                          Collateral:
+                          Tel: (704) 383-9529
+
+<PAGE>
+
+Payments to Counterparty: Please quote transaction reference number.
+------------------------  Please provide written payment instructions.
+                          Wachovia will make no payments until
+                          written payment instructions are received.
+                          Phone: 1-800-249-3865 Fax: 1-704-383-8429
+Optional Termination:
+--------------------
+
+Either party may elect to terminate this Transaction on the following
+dates, subject to the Modified Following Business Day Convention:
+
+January 24, 2003
+
+by oral telephonic notice of that date (the "Optional Termination Date")
+given to the other party by 4:00pm. (New York time), and confirmed in
+writing by facsimile transmission by 5:00pm. (New York time), 2 New York
+Business Days prior to the Optional Termination Date, provided that an
+Event of Default or Potential Event of Default does not exist with respect
+to the party making the election, and provided further that this
+Transaction does not otherwise become a Terminated Transaction under
+Section 6(e) of the Agreement on or before the Optional Termination Date.
+
+Unless prior to the Optional Termination Date the parties otherwise agree
+on the termination date and the amount, due date and payor of the
+termination payment to be made, then upon such election this Transaction
+will terminate on the Optional Termination Date and be replaced by an
+obligation of one party to make a payment under Section 6(e) of the
+Agreement for this Transaction ("Cash Settlement Amount"). For that
+purpose, (i) the Early Termination Date is the Optional Termination Date,
+(ii) the Terminated Transaction is this Transaction, (iii) the Affected
+Party is the Counterparty, and (iv) Wachovia will determine the Settlement
+Amount for this Transaction. The Cash Settlement Amount will be due on the
+New York Business Day following the Optional Termination Date by the party
+obligated to pay that amount under section (6)(e) of the Agreement.
+
+For any such election, Wachovia agrees to receive oral telephonic notice at
+(704) 374-3471 and facsimile confirmation thereof at (704) 383-0575, and
+Counterparty agrees to receive oral telephonic notice at 828-315-2991 and
+facsimile confirmation thereof at 828-315-2958.
+
+Additional Terms:
+----------------
+It is hereby acknowledged that, in lieu of Counterparty paying to Wachovia
+a termination fee as consideration for the early termination of that
+certain Transaction evidenced by a Confirmation dated March 10, 1999
+between Wachovia and Counterparty, the terms of this Transaction have been
+adjusted to reflect the value to Wachovia on the Trade Date of forgoing the
+receipt of any such termination fee.
+
+Documentation
+-------------
+
+If at any time there exists a master agreement (however described) between
+the parties governing this Transaction ("Master Agreement"), this
+Confirmation supplements, forms part of and will be governed by the Master
+Agreement.
+
+In the absence of such Master Agreement, this Confirmation shall
+supplement, form a part of, and be subject to an agreement in the form of
+the 1992 ISDA Master Agreement (Multicurrency-Cross Border) version
+published by the International Swaps and Derivatives Association, Inc.
+("ISDA Master") as if the parties had executed an agreement in such form,
+but without any Schedule except for the election of New York law (without
+regard to conflicts of law principles), and this Confirmation together with
+the ISDA Master shall form a binding and complete contract between the
+parties. Neither party is acting as the other party's financial advisor for
+this Transaction nor is it relying on the other party for any evaluation of
+the present or future results, consequences, risks, and benefits of this
+transaction, whether financial, accounting, tax, legal, or otherwise.
+
+<PAGE>
+
+Please confirm that the foregoing correctly sets forth the terms of our
+agreement by executing a copy of this Confirmation and returning it to us.
+
+                              Very truly yours,
+                              Wachovia Bank, National Association
+
+
+                              By: /s/ JANET R. MALKEMES
+                                 -------------------------------
+                              Name:        Janet R. Malkemes
+                              Title        Associate
+
+                              By: /s/ JAMES L. COLLINS
+                                 -------------------------------
+                              Name:        James L. Collins
+                              Title        Vice President
+
+
+Accepted and confirmed as of date first above written:
+Commscope, Inc. of North Carolina
+
+
+By: /s/ BARRY D. GRAHAM
+   -------------------------------
+Name:        Barry D. Graham
+Title        Treasurer
+
+</TEXT>
+</DOCUMENT>

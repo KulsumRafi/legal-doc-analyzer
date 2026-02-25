@@ -1,0 +1,1242 @@
+<DOCUMENT>
+<TYPE>EX-10.56
+<SEQUENCE>7
+<FILENAME>a2106063zex-10_56.txt
+<DESCRIPTION>EXHIBIT 10.56
+<TEXT>
+<Page>
+
+                                                            EXHIBIT NO. 10.56
+
+          CONFIDENTIAL MATERIALS OMITTED AND FILED SEPARATELY WITH THE
+         SECURITIES AND EXCHANGE COMMISSION. ASTERISKS DENOTE OMISSIONS.
+
+                                    AGREEMENT
+
+     This agreement (the "Agreement") is effective as of the last date of
+execution below (the "Effective Date") and is made between PHARMACIA & UPJOHN
+COMPANY, a Delaware corporation having its principal place of business at 100
+Route 206 North, Peapack, New Jersey 07977 ("Pharmacia"), and GENAISSANCE
+PHARMACEUTICALS, INC., a Delaware corporation having its principal place of
+business at Five Science Park, New Haven, CT 06511 ("Genaissance"). Pharmacia
+and Genaissance are sometimes referred to herein individually as a party and
+collectively as the parties. Reference to a party herein includes a reference to
+its Affiliates (as hereinafter defined) unless otherwise indicated.
+
+                                    RECITALS
+
+     WHEREAS, Genaissance has expertise in integrating and applying population
+genomics and informatics to improve the discovery, development and marketing of
+drugs; and
+
+     WHEREAS, Genaissance's expertise includes its unique HAP(TM) Typing
+Service, which employs the Genaissance HAP(TM) Typing Facility, a dedicated
+high-throughput facility for genotyping of clinical DNA samples at individual
+Polymorphic Sites (as hereinafter defined), and Genaissance's proprietary
+HAP(TM) Builder Software (as hereinafter defined) to determine the pair of
+Haplotypes (as hereinafter defined) that are present for a set of Polymorphic
+Sites in individual clinical DNA samples; and
+
+     WHEREAS, Genaissance's expertise also includes its proprietary database of
+gene-specific Haplotypes, or HAP Markers (as hereinafter defined), for over five
+thousand human genes, and its proprietary DECOGEN(R) Informatics Platform (as
+hereinafter defined), which is a sophisticated set of tools for assembling,
+processing, searching, manipulating, analyzing, and connecting gene variation
+information to clinical phenotypes, such as disease associations and drug
+response; and
+
+     WHEREAS, Pharmacia is interested in utilizing Genaissance's HAP(TM) Typing
+Service and obtaining a license to HAP(TM) Markers for a limited set of genes of
+interest to Pharmacia in addition to an option to license the DECOGEN(R)
+Informatics Platform and HAP(TM) Builder Software for use in its internal
+research and development; and
+
+     WHEREAS, Genaissance is willing to providing Pharmacia with HAP(TM) Typing
+Services, the HAP(TM) Markers license and options to license its proprietary
+software.
+
+<Page>
+
+     NOW THEREFORE, in consideration of the premises and of the covenants herein
+contained, the parties hereto mutually agree as follow:
+
+                                    ARTICLE 1
+
+                                   DEFINITIONS
+
+     Whenever used in this Agreement, the terms defined in this Article 1 shall
+have the meanings specified.
+
+     1.1   "AFFILIATE" shall mean any corporation or other entity that directly
+or indirectly controls, is controlled by or is under common control with a party
+to this Agreement. A corporation or other entity shall be regarded as in control
+of another corporation or entity if it owns or directly or indirectly controls
+more than fifty percent (50%) of the outstanding voting stock or other ownership
+interest of the other corporation or entity, or if it possesses, directly or
+indirectly, the power to manage, direct or cause the direction of the management
+and policies of the corporation or other entity or the power to elect or appoint
+fifty percent (50%) or more of the members of the governing body of the
+corporation or other entity. Any such other relationship as in fact results in
+actual control over the management, business and affairs of a corporation or
+other entity shall also be deemed to constitute control.
+
+     1.2   "DATAPOINT" shall mean a single PS in a single genomic DNA sample to
+be genotyped.
+
+     1.3   "DECOGEN(R) INFORMATICS PLATFORM" shall mean software and components
+thereof and any associated documentation, whether existing on the Installation
+Date or developed by Genaissance during the License Period, which is owned or
+controlled by Genaissance, or licensed (with the right to sublicense) to
+Genaissance, and which includes the DECOGEN(R) Browser software and the
+DECOGEN(R) DataManager software, with the features of these software products
+being further described in Exhibit A hereto. The DECOGEN Informatics Platform
+shall not include any Third Party software that Pharmacia has independently of
+Genaissance licensed from a Third Party.
+
+     1.4   "GENAISSANCE GENOTYPING ASSAY" shall mean a novel Genotyping Assay or
+Genotyping Assays developed by Genaissance for genotyping a SNP, that is
+proprietary to Genaissance, pursuant to this Agreement.
+
+     1.5   "GENAISSANCE KNOW-HOW" shall mean any and all proprietary data,
+information, know-how, inventions, trade secrets, copyrights, regulatory
+submissions or other intellectual property of any kind, other than Patent
+Rights, owned or controlled by Genaissance as of the Effective Date or during
+the term of this Agreement including, without limitation, any data on the
+sequence, frequency and distribution of HAP Markers and other information
+contained in the HAP(TM) Database.
+
+     1.6   "GENAISSANCE PATENT RIGHTS" shall mean Patent Rights that are owned
+or controlled (with the right to grant licenses) by Genaissance that are
+directed to the DECOGEN Informatics Platform, HAP Builder Software or HAP
+Markers, PROVIDED THAT
+
+                                       -2-
+<Page>
+
+Genaissance Patent Rights shall not include patents owned or controlled by
+Genaissance that are directed to an association between one or more HAP Markers
+and a specific phenotype, including but not limited to drug response or disease
+susceptibility.
+
+     1.7   "GENOTYPE" shall mean an unphased 5' to 3' sequence of the two
+nucleotides found at one or more Polymorphic Sites on a pair of homologous
+chromosomes in an individual.
+
+     1.8   "GENOTYPING ASSAY" shall mean any assay or assays used by Genaissance
+for genotyping a SNP pursuant to this Agreement, including public domain assays,
+licensed assays, and Genaissance Genotyping Assays.
+
+     1.9   "HAP(TM) BUILDER SOFTWARE" shall mean software and components thereof
+and any associated documentation, which is owned or controlled by Genaissance,
+or licensed during the term of this Agreement to Genaissance, and which is
+designed to derive, from a sample group of individuals, the presence and
+frequency of Haplotypes from a collection of Genotypes for multiple individual
+polymorphisms, including SNPs, in a genomic region, and to use the derived
+Haplotypes to assign a Haplotype Pair for the region to an individual. The
+features of this software product are further described in Exhibit A hereto. HAP
+Builder Software shall not include any Third Party software that Pharmacia has
+independently of Genaissance licensed from a Third Party.
+
+     1.10  "HAP(TM) DATABASE" shall mean Genaissance's proprietary database
+containing annotated data on the sequence, frequency and distribution of HAP
+Markers and HAP Marker Pairs generated by examining genomic DNA from the Index
+Repository.
+
+     1.11  "HAP FOCUS(TM) DATABASE" shall mean the database that is supplied to
+Pharmacia with and accessible by the DECOGEN Informatics Platform and that
+contains the following information generated by Genaissance: (a) a gene
+structure for each of the genes specified by Pharmacia in the HAP(TM) Typing
+Project, (b) the Genotypes, Haplotypes, and Haplotype Pairs generated by
+Genaissance for the genomic DNA samples provided by Pharmacia, (c) the
+frequencies of such Genotypes, Haplotypes and Haplotype Pairs in such samples
+and (d) a subset of the HAP Database for any genes whose HAP Markers and HAP
+Marker Pairs are licensed to Pharmacia pursuant to Section 3.1. No other data or
+information of any kind will be included in the HAP FOCUS(TM) Database.
+
+     1.12  "HAP FOCUS(TM) DATABASE SCHEMA" shall mean the software structure of
+the HAP FOCUS(TM) Database upon which different types of data relating to
+individual subjects, gene structure, SNPs, Genotypes and Haplotypes may be
+stored.
+
+     1.13  "HAPLOTYPE" shall mean any phased 5' to 3' sequence of the
+nucleotides present at a set of two or more Polymorphic Sites in a gene on a
+single chromosome.
+
+     1.14  "HAPLOTYPE PAIR" shall mean the two Haplotypes found in a single
+individual.
+
+                                       -3-
+<Page>
+
+     1.15  "HAP MARKER" shall mean a SNP or Haplotype that is (a) generated by
+examining genomic DNA from the Index Repository and (b) in the HAP Database
+prior to or during the term of the Agreement.
+
+     1.16  "HAP MARKER PAIR" shall mean the two HAP Markers found in a single
+individual in the Index Repository.
+
+     1.17  "HAP(TM) TYPING PROJECT" shall mean a written description of the
+genes, SNPs and the number of genomic DNA samples for which Pharmacia has
+requested Genaissance's HAP Typing Service pursuant to this Agreement, such
+description to be appended hereto and made a part of this Agreement as Exhibit
+C.
+
+     1.18  "HAP(TM) TYPING PROJECT RESULTS" shall mean all information relating
+to the Genotypes and Haplotypes generated according to the HAP(TM) Typing
+Project set forth in Exhibit C.
+
+     1.19  "INDEX REPOSITORY" shall mean Genaissance's proprietary collection of
+immortalized cell lines established from unrelated individuals from various
+geographical origins and from members of extended families.
+
+     1.20  "INSTALLATION DATE" shall mean the date that Genaissance installs, at
+the Pharmacia site specified in Exhibit B, the DECOGEN Informatics System and
+the HAP FOCUS(TM) Database containing the HAP(TM) Typing Project Results in
+accordance with Section 2.5.
+
+     1.21  "LICENSE PERIOD" shall mean the time period between the Installation
+Date and (a) one (1) year after the Installation Date (Initial License Period)
+or (b) the date on which the then current one-year renewal period expires if
+Pharmacia renews its license for an additional year(s) as set forth in Section
+4.6 (Extended License Period).
+
+     1.22  "PATENT RIGHTS" shall mean patents or patent applications as
+described hereinafter which are owned or controlled (with the right to grant
+licenses) by a party to this Agreement. More particularly, Patent Rights include
+(i) any United States or foreign patent application, (ii) any United States
+patent or foreign patent issuing from such patent application and (iii) any
+continuation, continuation-in-part (to the extent the claims in such
+continuation-in-part application are directed to subject matter specifically
+described in such prior patent application), divisional, reissue,
+re-examination, renewal, substitution, addition, extension, supplementary
+protection certificate or foreign counterpart thereof of any of the foregoing.
+
+     1.23  "POLYMORPHIC SITE" OR "PS" shall mean a specific position within a
+chromosome at which a single nucleotide polymorphism (SNP) is found in a
+population.
+
+     1.24  "SOFTWARE OPTION PERIOD" shall mean the time period between the
+Effective Date and [**] after the Delivery of the HAP Typing Project Results.
+
+     1.25  "THIRD PARTY" shall mean any entity other than Genaissance or
+Pharmacia or an Affiliate of either of them.
+
+                                       -4-
+<Page>
+
+     1.26  "VALID CLAIM" shall mean either (i) a claim of a pending patent
+application which claim was filed in good faith and has not been abandoned or
+finally disallowed without the possibility of appeal or refiling of said
+application or (ii) a claim of an issued and unexpired patent which has not been
+held permanently revoked, unenforceable or invalid by a decision of a court or
+other governmental agency of competent jurisdiction, unappealable or unappealed
+within the time allowed for appeal.
+
+                                    ARTICLE 2
+
+                               HAP TYPING SERVICES
+
+     2.1   Specification of HAP(TM)Typing Project.
+
+           (a)    GENE IDENTIFICATION BY PHARMACIA. Pharmacia will provide
+Genaissance with a list of [**] genes identified by HUGO symbols for which
+Genaissance is to generate Genotypes and Haplotypes for Pharmacia (hereinafter
+the "Gene List"). Such genes may include genes that are not in the HAP Database.
+Genaissance will treat the Gene List as Pharmacia Information in accordance with
+the provisions of Section 6.
+
+           (b)    SNP PROPOSAL BY GENAISSANCE; ACCEPTANCE BY PHARMACIA. Within
+[**] of receipt of the Gene List, and subject to the payment of the fee set
+forth in Section 4.2, Genaissance shall select [**] SNPs from its HAP(TM)
+Database, [**] for each of the genes in the Gene List and propose in writing to
+Pharmacia for review a list of such SNPs for each gene (the "Initial SNP List"),
+such SNP List to include: (i) associated data from the HAP Database for each
+such SNP; (ii) the two alternative nucleotides present in each SNP and (iii) the
+location of each SNP in a GenBank Accession Number that is identified with both
+an accession version and an index. At the request of Pharmacia, Pharmacia and
+Genaissance shall meet at Genaissance's facility in New Haven, CT to review the
+Initial SNP List of prior to acceptance by Pharmacia. In addition, Pharmacia and
+Genaissance shall agree on a set of [**] SNPs from the HAP Database to be used
+as "control SNPs" for the Initial SNP List. All SNPs from the Initial SNP List
+that are accepted by Pharmacia as well as the "control" SNPs shall be designated
+the "Final SNP List" and included in the HAP(TM) Typing Project and appended to
+Exhibit C hereto.
+
+           (c)    Pharmacia shall have the right to propose SNPs [**] that are
+not in the HAP(TM) Database for inclusion in the Final SNP List ("Pharmacia
+Proposed SNPs").
+
+     2.2   CUSTOM SNP DISCOVERY SERVICE. Upon request by Pharmacia, Genaissance
+will perform custom SNP discovery (each such SNP discovered a "Custom SNP") in
+the Index Repository for genes that are not in the HAP Database for a fee of
+[**] dollars ($[**]) [**]. For example, [**], then the charge to Pharmacia would
+be [**] dollars ($[**]). Pharmacia will provide Genaissance with sufficient
+sequence information to enable Genaissance to design appropriate amplification
+primers for each region of the gene that Pharmacia wants to sequence. [**]
+pursuant to this Section [**]; provided that, [**].
+
+                                       -5-
+<Page>
+
+     2.3   PERFORMANCE OF HAP(TM) TYPING PROJECT. The HAP(TM) Typing Project
+will be done in one stage (but the quality testing and plating of the DNA will
+be done as and when the samples are received), with [**] genomic DNA samples
+analyzed using the procedures described below.
+
+     2.4   GENOTYPING PLATFORMS. Genaissance will recommend to and, prior to
+use, agree with Pharmacia the most appropriate genotyping platform for
+genotyping each SNP specified in the HAP Typing Project. Currently available
+platforms include [**].
+
+     2.5   DNA SAMPLES. Pharmacia will provide Genaissance with [**] genomic DNA
+samples. Pharmacia shall have the right to provide additional samples to
+Genaissance for genotyping subject to payment of the fee provided in Section
+4.3.2(b).
+
+           REQUIRED QUANTITY AND INFORMATION. Pharmacia will send Genaissance
+[**] nanograms/SNP of genomic DNA from each patient to be genotyped in vials.
+Genaissance will perform quality testing on the genomic DNA samples as described
+below. Upon completion of quality testing, Genaissance will dispense aliquots of
+the DNA samples into ninety-six (96) well plates for the per sample fee set
+forth in Section 4.1. [**].
+
+           QUALITY TESTING. Genaissance will confirm the concentration and
+purity of each DNA sample by [**]. Genaissance will also test the ability of
+each DNA sample to undergo IN VITRO enzymatic amplification[**], which yield
+[**] as a result of the [**] and analysis by [**]. Prior to performing any
+Genotyping Assays for SNPs set forth in the HAP Typing Project, Genaissance will
+provide to Pharmacia a written report describing the quality tests done and
+listing any DNA samples whose DNA quantity or quality is below Genaissance's
+minimum standards (as described in Exhibit D) for which it will provide the
+guarantees set forth in Section 2.5. [**].
+
+     2.6   DELIVERY OF RESULTS. Genaissance will use its best efforts to deliver
+to Pharmacia the HAP(TM) Typing Project Results for each set of DNA samples
+within [**] after DNA quality testing and agreement by Pharmacia on which
+samples are suitable for genotyping. Genaissance guarantees that it will deliver
+a Genotype for at least [**]% of the Data Points. Genaissance further guarantees
+that greater than [**]% of the delivered Genotypes will be accurate provided
+that (a) Genaissance has previously validated the accuracy of a Genotyping Assay
+for each selected SNP in its Index Repository, or (b) Pharmacia provides a
+control DNA sample that is known to be heterozygous for the SNP to be analyzed.
+The HAP(TM) Typing Project Results shall be delivered [**] as set forth in
+Section 3.3 below.
+
+     2.7   UNUSED DNA. Upon completion of the HAP Typing Project, Genaissance
+will return to Pharmacia any unused ninety six (96) well plates of the DNA
+samples.
+
+     2.8   NO INFRINGEMENT OF THIRD PARTY RIGHTS. Genaissance shall not be
+obligated to generate Genotypes or Haplotypes for any SNP specified in the HAP
+Typing Project if Genaissance reasonably believes, with the advice of its
+counsel and after
+
+                                       -6-
+<Page>
+
+consultation with Pharmacia, that such action would infringe upon the
+intellectual property rights of a Third Party.
+
+     2.9   ADDITION OF GENES IN THE GENE LIST TO THE HAP DATABASE. Genaissance
+agrees that any genes in the Gene List that are not in the HAP Database, as of
+the date Genaissance receives the Gene List, [**] delivered after receipt of the
+Gene List.
+
+                                    ARTICLE 3
+
+                   HAP MARKER LICENSE AND OPTIONS FOR SOFTWARE
+
+     3.1   RESEARCH LICENSE TO SNPS IN THE FINAL SNP LIST AND TO GENAISSANCE
+GENOTYPING ASSAYS. Subject to payment by Pharmacia of the fee specified in
+Section 4.2, Genaissance hereby grants Pharmacia a worldwide, non-exclusive,
+perpetual and royalty-free right and license, without the right to sublicense,
+under the Genaissance Patent Rights and Genaissance Know-How to use all SNPs in
+the Final SNP List and Genaissance Genotyping Assays for such SNPs solely for
+internal research purposes.
+
+     3.2   RESEARCH LICENSE TO CERTAIN HAP MARKERS. Subject to payment by
+Pharmacia of the fee specified in Section 4.2, Genaissance hereby grants
+Pharmacia a worldwide, non-exclusive, perpetual and royalty-free right and
+license, without the right to sublicense, under the Genaissance Patent Rights
+and Genaissance Know-How to use solely for internal research purposes any HAP
+Marker that is identical to a Haplotype in the HAP Typing Project Results.
+
+     3.3   OPTION FOR LICENSE TO HAP MARKERS IN THE HAP DATABASE. Subject to the
+terms of this Agreement and payment of the applicable license fee set forth in
+Section 4.4, Genaissance hereby grants Pharmacia an option to obtain a
+worldwide, non-exclusive, perpetual and royalty-free right and license on a per
+gene basis under the Genaissance Patent Rights and Genaissance Know-How to use
+all HAP(TM) Markers and Genaissance Genotyping Assays for genes in the Gene
+List, including, if Pharmacia exercises the option set forth in Section 3.4,
+access to the HAP(TM) Focus Database, for the research, development and
+commercialization of pharmaceutical and diagnostic products. Pharmacia shall
+have [**] from the date it receives the HAP(TM) Typing Project Results to notify
+Genaissance in writing of those genes from the Gene List for which it desires to
+exercise such option and for which the license fees provided in Section 4.4
+shall apply.
+
+     3.4   OPTION FOR NON-EXCLUSIVE LICENSE TO THE DECOGEN INFORMATICS PLATFORM
+AND HAP FOCUS(TM) DATABASE SCHEMA. Subject to the terms of this Agreement,
+Genaissance hereby grants to Pharmacia an option, during the Option Period, to
+obtain, a non-exclusive right and license under Genaissance Patent Rights and
+Genaissance Know-How to use the DECOGEN Informatics Platform and HAP FOCUS(TM)
+Database Schema for its internal research and development purposes at a single
+site during the License Period. Pharmacia may exercise this option at any time
+during the Option Period by notifying Genaissance in writing of the expected
+Installation Date and paying the appropriate license fee set forth in Section
+4.5.
+
+                                       -7-
+<Page>
+
+     3.5   OPTION FOR NON-EXCLUSIVE LICENSE TO THE HAP BUILDER SOFTWARE. Subject
+to the terms of this Agreement, Genaissance hereby grants to Pharmacia an
+option, during the Option Period, to obtain, a non-exclusive right and license
+under Genaissance Patent Rights and Genaissance Know-How to use the HAP Builder
+Software for its internal research and development purposes at a single site
+during the License Period. Pharmacia may exercise this option at any time during
+the Option Period by notifying Genaissance in writing of the expected
+Installation Date and paying the appropriate license fee set forth in Section
+4.6.
+
+     3.6   Pharmacia's use of any or all of the Genaissance software products
+licensed pursuant to section 3.4 or 3.4 shall be subject to the following
+conditions:
+
+           (a)    To the extent that a software product incorporates or requires
+the use of any commercially available operating system software that is licensed
+by Genaissance from a Third Party as described in Exhibit A, as may be
+supplemented from time to time, Pharmacia shall be responsible for obtaining any
+necessary license and paying all fees and charges associated with Pharmacia's
+use of any such software;
+
+           (b)    Pharmacia agrees to use the software product(s) only for the
+internal purposes of Pharmacia in accordance with the terms and conditions of
+this Agreement and not to use the software product(s) for processing data for
+Third Parties or to make the software product(s) available to Third Parties;
+
+           (c)    Pharmacia may utilize the software product(s) on multiple
+computers; the software product(s) will be installed on a database server at the
+single installation site specified in Exhibit B, PROVIDED THAT (i) Pharmacia may
+access the software product(s) at the installation site from computers at other
+remote sites and (ii) [**];
+
+           (d)    Pharmacia agrees to make copies of the software product(s)
+only to the extent reasonably necessary for the exercise of its rights
+hereunder, and that all such copies will be treated as Confidential Information
+of Genaissance and further agrees to establish reasonable security measures to
+prevent copies of the software product(s) from being made available to Third
+Parties;
+
+           (e)    Except with the express written permission of Genaissance,
+Pharmacia agrees that it will not attempt to reverse engineer, reverse compile
+or otherwise obtain access to the source code of the software product(s); and
+
+           (f)    Pharmacia may not adapt or modify the software product(s)
+without the express written permission of Genaissance.
+
+     3.7   INSTALLATION, TRAINING, SUPPORT AND UPDATES. Genaissance shall
+install any licensed software product(s) at the Pharmacia site specified in
+Exhibit B at a time mutually agreed upon by the parties. Genaissance will
+provide [**] of on-site training, installation documentation, and a user manual.
+For the duration of the License Period, phone or email support will also be
+available to Pharmacia between the hours of 8:30 A.M. and 5:30 P.M. (Eastern
+Standard Time) Mondays through Fridays, except when
+
+                                       -8-
+<Page>
+
+Genaissance is officially closed (e.g., for holidays or weather emergencies).
+Genaissance shall provide any updates on a quarterly basis.
+
+                                    ARTICLE 4
+
+                                    PAYMENTS
+
+     4.1   DNA HANDLING. Pharmacia will pay Genaissance [**] for dispensing DNA
+samples sent by Pharmacia into ninety-six (96) well plates.
+
+     4.2   SNP SELECTION AND HAP MARKER RESEARCH LICENSE FEE. Within [**] days
+after delivery of the Gene List to Genaissance, Pharmacia will pay Genaissance a
+fee of [**] dollars ($[**]) [**]. This fee covers the selection and license fee
+for those SNPs in the Final SNP List that are from the HAP Database, as well as
+any HAP Markers that are identical to Haplotypes in the HAP Typing Project
+Results and is based on a rate of [**] dollars ($[**]) [**] [**]. If the Final
+SNP List contains more SNPs than the number paid for, Pharmacia will pay for the
+difference between the actual fee and the amount paid within [**] days after
+acceptance by Pharmacia of the Final SNP List. If the Final SNP List contains a
+fewer number of SNPs than paid for, Genaissance will reimburse Pharmacia for the
+difference between the actual fee and the amount paid within [**] day after
+acceptance by Pharmacia of the Final SNP List. If Pharmacia exercises the option
+in Section 3.2, the above payment will be credited towards the applicable
+licensee fees in section 4.4.
+
+     4.3   HAP(TM) TYPING SERVICE FEE. Pharmacia will pay Genaissance the
+following fees.
+
+           4.3.1  ASSAY SET-UP FEE. Within [**] days of agreement of the SNPs to
+be included in the HAP(TM) Typing Project AS described in Section 2.1, Pharmacia
+will pay Genaissance a nonrefundable Assay Setup Fee of [**] dollars ($[**])
+[**] in the HAP Typing Project, (e.g., if [**], the total Assay Setup Fee would
+be equal to [**] dollars ($[**])).
+
+           4.3.2  ASSAY PERFORMANCE FEE. Within [**] days of receipt of an
+invoice for work performed and delivery of the HAP Typing Project Results for
+the DNA samples as described in Section 2.2.3, and after acceptance of the HAP
+Typing Project Results by Pharmacia, Pharmacia will pay Genaissance a fee of (a)
+$[**] and (b) a fee of $[**].
+
+     4.4   RESEARCH AND COMMERCIAL LICENSE FEE FOR HAP(TM) MARKERS. For those
+genes licensed by Pharmacia pursuant to Section 3.3, Pharmacia will pay
+Genaissance a one-time non-refundable fee on a per gene basis as follows:
+
+     -     For [**], $[**];
+
+     -     For [**], $[**];
+
+     -     For [**], $[**].
+
+                                       -9-
+<Page>
+
+     For the sake of clarity, (i) any fees due to Genaissance as provided above
+[**] and (ii) after payment of the above license fees, the license granted to
+Pharmacia pursuant to Section 3.3 shall be fully paid and irrevocable.
+
+     4.5   DECOGEN INFORMATICS SYSTEM LICENSE FEE. In the event Pharmacia
+exercises the license option granted to Pharmacia pursuant to Section 3.4,
+Pharmacia will pay Genaissance a nonrefundable license fee of [**] dollars
+($[**]) within [**] days of the Installation Date. Pharmacia may renew this
+license for additional one-year periods by providing Genaissance [**] days
+written notice prior to the end of the Initial License Period or the then
+current one-year period and paying an additional nonrefundable fee of [**]
+dollars ($[**]) by the end of the Initial License Period or the then current
+one-year period.
+
+     4.6   HAP(TM) BUILDER SOFTWARE LICENSE FEE. In the event Pharmacia
+exercises the license option granted to Pharmacia pursuant to Section 3.5,
+Pharmacia will pay Genaissance a nonrefundable license fee of [**] dollars
+($[**]) within [**] days of the Installation Date. Pharmacia may renew this
+license for additional one-year periods by providing Genaissance [**] days
+written notice prior to the end of the Initial License Period or the then
+current one-year period and paying an additional nonrefundable fee of [**]
+dollars ($[**]) by the end of the Initial License Period or the then current
+one-year period.
+
+     4.7   INTEREST ON LATE PAYMENTS. Any payments by Pharmacia to Genaissance
+that are not paid on or before [**] days after the date such payments are due
+under this Agreement shall bear interest per month, to the extent permitted by
+applicable law, at [**]percent ([**]%) per month, calculated on the total number
+of days payment is delinquent; PROVIDED, HOWEVER, that interest shall not accrue
+pursuant to this Section 4.7 on any amounts payable under this Agreement with
+respect to which payment is disputed in good faith; PROVIDED, FURTHER that
+interest shall accrue pursuant to this Section 4.7 once such dispute has been
+resolved if payment is not made promptly thereafter.
+
+     4.8   MANNER OF PAYMENT. Payments to be made by Pharmacia to Genaissance
+under this Agreement shall be payable in United States dollars and shall be paid
+by bank wire transfer in immediately available funds to such bank account in the
+State of Connecticut as is designated in writing by Genaissance from time to
+time.
+
+                                    ARTICLE 5
+
+                              INTELLECTUAL PROPERTY
+
+     5.1   OWNERSHIP OF DECOGEN INFORMATICS PLATFORM, HAP FOCUS DATABASE SCHEMA,
+AND HAP BUILDER SOFTWARE. Subject to the rights and licenses granted to
+Pharmacia under this Agreement, and subject to any pre-existing rights of Third
+Parties, Genaissance shall have sole ownership of the DECOGEN Informatics
+Platform, the HAP FOCUS Database Schema, the HAP Builder Software, and all HAP
+Markers licensed to Pharmacia pursuant to Section 3.2 and 3.3.
+
+                                      -10-
+<Page>
+
+     5.2   OWNERSHIP OF GENAISSANCE GENOTYPING ASSAYS. Subject to any
+pre-existing rights of Pharmacia or Third Parties, Genaissance shall own the
+Genaissance Genotyping Assays.
+
+     5.3   OWNERSHIP OF HAP TYPING PROJECT RESULTS. Subject to any rights of
+Genaissance existing as of the date that Genaissance receives the Gene List or
+rights of Third Parties, and subject to the Section 5.2, Pharmacia shall have
+sole ownership of the HAP(TM) Typing Project Results, including (i) Haplotypes
+generated by the HAP(TM) Typing Project and (ii) all Genotyping Assays to SNPS
+proprietary to Pharmacia or to SNPs in genes that are proprietary to Pharmacia,
+and all discoveries or inventions made by Pharmacia that use the HAP(TM) Typing
+Results, the DECOGEN Informatics System, or the HAP Builder Software. Pharmacia
+shall be entitled to usE the HAP(TM) Typing Project Results for any purposes it
+sees fit without further obligation to Genaissance, PROVIDED THAT this sectionn
+shall not in any way be deemed to grant Pharmacia any licenses to use any HAP
+Markers beyond those licenses expressly granted in this Agreement.
+
+     5.4   NO GRANT OF OTHER TECHNOLOGY OR PATENT RIGHTS. Except as otherwise
+expressly provided in this Agreement, under no circumstances shall a party
+hereto, as a result of this Agreement, obtain any ownership interest in or other
+right to any technology, know-how, patents, patent applications, data, products,
+or biological materials of the other party, including items owned, controlled or
+developed by the other party, or transferred by the other party to said party,
+at any time pursuant to this Agreement.
+
+     5.5   THIRD PARTY PATENTS. Pharmacia acknowledges that, in order to
+discover, develop and/or commercialize one or more products using the HAP Typing
+Project Results or licensed HAP Markers, if any, it may require licenses under
+Third Party Patent Rights, and Pharmacia hereby agrees that it shall be its sole
+responsibility to satisfy itself as to the need for such licenses and, if
+necessary, to obtain such licenses.
+
+                                    ARTICLE 6
+
+                                 CONFIDENTIALITY
+
+     6.1   PHARMACIA INFORMATION. For purposes of this Agreement, the term
+"Pharmacia Information" will mean any and all of the HAP(TM) Typing Project,
+HAP(TM) Typing Project Results, written reports about the foregoing (other than
+Genaissance Genotyping Assays) and aLL data, know-how, technical and
+non-technical materials which Pharmacia may deliver or disclose in writing to
+Genaissance pursuant to this Agreement, that is marked "Confidential," and all
+oral material which Pharmacia declares to be confidential and confirms such
+declaration in writing within [**] days of disclosure.
+
+     6.2   GENAISSANCE INFORMATION. For purposes of this Agreement, the term
+"Genaissance Information" will mean the DECOGEN Informatics Platform, the HAP
+FOCUS Database Schema, the HAP Builder Software, Genaissance Genotyping Assays,
+HAP Markers and all related know-how which Genaissance may deliver or disclose
+in writing to Pharmacia pursuant to this Agreement, that is stamped
+"Confidential," and all related
+
+                                      -11-
+<Page>
+
+oral material which Genaissance declares to be confidential and confirms such
+declaration in writing within [**] days of disclosure. Pharmacia Information and
+Genaissance Information may be referred to herein as "Information".
+
+     6.3   CONFIDENTIALITY AND NONUSE OBLIGATIONS. Except as otherwise provided
+in this Article 6, during the term of this Agreement and for a period of ten
+(10) years thereafter, each party agrees to maintain the other party's
+Information in confidence with the same degree of care it holds its own
+confidential information and agrees to use the other party's Information solely
+for the purposes specifically authorized under this Agreement.
+
+     6.4   EXCEPTIONS TO CONFIDENTIALITY. The receiving party's obligation of
+non-disclosure and the limitations upon the right to use the disclosing party's
+Information will not apply to the extent that the receiving party can
+demonstrate by its written records that the Information: (a) was in its
+possession prior to the time of disclosure by the disclosing party; (b) is or
+becomes public knowledge through no fault or omission of the receiving party;
+(c) is obtained by the receiving party from a third party under no obligation of
+confidentiality to the disclosing party; (d) is disclosed by the receiving party
+pursuant to an order or demand issued by a court or governmental agency or as
+otherwise required by law; PROVIDED, HOWEVER, that the receiving party notifies
+the other party prior to disclosure, giving such other party sufficient advance
+notice to permit it to seek a protective order or other similar order with
+respect to such Information AND PROVIDED, FURTHER, that the receiving party
+furnishes only that portion of the Information which it is advised by counsel is
+legally required whether or not a protective order or other similar order is
+obtained by the other party; or (e) where the receiving party reasonably
+believes such disclosure is reasonably necessary or appropriate to fulfill its
+obligations or exercise its rights under this Agreement, with such disclosure
+being limited to (i) consultants, collaborators, Affiliates, and clinical
+investigators, on a need-to-know basis and on condition that such entities or
+persons agree to keep the Information confidential for the same time periods and
+to the same extent as such party is required to keep the Information
+confidential; and (ii) government or other regulatory authorities to the extent
+that such disclosure is reasonably necessary to obtain patents or authorizations
+to conduct clinical trials of, and to commercially market, products.
+
+     6.5   PUBLICATION. In the event that a party desires to publish or present
+any Information of the other party, then the proposed disclosure shall be
+subject to the prior review by the other party solely to determine (i) whether
+the proposed disclosure contains the Information of the other party and (ii)
+whether any Information contained in the proposed disclosure should be the
+subject of a patent application prior to such disclosure; provided that in no
+event shall Genaissance publish or present any Pharmacia Information. In the
+event Pharmacia determines to publish or present any of the HAP(TM) Typing
+Project Results, it will appropriately acknowledge the role of Genaissance in
+the HAP(TM) Typing Project. Each party shall provide the other party with the
+opportunity to review any proposed abstract, manuscript or presentation which
+discloses Information of the other party by delivering a copy thereof to the
+other party no less than [**] days before its intended submission for
+publication or presentation. The other party shall have [**] days from its
+receipt of any such abstract, manuscript or presentation in which to
+
+                                       -12-
+<Page>
+
+notify the party in writing of any specific objections to the disclosure, based
+on either the need to seek patent protection or concern regarding the specific
+disclosure of the Confidential Information of such party. In the event a party
+objects to the disclosure, the other party agrees not to submit the publication
+or make the presentation containing the objected-to information until the party
+is given a reasonable additional period of time (not to exceed an additional
+[**] days) to seek patent protection for any material in the disclosure which it
+believes is patentable or, in the case of Information, to allow the party to
+delete any Information of such party from the proposed disclosure. Each party
+agrees to delete from the proposed disclosure any Information of the other party
+upon request.
+
+                                    ARTICLE 7
+
+                         REPRESENTATIONS AND WARRANTIES
+
+     7.1   REPRESENTATIONS, WARRANTIES AND COVENANTS OF GENAISSANCE. Genaissance
+represents and warrants to and covenants with Pharmacia that:
+
+           (a)    Genaissance is a corporation duly organized, validly existing
+and in corporate good standing under the laws of Delaware;
+
+           (b)    Genaissance has the legal right, authority and power to enter
+into this Agreement, and to extend the rights and licenses granted to Pharmacia
+in this Agreement;
+
+           (c)    Genaissance has taken all necessary action to authorize the
+execution, delivery and performance of this Agreement;
+
+           (d)    Upon the execution and delivery of this Agreement, this
+Agreement shall constitute a valid and binding obligation of Genaissance
+enforceable in accordance with its terms, except as enforceability may be
+limited by applicable bankruptcy, insolvency, reorganization, moratorium or
+similar laws affecting creditors' and contracting parties' rights generally and
+except as enforceability may be subject to general principles of equity
+(regardless of whether such enforceability is considered in a proceeding in
+equity or at law);
+
+           (e)    The performance of its obligations under this Agreement will
+not conflict with its charter documents or result in a breach of any agreements,
+contracts or other arrangements to which it is a party; and
+
+           (f)    Genaissance will not during the term of this Agreement enter
+into any agreements, contracts or other arrangements that would be inconsistent
+with its obligations under this Agreement.
+
+           (g)    It is not debarred under subsections 306(a) or (b) of the US
+Federal Food. Drug, and Cosmetic Act (or US Generic Drug Enforcement Act of
+1992; 21 USC 335(a) or (b)) and, that it will not use in any capacity the
+services of any person debarred under such law in the performance of this
+Agreement.
+
+                                      -13-
+<Page>
+
+           (h)    As of the Effective Date, Genaissance has received no notice
+of infringement or misappropriation of any alleged rights asserted by any Third
+Party in relation to any technology of Genaissance to be used in connection with
+this Agreement.
+
+           (i)    The operability of the DECOGEN Informatics Platform has been
+validated by Genaissance from a quality assurance perspective and, upon request
+from Pharmacia, Genaissance will provide Pharmacia documentation demonstrating
+such validation.
+
+     7.2   REPRESENTATIONS, WARRANTIES AND COVENANTS OF PHARMACIA. Pharmacia
+represents and warrants to and covenants with Genaissance that:
+
+           (a)    Pharmacia is a corporation duly organized, validly existing
+and in corporate good standing under the laws of Delaware;
+
+           (b)    Pharmacia has the legal right, authority and power to enter
+into this Agreement;
+
+           (c)    Pharmacia has taken all necessary action to authorize the
+execution, delivery and performance of this Agreement;
+
+           (d)    Upon the execution and delivery of this Agreement, this
+Agreement shall constitute a valid and binding obligation of Pharmacia
+enforceable in accordance with its terms, except as enforceability may be
+limited by applicable bankruptcy, insolvency, reorganization, moratorium or
+similar laws affecting creditors' and contracting parties' rights generally and
+except as enforceability may be subject to general principles of equity
+(regardless of whether such enforceability is considered in a proceeding in
+equity or at law);
+
+           (e)    The performance of its obligations under this Agreement will
+not conflict with Pharmacia's charter documents or result in a breach of any
+agreements, contracts or other arrangements to which it is a party;
+
+           (f)    All products or services requested by Pharmacia hereunder are
+solely for uses reasonably related to the development and commercialization of
+products; and
+
+     7.3   LIMITED WARRANTIES RELATING TO PERFORMANCE OF THE DECOGEN INFORMATICS
+PLATFORM. Genaissance warrants that the DECOGEN Informatics Platform delivered
+to Pharmacia represents the latest version of the DECOGEN Informatics Platform
+that is available to licensees. Genaissance does not represent that the
+operations of the DECOGEN Informatics Platform will be trouble-free or that the
+DECOGEN Informatics Platform contains no errors. Genaissance's only obligation
+to Pharmacia with respect to the DECOGEN Informatics Platform will be to use
+reasonable efforts consistent with its normal business practices to promptly
+correct any errors; in no event more than thirty (30) days after becoming aware
+of the errors, to notify Pharmacia immediately after becoming aware of the
+errors and to otherwise support Pharmacia as provided in Section 3.5.
+
+                                      -14-
+<Page>
+
+     7.4   WARRANTY DISCLAIMER. EXCEPT AS OTHERWISE EXPRESSLY PROVIDED IN THIS
+AGREEMENT, NEITHER PARTY MAKES ANY WARRANTY WITH RESPECT TO THE HAP TYPING
+PROJECT RESULTS, HAP FOCUS DATABASE, DECOGEN INFORMATICS PLATFORM, PATENT
+RIGHTS, GOODS, SERVICES OR OTHER SUBJECT MATTER OF THIS AGREEMENT AND HEREBY
+DISCLAIMS WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT WITH RESPECT TO ANY AND ALL OF THE FOREGOING. IN ADDITION,
+PHARMACIA ACKNOWLEDGES THAT THE HAP FOCUS DATABASE MAY CONTAIN INFORMATION THE
+ACQUISITION OR USE OF WHICH IS COVERED BY ONE OR MORE VALID PATENTS OF THIRD
+PARTIES. GENAISSANCE MAKES NO REPRESENTATION OR WARRANTIES WITH RESPECT TO
+PHARMACIA'S USE OF THE INFORMATION TO BE PROVIDED TO IT HEREUNDER. GENAISSANCE
+MAKES NO WARRANTY THAT THE HAP FOCUS DATABASE DOES NOT CONTAIN ERRORS.
+
+     7.5   LIMITED LIABILITY. NOTWITHSTANDING ANYTHING ELSE IN THIS AGREEMENT OR
+OTHERWISE TO THE CONTRARY, NEITHER GENAISSANCE NOR PHARMACIA WILL BE LIABLE WITH
+RESPECT TO ANY SUBJECT MATTER OF THIS AGREEMENT UNDER ANY CONTRACT, NEGLIGENCE,
+STRICT LIABILITY OR OTHER LEGAL OR EQUITABLE THEORY FOR (I) ANY PUNITIVE,
+EXEMPLARY, INCIDENTAL OR CONSEQUENTIAL DAMAGES OR LOST PROFITS OR (II) COST OF
+PROCUREMENT OF SUBSTITUTE GOODS, TECHNOLOGY OR SERVICES.
+
+                                    ARTICLE 8
+
+                                    INDEMNITY
+
+     8.1   PHARMACIA INDEMNITY OBLIGATIONS. Pharmacia agrees to defend,
+indemnify and hold Genaissance, its employees, directors, officers and agents
+harmless from all claims, losses, damages or expenses (including attorneys'
+fees) arising as a result of (a) actual or asserted violations of any applicable
+law or regulation by Pharmacia in (i) obtaining informed consent relating to the
+HAP Typing Service provided by Genaissance pursuant to this Agreement or (ii)
+using the HAP Typing Project Results or licensed HAP Markers in researching,
+developing, manufacturing, distributing or selling any products; (b) claims for
+bodily injury, death or property damage attributable to the manufacture,
+distribution, sale or use of any products by Pharmacia that are based on or
+incorporate the HAP Typing Project Results or licensed HAP Markers; (c) the
+negligence, recklessness or intentional misconduct of Pharmacia in connection
+with activities under this Agreement or (d) a breach of any of the warranties
+made hereunder by Pharmacia.
+
+     8.2   GENAISSANCE INDEMNITY OBLIGATIONS. Genaissance agrees to defend,
+indemnify and hold Pharmacia and its employees, directors, officers and agents
+harmless from all claims, losses, damages or expenses (including attorneys'
+fees) arising as a result of:(a) claims for bodily injury, death or property
+damage arising out of the performance by Genaissance of any activities under
+this Agreement; (b) the negligence, recklessness
+
+                                      -15-
+<Page>
+
+or intentional misconduct of Genaissance in connection with its activities under
+this Agreement or (c) a breach of any of the warranties made hereunder by
+Genaissance.
+
+     8.3   LIMITATION ON INDEMNITY OBLIGATIONS. Neither party or its respective
+employees and agents shall be entitled to the indemnities set forth in Section
+8.1, 8.2 or 8.3 where the claim, loss, damage or expense for which
+indemnification is sought was caused by a grossly negligent or intentional act
+or omission by such party, its directors, officers, employees or authorized
+agents.
+
+     8.4   INFRINGEMENT INDEMNIFICATION. Pharmacia shall indemnify, defend and
+hold Genaissance and its employees and agents harmless from all claims, losses,
+damages or expenses (including attorneys' fees) arising out of or resulting from
+any claims, judgments or adjudications against Genaissance that the genotyping
+of any SNP in the Final SNP List or use of any HAP Typing Project Results
+infringes any patent, trade secret or similar proprietary rights of a Third
+Party. This infringement indemnification shall be limited to U.S. patents
+claiming use of the genes and detection of the SNPs in the Final SNP List.
+
+     8.5   PROCEDURE. If the party being indemnified hereunder or its respective
+employees or agents (the "Indemnitee") intends to claim indemnification under
+this Article 8, the Indemnitee shall promptly notify the other party (the
+"Indemnitor") of any loss, claim, damage, liability or action in respect of
+which the Indemnitee intends to claim such indemnification, and the Indemnitor
+shall assume the defense thereof; PROVIDED, HOWEVER, that an Indemnitee shall
+have the right to retain its own counsel, with the fees and expenses to be paid
+by the Indemnitor, if representation of such Indemnitee by the counsel retained
+by the Indemnitor would be inappropriate due to actual or potential differing
+interests between such Indemnitee and any other party represented by such
+counsel in such proceedings. The indemnity agreement in this Article 8 shall not
+apply to amounts paid in settlement of any loss, claim, damage, liability or
+action if such settlement is effected without the consent of the Indemnitor,
+which consent shall not be withheld unreasonably. The failure to deliver notice
+to the Indemnitor within a reasonable time after the commencement of any such
+action, if prejudicial to its ability to defend such action, shall relieve such
+Indemnitor of any liability to the Indemnitee under this Article 8, but the
+omission so to deliver notice to the Indemnitor will not relieve it of any
+liability that it may have to any Indemnitee otherwise than under this Article
+8. The Indemnitee under this Article 8, its employees and agents, shall
+cooperate fully with the Indemnitor and its legal representatives in the
+investigation of any action, claim or liability covered by this indemnification.
+The Indemnitor shall additionally be liable to pay the reasonable legal costs
+and attorneys' fees incurred by the Indemnitee in establishing its claim for
+indemnity.
+
+                                      -16-
+<Page>
+
+                                    ARTICLE 9
+
+                           EXPIRATION AND TERMINATION
+
+     9.1   EXPIRATION.
+
+           9.1.1  EFFECT OF EXPIRATION OF THE LICENSE PERIOD. Upon the
+expiration of the License Period, Pharmacia shall return to Genaissance or
+destroy all copies of the DECOGEN Informatics Platform, the HAP FOCUS Database
+and the HAP(TM) Builder Software, including the deletion of all such copies from
+all computers on which such database or software has been installed, PROVIDED,
+HOWEVER, that Pharmacia shall not be obligated to return to Genaissance or
+delete data from the HAP FOCUS Database that has been integrated into other
+databases. Upon the expiration of the License Period, Genaissance shall return
+to Pharmacia or destroy all copies of Pharmacia Information.
+
+           9.1.2  TERM OF AGREEMENT. Unless this Agreement is sooner terminated
+in accordance with the provisions of this Article 9, this Agreement shall expire
+upon the later of the expiration of the License Period and one year after the
+Effective Date.
+
+     9.2   EVENTS OF DEFAULT.
+
+           9.2.1  DEFAULT BY EITHER PARTY. An Event of Default shall have
+occurred upon (i) the occurrence of a material breach of this Agreement (other
+than an Event of Default described in Section 9.2.2) if the breaching party
+fails to remedy such breach within ninety (90) days after written notice thereof
+by the non-breaching party or (ii) the bankruptcy, insolvency, dissolution or
+winding up of a party.
+
+           9.2.2  DEFAULT BY PHARMACIA. An Event of Default shall have occurred
+if Pharmacia fails to make any payments due hereunder, thirty (30) days after
+Genaissance delivers written notice thereof to Pharmacia specifying such failure
+and its claim of right to terminate, unless Pharmacia makes such payments plus
+interest within such thirty (30) day period or disputes such claim by
+Genaissance.
+
+     9.3   EFFECT OF AN EVENT OF DEFAULT.
+
+           9.3.1  REMEDIES AVAILABLE TO GENAISSANCE. In the event that an Event
+of Default occurs attributable to Pharmacia and Pharmacia fails to cure such
+default during any applicable cure period, Genaissance shall have the right, at
+its option exercisable in its sole discretion, in addition to any other rights
+or remedies available to it at law or in equity, to terminate this Agreement
+upon written notice thereof to Pharmacia, in which case (i) the option rights,
+or if Pharmacia has exercised such options, the licenses, granted to Pharmacia
+pursuant to Sections 3.3 and 3.4 shall terminate and (ii) any and all
+information and materials provided by Genaissance pursuant to this Agreement
+(including, without limitation, all copies of the HAP Focus Database, DECOGEN
+Informatics Platform and HAP Builder Software), and any copies thereof
+(including electronic copies) shall be promptly returned by Pharmacia to
+Genaissance, and Pharmacia shall delete all copies of the HAP FOCUS Database,
+DECOGEN(TM) Informatics Platform and HAP Builder Software from all computers at
+its site on which such
+
+                                      -17-
+<Page>
+
+information has been installed or transmitted, provided that Pharmacia may
+generate and use copies of the HAP Typing Results or other data that Pharmacia
+has incorporated into the HAP FOCUS Database.
+
+           9.3.2  REMEDIES AVAILABLE TO PHARMACIA. In the event that an Event of
+Default occurs attributable to Genaissance and Genaissance fails to cure such
+default within the applicable cure period, then Pharmacia shall have the right,
+at its option exercisable in its sole discretion, to seek any rights or remedies
+available to it at law or in equity, subject to the limitations set forth in
+Section 7.5 and Section 10.6 hereof.
+
+     9.4   EFFECT OF EXPIRATION OR TERMINATION OF AGREEMENT. The expiration or
+termination of this Agreement shall not relieve the parties of any obligation
+accruing prior to such expiration or termination. The provisions of Articles 5,
+6, 8, 9 and 10 and Sections 7.4 and 7.5 hereof, as well as any license to HAP
+Markers granted pursuant to Sections 3.1 and 3.2, shall survive the expiration
+or termination of this Agreement.
+
+                                   ARTICLE 10
+
+                                  MISCELLANEOUS
+
+     10.1  FORCE MAJEURE. Neither party shall be held liable or responsible to
+the other party nor be deemed to have defaulted under or breached this Agreement
+for failure or delay in fulfilling or performing any term of this Agreement when
+such failure or delay is caused by or results from causes beyond the reasonable
+control of the affected party, including but not limited to fire, floods,
+embargoes, war, acts of war (whether war is declared or not), insurrections,
+riots, civil commotions, strikes, lockouts or other labor disturbances, acts of
+God or acts, omissions or delays in acting by any governmental authority or the
+other party; PROVIDED, HOWEVER, that the party so affected shall use reasonable
+commercial efforts to avoid or remove such causes of nonperformance, and shall
+continue performance hereunder with reasonable dispatch whenever such causes are
+removed. Either party shall provide the other party with prompt written notice
+of any delay or failure to perform that occurs by reason of FORCE MAJEURE. The
+parties shall mutually seek a resolution of the delay or the failure to perform
+as noted above.
+
+     10.2  ASSIGNMENT. This Agreement may not be assigned or otherwise
+transferred by either party without the consent of the other party; PROVIDED,
+HOWEVER, that either Genaissance or Pharmacia may, without such consent, assign
+its rights and obligations under this Agreement (i) to any Affiliate, or (ii) in
+connection with a merger, consolidation or sale of substantially all of such
+party's assets to an unrelated Third Party; PROVIDED, HOWEVER, that such party's
+rights and obligations under this Agreement shall be assumed by its successor in
+interest in any such transaction and shall not be transferred separate from all
+or substantially all of its other business assets, including those business
+assets that are the subject of this Agreement. Any purported assignment in
+violation of the preceding sentence shall be void. Any permitted assignee shall
+assume all obligations of its assignor under this Agreement.
+
+                                      -18-
+<Page>
+
+     10.3  SEVERABILITY. Each party hereby agrees that it does not intend to
+violate any public policy, statutory or common laws, rules, regulations, treaty
+or decision of any government agency or executive body thereof of any country or
+community or association of countries. Should one or more provisions of this
+Agreement be or become invalid, the parties hereto shall substitute, by mutual
+consent, valid provisions for such invalid provisions which valid provisions in
+their economic effect are sufficiently similar to the invalid provisions that it
+can be reasonably assumed that the parties would have entered into this
+Agreement with such valid provisions. In case such valid provisions cannot be
+agreed upon, the invalidity of one or several provisions of this Agreement shall
+not affect the validity of this Agreement as a whole, unless the invalid
+provisions are of such essential importance to this Agreement that it is to be
+reasonably assumed that the parties would not have entered into this Agreement
+without the invalid provisions.
+
+     10.4  NOTICES. Any consent, notice or report required or permitted to be
+given or made under this Agreement by one of the parties hereto to the other
+shall be in writing, delivered personally or by facsimile (and promptly
+confirmed by telephone, personal delivery or courier) or courier, postage
+prepaid (where applicable), addressed to such other party at its address
+indicated below, or to such other address as the addressee shall have last
+furnished in writing to the addressor and shall be effective upon receipt by the
+addressee.
+
+        If to Genaissance:       Genaissance Pharmaceuticals, Inc.
+                                 Five Science Park
+                                 New Haven, Connecticut 06511
+                                 Attention: Chief Executive Officer
+                                 Telephone: (203) 773-1450
+                                 Facsimile: (203) 562-9377
+
+        If to Pharmacia:         Pharmacia Corporation
+                                 100 Route 206 North
+                                 Peapack, New Jersey 07977
+                                 Attention: Executive Director Pharmacogenomics
+                                 Telephone: (908) 901 8466
+                                 Facsimile: (908) 901 1850
+
+        With a copy to:          Pharmacia Corporation
+                                 100 Route 206 North
+                                 Peapack, New Jersey 07977
+                                 Attention: General Counsel
+                                 Telephone: (908) 901 8810
+
+     10.5  APPLICABLE LAW.  This Agreement shall be governed by and construed in
+accordance with the laws of the State of Connecticut, without giving effect to
+the choice of laws provisions thereof.
+
+                                      -19-
+<Page>
+
+     10.6  DISPUTE RESOLUTION.
+
+           10.6.1 The parties hereby agree that they will attempt in good faith
+to resolve any controversy or claim arising out of or relating to this Agreement
+promptly by negotiations. If a controversy or claim should arise hereunder, the
+matter shall be referred to an individual designated by the Chief Executive
+Officer (or the equivalent position) of Genaissance and an individual designated
+by the Vice President of Commercial Development (or the equivalent position) of
+Pharmacia (the "Representatives"). If the matter has not been resolved within
+thirty (30) days of the first meeting of the Representatives of the parties
+(which period may be extended by mutual agreement) concerning such matter,
+subject to rights to injunctive relief and specific performance, and unless
+otherwise specifically provided for herein, any controversy or claim arising out
+of or relating to this Agreement, or the breach thereof, will be settled as set
+forth in Section 10.6.2.
+
+           10.6.2 All disputes arising in connection with this Agreement shall
+be finally settled by binding arbitration conducted in New York, New York under
+the Commercial Arbitration Rules of the American Arbitration Association by a
+single arbitrator appointed in accordance with said Rules. Notwithstanding the
+above, either party has the right to bring suit in a court of competent
+jurisdiction against the other party for (i) any breach of such other party's
+duties of confidentiality pursuant to Article 6 of this Agreement and (ii) any
+infringement of its own proprietary rights by the other party. Judgment upon the
+arbitrator's award may be entered in any court of competent jurisdiction. The
+award of the arbitrator may include compensatory damages against either party,
+but under no circumstances will the arbitrator be authorized to, nor shall he,
+award punitive damages or multiple damages against either party. The parties
+agree not to institute any litigation or proceedings against each other in
+connection with this Agreement except as provided in this Section 10.6.
+
+     10.7  ENTIRE AGREEMENT. This Agreement, together with the exhibits hereto,
+contains the entire understanding of the parties with respect to the subject
+matter hereof. All express or implied agreements and understandings, either oral
+or written, heretofore made are expressly merged in and made a part of this
+Agreement. This Agreement may be amended, or any term hereof modified, only by a
+written instrument duly executed by both parties hereto.
+
+     10.8  PUBLICITY. Except as required by law, Genaissance and Pharmacia each
+agree not to disclose the existence or any terms or conditions of this Agreement
+to any Third Party; provided that either party may disclose this Agreement to a
+Third Party in connection with a merger, consolidation or sale of substantially
+all of such party's assets to such Third Party. Any such disclosure by
+Genaissance shall be provided to Pharmacia for review and approval prior to
+release.
+
+     10.9  HEADINGS. The captions to the several Articles and Sections hereof
+are not a part of this Agreement, but are merely guides or labels to assist in
+locating and reading the several Articles and Sections hereof.
+
+                                      -20-
+<Page>
+
+     10.10 NO PARTNERSHIP. It is expressly agreed that the relationship between
+Genaissance and Pharmacia shall not constitute a partnership, joint venture or
+agency. Neither Genaissance nor Pharmacia shall have the authority to make any
+statements, representations or commitments of any kind, or to take any action,
+which shall be binding on the other, without the prior consent of the other
+party to do so.
+
+     10.11 EXPORTS. The parties acknowledge that the export of technical data,
+materials or products is subject to the exporting party receiving any necessary
+export licenses and that the parties cannot be responsible for any delays
+attributable to export controls which are beyond the reasonable control of
+either party. Genaissance and Pharmacia agree not to export or re-export,
+directly or indirectly, any information, technical data, the direct product of
+such data, samples, or software received or generated under this Agreement in
+violation of any applicable export control laws or governmental regulations.
+Genaissance and Pharmacia agree to obtain similar covenants from their
+licensees, sublicensees and contractors with respect to the subject matter of
+this Section.
+
+     10.12 WAIVER. The waiver by either party hereto of any right hereunder or
+the failure to perform or of a breach by the other party shall not be deemed a
+waiver of any other right hereunder or of any other breach or failure by said
+other party whether of a similar nature or otherwise.
+
+     10.13 COUNTERPARTS. This Agreement may be executed in two or more
+counterparts, each of which shall be deemed an original, but all of which
+together shall constitute one and the same instrument.
+
+
+                                      -21-
+<Page>
+
+     IN WITNESS WHEREOF, the parties have caused their duly authorized officer
+to execute and deliver this Agreement as of the latest date set forth below.
+
+GENAISSANCE PHARMACEUTICALS, INC.
+
+By:   /s/ K. Nandabalan                                 Date: 12/13/02
+   -----------------------------------                        ------------
+
+Name:     Krishnan Nandabalan
+     ---------------------------------
+
+Title:    VP, Business Development
+      --------------------------------
+
+PHARMACIA& UPJOHN COMPANY
+
+BY:   /s/ T.D. LITHGOW                                  DATE: 12/12/02
+   ------------------------------------                       ------------
+
+Name:     Theodore D. Lithgow
+     ---------------------------------
+
+Title:    VP, Commercial Development
+      --------------------------------
+
+                                      -22-
+<Page>
+
+                                   EXHIBIT A
+
+Description of the DecoGen(R) Informatics System
+
+DECOGEN(R) BROWSER SOFTWARE
+
+   -    DESCRIPTION: The DECOGEN Browser software allows a user to browse genes,
+        polymorphism data and clinical data; perform association analysis;
+        calculate linkage disequilibrium; view Haplotype phylogenies; create and
+        save projects based on clinical cohorts. The browser only operates on
+        genes for which Haplotypes have been built. Statistical analyses are run
+        using SAS. The gene structure, SNPs, Genotypes, and Haplotypes must be
+        in the HAP FOCUS Database for each gene to be viewed. DECOGEN(R)
+        DataManager software and gene structures are required to load
+        customer-created SNPs, Genotypes and Haplotypes. Additional gene
+        structures may be added to the HAP FOCUS Database via purchase of
+        additional software or custom services from Genaissance.
+
+   -    PHARMACIA PROVIDES: Hardware for database server, file server and
+        desktop clients; appropriate Oracle license, database administrator
+        support for (DBA) for installation and data updates; a server and
+        license for SAS.
+
+DECOGEN(R) DATAMANAGER SOFTWARE
+
+   -    DESCRIPTION: The DECOGEN DataManager software allows a user to browse
+        genes and polymorphism data, in more detail than provided by the DECOGEN
+        Browser software, but does not include any clinical analysis tools.
+        DECOGEN DataManager software requires that the gene structure, SNPs, and
+        Genotypes be in the HAP FOCUS Database for information on each gene to
+        be viewed, but does not require the presence of Haplotypes. DECOGEN
+        DataManager software provides full access to the HAP FOCUS Database
+        Schema and has tools for importing a variety of data including SNPs,
+        genotypes and Haplotypes for any gene whose structure is in the HAP
+        FOCUS Database. Polymorphism and other types of data in the HAP FOCUS
+        Database may also be exported using DECOGEN DataManager. This software
+        does not include any clinical analysis tools. Additional gene structures
+        may be added to the HAP FOCUS Database via purchase of additional
+        software or custom services from Genaissance.
+
+   -    PHARMACIA PROVIDES: Hardware for database server, file server and
+        desktop clients; appropriate Oracle license, database administrator
+        support for (DBA) for installation and data updates.
+
+HAP(TM) BUILDER SOFTWARE
+
+   -    DESCRIPTION: The HAP Builder software takes polymorphism and genotype
+        data for genes, constructs haplotypes, and stores them in the HAP FOCUS
+
+                                       -1-
+<Page>
+
+        Database. A license to the DECOGEN Browser software or DECOGEN
+        DataManager software is required to operate HAP Builder software.
+
+   -    PHARMACIA PROVIDES: Hardware for database server, file server and
+        desktop clients; appropriate Oracle license, database administrator
+        support for (DBA) for installation and data updates.
+
+                                       -2-
+<Page>
+
+                                    EXHIBIT B
+
+     [**]
+
+                                       -1-
+<Page>
+
+                                    EXHIBIT C
+
+                       {DESCRIPTION OF HAP TYPING PROJECT}
+
+                                       -1-
+<Page>
+
+                                    EXHIBIT D
+
+                    MINIMUM ACCEPTABLE DNA QUALITY STANDARDS
+
+DNA samples that are shipped to Genaissance for genotyping services must meet
+the following acceptance criteria to qualify for the established percent data
+coverage agreed upon.
+
+1.   DNA must be [**].
+
+2.   When subject to functional testing the DNA must be [**] provided that the
+     [**]DNA sample amount must be sufficient to cover the needs of the tests
+     indicated for the genotyping requested. [**].
+
+                                       -1-
+
+</TEXT>
+</DOCUMENT>

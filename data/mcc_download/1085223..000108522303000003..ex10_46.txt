@@ -1,0 +1,432 @@
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>10
+<FILENAME>ex10_46.txt
+<DESCRIPTION>10.46 TELEATLAS INTERNET PROVIDER LICENSE
+<TEXT>
+                                                                   Exhibit 10.46
+                                                                   -------------
+
+            Confidential Materials omitted and filed separately with
+                     the Securities and Exchange Commission.
+                           Asterisks denote omissions.
+
+
+                         TELE ATLAS NORTH AMERICA, INC.
+                            INTERNET PROVIDER LICENSE
+
+This Internet Provider License (the "License") is entered in to by Tele Atlas
+North America, Inc., a California corporation located at 1605 Adams Drive, Menlo
+Park, CA 94025 ("TANA") and Switchboard Incorporated, a Delaware corporation,
+located at 120 Flanders Road, Westboro, MA 01581-5013 ("Licensee") (together,
+the "Parties").
+
+This License incorporates the terms and conditions of General Provisions
+Agreement No. GP-02083-SWITCHBD (the "GP Agreement"), executed between Licensee
+and TANA on January 30, 2003.
+            ----------------
+
+1.  Definitions. In this License, the following are defined terms:
+    -----------
+
+    a. "Licensed Products" means the Tele Atlas MultiNet(TM) USA spatial map
+       data of the United States in Shapefile and GDF formats, including
+       documentation and related materials, as amended from time to time by the
+       mutual consent of the parties, or supplied by TANA to Licensee.
+
+    b. "Discontinued Licensed Products" means, for software, the MapAccess
+       Libraries, the GeoRetrieve Library and the PathAccess Library, and for
+       data, the Tele Atlas MultiNet(TM) USA spatial map data of the United
+       States in MapAccess Format; which are subject to the provisions of
+       Section 2(e) below.
+
+    c. "Derivative Services" means all services that are based upon or
+       incorporate all or part of one or more Licensed Products, such as a
+       revision, modification, translation, abridgment, condensation, expansion,
+       collection, compilation or any other form in which such Licensed Products
+       may be recast, transformed or adapted.
+
+    d. "Authorized Derivative Services" means Derivative Services subject to the
+       restrictions set forth in Section 2 regarding the Telematics and
+       Navigation markets, created by or for Licensee that are comprised of
+       geocoding, static electronic map images including, but not limited to,
+       jpeg, gif, tif, pdf, bit-mapped or raster images ("Map Images") and text
+       and/or voice driving directions provided (a) from Servers controlled
+       solely by Licensee directly to End Users via either a telecommunications
+       connection to the Internet or wireless communications; and (b) from
+       Servers controlled solely by Licensee indirectly via the Internet,
+       wireless communications or satellite to authorized Resellers for
+       transmission to End Users via either a telecommunications connection to
+       the Internet or wireless communications.
+
+    e. "Servers" means computers that (i) are owned or leased and controlled
+       solely by Licensee; and (ii) are loaded with the software application
+       that uses the Licensed Products to provide the Authorized Derivative
+       Services.
+
+    f. "Reseller" means any commercial third party who is authorized by Licensee
+       to pass through the Authorized Derivative Services either (i) directly to
+       End Users via interfacing with Licensee's Servers; or (ii) to another
+       Reseller that passes through the Authorized Derivative Services directly
+       to End Users via interfacing with Licensee's Servers; provided, that
+       there shall be no more than two (2) Resellers between Licensee and any
+       End User.
+
+    g. "Web Site" means a group of related HTML documents and associated files,
+       scripts, and databases that are served up on the World Wide Web by
+       Servers at a Licensee or Reseller owned or branded universal resource
+       locator ("URL").
+
+    h. "End User" means any third party who is granted access to the Authorized
+       Derivative Services subject to the restrictions set forth in Exhibit A.
+
+    i. "Telematics" means general services delivered to a motor vehicle via an
+       embedded device appliance or through a device that communicates with an
+       embedded device appliance.
+
+    j. "Navigation" means determining the position of a vehicle and providing
+       electronic map images and/or directions via a device embedded within the
+       vehicle or through a device that communicates with a device embedded
+       within the vehicle.
+
+    k. "Above the Fold" means that portion of any web page of the Web Site that
+       is designed to be visible by End Users upon first accessing such web
+       page, without requiring an End User with a standard configuration to
+       scroll lower or horizontally through such web page.
+
+                                       1
+<PAGE>
+
+2.  License Grant. TANA grants to Licensee a worldwide, non-exclusive,
+    -------------
+    non-transferable license to (i) use the Licensed Products for the limited
+    purpose of in-house development by Licensee of the Authorized Derivative
+    Services and (ii) provide the Authorized Derivative Services to End Users;
+    provided, however, that (a) Licensee requires Resellers to execute and
+    return to Licensee a Reseller agreement that is at least as protective of
+    the Licensed Products as the GP Agreement and this License, (b) Licensee has
+    paid to TANA all fees and royalties due in accordance with this License, (c)
+    Licensee complies with all provisions of this License and the GP Agreement,
+    (d) Licensee does not, directly or indirectly, offer, sublicense or
+    distribute, the Authorized Derivative Services into the Telematics or
+    Navigation markets, and (e) the Licensed Products and any and all portions
+    remain on the Licensee's Servers at all times.
+
+    In order to minimize data transfer time, Licensee is permitted to utilize
+    the digital, vector-based distribution mechanisms including but not limited
+    to Java Applets, Plug-in Mechanisms, PostScript, Amber and pdf to provide
+    the Authorized Derivative Services to End Users in digital, vector-based
+    form, provided that such digital form shall be invisible to End Users; and
+    Licensee shall not offer or use any such mechanisms that offer the ability
+    to or enable End Users to access, utilize or store the Licensed Products in
+    any digital, vector-based form. Licensee may allow the Map Images to be
+    panned or zoomed by End Users, provided that a manual request by the End
+    User is required for each pan or zoom of the Map Image.
+
+    a. No Other Derivative Services. The license granted herein does not
+       ----------------------------
+       authorize or permit Licensee to create Derivative Services other than the
+       Authorized Derivative Services. If Licensee desires to create Derivative
+       Services other than the Authorized Derivative Services, Licensee shall
+       notify TANA and the Parties shall bargain in good faith for any
+       additional license rights to create such Derivative Services.
+
+    b. Sublicense Requirements.
+       -----------------------
+
+                  (i) Prior to Access. Except as provided in subsection (ii)
+                      ---------------
+                  below, on any Web Site through which an End User accesses
+                  Authorized Derivative Services, Licensee or Reseller(s) shall,
+                  in accordance with the timing set forth below, (a) present a
+                  notice, which is in conspicuous type and must necessarily and
+                  unavoidably be viewed by the End User, specifying that the End
+                  User's use of the Authorized Derivative Services is subject to
+                  the terms and conditions set forth in Exhibit A hereto, and
+                  (b) provide the End User an agreement containing all the terms
+                  and conditions set forth in Exhibit A hereto. To satisfy the
+                  aforementioned sublicense requirements when the Authorized
+                  Derivative Services are provided on a Web Site, Licensee or
+                  Reseller(s) shall include, on an initial web page that must
+                  necessarily and unavoidably be viewed by each End User prior
+                  to the End User accessing the Authorized Derivative Services,
+                  the following notice in conspicuous type located Above the
+                  Fold for such web page: "By clicking on the '[ text displayed
+                  on the button to access the Authorized Derivative Services,
+                  for example: GO!]' button, you agree to the attached license
+                  agreement."; the words "license agreement" shall be underlined
+                  and highlighted in a different color so that when clicked upon
+                  they serve as a link to an agreement containing all the terms
+                  and conditions set forth in Exhibit A hereto. The foregoing
+                  requirements shall be implemented by Licensee on the MapsOnUs
+                  home page within a commercially reasonable time frame, and by
+                  each Reseller as provided in any agreement between Licensee
+                  and the Reseller pursuant to the following sentence. Licensee
+                  shall enter into an agreement, which complies with this
+                  Section 2(b)(i), with each Reseller as soon as commercially
+                  reasonable, and shall use reasonable efforts to do so no later
+                  than the effective date of (a) a new agreement between the
+                  Reseller and Licensee, (b) the renewal or amendment of an
+                  existing agreement between the Reseller and Licensee or (c)
+                  similar such change in the contractual relationship between
+                  the Reseller and Licensee; [**]
+
+                  (ii) Immediately Below Map Images and Text Directions.
+                       ------------------------------------------------
+                  Licensee or Reseller(s) shall include the following notice in
+                  conspicuous type immediately below all Map Images and text
+                  directions provided as part of the Authorized Derivative
+                  Services: "Use subject to License." The word "License" shall
+                                            -------
+                  be underlined and highlighted in a different color so that
+                  when clicked upon it serves as a link to an agreement
+                  containing all the terms and conditions set forth in Exhibit A
+                  hereto. This requirement shall be in addition to the
+                  requirements set forth in subsection (i) above with respect to
+                  Authorized Derivative Services accessed through a Web Site
+                  offering map searching capabilities, [**]
+
+
+                                       2
+<PAGE>
+
+                  (e.g., where a single map is displayed via a link
+                  from a directory listing).
+
+                  (iii) Section 2(b) Intent. The Parties intend that
+                        -------------------
+                  implementing the sublicensing requirements specified in this
+                  Section 2(b) will both (a) cause each End User to be subject
+                  to the terms and conditions set forth in Exhibit A hereto and
+                  (b) with respect to the subject matter addressed in Section
+                  2(b), provide a level of protection for TANA's intellectual
+                  property that is at least equal to the standard level of
+                  protection for the intellectual property of companies
+                  operating within the mapping industry. If TANA provides
+                  Licensee with reasonable evidence that implementing Section
+                  2(b), either does not (a) cause each End User to be subject to
+                  the terms and conditions set forth in Exhibit A hereto or (b)
+                  provide a level of protection for TANA's intellectual property
+                  that is at least equal to the above specified standard level
+                  of protection, then the Parties shall amend Section 2(b) so
+                  that implementing Section 2(b) does satisfy both (a) and (b)
+                  herein.
+
+    c. Copyrights. All Map Images and text directions provided as part of the
+       ----------
+       Authorized Derivative Services shall include the following notice
+       conspicuously displayed within the Map Image or immediately below the
+       text directions: "(C) 1984-[current year] Tele Atlas N. Am." Where space
+       permits, the notice may be expanded to read, "Map data (C) 1984 -
+       [current year. TeleAtlas North America, Inc. All rights reserved.
+
+    d. No Patent License. Nothing in the GP Agreement or this License, including
+       -----------------
+       any amendments thereto, in any way grants to Licensee, expressly or by
+       implication, any right, title or interest in, or license to, any patent
+       granted or to be granted to TANA or any patent applications, filed or
+       unfiled. A current list of TANA's issued patents can be found on the
+       Internet at http://www.na.teleatlas.com/aboutta/patents.html.
+                   ------------------------------------------------
+
+    e. Discontinued Licensed Products. TANA previously discontinued the
+       ------------------------------
+       Discontinued Licensed Products. Licensee may continue to use the
+       Discontinued Licensed Products as previously delivered to Licensee until
+       Licensee [**], but in no case longer than one (1) year from the Effective
+       Date. Licensee acknowledges and agrees that TANA shall not release any
+       updates to the Discontinued Licensed Products, nor shall TANA provide any
+       technical support for the Discontinued Licensed Products. Additionally,
+       Licensee acknowledges and agrees that the Discontinued Licensed Products
+       shall not be covered by any warranty set forth in Article 5 of the GP
+       Agreement and shall not be covered by indemnification from TANA as set
+       forth in Section 6.1 of the GP Agreement. The Discontinued Licensed
+       Products are provided on an "AS IS" and `WITH ALL FAULTS" basis. WITH
+       RESPECT TO THE DISCONTINUED LICENSED PRODUCTS, TANA EXPRESSLY DISCLAIMS
+       ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO, THE
+       IMPLIED WARRANTIES OF NON-INFRINGEMENT, MERCHANTABILITY, MERCHANTABLE
+       QUALITY, EFFECTIVENESS, COMPLETENESS, ACCURACY, AND FITNESS FOR A
+       PARTICULAR PURPOSE. WITH RESPECT TO THE DISCONTINUED LICENSED PRODUCTS,
+       NO ORAL OR WRITTEN ADVICE OR INFORMATION PROVIDED BY TANA OR ANY OF ITS
+       AGENTS OR EMPLOYEES SHALL CREATE A WARRANTY, AND LICENSEE IS NOT ENTITLED
+       TO RELY ON ANY SUCH ADVICE OR INFORMATION. In the event that Licensee
+       requests, and TANA, in its sole discretion, agrees to provide technical
+       support for any of the Discontinued Licensed Products, Licensee agrees to
+       pay for such technical support at TANA's then current standard hourly
+       rate.
+
+    f. Additional Indemnification by Licensee. Licensee shall protect, defend
+       --------------------------------------
+       (or, in Licensee's discretion, settle), indemnify and hold TANA harmless
+       from any and all claims, demands, liabilities, obligations, damages,
+       losses, injuries, suits, judgments or settlements, including reasonable
+       costs and attorneys' fees, (collectively "Injury(ies)") incurred by TANA,
+       that arise out of or relate to any use of or interaction with the
+       Authorized Derivative Services by any third party who, (a) in the final
+       judgment by a court of competent jurisdiction or (b) in the final ruling
+       of an arbitration panel pursuant to Section 11.4 of the GP Agreement or
+       (c) the Parties mutually agree in writing, is not subject to the
+       restrictions set forth in Exhibit A. Licensee shall obtain the prior
+       written approval of TANA before entering into any settlement of such
+       Injury.
+
+    g. Identification of Resellers. Licensee shall provide to TANA concurrently
+       ---------------------------
+       with each accounting report due TANA pursuant to Section 8.1 of the GP
+       Agreement the identity, address and URL of each Reseller then currently
+       reselling the Authorized Derivative Services.
+
+                                       3
+<PAGE>
+
+3.  Royalties due TANA by Licensee.
+    ------------------------------
+
+    a. [**] Royalty. Licensee shall pay to TANA [**] in the amount of [**]
+       ----------------------
+       Dollars ($[**]) or accrued royalties set forth in Section 3(b) below.
+       Notwithstanding lack of receipt of an invoice from TANA, the [**] shall
+       be due and payable [**] Dollars ($[**]) [**] after the Effective Date (as
+       defined below)[**] while this License remains in effect. Each [**] on a
+       pro-rated basis in accordance with Section 6.1(c) and 11.3 of the GP
+       Agreement.
+
+    b. Accrued Royalties. Licensee shall accrue and pay royalties due TANA as
+       -----------------
+       follows:
+
+              For the Authorized Derivative Services set forth in Section 1(c)
+              above, Licensee shall accrue and pay royalties due TANA [**] by
+              Licensee through use of the Authorized Derivative Services.
+
+    c. Royalty Reports. Licensee shall make payment of all royalties due TANA
+       ---------------
+       concurrently with each accounting report due TANA pursuant to Section 8.1
+       of the GP Agreement. The provisions of Article 8 of the GP Agreement
+       regarding records, reporting and audit requirements shall apply to all
+       such royalty payments. Licensee shall not be entitled to withhold or
+       delay payment to TANA pending receipt of payment from any third party.
+
+4.  Updates. Licensee shall be entitled to receive [**], updates to the Licensed
+    -------
+    Products generally released by TANA as standard product, if any, provided
+    that Licensee has complied with this License and the GP Agreement. TANA'S
+    SOLE OBLIGATION and Licensee's SOLE REMEDY in the case of delay or
+    non-delivery of an update shall be [**] each update [**] ; provided,
+    however, that if TANA and Licensee have mutually agreed to replace
+    discontinued Licensed Products with other Licensed Products, TANA shall have
+    no [**] obligation under this Section 4 for such discontinued Licensed
+    Products.
+
+5.  License Term. Unless terminated earlier pursuant to any provision of Article
+    ------------
+    10 of the GP Agreement, this License shall become effective on the date last
+    signed below (the "Effective Date") and shall continue in force for a period
+    of two (2) years (the "First Term"). Thereafter, this License shall
+    automatically renew for additional two (2) year periods (the "Additional
+    Term(s)") unless either party gives the other party written notice of
+    non-renewal ninety (90) days before the expiration of the First Term or the
+    then current Additional Term. Licensee does not have or acquire by execution
+    of the GP Agreement or this License, by performance hereunder, or otherwise,
+    any vested right with respect to the creation or distribution of the
+    Authorized Derivative Services or the renewal of this License.
+
+
+IN WITNESS WHEREOF, the parties hereto have executed this License.
+
+Switchboard Incorporated         Tele Atlas North America, Inc.
+
+By: /s/Dean Polnerow             By: /s/Robert A. Miller
+    ----------------                 -------------------
+
+Name: Dean Polnerow              Name: Robert A. Miller
+      -------------                    ----------------
+
+Title: President                 Title: Senior Vice President, Marketing & Sales
+       ---------                        ----------------------------------------
+
+Date: January 30, 2003           Date: February 21, 2003
+      ----------------                 -----------------
+
+
+                                       4
+<PAGE>
+
+                                    EXHIBIT A
+
+         Licensee must contractually bind the End User to the following:
+
+RESTRICTIONS:
+------------
+1.  License for End User's internal business or personal use only and not for
+    transfer, distribution, or disclosure to third parties or use for the
+    benefit of third parties.
+
+PROHIBITIONS:
+------------
+1.  Use of the Licensed Products other than through the Authorized Derivative
+    Services.
+2.  Assignment, lend or lease, or rental of the Authorized Derivative Services.
+3.  Granting or otherwise conveying Title to or any ownership interest in the
+    Licensed Products as contained in the Authorized Derivative Services to the
+    End User or to any other party.
+4.  Deriving or attempting to derive the structure of the Licensed Products as
+    contained in the Authorized Derivative Services.
+5.  Use, duplication (except for a single archival copy), reproduction,
+    disclosure, publication, distribution, or transfer of the Authorized
+    Derivative Services other than as specifically allowed.
+6.  The removal or obscuring of any copyright notice.
+
+ADDITIONAL PROVISIONS TO BE INCLUDED BY LICENSEE:
+------------------------------------------------
+1.  Include a provision whereby TANA is a third party beneficiary of Licensee's
+    rights under the Agreement, but is not a party thereto and shall have no
+    obligations thereunder.
+2.  Disclaim, to the extent permitted by applicable law, TANA's liability for
+    any damages, or loss of any kind, whether special, direct, indirect,
+    incidental, or consequential, arising from the use of the Authorized
+    Derivative Services, or Map Images and/or text directions provided as part
+    of the Authorized Derivative Services ("Results").
+3.  Disclaim all warranties of TANA, whether express or implied, including but
+    not limited to, the implied warranties of non-infringement, merchantability,
+    completeness, accuracy, and fitness for a particular purpose.
+4.  Require End User to acknowledge that the Licensed Products as contained in
+    the Authorized Derivative Services include confidential and proprietary
+    information and materials and may include trade secrets, and that End User
+    agrees to hold the Licensed Products as contained in the Authorized
+    Derivative Services and Results in confidence and in trust.
+5.  Require End User to comply with all applicable export laws and regulations
+    of the United States.
+6.  Include the following: U.S. GOVERNMENT RIGHTS. If End User is an agency,
+    department, or other entity of the United States Government, or funded in
+    whole or in part by the United States Government, then use, duplication,
+    reproduction, release, modification, disclosure or transfer of this
+    commercial product and accompanying documentation, is restricted in
+    accordance with FAR 12.212 and DFARS 227.7202, and by a license agreement.
+    Contractor/manufacturer is Tele Atlas North America, Inc., 1605 Adams Drive,
+    Menlo Park, CA 94025, (650) 328-3825. The Results is (C)[current] by Tele
+    Atlas North America, Inc. ALL RIGHTS RESERVED. For purpose of any public
+    disclosure provision under any federal, state or local law, it is agreed
+    that the Licensed Products are a trade secret and a proprietary commercial
+    product and not subject to disclosure.
+7.  Include the following: If End User is an agency, department, or other entity
+    of any State government, the United States Government or any other public
+    entity, then End User hereby agrees to protect the Results from public
+    disclosure and to consider the Results exempt from any statute, law,
+    regulation, or code, including any Sunshine Act, Public Records Act, Freedom
+    of Information Act, or equivalent, which permits public access and/or
+    reproduction or use of the Results. In the event that such exemption is
+    challenged under any such laws, this Agreement shall be considered breached
+    and any and all right to retain any copies or to use of the Results shall be
+    terminated and considered immediately null and void. Any copies of the
+    Results held by Licensee shall immediately be destroyed. If any court of
+    competent jurisdiction considers this clause void and unenforceable, in
+    whole or in part, for any reason, this Agreement shall be considered
+    terminated and null and void, in its entirety, and any and all copies of the
+    Results shall immediately be destroyed.
+
+
+                                       5
+
+</TEXT>
+</DOCUMENT>

@@ -1,0 +1,1715 @@
+<DOCUMENT>
+<TYPE>EX-10.5
+<SEQUENCE>7
+<FILENAME>a87201exv10w5.txt
+<DESCRIPTION>EXHIBIT 10.5
+<TEXT>
+<PAGE>
+                                                                    EXHIBIT 10.5
+
+
+                               SECURITY AGREEMENT
+
+                                 BY AND BETWEEN
+
+                            MERCURY AIR GROUP, INC.,
+
+                                       AND
+
+              EACH OF ITS SUBSIDIARIES THAT ARE SIGNATORIES HERETO
+
+                                   AS OBLIGORS
+
+                                       AND
+
+                       J. H. WHITNEY MEZZANINE FUND, L.P.
+
+                                 AS THE LENDERS,
+
+                          DATED AS OF DECEMBER 30, 2002
+
+                  THIS AGREEMENT AND THE INDEBTEDNESS EVIDENCED HEREBY IS
+                  SUBORDINATE IN THE MANNER AND TO THE EXTENT SET FORTH IN THAT
+                  CERTAIN SUBORDINATION AGREEMENT, DATED AS OF DECEMBER 30,
+                  2002, BY AND AMONG THE PARTIES HERETO AND FOOTHILL CAPITAL
+                  CORPORATION, AS SUCH AGREEMENT MAY BE AMENDED FROM TIME TO
+                  TIME.
+<PAGE>
+                                                                    Exhibit 10.5
+
+                                TABLE OF CONTENTS
+
+<TABLE>
+<S>      <C>                                                                                                         <C>
+1.       DEFINITIONS AND CONSTRUCTION............................................................................      1
+         1.1.     Definitions....................................................................................      1
+         1.2.     Accounting Terms...............................................................................      8
+         1.3.     Code...........................................................................................      8
+         1.4.     Construction...................................................................................      9
+         1.5.     Schedules and Exhibits.........................................................................      9
+
+2.       APPLICATION OF PROCEEDS.................................................................................      9
+         2.1.     Application....................................................................................      9
+         2.2.     Paid in Full...................................................................................     10
+         2.3.     Conflict.......................................................................................     10
+
+3.       CONDITIONS PRECEDENT....................................................................................     10
+
+4.       CREATION OF SECURITY INTEREST...........................................................................     10
+         4.1.     Grant of Security Interest.....................................................................     10
+         4.2.     Negotiable Collateral..........................................................................     11
+         4.3.     Collection of Accounts, General Intangibles, and Negotiable Collateral.........................     11
+         4.4.     Delivery of Additional Documentation Required..................................................     11
+         4.5.     Power of Attorney..............................................................................     12
+         4.6.     Right to Inspect...............................................................................     12
+         4.7.     Control Agreements.............................................................................     12
+
+5.       REPRESENTATIONS AND WARRANTIES..........................................................................     12
+         5.1.     No Encumbrances................................................................................     12
+         5.2.     Equipment......................................................................................     13
+         5.3.     Location of Inventory and Equipment; FBOs......................................................     13
+         5.4.     Inventory Records..............................................................................     13
+         5.5.     Location of Chief Executive Office; FEIN.......................................................     13
+         5.6.     Stock and Subsidiaries.........................................................................     13
+         5.7.     Due Authorization; No Conflict.................................................................     13
+         5.8.     Fraudulent Transfer............................................................................     14
+         5.9.     Intellectual Property..........................................................................     14
+         5.10.    DDAs     ......................................................................................     14
+
+6.       AFFIRMATIVE COVENANTS...................................................................................     14
+         6.1.     Post Closing Conditions........................................................................     14
+         6.2.     Accounting System..............................................................................     15
+         6.3.     Collateral Reporting...........................................................................     15
+         6.4.     Maintenance of Properties......................................................................     15
+         6.5.     Insurance......................................................................................     15
+         6.6.     Location of Inventory and Equipment............................................................     16
+</TABLE>
+<PAGE>
+<TABLE>
+<S>      <C>                                                                                                         <C>
+         6.7.     Leases.........................................................................................     16
+         6.8.     Existence......................................................................................     16
+         6.9.     Environmental..................................................................................     16
+
+7.       NEGATIVE COVENANTS......................................................................................     17
+         7.1.     Change Name....................................................................................     17
+         7.2.     Change in Location of Chief Executive Office; Inventory and Equipment with Bailees.............     17
+         7.3.     Securities Accounts............................................................................     17
+
+8.       SUBORDINATION AGREEMENT.................................................................................     17
+
+9.       THE LENDER'S RIGHTS AND REMEDIES........................................................................     17
+         9.1.     Rights and Remedies............................................................................     17
+         9.2.     Remedies Cumulative............................................................................     19
+
+10.      TAXES AND EXPENSES......................................................................................     19
+
+11.      WAIVERS; INDEMNIFICATION................................................................................     19
+         11.1.    Demand; Protest; etc...........................................................................     19
+         11.2.    Lender's Liability for Collateral..............................................................     20
+         11.3.    Indemnification................................................................................     20
+
+12.      NOTICES.................................................................................................     20
+
+13.      CHOICE OF LAW AND VENUE; JURY TRIAL WAIVER..............................................................     20
+         13.1.    GOVERNING LAW..................................................................................     20
+         13.2.    NEW YORK COURTS................................................................................     20
+         13.3.    WAIVER OF JURY TRIAL...........................................................................     20
+
+14.      ASSIGNMENTS AND SUCCESSORS..............................................................................     21
+
+15.      AMENDMENTS; WAIVERS.....................................................................................     21
+         15.1.    Amendments and Waivers.........................................................................     21
+         15.2.    No Waivers; Cumulative Remedies................................................................     21
+
+16.      GENERAL PROVISIONS......................................................................................     21
+         16.1.    Effectiveness..................................................................................     21
+         16.2.    Section Headings...............................................................................     21
+         16.3.    Interpretation.................................................................................     21
+         16.4.    Severability of Provisions.....................................................................     22
+         16.5.    Amendments in Writing..........................................................................     22
+         16.6.    Counterparts; Telefacsimile Execution..........................................................     22
+         16.7.    Revival and Reinstatement of Obligations.......................................................     22
+         16.8.    Integration....................................................................................     22
+         16.9.    Parent as Agent for Obligors...................................................................     22
+</TABLE>
+
+
+                                       ii
+<PAGE>
+EXHIBITS AND SCHEDULES
+
+Schedule D-1      Designated Account
+
+Schedule F-1      FBOs
+
+Schedule L-1      Liens to be Released
+
+Schedule R-1      Real Property Excluded from Collateral
+
+Schedule 5.3      Locations of Inventory and Equipment
+
+Schedule 5.5      Location of Chief Executive Office; FEIN
+
+Schedule 5.6      Stock and Subsidiaries
+
+Schedule 5.9      Intellectual Property
+
+Schedule 5.10     DDAs
+
+
+
+                                      iii
+<PAGE>
+
+                                                                    EXHIBIT 10.5
+
+                               SECURITY AGREEMENT
+
+         THIS SECURITY AGREEMENT (this "Agreement"), is entered into as of
+December 30, 2002, between J.H. Whitney Mezzanine Fund, L.P. ("Lender"), a
+Delaware limited partnership, and Mercury Air Group, Inc., a Delaware
+corporation ("Parent") and each of Parent's Subsidiaries identified on the
+signature pages hereof (such Subsidiaries, are referred to hereinafter each
+individually as a "Guarantor", and the Guarantors, together with Parent, are
+individually and collectively, jointly and severally, referred to as the
+"Obligors").
+
+         WHEREAS, Lender and Parent entered into a Securities Purchase
+Agreement, dated as of September 10, 1999, as amended by Amendment No. 1 dated
+as of September 30, 2000 and Amendment No. 2 dated as of September 30, 2001 (as
+so amended, the "Original Purchase Agreement"), pursuant to which, among other
+things, Lender purchased from Parent (a) a subordinated promissory note due
+September 9, 2006 in the principal amount of $24,000,000 (the "Note"), and (b) a
+warrant to purchase 503,126 shares of common stock, $.01 par value per share, of
+Parent (the "Warrant");
+
+         WHEREAS, one or more Events of Default have occurred and are continuing
+under the Note and Parent has requested that Lender not exercise its rights to,
+among other things, declare all outstanding principal and accrued interest on
+the Note to be immediately due and payable;
+
+         WHEREAS, Parent has requested that Lender provide the waiver and enter
+into the amendments to the Original Purchase Agreement provided for Amendment
+No. 3, dated as of December 30, 2002, between Lender and Parent ("Amendment No.
+3"), and Lender has agreed to provide such waiver and amend the Original
+Purchase Agreement on the terms and conditions set forth in Amendment No. 3; and
+
+         WHEREAS, as a condition to Lender agreeing to enter into Amendment No.
+3 and to amend the Original Purchase Agreement as provided for therein, Parent
+has agreed to grant, and to procure that each Guarantor grants, a security
+interest in certain of its assets to Lender.
+
+         The parties agree as follows:
+
+1. DEFINITIONS AND CONSTRUCTION.
+
+1.1. Definitions. As used in this Agreement, the following terms shall have the
+following definitions:
+
+         "Account Debtor" means any Person who is or who may become obligated
+under, with respect to, or on account of, an Account, chattel paper, or a
+General Intangible.
+
+         "Accounts" means all of Obligor's now owned or hereafter acquired
+right, title, and interest with respect to "accounts" (as that term is defined
+in the Code), and any and all supporting obligations in respect thereof.
+
+         "Additional Documents" has the meaning set forth in Section 4.4.
+<PAGE>
+         "Affiliate" means, as applied to any Person, any other Person who,
+directly or indirectly, controls, is controlled by, or is under common control
+with, such Person. For purposes of this definition, "control" means the
+possession, directly or indirectly, of the power to direct the management and
+policies of a Person, whether through the ownership of Stock, by contract, or
+otherwise.
+
+         "Agreement" has the meaning set forth in the preamble hereto.
+
+         "Additional Note" has the meaning set forth in Amendment No. 3.
+
+         "Additional Warrant" has the meaning set forth in Amendment No. 3.
+
+         "Amended Note" has the meaning set forth in Amendment No. 3.
+
+         "Amended Warrant" has the meaning set forth in Amendment No. 3.
+
+         "Amendment No. 3" has the meaning set forth in the recitals hereto.
+
+         "Assignment of Claims" means an Assignment of Claims Under Government
+Contract, in form and substance acceptable to Lender, with respect to each
+contract under which Maytag or any other Obligor provides services or goods to
+an Account Debtor which is the United States or any department, agency, or
+instrumentality of the United States.
+
+         "Bankruptcy Code" means the United States Bankruptcy Code, as in effect
+from time to time.
+
+         "Board of Directors" means the board of directors (or comparable
+managers) of Parent or any committee thereof duly authorized to act on behalf
+thereof.
+
+         "Books" means all of each Obligor's and its Subsidiaries' now owned or
+hereafter acquired books and records (including all of its Records indicating,
+summarizing, or evidencing its assets (including the Collateral) or liabilities,
+all of each Obligor's or its Subsidiaries' Records relating to its or their
+business operations or financial condition, and all of its or their goods or
+General Intangibles related to such information).
+
+         "Business Day" means any day that is not a Saturday, Sunday, or other
+day on which national banks are authorized or required to close.
+
+         "Capital Lease" means a lease that is required to be capitalized for
+financial reporting purposes in accordance with GAAP.
+
+         "Closing Date" means the date hereof.
+
+         "Code" means the New York Uniform Commercial Code, as in effect from
+time to time.
+
+         "Collateral" means all of each Obligor's now owned or hereafter
+acquired right, title, and interest in and to each of the following:
+
+
+                                       2
+<PAGE>
+         (a) Accounts,
+
+         (b) Books,
+
+         (c) Equipment,
+
+         (d) General Intangibles,
+
+         (e) Inventory,
+
+         (f) Investment Property,
+
+         (g) Negotiable Collateral,
+
+         (h) Real Property Collateral,
+
+         (i) money or other assets of each such Obligor that now or hereafter
+come into the possession, custody, or control of any member of the Lender Group,
+and
+
+         (j) the proceeds and products, whether tangible or intangible, of any
+of the foregoing, including proceeds of insurance covering any or all of the
+foregoing, and any and all Accounts, Books, Equipment, General Intangibles,
+Inventory, Investment Property, Negotiable Collateral, Real Property, money,
+deposit accounts, or other tangible or intangible property resulting from the
+sale, exchange, collection, or other disposition of any of the foregoing, or any
+portion thereof or interest therein, and the proceeds thereof.
+
+         "Collateral Access Agreement" means a landlord waiver, bailee letter,
+or acknowledgement agreement of any lessor, warehouseman, processor, consignee,
+or other Person in possession of, having a Lien upon, or having rights or
+interests in the Equipment or Inventory, in each case, in form and substance
+satisfactory to Lender.
+
+         "Collections" means all cash, checks, notes, instruments, and other
+items of payment (including insurance proceeds, proceeds of cash sales, rental
+proceeds, and tax refunds) of Obligors.
+
+         "Control Agreement" means a control agreement, in form and substance
+satisfactory to Lender, executed and delivered by the applicable Obligor,
+Lender, and the applicable securities intermediary with respect to a Securities
+Account or a bank with respect to a deposit account.
+
+         "DDA" means any checking or other demand deposit account maintained by
+any Obligor.
+
+         "Default" means an event, condition, or default that, with the giving
+of notice, the passage of time, or both, would be an Event of Default.
+
+         "Designated Account" means that certain DDA of Parent identified on
+Schedule D-1.
+
+         "Dollars" or "$" means United States dollars.
+
+
+                                       3
+<PAGE>
+         "Environmental Action" means any complaint, summons, citation, notice,
+directive, order, claim, litigation, investigation, judicial or administrative
+proceeding, judgment, letter, or other communication from any Governmental
+Authority, or any third party involving violations of Environmental Laws or
+releases of Hazardous Materials from (a) any assets, properties, or businesses
+of any Obligor or any predecessor in interest, (b) from adjoining properties or
+businesses, or (c) from or onto any facilities which received Hazardous
+Materials generated by any Obligor or any predecessor in interest.
+
+         "Environmental Liabilities and Costs" means all liabilities, monetary
+obligations, Remedial Actions, losses, damages, punitive damages, consequential
+damages, treble damages, costs and expenses (including all reasonable fees,
+disbursements and expenses of counsel, experts, or consultants, and costs of
+investigation and feasibility studies), fines, penalties, sanctions, and
+interest incurred as a result of any claim or demand by any Governmental
+Authority or any third party, and which relate to any Environmental Action.
+
+         "Environmental Lien" means any Lien in favor of any Governmental
+Authority for Environmental Liabilities and Costs.
+
+         "Equipment" means all of Obligors' now owned or hereafter acquired
+right, title, and interest with respect to equipment, machinery, machine tools,
+motors, furniture, furnishings, fixtures, vehicles (including motor vehicles),
+tools, parts, goods (other than consumer goods, farm products, or Inventory),
+wherever located, including all attachments, accessories, accessions,
+replacements, substitutions, additions, and improvements to any of the
+foregoing.
+
+         "Event of Default" has the meaning given to it in section 6 of the
+Note.
+
+         "FBO" means a fixed base operator lease or similar agreement,
+identified on Schedule F-1 (as the same may be amended or modified from time to
+time), entered into by any Obligor with a municipality or other public agency
+owning or operating an airport located in the United States of America whereby
+such Obligor leases real property located at such airport for the purpose of
+providing services thereat.
+
+         "FBO Obligors" means Mercury Air Center-Birmingham, LLC, Mercury Air
+Center-Bakersfield, Inc., Mercury Air Center-Burbank, Inc., Mercury Air
+Center-Fresno, Inc., Mercury Air Center-Los Angeles, Inc., Mercury Air
+Center-Ontario, Inc., Mercury Air Center-Santa Barbara, Inc., Mercury Air
+Center-Hartsfield, LLC, Mercury Air Center-Peachtree-Dekalb, LLC, Mercury Air
+Center- Ft. Wayne, LLC., Mercury Air Center-Jackson, L.L.C., Mercury Air
+Center-Reno, LLC, Mercury Air Center-Tulsa, LLC., Mercury Air Center-Charleston,
+LLC., Mercury Air Center-Johns Island, LLC., Mercury Air Center-Nashville, LLC.,
+Mercury Air Center-Addison, Inc. and Mercury Air Center - Corpus Christi, Inc.
+
+         "FEIN" means Federal Employer Identification Number.
+
+         "General Intangibles" means all of Obligors' now owned or hereafter
+acquired right, title, and interest with respect to general intangibles
+(including payment intangibles, contract rights, rights to payment, rights
+arising under common law, statutes, or regulations, choses or things in action,
+goodwill, patents, trade names, trademarks, servicemarks, copyrights,
+blueprints,
+
+
+                                       4
+<PAGE>
+drawings, purchase orders, customer lists, monies due or recoverable from
+pension funds, route lists, rights to payment and other rights under any royalty
+or licensing agreements, infringement claims, computer programs, information
+contained on computer disks or tapes, software, literature, reports, catalogs,
+money, deposit accounts, insurance premium rebates, tax refunds, and tax refund
+claims), and any and all supporting obligations in respect thereof, and any
+other personal property other than goods, Accounts, Investment Property, and
+Negotiable Collateral.
+
+         "Governing Documents" means, with respect to any Person, the
+certificate or articles of incorporation, by-laws, or other organizational
+documents of such Person.
+
+         "Guarantors" has the meaning given the term in the preamble of this
+Agreement, and includes any other Person executing a Guaranty in favor of
+Purchaser under the Purchase Agreement.
+
+         "Insolvency Proceeding" means any proceeding commenced by or against
+any Person under any provision of the Bankruptcy Code or under any other state
+or federal bankruptcy or insolvency law, assignments for the benefit of
+creditors, formal or informal moratoria, compositions, extensions generally with
+creditors, or proceedings seeking reorganization, arrangement, or other similar
+relief.
+
+         "Inventory" means all Obligors' now owned or hereafter acquired right,
+title, and interest with respect to inventory, including goods held for sale or
+lease or to be furnished under a contract of service, goods that are leased by a
+Obligor as lessor, goods that are furnished by a Obligor under a contract of
+service, and raw materials, work in process, or materials used or consumed in a
+Obligor's business.
+
+         "Investment Property" means all of Obligors' now owned or hereafter
+acquired right, title, and interest with respect to "investment property" as
+that term is defined in the Code, and any and all supporting obligations in
+respect thereof.
+
+         "Lender Expenses" means all (a) expenses of the Lender due under
+Section 11.13 of the Purchase Agreement, including fees or charges paid or
+incurred by Lender for public record searches (including tax lien, litigation,
+and UCC searches and including searches with the patent and trademark office,
+the copyright office, or the department of motor vehicles), filing, recording,
+publication, real estate surveys, real estate title policies and endorsements,
+(b) reasonable costs and expenses paid or incurred by Lender to correct any
+default or enforce any provision of this Agreement, or in gaining possession of,
+maintaining, handling, preserving, storing, shipping, selling, preparing for
+sale, or advertising to sell the Collateral, or any portion thereof,
+irrespective of whether a sale is consummated, (c) reasonable costs and expenses
+of third party claims or any other suit paid or incurred by Lender in enforcing
+or defending this Agreement, and (d) Lender's reasonable fees and expenses
+(including attorneys fees) incurred in terminating, enforcing (including
+reasonable attorneys fees and expenses incurred in connection with a "workout,"
+a "restructuring," or an Insolvency Proceeding concerning any Obligor or in
+exercising rights or remedies under this Agreement), or defending this
+Agreement, irrespective of whether suit is brought, or in taking any Remedial
+Action concerning the Collateral.
+
+
+                                       5
+<PAGE>
+         "Lender's Liens" means the Liens granted by Obligors to Lender for the
+benefit of Lender under this Agreement or the other Loan Documents.
+
+         "Lender-Related Persons" means Lender together with its Affiliates,
+officers, directors, employees, and agents.
+
+         "Liens to be Released" means, collectively, the Liens set forth on
+Schedule L-1.
+
+         "Loan Documents" means this Agreement, the Purchase Agreement, the
+Amended Note, the Amended Warrant, the Guaranties, the Mortgages, the Trademark
+Security Agreement, the Subordination Agreement, any Additional Note, any
+Additional Warrant, and any other agreement entered into, now or in the future,
+by any Obligor and Lender in connection with this Agreement.
+
+         "Maytag" means Maytag Aircraft Corporation, a Colorado corporation.
+
+         "Mortgage Policy" means a mortgagee title insurance policy (or marked
+commitments to issue the same) with respect to any Mortgage, issued by a title
+insurance company satisfactory to Lender, in an amount satisfactory to Lender,
+assuring Lender that such Mortgage is a valid and enforceable mortgage Lien on
+the Real Property Collateral subject thereto, free and clear of all defects and
+encumbrances except Permitted Encumbrances, and otherwise in form and substance
+satisfactory to Lender.
+
+         "Mortgages" means, individually and collectively, one or more
+mortgages, deeds of trust, or deeds to secure debt, at any time executed and
+delivered by an Obligor in favor of Lender, in form and substance satisfactory
+to Lender, that encumbers any portion of the Real Property Collateral.
+
+         "Negotiable Collateral" means all of Obligors' now owned and hereafter
+acquired right, title, and interest with respect to letters of credit, letter of
+credit rights, instruments, promissory notes, drafts, documents, and chattel
+paper (including electronic chattel paper and tangible chattel paper), and any
+and all supporting obligations in respect thereof.
+
+         "Note" has the meaning set forth in the recitals hereto.
+
+         "Notices of Assignment of Claims" means, collectively, the Notices of
+Assignment of Claims, executed by Lender, Maytag and/or such other Obligor as
+may be required by Lender, and addressed to the contracting officer and
+disbursing officer with respect to each contract subject to an Assignment of
+Claims.
+
+         "Obligations" means all loans, advances, debts, principal, interest
+(including any interest that, but for the provisions of the Bankruptcy Code,
+would have accrued), premiums, liabilities, obligations, fees, charges, costs,
+Lender Expenses (including any fees or expenses that, but for the provisions of
+the Bankruptcy Code, would have accrued), lease payments, guaranties, covenants,
+and duties of any kind and description owing by Obligors to Lender pursuant to
+or evidenced by the Loan Documents and irrespective of whether for the payment
+of money, whether direct or indirect, absolute or contingent, due or to become
+due, now existing or
+
+
+                                       6
+<PAGE>
+hereafter arising, and including all interest not paid when due and all Lender
+Expenses that Obligors are required to pay or reimburse by the Loan Documents,
+by law, or otherwise. Any reference in this Agreement or in the Loan Documents
+to the Obligations shall include all amendments, changes, extensions,
+modifications, renewals replacements, substitutions, and supplements, thereto
+and thereof, as applicable, both prior and subsequent to any Insolvency
+Proceeding.
+
+         "Obligor" have the respective meanings set forth in the preamble to
+this Agreement.
+
+         "Original Purchase Agreement" has the meaning set forth in the recitals
+hereto.
+
+         "Parent" has the meaning set forth in the preamble to this Agreement.
+
+         "Permitted Discretion" means a determination made in good faith and in
+the exercise of reasonable (from the perspective of a secured lender) business
+judgment.
+
+         "Permitted Dispositions" means (a) sales or other dispositions by
+Obligors of Equipment that is substantially worn, damaged, or obsolete in the
+ordinary course of business, (b) sales by Obligors of Inventory to buyers in the
+ordinary course of business, (c) the use or transfer of money or Cash
+Equivalents by Obligors in a manner that is not prohibited by the terms of this
+Agreement or the other Loan Documents, and (d) the licensing by Obligors, on a
+non-exclusive basis, of patents, trademarks, copyrights, and other intellectual
+property rights in the ordinary course of business.
+
+         "Permitted Protest" means the right of Parent or any of its
+Subsidiaries, as applicable, to protest any Lien (other than any such Lien that
+secures the Obligations), taxes (other than payroll taxes or taxes that are the
+subject of a United States federal tax lien), or rental payment, provided that
+(a) a reserve with respect to such obligation is established on the Books in
+such amount as is required under GAAP, (b) any such protest is instituted
+promptly and prosecuted diligently by Parent or any of its Subsidiaries, as
+applicable, in good faith, and (c) Lender is satisfied that, while any such
+protest is pending, there will be no impairment of the enforceability, validity,
+or priority of any of the Lender's Liens.
+
+         "Personal Property Collateral" means all Collateral other than Real
+Property.
+
+         "Purchase Agreement" means the Original Purchase Agreement as amended
+by Amendment No. 3.
+
+         "Real Property" means any estates or interests in real property now
+owned or hereafter acquired by any Obligor or Guarantor and the improvements
+thereto.
+
+         "Real Property Collateral" means any Real Property other than that
+described on Schedule R-1.
+
+         "Record" means information that is inscribed on a tangible medium or
+which is stored in an electronic or other medium and is retrievable in
+perceivable form.
+
+
+                                       7
+<PAGE>
+         "Remedial Action" means all actions taken to (a) clean up, remove,
+remediate, contain, treat, monitor, assess, evaluate, or in any way address
+Hazardous Materials in the indoor or outdoor environment, (b) prevent or
+minimize a release or threatened release of Hazardous Materials so they do not
+migrate or endanger or threaten to endanger public health or welfare or the
+indoor or outdoor environment, (c) perform any pre-remedial studies,
+investigations, or post-remedial operation and maintenance activities, or (d)
+conduct any other actions authorized by 42 USC Section 9601.
+
+         "SEC" means the United States Securities and Exchange Commission and
+any successor thereto.
+
+         "Senior Agent" means the "Agent" as defined in the Senior Credit
+Agreement.
+
+         "Senior Credit Agreement" has the meaning set forth in Amendment No. 3.
+
+         "Senior Loan Documents" means the "Loan Documents" as set forth in the
+Senior Credit Agreement.
+
+         "Stock" means all shares, options, warrants, interests, participations,
+or other equivalents (regardless of how designated) of or in a Person, whether
+voting or nonvoting, including common stock, preferred stock, or any other
+"equity security" (as such term is defined in Rule 3a11-1 of the General Rules
+and Regulations promulgated by the SEC under the Exchange Act).
+
+         "Stock Pledge Agreement" means a stock pledge agreement, in form and
+substance satisfactory to Agent, executed and delivered by a Obligor with
+respect to the Stock of a Subsidiary of such Obligor; referred to collectively
+as the "Stock Pledge Agreements."
+
+         "Stock Pledge Documentation" means Stock Pledge Agreements, together
+with all certificates representing the shares of Stock pledged thereunder and
+Stock powers with respect thereto executed in blank."Subordination Agreement"
+has the meaning set forth in Amendment No. 3.
+
+         "Trademark Security Agreement" means a trademark security agreement
+executed and delivered by the applicable Obligor with respect to any trademark
+applications made by such Obligor, in form and substance satisfactory to Lender.
+
+         "Voidable Transfer" has the meaning set forth in Section 16.7.
+
+         "Warrant" has the meaning set forth in the recitals hereto.
+
+1.2. Accounting Terms. All accounting terms not specifically defined herein
+shall be construed in accordance with GAAP. When used herein, the term
+"financial statements" shall include the notes and schedules thereto. Whenever
+the term "Obligor" or the term "Parent" is used in respect of a financial
+covenant or a related definition, it shall be understood to mean Parent and its
+Subsidiaries on a consolidated basis unless the context clearly requires
+otherwise.
+
+1.3. Code. Any terms used in this Agreement that are defined in the Code shall
+be construed and defined as set forth in the Code unless otherwise defined
+herein.
+
+
+                                       8
+<PAGE>
+1.4. Construction.
+
+         (a) Unless the context of this Agreement or any other Loan Document
+clearly requires otherwise, references to the plural include the singular,
+references to the singular include the plural, the term "including" is not
+limiting, and the term "or" has, except where otherwise indicated, the inclusive
+meaning represented by the phrase "and/or."
+
+         (b) The words "hereof," "herein," "hereby," "hereunder," and similar
+terms in this Agreement or any other Loan Document refer to this Agreement or
+such other Loan Document, as the case may be, as a whole and not to any
+particular provision of this Agreement or such other Loan Document, as the case
+may be.
+
+         (c) Section, subsection, clause, schedule, and exhibit references
+herein are to this Agreement unless otherwise specified.
+
+         (d) Any reference in this Agreement or in the other Loan Documents to
+any agreement, instrument, or document shall include all alterations,
+amendments, changes, extensions, modifications, renewals, replacements,
+substitutions, joinders, and supplements, thereto and thereof, as applicable
+(subject to any restrictions on such alterations, amendments, changes,
+extensions, modifications, renewals, replacements, substitutions, joinders, and
+supplements set forth herein).
+
+         (e) Any reference herein to any Person shall be construed to include
+such Person's successors and assigns.
+
+         (f) Any requirement of a writing contained herein or in the other Loan
+Documents shall be satisfied by the transmission of a Record and any Record
+transmitted shall constitute a representation and warranty as to the accuracy
+and completeness of the information contained therein.
+
+         (g) Words and expressions defined in the Purchase Agreement shall,
+unless otherwise defined herein, have the same meanings when used herein.
+
+1.5. Schedules and Exhibits. All of the schedules and exhibits attached to this
+Agreement shall be deemed incorporated herein by reference.
+
+2. APPLICATION OF PROCEEDS.
+
+2.1. Application. All proceeds of Accounts or other Collateral received by
+Lender shall be applied as follows:
+
+         (a) first, to pay any Lender Expenses due under the Loan Documents
+until paid in full,
+
+         (b) secondly, to pay interest due in respect of all outstanding amounts
+until paid in full,
+
+         (c) thirdly, to pay outstanding principal until paid in full, and
+
+
+                                       9
+<PAGE>
+         (d) fourth, to Parent (to be wired to the Designated Account) or such
+other Person entitled thereto under applicable law.
+
+2.2. Paid in Full. For purposes of the foregoing, "paid in full" means payment
+of all amounts owing under the Loan Documents according to the terms thereof,
+including loan fees, service fees, professional fees, interest (and specifically
+including interest accrued after the commencement of any Insolvency Proceeding),
+default interest, interest on interest, and expense reimbursements, whether or
+not the same would be or is allowed or disallowed in whole or in part in any
+Insolvency Proceeding.
+
+2.3. Conflict. In the event of a direct conflict between the priority provisions
+of this Section 2.3 and other provisions contained in any other Loan Document,
+it is the intention of the parties hereto that such priority provisions in such
+documents shall be read together and construed, to the fullest extent possible,
+to be in concert with each other. In the event of any actual, irreconcilable
+conflict that cannot be resolved as aforesaid, the terms and provisions of this
+Section 2.3 shall control and govern.
+
+3. CONDITIONS PRECEDENT.
+
+         The effectiveness of Amendment No. 3 is conditioned upon the
+fulfillment, to the satisfaction of Lender, of each of the conditions precedent
+set forth below:
+
+         (a) Lender shall have received all financing statements required by
+Lender, duly executed (if required) by the applicable Obligors, and Lender shall
+have received searches reflecting the filing of all such financing statements;
+
+         (b) Lender shall have received the Subordination Agreement, in form and
+substance satisfactory to Lender, duly executed, and each such document shall be
+in full force and effect; and
+
+         (c) Lender shall have received a certificate of insurance, together
+with the endorsements thereto, as are required by Section 6.5, the form and
+substance of which shall be satisfactory to Lender.
+
+4. CREATION OF SECURITY INTEREST.
+
+4.1. Grant of Security Interest. Each Obligor hereby grants to Lender a
+continuing security interest in all of its right, title, and interest in all
+currently existing and hereafter acquired or arising Personal Property
+Collateral in order to secure prompt repayment of any and all of the Obligations
+in accordance with the terms and conditions of the Loan Documents and in order
+to secure prompt performance by Obligors of each of their covenants and duties
+under the Loan Documents. The Lender's Liens in and to the Personal Property
+Collateral shall attach to all Personal Property Collateral without further act
+on the part of Lender or Obligors. Anything contained in this Agreement or any
+other Loan Document to the contrary notwithstanding, except for Permitted
+Dispositions, Obligors have no authority, express or implied, to dispose of any
+item or portion of the Collateral.
+
+
+                                       10
+<PAGE>
+4.2. Negotiable Collateral. In the event that any Collateral, including
+proceeds, is evidenced by or consists of Negotiable Collateral, and if and to
+the extent that perfection or priority of Lender's security interest is
+dependent on or enhanced by possession, the applicable Obligor, immediately upon
+the request of Lender, shall endorse and deliver physical possession of such
+Negotiable Collateral to Lender provided that, if and for so long as required by
+the terms of the Senior Loan Documents, such Negotiable Collateral shall, be
+endorsed and physically delivered to the Senior Agent.
+
+4.3. Collection of Accounts, General Intangibles, and Negotiable Collateral. At
+any time after the occurrence and during the continuation of an Event of
+Default, Lender or Lender's designee may (a) notify Account Debtors of Obligors
+that the Accounts, chattel paper, or General Intangibles have been assigned to
+Lender or that Lender has a security interest therein, or (b) collect the
+Accounts, chattel paper, or General Intangibles directly and charge the
+collection costs and expenses to the Obligors. Each Obligor agrees that it will
+hold in trust for the Lender, as the Lender's trustee, any Collections that it
+receives and immediately will deliver said Collections to Lender in their
+original form as received by the applicable Obligor.
+
+4.4. Delivery of Additional Documentation Required. At any time upon the request
+of Lender, Obligors shall execute and deliver to Lender, any and all financing
+statements, original financing statements in lieu of continuation statements,
+fixture filings, security agreements, pledges, assignments, endorsements of
+certificates of title, and all other documents (the "Additional Documents") that
+Lender may request in its Permitted Discretion, in form and substance
+satisfactory to Lender, to perfect and continue perfected or better perfect the
+Lender's Liens in the Collateral (whether now owned or hereafter arising or
+acquired), to create and perfect Liens in favor of Lender in any Real Property
+acquired after the Closing Date, and in order to fully consummate all of the
+transactions contemplated hereby and under the other Loan Documents, including,
+without limitation, (a) promptly upon termination of the security interests
+created under the Senior Loan Documents, Assignments of Claims and Notices of
+Assignment of Claims and (b) all original motor vehicle title certificates with
+respect to all motor vehicles owned by any Obligor and registered with any
+state's department of motor vehicles, executed by the appropriate Obligor and,
+if necessary, any other Person, so as to permit Lender to record a Lien with
+respect thereto. Without limiting the generality of the foregoing, Obligors
+agree to deliver to Lender a Trademark Security Agreement with respect to any
+trademark applications within 5 Business Days after the date such trademark
+applications are filed and application numbers assigned thereto by the U.S.
+Patent and Trademark Officer. To the maximum extent permitted by applicable law,
+each Obligor authorizes Lender to execute any such Additional Documents in the
+applicable Obligor's name and authorize Lender to file such executed Additional
+Documents in any appropriate filing office. In addition, on such periodic basis
+as Lender shall require, Obligors shall (i) provide Lender with a report of all
+new patentable, copyrightable, or trademarkable materials acquired or generated
+by Obligors during the prior period, (ii) cause all patents, copyrights, and
+trademarks acquired or generated by Obligors that are not already the subject of
+a registration with the appropriate filing office (or an application therefor
+diligently prosecuted) to be registered with such appropriate filing office in a
+manner sufficient to impart constructive notice of Obligor's ownership thereof,
+and (iii) cause to be prepared, executed, and delivered to Lender supplemental
+schedules to the applicable Loan
+
+
+                                       11
+<PAGE>
+Documents to identify such patents, copyrights, and trademarks as being subject
+to the security interests created thereunder.
+
+4.5. Power of Attorney. Each Obligor hereby irrevocably makes, constitutes, and
+appoints Lender (and any of Lender's officers, employees, or agents designated
+by Lender) as such Obligor's true and lawful attorney, with power to (a) if such
+Obligor refuses to, or fails timely to execute and deliver any of the documents
+described in Section 4.4, sign the name of such Obligor on any of the documents
+described in Section 4.4, (b) at any time that an Event of Default has occurred
+and is continuing, sign such Obligor's name on any invoice or bill of lading
+relating to the Collateral, drafts against Account Debtors, or notices to
+Account Debtors, (c) send requests for verification of Accounts, (d) endorse
+such Obligor name on any Collection item that may come into the Lender's
+possession, (e) at any time that an Event of Default has occurred and is
+continuing, make, settle, and adjust all claims under such Obligor's policies of
+insurance and make all determinations and decisions with respect to such
+policies of insurance, and (f) at any time that an Event of Default has occurred
+and is continuing, settle and adjust disputes and claims respecting the
+Accounts, chattel paper, or General Intangibles directly with Account Debtors,
+for amounts and upon terms that Lender determines to be reasonable, and Lender
+may cause to be executed and delivered any documents and releases that Lender
+determines to be necessary. The appointment of Lender as each Obligor's
+attorney, and each and every one of its rights and powers, being coupled with an
+interest, is irrevocable until all of the Obligations have been fully and
+finally repaid and performed.
+
+4.6. Right to Inspect. Lender (through any of its respective officers,
+employees, or agents) shall have the right, from time to time hereafter to
+inspect the Books and to check, test, and appraise the Collateral in order to
+verify Obligors' financial condition or the amount, quality, value, condition
+of, or any other matter relating to, the Collateral.
+
+4.7. Control Agreements. Each Obligor agrees that it will not transfer assets
+out of any Securities Accounts other than as permitted under Section 7.3 and, if
+to another securities intermediary, unless each of the applicable Obligor,
+Lender, and the substitute securities intermediary have entered into a Control
+Agreement. No arrangement contemplated hereby or by any Control Agreement in
+respect of any Securities Accounts or other Investment Property shall be
+modified by Obligors without the prior written consent of Lender. Upon the
+occurrence and during the continuance of a Default or Event of Default, Lender
+may notify any securities intermediary to liquidate the applicable Securities
+Account or any related Investment Property maintained or held thereby and remit
+the proceeds thereof to such account of the Lender as Lender may specify.
+
+5. REPRESENTATIONS AND WARRANTIES.
+
+         Each Obligor makes the following representations and warranties to
+Lender which shall be true, correct, and complete, in all material respects, as
+of the date hereof, and such representations and warranties shall survive the
+execution and delivery of this Agreement:
+
+5.1. No Encumbrances. Each Obligor has good and indefeasible title to its
+Collateral and the Real Property, free and clear of Liens except for Permitted
+Encumbrances.
+
+
+                                       12
+<PAGE>
+5.2. Equipment. All of the Equipment is used or held for use in Obligors'
+business and is fit for such purposes.
+
+5.3. Location of Inventory and Equipment; FBOs. The Inventory and Equipment are
+not stored with a bailee, warehouseman, or similar party and are located only at
+the locations identified on Schedule 5.3.
+
+5.4. Inventory Records. Each Obligor keeps correct and accurate records
+itemizing and describing the type, quality, and quantity of its Inventory and
+the book value thereof.
+
+5.5. Location of Chief Executive Office; FEIN. The chief executive office of
+each Obligor is located at the address indicated in Schedule 5.5 and each
+Obligor's FEIN is identified in Schedule 5.5.
+
+5.6. Stock and Subsidiaries.
+
+         (a) Set forth on Schedule 5.6(a), is a complete and accurate
+description of the authorized capital Stock of each Obligor other than Parent,
+by class, and, as of the Closing Date, a description of the number of shares of
+each such class that are issued and outstanding. Other than as described on
+Schedule 5.6(a), there are no subscriptions, options, warrants, or calls
+relating to any shares of each Obligor's capital Stock, including any right of
+conversion or exchange under any outstanding security or other instrument. No
+Obligor is subject to any obligation (contingent or otherwise) to repurchase or
+otherwise acquire or retire any shares of its capital Stock or any security
+convertible into or exchangeable for any of its capital Stock.
+
+         (b) Set forth on Schedule 5.6(b), is a complete and accurate list of
+each Obligor's direct and indirect Subsidiaries, showing: (i) the jurisdiction
+of their organization; (ii) the number of shares of each class of common and
+preferred Stock authorized for each of such Subsidiaries; and (iii) the number
+and the percentage of the outstanding shares of each such class owned directly
+or indirectly by the applicable Obligor. All of the outstanding capital Stock of
+each such Subsidiary has been validly issued and is fully paid and
+non-assessable.
+
+         (c) Except as set forth on Schedule 5.6(b), there are no subscriptions,
+options, warrants, or calls relating to any shares of any Obligor's
+Subsidiaries' capital Stock, including any right of conversion or exchange under
+any outstanding security or other instrument. No Obligor or any of its
+respective Subsidiaries is subject to any obligation (contingent or otherwise)
+to repurchase or otherwise acquire or retire any shares of any Obligor's
+Subsidiaries' capital Stock or any security convertible into or exchangeable for
+any such capital Stock.
+
+5.7. Due Authorization; No Conflict.
+
+         (a) As to each Obligor, the execution, delivery, and performance by
+such Obligor of this Agreement have been duly authorized by all necessary action
+on the part of such Obligor.
+
+         (b) As to each Obligor, the execution, delivery, and performance by
+such Obligor of this Agreement do not and will not (i) violate any provision of
+federal, state, or local law or regulation applicable to any Obligor, the
+Governing Documents of any Obligor, or any order,
+
+
+                                       13
+<PAGE>
+judgment, or decree of any court or other Governmental Authority binding on any
+Obligor, (ii) conflict with, result in a breach of, or constitute (with due
+notice or lapse of time or both) a default under any material contractual
+obligation of any Obligor, (iii) result in or require the creation or imposition
+of any Lien of any nature whatsoever upon any properties or assets of Obligor,
+other than Permitted Encumbrances, or (iv) require any approval of any Obligor's
+interestholders or any approval or consent of any Person under any material
+contractual obligation of any Obligor.
+
+         (c) Other than the filing of financing statements, fixture filings, and
+Mortgages, the execution, delivery, and performance by each Obligor of this
+Agreement do not and will not require any registration with, consent, or
+approval of, or notice to, or other action with or by, any Governmental
+Authority or other Person.
+
+         (d) As to each Obligor, this Agreement and all other documents
+contemplated hereby, when executed and delivered by such Obligor will be the
+legally valid and binding obligations of such Obligor, enforceable against such
+Obligor in accordance with their respective terms, except as enforcement may be
+limited by equitable principles or by bankruptcy, insolvency, reorganization,
+moratorium, or similar laws relating to or limiting creditors' rights generally
+and except to the extent that availability of the remedy of specific performance
+or injunctive relief is subject to the discretion of the court before which any
+proceeding therefor may be brought.
+
+         (e) The Lender's Liens are validly created, perfected Liens, subject
+only to Permitted Encumbrances.
+
+5.8. Fraudulent Transfer. No transfer of property is being made by any Obligor
+and no obligation is being incurred by any Obligor in connection with the
+transactions contemplated by this Agreement with the intent to hinder, delay, or
+defraud either present or future creditors of Obligors.
+
+5.9. Intellectual Property. Each Obligor owns, or holds licenses in, all
+trademarks, trade names, copyrights, patents, patent rights, and licenses that
+are necessary to the conduct of its business as currently conducted. Attached
+hereto as Schedule 5.9 is a true, correct, and complete listing of all material
+patents, patent applications, trademarks, trademark applications, copyrights,
+and copyright registrations as to which each Obligor is the owner or is an
+exclusive licensee.
+
+5.10. DDAs. Set forth on Schedule 5.10 are all of the DDAs of each Obligor,
+including, with respect to each depository (a) the name and address of that
+depository, and (b) the account numbers of the accounts maintained with such
+depository.
+
+6. AFFIRMATIVE COVENANTS.
+
+         Each Obligor covenants and agrees that, so long as until full and final
+payment of the Obligations, Obligors shall and shall cause each of their
+respective Subsidiaries to do all of the following:
+
+6.1. Post Closing Conditions.
+
+
+                                       14
+<PAGE>
+         (a) within 5 days after the Closing Date, deliver to Lender (or to such
+other Person as Lender may instruct) the Stock Pledge Documentation, the form
+and substance of which shall be satisfactory to Lender and such documentation
+shall be in full force and effect;
+
+         (b) within 30 days after the Closing Date, deliver to Lender
+certificates of insurance and certified copies of the policies of insurance, as
+are required by Section 6.5, together with the endorsements thereto, the form
+and substance of which shall be satisfactory to Lender and its counsel;
+
+         (c) within 30 days after the Closing Date, deliver to Lender a Control
+Agreement, in form and substance satisfactory to Lender, with respect to each of
+the DDAs;
+
+         (d) within 30 days after the Closing Date, deliver to Lender evidence,
+in form and substance satisfactory to Lender, of the satisfaction and release,
+as of record, of the Liens to be Released; and
+
+         (e) within 30 days after the Closing Date, deliver to Lender a
+Collateral Access Agreement with respect to locations where Books are kept with
+respect to Accounts and Inventory.
+
+6.2. Accounting System. Maintain records pertaining to the Collateral that
+contain information as from time to time reasonably may be requested by Lender.
+Obligors also shall keep an inventory reporting system that shows all additions,
+sales, claims, returns, and allowances with respect to the Inventory.
+
+6.3. Collateral Reporting. Provide Lender with the following documents upon
+request by Lender in form satisfactory to Lender:
+
+         (a) copies of invoices in connection with the Accounts, credit memos,
+remittance advices, deposit slips, shipping and delivery documents in connection
+with the Accounts and, for Inventory and Equipment acquired by Obligors,
+purchase orders and invoices, and;
+
+         (b) such other reports as to the Collateral, or the financial condition
+of Obligors as Lender may request.
+
+         In addition, each Obligor agrees to cooperate fully with Lender to
+facilitate and implement a system of electronic collateral reporting in order to
+provide electronic reporting of each of the items set forth above.
+
+6.4. Maintenance of Properties. Maintain and preserve all of its properties
+which are necessary or useful in the proper conduct to its business in good
+working order and condition, ordinary wear and tear excepted, and comply at all
+times with the provisions of all leases to which it is a party as lessee, so as
+to prevent any loss or forfeiture thereof or thereunder.
+
+6.5. Insurance.
+
+         (a) At Obligors' expense, maintain insurance respecting its property
+and assets in accordance with section 8.8 of the Purchase Agreement. To the
+extent, and only to the extent,
+
+
+                                       15
+<PAGE>
+permitted by Obligors' agreements with airports or other lessors, Obligors shall
+deliver copies of all such policies, other than those policies insuring
+Obligors' operations at airports, or affected by other agreements prohibiting
+the assignment of proceeds to a Person other than such airport or lessor, to
+Lender with a satisfactory lender's loss payable endorsement naming Agent as
+sole loss payee or additional insured, as appropriate (such policies referred to
+herein as the "Included Policies").
+
+         (b) Parent shall give Lender prompt notice of any loss covered by any
+insurance policy covering any Obligor, including, without limitation, the
+Included Policies. Lender shall have the exclusive right (subject to the Senior
+Agent's rights under the Senior Loan Documents) to adjust any losses payable
+under any Included Policy in excess of $50,000, without any liability to
+Obligors whatsoever in respect of such adjustments. Any monies received as
+payment for any loss under any Included Policy (other than liability insurance
+policies) or as payment of any award or compensation for condemnation or taking
+by eminent domain, shall, to the extent not required to be paid to the Senior
+Agent under the Senior Loan Documents, be paid over to Lender or shall be
+disbursed to Parent under staged payment terms reasonably satisfactory to Lender
+for application to the cost of repairs, replacements, or restorations. Any such
+repairs, replacements, or restorations shall be effected with reasonable
+promptness and shall be of a value at least equal to the value of the items or
+property destroyed prior to such damage or destruction.
+
+         (c) Obligors shall not take out separate insurance concurrent in form
+or contributing in the event of loss with that required to be maintained under
+this Section 6.5, unless, subject to the restrictions set forth in this Section,
+Lender is included thereon as named insured with the loss payable to Lender
+under a lender's loss payable endorsement or its equivalent (in which case such
+policy shall also constitute an Included Policy). Parent immediately shall
+notify Lender whenever such separate insurance is taken out, specifying the
+insurer thereunder and full particulars as to the policies evidencing the same,
+and copies of such policies promptly shall be provided to Lender.
+
+6.6. Location of Inventory and Equipment. Keep the Inventory and Equipment only
+at the locations identified on Schedule 5.3; provided, however, that Parent may
+amend Schedule 5.3 so long as such amendment occurs by written notice to Lender
+not less than 30 days prior to the date on which the Inventory or Equipment is
+moved to such new location, so long as such new location is within the
+continental United States, and so long as, at the time of such written
+notification, the applicable Obligor provides any financing statements or
+fixture filings necessary to perfect and continue perfected the Lender's Liens
+on such assets and also provides to Lender a Collateral Access Agreement.
+
+6.7. Leases. Pay when due all rents and other amounts payable under any leases
+to which any Obligor is a party or by which any Obligor's properties and assets
+are bound, unless such payments are the subject of a Permitted Protest.
+
+6.8. Existence. At all times preserve and keep in full force and effect each
+Obligor's valid existence and good standing and any rights and franchises
+material to Obligors' businesses.
+
+6.9. Environmental. Promptly provide Lender with written notice within 10 days
+of the receipt of any of the following: (a) notice that an Environmental Lien
+has been filed against any
+
+
+                                       16
+<PAGE>
+of the real or personal property of any Obligor and (b) commencement of any
+Environmental Action or notice that an Environmental Action will be filed
+against any Obligor.
+
+7. NEGATIVE COVENANTS.
+
+         Each Obligor covenants and agrees that, so long and until full and
+final payment of the Obligations, Obligors will not and will not permit any of
+their respective Subsidiaries to do any of the following:
+
+7.1. Change Name. Change any Obligor's name, FEIN, corporate structure or
+identity, or add any new fictitious name; provided, however, that a Obligor may
+change its name upon at least 30 days prior written notice by Parent to Lender
+of such change and so long as, at the time of such written notification, such
+Obligor provides any financing statements or fixture filings necessary to
+perfect and continue perfected Lender's Liens.
+
+7.2. Change in Location of Chief Executive Office; Inventory and Equipment with
+Bailees. Relocate its chief executive office to a new location without Parent
+providing 30 days prior written notification thereof to Lender and so long as,
+at the time of such written notification, the applicable Obligor provides any
+financing statements or fixture filings necessary to perfect and continue
+perfected the Lender's Liens and also provides to Lender a Collateral Access
+Agreement with respect to such new location. The Inventory and Equipment shall
+not at any time now or hereafter be stored with a bailee, warehouseman, or
+similar party without Lender's prior written consent.
+
+7.3. Securities Accounts. Establish or maintain any Securities Account unless
+Lender shall have received a Control Agreement in respect of such Securities
+Account (in the case of the DDAs, within the time period referred to in Section
+6.1(c)). Obligors agree to not transfer assets out of any Securities Account;
+provided, however, that, so long as no Event of Default has occurred and is
+continuing or would result therefrom, Obligors may use such assets (and the
+proceeds thereof) to the extent not prohibited by this Agreement or the other
+Loan Documents.
+
+8. SUBORDINATION AGREEMENT.
+
+         The rights and obligations of the Lender and each Obligor under this
+Agreement are subject in all respects to the provisions of the Subordination
+Agreement.
+
+9. THE LENDER'S RIGHTS AND REMEDIES.
+
+9.1. Rights and Remedies. Subject to the provisions of the Subordination
+Agreement, upon the occurrence, and during the continuation, of an Event of
+Default, Lender (at its election but without notice of its election and without
+demand) may do any one or more of the following, all of which are authorized by
+Obligors:
+
+         (a) Cause Obligors to hold all returned Inventory in trust for Lender,
+segregate all returned Inventory from all other assets of Obligors or in
+Obligors' possession and conspicuously label said returned Inventory as the
+property of Lender;
+
+
+                                       17
+<PAGE>
+         (b) Without notice to or demand upon any Obligor make such payments and
+do such acts as Lender considers necessary or reasonable to protect its security
+interests in the Collateral. Each Obligor agrees to assemble the Personal
+Property Collateral if Lender so requires, and to make the Personal Property
+Collateral available to Lender at a place that Lender may designate which is
+reasonably convenient to both parties. Each Obligor authorizes Lender to enter
+the premises where the Personal Property Collateral is located, to take and
+maintain possession of the Personal Property Collateral, or any part of it, and
+to pay, purchase, contest, or compromise any Lien that in Lender's determination
+appears to conflict with the Lender's Liens and to pay all expenses incurred in
+connection therewith. With respect to any of Obligors' owned or leased premises,
+each Obligor hereby grants Lender a license to enter into possession of such
+premises and to occupy the same, without charge, in order to exercise any of the
+Lender's rights or remedies provided herein, at law, in equity, or otherwise;
+
+         (c) Without notice to any Obligor (such notice being expressly waived),
+and without constituting a retention of any collateral in satisfaction of an
+obligation (within the meaning of the Code), set off and apply to the
+Obligations any and all (i) balances and deposits of any Obligor held by Lender
+or (ii) Indebtedness at any time owing to or for the credit or the account of
+any Obligor held by Lender;
+
+         (d) Hold, as cash collateral, any and all balances and deposits of any
+Obligor held the Lender to secure the full and final repayment of all of the
+Obligations;
+
+         (e) Ship, reclaim, recover, store, finish, maintain, repair, prepare
+for sale, advertise for sale, and sell (in the manner provided for herein) the
+Personal Property Collateral. Each Obligor hereby grants to Lender a license or
+other right to use, without charge, such Obligor's labels, patents, copyrights,
+trade secrets, trade names, trademarks, service marks, and advertising matter,
+or any property of a similar nature, as it pertains to the Personal Property
+Collateral, in completing production of, advertising for sale, and selling any
+Personal Property Collateral and such Obligor's rights under all licenses and
+all franchise agreements shall inure to Lender's benefit;
+
+         (f) Sell the Personal Property Collateral at either a public or private
+sale, or both, by way of one or more contracts or transactions, for cash or on
+terms, in such manner and at such places (including Obligors' premises) as
+Lender determines is commercially reasonable. It is not necessary that the
+Personal Property Collateral be present at any such sale;
+
+         (g) Lender shall give notice of the disposition of the Personal
+Property Collateral as follows:
+
+                           (i) Lender shall give Parent (for the benefit of the
+         applicable Obligor) a notice in writing of the time and place of public
+         sale, or, if the sale is a private sale or some other disposition other
+         than a public sale is to be made of the Personal Property Collateral,
+         the time on or after which the private sale or other disposition is to
+         be made; and
+
+                           (ii) The notice shall be personally delivered or
+         mailed, postage prepaid, to Parent as provided in section 8.2 of
+         Amendment No. 3, at least 10 days before
+
+
+                                       18
+<PAGE>
+         the earliest time of disposition set forth in the notice; no notice
+         needs to be given prior to the disposition of any portion of the
+         Personal Property Collateral that is perishable or threatens to decline
+         speedily in value or that is of a type customarily sold on a recognized
+         market;
+
+         (h) Lender may credit bid and purchase at any public sale;
+
+         (i) Lender may seek the appointment of a receiver or keeper to take
+possession of all or any portion of the Collateral or to operate same and, to
+the maximum extent permitted by law, may seek the appointment of such a receiver
+without the requirement of prior notice or a hearing;
+
+         (j) Lender shall have all other rights and remedies available to it at
+law or in equity pursuant to any other Loan Documents; and
+
+         (k) Any deficiency that exists after disposition of the Personal
+Property Collateral as provided above will be paid immediately by Obligors. Any
+excess will be returned, without interest and subject to the rights of third
+Persons, by Lender to Parent (for the benefit of the applicable Obligor).
+
+9.2. Remedies Cumulative. The rights and remedies of Lender under this
+Agreement, the other Loan Documents, and all other agreements shall be
+cumulative. Lender shall have all other rights and remedies not inconsistent
+herewith as provided under the Code, by law, or in equity. No exercise by Lender
+of one right or remedy shall be deemed an election, and no waiver by Lender of
+any Event of Default shall be deemed a continuing waiver. No delay by Lender
+shall constitute a waiver, election, or acquiescence by it.
+
+10. TAXES AND EXPENSES.
+
+         If any Obligor fails to pay any monies (whether taxes, assessments,
+insurance premiums, or, in the case of leased properties or assets, rents or
+other amounts payable under such leases) due to third Persons, or fails to make
+any deposits or furnish any required proof of payment or deposit, all as
+required under the terms of this Agreement, then, Lender, in its sole discretion
+and without prior notice to any Obligor, may do any or all of the following: (a)
+make payment of the same or any part thereof, (b) or in the case of the failure
+to comply with Section 6.5 hereof, obtain and maintain insurance policies of the
+type referred to in Section 6.5 and take any action with respect to such
+policies as Lender deems prudent. Any such amounts paid by Lender shall
+constitute Lender Expenses and any such payments shall not constitute an
+agreement by Lender to make similar payments in the future or a waiver by Lender
+of any Event of Default. Lender need not inquire as to, or contest the validity
+of, any such expense, tax, or Lien and the receipt of the usual official notice
+for the payment thereof shall be conclusive evidence that the same was validly
+due and owing.
+
+11. WAIVERS; INDEMNIFICATION.
+
+11.1. Demand; Protest; etc. Each Obligor waives demand, protest, notice of
+protest, notice of default or dishonor, notice of payment and nonpayment,
+nonpayment at maturity, release,
+
+
+                                       19
+<PAGE>
+compromise, settlement, extension, or renewal of documents, instruments, chattel
+paper, and guarantees at any time held by Lender on which any such Obligor may
+in any way be liable.
+
+11.2. Lender's Liability for Collateral. Each Obligor hereby agrees that: (a) so
+long as Lender complies with its obligations, if any, under the Code, Lender
+shall not in any way or manner be liable or responsible for: (i) the safekeeping
+of the Collateral, (ii) any loss or damage thereto occurring or arising in any
+manner or fashion from any cause, (iii) any diminution in the value thereof, or
+(iv) any act or default of any carrier, warehouseman, bailee, forwarding agency,
+or other Person, and (b) all risk of loss, damage, or destruction of the
+Collateral shall be borne by Obligors.
+
+11.3. Indemnification. The provisions of article 7 of the Purchase Agreement
+shall apply to this Agreement as if this Agreement has been executed
+contemporaneously with the Purchase Agreement, and references therein to a
+"Transaction Document" shall include a reference to this Agreement.
+
+12. NOTICES.
+
+Unless otherwise provided in this Agreement, all notices or demands by Obligors
+or Lender to the other relating to this Agreement or any other Loan Document
+shall be given in accordance with section 8.2 of Amendment No. 3.
+
+13. CHOICE OF LAW AND VENUE; JURY TRIAL WAIVER.
+
+13.1. GOVERNING LAW. THE VALIDITY OF THIS AGREEMENT, THE CONSTRUCTION,
+INTERPRETATION, AND ENFORCEMENT HEREOF, AND THE RIGHTS OF THE PARTIES HERETO
+WITH RESPECT TO ALL MATTERS ARISING HEREUNDER OR RELATED HERETO SHALL BE
+DETERMINED UNDER, GOVERNED BY, AND CONSTRUED IN ACCORDANCE WITH THE LAWS OF THE
+STATE OF NEW YORK.
+
+13.2. NEW YORK COURTS. THE PARTIES AGREE THAT ALL ACTIONS OR PROCEEDINGS ARISING
+IN CONNECTION WITH THIS AGREEMENT SHALL BE TRIED AND LITIGATED ONLY IN THE STATE
+AND FEDERAL COURTS LOCATED IN THE BOROUGH OF MANHATTAN, COUNTY OF NEW YORK,
+STATE OF NEW YORK, PROVIDED, HOWEVER, THAT ANY SUIT SEEKING ENFORCEMENT AGAINST
+ANY COLLATERAL OR OTHER PROPERTY MAY BE BROUGHT, AT LENDER'S OPTION, IN THE
+COURTS OF ANY JURISDICTION WHERE LENDER ELECTS TO BRING SUCH ACTION OR WHERE
+SUCH COLLATERAL OR OTHER PROPERTY MAY BE FOUND. OBLIGORS AND LENDER WAIVE, TO
+THE EXTENT PERMITTED UNDER APPLICABLE LAW, ANY RIGHT EACH MAY HAVE TO ASSERT THE
+DOCTRINE OF FORUM NON CONVENIENS OR TO OBJECT TO VENUE TO THE EXTENT ANY
+PROCEEDING IS BROUGHT IN ACCORDANCE WITH THIS SECTION 13.2.
+
+13.3. WAIVER OF JURY TRIAL. OBLIGORS AND LENDER HEREBY WAIVE THEIR RESPECTIVE
+RIGHTS TO A JURY TRIAL OF ANY CLAIM OR CAUSE OF ACTION BASED UPON OR ARISING OUT
+OF THIS AGREEMENT OR ANY OF THE
+
+
+                                       20
+<PAGE>
+TRANSACTIONS CONTEMPLATED HEREIN, INCLUDING CONTRACT CLAIMS, TORT CLAIMS, BREACH
+OF DUTY CLAIMS, AND ALL OTHER COMMON LAW OR STATUTORY CLAIMS. OBLIGORS AND
+LENDER REPRESENT THAT EACH HAS REVIEWED THIS WAIVER AND EACH KNOWINGLY AND
+VOLUNTARILY WAIVES ITS JURY TRIAL RIGHTS FOLLOWING CONSULTATION WITH LEGAL
+COUNSEL. IN THE EVENT OF LITIGATION, A COPY OF THIS AGREEMENT MAY BE FILED AS A
+WRITTEN CONSENT TO A TRIAL BY THE COURT.
+
+14. ASSIGNMENTS AND SUCCESSORS.
+
+         This Agreement shall bind and inure to the benefit of the respective
+successors and assigns of each of the parties; provided, however, that Obligors
+may not assign this Agreement or any rights or duties hereunder without the
+Lender's prior written consent and any prohibited assignment shall be absolutely
+void ab initio. No consent to assignment by the Lender shall release any Obligor
+from its Obligations. Lender may assign this Agreement and the other Loan
+Documents and its rights and duties hereunder and thereunder in accordance with
+the Purchase Agreement and, except as expressly required pursuant to the
+Purchase Agreement, no consent or approval by any Obligor is required in
+connection with any such assignment.
+
+15. AMENDMENTS; WAIVERS.
+
+15.1. Amendments and Waivers. No amendment or waiver of any provision of this
+Agreement, and no consent with respect to any departure by Obligors therefrom,
+shall be effective unless the same shall be in writing and signed by Lender and
+Parent (on behalf of all Obligors) and then any such waiver or consent shall be
+effective only in the specific instance and for the specific purpose for which
+given.
+
+15.2. No Waivers; Cumulative Remedies. No failure by Lender to exercise any
+right, remedy, or option under this Agreement, or delay by Lender in exercising
+the same, will operate as a waiver thereof. No waiver by Lender will be
+effective unless it is in writing, and then only to the extent specifically
+stated. No waiver by Lender on any occasion shall affect or diminish Lender's
+rights thereafter to require strict performance by Obligors of any provision of
+this Agreement. Lender's rights under this Agreement will be cumulative and not
+exclusive of any other right or remedy that Lender may have.
+
+16. GENERAL PROVISIONS.
+
+16.1. Effectiveness. This Agreement shall be binding and deemed effective when
+executed by Obligors and Lender whose signature is provided for on the signature
+pages hereof.
+
+16.2. Section Headings. Headings and numbers have been set forth herein for
+convenience only. Unless the contrary is compelled by the context, everything
+contained in each Section applies equally to this entire Agreement.
+
+16.3. Interpretation. Neither this Agreement nor any uncertainty or ambiguity
+herein shall be construed or resolved against Lender or Obligors, whether under
+any rule of construction or otherwise. On the contrary, this Agreement has been
+reviewed by all parties and shall be
+
+
+                                       21
+<PAGE>
+construed and interpreted according to the ordinary meaning of the words used so
+as to accomplish fairly the purposes and intentions of all parties hereto.
+
+16.4. Severability of Provisions. Each provision of this Agreement shall be
+severable from every other provision of this Agreement for the purpose of
+determining the legal enforceability of any specific provision.
+
+16.5. Amendments in Writing. This Agreement only can be amended by a writing in
+accordance with Section 15.1.
+
+16.6. Counterparts; Telefacsimile Execution. This Agreement may be executed in
+any number of counterparts and by different parties on separate counterparts,
+each of which, when executed and delivered, shall be deemed to be an original,
+and all of which, when taken together, shall constitute but one and the same
+Agreement. Delivery of an executed counterpart of this Agreement by
+telefacsimile shall be equally as effective as delivery of an original executed
+counterpart of this Agreement. Any party delivering an executed counterpart of
+this Agreement by telefacsimile also shall deliver an original executed
+counterpart of this Agreement but the failure to deliver an original executed
+counterpart shall not affect the validity, enforceability, and binding effect of
+this Agreement. The foregoing shall apply to each other Loan Document mutatis
+mutandis.
+
+16.7. Revival and Reinstatement of Obligations. If the incurrence or payment of
+the Obligations by any Obligor or the transfer to Lender of any property should
+for any reason subsequently be declared to be void or voidable under any state
+or federal law relating to creditors' rights, including provisions of the
+Bankruptcy Code relating to fraudulent conveyances, preferences, or other
+voidable or recoverable payments of money or transfers of property
+(collectively, a "Voidable Transfer"), and if Lender is required to repay or
+restore, in whole or in part, any such Voidable Transfer, or elects to do so
+upon the reasonable advice of its counsel, then, as to any such Voidable
+Transfer, or the amount thereof that Lender is required or elects to repay or
+restore, and as to all reasonable costs, expenses, and attorneys fees of Lender
+related thereto, the liability of Obligors automatically shall be revived,
+reinstated, and restored and shall exist as though such Voidable Transfer had
+never been made.
+
+16.8. Integration. This Agreement, together with the other Loan Documents,
+reflects the entire understanding of the parties with respect to the
+transactions contemplated hereby and shall not be contradicted or qualified by
+any other agreement, oral or written, before the date hereof.
+
+16.9. Parent as Agent for Obligors. Each Obligor hereby irrevocably appoints
+Parent as the borrowing agent and attorney-in-fact for all Obligors which
+appointment shall remain in full force and effect unless and until prior written
+notice signed by each Obligor that such appointment has been revoked and that
+another Obligor has been appointed Parent.
+
+                           [Signature page to follow.]
+
+
+                                       22
+<PAGE>
+         IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be
+executed and delivered as of the date first above written.
+
+                                      MERCURY AIR GROUP, INC.,
+
+                                      By:
+                                         --------------------------------------
+                                      Name:
+                                      Title:
+
+
+
+
+                                      J.H. WHITNEY MEZZANINE FUND, L.P.
+                                      By: Whitney GP, L.L.C.
+                                      By:
+                                         --------------------------------------
+                                      Name:
+                                      Title: A Managing Member
+
+
+                                       23
+<PAGE>
+                                   GUARANTORS:
+
+MERCFUEL, INC.
+
+By:
+   -------------------------------------
+Name:
+Title:
+
+MAYTAG AIRCRAFT CORPORATION
+
+By:
+   -------------------------------------
+Name:
+     -----------------------------------
+Title:
+      ----------------------------------
+
+MERCURY AIR CARGO, INC.
+
+By:
+   -------------------------------------
+Name:
+     -----------------------------------
+Title:
+      ----------------------------------
+
+AEG FINANCE CORPORATION
+
+By:
+   -------------------------------------
+Name:
+     -----------------------------------
+Title:
+      ----------------------------------
+
+MERCURY AIR CENTERS, INC.
+
+(F/K/A WOFFORD FLYING SERVICES, INC.)
+
+By:
+   -------------------------------------
+Name:
+     -----------------------------------
+Title:
+      ----------------------------------
+
+HERMES AVIATION, INC.
+
+By:
+   -------------------------------------
+Name:
+     -----------------------------------
+Title:
+      ----------------------------------
+
+VULCAN AVIATION, INC.
+
+By:
+   -------------------------------------
+Name:
+     -----------------------------------
+Title:
+      ----------------------------------
+
+
+                                       24
+<PAGE>
+RPA AIRLINE AUTOMATION SERVICES, INC.
+
+(F/K/A RENE PEREZ AND ASSOCIATES, INC.)
+
+By:
+   -------------------------------------
+Name:
+     -----------------------------------
+Title:
+      ----------------------------------
+
+MERCURY ACCEPTANCE CORPORATION
+
+By:
+   -------------------------------------
+Name:
+     -----------------------------------
+Title:
+      ----------------------------------
+
+EXCEL CARGO, INC.
+
+By:
+   -------------------------------------
+Name:
+     -----------------------------------
+Title:
+      ----------------------------------
+
+MERCURY AIR CENTER-BIRMINGHAM, LLC
+
+By:
+   -------------------------------------
+Name:
+     -----------------------------------
+Title:
+      ----------------------------------
+
+MERCURY AIR CENTER-BAKERSFIELD, INC.
+
+By:
+   -------------------------------------
+Name:
+     -----------------------------------
+Title:
+      ----------------------------------
+
+MERCURY AIR CENTER-BURBANK, INC.
+
+By:
+   -------------------------------------
+Name:
+     -----------------------------------
+Title:
+      ----------------------------------
+
+MERCURY AIR CENTER-FRESNO, INC.
+
+By:
+   -------------------------------------
+Name:
+     -----------------------------------
+Title:
+      ----------------------------------
+
+
+                                       25
+<PAGE>
+MERCURY AIR CENTER-LOS ANGELES, INC.
+
+By:
+   -------------------------------------
+Name:
+     -----------------------------------
+Title:
+      ----------------------------------
+
+MERCURY AIR CENTER-ONTARIO, INC.
+
+By:
+   -------------------------------------
+Name:
+     -----------------------------------
+Title:
+      ----------------------------------
+
+MERCURY AIR CENTER-SANTA BARBARA
+
+By:
+   -------------------------------------
+Name:
+     -----------------------------------
+Title:
+      ----------------------------------
+
+MERCURY AIR CENTER-HARTSFIELD, LLC
+
+By:
+   -------------------------------------
+Name:
+     -----------------------------------
+Title:
+      ----------------------------------
+
+MERCURY AIR CENTER-PEACHTREE-DEKALB, LLC
+
+By:
+   -------------------------------------
+Name:
+     -----------------------------------
+Title:
+      ----------------------------------
+
+MERCURY AIR CENTER- FT. WAYNE, LLC
+
+By:
+   -------------------------------------
+Name:
+     -----------------------------------
+Title:
+      ----------------------------------
+
+MERCURY AIR CENTER-JACKSON, L.L.C.
+
+By:
+   -------------------------------------
+Name:
+     -----------------------------------
+Title:
+      ----------------------------------
+
+
+                                       26
+<PAGE>
+MERCURY AIR CENTER-RENO, LLC
+
+By:
+   -------------------------------------
+Name:
+     -----------------------------------
+Title:
+      ----------------------------------
+
+MERCURY AIR CENTER-TULSA, LLC
+
+By:
+   -------------------------------------
+Name:
+     -----------------------------------
+Title:
+      ----------------------------------
+
+MERCURY AIR CENTER-CHARLESTON, LLC
+
+By:
+   -------------------------------------
+Name:
+     -----------------------------------
+Title:
+      ----------------------------------
+
+MERCURY AIR CENTER-JOHNS ISLAND, LLC
+
+By:
+   -------------------------------------
+Name:
+     -----------------------------------
+Title:
+      ----------------------------------
+
+MERCURY AIR CENTER-NASHVILLE, LLC
+
+By:
+   -------------------------------------
+Name:
+     -----------------------------------
+Title:
+      ----------------------------------
+
+MERCURY AIR CENTER-ADDISON, INC.
+
+By:
+   -------------------------------------
+Name:
+     -----------------------------------
+Title:
+      ----------------------------------
+
+MERCURY AIR CENTER - CORPUS CHRISTI, INC.
+
+By:
+   -------------------------------------
+Name:
+     -----------------------------------
+Title:
+      ----------------------------------
+
+
+                                       27
+
+
+
+</TEXT>
+</DOCUMENT>

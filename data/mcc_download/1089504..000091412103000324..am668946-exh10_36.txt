@@ -1,0 +1,2386 @@
+<DOCUMENT>
+<TYPE>EX-10.36
+<SEQUENCE>10
+<FILENAME>am668946-exh10_36.txt
+<DESCRIPTION>CUSTODIAL AND DISBURSEMENT AGREEMENT
+<TEXT>
+                                                                   EXHIBIT 10.36
+
+
+===============================================================================
+
+
+                      CUSTODIAL AND DISBURSEMENT AGREEMENT
+
+
+
+
+                                      AMONG
+
+
+
+
+                      CDC MORTGAGE CAPITAL INC., AS BUYER,
+
+
+
+
+                    AMERICAN HOME MORTGAGE CORP., AS SELLER,
+
+
+
+
+               DEUTSCHE BANK NATIONAL TRUST COMPANY, AS CUSTODIAN,
+
+
+
+
+                                       AND
+
+
+
+
+           DEUTSCHE BANK NATIONAL TRUST COMPANY, AS DISBURSEMENT AGENT
+
+
+
+
+
+
+
+                           Dated as of April 17, 2002
+
+
+===============================================================================
+
+
+<PAGE>
+
+
+                                TABLE OF CONTENTS
+
+                                                                           Page
+
+
+Section 1.  Definitions......................................................1
+
+Section 2.  Delivery of Mortgage File........................................8
+
+Section 3.  Asset Schedule and Exception Report; Trust Receipt..............11
+
+Section 4.  Obligations of Custodian........................................14
+
+Section 5.  Release of Mortgage Files.......................................15
+
+Section 6.  Fees and Expenses of Custodian..................................18
+
+Section 7.  Removal or Resignation of Custodian and Disbursement Agent......18
+
+Section 8.  Examination of Files, Books and Records.........................19
+
+Section 9.  Insurance.......................................................19
+
+Section 10. Representations and Warranties..................................20
+
+Section 11. Disbursement Agent Duties.......................................21
+
+Section 12. No Adverse Interest.............................................30
+
+Section 13. Indemnification.................................................30
+
+Section 14. Reliance of Custodian...........................................31
+
+Section 15. Term of Agreement...............................................32
+
+Section 16. Notices.........................................................32
+
+Section 17. Governing Law...................................................33
+
+Section 18. Authorized Representatives......................................33
+
+Section 19. Amendment.......................................................33
+
+Section 20. Cumulative Rights...............................................33
+
+Section 21. Assignment; Binding Upon Successors.............................33
+
+Section 22. Entire Agreement; Severability..................................34
+
+
+                                      -i-
+
+
+<PAGE>
+
+
+Section 23. Execution in Counterparts.......................................34
+
+Section 24. Tax Reports.....................................................34
+
+Section 25. Assignment by Buyer.............................................34
+
+Section 26. Submission to Jurisdiction; Waivers.............................34
+
+Section 27. Confidentiality.................................................35
+
+
+                                      -ii-
+
+
+<PAGE>
+
+
+Annex 1     Seller Asset Schedule Delivery Information
+Annex 2     Trust Receipt
+Annex 3     Custodial Identification Certificate
+Annex 4     Review Procedures
+Annex 5-A   Request For Release And Receipt
+Annex 5-B   Form of Request For Release of Documents And Receipt
+Annex 5-C   Request For Release
+Annex 6     Authorized Representatives of Buyer
+Annex 7     Authorized Representatives of Seller
+Annex 8     Authorized Representatives of Custodian
+Annex 9     Authorized Representatives of Disbursement Agent
+Annex 10    Form of Escrow Instruction Letter
+Annex 11    Exception Codes
+Annex 12    Transmittal & Bailment Letter
+Annex 13    Transmittal & Bailment Letter
+Annex 14    Fannie Mae Master Bailee Letter
+Annex 15-A  Fannie Mae Document List
+Annex 15-B  Freddie Mac Document List
+Annex 16    Form of Lost Note Affidavit/Assignment of Mortgage
+Annex 17    Form of Settlement Report
+Annex 18-A  Form of Seller's Release
+Annex 18-B  Form of Warehouse Lender's Release
+Annex 19    Form of Payment Date Report
+
+
+                                      -i-
+
+
+<PAGE>
+
+
+            CUSTODIAL AND DISBURSEMENT AGREEMENT ("Agreement") dated as of April
+17, 2002 made by and among:
+
+      (i)   AMERICAN HOME MORTGAGE CORP., a New York corporation (including its
+            successors in interest, "Seller");
+
+      (ii)  DEUTSCHE BANK NATIONAL TRUST COMPANY, as custodian for Buyer
+            pursuant to this Agreement (in such capacity, including its
+            successors in interest and any successor Custodian as permitted
+            hereunder, "Custodian");
+
+      (iii) DEUTSCHE BANK NATIONAL TRUST COMPANY, as disbursement agent for
+            Buyer pursuant to this Agreement (in such capacity, including its
+            successors in interest and any successor Disbursement Agent as
+            permitted hereunder, "Disbursement Agent"); and
+
+      (iv)  CDC MORTGAGE CAPITAL INC., a New York corporation (including its
+            successors in interest, "Buyer").
+
+                                    RECITALS
+
+            Seller and Buyer are parties to the Master Repurchase Agreement,
+dated as of the date hereof (as amended, supplemented or otherwise modified and
+in effect from time to time, the "Repurchase Agreement"), pursuant to which
+Seller and Buyer have agreed, subject to the terms and conditions of the
+Repurchase Agreement, to enter into transactions (each, a "Transaction") in
+which Buyer has agreed to purchase from time to time from Seller certain
+Mortgage Loans and Buyer has agreed to consider the purchase, from time to time
+of certain additional Mortgage Loans, in each case with a simultaneous agreement
+by Seller to repurchase such Mortgage Loans.
+
+            It is a condition precedent to the effectiveness of the Repurchase
+Agreement that the parties hereto execute and deliver this Agreement to provide
+for the appointment of Custodian as custodian and Disbursement Agent as
+disbursement agent hereunder. Accordingly, the parties hereto agree as follows:
+
+            Section 1.  Definitions.
+                        -----------
+
+            Unless otherwise defined herein, capitalized terms used herein and
+defined in the Repurchase Agreement shall have the respective meanings given
+them in the Repurchase Agreement, and the following terms shall have the
+following meanings:
+
+            "Additional Seller Funded Amount" for any Check Presentation Date
+shall be an amount equal to the difference between the Total Required Funds and
+sum of (a) the aggregate Buyer Funded Amount on such Check Presentation Date
+plus (b) the Seller Funded Wire Amount for such Check Presentation Date.
+
+            "Affiliate" shall mean with respect to any Person, any "affiliate"
+of such Person as such term is defined in the Bankruptcy Code.
+
+
+<PAGE>
+
+
+            "Agency" shall mean Freddie Mac or Fannie Mae, as applicable.
+
+            "Applicable Agency Documents": The documents listed on Annex 15-A or
+Annex 15-B, as applicable.
+
+            "Applicable Guide" shall mean with respect to Fannie Mae or Freddie
+Mac, the applicable guide published by either Fannie Mae or Freddie Mac setting
+forth the requirements each Mortgage Loan needs to satisfy in order to be
+eligible for purchase by Fannie Mae or Freddie Mac, as such guide may be amended
+or supplemented from time to time or any other set of criteria established by
+Fannie Mae or Freddie Mac that a Mortgage Loan must satisfy in order to be
+eligible for purchase by Fannie Mae or Freddie Mac.
+
+            "Asset Schedule and Exception Report" shall mean a list of Eligible
+Assets delivered by Custodian to Buyer on each Business Day, reflecting the
+Mortgage Loans held by Custodian for the benefit of Buyer (other than Mortgage
+Loans with Fatal Exceptions), which includes the exception codes set forth on
+Annex 11 hereto indicating any Exceptions with respect to each Eligible Asset
+listed thereon. Each Asset Schedule and Exception Report shall set forth (a) the
+Mortgage Loans being sold to Buyer on any applicable Purchase Date as well as
+the Mortgage Loans previously sold to Buyer and held by Custodian hereunder, and
+(b) all Exceptions with respect thereto, with any updates thereto from the time
+last delivered.
+
+            "Authorized Representative" shall have the meaning specified in
+Section 18.
+
+            "Bailee Letter": A Fannie Mae Bailee Letter or a Freddie Mac Bailee
+Letter, as applicable.
+
+            "Bankruptcy Code" shall mean the United States Bankruptcy Code of
+1978, as amended from time to time.
+
+            "Business Day" shall mean any day other than (i) a Saturday or
+Sunday or (ii) a day on which banking institutions in the state of New York or
+any of Custodian, Disbursement Agent, Seller or Buyer is authorized or obligated
+by law or executive order to be closed.
+
+            "Buyer" shall have the meaning specified in the preamble to this
+Agreement.
+
+            "Buyer Funded Amount" shall mean with respect to each Check Funded
+Loan, an amount equal to the Purchase Price for such Mortgage Loan; provided
+there are no Fatal Exceptions and shall mean zero with respect to each such
+Mortgage Loan for which there is a Fatal Exception.
+
+            "Check Disbursement Account" shall have the meaning specified in the
+Check Disbursement Agreement.
+
+            "Check Disbursement Agreement" shall mean the Letter Agreement,
+dated as of the date hereof, among Seller, Buyer, Disbursement Agent, Deutsche
+Bank Trust Company Delaware and Check Disbursement Bank, as may be amended from
+time to time.
+
+
+                                      -2-
+
+
+<PAGE>
+
+
+            "Check Disbursement Bank" shall mean Deutsche Bank Trust Company
+Americas, and its successors in interest.
+
+            "Check Funded Loan" shall mean a Wet-Ink Mortgage Loan which Seller
+intends to fund at origination by means of delivering a check written on the
+Check Disbursement Account maintained by Seller at Deutsche Bank National Trust
+Company, which check is not a certified check.
+
+            "Check Funding Schedule" shall mean a schedule delivered by Seller
+to Buyer, Disbursement Agent and Check Disbursement Bank with respect to Check
+Funded Loans which sets forth the following information with respect to each
+check used to fund origination of such Check Funded Loan: (i) the Loan ID; (ii)
+the outstanding principal balance of such Check Funded Loan; (iii) the check
+number; (iv) the check payee; (v) the check amount; and (vi) the issue date of
+such check.
+
+            "Check Funding Exception" shall mean any of the following:
+
+
+               EXCEPTION                               DESCRIPTION
+               ---------                               -----------
+
+Above Max Dollar                        A single check is for an amount in
+                                        excess of $500,000
+
+Canceled Item                           Check has previously been cancelled
+
+Duplicate Paid                          Duplicate check already funded
+
+Paid Disagrees with Issue               Dollar amount on check is different then
+                                        identified in Check Funding Schedule
+
+Paid Without Issue                      Check not identified on a Check Funding
+                                        Schedule
+
+Stale Date                              Check was issued more than 30 days prior
+                                        to presentment
+
+Stop Suspects                           Any check with the same dollar amount as
+                                        a cancelled check
+
+            "Check Presentation Date" shall mean the Business Day a check is
+presented for payment against the Check Disbursement Account.
+
+            "Check Reconciliation Date" shall have the meaning specified in the
+Check Disbursement Agreement.
+
+            "Check Presentment Report" shall have the meaning specified in the
+Check Disbursement Agreement.
+
+            "Confirmation" shall have the meaning specified in the Repurchase
+Agreement.
+
+
+                                      -3-
+
+
+<PAGE>
+
+
+            "Co-op" shall mean a private, cooperative housing corporation,
+having only one class of stock outstanding, which owns or leases land and all or
+part of a building or buildings, including apartments, spaces used for
+commercial purposes and common areas therein and whose board of directors
+authorizes the sale of stock and the issuance of a Co-op Lease.
+
+            "Co-op Lease" shall mean with respect to a Co-op Loan, the lease
+with respect to a dwelling unit occupied by the Mortgagor and relating to the
+stock allocated to the related dwelling unit.
+
+            "Co-op Loan" shall mean an Eligible Asset that is a Conforming
+Mortgage Loan secured by the pledge of stock allocated to a dwelling unit in a
+Co-op and a collateral assignment of the related Co-op Lease.
+
+            "Co-op Security Agreement" shall mean the agreement creating a
+security interest in the stock allocated to a dwelling unit in the residential
+cooperative housing corporation that was pledged to secure such Co-op Loan and
+the related Co-op Lease.
+
+            "Custodial Delivery Failure" shall have the meaning specified in
+Section 13(b).
+
+            "Custodial Identification Certificate" shall mean the certificate
+executed by Seller in connection with the delivery of one or more Mortgage Files
+to be held by Custodian pursuant to this Agreement, a form of which is attached
+as Annex 3 hereto.
+
+            "Custodian" shall have the meaning specified in the preamble to this
+Agreement.
+
+            "DDA Account" shall have the meaning specified in the Check
+Disbursement Agreement.
+
+            "Disbursement Account" shall have the meaning specified in Section
+11(a)(i).
+
+            "Disbursement Agent" shall have the meaning specified in the
+preamble to this Agreement.
+
+            "Edit Check" shall mean a review conducted by the Disbursement Agent
+in accordance with the Edit Check Procedures.
+
+            "Edit Check Agreement" shall mean the separate letter agreement, if
+any, between Disbursement Agent and Buyer setting forth the Edit Check
+Procedures, as may be amended from time to time.
+
+            "Edit Check Procedures" shall mean, if an Edit Check Agreement has
+been entered into, those certain edit check procedures set forth in the Edit
+Check Agreement, and if no Edit Check Agreement has been entered into, none.
+
+            "Electronic Transmission" shall mean the delivery of information in
+an electronic format acceptable to the applicable recipient thereof. An
+Electronic Transmission shall be considered written notice for all purposes
+hereof (except when a request or notice by its terms requires execution).
+
+
+                                      -4-
+
+
+<PAGE>
+
+
+            "Escrow Instruction Letter" shall mean the Escrow Instruction Letter
+from Seller to the Settlement Agent, in the form of Annex 10 hereto as the same
+may be modified, supplemented and in effect from to time.
+
+            "Exception" shall mean, with respect to any Mortgage Loan, any
+variances from the delivery requirements of Section 2 hereof that are not Fatal
+Exceptions with respect to the Mortgage Files (giving effect to Seller's right
+to deliver certified copies in lieu of original documents in certain
+circumstances) and indicating such exceptions using the codes set forth on Annex
+11 hereto.
+
+            "Fannie Mae" shall mean the Federal National Mortgage Association,
+and its successors in interest.
+
+            "Fannie Mae Bailee Letter": The master bailee letter, in the form of
+Annex 14, for use by Custodian in connection with the delivery to Fannie Mae of
+a Mortgage File excluding (i) the Assignment of Mortgage, in blank, (ii) the
+Warehouse Lender's Release, if applicable and (iii) all modification agreements
+relating to a Mortgage.
+
+            "Fatal Document Exception" shall mean, with respect to any Mortgage
+Loan, (i) any variance from the requirements of Section 2(a)(i)(A), (B), (D),
+(F) or (J) or Section 2(a)(ii)(A), (B), (C), (D), (E), (F), (H) or (I) (hereof
+with respect to the Mortgage Files (giving effect to Seller's right to deliver
+certified copies in lieu of original documents in certain circumstances); (ii)
+that the documents in the Mortgage Files referred to in the preceding clause (i)
+have been reviewed by Custodian in accordance with the Review Procedures (other
+than the Review Procedures set forth in 8, 9 and 10 thereof) and do not appear
+on their face to be regular or to relate to such Mortgage Loan, (iii) any
+exception indicated as a Fatal Exception on Annex 11 hereto, (iv) any exception
+with respect to the delivery requirements specified in Section 5(c)(iii) hereof
+with respect to a Mortgage Loan to be sold to an Agency, or (v) any Mortgage
+Loan with respect to which Custodian receives written notice or has actual
+knowledge of a lien subject or security interest in favor of a Person other than
+Buyer with respect to such Mortgage Loan.
+
+            "Fatal Document Exception Report" shall mean a report delivered by
+Custodian to Seller and Buyer setting forth all Mortgage Loans with Fatal
+Document Exceptions.
+
+            "Fatal Exception" shall mean a Fatal Document Exception or a Fatal
+Information Exception.
+
+            "Fatal Exception Report" shall mean a report delivered by
+Disbursement Agent to Seller and Buyer setting forth all Mortgage Loans with
+Fatal Exceptions.
+
+            "Fatal Information Exception" shall mean, with respect to any
+Mortgage Loan, (i) that any of the information required pursuant to all fields
+set forth on Annex 1 hereto is not set forth with respect to such Mortgage Loan
+in the related Seller Asset Schedule delivered to Disbursement Agent with the
+Transaction Request, (ii) a Mortgage Loan that fails the Edit Check Procedure or
+(iii) the related Transaction Request sets forth a Purchase Price, Pricing Rate
+or Asset Value that is not identical to the Purchase Price, Pricing Rate or
+Asset Value calculated by Disbursement Agent.
+
+
+                                      -5-
+
+
+<PAGE>
+
+
+            "Freddie Mac" shall mean the Federal Home Loan Mortgage Corporation,
+and its successors in interest.
+
+            "Freddie Mac Bailee Letter": The master bailee letter for use by
+Custodian in connection with the delivery to Freddie Mac of a Mortgage File
+excluding (i) the Assignment of Mortgage, in blank, (ii) the Warehouse Lender's
+Release, if applicable, and (iii) all modification agreements relating to a
+Mortgage.
+
+            "Governmental Authority" shall mean, with respect to any Person, any
+nation or government, any state or other political subdivision thereof, any
+entity exercising executive, legislative, judicial, regulatory or administrative
+functions of or pertaining to government and any court or arbitrator having
+jurisdiction over such Person, any of its subsidiaries or any of their
+properties.
+
+            "Mortgage File" shall mean, as to each Mortgage Loan, those
+documents listed in Sections 2 that are delivered to Custodian or which at any
+time come into the possession of Custodian.
+
+            "Mortgage Loan Documents" shall mean, with respect to a Mortgage
+Loan, the documents comprising the Mortgage File for such Mortgage Loan.
+
+            "Official Check Account" shall have the meaning specified in the
+Check Disbursement Agreement.
+
+            "Person" shall mean any individual, corporation, company, voluntary
+association, partnership, joint venture, limited liability company, trust,
+unincorporated association or government (or any agency, instrumentality or
+political subdivision thereof).
+
+            "Release Limit" shall have the meaning specified in Section 5(a).
+
+            "Repurchase Agreement" shall have the meaning specified in the
+Recitals.
+
+            "Request for Release" shall mean a request of Seller in the form of
+Annex 5-A, 5-B, or 5-C, hereto.
+
+            "Required Delivery Item" shall have the meaning specified in Section
+3(a).
+
+            "Required Delivery Time" shall have the meaning specified in Section
+3(a).
+
+            "Required Party" shall have the meaning specified in Section 3(a).
+
+            "Review Procedures" shall have the meaning specified in Section
+3(c).
+
+            "Seller Asset Schedule" shall mean a list of Eligible Assets
+delivered by Seller to Buyer pursuant to Section 3(c) of the Repurchase
+Agreement, and provided in electronic format, setting forth, as to each Eligible
+Asset, the applicable information specified on Annex 1 to this Agreement.
+
+
+                                      -6-
+
+
+<PAGE>
+
+
+            "Seller Funded Wire Amount" shall have the meaning specified in
+Section 11(a)(ii).
+
+            "Seller's Release" shall mean a letter, in the form of Annex 18-A,
+delivered by Seller when no Warehouse Lender has an interest in a Mortgage Loan,
+unconditionally releasing all of Seller's right, title and interest in such
+Mortgage Loan upon receipt of the Purchase Price by Seller.
+
+            "Seller's Wire Instructions" shall mean the wire instructions, set
+forth in a letter in the form of Exhibit A to Seller's Release, to be used for
+the payment of funds to Seller when no Warehouse Lender has an interest in the
+Mortgage Loans to which such payment relates.
+
+            "Settlement Account" shall have the meaning specified in the Check
+Disbursement Agreement.
+
+            "Settlement Report" shall have the meaning specified in Section
+11(f).
+
+            "Transaction Account" shall mean any of the Disbursement Account,
+the Settlement Account or the Wire-out Account.
+
+            "Total Required Funds" shall have the meaning specified in Section
+11(c)(i)(G).
+
+            "Trust Receipt" shall mean a trust receipt in the form annexed
+hereto as Annex 2 delivered to Buyer by Custodian covering all of the Mortgage
+Loans subject to this Agreement from time to time, as reflected on the Asset
+Schedule and Exception Report attached thereto in accordance with Section 3(e).
+
+            "Warehouse Lender" shall mean any lender providing financing to
+Seller for the purpose of warehousing, originating or purchasing Mortgage Loans,
+which lender has a security interest in such Mortgage Loans to be purchased by
+Buyer.
+
+            "Warehouse Lender's Release" shall mean a letter, in the form of
+Annex 18-B, from a Warehouse Lender to Buyer, unconditionally releasing all of
+Warehouse Lender's right, title and interest in certain Mortgage Loans
+identified therein upon receipt of payment by the Warehouse Lender.
+
+            "Warehouse Lender's Wire Instructions" shall mean the wire
+instructions, set forth in a letter in the form of Exhibit A to the Warehouse
+Lender's Release, from a Warehouse Lender to Buyer, setting forth wire
+instructions for all amounts due and payable to such Warehouse Lender.
+
+            "Wire Amount" shall mean the amount to be wired to the Warehouse
+Lender or Seller in accordance with the Warehouse Lender's Release or Seller's
+Release, as applicable, for any Mortgage Loan which is not a Wet-Ink Mortgage
+Loan and shall mean the amount to be wired to (i) the Settlement Agent pursuant
+to the Escrow Instruction Letter in the case of a Wet-Ink Mortgage Loan which is
+not a Check Funded Loan or (ii) the DDA Account in the case of a Check Funded
+Loan.
+
+
+                                      -7-
+
+
+<PAGE>
+
+
+            "Wire-out Account" shall have the meaning specified in Section
+11(a)(ii).
+
+            Section 2.  Delivery of Mortgage File.
+                        -------------------------
+
+            Seller shall release to Custodian the following original documents
+pertaining to each Eligible Asset in accordance with the required delivery times
+set forth in Section 3(a), each of which Mortgage Loans shall be identified in
+the related Seller Asset Schedule:
+
+            (a) With respect to each Eligible Asset:
+
+            (i) (other than a Wet-Ink Mortgage Loan or a Co-op Loan):
+
+                  (A) The original Mortgage Note bearing all intervening
+            endorsements, endorsed "Pay to the order of _________ without
+            recourse" and signed in the name of the last endorsee (the "Last
+            Endorsee") by an authorized Person (in the event that the Eligible
+            Asset was acquired by the Last Endorsee in a merger, the signature
+            must be in the following form: "[Last Endorsee], successor by merger
+            to [name of predecessor]"; in the event that the Eligible Asset was
+            acquired or originated by the Last Endorsee while doing business
+            under another name, the signature must be in the following form:
+            "[Last Endorsee], formerly known as [previous name]");
+
+                  (B) The original Mortgage with evidence of recording thereon,
+            or a copy thereof certified by Seller, the title company, the
+            Settlement Agent or the closing attorney to be a true and correct
+            copy of the original that has been duly delivered to the appropriate
+            recording office;
+
+                  (C) The originals of all assumption, modification,
+            consolidation or extension agreements, if any, with evidence of
+            recording thereon, or a copy thereof certified by Seller, the title
+            company, the Settlement Agent or the closing attorney to be a true
+            and correct copy of the original that has been duly delivered to the
+            appropriate recording office;
+
+                  (D) The original Assignment of Mortgage in blank for each
+            Eligible Asset, in form and substance acceptable for recording and
+            signed in the name of the Last Endorsee (in the event that the
+            Eligible Asset was acquired by the Last Endorsee in a merger, the
+            signature must be in the following form: "[Last Endorsee], successor
+            by merger to [name of predecessor]"; in the event that the Eligible
+            Asset was acquired or originated while doing business under another
+            name, the signature must be in the following form: "[Last Endorsee],
+            formerly known as [previous name]");
+
+                  (E) The originals of all intervening assignments of mortgage,
+            if any, with evidence of recording thereon, showing an unbroken
+            chain of title from the originator thereof to the Last Endorsee or a
+            copy thereof certified by Seller, the title company, the Settlement
+            Agent or the closing attorney to be a true and correct copy of the
+            original that has been duly delivered to the appropriate recording
+            office;
+
+
+                                      -8-
+
+
+<PAGE>
+
+
+                  (F) The original attorney's opinion of title and abstract of
+            title or the original mortgagee title insurance policy, or if the
+            original mortgagee title insurance policy has not been issued, the
+            irrevocable commitment to issue the same;
+
+                  (G) The original of any security agreement, chattel mortgage
+            or equivalent document executed in connection with the Eligible
+            Asset;
+
+                  (H) If any of the above documents has been executed by a
+            person holding a power of attorney, an original or photocopy of such
+            power certified by Seller to be a true and correct copy of the
+            original;
+
+                  (I) Either a Seller's Release or a Warehouse Lender's Release;
+            and
+
+                  (J) an original release letter for each Eligible Asset which
+            has been the subject of a prior interest of which an Authorized
+            Representative of Custodian has actual knowledge;
+
+provided, however, that as to the documents listed in clauses (B), (C) and (E)
+above which have been delivered or are being delivered to recording offices for
+recording and have not been returned to Seller in time to permit their delivery
+hereunder at the time of such transfer, and in lieu of delivering such original
+documents or conformed copies where permitted, Seller has delivered to Custodian
+a true copy thereof, Seller shall deliver such original documents, together with
+any related policy of title insurance not previously delivered, on behalf of
+Seller to Custodian promptly after they are received.
+
+            (ii) With respect to each Co-op Loan:
+
+                  (A) The original Mortgage Note bearing all intervening
+            endorsements, endorsed "Pay to the order of _________ without
+            recourse" and signed in the name of the last endorsee (the "Last
+            Endorsee") by an authorized Person (in the event that the Eligible
+            Asset was acquired by the Last Endorsee in a merger, the signature
+            must be in the following form: "[Last Endorsee], successor by merger
+            to [name of predecessor]"; in the event that the Eligible Asset was
+            acquired or originated by the Last Endorsee while doing business
+            under another name, the signature must be in the following form:
+            "[Last Endorsee], formerly known as [previous name]");
+
+                  (B) The original Co-op Security Agreement entered into by the
+            Mortgagor with respect to such Co-op Loan;
+
+                  (C) UCC-3 assignment in blank (or equivalent instrument),
+            sufficient under the laws of the jurisdiction where the related
+            Underlying Mortgaged Property is located to reflect of record the
+            sale and assignment of the Mortgage Loan to the Buyer;
+
+
+                                      -9-
+
+
+<PAGE>
+
+
+                  (D) Original assignments of Co-op Security Agreement in blank
+            showing a complete chain of assignment from the originator of the
+            related Co-op Loan to the Seller;
+
+                  (E) Original Form UCC-1 and any continuation statements with
+            evidence of filing thereon with respect to such Co-op Loan;
+
+                  (F) Stock certificate representing the stock allocated to the
+            related dwelling unit in the related residential cooperative housing
+            corporation and pledged by the related Mortgagor to the originator
+            of such Co-op Loan with a stock power in blank attached;
+
+                  (G) Original proprietary lease.
+
+                  (H) Original assignment of proprietary lease, in blank, and
+            all intervening assignments thereof;
+
+                  (I) Original recognition agreement of the interests of the
+            mortgagee with respect to the Co-op Loan by the residential
+            cooperative housing corporation, the stock of which was pledged by
+            the related Mortgagor to the originator of such Co-op Loan; and
+
+                  (J) Originals of any assumption, consolidation or modification
+            agreements relating to any of the items specified in (A) through (F)
+            above with respect to such Co-op Loan.
+
+            (b) Seller shall release to Custodian the following original
+documents pertaining to each Eligible Asset that is a Wet-Ink Mortgage Loan in
+accordance with the required delivery times set forth in Section 3(a) and set
+forth below, each of which Mortgage Loans shall be identified in the related
+Seller Asset Schedule:
+
+            (i) Seller shall cause the Settlement Agent to send Custodian a
+      facsimile of each Escrow Instruction Letter with respect to all Wet-Ink
+      Mortgage Loans to be purchased on each Purchase Date. Custodian shall not
+      be responsible for reviewing such Escrow Instruction Letter, except to the
+      extent requested by Buyer, to verify wire instructions.
+
+            (ii) No later than ten (10) Business Days following the applicable
+      Purchase Date, Seller shall deliver to Custodian the documents listed in
+      Section 2(a).
+
+            (c) With respect to all Mortgage Files:
+
+                  (A) From time to time, Seller shall forward to Custodian
+            additional original documents or additional documents evidencing any
+            assumption, modification, consolidation or extension of a Mortgage
+            Loan approved by Seller, in accordance with the terms of the
+            Repurchase Agreement, and upon receipt of any such other documents,
+            Custodian shall hold such other documents as Buyer shall request
+            from time to time.
+
+
+                                      -10-
+
+
+<PAGE>
+
+
+                  (B) With respect to any documents which have been delivered or
+            are being delivered to recording offices for recording and have not
+            been returned to Seller in time to permit their delivery hereunder
+            at the time required, in lieu of delivering such original documents,
+            Seller shall deliver to Custodian a copy thereof certified by
+            Seller, the title company, the Settlement Agent or the closing
+            attorney to be a true and correct copy of the original that has been
+            duly delivered to the appropriate recording office, with a conformed
+            recorded copy to follow as soon as the same is received by Seller.
+
+            Section 3.  Asset Schedule and Exception Report; Trust Receipt.
+                        --------------------------------------------------
+
+            (a) With respect to each category of Eligible Asset, Seller shall
+provide to the indicated required parties (each, a "Required Party") the
+required delivery items (each, a "Required Delivery Item") set forth in the
+table below by the corresponding required delivery time (the "Required Delivery
+Time"):
+
+
+                                      -11-
+
+
+<PAGE>
+
+<TABLE>
+<CAPTION>
+         ELIGIBLE ASSET                     REQUIRED DELIVERY TIME                REQUIRED DELIVERY ITEMS             REQUIRED PARTY
+         --------------                     ----------------------                -----------------------             --------------
+
+<S>                            <C>                                          <C>                                   <C>
+Mortgage Loans (other than     6:00 p.m. New York time, one (1) Business    A preliminary Transaction Request     Disbursement Agent
+Wet-Ink Mortgage Loans) on     Day prior to the Purchase Date               for the Mortgage Loans requested to   and Buyer
+initial Purchase Date                                                       be purchased on the next Business
+                                                                            Day
+
+                               10:00 a.m. New York time, on the Purchase    The final Transaction Request         Disbursement Agent
+                               Date                                                                               and Buyer
+
+                               6:00 p.m. New York time, one (1) Business    All documents required to be          Custodian
+                               Day prior to the Purchase Date               delivered pursuant to Section 2(a)
+
+                               For delivery of each additional 250
+                               Mortgage Files, one additional Business
+                               Day prior to the Purchase Date
+
+                                                                            Custodial Identification Certificate  Custodian
+
+                                                                            Seller Asset Schedule                 Custodian,
+                                                                                                                  Disbursement Agent
+                                                                                                                  and Buyer
+
+Wet-Ink Mortgage Loans (other  8:00 a.m. New York time on the Purchase      A preliminary Transaction Request     Disbursement Agent
+than Check Funded Loans)       Date                                         for the Wet-Ink Loans requested to    and Buyer
+                                                                            be purchased on such Business Day
+
+                               4:00 p.m. New York time on the Purchase      A final Transaction Request           Custodian,
+                               Date; provided that Seller may deliver up    attaching a Seller Asset Schedule     Disbursement Agent
+                               to three (3) final transaction requests                                            and Buyer
+                               on each Business Day
+                                                                            All documents required to be          Custodian
+                                                                            delivered pursuant to
+                                                                            Section 2(b)(i)
+
+Check Funded Loans             4:00 p.m. New York time on the               a Check Funding Schedule              Disbursement Agent
+                               origination date of such Check                                                     and Buyer
+                               Funded Loan
+
+Check Funded Loans             4:00 p.m. New York time on the               A final Transaction Request for the   Disbursement Agent
+                               origination date of such Check Funded        Check Funded Loans requested to be    and Buyer
+                               Loan                                         purchased, attaching a Seller Asset
+                                                                            Schedule
+</TABLE>
+
+
+                                      -12-
+
+
+<PAGE>
+
+
+            If Custodian has received each applicable Required Delivery Item by
+the Required Delivery Time set forth above, then Custodian will deliver to Buyer
+and Disbursement Agent, by Electronic Transmission, no later than 3:00 p.m. New
+York time (or with respect to each such Wet-Ink Mortgage Loan, no later than 2
+hours after receipt of a final Transaction Request but in no event later than
+5:00 p.m. New York time) on the Purchase Date, an Asset Schedule and Exception
+Report for each Mortgage Loan (other than Mortgage Loans with a Fatal Document
+Exception) sold hereunder on such date, with Exceptions identified by Custodian
+as current as of the date and time of delivery of such Asset Schedule and
+Exception Report.
+
+            Upon receipt of a Transaction Request and the related Seller Asset
+Schedule from Seller, Disbursement Agent shall confirm via Electronic
+Transmission, the receipt of such request with Seller and Buyer. Upon discovery
+by Custodian of a Fatal Document Exception, Custodian shall immediately send to
+Seller, Disbursement Agent and Buyer, by Electronic Transmission, a Fatal
+Document Exception Report listing such Fatal Document Exceptions together with
+an Asset Schedule with respect to each Mortgage Loan that has any Fatal Document
+Exception. Custodian's Electronic Transmission to each of Seller, Disbursement
+Agent and Buyer of a Fatal Document Exception, shall be sent "confirm receipt"
+or by some other means such that Custodian has a reasonable belief that such
+notice has been received by the addressee. In the event Custodian has not
+received all documents required to be delivered pursuant to Section 2(b)(ii)
+with respect to a Wet-Ink Mortgage Loan on or before the tenth (10th) Business
+Day after the related Purchase Date, Custodian shall immediately notify Buyer,
+Seller and Disbursement Agent by Electronic Transmission of such failure.
+
+            (b) Custodian shall deliver to Buyer, no later than 5:00 p.m. New
+York time a Trust Receipt in respect of all Mortgage Loans (including Wet-Ink
+Mortgage Loans) sold to Buyer on such Purchase Date and any prior Purchase Date
+and held hereunder, and shall deliver to each of Buyer and Disbursement Agent an
+Asset Schedule and Exception Report for Mortgage Loans which are not Wet-Ink
+Mortgage Loans and a detailed listing of all Wet-Ink Mortgage Loans. Each Asset
+Schedule and Exception Report and detailed listing of Wet-Ink Mortgage Loans
+delivered by Custodian to Buyer and Disbursement Agent shall supersede and
+cancel the Asset Schedule and Exception Report and detailed listing of Wet-Ink
+Mortgage Loans previously delivered by Custodian to Buyer and Disbursement Agent
+hereunder, and shall replace the then existing Asset Schedule and Exception
+Report and detailed listing of Wet-Ink Mortgage Loans to be attached to the
+Trust Receipt. Custodian shall incorporate into each Asset Schedule and
+Exception Report delivered to Buyer and Disbursement Agent pursuant to this
+Section 3(b) all updated information with respect to the outstanding principal
+balance and interest paid on each Mortgage Loan delivered to Custodian by either
+Disbursement Agent or Buyer. Custodian shall also deliver to Seller, Buyer and
+Disbursement Agent no later than 5:00 p.m. New York time on each Business Day,
+by Electronic Transmission, a daily aging report setting forth such information
+as may be reasonably required by Buyer (the "Daily Aged Report"). Custodian
+shall monitor each Mortgage Loan on a daily basis in order that all information
+set forth on the Daily Aged Report is accurate as of the time such Daily Aged
+Report is delivered. Disbursement Agent shall provide to Custodian all
+information in its possession that Custodian requires in order to complete and
+deliver each Daily Aged Report. In no event shall Custodian list any Mortgage
+Loan on an Asset Schedule and Exception Report if Custodian has not yet reviewed
+the related Mortgage File.
+
+
+                                      -13-
+
+
+<PAGE>
+
+
+            (c) Each Asset Schedule and Exception Report shall list all
+Exceptions using such exception codes as are set forth on Annex 11 hereto, as
+may be amended from time to time. In no event shall Custodian list any Mortgage
+Loan on the Asset Schedule and Exception Report if such Mortgage Loan is
+required to be listed on the Fatal Exception Report and related Asset Schedule;
+provided that, if a Wet-Ink Mortgage Loan has been previously listed on the
+Asset Schedule and Exception Report, it shall remain on the Asset Schedule and
+Exception Report and the Custodian shall indicate any Fatal Document Exception.
+The delivery of each Asset Schedule and Exception Report to Buyer and
+Disbursement Agent shall be Custodian's representation that, other than the
+Exceptions listed as part of the Exception Report: (i) all documents required to
+be delivered in respect of each Mortgage Loan pursuant to Section 2 of this
+Agreement have been delivered and are in the possession of Custodian as part of
+the Mortgage File for such Mortgage Loan, (ii) Custodian is holding each
+Mortgage Loan identified on the Asset Schedule and Exception Report, pursuant to
+this Agreement, as the bailee of and custodian for Buyer and/or its designees
+and (iii) all such documents have been reviewed by Custodian and appear on their
+face to be regular and to relate to such Mortgage Loan and satisfy the
+requirements set forth in Section 2 of this Agreement and the review procedures
+attached hereto as Annex 4 (the "Review Procedures").
+
+            (d) In connection with an Asset Schedule and Exception Report
+delivered hereunder by Custodian, Custodian shall make no representations as to
+and shall not be responsible to verify (A) the validity, legality,
+enforceability, due authorization, recordability, sufficiency, or genuineness of
+any of the documents contained in each Mortgage File or (B) the collectability,
+insurability, effectiveness or suitability of any such Mortgage Loan. Subject to
+the following sentence, Seller and Buyer hereby give Custodian notice that from
+and after the Purchase Date, Buyer shall own each Mortgage Loan identified on an
+Asset Schedule and Exception Report until such time that Custodian receives
+notice from Buyer or Disbursement Agent that Buyer no longer owns such Mortgage
+Loan. In the event that Buyer does not purchase the Eligible Assets proposed to
+be purchased from Seller prior to 5:00 p.m. New York time on such Purchase Date,
+upon written notice thereof from Seller, acknowledged by Buyer, or notice from
+Disbursement Agent thereof, Custodian shall hold or release to Seller, pursuant
+to Seller's written instructions, the Mortgage Loans in respect of the Asset
+Schedule and Exception Report delivered by Custodian on such Purchase Date.
+
+            (e) Notwithstanding anything to the contrary set forth herein, in
+the event that the Asset Schedule and Exception Report or detailed listing of
+Wet-Ink Mortgage Loans attached to the Trust Receipt is different from the most
+recently delivered Asset Schedule and Exception Report or detailed listing of
+Wet-Ink Mortgage Loans, then the most recently delivered Asset Schedule and
+Exception Report or detailed listing of Wet-Ink Mortgage Loans shall control and
+be binding upon the parties hereto.
+
+            Section 4.  Obligations of Custodian.
+                        ------------------------
+
+            (a) Custodian shall maintain continuous custody of all items
+constituting the Mortgage Files in secure facilities in accordance with
+customary standards for such custody and shall reflect in its records the
+interest of Buyer therein. Each Mortgage Note (and Assignment of Mortgage) shall
+be maintained in fire resistant facilities.
+
+
+                                      -14-
+
+
+<PAGE>
+
+
+            (b) With respect to the documents constituting each Mortgage File,
+Custodian shall (i) act exclusively as the bailee of, and custodian for, Buyer,
+(ii) hold all documents constituting such Mortgage File received by it for the
+exclusive use and benefit of Buyer, and (iii) make disposition thereof only in
+accordance with the terms of this Agreement or with written instructions
+furnished by Buyer; provided, however, that in the event of a conflict between
+the terms of this Agreement and the written instructions of Buyer, Buyer's
+written instructions shall control.
+
+            (c) In the event that (i) Buyer, Seller or Custodian shall be served
+by a third party with any type of levy, attachment, writ or court order with
+respect to any Mortgage File or any document included within a Mortgage File or
+(ii) a third party shall institute any court proceeding by which any Mortgage
+File or a document included within a Mortgage File shall be required to be
+delivered otherwise than in accordance with the provisions of this Agreement,
+the party receiving such service shall promptly deliver or cause to be delivered
+to the other parties to this Agreement copies of all court papers, orders,
+documents and other materials concerning such proceedings. Custodian shall, to
+the extent permitted by law, continue to hold and maintain all the Mortgage
+Files that are the subject of such proceedings pending a final, nonappealable
+order of a court of competent jurisdiction permitting or directing disposition
+thereof. Upon final determination of such court, Custodian shall dispose of such
+Mortgage File or any document included within such Mortgage File as directed by
+Buyer which shall give a direction consistent with such determination. Expenses
+of Custodian incurred as a result of such proceedings shall be borne by Seller.
+
+            Section 5.  Release of Mortgage Files.
+                        -------------------------
+
+            (a) From time to time until Custodian is otherwise notified by Buyer
+in writing (unless such notice is given by the Disbursement Agent in accordance
+with Section 11), which notice shall be given by Buyer (or Disbursement Agent in
+accordance with Section 11) only following the occurrence of a Default or an
+Event of Default, Custodian shall, upon receipt of written request of Seller,
+release documentation relating to Mortgage Loans in the possession of Custodian
+to Seller or its designee, for the purpose of correcting documentary
+deficiencies relating thereto against a Request for Release and Receipt
+delivered via Electronic Transmission by Seller in the form of Annex 5-A hereto.
+The preceding sentence respecting release to Seller, or its designee, of
+Custodian's Mortgage Files shall be operative only to the extent that at any
+time Custodian shall not have released to Seller or its designee pursuant to
+clause (a) or (b) of this Section 5, Mortgage Files pertaining to Mortgage Loans
+at the time being held by Custodian on behalf of Buyer with an aggregate
+outstanding principal balance greater than $500,000 (the "Release Limit"). In
+the event Seller or its designee requests the release of a Mortgage File to
+Seller or its designee with respect to a Mortgage Loan, which release would
+result in Custodian having released Mortgage Files pertaining to Mortgage Loans
+at the time being held by Custodian on behalf of Buyer with an aggregate
+outstanding principal balance greater than the Release Limit, Custodian shall
+notify Buyer and obtain written consent of Buyer prior to such requested
+release. Custodian shall promptly notify Buyer in its Daily Report that it has
+released any Mortgage File to Seller or its designee. Seller or its designee
+shall hold each Mortgage File delivered to it pursuant to this Section 5(a) as
+bailee for Buyer. Seller or its designee shall return to Custodian each document
+previously released from Custodian's Mortgage File within ten (10) Business Days
+of receipt thereof. Seller hereby further covenants to Buyer and Custodian that
+
+
+                                      -15-
+
+
+<PAGE>
+
+
+any such request by Seller for release of Mortgage Loan Documents pursuant to
+this Section 5(a) shall be solely for the purposes of correcting clerical or
+other non-substantial documentation problems in preparation for returning such
+Mortgage Loan Documents to Custodian for ultimate sale or exchange and that
+Seller has requested such release in compliance with all terms and conditions of
+such release set forth herein and in the Repurchase Agreement. Notwithstanding
+anything to the contrary contained in the foregoing, Mortgage Notes shall be
+released only for the purpose of (i) ultimate sale or exchange or (ii)
+presentation, collection, renewal or registration of transfer.
+
+            (b) From time to time until Custodian is otherwise notified by Buyer
+in writing (unless such notice is given by the Disbursement Agent in accordance
+with Section 11), which notice shall be given by Buyer (or Disbursement Agent in
+accordance with Section 11) only following the occurrence of a Default or an
+Event of Default, and as appropriate for the servicing of any of the Mortgage
+Loans, Custodian shall, upon receipt from Seller or its designee of a written
+Request for Release of Documents and Receipt delivered via Electronic
+Transmission in the form of Annex 5-B hereto, release to Seller or its designee
+the Mortgage File or the documents set forth in such request relating to
+Mortgage Loans in the possession of Custodian. The preceding sentence respecting
+release to Seller, or its designee, of Custodian's Mortgage Files shall be
+operative only to the extent that at any time Custodian shall not have released
+to Seller or its designee pursuant to clause (a) or (b) of this Section 5,
+Mortgage Files pertaining to Mortgage Loans at the time being held by Custodian
+on behalf of Buyer with an aggregate outstanding principal balance greater than
+the Release Limit. In the event Seller or its designee requests the release of a
+Mortgage File to Seller or its designee with respect to a Mortgage Loan, which
+release would result in Custodian having released Mortgage Files pertaining to
+Mortgage Loans at the time being held by Custodian on behalf of Buyer with an
+aggregate outstanding principal balance greater than the Release Limit,
+Custodian shall notify Buyer in its Daily Report and obtain written consent of
+Buyer prior to such requested release. Custodian shall promptly notify Buyer
+that it has released any Mortgage File to Seller or its designee. Seller or its
+designee shall hold each Mortgage File delivered to it pursuant to this Section
+5(b) as bailee for Buyer. Seller or its designee shall return to Custodian each
+document previously released from Custodian's Mortgage File within ten (10)
+Business Days of receipt thereof. Seller hereby further covenants to Buyer and
+Custodian that any such request by Seller or its designee for release of
+Mortgage Loan Documents pursuant to this Section 5(b) shall be solely for the
+purposes of servicing of any of the Mortgage Loans and that Seller has requested
+such release in compliance with all terms and conditions of such release set
+forth herein and in the Repurchase Agreement. Notwithstanding anything to the
+contrary contained in the foregoing, Mortgage Notes shall be released only for
+the purpose of (i) ultimate sale or exchange or (ii) presentation, collection,
+renewal or registration of transfer.
+
+            (c) (i) From time to time Custodian is hereby authorized, upon
+      receipt of a Request for Release in the form of Annex 5-C hereto delivered
+      by Seller via Electronic Transmission and receipt of Buyers written
+      consent to such release to release Mortgage Files in the possession of
+      Custodian to a third party purchaser for the purpose of resale thereof.
+      Buyer shall have no obligation to consent to any such Request for Release
+      after the occurrence of a Default or an Event of Default. On such Request
+      for Release, Seller shall indicate the Mortgage Loans to be sold, the
+      purchase price for such Mortgage Loan anticipated to be received, the name
+
+
+                                      -16-
+
+
+<PAGE>
+
+
+      and address of the third party purchaser, the preferred method of
+      delivery, and the date of desired delivery.
+
+            (ii) Any transmittal of documentation for Mortgage Loans in the
+      possession of Custodian in connection with the sale thereof to a
+      third-party purchaser other than an Agency will be under cover of a
+      transmittal letter substantially in the form attached as Annex 12 hereto,
+      duly completed by Custodian and executed by Custodian. Any transmittal of
+      documentation for Mortgage Loans in the possession of Custodian in
+      connection with the shipment to a custodian or trustee other than an
+      Agency in connection with the formation of a mortgage pool supporting a
+      mortgage-backed security (an "MBS") will be under cover of a transmittal
+      letter substantially in the form attached as Annex 13 hereto. Promptly
+      upon (x) the remittance by such third-party purchaser of the full purchase
+      price of the Mortgage Loan or (y) the issuance of such MBS, Buyer shall
+      notify Custodian in writing thereof.
+
+            (iii) Any transmittal of documentation for Mortgage Loans in the
+      possession of Custodian in connection with the sale thereof to an Agency
+      will be under cover of Bailee Letter, duly completed by Custodian and
+      executed by Custodian. Promptly upon the remittance by such Agency or the
+      Seller of the full purchase price of the Mortgage Loan. With respect to
+      any transmittal of documentation for Mortgage Loans in the possession of
+      Custodian in connection with the shipment to an Agency, the Custodian
+      shall verify (A) that the related Mortgage File contains the Applicable
+      Agency Documents, (B) (1) with respect to the wire transfer instructions
+      as set forth in Freddie Mac Form 987 (Wire Transfer Authorization for a
+      Cash Warehouse Delivery) such wire transfer instructions are identical to
+      Buyer's wire instructions to Seller or (2) the Payee Number set forth on
+      Fannie Mae Form 1068 (Fixed-Rate, Graduated-Payment, or Growing-Equity
+      Mortgage Loan Schedule) or Fannie Mae Form 1069 (Adjustable-Rate Mortgage
+      Loan Schedule), as applicable, is identical to the Payee Number that has
+      been identified by Buyer in writing as Buyer's Payee Number and (C) the
+      Applicable Agency Documents list Buyer as sole subscriber. Seller
+      covenants that it will advise Buyer of any necessary amendments to such
+      exhibits to reflect all current requirements of the applicable Agency.
+      Custodian shall immediately notify Buyer and Seller via Electronic
+      Transmission (which shall be sent "confirm receipt" or by some other means
+      such that Custodian has a reasonable belief that such notice has been
+      received by the addressee) of any exception with respect to any exceptions
+      to the requirements of the preceding sentence and such exception shall be
+      a Fatal Document Exception with respect to such Mortgage Loan.
+
+            (d) So long as no Default or Event of Default has occurred and is
+continuing, Custodian and Buyer shall take such steps as they may reasonably be
+directed from time to time by Seller in writing, which Seller deems necessary
+and appropriate, to transfer promptly and deliver to Seller any Mortgage File in
+the possession of Custodian relating to any Mortgage Loan which was previously a
+Purchased Asset but which Seller, with the written consent of Buyer, has
+notified Custodian has ceased to be an Eligible Asset or the release of which
+would not cause Seller to violate Section 4 of the Repurchase Agreement. In
+furtherance of the foregoing, upon receipt of written request from Seller in the
+form of Annex 5-A hereto delivered via Electronic Transmission, which must be
+consented to by Buyer, Custodian shall release to Seller the requested Mortgage
+Files.
+
+
+                                      -17-
+
+
+<PAGE>
+
+
+            (e) Following written notification by Buyer (or Disbursement Agent
+in accordance with Section 11)(which may be by facsimile) to Custodian that a
+Default or an Event of Default has occurred and is continuing, Custodian shall
+not release, or incur any liability to Seller or any other Person for refusing
+to release, any item relating to a Purchased Asset to Seller or any other Person
+without the express prior written consent and at the direction of Buyer.
+
+            (f) Custodian shall at all times monitor any release of Purchased
+Assets under this Section 5, and shall track the period of time which has
+elapsed for any such release of Purchased Assets and shall report such
+information to Buyer daily and in the same manner as Custodian provides an Asset
+Schedule and Exception Report.
+
+            (g) Prior to any shipment of Mortgage Files hereunder, Seller shall
+deliver to Custodian written instructions as to the method of shipment and
+shippers Custodian is to utilize in connection with the transmission of Mortgage
+Files or other loan documents in the performance of Custodian's duties
+hereunder. Seller shall arrange for the provision of such services at its sole
+cost and expense (or, at Custodian's option, reimburse Custodian for all costs
+and expenses incurred by Custodian consistent with the instructions) and will
+maintain such insurance against loss or damage to Mortgage Files or other loan
+documents as Buyer deems appropriate. Without limiting the generality of the
+provisions of Section 13(a), it is expressly agreed that in no event shall
+Custodian have any liability for any losses or damages to Seller arising out of
+actions of Custodian consistent with the instructions of Seller except to the
+extent such losses or damages arise due to the Custodian's gross negligence or
+willful misconduct. In the event Custodian does not receive such written
+instructions, Custodian shall be authorized to utilize any nationally recognized
+courier service.
+
+            Section 6. Fees and Expenses of Custodian.
+                       ------------------------------
+
+            Custodian shall charge such fees for its services under this
+Agreement as are set forth in a separate agreement between Custodian and Seller,
+the payment of which fees, together with Custodian's expenses in connection
+herewith, shall be solely the obligation of Seller. The failure of Seller to pay
+any such fees shall not excuse the performance by Custodian of any of its
+obligations hereunder. The obligations of the Seller to pay Custodian such fees
+and reimburse Custodian for such expenses in connection with services provided
+by Custodian prior to the termination of this Agreement and the earlier of the
+resignation or removal of Custodian shall survive such termination, resignation
+or removal.
+
+            Section 7. Removal or Resignation of Custodian and Disbursement
+                       Agent.
+                       ----------------------------------------------------
+
+            (a) Custodian or Disbursement Agent may at any time resign and
+terminate their obligations under this Agreement upon at least (180) days' prior
+written notice to Seller and Buyer. Promptly after receipt of notice of
+Custodian's or Disbursement Agent's resignation, as applicable, Buyer shall
+appoint, by written instrument, a successor custodian or a successor
+disbursement agent, as applicable, subject to written approval by Seller (which
+approval shall not be unreasonably withheld). One original counterpart of such
+instrument of appointment shall be delivered to each of Seller, Custodian and
+the successor custodian. In the event that no successor custodian or
+disbursement agent shall have been appointed within such 180 day notice period,
+
+
+                                      -18-
+
+
+<PAGE>
+
+
+Custodian or Disbursement Agent, as applicable, may petition any court of
+competent jurisdiction to appoint a successor custodian or disbursement agent,
+as the case may be.
+
+            (b) Buyer, with the consent of Seller (which consent shall not be
+unreasonably withheld), upon at least (30) days' prior written notice to
+Custodian, Disbursement Agent and Seller, may remove and discharge Custodian (or
+any successor custodian thereafter appointed) from the performance of its
+obligations under this Agreement. Buyer, without the consent of Seller, upon at
+least (30) days' prior written notice to Custodian, Disbursement Agent and
+Seller, may remove and discharge Disbursement Agent (or any successor
+disbursement agent thereafter appointed) from the performance of its obligations
+under this Agreement. Promptly after the giving of notice of removal of
+Custodian and Disbursement Agent, Buyer shall appoint, by written instrument, a
+successor custodian, with the consent of Seller (which consent shall not be
+unreasonably withheld), and a disbursement agent, which appointment shall
+require no other approval. One original counterpart of such instrument of
+appointment shall be delivered to each of Buyer, Seller, Custodian, Disbursement
+Agent and the successor custodian and disbursement agent.
+
+            (c) In the event of any such resignation or removal, Custodian shall
+promptly transfer to the successor custodian, as directed in writing, all the
+Mortgage Files being administered under this Agreement and, if the endorsements
+on the Mortgage Notes and the Assignments of Mortgage have been completed in the
+name of Custodian, assign the Mortgages and endorse without recourse the
+Mortgage Notes to the successor Custodian or as otherwise directed by Buyer. The
+cost of the shipment of Mortgage Files arising out of the resignation of
+Custodian shall be at the expense of Custodian; provided, however, that if the
+sole reason for Custodian's resignation is due to the non-payment of the fees
+and expenses due to it hereunder by Seller, then the shipment cost of such
+shipment of Mortgage Files shall not be an expense of Custodian, but shall be at
+the expense of Seller. Any cost of shipment arising out of the removal of
+Custodian shall be at the expense of Seller. Seller shall be responsible for the
+fees and expenses of the successor custodian and the fees and expenses for
+endorsing the Mortgage Notes and assigning the Mortgages to the successor
+custodian if required pursuant to this paragraph.
+
+            Section 8. Examination of Files, Books and Records.
+                       ---------------------------------------
+
+            Upon twenty-four (24) hours' prior written notice to Seller and
+Custodian and at Seller's expense, Buyer, Seller and each of their respective
+agents, accountants, attorneys and auditors will be permitted during normal
+business hours to examine, inspect, and make copies of, the Mortgage Files and
+any and all documents, records and other instruments or information in the
+possession of or under the control of Custodian relating to any or all of the
+Mortgage Loans.
+
+            Section 9. Insurance.
+                       ---------
+
+            (a) At its own expense, Custodian shall maintain at all times during
+the existence of this Agreement and keep in full force and effect a fidelity
+bond and document hazard insurance. All such insurance shall be in amounts, with
+standard coverage and subject to standard deductibles, all as is customary for
+insurance typically maintained by institutions which act as custodian. The
+minimum coverage under any such bond and insurance policies shall be at least
+equal to the corresponding amounts required by Fannie Mae or Freddie Mac in the
+
+
+                                      -19-
+
+
+<PAGE>
+
+
+Applicable Guide. A certificate of an Authorized Representative of Custodian
+shall be furnished to Seller and Buyer, upon written request, stating that such
+insurance is in full force and effect.
+
+            (b) At its own expense, Disbursement Agent shall maintain at all
+times during the existence of this Agreement and keep in full force and effect a
+fidelity bond. All such insurance shall be in amounts, with standard coverage
+and subject to standard deductibles, all as is customary for insurance typically
+maintained by institutions which act as Disbursement Agents with duties similar
+to those of Disbursement Agent herein. The minimum coverage under any such bond
+and insurance policies shall be at least equal to the corresponding amounts
+required by Fannie Mae or Freddie Mac in the Applicable Guide. A certificate of
+an Authorized Representative of Disbursement Agent shall be furnished to Seller
+and Buyer, upon written request, stating that such insurance is in full force
+and effect.
+
+            Section 10. Representations and Warranties.
+                        ------------------------------
+
+            (a) Custodian represents and warrants to Buyer that:
+
+            (i) Custodian has the corporate power and authority and the legal
+      right to execute and deliver, and to perform its obligations under, this
+      Agreement, and has taken all necessary corporate action to authorize its
+      execution, delivery and performance of this Agreement;
+
+            (ii) no consent or authorization of, filing with, or other act by or
+      in respect of, any arbitrator or Governmental Authority and no consent of
+      any other Person (including, without limitation, any stockholder or
+      creditor of Custodian) is required in connection with the execution,
+      delivery, performance, validity or enforceability of this Agreement;
+
+            (iii) this Agreement has been duly executed and delivered on behalf
+      of Custodian and constitutes a legal, valid and binding obligation of
+      Custodian enforceable in accordance with its terms, except as
+      enforceability may be limited by bankruptcy, insolvency, reorganization,
+      moratorium or similar laws affecting the enforcement of creditors' rights
+      generally and by general principles of equity (whether enforcement is
+      sought in a proceeding in equity or at law); and
+
+            (iv) Custodian is not an Affiliate of Seller.
+
+            (b) Disbursement Agent represents and warrants to Buyer that:
+
+            (i) Disbursement Agent has the corporate power and authority and the
+      legal right to execute and deliver, and to perform its obligations under,
+      this Agreement, and has taken all necessary corporate action to authorize
+      its execution, delivery and performance of this Agreement;
+
+            (ii) no consent or authorization of, filing with, or other act by or
+      in respect of, any arbitrator or Governmental Authority and no consent of
+      any other Person (including, without limitation, any stockholder or
+      creditor of Disbursement Agent) is required in connection with the
+      execution, delivery, performance, validity or enforceability of this
+      Agreement;
+
+
+                                      -20-
+
+
+<PAGE>
+
+
+            (iii) this Agreement has been duly executed and delivered on behalf
+      of Disbursement Agent and constitutes a legal, valid and binding
+      obligation of Disbursement Agent enforceable in accordance with its terms,
+      except as enforceability may be limited by bankruptcy, insolvency,
+      reorganization, moratorium or similar laws affecting the enforcement of
+      creditors' rights generally and by general principles of equity (whether
+      enforcement is sought in a proceeding in equity or at law); and
+
+            (iv) Disbursement Agent is not an Affiliate of Seller.
+
+            (c) Seller hereby makes to Custodian the same representations and
+warranties that Seller makes to Buyer under Section 10 of the Repurchase
+Agreement.
+
+            Section 11. Disbursement Agent Duties.
+                        -------------------------
+
+            (a) Establishment of Disbursement Account, Wire-out Account and
+Settlement Account.
+
+            (i) Disbursement Agent shall establish and maintain a disbursement
+      account (the "Disbursement Account") for and on behalf of Buyer entitled
+      "Disbursement Account, Deutsche Bank National Trust Company, as
+      Disbursement Agent for CDC Mortgage Capital Inc., Reference Number
+      _______." The Disbursement Account shall be owned by and under the
+      exclusive dominion and control of Buyer. None of Disbursement Agent,
+      Seller nor any other Person claiming on behalf of or through Seller or
+      Disbursement Agent shall have any right or authority, whether express or
+      implied, to close or make use of, or, except as expressly provided herein,
+      withdraw any funds from, the Disbursement Account. Unless Disbursement
+      Agent shall receive notice in writing from Buyer to the contrary by 10:00
+      a.m. New York time on any applicable Business Day, Disbursement Agent is
+      hereby authorized by Buyer to disburse funds deposited in the Disbursement
+      Account on such Business Day in accordance with this Agreement. Funds
+      retained in the Disbursement Account shall remain uninvested. Disbursement
+      Agent shall reconcile the Disbursement Account on a daily basis. Unless
+      otherwise instructed by Buyer in writing, before the close of business on
+      each Business Day, Disbursement Agent shall withdraw all collected amounts
+      as of 5:30 p.m. New York time then standing to the credit of the
+      Disbursement Account and deposit such amounts into the following account
+      maintained by Buyer: Bank of New York, for the A/C of CDC Mortgage Capital
+      Inc., ABA#021000018, Account #GLA 111569 SER, Attn: Eric Seyffer, or, if
+      such funds cannot be deposited into the foregoing account at the end of
+      such Business Day, on the next Business Day.
+
+            (ii) In connection with the funding of any Wet-Ink Mortgage Loans or
+      the purchase of any other Mortgage Loan by Seller simultaneously with the
+      purchase of such Mortgage Loan by Buyer, Disbursement Agent shall
+      establish and maintain a Wire-out Account (the "Wire-out Account") for and
+      on behalf of Seller entitled "Wire-out Account, Deutsche Bank National
+      Trust Company, as Disbursement Agent for American Home Mortgage Corp.,
+      Reference Number _______." With respect to any Wet-Ink Mortgage Loan to be
+      funded or any other Mortgage Loan to be purchased on any Business Day
+      (other than a Check-Funded Loan), Seller shall deposit into the Wire-out
+
+
+                                      -21-
+
+
+<PAGE>
+
+
+      Account no later than 11:00 a.m. New York time on such Business Day an
+      amount (the "Seller Funded Wire Amount") equal to the difference between
+      the Wire Amount and the amount to be funded by Buyer from the Disbursement
+      Account in accordance with Section 11(d). Seller hereby requests that
+      Disbursement Agent, and Disbursement Agent shall, disburse the Seller
+      Funded Wire Amount at the same time, and in the same manner, as
+      Disbursement Agent disburses funds from the Disbursement Account with
+      respect to such Mortgage Loan in accordance with Section 11(d)(i). With
+      respect to each Check Funded Loan, prior to 12:00 p.m. New York time on
+      the related Check Presentation Date, Seller shall wire to the Wire-Out
+      Account the Seller Funded Amount and the Additional Seller Funded Amount
+      for such Check Presentation Date. Seller hereby requests that Disbursement
+      Agent, and Disbursement Agent shall, disburse the Seller Funded Amount and
+      the Additional Seller Funded Amount at the same time, and in the same
+      manner, as Disbursement Agent disburses the Buyer Funded Amount from the
+      Disbursement Account with respect to such Mortgage Loan in accordance with
+      Section 11(d)(ii). The Wire-out Account shall be owned by and under the
+      exclusive dominion and control of Seller. None of Disbursement Agent,
+      Buyer nor any other Person claiming on behalf of or through Buyer or
+      Disbursement Agent shall have any right or authority, whether express or
+      implied, to close or make use of, or, except as expressly provided herein,
+      withdraw any funds from, the Wire-out Account. Funds retained in the
+      Wire-out Account shall remain uninvested. Disbursement Agent shall
+      reconcile the Wire-out Account on a daily basis. Upon written request of
+      Buyer, Disbursement Agent shall verify the information contained on each
+      wire instruction to the extent of confirming that the wire instructions on
+      the Asset Schedule delivered by Seller are identical to the wire
+      instructions set forth in the related Escrow Instruction Letter, Seller's
+      Release or Warehouse Lender's Release.
+
+            (iii) Check Disbursement Bank shall establish and maintain the
+      Settlement Account in accordance with the Check Disbursement Agreement.
+      All proceeds from the repurchase of a Mortgage Loan subject to this
+      Agreement by Seller or a sale of a Mortgage Loan subject to this Agreement
+      to a third party investor shall be sent directly to the Settlement
+      Account. All related fees and expenses for the Settlement Account shall be
+      borne by Seller. The Settlement Account shall be owned by and under the
+      exclusive dominion and control of Buyer. None of Disbursement Agent,
+      Seller nor any other Person claiming on behalf of or through Seller or
+      Disbursement Agent shall have any right or authority, whether express or
+      implied, to close or make use of, or, except as expressly provided herein,
+      withdraw any funds from, the Settlement Account. Notwithstanding anything
+      herein to the contrary, Disbursement Agent shall be entitled to net any
+      amounts due and owing under this Agreement to it or Custodian from Seller
+      from amounts that, after application of amounts in the Settlement Account
+      due and owing to Buyer, would otherwise be disbursed to Seller pursuant to
+      this Section 11(a)(iii). Unless Disbursement Agent shall receive notice in
+      writing from Buyer to the contrary by 5:00 p.m. New York time on any
+      applicable Business Day, Disbursement Agent is hereby authorized by Buyer
+      to disburse funds deposited in the Settlement Account on such Business Day
+      in accordance with Section 11(f). Funds retained in the Settlement Account
+      shall remain uninvested. Disbursement Agent shall reconcile the Settlement
+      Account on a daily basis. Unless otherwise instructed by Buyer in writing,
+      before the close of business on each Business Day, Disbursement Agent
+
+
+                                      -22-
+
+
+<PAGE>
+
+
+      shall withdraw all collected amounts as of 5:30 p.m. New York time then
+      standing to the credit of the Settlement Account and deposit such amounts
+      into the following account maintained by Buyer: Bank of New York, for the
+      A/C of CDC Mortgage Capital Inc., ABA#021000018, Account #GLA 111569 SER,
+      Attn: Eric Seyffer, or, if such funds cannot be deposited into the
+      foregoing account at the end of such Business Day, on the next Business
+      Day.
+
+            (b) Customer Profiles. On or prior to the first Purchase Date, Buyer
+shall provide to Disbursement Agent an initial customer profile in a form and
+substance as determined by Buyer and as is reasonably acceptable to Disbursement
+Agent (the "Customer Profile"), which will include each Class to be purchased
+under the Repurchase Agreement (i.e., Conforming Mortgage Loan, Jumbo Mortgage
+Loan, Alt-A First Mortgage Loan, Alt-A Second Mortgage Loan, Sub-Prime First
+Mortgage Loan, Sub-Prime Second Mortgage Loan, Wet-Ink Mortgage Loan or
+Repurchased Mortgage Loan) together with the related Market Values, Purchase
+Percentages, Sub-Limits, Pricing Spread and other relevant information, together
+with the calculations required to be performed in order to determine the Asset
+Value, Purchase Price, Pricing Differential and Pricing Spread for each such
+Class. The Customer Profile shall, at any time and from time to time, be in a
+form and substance as determined by the Buyer and as is reasonably acceptable to
+the Disbursement Agent. Each Customer Profile delivered by Buyer shall supersede
+the previous Customer Profile and Disbursement Agent shall utilize the most
+recently delivered Customer Profile on each day with respect to all transactions
+hereunder. Promptly upon receipt of a Customer Profile, Disbursement Agent shall
+verbally confirm with Buyer all changes to each field since the most recently
+delivered Customer Profile.
+
+            (c) Disbursement Agent Calculations and Verifications.
+
+            (i) Initial Purchase of an Eligible Asset. With respect to each
+      Eligible Asset, Disbursement Agent shall perform the procedures set forth
+      below, in such order, with respect to each Eligible Asset in the order
+      that the related Transaction Requests are received:
+
+                  (A) On each date on which Disbursement Agent receives a
+            Transaction Request from Seller, together with the related Seller
+            Asset Schedule, Disbursement Agent shall verbally confirm the
+            receipt of such Transaction Request with Buyer. With respect to each
+            Transaction Request, Disbursement Agent shall perform an Edit Check
+            with respect to each Eligible Asset that Seller has requested Buyer
+            purchase. If any Mortgage Loan fails the Edit Check Procedures,
+            Disbursement Agent shall notify each of Seller and Buyer via
+            Electronic Transmission (which shall be sent "confirm receipt" or by
+            some other means such that Disbursement Agent has a reasonable
+            belief that such notice has been received by the addressee) of such
+            Fatal Information Exception, and such Transaction Request shall be
+            deemed to be null and void.
+
+                  (B) Upon a determination that each Eligible Asset that Seller
+            has requested Buyer purchase does not fail the Edit Check,
+            Disbursement Agent shall compare the information set forth in the
+            related Seller Asset Schedule with the applicable information
+            required pursuant to Annex 1 hereof with respect to the particular
+            Class and shall notify each of Seller and Buyer via Electronic
+
+
+                                      -23-
+
+
+<PAGE>
+
+
+            Transmission (which shall be sent "confirm receipt" or by some other
+            means such that Disbursement Agent has a reasonable belief that such
+            notice has been received by the addressee) of any Fatal Information
+            Exception, and such Transaction Request shall be deemed to be null
+            and void.
+
+                  (C) Upon a determination that there is no Fatal Information
+            Exception as set forth in clause (i) of the definition thereof,
+            Disbursement Agent shall calculate the Purchase Price and Pricing
+            Rate for each Eligible Asset to be purchased by Buyer pursuant to
+            the Transaction Request using the information set forth in the
+            Customer Profile. If the values calculated by Disbursement Agent do
+            not match the values set forth in the related Transaction Request by
+            Seller, Disbursement Agent shall notify each of Seller and Buyer via
+            Electronic Transmission (which shall be sent "confirm receipt" or by
+            some other means such that Disbursement Agent has a reasonable
+            belief that such notice has been received by the addressee) of such
+            Fatal Information Exception, and such Transaction Request shall be
+            deemed to be null and void.
+
+                  (D) Upon Disbursement Agent's determination that the
+            Transaction Request sets forth the correct calculations of the
+            related Purchase Price and Pricing Rate with respect to the
+            Transaction, Disbursement Agent shall verify that, (i) after taking
+            into account all purchase requests on the related Transaction
+            Request, together with all other outstanding Transactions, that the
+            aggregate Purchase Prices for each Class is equal to or less than
+            the related Sub-Limits set forth in the Customer Profile and (ii)
+            after giving effect to the requested Transaction that there would
+            not be a Margin Deficit. If after giving effect to the purchases
+            contemplated in the Transaction Request, the aggregate Purchase
+            Prices of all such Transactions is greater than the Sub-Limits or
+            the Margin Base, Disbursement Agent shall notify each of Seller and
+            Buyer via Electronic Transmission (which shall be sent "confirm
+            receipt" or by some other means such that Disbursement Agent has a
+            reasonable belief that such notice has been received by the
+            addressee) of such Fatal Information Exception, and such Transaction
+            Request shall be deemed to be null and void.
+
+                  (E) At the request of Buyer, Disbursement Agent shall verify
+            the Wire Instructions set forth in the Seller Asset Schedule only to
+            the extent of confirming that the Wire Instructions on the Asset
+            Schedule delivered by Seller are to the DDA Account or are identical
+            to the Wire Instructions set forth in the related Escrow Instruction
+            Letter, Seller's Release or Warehouse Lender's Release, as
+            applicable. Disbursement Agent shall be under no obligation to
+            verify such wire instructions unless requested by Buyer.
+
+                  (F) With respect to each Mortgage Loan other than a Check
+            Funded Loan, upon a determination that giving effect to a
+            Transaction Request would not cause a violation of any Sub-Limit or
+            cause a Margin Deficit and receipt of an Asset Schedule and
+            Exception Report from Custodian in accordance with Section 3 and
+            receipt of the Fatal Document Exception Report, if any, from
+            Custodian in accordance with Section 3, Disbursement Agent shall
+
+
+                                      -24-
+
+
+<PAGE>
+
+
+            disburse funds in accordance with Section 11(d)(i). The disbursing
+            of funds by Disbursement Agent shall constitute Disbursement Agent's
+            certification that no Fatal Exception exists with respect to any
+            Eligible Asset (or, with respect to a Wet-Ink Mortgage Loan, no
+            Fatal Information Exception exists) funded pursuant to this Section
+            11(c)(i)(F).
+
+                  (G) With respect to each Check Funded Loan, upon (i) a
+            determination that giving effect to a Transaction Request would not
+            cause a violation of any Sub-Limit or cause a Margin Deficit, (ii)
+            receipt of an Asset Schedule and Exception Report from Custodian in
+            accordance with Section 3, (iii) receipt of the Fatal Document
+            Exception Report, if any, from Custodian in accordance with Section
+            3, and (iv) receipt from Seller of a Check Funding Schedule,
+            Disbursement Agent shall on each Check Presentation Date (1) verify
+            that checks in excess of the original principal balance with respect
+            to any Check Funded Loan were not presented for payment and (2)
+            determine the related Buyer Funded Amount. On the Check Presentation
+            Date, in accordance with the Check Disbursement Agreement, on or
+            prior to 12:00 noon, New York time, the Check Disbursement Bank
+            shall deliver electronically to Disbursement Agent, Buyer and Seller
+            the Check Presentment Report. Upon receipt of each Check Presentment
+            Report, with respect to all checks listed on such Check Funding
+            Schedule, Seller shall determine (i) the aggregate difference
+            ("Seller Funded Amount") between the Purchase Price for the related
+            Check Funded Loans and the amounts necessary to clear all such
+            checks and (ii) the difference between the aggregate Buyer Funded
+            Amount for such Check Funded Loan and the aggregate amount needed to
+            fund all checks on such Check Presentation Date (the "Total Required
+            Funds"). Upon receipt of the Seller Funded Amount and the Additional
+            Seller Funded Amount, the Disbursement Agent shall disburse funds in
+            accordance with Section 11(d)(ii). The disbursing of funds by
+            Disbursement Agent shall constitute Disbursement Agent's
+            certification that no Fatal Information Exception exists with
+            respect to any Check Funded Loan funded pursuant to this Section
+            11(c)(i)(G). No later than 11:00 a.m. New York time on the Check
+            Reconciliation Date, pursuant to the Check Disbursement Agreement,
+            Check Disbursement Bank shall make available to Disbursement Agent
+            any Check Funding Exceptions with respect to a check or a Check
+            Funded Loan. Disbursement Agent shall review all Check Funding
+            Exceptions received as of 11:00 a.m. New York time and notify Buyer
+            via Electronic Transmission of any Check Funding Exceptions prior to
+            1:00 p.m. New York time. Unless Buyer shall have notified
+            Disbursement Agent in writing on or prior to 2:00 p.m. New York time
+            that Disbursement Agent shall not issue a "no pay" instruction on
+            any related check, Disbursement Agent shall issue a "no pay"
+            instruction on any check with a Check Funding Exception except in
+            the case of "Stop Suspect" Check Funding Exceptions, which
+            Disbursement Agent shall not stop payment on unless notified by
+            Seller or Buyer. At the request of Buyer, Disbursement Agent shall
+
+
+                                      -25-
+
+
+<PAGE>
+
+
+            view the image of a check and verify that the payee set forth on the
+            Check Funding Schedule matches the payee on such imaged check.
+            Disbursement Agent shall track each check funded on respect of a
+            Check Funded Loan and notify Buyer, pursuant to the Daily Report,
+            when each check with respect to a Check Funded Mortgage Loan has
+            been paid.
+
+            (ii) Conversion of a Wet-Ink Mortgage Loan. On the date that
+      Custodian receives a Seller Asset Schedule containing the information set
+      forth on Annex 1 and all the documents set forth in Section 2(b) with
+      respect to each Wet-Ink Mortgage Loan, pursuant to Section 3(a), Custodian
+      shall deliver an Asset Schedule and Exception Report to each of Buyer and
+      Disbursement Agent in accordance with Section 3(a). Upon Disbursement
+      Agent's receipt of such Asset Schedule and Exception Report, Disbursement
+      Agent shall perform the procedures set forth in Section 11(c)(i)(A)-(E) as
+      if such conversion were a purchase of an Eligible Asset and if there are
+      no Fatal Exceptions with respect to such Wet-Ink Mortgage Loan, the
+      related Mortgage Loan shall no longer be a Wet-Ink Mortgage Loan.
+
+            (iii) Request for Additional Transactions for Excess Margin. Upon
+      Disbursement Agent's receipt of any Request for Additional Transactions
+      for Excess Margin, Disbursement Agent shall perform the procedures set
+      forth in Section 11(c)(i)(C) and (D) as if such request were a Transaction
+      Request. Pursuant to Section 11(b) herein, Disbursement Agent shall
+      utilize the most recently delivered Customer Profile in connection with
+      such Request for Additional Transactions for Excess Margin. If, after
+      performing such procedures, Disbursement Agent determines that giving
+      effect to any such Request for Additional Transactions for Excess Margin
+      would not cause a violation of any Sub-Limits or cause a Margin Deficit,
+      Disbursement Agent shall fund any amounts required pursuant to Section
+      11(d)(iv). The disbursing of funds by Disbursement Agent shall constitute
+      Disbursement Agent's certification that no Fatal Exception exists with
+      respect to any Eligible Asset (or, with respect to a Wet-Ink Mortgage
+      Loan, no Fatal Information Exception exists).
+
+            (d) Disbursements. If at any time Disbursement Agent is unable to
+calculate the Purchase Prices in respect of disbursements to be made pursuant to
+this Section 11(d) as a result of technical difficulties or otherwise, upon
+written notice from Disbursement Agent to Buyer and Seller, Disbursement Agent
+may request such information from Buyer. Additionally, if at any time Buyer
+disputes Disbursement Agent's or Seller's calculation of the Purchase Prices in
+respect of disbursements to be made pursuant to this Section 11(d), upon written
+notice from Buyer to Disbursement Agent and Seller, Disbursement Agent shall not
+disburse funds as provided in this Section 11(d) until such dispute is resolved.
+
+            (i) Disbursement in Respect of Purchases of Eligible Assets. On each
+      proposed Purchase Date, Disbursement Agent will disburse funds in the
+      Disbursement Account in accordance with the Wire Instructions in the
+      Seller Asset Schedule within 2 hours of a final Transaction Request but in
+      no event later than 5:15 p.m. New York time, provided that (A)
+      Disbursement Agent shall have performed the procedures set forth in
+      Section 11(c) and all conditions to disbursement set forth therein shall
+      have been satisfied; (B) sufficient funds exist in the Disbursement
+
+
+                                      -26-
+
+
+<PAGE>
+
+
+      Account (taking into account amounts required to be transferred from the
+      related Wire-out Account pursuant to Section 11 (a)(ii)); (C) such
+      instructions do not include Seller or any Affiliate of Seller as payee,
+      unless otherwise authorized by Buyer in writing to Disbursement Agent; and
+      (D) if a conflict exists between the instructions of Buyer and the
+      instructions of Seller, Disbursement Agent shall follow Buyer's
+      instructions. In the event that the funds maintained in the related
+      Wire-out Account are not sufficient to permit the funding of the full Wire
+      Amount for any Eligible Asset, no funds shall be disbursed from the
+      Disbursement Account to fund or acquire such Eligible Asset.
+
+            (ii) Disbursements in Respect of Check Funded Loans. On each Check
+      Presentation Date, Disbursement Agent will disburse funds in the
+      Disbursement Account to the DDA Account by 5:15 p.m. New York time,
+      provided that (A) Disbursement Agent shall have performed the procedures
+      set forth in Section 11(c) and all conditions to disbursement set forth
+      therein shall have been satisfied; and (B) sufficient funds exist in the
+      Disbursement Account (taking into account amounts required to be
+      transferred from the related Wire-out Account pursuant to Section 11
+      (a)(ii)). In the event that the funds maintained in the related Wire-out
+      Account are not equal to the Total Required Funds for such Check
+      Presentation Date, Disbursement Agent should disburse funds in accordance
+      herewith and notify each of the Buyer and Seller of such shortfall via
+      Electronic Transmission (which shall be sent "confirm receipt" or by some
+      other means such that Disbursement Agent has a reasonable belief that such
+      notice has been received by the addressee).
+
+            (iii) [Reserved]
+
+            (iv) Disbursements in Respect of Requests for Additional
+      Transactions for Excess Margin. On the Business Day that Disbursement
+      Agent determines that the provisions of Section 11(c)(iii) have been
+      satisfied with respect to any Request for Additional Transactions for
+      Excess Margin, Disbursement Agent shall withdraw from the Disbursement
+      Account and credit to the Wire-out Account an amount equal to the
+      requested amount of the Excess Margin.
+
+            (e) [Reserved]
+                 --------
+
+            (f) Settlement. On the Business Day prior to the date on which
+Seller intends to or is required to repurchase an Eligible Asset pursuant to the
+terms of the Repurchase Agreement (or a third party purchases such Eligible
+Asset), Seller shall provide Disbursement Agent and Buyer with written notice of
+all funds anticipated to be received by Disbursement Agent from Seller (or such
+third party) for the credit of the Settlement Account, together with a
+settlement report containing all information set forth on Annex 17 hereto (the
+"Settlement Report") by 5:00 p.m. New York time. Upon Disbursement Agent's
+verification that (x) all information required pursuant to Annex 17 hereto is
+set forth in the Settlement Report, and (y) Buyer has confirmed the accuracy of
+such Settlement Report in writing, which confirmation may be delivered via
+Electronic Transmission, Disbursement Agent shall immediately disburse such
+funds in the Settlement Account as directed in the Settlement Report provided
+(i) sufficient funds exist in the Settlement Account, (ii) after giving effect
+to such repurchase, a Margin Deficit would not exist and there would be no
+violation of any Sub-Limits and (iii) Buyer has not disputed such disbursement
+
+
+                                      -27-
+
+
+<PAGE>
+
+
+prior to such disbursement. If all amounts required to be disbursed to Buyer
+pursuant to the Settlement Report are not deposited in the Settlement Account by
+5:30 p.m. New York time on the date indicated as the "Settlement Date" in the
+Settlement Report, Disbursement Agent shall notify each of Custodian, Seller and
+Buyer and it shall be deemed to constitute an Event of Default under the
+Repurchase Agreement and satisfy all notice requirements of Buyer with respect
+to an Event of Default and Custodian and Seller shall treat such notice as a
+notice of an Event of Default from Buyer. Notwithstanding the foregoing
+sentence, if sufficient funds are not deposited in the Settlement Account in
+accordance with the preceding sentence on any "Settlement Date" and there are
+funds on deposit in the Wire-out Account, Seller hereby agrees that, and
+Disbursement Agent shall, transfer from the Wire-out Account to the Settlement
+Account no later than 5:30 p.m. New York time on such date an amount equal to
+the lesser of (x) all amounts on deposit in the Wire-out Account and (y) such
+shortfall. If such transferred funds are sufficient to pay all amounts required
+to be paid to Buyer pursuant to the Settlement Report, no Event of Default shall
+be deemed to have occurred. Notwithstanding the foregoing, if a conflict exists
+between the instructions of Buyer and the Settlement Report, Disbursement Agent
+shall follow Buyer's instructions.
+
+
+            (g) Reports; Monitoring.
+
+            (i) On each Business Day, Disbursement Agent shall provide to Buyer
+      a reconciliation report with respect to all cash activity in each
+      Transaction Account. Additionally, upon request Disbursement Agent shall
+      provide to Seller a reconciliation report with respect to all cash
+      activity on the Wire-out Account and the Settlement Account.
+
+            (ii) No later than 5:00 p.m. New York time on each Business Day,
+      Disbursement Agent shall provide to Buyer a daily report setting forth
+      such information as may reasonably be required by Buyer (a "Daily
+      Report").
+
+            (iii) Upon request of Buyer, Disbursement Agent shall provide to
+      Seller a Daily Report reflecting the information set forth thereon as of
+      the time of the transmission of such report.
+
+            (iv) Disbursement Agent shall provide to Buyer any reports with
+      respect to any aspect of the transactions contemplated by this Agreement,
+      to the extent the requested information is, or should be, in the
+      possession of Disbursement Agent, as Buyer may request.
+
+            (v) Disbursement Agent shall track and monitor all information
+      required to be provided to any party hereunder pursuant to any report
+      required to be delivered hereunder, including but not limited to, (A) all
+      amounts funded in respect of any Mortgage Loan, including, without
+      limitation, the Purchase Price, (B) the date such funds were disbursed,
+      (C) all amounts due to Buyer in respect of the Periodic Advance Repurchase
+      Payment, (D) the amount of any distribution in connection with any Request
+      for Additional Transactions for Excess Margin, (E) all Purchased Assets
+      and the aggregate outstanding Repurchase Prices in respect thereof and (F)
+      the amount of any Margin Deficit or Excess Margin.
+
+
+                                      -28-
+
+
+<PAGE>
+
+
+            (vi) Disbursement Agent shall provide all information in its
+      possession to Custodian, to the extent Custodian requests, in order to
+      permit Custodian to comply with its requirements under this Agreement,
+      including, but not limited to, the preparation and delivery of each
+      updated Asset Schedule, Exception Report and Fatal Exception Report.
+
+            (h) Income Payment Dates. Notwithstanding that Buyer and Seller
+intend that the Transactions under the Repurchase Agreement and hereunder to be
+sales to Buyer of the Purchased Assets, Seller shall deposit into the Settlement
+Account the Periodic Advance Repurchase Payment on each Payment Date. On each
+Payment Date, Buyer shall forward to Disbursement Agent a payment date report in
+the form set forth on Annex 19 hereto (a "Payment Date Report"). Disbursement
+Agent shall verify that all amounts required to be paid to Buyer pursuant to the
+Payment Date Report are deposited into the Settlement Account on each Payment
+Date. If such amounts are not deposited into the Settlement Account on or prior
+to 5:00 p.m. New York time on such Payment Date, Disbursement Agent shall notify
+each of Custodian, Seller and Buyer and it shall be deemed to constitute an
+Event of Default under the Repurchase Agreement and satisfy all notice
+requirements of Buyer with respect to an Event of Default and Custodian and
+Seller shall treat such notice as a notice of an Event of Default from Buyer.
+
+            (i) Set-off. Custodian and Disbursement Agent agree that they shall
+not exercise any right of set-off, banker's lien or any similar right in
+connection with funds on deposit in any Transaction Account.
+
+            (j) Fees and Expenses of Disbursement Agent.
+
+            (i) Disbursement Agent shall charge such fees for its services under
+      this Agreement as are set forth in a separate agreement between
+      Disbursement Agent and Seller, the payment of which fees, together with
+      Disbursement Agent's expenses in connection herewith, shall be solely the
+      obligation of Seller. The failure of Seller to pay any such fees shall not
+      excuse the performance by Disbursement Agent of any of its obligations
+      hereunder. The obligations of the Seller to pay Disbursement Agent such
+      fees and reimburse Disbursement Agent for such expenses in connection with
+      services provided by Disbursement Agent prior to the termination of this
+      Agreement and the earlier of the resignation or removal of Disbursement
+      Agent shall survive such termination, resignation or removal.
+
+            (ii) Seller shall be responsible for the standard fees and charges
+      of Disbursement Agent applicable to each Transaction Account. To the
+      extent that Seller has not paid such fees within a reasonable amount of
+      time from Seller's receipt of notice of such fees and charges,
+      Disbursement Agent shall provide written notice to Buyer of Seller's
+      failure to pay such fees and Buyer shall have the option, in its sole
+      discretion, to cure such failure.
+
+            (k) In performing its obligations under this Section 11, except as
+specifically provided in this Agreement, Disbursement Agent will not follow
+instructions from any party other than Buyer.
+
+
+                                      -29-
+
+
+<PAGE>
+
+
+            Section 12. No Adverse Interest.
+                        -------------------
+
+            By execution of this Agreement, each of Disbursement Agent and
+Custodian represent and warrant that it currently holds, and during the
+existence of this Agreement shall hold, no adverse interest, by way of security
+or otherwise, in any Mortgage Loan, and hereby waives and releases any such
+interest which it may have in any Mortgage Loan as of the date hereof. The
+Mortgage Loans shall not be subject to any security interest, lien or right to
+set-off by Custodian, Disbursement Agent or any third party claiming through
+Custodian or Disbursement Agent, and neither Custodian nor Disbursement Agent
+shall pledge, encumber, hypothecate, transfer, dispose of, or otherwise grant
+any third party interest in, the Mortgage Loans.
+
+            Section 13. Indemnification.
+                        ---------------
+
+            (a) Seller agrees to indemnify and hold Custodian, Disbursement
+Agent and their affiliates, directors, officers, agents and employees harmless
+against any and all liabilities, obligations, losses, damages, penalties,
+actions, judgments, suits, costs, of any kind or nature whatsoever, including
+reasonable attorney's fees, that may be imposed on, incurred by, or asserted
+against it or them in any way relating to or arising out of this Agreement or
+any action taken or not taken by it or them hereunder unless such liabilities,
+obligations, losses, damages, penalties, actions, judgements, suits, cost,
+expenses or disbursements were imposed on, incurred by or asserted against
+Custodian or Disbursement Agent because of the breach by Custodian or
+Disbursement Agent, as applicable, of its obligations hereunder, which breach
+was caused by negligence, lack of good faith or willful misconduct on the part
+of Custodian or Disbursement Agent, as applicable or any of its respective
+directors, officers, agents or employees. Each of Disbursement Agent and
+Custodian agree that it will promptly notify Seller of any such claim, action or
+suit asserted or commenced against it and that Seller may assume the defense
+thereof with counsel reasonably satisfactory to Disbursement Agent or Custodian,
+as applicable, at Seller's sole expense, that Custodian or Disbursement Agent,
+as applicable, will cooperate with Seller on such defense, and that Custodian or
+Disbursement Agent, as applicable, will not settle any such claim, action or
+suit without the consent of Seller. The foregoing indemnification shall survive
+any resignation or removal of Custodian or Disbursement Agent, as applicable, or
+the termination or assignment of this Agreement.
+
+            (b) In the event that Custodian fails to produce a Mortgage Note,
+Assignment of Mortgage or any other document related to a Mortgage Loan that was
+in its possession pursuant to Section 2 within two (2) Business Days after
+required or requested by Seller or Buyer, and provided that (i) Custodian
+previously delivered to Buyer an Asset Schedule and Exception Report which did
+not list such document as an Exception on the related Purchase Date; (ii) such
+document is not outstanding pursuant to a Request for Release and Receipt in the
+form annexed hereto as either Annex 5-A or Annex 5-B; and (iii) such document
+was held by Custodian on behalf of Seller or Buyer, as applicable (a "Custodial
+Delivery Failure"), then Custodian shall (a) with respect to any missing
+Mortgage Note, promptly deliver to Buyer or Seller upon request, a Lost Note
+Affidavit in the form of Annex 16 hereto and (b) with respect to any missing
+document related to such Mortgage Loan, including but not limited to a missing
+Mortgage Note, (1) indemnify Seller and Buyer, as applicable, in accordance with
+Section 13(c) below and (2) at Buyer's option, at any time the long term
+
+
+                                      -30-
+
+
+<PAGE>
+
+
+obligations of Custodian are rated below the second highest rating category of
+Moody's Investors Service, Inc. or Standard and Poor's Ratings Group, a division
+of McGraw Hill, Inc., obtain and maintain, at Custodian's expense, an insurance
+bond in the name of Buyer, and its successors in interest and assigns, insuring
+against any losses associated with the loss of such document, in an amount equal
+to the then outstanding principal balance of the related Mortgage Loan or such
+lesser amount requested by Buyer in Buyer's sole discretion.
+
+            (c) Custodian agrees to indemnify and hold Buyer and Seller, and
+their respective present or former affiliates, directors, officers, employees,
+agents and representatives harmless against any and all liabilities,
+obligations, losses, damages, penalties, actions, judgments, suits, costs,
+expenses or disbursements of any kind or nature whatsoever, including reasonable
+attorney's fees, that may be imposed on, incurred by, or asserted against it or
+them in any way relating to or arising out of a Custodial Delivery Failure or
+Custodian's breach of this Agreement, negligence, lack of good faith or willful
+misconduct. The foregoing indemnification shall survive the resignation or
+removal of Custodian and any termination or assignment of this Agreement.
+
+            (d) Disbursement Agent agrees to indemnify and hold Buyer and
+Seller, and their respective present or former affiliates, directors, officers,
+employees, agents and representatives harmless against any and all liabilities,
+obligations, losses, damages, penalties, actions, judgments, suits, costs,
+expenses or disbursements of any kind or nature whatsoever, including reasonable
+attorney's fees, that may be imposed on, incurred by, or asserted against it or
+them in any way relating to or arising out of Disbursement Agent's failure to
+act in strict compliance with the terms of this Agreement, negligence, lack of
+good faith or willful misconduct. The foregoing indemnification shall survive
+the resignation or removal of Disbursement Agent or any termination or
+assignment of this Agreement.
+
+
+            Section 14. Reliance of Custodian.
+                        ---------------------
+
+            (a) In the absence of bad faith on the part of Custodian, Custodian
+may conclusively rely, as to the truth of the statements and the correctness of
+the opinions expressed therein, upon any request, instruction, certificate,
+opinion or other document furnished to Custodian (including such items received
+via Electronic Transmission), reasonably believed by Custodian to be genuine and
+to have been signed or presented by the proper party or parties and conforming
+to the requirements of this Agreement; provided, however, that in the case of
+any Mortgage Loan Document or other request, instruction, document or
+certificate which by any provision hereof is specifically required to be
+furnished to Custodian, Custodian shall be under a duty to examine the same in
+accordance with the requirements of this Agreement.
+
+            (b) Custodian shall have no duties or responsibilities except those
+that are specifically set forth in this Agreement. Custodian shall have no
+responsibility nor duty with respect to any Mortgage File while not in its
+possession. If Custodian requests instructions from Buyer with respect to any
+act, action or failure to act in connection with this Agreement, Custodian shall
+be entitled to refrain from taking such action and continue to refrain from
+acting unless and until Custodian shall have received written instructions from
+Buyer with respect to a Mortgage File without incurring any liability therefor
+to Buyer or any other Person.
+
+
+                                      -31-
+
+
+<PAGE>
+
+
+            (c) Other than as provided herein, neither Custodian nor any of its
+directors, officers, agents or employees shall be liable for any action or
+omission to act hereunder except for its or their own negligence or lack of good
+faith or willful misconduct. In no event shall Custodian or any of its
+directors, officers, agents or employees have any responsibility to ascertain or
+take action except as expressly provided herein.
+
+            (d) Neither Custodian nor any of its directors, officers, agents or
+employees shall be liable to the Purchaser or any other Person with respect to
+any action taken or not taken by it in good faith in the performance of its
+obligations under this Agreement. The obligations of Custodian or any of its
+directors, officers, agents or employees shall be determined solely by the
+express provisions of this Agreement.
+
+            (e) Custodian may consult with counsel selected by Custodian with
+regard to legal questions arising out of or in connection with this Agreement,
+and the advice or opinion of such counsel shall be full and complete
+authorization and protection in respect of any action reasonably taken, omitted
+or suffered by Custodian in good faith and in accordance therewith; provided
+such action shall be in compliance with all the terms expressly provided herein.
+
+            (f) No provision of this Agreement shall require Custodian to expend
+or risk its own funds or otherwise incur financial liability (other than
+expenses or liabilities otherwise required to be incurred by the express terms
+of this Agreement) in the performance of its duties under this Agreement if it
+shall have reasonable grounds for believing that repayment of such funds or
+adequate indemnity is not reasonably assured to it.
+
+            (g) Any corporation into which Custodian may be merged or converted
+or with which it may be consolidated, or any corporation resulting from any
+merger, conversion or consolidation to which Custodian shall be a party, or any
+corporation succeeding to the business of Custodian shall be the successor of
+Custodian hereunder without the execution or filing of any paper with any party
+hereto or any further act on the part of any of the parties hereto except where
+an instrument of transfer or assignment is required by law to effect such
+succession, anything herein to the contrary notwithstanding.
+
+            Section 15. Term of Agreement.
+                        -----------------
+
+            Promptly after written notice from Buyer of the termination of the
+Repurchase Agreement and payment in full of all amounts owing to Buyer
+thereunder, Custodian shall deliver all documents remaining in the Mortgage
+Files to Seller, and, except as otherwise set forth herein, this Agreement shall
+thereupon terminate.
+
+            Section 16. Notices.
+                        -------
+
+            All demands, notices and communications hereunder shall be in
+writing and shall be deemed to have been duly given when received by the
+recipient party at the address shown on its signature page hereto, or at such
+other addresses as may hereafter be furnished to each of the other parties by
+like notice. Any such demand, notice or communication hereunder shall be deemed
+to have been received on the date delivered to or received at the premises of
+the addressee. Each party hereto hereby represents and warrants that its office
+
+
+                                      -32-
+
+
+<PAGE>
+
+
+is located at the respective address set forth on its signature page hereto, and
+each such party shall notify each other party hereto if such address should
+change.
+
+            Section 17. GOVERNING LAW.
+                        -------------
+
+            THIS AGREEMENT SHALL BE GOVERNED BY THE INTERNAL LAWS OF THE STATE
+OF NEW YORK WITHOUT GIVING EFFECT TO THE CONFLICT OF LAW PRINCIPLES THEREOF.
+
+            Section 18. Authorized Representatives.
+                        --------------------------
+
+            Each individual designated as an authorized representative of Buyer
+or its successors or assigns, Seller, Disbursement Agent and Custodian,
+respectively (an "Authorized Representative"), is authorized to give and receive
+notices, requests and instructions and to deliver certificates and documents in
+connection with this Agreement on behalf of Buyer, Seller, Disbursement Agent
+and Custodian, as the case may be, and the specimen signature for each such
+Authorized Representative, initially authorized hereunder, is set forth on
+Annexes 6, 7, 8 and 9 hereof, respectively. From time to time, Buyer, Seller,
+Disbursement Agent and Custodian or their respective successors or permitted
+assigns may, by delivering to the others a revised annex, change the information
+previously given pursuant to this Section 18, but each of the parties hereto
+shall be entitled to rely conclusively on the then current annex until receipt
+of a superseding annex.
+
+            Section 19. Amendment.
+                        ---------
+
+            This Agreement may be amended from time to time by written agreement
+signed by Seller, Buyer, Custodian and Disbursement Agent.
+
+            Section 20. Cumulative Rights.
+                        -----------------
+
+            The rights, powers and remedies of Custodian, Disbursement Agent and
+Buyer under this Agreement shall be in addition to all rights, powers and
+remedies given to Custodian, Disbursement Agent and Buyer by virtue of any
+statute or rule of law, the Repurchase Agreement or any other agreement, all of
+which rights, powers and remedies shall be cumulative and may be exercised
+successively or concurrently without impairing Buyer's interest in the Purchased
+Assets.
+
+            Section 21. Assignment; Binding Upon Successors.
+                        -----------------------------------
+
+            This Agreement may not be assigned in whole or in part by Seller,
+Custodian or Disbursement Agent without the prior written consent of Buyer. This
+Agreement may be assigned by Buyer in whole or in part without the prior written
+consent of any other party hereto. Buyer shall provide Custodian with notice of
+such assignment together with written acknowledgment that the assignee is
+assuming all of the obligations of Buyer under this Agreement to the extent
+applicable. All rights of Custodian, Disbursement Agent and Buyer under this
+Agreement shall inure to the benefit of Custodian, Disbursement Agent and Buyer
+and their successors and permitted assigns, and all obligations of Seller shall
+bind its successors and assigns.
+
+
+                                      -33-
+
+
+<PAGE>
+
+
+            Section 22. Entire Agreement; Severability.
+                        ------------------------------
+
+            This Agreement, the Edit Check Agreement and the Repurchase
+Agreement contain the entire agreement with respect to the rights and
+obligations of Custodian and Disbursement Agent relating to the Purchased Assets
+among Custodian, Disbursement Agent, Buyer and Seller. If any of the provisions
+of this Agreement shall be held invalid or unenforceable, this Agreement shall
+be construed as if not containing such provisions, and the rights and
+obligations of the parties hereto shall be construed and enforced accordingly.
+
+            Section 23. Execution in Counterparts.
+                        -------------------------
+
+            This Agreement may be executed in counterparts, each of which when
+so executed shall be deemed to be an original and all of which when taken
+together shall constitute one and the same agreement.
+
+            Section 24. Tax Reports.
+                        -----------
+
+            Custodian shall not be responsible for the preparation or filing of
+any reports or returns relating to federal, state or local income taxes with
+respect to this Agreement, other than in respect of Custodian's compensation or
+for reimbursement of expenses.
+
+            Section 25. Assignment by Buyer.
+                        -------------------
+
+            Buyer hereby notifies Custodian that Buyer may assign, as of the
+applicable Purchase Date, all of its right, title and interest in and to some or
+all of the Purchased Assets to a third party assignee (an "Assignee"), subject
+only to an obligation on the part of the Assignee to release its interest in
+each such Purchased Asset to Buyer to permit Custodian, Buyer or its designee to
+make delivery thereof in accordance with the terms of this Agreement. Seller
+hereby irrevocably consents to any such assignment. Subject to any limitations
+in any agreement between the Assignee and Buyer, the Assignee may, upon notice
+of Buyer's default, directly enforce and exercise such rights under this
+Agreement that have been assigned or pledged to it and, until otherwise notified
+by the Assignee, Buyer shall no longer have any of such rights. Custodian shall
+assume that any assignment from Buyer to the Assignee is subject to no
+limitations that are not expressly set forth in this Agreement.
+
+            Section 26. SUBMISSION TO JURISDICTION; WAIVERS.
+                        -----------------------------------
+
+            EACH OF BUYER, SELLER, CUSTODIAN AND DISBURSEMENT AGENT HEREBY
+IRREVOCABLY AND UNCONDITIONALLY:
+
+            (a) SUBMITS FOR ITSELF AND ITS PROPERTY IN ANY LEGAL ACTION OR
+PROCEEDING RELATING TO THIS AGREEMENT AND THE OTHER REPURCHASE DOCUMENTS, OR FOR
+RECOGNITION AND ENFORCEMENT OF ANY JUDGMENT IN RESPECT THEREOF, TO THE EXCLUSIVE
+GENERAL JURISDICTION OF THE COURTS OF THE STATE OF NEW YORK SITTING IN THE
+BOROUGH OF MANHATTAN, THE FEDERAL COURTS OF THE UNITED STATES OF AMERICA FOR THE
+SOUTHERN DISTRICT OF NEW YORK, AND APPELLATE COURTS FROM ANY THEREOF;
+
+
+                                      -34-
+
+
+<PAGE>
+
+
+            (b) CONSENTS THAT ANY SUCH ACTION OR PROCEEDING MAY BE BROUGHT IN
+SUCH COURTS AND, TO THE EXTENT PERMITTED BY LAW, WAIVES ANY OBJECTION THAT IT
+MAY NOW OR HEREAFTER HAVE TO THE VENUE OF ANY SUCH ACTION OR PROCEEDING IN ANY
+SUCH COURT OR THAT SUCH ACTION OR PROCEEDING WAS BROUGHT IN AN INCONVENIENT
+COURT AND AGREES NOT TO PLEAD OR CLAIM THE SAME;
+
+            (c) AGREES THAT SERVICE OF PROCESS IN ANY SUCH ACTION OR PROCEEDING
+MAY BE EFFECTED BY MAILING A COPY THEREOF BY REGISTERED OR CERTIFIED MAIL (OR
+ANY SUBSTANTIALLY SIMILAR FORM OF MAIL), POSTAGE PREPAID, TO ITS ADDRESS SET
+FORTH UNDER ITS SIGNATURE BELOW OR AT SUCH OTHER ADDRESS OF WHICH EACH OTHER
+PARTY HERETO SHALL HAVE BEEN NOTIFIED;
+
+            (d) AGREES THAT NOTHING HEREIN SHALL AFFECT THE RIGHT TO EFFECT
+SERVICE OF PROCESS IN ANY OTHER MANNER PERMITTED BY LAW OR SHALL LIMIT THE RIGHT
+TO SUE IN ANY OTHER JURISDICTION; AND
+
+            (e) WAIVES, TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, ANY
+AND ALL RIGHT TO TRIAL BY JURY IN ANY LEGAL PROCEEDING ARISING OUT OF OR
+RELATING TO THIS AGREEMENT, ANY OTHER REPURCHASE DOCUMENT OR THE TRANSACTIONS
+CONTEMPLATED HEREBY OR THEREBY.
+
+            Section 27. Confidentiality.
+                        ---------------
+
+            Each of Custodian and Disbursement Agent hereby acknowledges and
+agrees that (i) all written or computer-readable information provided by Buyer
+or Seller regarding Buyer or Seller and (ii) the terms of this Agreement and the
+Repurchase Agreement (the "Confidential Information"), shall be kept
+confidential and shall not be divulged to any Person other than the parties
+hereto without Buyer's and Seller's prior written consent except to the extent
+that (i) Custodian or Disbursement Agent reasonably deems necessary to do so in
+working with legal counsel, auditors, taxing authorities or other governmental
+agencies or regulatory bodies or in order to comply with any applicable federal
+or state laws, (ii) any portion of the Confidential Information is in the public
+domain other than due to a breach of this covenant by the Custodian or the
+Disbursement Agent, as the case may be, or by the disclosing party or (iii) to
+the extent that Custodian or Disbursement Agent, as applicable, is required to
+disclose Confidential Information pursuant to the requirements of any legal
+proceeding, Custodian or Disbursement Agent, as applicable, shall notify Buyer
+and Seller within one Business Day of its knowledge of such legally required
+disclosure so that Buyer or Seller may seek an appropriate protective order
+and/or waive Custodian's or Disbursement Agent's compliance, as applicable, with
+this Agreement. Notice shall be both by telephone and in writing. In the absence
+of a protective order or waiver, Custodian or Disbursement Agent, as applicable,
+may disclose the relevant Confidential Information if, in the written opinion of
+its counsel, failure to disclose such Confidential Information would subject
+Custodian or Disbursement Agent, as applicable, to liability for contempt,
+censure or other legal penalty or liability.
+
+
+                                      -35-
+
+
+<PAGE>
+
+
+                            [SIGNATURE PAGE FOLLOWS]
+
+
+<PAGE>
+
+
+            IN WITNESS WHEREOF, this Agreement was duly executed by the parties
+hereto as of the day and year first above written.
+
+
+                                       AMERICAN HOME MORTGAGE CORP.,
+
+
+                                       By: /s/ Richard D. Silver
+                                          -------------------------------------
+                                          Name:  Richard D. Silver
+                                          Title: Controller
+
+                                       Address for Notices:
+                                       American Home Mortgage Corp:
+                                       520 Broadhollow Road
+                                       Melville, New York 11747
+                                       Attention:  Michael Strauss, President
+                                       Telecopier No:  _______________________
+                                       Telephone No:  _______________________
+
+
+                                       DEUTSCHE BANK NATIONAL TRUST
+                                          COMPANY, as Custodian
+
+
+                                       By: /s/ Aimee Kemmeter
+                                          -------------------------------------
+                                          Name:  Aimee Kemmeter
+                                          Title: Assistant Vice President
+
+                                       Address for Notices:
+                                       1761 East St. Andrew Place
+                                       Santa Ana, California 92705
+                                       Attention:  Mortgage Custody-AH020C
+                                       Telecopier No.:  (714) 247-6285
+                                       Telephone No:  (714) 247-6000
+
+
+                                       CDC MORTGAGE CAPITAL INC.
+
+
+                                       By: /s/ Adil Nathani
+                                          -------------------------------------
+                                          Name:  Adil Nathani
+                                          Title: Managing Director
+
+
+                                       By: /s/ William Branagh
+                                          -------------------------------------
+                                          Name:  William Branagh
+                                          Title: Director
+
+
+<PAGE>
+
+                                       Address for Notices:
+                                       9 West 57th Street
+                                       New York, NY 10019
+                                       Attn:  Ray Sullivan
+                                       Telecopier No.:  (212) 891-3347
+                                       Telephone No.:  (212) 891-5815
+                                       Email: r.sullivan@cdcixis-cmna.com
+
+                                       With a copy to:
+
+                                       9 West 57th Street
+                                       New York, NY 10019
+                                       Attn: Al Zakes, Esq.,
+                                       General Counsel
+                                       Telecopier No.:  (212) 891-1922
+                                       Telephone No.:  (212) 891-6137
+                                       Email:albert.zakes@cdcixis-cmna.com
+
+
+                                       DEUTSCHE BANK NATIONAL TRUST
+                                          COMPANY, as Disbursement Agent
+
+
+                                       By: /s/ Aimee Kemmeter
+                                          -------------------------------------
+                                          Name:  Aimee Kemmeter
+                                          Title: Assistant Vice President
+
+
+                                       Address for Notices:
+                                       1761 East St. Andrew Place
+                                       Santa Ana, California 92705
+                                       Attention:  Mortgage Custody- AH020C
+                                       Telecopier No.:  (714) 247-6058
+                                       Telephone No:  (714) 247-6000
+
+
+</TEXT>
+</DOCUMENT>

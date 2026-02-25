@@ -1,0 +1,1680 @@
+<DOCUMENT>
+<TYPE>EX-10.3
+<SEQUENCE>21
+<FILENAME>ex10-3.txt
+<DESCRIPTION>EXHIBIT 10.3
+<TEXT>
+                                                                    EXHIBIT 10.3
+
+                               AGREEMENT FOR THE
+
+
+                  PROVISION OF BILLING AND COLLECTION SERVICES
+
+
+                                      FOR
+
+
+                              DIRECTORY PUBLISHERS
+
+
+                                    BETWEEN
+
+
+                                    SGN LLC
+
+
+                                      AND
+
+
+                               QWEST CORPORATION
+
+
+
+
+
+
+
+
+
+THE PARTIES ACKNOWLEDGE THAT THIS AGREEMENT CONTAINS COMMERCIALLY CONFIDENTIAL
+INFORMATION THAT MAY BE CONSIDERED PROPRIETARY BY EITHER OR BOTH PARTIES, AND
+AGREE TO LIMIT THE DISTRIBUTION OF THE AGREEMENT TO THOSE INDIVIDUALS IN THEIR
+RESPECTIVE ORGANIZATIONS WITH A NEED TO KNOW THE CONTENTS OF THE AGREEMENT.
+
+
+
+                                      Notice
+                                      ------
+    The information contained herein should not be disclosed to unauthorized
+          persons. It is meant for use by authorized representatives of
+                            Qwest and Customer only.
+
+
+
+<PAGE>
+
+
+
+                                TABLE OF CONTENTS
+
+SECTION                                                                     PAGE
+-------                                                                     ----
+
+    1.   Purpose of Agreement.................................................4
+
+    2.   Scope of Agreement...................................................5
+
+    3.   Responsibilities of Customer.........................................5
+
+    4.   Provision of Billing and Collection Services.........................7
+
+    5.   Developmental Charge(s) .............................................8
+
+    6.   Service Commitment ..................................................8
+
+    7.   Customer Prices; Payment.............................................9
+
+    8.   Dispute Resolution .................................................10
+
+    9.   Audit...............................................................10
+
+   10.   Billing Errors and Limitation of Liability .........................12
+
+   11.   Data Retention .....................................................14
+
+   12.   Indemnification.....................................................14
+
+   13.   Taxes...............................................................15
+
+   14.   Purchase of Accounts Receivable ....................................17
+
+   15.   Limitations Period .................................................18
+
+   16.   Term and Termination of Agreement...................................18
+
+   17.   Proprietary and Confidential Information ...........................19
+
+   18.   Force Majeure ......................................................20
+
+   19.   Default ............................................................20
+
+   20.   Amendments; Waivers ................................................21
+
+   21.   Assignment .........................................................21
+
+   22.   Notices and Demands.................................................21
+
+   23.   Representations and Warranties......................................22
+
+   24.   Relationship of Parties.............................................22
+
+
+                                     Notice
+                                     ------
+    The information contained herein should not be disclosed to unauthorized
+         persons. It is meant for use by authorized representatives of
+                            Qwest and Customer only.
+
+
+
+                                       2
+
+
+<PAGE>
+
+
+SECTION                                                                     PAGE
+-------                                                                     ----
+
+   25.   Third-Party Beneficiaries...........................................22
+
+   26.   Governing Law.......................................................22
+
+   27.   Lawfulness of Agreement.............................................23
+
+   28.   Successors and Assigns..............................................23
+
+   29.   Headings............................................................23
+
+   30.   Entire Agreement....................................................23
+
+   31.   Miscellaneous.......................................................23
+
+
+
+
+Exhibit A     Definitions...................................................A-l
+
+Exhibit B     Description of Services.......................................B-l
+
+Exhibit C     Price Lists...................................................C-l
+
+Exhibit D     Accounts Receivable Settlement Terms..........................D-l
+
+Exhibit E     Treatment and Collection Policy...............................E-l
+
+Exhibit F     Mechanized Adjustment Records.................................F-l
+
+Exhibit G     Adjustments...................................................G-l
+
+Exhibit H     DPS Billing Policy............................................H-l
+
+Exhibit I     ASK End User Account Information..............................I-1
+
+
+
+
+                                     Notice
+                                     ------
+    The information contained herein should not be disclosed to unauthorized
+         persons. It is meant for use by authorized representatives of
+                            Qwest and Customer only.
+
+
+
+                                       3
+
+
+<PAGE>
+
+
+
+                         AGREEMENT FOR THE PROVISION OF
+                        BILLING AND COLLECTION SERVICES
+                    FOR DIRECTORY PUBLISHING SERVICES (DPS)
+
+THIS AGREEMENT for the Provision of Billing and Collection Services for
+Directory Publishing Services (this "Agreement") is entered into as of this 1st
+day of November, 2002 (the "Effective Date"), by and between Qwest Corporation,
+a Colorado corporation ("Qwest") and SGN LLC, a Delaware limited liability
+company ("Customer") (each a "Party" and together the "Parties"), acting through
+their authorized representatives.
+
+WHEREAS, Qwest Dex, Inc. ("Dex"), Qwest Communications International Inc.
+"QCII"), Qwest Services Corporation ("QSC") and Dex Holdings LLC ("Buyer") have
+entered into that certain Purchase Agreement dated as of August 19, 2002 (the
+"LLC Purchase Agreement"), pursuant to which Dex has agreed, subject to the
+terms and conditions set forth therein, to (i) contribute certain of its assets
+and liabilities to Customer, and (ii) sell all of the outstanding limited
+liability company interests of Customer to Buyer following such contribution;
+and
+
+WHEREAS, in connection with the LLC Purchase Agreement, Dex, QCII, QSC and Buyer
+entered into that certain Purchase Agreement, dated as of even date therewith
+(the "LLC II Purchase Agreement"), pursuant to which Dex has agreed, subject to
+the terms and conditions set forth therein, to (i) contribute certain of its
+assets and liabilities to GPP LLC, and (ii) sell all of the outstanding limited
+liability company interests of GPP LLC to Buyer following such contribution on a
+certain date (the "the Second Closing Date"); and
+
+WHEREAS, Sections 7.2(g) and 7.3(f) of the LLC Purchase Agreement provide that
+the obligations of Dex, QSC, QCII and Buyer to consummate the closing under the
+LLC Purchase Agreement are subject, among other things, to the execution and
+delivery of this Agreement; and
+
+WHEREAS, Customer intends to purchase from Qwest and Qwest intends to provide to
+Customer billing and collection services and certain PAR obligations
+(collectively, the "Services"), as further described in Exhibit B, via the use
+of ABEC 0575.
+
+NOW, THEREFORE, in consideration of the mutual benefits accruing to each Party
+and other good and valuable consideration, the receipt and sufficiency of which
+are hereby acknowledged, the Parties hereby covenant and agree as follows:
+
+1.  Purpose of Agreement
+    --------------------
+
+    A. The purpose of this Agreement is to set forth terms and conditions
+       pursuant to which Qwest will provide the Services for Customer's business
+       of publishing telephone directory products and services consisting
+       principally of searchable (e.g., by alphabet letter or category) multiple
+       telephone listings and classified advertisements that are delivered or
+       otherwise made available to End Users in tangible media (e.g., paper
+       directories, CD-ROM) or electronic media (e.g., Internet), as presently
+       conducted by Customer. Such products and services of Customer will
+       hereinafter be referred to collectively as DPS services.
+
+    B. Qwest agrees to bill Customer's DPS services to End User accounts within
+       the territory comprised of the seven states of Colorado, Iowa, Minnesota,
+       Nebraska, New Mexico, North Dakota, and South Dakota.
+
+                                     Notice
+                                     ------
+    The information contained herein should not be disclosed to unauthorized
+         persons. It is meant for use by authorized representatives of
+                            Qwest and Customer only.
+
+
+
+                                       4
+
+
+<PAGE>
+
+
+    C. Upon the Second Closing Date, Qwest and GPP LLC will enter into an
+       agreement on substantially the same terms and conditions as this
+       Agreement (including with respect to pricing) (a copy of the form of
+       which is attached to the LLC II Purchase Agreement), pursuant to which
+       Qwest will agree to bill GPP LLC's DPS services to End User accounts
+       within Arizona, Idaho, Montana, Oregon, Utah, Washington, and Wyoming for
+       up to the remainder of the term of this Agreement.
+
+2.  Scope of Agreement
+    ------------------
+
+    This Agreement defines the terms and conditions for which Qwest will provide
+    DPS to Customer and includes the following Exhibits:
+
+    Exhibit A      Definitions;
+    Exhibit B      Description of Services;
+    Exhibit C      Price Lists;
+    Exhibit D      Accounts Receivable Settlement Terms;
+    Exhibit E      Treatment and Collection Policy;
+    Exhibit F      Mechanized Adjustment Records;
+    Exhibit G      Adjustments;
+    Exhibit H      DPS Billing Policy; and
+    Exhibit I      ASK End User Account Information.
+
+    The above referenced Exhibits are attached hereto and incorporated herein by
+    reference.
+
+3.  Responsibilities of Customer
+    ----------------------------
+
+    A. Customer will utilize uniquely designated ABECs, assigned by Qwest from
+       an authorized list provided by Telcordia Technologies, for purposes of
+       billing DPS.
+
+    B. Prior to submitting any new DPS services for billing, Customer agrees to
+       prepare and submit the Qwest Billing Service Request Form (attached
+       hereto as Attachment 1 of Exhibit B) for Qwest approval, as further
+       described in Exhibit B, Section II. Customer further agrees to submit,
+       together with a written Billing Service Request Form, the following
+       documentation: 1) marketing materials, 2) program description/content
+       materials, 3) subscriber authentication processes utilized for approval,
+       and 4) any known historical subscriber dispute and Adjustment activity
+       information.
+
+    C. For each DPS Billing Transaction submitted to Qwest for billing, Customer
+       will provide as part of such Billing Transaction, pertinent data for
+       presentation on the End User bill with the appropriate level of detail to
+       ensure the presentation of the charge/credit on the bill is a true
+       representation of the transaction in all material respects. Without
+       limiting Customer's obligations as set forth in the previous sentence,
+       for each DPS Billing Transaction submitted to Qwest for billing, Customer
+       will provide the following information in order to ensure the
+       presentation of the charge/credit on the bill is a true representation of
+       the transaction with respect thereto: 1) service descriptions and/or
+       program names; 2) the date the transaction took place; 3) the amount of
+       the transaction (including appropriate tax(s); and 4) duration of the
+       transaction for time-sensitive billing. Further, at the reasonable
+       request of Qwest, Customer agrees to provide Qwest with billing details
+       that accurately identify the transaction was actually initiated and
+       authorized by the End User.
+
+    D. Customer agrees to identify, properly represent and submit DPS Billing
+       Transactions to Qwest in such a way that the presentation of such Billing
+       Transactions on the End User's bill is a true representation of the
+       transaction, as further specified in Section 3.C above.
+
+
+                                     Notice
+                                     ------
+    The information contained herein should not be disclosed to unauthorized
+          persons. It is meant for use by authorized representatives of
+                            Qwest and Customer only.
+
+
+
+                                       5
+
+
+<PAGE>
+
+    E. Customer agrees to submit DPS Billing Transactions to Qwest with any
+       appropriate taxes: 1) combined "bundled" with the DPS charge; or 2) as a
+       separate Billing Transaction amount, as set forth in Section 13 of this
+       Agreement. Further, Customer will have the responsibility of setting the
+       appropriate tax exemption indicator (Indicator 27) correctly within each
+       Billing Transaction.
+
+    F. Customer agrees that Qwest, as soon as reasonably practicable, will print
+       a disclaimer on Customer's portion of the bill that advises End Users
+       that failure to pay for DPS charges billed within the Qwest shared-bill
+       will not result in the disconnection of the End User's local telephone
+       service, in accordance with federal and state Truth in Billing regulatory
+       rules.
+
+    G. Customer will use commercially reasonable efforts at all times to (i)
+       give prompt, courteous, and efficient service to End Users, (ii) act
+       honestly and fairly in all dealings with End Users, and (iii)
+       intentionally do nothing reasonably likely to discredit, dishonor, or in
+       any manner injure the reputation of Qwest or the Services covered by this
+       Agreement and the quality image associated with Qwest or such Services.
+
+    H. Customer will use commercially reasonable efforts to promptly and
+       efficiently respond to and resolve End User billing inquiries, including
+       providing toll-free access to customer-service locations and adequate
+       facilities and personnel to handle such inquiries.
+
+    I. Customer will exercise commercially reasonable efforts not to submit to
+       Qwest any Billing Transactions ninety (90) days or greater after the date
+       the transaction occurred (hereinafter "old Billing Transactions"). Qwest
+       reserves the right to reject and return old Billing Transactions to
+       Customer as Unbillable.
+
+    J. Customer will exercise commercially reasonable efforts to not submit
+       Billing Transactions to Qwest for billing on public access line ("PAL")
+       accounts. Qwest reserves the right to reject and return such Billing
+       Transactions to Customer as Unbillable.
+
+    K. Customer grants Qwest a non-transferable, revocable license to use
+       Customer's tradename and logo (the "Licensed Property") in connection
+       with the provision of the Services hereunder. Qwest will have the right
+       to use the Licensed Property on each Page of an End User's bill that
+       contains Customer's charges. Customer will provide Qwest with a
+       photo-quality reproduction of its logo for printing on the End User bill.
+       In addition, Qwest will have the right to use the Licensed Property in
+       connection with an informative message to the End User defining the
+       relationship between Qwest and Customer. Subject to Section 4.D, Qwest
+       will be required to comply with Customer's reasonable branding
+       requirements as in effect from time to time with respect to Customer's
+       Licensed Property.
+
+    L. Customer represents and warrants that it is not a "telecommunications
+       carrier" (as defined under the Communications Act of 1934, as amended by
+       the Telecommunications Act of 1996) within any Qwest Region.
+
+    M. Customer will provide to Qwest in a timely manner all End User billing
+       information necessary to permit Qwest to provide the Services. Such
+       information will be provided in a format that is mutually agreed upon by
+       Qwest and Customer. In addition, in the event any reporting obligations
+
+                                     Notice
+                                     ------
+    The information contained herein should not be disclosed to unauthorized
+          persons. It is meant for use by authorized representatives of
+                            Qwest and Customer only.
+
+
+                                       6
+
+
+
+<PAGE>
+       or requirements are imposed upon Qwest by any third party or regulatory
+       agency in connection with this Agreement or the Services, each Party
+       agrees to cooperate with the other Party, as reasonably requested, in
+       complying with such obligations and requirements.
+
+    N. If Qwest experiences a 15% or greater increase in volume of End User
+       disputes (as measured at the end of any calendar month against the
+       monthly average of the immediately preceding six (6) months) relating to
+       Customer's DPS services, Customer will use commercially reasonable
+       efforts to take such action as is necessary to promptly remedy such
+       volume increase.
+
+    O. If Customer's DPS Adjustment activity increases by at least 15% (as
+       measured at the end of any calendar month against the monthly average of
+       the immediately preceding six (6) months), Customer will use commercially
+       reasonable efforts to take such action as is necessary to promptly remedy
+       such Adjustment activity increase.
+
+4.  Provision of Billing and Collection Services
+    --------------------------------------------
+
+    A. Qwest agrees and acknowledges that, subject to the various terms and
+       conditions contained herein: (i) it is undertaking the various Services
+       with respect to Customer's properly submitted DPS billing requests
+       hereunder, as an agent for, and on behalf and for the benefit of,
+       Customer; and (ii) all right, title and interest in and to Customer's
+       Account Receivables (including all collections and proceeds thereof) will
+       continue to be owned by Customer until such Account Receivable is
+       purchased by Qwest pursuant to and in accordance with Exhibit D hereto.
+
+    B. Services provided under the terms of this Agreement are contingent upon a
+       shared Qwest End User bill in which Qwest is the provider of local
+       telephone service (subject to the successor provisions contained herein).
+
+    C. Qwest interstate and intrastate Services will be provided in accordance
+       with the terms and conditions of this Agreement.
+
+    D. Except as otherwise provided herein, presentation of Customer's portion
+       of the bill will be in Qwest's standard format, as in effect from time to
+       time, for inclusion of third party Billing Transactions with respect to
+       content, including, but not limited to, logos, bill format, type of
+       Billing Transactions, Market Messages and relationship to others within
+       the same bill.
+
+    E. Services will be billed to Customer via a monthly B&C invoice (as defined
+       in Section 7.B hereof) and will be calculated utilizing one or a
+       combination of the following pricing methodologies, as further described
+       in Exhibit C:
+
+       1. Volume-sensitive recurring pricing (billing volumes multiplied by a
+          set price);
+       2. Flat-rated recurring pricing; and/or
+       3. Non-recurring Developmental Charges.
+
+    F. In the event of a Governmental Entity order or other directive that may
+       cause Qwest an increase in the cost of providing Services, Qwest reserves
+       the right to allocate developmental costs associated with implementing
+       the order across all affected customers, and/or to modify its rates for
+       Services retroactive to the effective date of such order or other
+       directive. Qwest will use commercially reasonable efforts to deliver to
+       Customer thirty (30) days' advance notice of such allocation and other
+       reasonable information relating to such order or other directive. In the
+       event of such an increase in costs, Customer reserves the right to
+
+                                     Notice
+                                     ------
+    The information contained herein should not be disclosed to unauthorized
+          persons. It is meant for use by authorized representatives of
+                            Qwest and Customer only.
+
+
+                                       7
+<PAGE>
+
+       terminate this Agreement (or, in the case of such an order or other
+       directive that applies solely to one or more of Customer's service areas,
+       Customer may terminate this Agreement with respect to such affected
+       service area(s)) upon thirty (30) days' written notice to Qwest. Customer
+       must exercise its right to terminate this Agreement in accordance with
+       this paragraph within ninety (90) days after Customer's receipt of notice
+       from Qwest of such increase in costs.
+
+    G. On an annual basis, Qwest will provide End Users with information
+       relating to their billing rights for DPS services, in accordance with FCC
+       and FTC guidelines. Customer agrees to pay Qwest for a percentage of
+       costs associated with providing End Users with such statement. The
+       percentage will be determined by calculating the annual volume of all DPS
+       Billing Transactions for all End Users against the annual Billing
+       Transaction volumes for Customer. Qwest will calculate Customer's annual
+       Billing Transaction volumes using their Billing Transaction data billed
+       in the preceding twelve (12) months, Qwest will determine a pro-rata
+       percentage of the statement's cost across all affected customers.
+
+5.  Developmental Charges
+    ---------------------
+
+    A. Qwest has three distinct operating regions, Central, Eastern and Western
+       Regions, (hereinafter each operating region will be individually referred
+       to as a "Qwest Region").
+
+    B. Customer acknowledges and agrees that, pursuant to the terms and
+       conditions of the LLC Purchase Agreement, it is responsible for paying
+       the initial set-up cost for the implementation for each Customer ABEC and
+       the PARS in the manner contemplated by Exhibit D. Customer further
+       acknowledges and agrees that an additional set-up charge will apply for
+       the implementation for each, if any, additional billing identifiers that
+       are implemented in any Qwest Region at Customer's request (each a
+       "Developmental Charge").
+
+    C. All Developmental Charges resulting from Custom Request work, as set
+       forth in Exhibit B, Section II, initiated and authorized by Customer,
+       will be due and payable to Qwest at the then current rates (unless
+       otherwise agreed by the Parties) as follows:
+
+          (i) if such Developmental Charges are equal to or less than one
+          hundred and fifty thousand dollars ($150,000), then Customer will pay
+          all such Developmental Charges in advance within thirty (30) days
+          after Qwest has agreed to implement the request; and
+
+          (ii) if such Developmental Charges are greater than one hundred and
+          fifty thousand dollars ($150,000), then Customer will pay (a) 50% of
+          such Developmental Charges (the "Initial Payment") in advance within
+          thirty (30) days after Qwest has agreed to implement the request, (b)
+          25% of such Developmental Charges within thirty (30) days after the
+          date of the Initial Payment and (c) the remaining 25% of such
+          Developmental Charges within sixty (60) days after the date of the
+          Initial Payment; provided, however, that 100% of the Developmental
+          Charges will be paid no less than thirty (30) days prior to the
+          project's implementation date.
+
+6.  Service Commitment
+    ------------------
+
+    Customer understands and agrees that Qwest requires an annual minimum
+    (hereinafter "Service Commitment") in the amount of $65,000.00 for each
+    applicable Qwest Region, in recurring Service charges for each ABEC that is
+    utilized for billing Customer's DPS services. Such Service
+
+
+                                     Notice
+                                     ------
+    The information contained herein should not be disclosed to unauthorized
+          persons. It is meant for use by authorized representatives of
+                            Qwest and Customer only.
+
+
+                                       8
+<PAGE>
+
+    Commitment is required for Customer's Actual Charges (as defined herein)
+    incurred. For purposes of this Section, the term "Actual Charges" is defined
+    as any recurring and/or non-recurring charges incurred after the initial
+    set-up charges. The Service Commitment will be due and payable as follows:
+
+    A. If the total combined Actual Charges incurred by Customer for all active
+       ABECs, across all Qwest Regions, do not meet or exceed the Service
+       Commitment in a given calendar year, then Qwest will conduct a true-up
+       for that year after December actuals are billed on the January B&C
+       Invoices. If Customer has not received Services from Qwest under a
+       Billing and Collection Services agreement for a full calendar year at the
+       time the true-up is performed, then a proration will be applied to the
+       actual number of full months for which Customer has received Services
+       from Qwest.
+
+    B. Each year during the term of this Agreement, Qwest will invoice Customer
+       by the end of the second quarter of the following year for the difference
+       between the total Service Commitment due and the Actual Charges incurred
+       by Customer across all Qwest Regions during the previous calendar year.
+       Excess Actual Charges from one or more Qwest Region(s) may satisfy any
+       amounts owing in one or more Qwest Region(s) for the same year.
+
+    C. Upon termination of this Agreement, the Service Commitment will be
+       prorated using the number of days beginning with the end of the previous
+       settlement period to the actual date of termination. Qwest will invoice
+       Customer for the difference between the total Service Commitment due and
+       the Actual Charges incurred by Customer across all Qwest Regions. Such
+       amount will be invoiced to Customer and is due and payable in accordance
+       with the provisions of Section 7 below.
+
+    D. If termination of this Agreement occurs prior to the termination date
+       specified in Section 16.A of this Agreement, Qwest will conduct a true-up
+       as follows: 1) Qwest will prorate the Service Commitment for the period
+       from the Commencement Date to the date of termination; and 2) will
+       calculate the difference between the total Service Commitment due and the
+       Actual Charges incurred by Customer across all Qwest Regions. Such amount
+       will be invoiced to Customer and is due and payable in accordance with
+       the provisions of Section 7 below.
+
+7.  Customer Prices and Payment
+    ---------------------------
+
+    A. Prices
+       ------
+
+       All Services provided pursuant to this Agreement will be provided at the
+       prices specified in Exhibit C.
+
+    B. Invoices
+       --------
+
+       Services will be billed to Customer via a separate statement (an
+       "Invoice") for each ABEC established to bill each of Customer's ABECs,
+       utilizing the prices set forth in Exhibit C. To the extent that the
+       Parties do not actually execute this Agreement on the first day of the
+       month in which the Effective Date occurs, the invoices for that first
+       month of Services will be prorated to reflect the commencement of
+       Services on the Commencement Date.
+
+
+                                     Notice
+                                     ------
+    The information contained herein should not be disclosed to unauthorized
+         persons. It is meant for use by authorized representatives of
+                            Qwest and Customer only.
+
+
+                                       9
+<PAGE>
+
+
+    C. Payment of B&C Services
+       -----------------------
+
+       1. Customer's payment for Services will be due on the payment due date
+          reflected on the Invoice unless such date is not a Business Day, in
+          which case payment will be due on the next Business Day (the "Payment
+          Date").
+
+       2. Any payment received by Qwest for Services rendered after the Payment
+          Date or any payment received in funds that are not immediately
+          available to Qwest on the Payment Date, will be subject to a late
+          payment penalty. The late payment penalty will be the portion of the
+          amount due Qwest received after the Payment Date times a late factor
+          of 0.000310 per day compounded daily for the number of days from the
+          Payment Date to and including the date that Customer actually made the
+          payment to Qwest, which would result in an annual percentage rate of
+          twelve percent (12%). The late payment penalty will be billed in the
+          Detail of Late Payment Charges section of the invoice.
+
+       3. Any late payment resulting from bank error will not be subject to the
+          late payment penalty provided that Customer can verify that it was not
+          at fault. It is the responsibility of Customer to notify the banks
+          involved for resolution of the bank error.
+
+       4. The provisions of Section 8 of this Agreement will govern any dispute
+          associated with a Customer payment. Should the dispute not be resolved
+          by the Payment Date of the amount due, Customer will, notwithstanding
+          the continuing existence of the dispute, pay the billed amount in
+          accordance with the provisions of this Agreement. Payment of the
+          billed amount does not preclude the claiming Party from its right to
+          have claim against the other Party for reimbursement until the dispute
+          is resolved.
+
+8.  Dispute Resolution
+    ------------------
+
+    Any claim, controversy or dispute between Qwest and Customer, other than any
+    claim, controversy or dispute in which a Party seeks equitable relief, will
+    be settled as follows:
+
+    A. All disputes arising out of this Agreement between the Parties with
+       respect to any subject listed in the preceding paragraph will be
+       escalated through normal business procedures to the officer level prior
+       to the commencement of any arbitration proceeding.
+
+    B. Any claim, controversy or dispute between the Parties will be resolved by
+       arbitration in accordance with the Federal Arbitration Act, 9 U.S.C.
+       1-16. A retired judge or a practicing attorney under the rules of the
+       American Arbitration Association will conduct the arbitration. The
+       arbitration will be conducted in Denver, Colorado. The arbitrators
+       decision will be final and may be entered in any court with jurisdiction.
+       Each Party will be responsible for its own costs.
+
+9.  Audit
+    -----
+
+    A. For purposes of this Section, an audit will mean a Customer requested
+       comprehensive review (hereinafter "Audit") of a Service, except as cited
+       in paragraph F of this Section. Such Audit may encompass one (1) or more
+       departments. Customer may conduct one (1) Audit during each year of the
+       term of this Agreement over the Qwest Regions in which Qwest is billing
+       for Customer under this Agreement; provided, however, that if an Audit
+       uncovers a discrepancy in excess of ten percent (10%), then Customer will
+       be entitled to another Audit within that one (1) year period. If an Audit
+       is requested in one (1) or more Qwest Regions, it will be counted as one
+       (1) Audit.
+
+                                     Notice
+                                     ------
+    The information contained herein should not be disclosed to unauthorized
+         persons. It is meant for use by authorized representatives of
+                            Qwest and Customer only.
+
+
+                                       10
+<PAGE>
+
+    B. Both Parties agree that the Audit will be limited to a statistically
+       valid sample with a ninety percent (90%) confidence level and be further
+       limited to the exact subject matter outlined in the written notification,
+       as described in paragraph E, below. All Qwest expenses incurred during
+       the Audit, including, but not limited to, investigative work, extraction
+       of data and travel, will be shared equally by the Parties.
+
+    C. At such time as Customer desires to expand an Audit beyond a ninety
+       percent (90%) confidence level, Customer agrees to pay all of Qwest's
+       reasonable expenses for the incremental Audit activities required,
+       including, but not limited to, account extraction, masking, analyzing
+       accounts, and other Audit activities, at the rates set forth in Exhibit
+       C, Consulting Services.
+
+    D. At such time as an Audit is requested, the Parties will share equally all
+       expenses associated with hiring a single independent auditor to perform
+       the Audit, provided, however, that if the Audit proves a discrepancy in
+       excess of fifteen percent (15%) in favor of Customer, Qwest will pay all
+       such expenses. Prior to performing an Audit, the independent auditor will
+       be required to sign a joint non-disclosure agreement with Customer and
+       Qwest.
+
+    E. To initiate an Audit, Customer will provide Qwest with written notice of
+       its intent to Audit as well as the specific requirements of the Audit.
+       Such requirements will identify:
+
+       1. the exact Service to be audited;
+       2. the desired start date;
+       3. the desired Audit location;
+       4. Customer's representatives; and
+       5. specific materials to be reviewed, i.e.,
+          a. number of accounts;
+          b. type of accounts;
+          c. Billing Transaction detail; and
+          d. time period of data to be reviewed.
+
+    F. After the Parties have agreed on the specific details of an Audit,
+       including all requirements, a detailed time and cost estimate will be
+       prepared by Qwest in accordance with the prices specified in Exhibit C,
+       Consulting Service.
+
+    G. The independent auditor will have the right, on behalf of Customer, to
+       review all such records and accounts as may, under recognized or
+       generally accepted accounting practices, or as otherwise will be
+       reasonably necessary for the completion of the Audit, contain information
+       on Customer's End User accounts and Services. Qwest will cooperate with
+       all reasonable requests of the independent auditor and provide as
+       promptly as reasonably practicable all information relevant to such
+       request (subject to the other provisions of this Agreement including
+       Section 9.C and the remainder of this Section 9.G). All information
+       reviewed by the independent auditor is considered Confidential
+       Information as such term is defined in Section 17 hereof. Qwest will
+       provide for review extracts or masked data containing information
+       pertinent only to Customer. Qwest will not provide for review portions of
+       source documents that contain information relating to other entities for
+       which Qwest is providing Services.
+
+    H. Upon completion of the Audit, corrective action, if any, will be
+       initiated within thirty (30) days of the mutually agreed upon resolution.
+       Any Qwest liability for Services disclosed by the Audit will result in an
+       adjustment, which will be limited in accordance with the provisions of
+       Section 10.
+
+                                     Notice
+                                     ------
+    The information contained herein should not be disclosed to unauthorized
+         persons. It is meant for use by authorized representatives of
+                            Qwest and Customer only.
+
+
+                                       11
+<PAGE>
+
+    I. All costs incurred by Qwest when Qwest participates on behalf of Customer
+       during the course of an Audit of Customer ordered by a Governmental
+       Entity will be the responsibility of Customer. Prior to Qwest's
+       participation in a third party Audit, a detailed estimate will be
+       prepared, based upon Customer's written notice, in accordance with the
+       terms and prices set forth in Exhibits B and C respectively, Consulting
+       Services. The estimate will be valid for a period of thirty (30) days
+       from the date the estimate is delivered to Customer. Unless Qwest is
+       ordered to conduct the Audit by a court or regulatory authority, both
+       Parties must approve the estimate, and any subsequent revisions, in
+       writing, prior to Qwest performing such services or Customer incurring
+       any costs.
+
+    J. Notwithstanding the foregoing Audit provisions, Qwest will provide
+       Customer and its representatives (including financing providers), during
+       normal business hours and as soon as commercially practicable after
+       reasonable written request during the Term, with access to review and
+       discuss the books and records and other information and personnel related
+       to Customer's Account Receivables hereunder, subject in any event to all
+       applicable law and confidentiality provisions.
+
+10. Billinq Errors and Limitation of Liability
+    ------------------------------------------
+
+    A. Customer and Qwest agree to use commercially reasonable efforts to
+       provide each other verbal notification immediately upon discovery of
+       billing errors followed by written notification within ten (10) Business
+       Days. Such written notification will contain detailed information to aid
+       in identifying the cause of the billing error and its correction. Qwest
+       agrees to use commercially reasonable efforts to correct billing errors
+       within thirty (30) days of notification (by Customer) or discovery (by
+       Qwest). Where meeting the thirty (30) day objective is not possible,
+       Qwest will notify Customer in writing of the expected resolution date.
+
+    B. Qwest makes no warranties, express or implied, as to any Service provided
+       hereunder, except as expressly provided herein. Without limiting any
+       representation or warranty as expressly provided herein, Qwest
+       specifically disclaims any and all implied warranties, including without
+       limitation, any implied warranties of merchantability, fitness for a
+       particular purpose, or title or non-infringement.
+
+    C. Subject to the limitations set forth in Section 10.G and Section 18, if
+       Qwest, directly due to its negligence or willful misconduct, fails to
+       bill Customer's Billing Transactions, the Parties agree as set forth
+       below in this Section 10.C.
+
+       1. Qwest will promptly reprocess and bill the Billing Transactions.
+
+          a. In cases where the rebilling would occur within one-hundred and
+          eighty (180) days from the initial receipt of the Billing Transaction
+          and Qwest reasonably determines that such reprocessing is unfeasible
+          from an economic, technical or marketing perspective, Qwest will pay
+          to Customer the amount determined by applying the formula set forth in
+          Section 10.C.2. Such payment will be made to Customer within thirty
+          (30) days from date of determination not to reprocess; and
+
+          b. In cases where the rebilling would occur more than one-hundred
+          eighty (180) days after such billing would normally have occurred,
+          such rebilling will be performed only upon the mutual agreement of the
+          Parties. Absent such rebilling of Billing Transactions, Qwest will pay
+          to Customer the amount determined by applying the formula set forth in
+          Section 10.C.2. Such payment will be made to Customer within thirty
+
+                                     Notice
+                                     ------
+    The information contained herein should not be disclosed to unauthorized
+         persons. It is meant for use by authorized representatives of
+                            Qwest and Customer only.
+
+
+                                       12
+<PAGE>
+
+          (30) days from the date of mutual agreement not to rebill. If the
+          Parties determine that reprocessing will not be done, Qwest will be
+          liable to Customer for the actual revenue associated with the Billing
+          Transactions not processed; and
+
+       2. If Qwest cannot bill and Customer cannot resubmit such Billing
+          Transactions, Qwest will estimate, in cooperation with Customer, the
+          volume of such Billing Transactions and associated revenue, based on
+          the most comparable previously known values, less Uncollectibles and
+          Adjustments. Where the most comparable values are unknown, the
+          estimated revenue associated with such unbilled Billing Transactions
+          will be mutually agreed upon. Qwest will pay to Customer an amount
+          equal to the estimated revenue associated with such unbilled Billing
+          Transactions, less Adjustments, Uncollectibles and Bill Production
+          charges, commensurate with such revenue. Payment to Customer will be
+          made within thirty (30) days from the date of determination of such
+          amount.
+
+       3. For the purposes of this Agreement, if Qwest prints a bill that
+          includes a Billing Transaction that complies with Section 4.D, and
+          deposits the bill with the United States Postal Service, it will be
+          deemed to have "billed" the Billing Transaction contained on such
+          bill.
+
+    D. Subject to and except as set forth in Section 10.C, Qwest's total
+       liability for breach, non-performance or inadequate performance of its
+       obligations hereunder and Customer's sole and exclusive remedy for any
+       loss, cost, claim, injury, liability, or expense, including reasonable
+       attorneys' fees (collectively, "Losses"), regardless of theory, for the
+       following occurrences, will be limited to the lesser of the amounts paid
+       by Customer hereunder, or the amount of actual damages incurred measured
+       and further limited as follows:
+
+       1. If Qwest, due to gross negligence or willful misconduct, fails to
+          collect or perform collection activities of Customer's End User
+          Accounts resulting in increased net bad debt, Qwest's total liability
+          and Customer's sole and exclusive remedy for any Losses resulting from
+          this failure to perform, regardless of theory, will be limited to the
+          associated actual price of the Bill Production charges paid by
+          Customer for those uncollected accounts; and
+
+       2. If Qwest, due to its gross negligence or willful misconduct, fails to
+          perform or negligently performs any other Service specified in this
+          Agreement, Qwest's total liability and Customer's sole and exclusive
+          remedy for any Losses resulting from this failure to perform,
+          regardless of theory, will be limited to the associated actual price
+          of the Services negligently performed or not performed (including,
+          without limitation, any indirect damages payable by Qwest to a third
+          party).
+
+    E. Customer's liability to Qwest (as distinct from Customer's obligation to
+       pay for Services provided pursuant to this Agreement) for any Losses,
+       regardless of theory, will be limited to the amount of actual damages
+       incurred by Qwest (including, without limitation, any indirect damages
+       payable by Qwest to a third party).
+
+    F. Qwest assumes no liability for, and Customer will be solely responsible
+       and liable with respect to, the accuracy of Billing Transactions
+       submitted by Customer and provided by Customer to Qwest for billing.
+
+    G. Notwithstanding anything in this Agreement to the contrary, in no event
+       will Qwest be liable for any errors or Losses caused by any inaccurate or
+       incomplete Customer instructions, whether written or verbal, associated
+       with Customer requested changes, or by Customer's failure to comply with
+       Section 3.D.
+
+                                     Notice
+                                     ------
+    The information contained herein should not be disclosed to unauthorized
+         persons. It is meant for use by authorized representatives of
+                            Qwest and Customer only.
+
+
+                                       13
+<PAGE>
+
+
+
+    H. In no event will either Party be liable to the other for any claim or
+       cause of action requesting or claiming any incidental, consequential,
+       special, indirect, statutory, punitive or reliance damages. Any claim or
+       cause of action requesting or claiming such damages is specifically
+       waived and barred, whether such damages were foreseeable or not or a
+       Party was notified in advance of the possibility of such damages, unless
+       such claim or cause of action is part of any claim for indemnification in
+       accordance with Section 12 hereof. Damages prohibited under this
+       Agreement will include, without limitation, damage or loss of property or
+       equipment, loss of profits, revenues or savings, cost of capital, cost of
+       replacement services, opportunity costs, and cover damages.
+
+    I. In the event the Parties cannot agree that reprocessing is feasible or
+       cannot agree on a revenue settlement, or cannot agree on any other issue
+       associated with this Section, the Parties agree to utilize the provisions
+       of Section 8 above to resolve the dispute.
+
+    J. Qwest assumes no liability for any Customer-calculated and applied taxes
+       with respect to DPS Billing Transactions or on any taxes applied to
+       Qwest-issued Adjustments of Customer Billing Transactions.
+
+11. Data Retention
+    --------------
+
+    Customer agrees to retain copies of all files transmitted or in any other
+    fashion forwarded to Qwest for a minimum of one hundred and eighty (180)
+    days after date of original transmission to Qwest. Customer further agrees
+    to retransmit or re-forward files upon request of Qwest at no cost to Qwest.
+    Customer will exercise commercially reasonable efforts to retransmit or
+    re-send such files no later than five (5) Business Days from receipt of a
+    request from Qwest. However, in the event Qwest cannot receive the original
+    transmission due to transmission system failure, improperly formatted data
+    on the file, or other reasons related to Customer, Customer will exercise
+    commercially reasonable efforts to immediately retransmit the file upon
+    correction of the problem causing the failure. The Parties agree that
+    Customer will exclusively and solely own all information of the End Users
+    that is transmitted hereunder, together with all aggregated or generated
+    data and compilations solely containing such information and generated
+    hereunder, and such information will be subject to Section 17, other than
+    those components of such information provided to Customer under the List
+    License Agreement for the Use of Directory Publisher Lists and Directory
+    Delivery Lists of even date herewith by and between Qwest and Customer, as
+    the same may be amended, modified or supplemented from time to time.
+
+12. Indemnification
+    ---------------
+
+    A. Subject to the limitations set forth in Section 10, each Party will
+       indemnify (the "Indemnifying Party") and hold harmless the other Party
+       (the "Indemnified Party") and its directors, officers, employees,
+       affiliates, agents and assigns from and against any and all Losses
+       directly or indirectly based upon, arising from or resulting from such
+       Party's failure to perform any of its obligations under this Agreement.
+
+    B. Customer will, except to the extent of Qwest's gross negligence, fraud or
+       willful misconduct, indemnify and hold harmless Qwest, from and against
+       any Losses awarded to or assessed by third parties, directly relating to
+       or arising out Qwest's billing of Customer's Billing Transactions,
+       including but not limited to claims of End Users and claims, complaints
+       or proceedings of any Governmental Entity (it being agreed and understood
+
+                                     Notice
+                                     ------
+    The information contained herein should not be disclosed to unauthorized
+         persons. It is meant for use by authorized representatives of
+                            Qwest and Customer only.
+
+
+                                       14
+<PAGE>
+
+
+       by the Parties that no indemnification will be made under this
+       Section 12.8 for Losses arising out of any claims asserted against
+       Qwest for its billing or other business activities generally which is not
+       specifically attributable to Qwest's billing of Customer's Billing
+       Transactions).
+
+    C. The Indemnified Party will notify the Indemnifying Party promptly in
+       writing of any written claims, lawsuits, or demands by third parties for
+       which the Indemnified Party alleges that the Indemnifying Party is
+       responsible under this Section and, at the request of the Indemnifying
+       Party, tender the defense of such claim, lawsuit or demand to the
+       Indemnifying Party. The Indemnified Party also will cooperate in every
+       reasonable manner with the defense or settlement of such claim, demand,
+       or lawsuit.
+
+    D. The Indemnifying Party will not be liable under this Section for
+       settlements by the Indemnified Party of any claim, demand, or lawsuit
+       unless the Indemnifying Party has approved the settlement in advance or
+       unless the defense of the claim, demand, or lawsuit has been tendered to
+       the Indemnifying Party in writing and the Indemnifying Party has failed
+       promptly to undertake the defense.
+
+    E. Under the terms of this Agreement, Qwest may provide to Customer certain
+       information regarding Customer's subscribers. Qwest is releasing to
+       Customer such information based on Qwest's first-hand knowledge of its
+       own experiences with the End-User involved. Customer agrees to defend,
+       indemnify and hold Qwest harmless from and against any Losses, regardless
+       of theory, arising out of or related to the release of any Customer
+       subscriber information by Qwest to Customer of a type that is not
+       otherwise customarily released by Qwest to its other billing and
+       collection customers.
+
+    F. Customer will defend, indemnify and hold harmless Qwest from and against
+       any Losses relating to or arising from the calculation and application of
+       taxes upon the receipt of Customer's Billing Transactions or the
+       application of taxes on Qwest-issued Adjustments of Customer's Billing
+       Transactions.
+
+13. Taxes
+    -----
+
+A.  General Provisions
+
+    1. Customer will be liable for all Customer Taxes. "Customer Taxes" will be
+       defined as: (i) all state and local sales, use, value-added, gross
+       receipts, foreign, privilege, utility, infrastructure maintenance,
+       property, federal excise and similar levies, duties and other similar
+       tax-like charges lawfully levied by a duly constituted taxing authority
+       against or upon the Customer's services provided to its End Users; and
+       (ii) tax-related surcharges or fees that are related to the Customer's
+       services provided to its End Users and authorized by applicable tariffs.
+       However, Customer will not be liable for any Taxes imposed on or measured
+       by the net income or net worth of Qwest (including the Washington State
+       Business and Occupation Tax).
+
+    2. Customer understands and agrees that Qwest is merely providing Services
+       with respect to the billing and collection of amounts owed to Customer by
+       End Users and Customer Taxes hereunder. Qwest will not report these
+       billings as its own receipts for gross receipts tax purposes or any other
+       tax purpose. Qwest will have no responsibility for the preparation or
+       filing of returns or payments of Customer Taxes other than as required by
+       law. Qwest will not retain or be entitled to receive from Customer any
+       statutory fee or share of Customer Taxes to which the person collecting
+       such Customer Taxes is or may be entitled to under applicable law.
+
+                                     Notice
+                                     ------
+    The information contained herein should not be disclosed to unauthorized
+         persons. It is meant for use by authorized representatives of
+                            Qwest and Customer only.
+
+
+                                       15
+<PAGE>
+
+
+
+    3. Customer will be solely responsible for the computation, reporting, and
+       payment of all Customer Taxes and surcharges applicable to the services
+       provided by Customer to its End Users and will be solely responsible for
+       separately identifying the applicable Taxes for its End Users. Where
+       applicable, Customer agrees to populate the appropriate indicators to
+       advise Qwest that the DPS Billing Transaction is tax-exempt or that all
+       applicable taxes have been included in the Billing Transaction amount or
+       submitted in a separate Billing Transaction.
+
+    4. Any communications from End Users relating to Customer Taxes will be the
+       responsibility of Customer. Customer will respond promptly to all
+       complaints lodged by End Users regarding Customer's treatment. All
+       determinations as to the removal, addition, or adjustment of Customer
+       Taxes to be billed to End Users will be the responsibility of Customer.
+       To the extent Adjustments are made by Customer, with respect to
+       Customers' DPS services billed by Qwest under this Agreement, such
+       Adjustments will include all applicable federal, state and local taxes or
+       tax related items. All communications with taxing authorities regarding
+       Customer Taxes applicable to Customer's transactions will be the
+       responsibility of Customer. Any communication Qwest receives from an End
+       User or taxing authority regarding Customer Taxes will be referred
+       promptly to Customer.
+
+    5. In the event any federal, state, or local laws, court orders, or agency
+       orders, rules, or regulations direct a change to the billing or reporting
+       of taxes, or bill presentation of taxes, and such change necessitates a
+       billing system modification, Customer will be required to pay for such
+       modification.
+
+    6. In the event that Customer has requested a change in Customer Tax
+       procedures and no change has been implemented due to the inability of
+       Qwest and Customer to agree upon Customer reimbursing Qwest for the cost
+       of such changes, any audit assessment related thereto will not be deemed
+       to be a willful or negligent failure of Qwest to perform its contractual
+       obligations hereunder.
+
+    7. Customer will be liable for all applicable Service Taxes. "Service Taxes"
+       will be defined as: (i) all state and local sales, use, value-added,
+       gross receipts, foreign, privilege, utility, infrastructure maintenance,
+       property, federal excise and similar levies, duties and other similar
+       tax-like charges lawfully levied by a duly constituted taxing authority
+       against or upon the Services performed by Qwest under this Agreement; and
+       (ii) tax-related surcharges or fees that are related to the Services
+       performed by Qwest under this Agreement and authorized by applicable
+       tariffs. However, Customer will not be liable for any Taxes imposed on or
+       measured by the net income or net worth of Qwest (including the
+       Washington State Business and Occupation Tax). The cost of Service Taxes
+       is not part of the price agreed upon for Services under this Agreement
+       and will be in addition thereto.
+
+    8. All audit adjustments to Service Taxes, associated interest and penalties
+       will be the liability of Customer. Should any federal, state or local
+       jurisdiction determine that any such additional Service Taxes are due by
+       Qwest as a result of Qwest's performance of any obligation under this
+       Agreement, Qwest will notify Customer within ten (10) days after Qwest
+       receives a formal assessment from a taxing jurisdiction for any
+       additional Service Taxes. Customer will have the opportunity to advise
+       Qwest in the response to said assessment. Absent receipt of a written
+       response within ten (10) days after mailing of the notice, Qwest may
+       elect at its sole discretion to pay the assessment and obtain
+       reimbursement from Customer. Customer will pay Qwest within thirty (30)
+       days after the date Qwest provides Customer a copy of such assessment and
+       payment.
+
+                                     Notice
+                                     ------
+    The information contained herein should not be disclosed to unauthorized
+         persons. It is meant for use by authorized representatives of
+                            Qwest and Customer only.
+
+
+                                       16
+<PAGE>
+
+
+    9. In the event Qwest notifies Customer of an assessment and Customer wishes
+       to appeal such assessment, Qwest agrees to reasonably cooperate with
+       Customer in any defense of such claim or liability by: 1) providing
+       documentation in its possession and control that is reasonably related to
+       the provision of Services and for which a claim of indemnification is
+       made by Qwest hereunder, 2) making personnel available as is reasonably
+       necessary for deposition or testimony at the trial or hearing in any
+       action brought for which a claim for indemnification is made by Qwest
+       hereunder, and 3) authorizing Customer to defend in and for the name of
+       Qwest any action brought by a taxing jurisdiction regarding the Service
+       Taxes. All reasonable costs incurred by Qwest in the provision of these
+       and other requested services will be at the expense of Customer,
+       including the payment of any tax, interest and penalties necessary to
+       pursue an appeal against an audit assessment.
+
+B.  Taxes - Indemnity and Recourse:
+    -------------------------------
+
+    1. Customer will indemnify, hold harmless, and defend (at Customer's
+       expense) Qwest from any Customer Tax, and any Losses associated
+       therewith, relating to or arising out of Customer's failure (to the
+       extent not attributable to a negligent act or omission of Qwest) to pay
+       any Customer Tax or file any return as required by law or to comply with
+       any applicable tax laws or regulations, in accordance with this
+       Agreement. In the event Qwest is assessed any Customer Taxes imposed by
+       reason of this Agreement, Customer will be liable for all such taxes and
+       the cost of defense of such assessment.
+
+    2. Qwest will indemnify, hold harmless, and defend (at Qwest's expense),
+       Customer from and against any Losses arising from additional penalties
+       incurred by Customer as a result of the grossly negligent failure of
+       Qwest to provide Customer accurate and complete information in relation
+       to DPS billing in accordance with the terms of this Agreement.
+
+    3. The obligation of Qwest and Customer with regard to any indemnity or
+       reimbursement pursuant to this section will expire upon the later of
+       thirty (30) days after: 1) the expiration of all applicable statutes of
+       limitations on any potential or actual obligation or liability of Qwest
+       and/or Customer, 2) the entry of a non-appealable final order in a court
+       of law or administrative agency in any action brought which claims or
+       alleges that Qwest or Customer owes any such taxes to the taxing
+       jurisdiction, or 3) payment to the taxing jurisdiction under an agreement
+       entered into with such taxing jurisdiction in full settlement for any and
+       all liabilities which are, or may be alleged to be, due and payable with
+       respect to this Agreement.
+
+14. Purchase of Accounts Receivable
+    -------------------------------
+
+    Qwest will purchase from Customer its Accounts Receivable arising from bills
+    issued by Qwest to End Users. The purchase of Accounts Receivable will be
+    limited to Amounts Due Customer (as described in Exhibit D) when Qwest
+    provides Services for Customer. Qwest's purchase of Customer's Accounts
+    Receivable will be with full recourse as set forth in Exhibit D.
+
+                                     Notice
+                                     ------
+The information contained herein should not be disclosed to unauthorized
+          persons. It is meant for use by authorized representatives of
+                            Qwest and Customer only.
+
+
+                                       17
+<PAGE>
+
+
+15. Limitations Period
+    ------------------
+
+    Claims made under this Agreement will be subject to the following limitation
+    periods:
+
+    A. Subject to Section 10.C, no claim arising from Qwest's failure to bill a
+       Billing Transaction, or failure to properly bill a Billing Transaction,
+       to an End User will be asserted more than eighteen (18) months after the
+       Billing Transaction was or should have been billed.
+
+    B. No other claim or demand under this Agreement, including demands made
+       under the arbitration section hereof, or any other demand or claim with
+       respect to this Agreement may be made or brought by either Party more
+       than two years after the date of the event that gave rise to the demand
+       or claim except that: 1) the limitation period herein will not apply to
+       claims for revenue due Customer from its End Users to the extent Qwest
+       has collected and retained such revenue; 2) a demand or claim for
+       indemnification under this Agreement may be made or brought by a Party
+       for two years after the accrual of the cause of action for indemnity; and
+       3) any claim in the nature of fraud or concealment may be brought within
+       two years of discovery of the existence of such fraud or concealment.
+
+16. Term and Termination of Agreement
+    ---------------------------------
+
+    A. This Agreement will become effective as of the first Business Day after
+       the Closing (as such term is defined in the LLC Purchase Agreement) (the
+       "Commencement Date") and will continue for two years, through November 7,
+       2004, unless earlier terminated in whole or in part as provided herein.
+
+    B. Customer may (i) terminate this Agreement for convenience and without
+       penalty upon no less than thirty (30) days' prior written notice to
+       Qwest, or (ii) subject to Section 18, immediately terminate this
+       Agreement in the event of any willful failure of Qwest to pay, on any
+       applicable due date, the full amount of the Amount Due Customer in
+       respect of Customer's Account Receivables to be purchased on such date in
+       accordance with Exhibit D hereto; provided that Customer will provide
+       Qwest with prompt notice of its election to terminate this Agreement
+       pursuant to this clause (ii), Customer's sole and exclusive obligation
+       upon termination under this Section 16.9, except as otherwise expressly
+       set forth herein, is to make payment for all balances due, including,
+       without limitation, with respect to any Service Commitment as provided in
+       Section 6 of this Agreement, and for authorized charges associated with
+       any completed or partially completed Custom Request for any Custom
+       Request development work. Notwithstanding anything to the contrary in
+       this Agreement, if Customer terminates this Agreement under this Section
+       16.B, Customer will also pay all of Qwest's costs incurred in terminating
+       Services and effecting the transition of Services to Customer or
+       Customer's designated provider.
+
+    C. In the event of a Governmental Entity order that requires Qwest to no
+       longer provide the Services to Customer in any state or service area of
+       Customer, Qwest may terminate this Agreement (or the affected service
+       area(s)) immediately; provided, however, that Qwest will, in good faith
+       and using commercially reasonable efforts, object to and attempt to
+       prevent the implementation of any such order and will solicit advice from
+       Customer regarding how to prevent such order.
+
+    D. The Parties agree that upon termination or expiration of this Agreement
+       they will exercise commercially reasonable efforts to effect the
+       transition of the Services to Customer or Customer's designated provider.
+
+
+                                     Notice
+                                     ------
+    The information contained herein should not be disclosed to unauthorized
+         persons. It is meant for use by authorized representatives of
+                            Qwest and Customer only.
+
+
+                                       18
+<PAGE>
+       Qwest agrees to bill for Billing Transactions that Qwest determines to
+       have been in the billing system as of the date of termination or
+       expiration. Unless otherwise agreed by the Parties, Qwest will continue
+       to provide such transition Services for an interim period, not to exceed
+       twelve (12) months from the date of termination or expiration, as
+       described in Exhibit D, Section 13. Customer will pay Qwest for all
+       Services provided to Customer during such transition period in accordance
+       with the payment terms set forth in this Agreement.
+
+17. Proprietary and Confidential Information
+    ----------------------------------------
+
+    A. As used herein, "Confidential Information" will mean information
+       disclosed by one Party to the other in the course of the provision of
+       Services, and will include the existence of this Agreement and all of its
+       terms, conditions and provisions.
+
+    B. Qwest and Customer agree to hold such Confidential Information in
+       strictest confidence and will use same solely for the purposes of this
+       Agreement unless otherwise authorized in writing by the other Party.
+       Neither Party will disclose such Confidential Information to anyone
+       except (i) its employees, agents, consultants or subcontractors to whom
+       disclosure is necessary for the purposes set forth in this Agreement or
+       (ii) as required by law, rule, regulation or court order (and the Party
+       that is required to make such disclosure will first notify the other
+       Party of such disclosure obligation). The disclosing Party will
+       appropriately notify each employee, agent, consultant and/or
+       subcontractor to whom disclosure is made that such disclosure is made in
+       confidence and must be kept in confidence in accordance with this
+       Agreement.
+
+    C. All Confidential Information, unless otherwise specified in writing, will
+       remain the property of the disclosing Party. Confidential Information
+       will not be reproduced except to the extent necessary to accomplish the
+       purpose and intent of this Agreement, or as otherwise may be permitted in
+       writing by the disclosing Party. In the event the disclosing Party grants
+       the other Party permission to copy Confidential Information, the Party
+       seeking such permission agrees that each such copy will contain and state
+       the same confidential or proprietary notices or legends that appear on
+       the original. Nothing in this Agreement will be construed as granting any
+       right or license under any copyrights, inventions or patents now or
+       hereafter owned or controlled by either Party. All Confidential
+       Information, including copies thereof, will be returned to the disclosing
+       Party or destroyed after the recipient Party's need for it has expired or
+       upon the request of the disclosing Party.
+
+    D. The obligations imposed in this Agreement will not apply to any
+       information that:
+
+       1) is or becomes publicly available other than through disclosure by the
+       recipient Party;
+       2) becomes available to the recipient Party from a third party who is
+       under no restriction with respect to disclosure of such information;
+       3) is independently developed by the recipient Party; or
+       4) is communicated by the recipient Party to a third party with express
+       written consent of the disclosing Party.
+
+    E. Without the prior consent of the other Party, neither Party will disclose
+       to any third person, other than as provided in paragraph B above, the
+       existence or purpose of this Agreement, the terms or conditions hereof,
+       nor the fact that discussions are taking place and that Confidential
+       Information is being shared. Furthermore, neither Party nor its agents
+       will reveal the other as the source of Confidential Information described
+       in this Agreement without its express, prior written consent.
+       Notwithstanding the foregoing, Customer may advise its End Users that it
+       will bill for its DPS services through Qwest.
+
+                                     Notice
+                                     ------
+    The information contained herein should not be disclosed to unauthorized
+         persons. It is meant for use by authorized representatives of
+                            Qwest and Customer only.
+
+
+                                       19
+
+
+<PAGE>
+18. Force Majeure
+    -------------
+
+    A. In no event will either Party be liable to the other for any delay or
+       other failure to perform hereunder that is due to: (i) the other Party's
+       unreasonable delay in supplying or failure to supply information,
+       materials or services expressly provided for under the terms of this
+       Agreement; or (ii) occurrences or circumstances beyond such Party's
+       reasonable control (including epidemic, riot, unavailability of resources
+       due to national defense priorities, war, armed hostilities, strike,
+       walkouts, civil disobedience, embargo, fire, flood, drought, storm,
+       pestilence, lightning, explosion, power blackout, earthquake, volcanic
+       eruption or any act, order or requirement of a regulatory body, court or
+       legislature, civil or military authority, foreseeable or unforeseeable
+       act of God, act of a public enemy, act of terrorism, act of sabotage, act
+       or omission of carriers, or other natural catastrophe or civil
+       disturbance) during the period and to the extent that such extraordinary
+       condition delays, impairs or prevents such Party's performance (each a,
+       "Force Majeure Condition"). If either Party does not perform any of its
+       obligations hereunder as a result of a Force Majeure Condition, and the
+       other Party's performance of its obligations hereunder are conditioned
+       upon the first Party's performance, then notwithstanding anything in this
+       Agreement to the contrary, the other Party's performance will be excused
+       (including payment obligations) until such time as the first Party has
+       performed those obligations prevented by the Force Majeure Condition.
+
+    B. If any such Force Majeure Condition occurs and results in a delay or
+       failure in performance of any part of a Party's obligations under this
+       Agreement for more than sixty (60) days, the other Party may, by written
+       notice given to the Party whose performance was delayed or who failed to
+       perform, immediately terminate that part of this Agreement that will be
+       affected by such delay or failure to perform, without penalty.
+
+19. Default
+    -------
+
+    A. A failure by either Party to perform any material agreement, obligation
+       or covenant in this Agreement, and any material breach of a
+       representation or warranty made in this Agreement, in each case that is
+       not cured within thirty (30) days after written notice thereof from the
+       other Party (unless a shorter or longer period is expressly set forth
+       herein) will be deemed to be a default.
+
+    B. If a breach is capable of remedy, a Party may cure such breach by taking
+       all of the following steps prior to the end of the applicable cure
+       period: (1) notifying the non-breaching Party, in writing, that the
+       breaching Party wishes to cure the breach and continue the Agreement; (2)
+       terminating any breaching acts, omissions, or behaviors; (3) correcting
+       any existing breaches, including, but not limited to paying any charges
+       due under this Agreement; and (4) providing security reasonably
+       satisfactory to the non-breaching Party, such as a performance bond in an
+       appropriate amount. Any material breach must be cured expeditiously and
+       within the thirty (30) day cure period.
+
+    C. If there is a good faith objection or dispute in connection with whether
+       a breach (as described in Section 19.A) exists following the end of the
+       cure period, if applicable, the Parties will attempt in good faith to
+       resolve such dispute and determine the appropriate remedial action
+       pursuant to the terms and conditions of Section 8.
+
+    D. Upon the determination that a default exists (and following the actions,
+       if any, required or available to be taken under Section 19.B and/or
+       Section 19.C), in addition to all other rights and remedies provided
+       herein or at law or equity, the non-defaulting Party will have the right
+       to terminate this Agreement in whole or in part, without any further
+       obligation to the other (except the discharge of obligations incurred
+       prior to the effective date of termination).
+
+                                     Notice
+                                     ------
+    The information contained herein should not be disclosed to unauthorized
+         persons. It is meant for use by authorized representatives of
+                            Qwest and Customer only.
+
+
+                                       20
+<PAGE>
+
+
+20. Amendments; Waivers
+    -------------------
+
+    This Agreement or any part thereof or any Exhibits hereto or documents
+    referred to herein may be modified or additional provisions may be added by
+    written agreement signed by or on behalf of both Parties. No amendment or
+    waiver of any provision of this Agreement and no consent to any default
+    under this Agreement will be effective unless the same will be in writing
+    and signed by or on behalf of the Party against whom such amendment, waiver
+    or consent is claimed. In addition, no course of dealing or failure of any
+    Party to strictly enforce any term, right or condition of this Agreement
+    will be construed as a waiver of such term, right or condition.
+
+21. Assignment
+    ----------
+
+    Neither this Agreement nor any rights or obligations hereunder are
+    assignable by one Party without the express prior written consent of the
+    other Party; provided, however, that: (i) either Party may assign this
+    Agreement upon written notice to the other Party to any of its Affiliates
+    without the consent of the other Party if the assigning Party requires such
+    Affiliate to agree in writing to assume this Agreement and the assigning
+    Party remains liable for its obligations hereunder; (ii) a Change of Control
+    of either Party will not be deemed to be an assignment of this Agreement,
+    provided that if the relevant Party is no longer directly bound as a party
+    to this Agreement (e.g., because the Change of Control is a sale or transfer
+    of assets or is the result of a transaction pursuant to which the successor,
+    surviving or acquiring entity does not automatically succeed to the
+    obligations of such Party by operation of law), the successor, surviving or
+    acquiring entity is required to agree in writing (whether as part of the
+    acquisition agreement that provides for the other Party to be a third party
+    beneficiary or in a separate agreement) to assume this Agreement (iii)
+    Customer may assign this Agreement and the rights and obligations under it
+    to its lenders for collateral security purposes, so long as Customer remains
+    liable for its obligations hereunder; and (iv) Customer may assign this
+    Agreement with respect to a particular service area(s) in the Qwest Region
+    to any person (other than an affiliate of Customer) upon written notice to
+    Qwest so long as Customer will require the acquiring person to agree in
+    writing (whether as part of the acquisition agreement with Customer that
+    provides for Qwest to be a third party beneficiary or in a separate
+    agreement) to assume this Agreement and Customer will have no rights or
+    obligations under this Agreement with respect to such service area(s).
+
+22. Notices and Demands
+    -------------------
+
+    Except as otherwise provided under this Agreement, all notices, demands, or
+    requests which may be given by a Party to the other Party will be in writing
+    and will be deemed to have been duly given on the date delivered in person,
+    date faxed or deposited, postage prepaid, in the United States mail and
+    addressed as follows:
+
+    Customer                         Qwest Corporation
+    198 Inverness Drive West,        1801 California Street, Room 2150
+    Eighth Floor                     Denver, Colorado 80202
+    Englewood, Colorado 80112        Attn: Perry Hooks, Customer Account Manager
+    Attn: Tony Basile                Phone: (303) 965-4094
+    Phone: (303) 784-2849            Fax: (303) 896-3365
+    Fax: (303) 784-l 594             Email: phooksj@qwest.com
+    Email: axbasil@qwest.com
+
+
+                                     Notice
+                                     ------
+    The information contained herein should not be disclosed to unauthorized
+         persons. It is meant for use by authorized representatives of
+                            Qwest and Customer only.
+
+
+                                       21
+
+
+<PAGE>
+
+
+    If personal delivery is selected as the method of giving notice under this
+    Section, a receipt of such delivery will be obtained. The address to which
+    such notices, demands, requests, elections or other communications is to be
+    given by either Party may be changed by written notice given by such Party
+    to the other Party pursuant to this Agreement.
+
+23. Representations and Warranties
+    ------------------------------
+
+    A. Each Party represents and warrants that (i) it has the full right and
+       authority to enter into, execute, deliver and perform its obligations
+       under this Agreement, (ii) this Agreement constitutes a legal, valid and
+       binding obligation, enforceable against such Party in accordance with its
+       terms, subject to bankruptcy, insolvency, creditors' rights and general
+       equitable principles, and (iii) its execution of and performance under
+       this Agreement will not violate in any material respects any applicable
+       existing regulations, rules, statues or court orders of any local, state
+       or federal government agency, court or body.
+
+    B. Customer represents and warrants to Qwest that (i) there are no
+       agreements between Customer and its End Users or any other third party
+       that would cause Customer to breach any term, condition or obligation
+       under this Agreement, (ii) it is authorized to disclose to Qwest any and
+       all information necessary for Qwest to perform the Services, and (iii)
+       none of the Licensed Property infringes the trademark rights of any third
+       party.
+
+    C. Qwest represents and warrants to Customer that (i) there are no
+       agreements between Qwest and its subscribers or any other third party
+       that would cause Qwest to breach any term, condition or obligation under
+       this Agreement and (ii) no trademark, service mark or trade name of Qwest
+       appearing on or in Customer's bills printed and distributed pursuant to
+       this Agreement infringes the trademark rights of any third party.
+
+24. Relationship of Parties
+    -----------------------
+
+    The relationship of the Parties will not be that of partners, agents, or
+    joint venturers, and nothing contained herein will be deemed to constitute a
+    partnership or agency agreement between them for any purposes, including,
+    without limitation, for federal income tax purposes. Each Party will be and
+    remain an independent contractor and for no purpose will the employees or
+    agents or any sub-contractor of one Party be construed to be an employee of
+    the other Party in connection with the performance of this Agreement.
+
+25. Third-Party Beneficiaries
+    -------------------------
+
+    This Agreement will not provide any person not a Party to this Agreement,
+    (specifically including, but not limited to, End Users), any remedy, claim,
+    liability, reimbursement, claim of action or other right in excess of those
+    existing without reference to this Agreement.
+
+26. Governing Law
+    -------------
+
+    This Agreement will be governed by and construed in accordance with the
+    domestic laws of the State of Colorado without reference to its choice of
+    law principles.
+
+                                     Notice
+                                     ------
+    The information contained herein should not be disclosed to unauthorized
+         persons. It is meant for use by authorized representatives of
+                            Qwest and Customer only.
+
+
+                                       22
+<PAGE>
+
+27. Lawfulness of Agreement
+    -----------------------
+
+    This Agreement and the Parties' actions under this Agreement will comply
+    with all applicable federal, state, and local laws, rules, regulations,
+    court orders, and governmental agency orders. If a court or governmental
+    agency with proper jurisdiction determines that this Agreement, or a
+    provision of this Agreement, is unlawful, this Agreement, or that provision
+    of this Agreement, will terminate. If a provision of this Agreement is so
+    terminated but the Parties legally, commercially and practicably can
+    continue this Agreement without the terminated provision, the remainder of
+    this Agreement will continue in effect.
+
+28. Successors and Assigns
+    ----------------------
+
+    This Agreement is binding upon and will inure to the benefit of each Party
+    and their respective successors and assigns. Following a Change of Control
+    of any Party, the acquiring, surviving or successor entity will, and such
+    Party agrees to cause such entity to, agree in writing (whether as part of
+    the acquisition agreement with such Party that provides for the other Party
+    to be a third party beneficiary or in a separate agreement) to assume this
+    Agreement and be bound by, with respect to itself and its affiliates, the
+    restrictions contained herein to the same extent as the applicable Party.
+
+29. Headings
+    --------
+
+    The headings in this Agreement are for convenience and will not be construed
+    to define or limit any of the terms herein or affect the meaning or
+    interpretation of this Agreement.
+
+30. Entire Agreement
+    ----------------
+
+    This Agreement, and any Exhibits, attached hereto, constitutes the entire
+    understanding between the Parties with respect to the subject matter hereof,
+    and supersedes all prior understandings, oral or written representations,
+    statements, negotiations, proposals and undertakings with respect to the
+    subject matter hereof.
+
+31. Miscellaneous
+    -------------
+
+    In the event any program covered by this Agreement is limited or prohibited
+    by any by any applicable federal, state, or local laws, court orders, or
+    agency orders, rules or regulations, both Parties agree to comply with such
+    laws, orders, rules or regulations.
+
+
+
+
+
+                                     Notice
+                                     ------
+    The information contained herein should not be disclosed to unauthorized
+         persons. It is meant for use by authorized representatives of
+                            Qwest and Customer only.
+
+
+                                       23
+<PAGE>
+
+
+IN WITNESS WHEREOF, the Parties have entered into this Agreement as of the date
+first written above.
+
+SGN LLC                                              QWEST CORPORATION
+By: Qwest Dex, Inc., its sole member
+
+
+
+By: /s/ George Burnett                               By: /s/ Yash A. Rana
+----------------------------                         ---------------------------
+Name:  George Burnett                                Name:  Yash A. Rana
+Title: President                                     Title: Vice President
+
+                                     Notice
+                                     ------
+    The information contained herein should not be disclosed to unauthorized
+         persons. It is meant for use by authorized representatives of
+                            Qwest and Customer only.
+
+
+                                      S-1
+
+</TEXT>
+</DOCUMENT>

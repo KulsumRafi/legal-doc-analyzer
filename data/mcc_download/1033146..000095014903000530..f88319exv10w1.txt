@@ -1,0 +1,271 @@
+<DOCUMENT>
+<TYPE>EX-10.1
+<SEQUENCE>3
+<FILENAME>f88319exv10w1.txt
+<DESCRIPTION>EXHIBIT 10.1
+<TEXT>
+<PAGE>
+
+                                  EXHIBIT 10.1
+
+The Bank of New York
+Corporate Trust and Agency Services
+5 Penn Plaza, 16th Floor
+New York, NY  10001
+Patricia O'Neil Manella
+(212) 328-7574
+
+Distribution Date: February 28, 2003
+
+
+                      SEQUOIA MORTGAGE FUNDING CORPORATION
+                 COLLATERALIZED MBS FUNDING BONDS, SERIES 2002-A
+
+                    CERTIFICATE MONTHLY DISTRIBUTION SUMMARY
+
+<TABLE>
+<CAPTION>
+                        BEGINNING        PASS     MONTHLY INTEREST   ADDITIONAL   INTEREST      INTEREST        PRINCIPAL
+CLASS      CUSIP      CERT BALANCE     THROUGH          AMT           INTEREST    SHORTFALL   DISTRIBUTION    DISTRIBUTION
+-----      -----      ------------     -------          ---           --------    ---------   ------------    ------------
+<S>       <C>         <C>             <C>         <C>                <C>          <C>         <C>             <C>
+ A-1      81743UAA3   46,722,089.52   1.940000%      75,534.04         0.00         402.04     75,534.04      3,497,306.10
+ A-2      81743UAB1   13,364,257.76   2.090000%      23,276.08         0.00         269.47     23,276.08        367,751.88
+----      ---------   -------------   ---------      ---------         ----         ------     ---------      ------------
+ Total                60,086,347.28                  98,810.13         0.00         671.51     98,810.13      3,865,057.99
+</TABLE>
+
+<TABLE>
+<CAPTION>
+               TOTAL       REALIZED    ENDING CERT
+CLASS      DISTRIBUTION     LOSSES      BALANCE
+-----      ------------     ------      -------
+<S>        <C>             <C>        <C>
+ A-1       3,572,840.15      0.00     43,224,783.42
+ A-2         391,027.97      0.00     12,996,505.88
+----       ------------      ----     -------------
+ Total     3,963,868.11      0.00     56,221,289.29
+</TABLE>
+
+                           CURRENT PAYMENT INFORMATION
+                               FACTORS PER $1.000
+
+<TABLE>
+<CAPTION>
+                             ORIGINAL CERT       BEGINNING       INTEREST     PRINCIPAL            ENDING        CURRENT PASS
+  CLASS        CUSIP           BALANCE            FACTOR          FACTOR       FACTOR              FACTOR           THROUGH
+  -----        -----           -------            ------          ------       ------              ------           -------
+<S>          <C>            <C>                <C>              <C>          <C>                <C>              <C>
+   A-1       81743UAA3      67,761,000.00      721.454108491    1.166350809  54.003275146       667.450833345       1.940000%
+   A-2       81743UAB1      15,861,000.00      842.586076540    1.467504083  23.185920436       819.400156104       2.090000%
+  ----       ---------      -------------      -------------    -----------  ------------       -------------       ---------
+  Total                     80,622,000.00      745.284752053    1.225597566  47.940487531       697.344264521
+</TABLE>
+
+             UNDERLYING CERTIFICATES MONTHLY DISTRIBUTION - GROUP I
+
+<TABLE>
+<CAPTION>
+                           ORIGINAL        BEGINNING        PASS      INTEREST     PRINCIPAL         TOTAL     REALIZED   INTEREST
+   SERIES       CLASS       BALANCE         BALANCE       THROUGH   DISTRIBUTION  DISTRIBUTION  DISTRIBUTION    LOSSES   SHORTFALL
+   ------       -----       -------         -------       -------   ------------  ------------  ------------    ------   ---------
+<S>             <C>     <C>              <C>             <C>        <C>           <C>           <C>            <C>       <C>
+ CWMBS 94K       A1     123,119,000.00    1,517,687.22   5.204037%     6,581.75     125,472.31    132,054.06     0.00        0.00
+DLJMA 93-Q18     1A1     51,833,000.00      356,200.02   5.126849%     1,521.82       1,211.36      2,733.18     0.00        0.00
+DLJMA 94-2A      1A1     85,787,000.00      636,510.33   5.523376%     2,929.74       1,572.13      4,501.87     0.00        0.00
+  ONE 00-2       2A     152,653,000.00    8,117,823.79   4.812168%    32,553.61     151,092.78    183,646.39     0.00        0.00
+ RYMS3 92-B      1A2      7,712,906.00            0.00   0.000000%         0.00           0.00          0.00     0.00        0.00
+ SBM7 94-2       A1      49,384,000.00    1,394,523.02   6.076249%     7,061.22      94,559.82    101,621.04     0.00        0.00
+  SMS 91-K       A1     110,588,063.00    1,337,422.74   4.045775%     4,509.09   1,337,422.74  1,341,931.83     0.00        0.00
+  SMS 91-K       A3       1,917,885.00    1,064,191.81   4.335775%     3,845.08   1,064,191.81  1,068,036.89     0.00        0.00
+ EAGLE 98-1      M1      46,029,000.00   19,964,154.03   2.352500%    37,833.46     480,862.04    518,695.50     0.00        0.00
+ INMC 94-R       M2       4,620,000.00    2,655,020.20   5.403697%    11,955.77      57,904.75     69,860.52     0.00        0.00
+ INMC 94-V       B1       3,618,000.00    1,618,737.08   5.483897%     7,397.49       3,946.23     11,343.72     0.00        0.00
+ INMC 94-X       B1       2,769,000.00    1,453,190.86   5.369629%     6,502.58     116,730.76    123,233.34     0.00        0.00
+ INMC 95-C       B1      12,828,797.00    4,442,571.55   5.327944%    19,724.81      56,663.28     76,388.09     0.00      402.04
+ INMC 95-T       A2      65,695,250.00    2,818,555.47   4.752409%    11,162.44       5,676.10     16,838.54     0.00        0.00
+ ---------       --     --------------   -------------   ---------    ---------   ------------  ------------     ----      ------
+    Total               718,554,901.00   47,376,588.12               153,578.86   3,497,306.10  3,650,884.96     0.00      402.04
+</TABLE>
+
+<TABLE>
+<CAPTION>
+                      ENDING
+   SERIES            BALANCE
+   ------            -------
+<S>              <C>
+ CWMBS 94K        1,392,214.92
+DLJMA 93-Q18        354,988.66
+DLJMA 94-2A         634,938.20
+  ONE 00-2        7,966,731.01
+ RYMS3 92-B               0.00
+ SBM7 94-2        1,299,963.20
+  SMS 91-K                0.00
+  SMS 91-K                0.00
+ EAGLE 98-1      19,483,291.99
+ INMC 94-R        2,597,115.45
+ INMC 94-V        1,614,790.85
+ INMC 94-X        1,336,460.10
+ INMC 95-C        4,385,908.27
+ INMC 95-T        2,812,879.37
+ ---------       -------------
+    Total        43,879,282.02
+</TABLE>
+<PAGE>
+             UNDERLYING CERTIFICATES MONTHLY DISTRIBUTION - GROUP II
+
+<TABLE>
+<CAPTION>
+                       ORIGINAL        BEGINNING       PASS      INTEREST     PRINCIPAL        TOTAL     REALIZED  INTEREST
+   SERIES     CLASS    BALANCE          BALANCE      THROUGH   DISTRIBUTION  DISTRIBUTION  DISTRIBUTION   LOSSES  SHORTFALL
+   ------     -----    -------          -------      -------   ------------  ------------  ------------   ------  ---------
+<S>           <C>    <C>             <C>            <C>        <C>           <C>           <C>           <C>      <C>
+GRCAP 94-HM4   A1    245,813,000.00     482,532.96  5.567659%     2,238.82     16,184.06     18,422.87     0.00       0.00
+ INMC 95-E     B1      4,608,492.00   2,940,666.85  4.815827%    11,801.45    121,526.70    133,328.16     0.00     269.47
+ PMLT 99-A     M1      2,914,000.00   2,411,637.21  2.370750%     4,764.49     63,567.79     68,332.28     0.00       0.00
+  RTC 95-2     A3    119,696,000.00   7,690,574.70  4.093095%    26,231.88    166,473.33    192,705.21     0.00       0.00
+----------     --    --------------  -------------  ---------    ---------    ----------    ----------     ----     ------
+      Total          373,031,492.00  13,525,411.72               45,036.64    367,751.88    412,788.52     0.00     269.47
+</TABLE>
+
+<TABLE>
+<CAPTION>
+                   ENDING
+   SERIES          BALANCE
+   ------          -------
+<S>            <C>
+GRCAP 94-HM4      466,348.91
+ INMC 95-E      2,819,140.14
+ PMLT 99-A      2,348,069.42
+  RTC 95-2      7,524,101.37
+-----------    -------------
+      Total    13,157,659.84
+</TABLE>
+
+                 UNDERLYING POOL DELINQUENT INFORMATION BY GROUP
+
+<TABLE>
+<CAPTION>
+                      LOANS
+                    OUTSTANDING    DELINQUENT 30-59 DAYS    DELINQUENT 60-89 DAYS   DELINQUENT 90+ DAYS       FORECLOSURE
+     SERIES           BALANCE       NO.        BALANCE       NO.       BALANCE       NO.      BALANCE       NO.     BALANCE
+     ------           -------       ---        -------       ---       -------       ---      -------       ---     -------
+<S>               <C>              <C>      <C>             <C>    <C>              <C>    <C>              <C>  <C>
+   CWMBS 94K        9,206,732.06     1        183,514.59      0            0.00       0            0.00      1     240,002.95
+DLJMA 93-Q18(1)     3,862,314.78     1         31,461.55      0            0.00       0            0.00      1     157,564.45
+ DLJMA 94-2A(1)     1,031,568.32     0              0.00      0            0.00       0            0.00      0           0.00
+  ONE 00-2(2)     356,524,214.00    67      6,440,310.00     17    1,490,707.00      36    6,354,675.00     19   2,819,806.00
+ RYMS3 92-B(2)              0.00     0              0.00      0            0.00       0            0.00      0           0.00
+  SBM7 94-2(2)      5,133,320.96     2        200,454.72      0            0.00       0            0.00      2     330,993.29
+    SMS 91-K                0.00     0              0.00      0            0.00       0            0.00      0           0.00
+   EAGLE 98-1      32,991,238.46    12        898,165.99      9      835,259.44      16    1,815,598.88     31   3,796,930.61
+   INMC 94-R        7,973,747.82     3        842,920.85      0            0.00       0            0.00      3     819,187.98
+   INMC 94-V        7,225,436.18     2        231,892.67      0            0.00       0            0.00      0           0.00
+   INMC 94-X        6,316,004.37     4        441,060.87      0            0.00       2      192,414.65      2     548,486.84
+   INMC 95-C        8,690,526.89     4        480,728.17      1      186,425.71       1      153,302.92      5     683,643.73
+  INMC 95-T(2)      8,225,235.47     1        134,477.14      0            0.00       0            0.00      1      80,684.12
+--------------    --------------    --      ------------     --    ------------      --    ------------     --   ------------
+     Total        447,180,339.31    97      9,884,986.55     27    2,512,392.15      55    8,515,991.45     65   9,477,299.97
+</TABLE>
+
+<TABLE>
+<CAPTION>
+                       REO           REALIZED LOSSES
+     SERIES       NO.     BALANCE      CURR. AMOUNT
+     ------       ---     -------      ------------
+<S>               <C>  <C>               <C>
+   CWMBS 94K       0           0.00            0.00
+DLJMA 93-Q18(1)    0           0.00       25,785.92
+ DLJMA 94-2A(1)    0           0.00        3,393.54
+  ONE 00-2(2)      0           0.00      689,014.46
+ RYMS3 92-B(2)     0           0.00            0.00
+  SBM7 94-2(2)     1     126,496.67            0.00
+    SMS 91-K       0           0.00            0.00
+   EAGLE 98-1     23   2,273,297.00       21,690.75
+   INMC 94-R       0           0.00            3.00
+   INMC 94-V       0           0.00            0.00
+   INMC 94-X       0           0.00            0.00
+   INMC 95-C       0           0.00            0.00
+  INMC 95-T(2)     0           0.00            0.00
+--------------    --   ------------      ----------
+     Total        24   2,399,793.67      739,887.67
+</TABLE>
+
+<TABLE>
+<CAPTION>
+                     LOANS
+                  OUTSTANDING    DELINQUENT 30-59 DAYS    DELINQUENT 60-89 DAYS   DELINQUENT 90+ DAYS       FORECLOSURE
+   SERIES            BALANCE       NO.        BALANCE      NO.         BALANCE    NO.        BALANCE      NO.       BALANCE
+   ------            -------       ---        -------      ---         -------    ---        -------      ---       -------
+<S>             <C>              <C>     <C>              <C>     <C>             <C>     <C>             <C>   <C>
+GRCAP 94-HM4      6,455,938.90      1       124,612.29      0             0.00     0              0.00     1        45,177.47
+ INMC 95-E       13,593,562.09      8     2,072,362.07      1       258,659.10     3        383,747.66     4       283,469.61
+ PMLT 99-A       36,118,629.81     35     2,304,318.19      8       691,714.92     4        358,302.44    25     1,617,421.13
+RTC 95-2(1)      22,445,162.39      7       366,582.07      3       236,481.17     5        347,684.47     1        82,662.42
+   Total         78,613,293.19     51     4,867,874.62     12     1,186,855.19    12      1,089,734.57    31     2,028,730.63
+----------      --------------    ---    -------------     --     ------------    --      ------------    --    -------------
+ Total All      525,793,632.50    148    14,752,861.17     39     3,699,247.34    67      9,605,726.02    96    11,506,030.60
+</TABLE>
+
+<TABLE>
+<CAPTION>
+                     REO            REALIZED LOSSES
+   SERIES       NO.      BALANCE     CURR. AMOUNT
+   ------       ---      -------     ------------
+<S>             <C>   <C>           <C>
+GRCAP 94-HM4     0            0.00           0.00
+ INMC 95-E       1      225,211.47           0.00
+ PMLT 99-A       2      395,118.89      29,192.98
+RTC 95-2(1)      1       43,034.41           0.00
+   Total         4      663,364.77      29,192.98
+----------      --    ------------     ----------
+ Total All      28    3,063,158.44     769,080.65
+</TABLE>
+
+(1)      Information shown for the Underlying Mortgage Loans for this Pooled
+         Security is based on the Underlying Mortgage Loan group related to such
+         Pooled Security only.
+
+(2)      Information shown for the Underlying Mortgage Loans for this Pooled
+         Security is based on all the Underlying Mortgage Loan groups in the
+         related series.
+<PAGE>
+                         CERTIFICATE ACCOUNT INFORMATION
+
+<TABLE>
+<CAPTION>
+                                                 WITHDRAWALS                                                                ENDING
+GROUP    BEGINNING BALANCE    FUNDS DEPOSITED    TRUSTEE FEE    MANAGEMENT FEE    AVAILABLE FUNDS    FUNDS DISTRIBUTED     BALANCE
+-----    -----------------    ---------------    -----------    --------------    ---------------    -----------------     -------
+<S>      <C>                  <C>                <C>            <C>               <C>                <C>                  <C>
+  I            0.00             3,650,884.96      1,184.41           0.00          3,649,700.55        3,572,840.15       76,860.40
+ II            0.00               412,788.52        338.14           0.00            412,450.38          391,027.97       21,422.42
+-----          ----             ------------      --------           ----          ------------        ------------       ---------
+Total          0.00             4,063,673.48      1,522.55           0.00          4,062,150.93        3,963,868.11       98,282.82
+</TABLE>
+
+<TABLE>
+<CAPTION>
+                ADDITIONAL REPORTING ITEMS                        POOL I                POOL II              TOTAL
+                --------------------------                        ------                -------              -----
+<S>       <C>                                             <C>                        <C>                  <C>
+2.15(a)   Available Interest                                           153,578.86         45,036.64           198,615.50
+          Available Principal                                        3,497,306.10        367,751.88         3,865,057.99
+2.15(b)   Monthly Interest Amt.                           see p. 1
+2.15(c)   Carryforward Interest                                              0.00              0.00                 0.00
+2.15(d)   Principal Paid                                  see p. 1
+2.15(e)   Class Print Amts.                               see p. 1
+2.15(f)   Beginning Actual OC                                             1.3815%           1.1915%
+          Ending Actual OC                                                1.4916%           1.2248%
+2.15(g)   2nd preceding pool bal                                    11,853,732.63     83,088,852.02       594,942,584.65
+2.15(h)   Required OC                                                     2.7000%           2.0000%
+2.15(i)   Has Step-up Occurred?                                                No                No
+2.15(k)   Monies Deposited to Reserve Fund                                   0.00              0.00                 0.00
+2.15(l)   Amts. Dist. to Investor Certificateholders                    76,860.40         21,422.42            98,282.82
+</TABLE>
+
+Note: Management Fee is to be paid on an annual basis. This month's Fee together
+with last month's annualized amount equals the full annual Fee.
+
+</TEXT>
+</DOCUMENT>

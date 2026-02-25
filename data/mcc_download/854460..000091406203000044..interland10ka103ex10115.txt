@@ -1,0 +1,1592 @@
+<DOCUMENT>
+<TYPE>EX-10.115
+<SEQUENCE>3
+<FILENAME>interland10ka103ex10115.txt
+<DESCRIPTION>SERVICES PROVIDER LICENSE AGREEMENT
+<TEXT>
+                                                                  EXHIBIT 10.115
+
+                        CONFIDENTIAL TREATMENT REQUESTED
+
+        CONFIDENTIAL PORTIONS OF THIS AGREEMENT WHICH HAVE BEEN REDACTED
+         ARE MARKED WITH BRACKETS "[***]". THE OMITTED MATERIAL HAS BEEN
+          FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION.
+                                                                  EXHIBIT 10.115
+
+
+Microsoft Services Provider                   Agreement Number:
+License Agreement                             (Microsoft will complete)  9055430
+
+This Microsoft Services Provider License Agreement  ("Agreement") is between the
+entities identified below. YOU MUST BE A MICROSOFT CERTIFIED PARTNER IN ORDER TO
+ENTER INTO THIS  AGREEMENT.  PLEASE  PROVIDE YOUR  MICROSOFT  CERTIFIED  PARTNER
+NUMBER BELOW.
+
+This  Agreement and attached  documents  must be sent to Microsoft (as specified
+below) for processing and approval. If the Agreement is approved, Microsoft will
+sign the Agreement and send you a fully executed original. The Effective Date of
+this Agreement will be the date Microsoft signs the Agreement after execution by
+you as specified below. Each party agrees to notify the other in accordance with
+Section 16(d) if the information below changes during the Term.
+
+<TABLE>
+<CAPTION>
+<S>                <C>                                          <C>                        <C>
+------------------------------------------------------------------------------------------------------------------------
+Customer Name:                                                  Name of contracting Microsoft Affiliate:
+                  INTERLAND, INC.                                                          MSLI, GP
+
+------------------------------------------------------------------------------------------------------------------------
+Street Address and/or post office box: Street Address and/or post office box:
+                  303 PEACHTREE CENTER AVE.                                                6100 NELL ROAD, SUITE 210
+
+------------------------------------------------------------------------------------------------------------------------
+City and State / Province:                                      City and State / Province:
+                  ATLANTA, GA                                                              RENO, NV
+
+------------------------------------------------------------------------------------------------------------------------
+Country and Postal Code:                                        Country and Postal Code:
+                  30303                                                                    USA  89511-1137
+
+------------------------------------------------------------------------------------------------------------------------
+Contact Name:                                                   Microsoft  Account  Manager  Name,  Location  and Email
+                  NICHOLAS FARSI                                Address:
+
+------------------------------------------------------------------------------------------------------------------------
+Phone Number:                                                   Phone Number.
+                  404-260-2550                                                             (775) 823-5600
+
+------------------------------------------------------------------------------------------------------------------------
+Fax Number:                                                     Fax Number:
+                  404-260-2721                                                             (775) 826-7287
+
+------------------------------------------------------------------------------------------------------------------------
+E-Mail Address:                                                 E-Mail Address:
+                  NFARSI@INTERLAND.COM                                                     SELQUEST@MICROSOFT.COM
+
+------------------------------------------------------------------------------------------------------------------------
+For  the Attention of:                                          For  the Attention of:
+                  CHIEF INFORMATION OFFICER                                                VOLUME LICENSING, DEPT. 551
+
+------------------------------------------------------------------------------------------------------------------------
+Microsoft Certified Partner Agreement Number.
+
+------------------------------------------------------------------------------------------------------------------------
+Accounts Payable Contact Name, Phone Number and Email Address:
+                  TODD WILKINS
+                  TWILKINS@INTERLAND.COM
+------------------------------------------------------------------------------------------------------------------------
+CUSTOMER NOTICES INFORMATION (IF DIFFERENT FROM ABOVE): ALL NOTICES MUST ALSO BE
+SENT TO:
+
+Customer  Name,  Street  Address  and/or post office box, City  Microsoft Corporation, Law and Corporate Affairs
+and State / Province, Country and Postal Code:                  One Microsoft Way
+                  GENERAL COUNSEL                               Redmond, Washington USA 98052
+
+------------------------------------------------------------------------------------------------------------------------
+Fax Number:                                                     Fax Number:
+                  404-260-2721                                                    (425) 936-7329
+
+------------------------------------------------------------------------------------------------------------------------
+For  the Attention of:                                          For  the Attention of:
+                                                                                  LCA- PDM / SPLA Program Attorney
+
+------------------------------------------------------------------------------------------------------------------------
+
+                                  Page 1 or 22
+</TABLE>
+
+
+<PAGE>
+
+
+
+
+This  Agreement  consists of this cover page,  the enclosed Terms and Conditions
+(including the Exhibits), the SPUR, the Price List, and any addenda,  amendments
+and/or Affiliate  Agreements entered into under this Agreement.  These documents
+form the entire agreement  between you and Microsoft and supersede all prior and
+contemporaneous  communications,   agreements  or  contracts,  whether  oral  or
+written,  concerning the subject matter hereof.  By signing this Agreement,  you
+acknowledge that you have access to the Internet and have the capability to send
+and receive electronic mail ("e-mail").
+
+<TABLE>
+<CAPTION>
+<S>                                                  <C>    <C>
+
+[COMPANY]                  INTERLAND, INC.           MSLI, GP
+
+By (sign):        /s/ Nicholas Farsi                         By (sign):       /s/ Carol Marshall
+          ----------------------------------                           ----------------------------------
+
+Name (print):         Nicholas Farsi                         Name (print):         Carol Marshall
+             -------------------------------                              -------------------------------
+
+Title:   Sup., CIO                                           Title:   Contract Administrator
+      --------------------------------------                        -------------------------------------
+
+Date:    11/25/02                                            Effective Date:   11/15/2002
+     ---------------------------------------                                 ----------------------------
+
+</TABLE>
+
+
+                                  Page 2 or 22
+<PAGE>
+
+
+                              TERMS AND CONDITIONS
+
+1.   SCOPE OF AGREEMENT.  This Agreement sets forth the terms upon which you may
+     license Microsoft  Software  Products on a non-perpetual  basis in order to
+     provide Software Services to your Customers. This Agreement is not intended
+     to,  and does  not,  modify  or  restrict  your use of  Microsoft  software
+     products  that you license  solely for  internal  use under  other  license
+     agreements  with  Microsoft  (e.g.,  Open,  Select  or  Enterprise  license
+     agreements).
+
+2.   DEFINITIONS.  In this  Agreement,  "you"  means the legal  entity  that has
+     entered into this  Agreement  with  Microsoft,  including any Affiliates to
+     whom you have granted rights under this Agreement;  and  "Microsoft"  means
+     the Microsoft  company which has signed this Agreement and its  Affiliates.
+     Microsoft  and you may each be  referred  to  individually  as a "party" or
+     collectively as the "parties" in this Agreement. In addition, the following
+     terms are defined:
+
+     "AFFILIATE"  means a legal  entity  that  (a) owns  and  controls  a party,
+     directly  or  indirectly,  or (b) is  owned  and  controlled,  directly  or
+     indirectly,  by a party,  or (c) is directly  or  indirectly  under  common
+     ownership and control with a party.
+
+     "AFFILIATE  AGREEMENT"  means the agreement  contained in Exhibit A to this
+     Agreement.
+
+     "CLIENT  SOFTWARE"  means  software  that is installed  on a Device,  which
+     allows the Device to access or use the services or  functionality  provided
+     by Server Software.
+
+     "CONFIDENTIAL  INFORMATION"  means these Terms and Conditions as negotiated
+     between  the  parties,  the Price  List,  all  addenda,  amendments  and/or
+     Affiliate  Agreements  entered into under this Agreement,  and any items of
+     information  provided  by a party that the other party is required to treat
+     as confidential under the terms of this Agreement. Confidential Information
+     does  not  include   information   which:   (a)  the  recipient   developed
+     independently;  (b) the recipient rightfully knew before receiving it under
+     this Agreement;  or (c) is or subsequently becomes publicly available or is
+     received  from another  source,  in both cases other than by a breach of an
+     obligation of confidentiality.
+
+     "CUSTOMER"  means an  individual  or legal  entity  that  obtains  Software
+     Services  from  you,  either  directly  from you or  indirectly  through  a
+     Reseller.
+
+     "CUSTOMER  AGREEMENT"  means the contract  between you and a Customer under
+     which you provide Software Services to such Customer;  or, in the case of a
+     Reseller,  the contract  between the Reseller and the Customer  under which
+     the Reseller provides Software Services obtained from you to such Customer.
+
+     "CUSTOMER  LICENSE TERMS" means the license terms contained in Exhibit B to
+     this Agreement.
+
+     "DEVICE"  means a computer,  workstation,  terminal,  handheld  PC,  pager,
+     telephone,  personal digital  assistant,  "smart phone, or other electronic
+     device.
+
+     "MEDIA" means a CD, diskette or other tangible storage media containing one
+     or more of the Software Products.
+
+     "MICROSOFT  CERTIFIED  PARTNER"  means an  individual or other legal entity
+     that  participates in the Microsoft  Certified  Partner Program by entering
+     into a Microsoft Certified Partner Agreement.
+
+     "MICROSOFT  DESIGNATED WEB SITE" means one or more Microsoft Internet sites
+     that support  Microsoft's  licensing  business.  Microsoft will provide you
+     with  the  Internet  addresses  (URLs),  User  IDs and  passwords  for each
+     applicable  Microsoft  Designated Web Site. You will treat as  Confidential
+     Information  any  User  IDs  and  passwords  provided  to  you  under  this
+     Agreement.
+
+
+                                  Page 3 or 22
+<PAGE>
+
+     "MICROSOFT  WORLDWIDE  FULFILLMENT"  or "WWF" means a  Microsoft-authorized
+     distributor  of Media  containing  Software  Products  and Related  Printed
+     Materials.
+
+     "MOET" means the  Microsoft  Order Entry Tool.  MOET `s an online tool that
+     enables  Monthly Use Reports to be submitted  electronically  to Microsoft.
+     MOET is accessed  through a Microsoft  Designated  Web Site that  Microsoft
+     will identify to you.
+
+     "MONTHLY  USE REPORT"  means the  software  use report that you must submit
+     each month via MOET or other electronic format specified by Microsoft.
+
+     "OEM" means an original equipment  manufacturer that pre-installs Microsoft
+     operating system Software Products on a computer system purchased by you.
+
+     "PL" means a processor license, as further described in the SPUR.
+
+     "PRICE LIST" means the Microsoft  document  containing  the per-month  unit
+     prices for each of the Software  Products  that may be licensed  under this
+     Agreement.  The  Price  List  is  published  periodically  on  a  Microsoft
+     Designated Web Site that Microsoft will identify to you.
+
+     "REDISTRIBUTION  SOFTWARE" means software that may be installed on a Device
+     and which  may be used,  modified,  reproduced  and/or  redistributed  by a
+     Customer  without   separate  payment  to  Microsoft,   such  as  "sample,"
+     "redistributable,"  and/or software  development  ("SDK") software code and
+     tools.
+
+     "RELATED PRINTED MATERIALS" means the copyrighted Microsoft guides, manuals
+     or other printed  materials  describing  or explaining  any of the Software
+     Products.
+
+     "RESELLER"  means a legal entity to which you grant  rights  under  Section
+     3(g) to redistribute, to its Customers, Software Services provided by you.
+
+     "SAL" means a subscriber access license, as further described in the SPUR.
+
+     "SERVER"  means a shared  computer in a network,  which  computer  provides
+     resources, services, or information to other computers is the network.
+
+     "SERVER  SOFTWARE"  means  software  that is  installed  on,  and  provides
+     services or functionality on, a Server.
+
+     "SERVICES  PROVIDER" means a business entity that uses one or more Software
+     Products licensed under this Agreement to provide Software Services.
+
+     "SERVICES  PROVIDER  USE  RIGHTS" or "SPUR"  means the  Microsoft  document
+     containing the use rights specific to each version of the Software Products
+     that may be licensed under this Agreement.
+
+     "SOFTWARE PRODUCTS" means the Microsoft software products identified in the
+     Price  List and the SPUR  that you may  license  under  this  Agreement  to
+     provide Software Services to Customers.  A Software Product includes Server
+     Software  and  may  also  include  Client  Software  and/or  Redistribution
+     Software,  depending  on the  product.  The  term  Software  Products  also
+     includes any software  provided to you under this  Agreement  that updates,
+     fixes, patches or supplements the original Software Products.
+
+     "SOFTWARE  SERVICES"  means  services that make  available,  display,  run,
+     access,  or  otherwise  interact  with the  functionality  of the  Software
+     Products,  which you provide to Users from one or more data centers through
+     the Internet or a private network on a rental or subscription basis.
+
+     "TERM" means the term of this Agreement, which is defined in Section 10(a),
+     including any extension for particular  Customer Agreements as described in
+     Section 10(b).
+
+
+                                  Page 4 or 22
+<PAGE>
+
+     "USER" means an individual  who is authorized by you to access and/or use a
+     Software Product in the form of Software Services.
+
+     "ZERO USE" means you, your  Affiliates  (if any) and Resellers (if any) did
+     not use any of the Software  Products to provide  Software  Services during
+     the previous calendar month.
+
+3.   USE OF THE SOFTWARE PRODUCTS.
+
+     (a)  Use and Ownership.  Subject to these Terms and  Conditions  (including
+          but not  limited  to  paragraphs  (b)  through  (o) below) and the use
+          rights  contained in the SPUR,  Microsoft  grants you a non-perpetual,
+          non-exclusive,  terminable,  non-transferable,  worldwide  and limited
+          right  during  the  Term  to  copy,  install,  access,  display,  run,
+          distribute,   make   available   or   otherwise   interact   with  the
+          functionality  of the Software  Products in order to provide  Software
+          Services. This Agreement does not transfer any ownership rights in any
+          Software  Product  and  Microsoft  reserves  all rights not  expressly
+          granted. This license will automatically  terminate upon expiration or
+          termination of this Agreement.
+
+     (b)  Restrictions on Use. You may not:
+
+          (1)  rent,  lease,  encumber,  pledge,  lend,  copy, make available or
+               distribute  the Software  Products to any third party,  except as
+               expressly permitted by this Agreement;
+
+          (2)  separate the components of a Software Product made up of multiple
+               components  by  installing  them  on  different  Servers,  or  by
+               upgrading  or  downgrading  them at  different  times,  except as
+               expressly permitted in the SPUR;
+
+          (3)  remove,  modify or  obscure  any  copyright,  trademark  or other
+               proprietary  rights notices that appear on the Software  Products
+               or that appear during use of the Software Products;
+
+          (4)  reverse   engineer,   decompile,   or  disassemble  the  Software
+               Products,  except and only to the extent  that such  activity  is
+               expressly  permitted  by  applicable  law  notwithstanding   this
+               limitation; and
+
+          (5)  provide  Software  Services  to the  U.S.  Government  under  any
+               agreement  resulting from a solicitation issued prior to December
+               1, 1995.
+
+     (c)  Obtaining  Software Product Media and Related Printed  Materials.  You
+          may  order  Media  containing  the  Software  Products  directly  from
+          Microsoft Worldwide Fulfillment ("WWF"). You may also obtain Microsoft
+          operating  system Software  Products from an OEM that has preinstalled
+          such software on a computer  system  purchased by you. If you place an
+          order for Media with WWF,  your order will be limited,  on a per-order
+          basis, to ten (10) copies of Media containing the Software Product(s).
+          If necessary or appropriate,  Microsoft will provide you with specific
+          and unique product activation/copy protection bypass codes in order to
+          permit  installation,  re-installation  and  copying  of the  Software
+          Products;  and you will treat as Confidential  Information any product
+          activation/copy  protection bypass codes that are provided to you. You
+          may also  order,  on a  per-Customer  basis,  up to ten (10) copies of
+          Related Printed  Materials from WWF for each Software  Product used to
+          provide Software  Services.  WWF will invoice you for all orders.  WWF
+          may request  additional  information and verification  from you before
+          fulfilling any orders for Media and Related Printed Materials.  Orders
+          will only be shipped to the address you  specified in this  Agreement.
+          Contact  information  for  WWF  will  be  provided  at the  time  this
+          Agreement is signed by Microsoft and may be updated by Microsoft  from
+          time-to-time.  Microsoft may change the process for ordering Media and
+          Related Printed Materials upon thirty (30) days prior written notice.
+
+
+                                  Page 5 or 22
+<PAGE>
+
+     (d)  Applicability   of  License  Terms   Contained  in  End-User   License
+          Agreement. If you obtain Software Products from WWF, the terms of this
+          Agreement  permanently and irrevocably  supersede the terms of any end
+          user license  agreement  ("EULA") which may be presented in electronic
+          form during  installation of the Software Products.  If you obtain any
+          Microsoft  operating  system Software  Product from an OEM, unless the
+          SPUR specifically  states otherwise,  the terms of this Agreement will
+          supersede the terms of any EULA that accompanies such Software Product
+          or which may be presented in electronic  form during  installation  of
+          such Software Product,  but only when such Software Product is used by
+          you  to  provide  Software  Services  under  this  Agreement.  If  any
+          additional software is provided to you with the Software Products, and
+          such  additional  software  comes  with a  separate  EULA,  then  such
+          software  is licensed to you under the terms of the EULA and not under
+          this Agreement.
+
+     (e)  Internal  Use.  You may use  Software  Products  licensed  under  this
+          Agreement  for your  internal use, so long as: (1) you report such use
+          in your  Monthly  Use  Report;  and,  (2) such use is less than  fifty
+          percent  (50%) of the total use of such  Software  Products  by all of
+          your Customers (calculated on a product-by-product basis) each month.
+
+     (f)  Copying and  Distribution  of Software  Products  and Related  Printed
+          Materials. For purposes of installation and back-up only, you may make
+          one (1) copy of the Media containing the Software Products for each of
+          your  data  centers.  You  must  include  on  the  backup  copies  all
+          copyright,  trademark and proprietary  notices  contained in or on the
+          Software Products.  You may not distribute any Media containing Server
+          Software to any Customer or to any other third party.  So long as your
+          Customer Agreements comply with Section 8(b) below, you may distribute
+          Media containing only Client Software and/or  Redistribution  Software
+          to your Customers.  You may not copy any Related Printed Materials. If
+          a Software  Product  contains  documentation  that is provided only in
+          electronic  form,  you  may  print  one (1)  copy  of such  electronic
+          documentation for your own use.
+
+     (g)  Distribution of Software  Services Through  Resellers.  You may resell
+          and distribute your Software  Services  through one or more Resellers,
+          subject to the terms of this  Section 3(g) and the other terms of this
+          Agreement.
+
+          (1)  Identification  of Resellers.  In connection  with any compliance
+               verification  under Section 9(b), you will provide Microsoft with
+               the name and address of your Reseller(s).
+
+          (2)  Limited  Right.  If you  permit a  Reseller  to  distribute  your
+               Software  Services,  your  agreement with the Reseller must state
+               that further distribution of the services other than to Customers
+               is not permitted.
+
+          (3)  Copying and Distribution of Software Products by Resellers.  Your
+               Reseller's  Customer  Agreements  must comply with  Section  8(a)
+               below. So long as your Reseller's Customer Agreements comply with
+               Sections  8(b) and 8(e) below,  you may authorize the Reseller to
+               distribute   Media   containing   only  Client   Software  and/or
+               Redistribution  Software  to its  Customers.  If  you  distribute
+               Client Software and/or Redistribution Software to a Reseller, you
+               will be legally  responsible  to Microsoft  for any  unauthorized
+               installation, use, copying, access or distribution of such Client
+               Software and/or Redistribution Software by such Reseller.
+
+          (4)  Reporting  Use.  You  are  responsible  for   consolidating   all
+               information  regarding  the use of the Software  Products (in the
+               form of  Software  Services)  by your  Reseller's  Customers  and
+               reporting  such  information  to  Microsoft  in your  Monthly Use
+               Report.
+
+          (5)  Termination  of Right.  Any  termination  or  expiration  of this
+               Agreement will  automatically  terminate any rights granted under
+               this Section 3(g).
+
+
+                                  Page 6 or 22
+<PAGE>
+
+          (h)  Affiliates.  You may grant to your  Affiliates the rights granted
+               to you  under  this  Agreement,  so long as each  Affiliate:  (1)
+               executes an Affiliate Agreement in substantially  similar form to
+               the  agreement  contained  in Exhibit A prior to  exercising  any
+               rights  under this  Agreement;  and (2) remains an  Affiliate  as
+               defined  herein.  You will  keep on file all  executed  Affiliate
+               Agreements  and  deliver  them to  Microsoft  upon  request.  You
+               unconditionally   and   irrevocably   guarantee  the  Affiliate's
+               compliance  with  the  terms  of this  Agreement;  however,  your
+               Affiliates do not submit  Monthly Use Reports to  Microsoft.  You
+               are responsible for consolidating  all information  regarding the
+               use of the Software  Products by your  Affiliates  and  reporting
+               such  information  to Microsoft in your Monthly Use Reports.  You
+               and your Affiliate  will be jointly and severally  liable for any
+               breach  of the  terms  of  this  Agreement  or the  SPUR  by such
+               Affiliate.
+
+          (i)  Customer  Demonstrations.  You  may  permit  your  employees  and
+               authorized  persons  acting on your  behalf to  demonstrate  your
+               Software  Services to prospective  Customers,  so long as the use
+               rights for the Software  Product(s)  that you want to demonstrate
+               (contained in the SPUR) do not restrict such use. You do not need
+               to report demonstrations of the Software Products in your Monthly
+               Use Report; however, you may not have more than fifty (50) active
+               User  IDs for  demonstration  purposes.  You will  keep  accurate
+               records  of  all  demonstrations,   including  the  name  of  the
+               prospective  Customer  and the number of User IDs involved in the
+               demonstration;  and you will  make  such  records  available  for
+               inspection  in  connection   with  any  compliance   verification
+               conducted under Section 9(b).
+
+          (j)  Customer  Evaluations.  You  may  use the  Software  Products  to
+               provide Software Services on a trial basis to your Customers, for
+               up to thirty  (30) days per  Customer,  solely for the purpose of
+               evaluation of such Software  Services by such Customers,  so long
+               as: (1) the use rights for the Software Product(s)  (contained in
+               the SPUR) do not restrict  such use;  (2) the Customer  Agreement
+               between you and the Customer meets the  requirements of Section 8
+               below; and (3) you do not charge or impose any fee on, or receive
+               any benefit from, the Customer in connection  with  evaluation of
+               the Software  Services.  You do not need to report evaluation use
+               of the  Software  Products in your  Monthly Use Report.  You will
+               keep accurate records of all Customer evaluations,  including the
+               name and address of the prospective Customer and the total number
+               of User IDs  involved in the  evaluation;  and you will make such
+               records   available  for   inspection  in  connection   with  any
+               compliance verification conducted under Section 9(b).
+
+          (k)  Evaluation and Testing of Software Products.  You may install and
+               use the Software  Products on Servers  connected to your internal
+               network(s)  for the purpose of internal  testing and  evaluation.
+               You do not need to report  such use of the  Software  Products in
+               your  Monthly  Use Report.  For  Software  Products  commercially
+               released  on or  before  the  Effective  Date,  you may  test and
+               evaluate such products for a period of ninety (90) days beginning
+               on the Effective Date. For Software  Products  released after the
+               Effective  Date,  you may test and evaluate  such  products for a
+               period of ninety (90) days  beginning on the  commercial  release
+               date of such products.
+
+          (1)  Data  Center  Outsourcing.  Subject to the terms  imposed in this
+               Section 3(l),  you may install  Server  Software on Servers under
+               the   day-to-day   management   and  control  of  a  third  party
+               ("Outsourcing  Company")  who  performs  data  center  management
+               services for you.
+
+               (1)  Identification  of Outsourcing  Company.  In connection with
+                    any  compliance  verification  under Section 9(b),  you will
+                    provide   Microsoft   with  the  name  and  address  of  the
+                    Outsourcing Companies providing services to you.
+
+               (2)  Scope  of  Use.  You  are   responsible   for  all  of  your
+                    obligations under this Agreement  regardless of the physical
+                    location of the Servers containing the Server Software.  The
+                    Outsourcing  Company's  access to and use of Server Software
+                    is limited to performing data center administration, testing
+                    and/or  maintenance  support  services  for  you  only.  The
+                    Outsourcing  Company  may  not  access  or  use  the  Server
+                    Software  for  any  other  purpose.   You  will  be  legally
+
+
+                                  Page 7 or 22
+<PAGE>
+
+                    responsible to Microsoft for any unauthorized  installation,
+                    use, copying,  access or distribution of the Server Software
+                    by the Outsourcing Company.
+
+               (3)  Data Center  Inspection.  In connection  with any compliance
+                    verification  under  Section  9(b)  Microsoft  may conduct a
+                    reasonable  inspection  of all Servers that  contain  Server
+                    Software at the Outsourcing  Company's data center(s).  Your
+                    agreement  with the  Outsourcing  Company  must  permit this
+                    inspection by Microsoft.  Any  inspection  will be conducted
+                    during regular  business hours at the Outsourcing  Company's
+                    facilities, with at least five (5) days prior notice, and in
+                    such a  manner  as not to  interfere  unreasonably  with the
+                    operations of the Outsourcing Company.
+
+               (4)  Copies of Software Products.  Upon termination or expiration
+                    of your agreement with an Outsourcing  Company, you will use
+                    all  commercially  reasonable  efforts  to:  (i)  remove alt
+                    copies  of  Server  Software  installed  on the  Outsourcing
+                    Company's  Servers or otherwise  render such Server Software
+                    permanently  unusable;  and (ii) ensure that the Outsourcing
+                    Company  returns  or  destroys  all  copies of the  Software
+                    Products in its possession or under its control.
+
+          (m)  Server  Administration  and Maintenance.  You may authorize up to
+               twenty (20) employees or authorized persons acting on your behalf
+               per data center  (including  persons  employed by an  Outsourcing
+               Company performing  services for you under Section 3(l) above) to
+               have  access  to and use the  services  or  functionality  of the
+               Software  Products for the sole  purpose of fisting,  maintenance
+               and administration of the Software  Products.  You do not need to
+               report  such use of the  Software  Products  is your  Monthly Use
+               Report.
+
+          (n)  Use of Trademarks  and Logos.  This  Agreement does not grant you
+               any rights to any Microsoft  trademarks,  logos or service marks.
+               You may make descriptive  references to Microsoft's  non-stylized
+               word  marks  in   documentation,   advertising,   and   marketing
+               materials, including web pages, according to Microsoft's standard
+               trademark     guidelines     (available     for     viewing    at
+               www.microsoft.com/trademarks).  You do not have permission to use
+               any Microsoft  logo without a license from  Microsoft.  Microsoft
+               logo    license     information     can    be    obtained    from
+               http://www.microsoft.com/trademarks  or by contacting  Microsoft.
+               Microsoft's  legal or equitable  rights to protect its trademarks
+               against   infringement,   dilution,   or  other  misuse  are  not
+               restricted by this Agreement.
+
+          (o)  Compliance  with  License  Requirements.  You  will  inform  your
+               employees,  agents,  and other individuals who have access to the
+               Software  Products that the Software Products (1) are licensed by
+               Microsoft,  (2) may  only be used  subject  to the  terms of this
+               Agreement,  and (3) may not be copied,  transferred  or otherwise
+               used in  violation of such terms.  You will use all  commercially
+               reasonable  efforts to  prevent  any  unauthorized  distribution,
+               copying, use, or pirating of the Software Products.
+
+     4.   SERVICES PROVIDER USE RIGHTS.
+
+          (a)  Version Specific.  Your use of any Software Product is subject to
+               the applicable  use rights  contained is the SPUR. The use rights
+               for the Software Products are  version-specific.  Once use rights
+               for a  version  of a  Software  Product  are  added to the  SPUR,
+               Microsoft  will not change the use rights for such version during
+               the Term. However,  Microsoft may revise the SPUR during the Term
+               in order to add use rights  for new  Software  Products,  add use
+               tights for new  versions of Software  Products,  remove  Software
+               Products, or make non-material changes to the SPUR.
+
+          (b)  Publication.  The SPUR is published  periodically  on a Microsoft
+               Designated   Web  Site  that  Microsoft  will  identify  to  you.
+               Microsoft  will  publish  revisions to the SPUR no later than the
+               first  day of  the  month  one  (1)  calendar  month  before  the
+               effective date of the revised SPUR.
+
+
+                                  Page 8 or 22
+<PAGE>
+
+          (c)  Effective  Date.  The  effective  date of a revised  SPUR will be
+               stated in the SPUR.  The effective  date will be at least one (1)
+               calendar  month  after  the  publication  date as  provided  undo
+               Section 4(b) above. If a new Software  Product (or new version of
+               a Software  Product) is the subject of a SPUR  revision,  you may
+               begin to license the new Software  Product on the effective  date
+               of the new SPUR.
+
+          (d)  Removal of  Software  Products  from SPUR.  You may  continue  to
+               license any Software Product that is removed from the SPUR if (1)
+               you were  licensing the removed  Software  Product at the time of
+               its removal from the SPUR, and (2) Microsoft has not notified you
+               (in  accordance  with  Section  l6(d)  below)  that the  Software
+               Product was removed from the SPUR due to an intellectual property
+               infringement  claim  or in  accordance  with  a  court  or  other
+               governmental  order.  The use rights  applicable  to any  removed
+               Software  Product  will be those  stated  in the SPUR that was in
+               effect immediately prior to removal of the Software Product.
+
+     5.   MONTHLY USE REPORTS.
+
+          (a)  Reporting Use; Zero Use. You must report your use of the Software
+               Products  each  month  of the  Term by  submitting  either  (1) a
+               Monthly  Use  Report  through  MOET or (2) a Zero Use  report  by
+               e-mail to the following  e-mail address:  selquest@microsoft.com.
+               Microsoft  will  provide you with details  concerning  the use of
+               MOET before this  Agreement  is approved by  Microsoft.  You will
+               provide all applicable  information  requested in the Monthly Use
+               Report,  including  but not limited to, the total  number of SALs
+               and PLs required for each Software Product licensed by you during
+               the  preceding  calendar  month.  If  you  grant  rights  to  any
+               Affiliates or to any  Resellers  under this  Agreement,  you must
+               incorporate and consolidate their use of the Software Products in
+               your Monthly Use Report.
+
+               A report of Zero Use,  if  applicable,  must  contain a statement
+               that you, your Affiliates (if any) and Resellers (if any) did not
+               use any of the  Software  Products to provide  Software  Services
+               during the previous calendar month.
+
+          (b)  Submission;  Failure to Submit.  You must  submit the Monthly Use
+               Report  through MOET,  or submit a Zero Use report by e-mail,  no
+               later  than  fifteen  days  (15)  days  after the last day of the
+               calendar  month  covered  by  the  report.   A  duly   authorized
+               representative  of your  company  must  certify  the  Monthly Use
+               Report  (or Zero Use  report,  if  applicable)  as  accurate  and
+               complete.  The failure to timely  submit a complete  and accurate
+               Monthly Use Report each month (or Zero Use report, if applicable)
+               will be a breach of this Agreement  under Section  10(c)(2).  For
+               purposes of this Section 5 and Section 6(e) below, "timely" means
+               that  Microsoft  has  received the report by the stated due date,
+               "accurate" means that you have correctly  filled-in all reporting
+               fields  in  the  report,  and  "complete"  means  that  you  have
+               filled-in all required reporting fields in the report.
+
+          (c)  Modification  of Reporting  Structure.  Microsoft may  reasonably
+               revise the format of the  Monthly  Use Report  submitted  through
+               MOET from  time-to-time,  as well as specify  another  electronic
+               format and procedure for  submitting  Monthly Use Reports  and/or
+               Zero Use  reports.  Microsoft  will  notify you of any  reporting
+               changes  by  publishing  the  revised  form  or  procedures  on a
+               Microsoft  Designated Web Site no later than the first day of the
+               month one (1)  calendar  month before the changes go into effect.
+               You will not be  required to submit more than one (1) Monthly Use
+               Report per month.
+
+          (d)  Final Monthly Use Report.  Upon termination or expiration of this
+               Agreement,  you will  submit,  within  thirty (30) days,  a final
+               Monthly Use Report (or Zero Use report,  as applicable)  covering
+               your use of the Software  Products up to the date of  termination
+               or expiration.
+
+          (e)  Assistance  With  Reporting.  Upon  request,  Microsoft  will use
+               commercially  reasonable efforts to assist you with reporting and
+               will work with you to facilitate the monthly reporting process.
+
+
+                                  Page 9 or 22
+<PAGE>
+
+          (f)  Use of Information.  Microsoft will use information provided in a
+               Monthly Use Report only for revenue calculation, internal revenue
+               allocation,  compliance,  and billing  purposes.  Microsoft  will
+               treat such information as Confidential Information.
+
+     6. PRICING; INVOICES; PAYMENT TERMS AND REBATES.
+
+          (a)  Pricing and Invoices.  Using the SAL and PL unit prices stated in
+               the Price List, Microsoft will invoice you monthly based upon the
+               number of SALs and PLs reported in your Monthly Use Report.  Your
+               monthly  invoice  will  include any  internal use of the Software
+               Products as reported by you in your Monthly Use Report.
+
+          (b)  Adding  and  Removing  Software  Products  from the  Price  List.
+               Microsoft  may  periodically  change  the Price List by adding or
+               removing Software  Products.  Microsoft will publish revisions to
+               the Price List on a Microsoft  Designated  Web Site no later than
+               the  first day of the month one (1)  calendar  month  before  the
+               effective date of the revised Price List. The continued licensing
+               of Software  Products removed from the Price List is described in
+               Section 4(d).
+
+          (c)  Pie Changes. Microsoft will not increase the prices stated in the
+               Price List until  January 1, 2003.  Starting  on January 1, 2003,
+               Microsoft  may increase the prices  stated in the Price List once
+               per calendar year. Any price increase for a Software Product will
+               not exceed,  on a percentage  basis,  any price  increase for the
+               same  Software  Product for the same  calendar year under the "No
+               Level" price level of Microsoft's  Open licensing  program or its
+               equivalent  under  any  successor  (to Open)  licensing  program.
+               Microsoft  will not  otherwise  increase the prices stated in the
+               Price List during the calendar year. Microsoft will notify you of
+               any  price  changes  by  publishing  a  revised  Price  List on a
+               Microsoft  Designated  Web Site no later  than  December 1 in any
+               calendar year  (commencing on December 1, 2002), and such changes
+               will become effective on January 1 of the following year.
+
+          (d)  Payment  Terms.  All amounts  payable by you under this Agreement
+               are due and owing thirty (30) days after the date of  Microsoft's
+               invoice.  If payment is not received by Microsoft by the due date
+               stated in the  invoice,  you may be  assessed  a  finance  charge
+               (accruing from the due date until payment is received) of one and
+               one-half  percent  (1.5%) of the invoice  amount per month or the
+               legal maximum,  whichever is less. You agree to pay all Microsoft
+               invoices  regardless  of whether you have  received  payment from
+               your Customers and/or Resellers.  You will pay the full amount of
+               the  invoice  in U.S.  Dollars  (or  Canadian  Dollars if you are
+               located in  Canada) by bank wire  transfer  or  electronic  funds
+               transfer  through  an  Automated   Clearing  House  ("ACH")  with
+               electronic  remittance  detail  attached.  You will  include  the
+               Agreement  number and the Microsoft  invoice  number,  if any, on
+               each  electronic  payment.  You may not withhold  payment or make
+               deductions  to any payment  prior to the  issuance of a credit by
+               Microsoft   for  rebates,   billing   errors  or  for  any  other
+               appropriate reasons.
+
+               Depending on your location,  you will remit payment each month to
+               one of the  following  accounts  (or  such  other  account(s)  as
+               Microsoft may specify in writing):
+
+
+                                  Page 10 or 22
+<PAGE>
+
+
+                                        [***] - CONFIDENTIAL TREATMENT REQUESTED
+
+               (All locations in the Americas except  Canada):  (Use only if you
+               are located in Canada):
+
+               [***]                              [***]
+
+               Remittance  detail for wire transfers must also Remittance detail
+               for wire transfers must also be sent either by fax or e-mail:  be
+               sent either by fax or e-mail:
+
+               Fax:(425)936-7329,  Attention:    Fax: (425) 936-7329, Attention:
+               Special Agreements Payments       Special Agreements Payments
+
+               E-mail:  spagpay@microsoft.com    E-mail   spagpay@microsoft.com
+
+          (e)  Rebates. You may cam a semi-annual rebate from Microsoft of up to
+               [***] percent ([***]%) of the total amount stated in your monthly
+               invoices  (the "Rebate  Amount").  You may earn:  (1) up to [***]
+               percent  ([***]%) of the Rebate  Amount for the timely,  accurate
+               and complete submission of your Monthly Use Report; and (2) up to
+               [***]  percent  ([***]%)  of the  Rebate  Amount  for the  timely
+               payment of your monthly  invoice.  Your entitlement to the Rebate
+               Amount will be measured on a  month-to-month  basis every six (6)
+               calendar months (i.e.,  January 1st to June 30th, and July 1st to
+               December 31st, each a "Rebate Period").  If the Effective Date of
+               this  Agreement  falls  within  a Rebate  Period,  you may earn a
+               prorated  rebate  based upon the number of whole  months  falling
+               within the Rebate Period.
+
+               (1)  Payment.  If you earn all or a portion of the Rebate  Amount
+                    during a Rebate  Period,  it will be paid to you in the form
+                    of an invoice  credit  that will be  applied to the  monthly
+                    invoice  sent to you three (3)  months  after the end of the
+                    applicable  Rebate Period (e.g., the October invoice for the
+                    January  - June  Rebate  Period).  If you  are  entitled  to
+                    receive a rebate  following  the end of the Term,  Microsoft
+                    will apply the rebate to your final invoice. However, if you
+                    are in breach of any of the terms of this  Agreement  at the
+                    time of issuance  of a rebate,  your rebate will be withheld
+                    until  you cure  the  breach;  and,  if you fail to cure the
+                    breach in accordance with Section 10(c)(2), you will forfeit
+                    the rebate.
+
+               (2)  Rebate  Disputes.  You must notify  Microsoft  of any issues
+                    regarding  the  amount of the Rebate  Amount  issued (or not
+                    issued) to you no later than sixty (60) days  following your
+                    receipt (or failure to receive) a credit for the  applicable
+                    Rebate  Period.  You waive any and all right to dispute  the
+                    amount of a credit  if you do not  notify  Microsoft  within
+                    such sixty (60) day period.
+
+          (f)  Taxes.  The unit  prices  stated in the Price List do not include
+               any applicable  taxes  (including,  without  limitation,  income,
+               property,  franchise, gross receipts, goods and services, excise,
+               sales,  use, and value added tams),  duties,  fees,  tariffs,  or
+               other   governmental   charges  or  expenses   (individually  and
+               collectively "Taxes").
+
+
+                                  Page 11 or 22
+<PAGE>
+
+
+
+
+               (1)  Liability for Taxes.  You will pay all applicable Taxes (and
+                    any penalties,  interest,  or other additions to such Taxes)
+                    now or  hereafter  imposed,  levied  or  assessed  by a duly
+                    constituted and authorized  taxing authority on the Software
+                    Products  licensed  by you under  this  Agreement  or on any
+                    transactions  arising  out of or  related  to yew use of the
+                    Software  Products  (including,  but  not  limited  to,  the
+                    Software Services  provided by you).  "Taxes" do not include
+                    taxes that  Microsoft is  obligated to pay under  applicable
+                    law that are based on the net worth,  capital,  property, or
+                    income  of   Microsoft   or  taxes   impaled  by  reason  of
+                    Microsoft's  doing  business  or  being  incorporated  in  a
+                    jurisdiction.
+
+               (2)  Billing  and   Collection.   If  Microsoft  is  required  or
+                    permitted to collect  Taxes from you under  applicable  law,
+                    and  if  such  Taxes  are  your  responsibility  under  this
+                    Agreement,  then  Microsoft  will include the amount of such
+                    Taxes in your  monthly  invoice  ("Collected  Taxes").  Upon
+                    request,  Microsoft  will  provide you with tax  receipts or
+                    other  evidence  indicating  that Microsoft has remitted the
+                    Collected Taxes to the appropriate taxing authority.
+
+                    If you provide a tax exemption certificate to Microsoft that
+                    is  acceptable to Microsoft  and to the  appropriate  taxing
+                    authority    (including    without   limitation   a   resale
+                    certificate),   then,   after  the  date  upon   which  such
+                    certificate  is received in proper form,  Microsoft will not
+                    collect the Taxes covered by such certificate.
+
+               (3)  Failure to Pay Taxes.  If you fail to pay any Taxes that are
+                    your responsibility  under this Agreement,  and if Microsoft
+                    is  required  to pay  such  Taxes on your  behalf,  you will
+                    reimburse  Microsoft  for the  full  amount  of such  Taxes,
+                    including  any  interest,   penalties,  costs  and  expenses
+                    (including reasonable attorneys' fees) incurred by Microsoft
+                    resulting from your failure.
+
+               (4)  Withholding by Foreign Tax Authorities.  If you are required
+                    to withhold  Taxes from  payments  made by you to  Microsoft
+                    under this  Agreement,  you may  deduct  such Taxes from the
+                    amount owed Microsoft and pay them to the appropriate taxing
+                    authority.  In such event, you will promptly obtain and send
+                    to Microsoft an official receipt for any such Taxes withheld
+                    or other documents  necessary to enable Microsoft to claim a
+                    U.S.  Foreign  Tax  Credit.   You  will  be  responsible  to
+                    Microsoft for any amounts withheld by you for which you have
+                    not delivered to Microsoft such official  receipt.  You will
+                    minimize the amount of withheld Taxes to the extent possible
+                    under applicable law.
+
+     7.   SUPPORT SERVICES.
+
+          (a)  Microsoft  Support.  Product  support is not included  under this
+               Agreement. You may obtain product support services from Microsoft
+               under a separate agreement.
+
+          (b)  Customer  Support  Requirements.  You will  provide  commercially
+               reasonable   support  to  your   Customers   by   obtaining   and
+               continuously   maintaining:   (1)  a  Microsoft  Premier  support
+               services  agreement;  (2) support  services through the Microsoft
+               Professional  support  program with  prepayment  for at least ten
+               (10)  incidents;  or (3) support  services that are equivalent to
+               either  (1) or (2)  above  from a third  party  support  services
+               provider.
+
+     8.   CUSTOMER AGREEMENTS.
+
+          (a)  Minimum  Required  Terms.  Your  Customer  Agreements  will, at a
+               minimum,  contain terms  protective of Microsoft as follows:  (i)
+               terms that are at least as protective of Microsoft's intellectual
+               property  rights as the terms  contained  in Section  3(b)(3) and
+               3(b)(4) above;  (2) terms that disclaim,  to the extent permitted
+               by applicable  law, all warranties by Microsoft and any liability
+               by  Microsoft  for any  damages,  whether  direct,  indirect,  or
+               consequential, arising from the use of the Software Services; and
+
+                                  Page 12 or 22
+<PAGE>
+
+               (3) terms stating that product support for the Software  Services
+               are provided by you and are not provided by Microsoft.
+
+          (b)  Customer License Terms. If you distribute  Client Software and/or
+               Redistribution  Software in order to provide Software Services to
+               your  Customers,   you  will  incorporate,   into  your  Customer
+               Agreements  for any Customers  that require such Client  Software
+               and/or  Redistribution  Software,  terms and conditions  that are
+               substantially  similar  to, and in any event no less  restrictive
+               than,  the  Customer  License  Terms  contained  in Exhibit B. In
+               addition,  if you distribute  Redistribution  Software,  you will
+               also incorporate into your Customer Agreements (but only for such
+               Customers  that will be using such  Redistribution  Software) the
+               applicable  terms  contained  in  the  SPUR  regarding  the  use,
+               modification,  copying and/or distribution of such Redistribution
+               Software.  You  may,  subject  to  confidentiality  restrictions,
+               disclose the SPUR to your Affiliates.  Customers and Resellers in
+               order to fulfill these obligations.
+
+          (c)  Compliance. At any time during the Term, if Microsoft believes in
+               good faith that any Customer is not  complying  with the Customer
+               License Terms, you will cooperate in good faith with Microsoft in
+               investigating and remedying such non-compliance.
+
+          (d)  Failure to Flow-Dawn  Customer License Terms. You will be legally
+               responsible to Microsoft for any unauthorized installation,  use,
+               copying,   access  or  distribution  of  Client  Software  and/or
+               Redistribution  Software  by a  Customer  if  you  fail  to:  (1)
+               incorporate,  into your Customer  Agreements  as required  above,
+               terms and  conditions  that are  similar  to, and in any event no
+               less  restrictive  than, the Customer  License Terms;  and/or (2)
+               require  your  Resellers  to  incorporate,  into  their  Customer
+               Agreements  as  required   under  Section   3(g)(3),   terms  and
+               conditions that are substantially similar to, and in any event no
+               less restrictive than, the Customer License Terms .
+
+          (e)  Copies of  Software  Products.  Upon  termination  of a  Customer
+               Agreement,  you will rise all commercially reasonable efforts to:
+               (1) remove all copies of Client  Software  and/or  Redistribution
+               Software  from the  Customer's  Devices or otherwise  render such
+               software permanently  unusable;  and (2) ensure that the Customer
+               returns  or  destroys  all  copies  of  Client   Software  and/or
+               Redistribution Software in its possession.
+
+     9.   RECORD KEEPING AND VERIFYING COMPLIANCE.
+
+          (a)  Record Keeping. During the Term and for two (2) years thereafter,
+               you will keep records of your use of the Software  Products,  the
+               use of the Software  Products by your  Affiliates  (if any),  the
+               Software  Services  provided  by you and/or  your  Affiliates  to
+               Customers end through  Resellers,  and all other records that are
+               required to be kept under this Agreement.
+
+          (b)  Verifying   Compliance.   Microsoft   has  the  right  to  verify
+               compliance with this Agreement,  at its expense,  during the Term
+               and for two (2) years  thereafter.  Such  verification  will take
+               place at your  facilities  upon not less than  five (5)  business
+               days prior notice,  during normal  business hours and is a manner
+               that  does  not  interfere  unreasonably  with  your  operations.
+               Microsoft will engage an independent accountant from a nationally
+               recognized  public  accounting  firm   ("Independent   Auditor"),
+               selected by  Microsoft,  to verify  compliance.  The  Independent
+               Auditor will be subject to a confidentiality obligation. You will
+               provide  the  Independent  Auditor  with  access to the  relevant
+               records, information and facilities, including access to any data
+               center(s)  or  facilities  where  Server  Software is  installed.
+               Microsoft  may  also  require  you  to   accurately   complete  a
+               self-audit  questionnaire  relating  to your use,  and the use by
+               your  Affiliates  (if any), of the Software  Products.  Microsoft
+               will treat  information  disclosed by you during  verification or
+               self-audit  as   Confidential   Information  and  will  use  such
+               information  only to enforce its rights under this  Agreement and
+               any  applicable  laws,  and  to  determine  whether  you  ace  in
+               compliance  with the terms of this  Agreement.  By  invoking  the
+               rights and procedures  described above,  Microsoft does not waive
+               its  right  to  enforce   this   Agreement   or  to  protect  its
+               intellectual property by any other means permitted by law.
+
+
+                                  Page 13 or 22
+<PAGE>
+
+          (c)  Unreported Use. If verification or self-audit  reveals unreported
+               use of the Software Products,  you must promptly order sufficient
+               PLs and/or SALs to cover all such unreported use. If verification
+               or self-audit  reveals  material  unreported  use of the Software
+               Products,  in addition to promptly ordering sufficient PLs and/or
+               SALs to cover the  unreported  use, you must also pay  Microsoft:
+               (1) an  additional  fee of  fifteen  percent  (15%) of the prices
+               stated in the then current Price List for each SAL and/or PL that
+               you ere required to order; plus (2) the reasonable costs incurred
+               by Microsoft  to conduct the  verification.  In addition,  in any
+               case  where  material  unreported  use of a  Software  Product is
+               found,  it will be presumed that such  unreported  use began upon
+               commencement of each Customer  relationship with you, unless your
+               records  reasonably  demonstrate  that  such  unreported  use was
+               limited in scope and duration. For purposes of this Section 9(c),
+               "material  unreported use" will exist if your use of the Software
+               Products,  as reported in your Monthly Use Reports,  is less than
+               ninety-five percent (95%) of your actual use (as disclosed during
+               verification  or self-audit).  If verification  does not disclose
+               material unreported use of the Software Products,  Microsoft will
+               not undertake another verification or self-audit for at least one
+               (1) year, unless Microsoft  receives  information that would lead
+               it to believe in good faith that material  unreported  use of the
+               Software Products has occurred since the previous verification.
+
+     10.  TERM AND TERMINATION.
+
+          (a)  Term. The term of this  Agreement is three (3) years,  commencing
+               on the Effective  Date (the "Term"),  unless the Term is extended
+               or this Agreement is otherwise terminated as provided below.
+
+          (b)  Term Extension. If you are not in breach of this Agreement on the
+               last day of the Term, and if you have  continuing  obligations to
+               provide  Software  Services  under existing  Customer  Agreements
+               which extend  beyond the end of the Term,  then you may obtain an
+               extension of the Term of this  Agreement  for the sole purpose of
+               providing Software Services to such existing Customers.  In order
+               for the Term extension to apply, you must notify Microsoft of the
+               extension in  accordance  with Section 16(d) no later than thirty
+               (30)  days  before  the end of the  Term,  and your  notice  must
+               include  the total  number of  Customer  Agreements  that  extend
+               beyond the end of the Term and their respective expiration dates.
+               The Term  extension  will be  limited  to the  longest  remaining
+               contract   period  between  you  and  an  existing   Customer  or
+               thirty-six (36) months,  whichever period of time is shorter. You
+               may not provide  Software  Services to any new Customers  under a
+               Term extension of this Agreement nor provide Software Services to
+               say existing Customer beyond the remaining contract period of the
+               existing  Customer  Agreement.  Except as stated in this  Section
+               10(b),  there is no express or implied obligation on either party
+               to renew or extend this Agreement upon termination or expiration;
+               and, if the Term of this Agreement is extended in accordance with
+               the terms imposed here,  such extension does sot create any right
+               or obligation to continue such  relationship on the same terms as
+               those  contained in this Agreement after the Term extension ends.
+               Notwithstanding  extension of the Term,  this  Agreement  is, and
+               will always be interpreted  as, a fixed term agreement and not an
+               indefinite term agreement.
+
+          (c)  Termination of the Agreement.
+
+               (1)  Termination  Without Cause. You may terminate this Agreement
+                    without  cause,  so  long as you  provide  sixty  (60)  days
+                    advance  notice to  Microsoft  in  accordance  with  Section
+                    16(d).
+
+               (2)  Termination for Breach. A party may terminate this Agreement
+                    due  to  breach  by  the  other  party  (including,  without
+                    limitation,  any breach of the use rights  contained  in the
+                    SPUR).  A notice  of  breach  describing  the  nature of the
+                    breach  must  first  be  sent  to  the  breaching  party  in
+                    accordance  with Section  16(d).  This Agreement will not be
+                    terminated  if the  breaching  party cures the breach within
+                    thirty (30) days after receipt of notice.
+
+
+                                  Page 14 or 22
+<PAGE>
+
+               (3)  Termination by Microsoft.  Notwithstanding  Section 10(c)(2)
+                    above, without prejudice to any other rights,  Microsoft may
+                    immediately  terminate  this Agreement by providing you with
+                    notice in  accordance  with Section 16(d) if: (i) you breach
+                    Section  16(a)  ("Assignment");  (ii) there are three  (3)or
+                    more material breaches by you of the use rights contained in
+                    the SPUR; (iii) you engage in, or participate with any third
+                    party   in,   the   unauthorized    manufacture,    copying,
+                    distribution or use of any Software  Products,  or otherwise
+                    engage  in  the  infringement  of  Microsoft's  intellectual
+                    property  rights;  (iv)  you  make  any  assignment  for the
+                    benefit of creditors,  file a petition in bankruptcy, or are
+                    adjudged  bankrupt or become  insolvent or are placed in the
+                    hands  of a  receiver,  or (v) you  report  Zero Use in your
+                    Monthly Use Report for more than six (6) consecutive months.
+                    In addition,  if you fail to maintain  "Microsoft  Certified
+                    Partner" member-level status (or equivalent status under any
+                    successor  program) at all times during the Term,  Microsoft
+                    may  terminate  this  Agreement  upon thirty (30) days prior
+                    written  notice,  so long as such failure is not  thereafter
+                    corrected within such thirty (30) day period.
+
+          (d)  Obligations  on Termination  or  Expiration.  The  termination or
+               expiration of this  Agreement  will  automatically  terminate all
+               license rights granted under this Agreement.  Upon termination or
+               expiration of this Agreement, you must return to Microsoft, or at
+               Microsoft's  direction,  destroy  and  certify to  Microsoft  the
+               destruction  of,  all  copies  of the  Software  Products,  their
+               component parts, and Related Printed Materials in your possession
+               or control that were  obtained  from WWF and licensed  under this
+               Agreement. You must likewise instruct all Affiliates,  Customers,
+               and Resellers,  as applicable,  to do the same.  There will be no
+               refund of amounts paid for Related Printed Materials or for Media
+               containing  Software  Products  that  have  been so  returned  or
+               destroyed.  Termination  or expiration of this Agreement will not
+               affect  your right to use,  in  accordance  with the terms of the
+               applicable  end user license  agreement  ("EULA"),  any Microsoft
+               software  products  legally  obtained  and  licensed  under other
+               Microsoft license agreements or through other authorized channels
+               of distribution.
+
+     11.  LIMITED WARRANTY.
+
+          (a)  Software Product Limited Warranty.  Microsoft  warrants that each
+               version of the Software  Products will perform  substantially  in
+               accordance  with  its end user  documentation  ("Documentation").
+               This  limited  warranty is valid for a period of ninety (90) days
+               from the date you first copy,  install,  access,  run, display or
+               otherwise  interact  with such version of the  Software  Products
+               (the "Warranty  Period").  To the extent  permitted by applicable
+               law,  any  warranties  imposed  by law  concerning  the  Software
+               Products are limited to the same Warranty Period.
+
+               If  you  notify  Microsoft  within  the  Warranty  Period  that a
+               Software   Product  does  not  meet  this   warranty,   then,  at
+               Microsoft's option,  Microsoft will either: (1) repair or replace
+               such Software Product; or (2) refund the total amount paid by you
+               for such Software Product.  Any software that repairs or replaces
+               a Software Product is warranted for the remainder of the Warranty
+               Period or thirty (30) days, whichever period is longer.
+
+               THIS LIMITED WARRANTY DOES NOT APPLY TO REDISTRIBUTION  SOFTWARE,
+               WHICH YOU ARE  PERMITTED  TO  REDISTRIBUTE  UNDER THE SPUR.  THIS
+               LIMITED  WARRANTY IS VOID IF FAILURE OF THE SOFTWARE  PRODUCTS IS
+               THE RESULT OF ACCIDENT,  ABUSE,  MISAPPLICATION  OR  UNAUTHORIZED
+               MODIFICATION.
+
+               THIS LIMITED  WARRANTY  DOES NOT APPLY TO ANY  SOFTWARE  PRODUCTS
+               OBTAINED BY YOU FROM AN OEM. THE WARRANTY PROVIDED BY THE OEM, IF
+               ANY,  WILL APPLY IN LIEU OF THE LIMITED  WARRANTY  STATED IN THIS
+               SECTION 11(A).
+
+               You do not have the  right to make on  behalf  of  Microsoft  any
+               other  warranties  or promises  to any  Customer  concerning  any
+               Software Product that are not contained in this Section 11(a).
+
+
+                                  Page 15 or 22
+<PAGE>
+
+               After  expiration  of the Warranty  Period but during the Term of
+               this  Agreement,   if  you  notify   Microsoft  of  any  material
+               deviations  between  performance  of a Software  Product  and its
+               Documentation,  and such deviations have been already reported by
+               other Microsoft  licensees,  or, after your report,  are reported
+               commonly by other  Microsoft  licensees and are  acknowledged  by
+               Microsoft,   then  Microsoft  will  use  commercially  reasonable
+               efforts to correct such deviations and provide corrections to you
+               in the  form of a fix or patch at such  time as  Microsoft  makes
+               such   corrections   generally   available  to  other   Microsoft
+               licensees.
+
+               The  foregoing  states  Microsoft's  entire  liability  and  your
+               exclusive remedy for any breach of the limited warranty described
+               in this Section 11(a).
+
+          (b)  NO OTHER WARRANTIES.  EXCEPT FOR THE LIMITED WARRANTY PROVIDED IN
+               SECTION 11(A) ABOVE,  TO THE EXTENT  PERMITTED BY APPLICABLE LAW,
+               MICROSOFT DOES NOT MAKE ANY REPRESENTATIONS OR EXPRESS WARRANTIES
+               AND DISCLAIMS ALL WARRANTIES,  DUTIES AND CONDITIONS WITH RESPECT
+               TO THE SOFTWARE PRODUCTS,  WHETHER EXPRESS, IMPLIED OR STATUTORY,
+               INCLUDING,  BUT NOT LIMITED TO, IMPLIED  WARRANTIES OR CONDITIONS
+               OF  MERCHANTABILITY,  FITNESS FOR A PARTICULAR  PURPOSE,  LACK OF
+               VIRUSES,  ACCURACY OR  COMPLETENESS  OF RESPONSES OR RESULTS,  OR
+               CORRESPONDENCE TO DESCRIPTION.  THERE ARE NO WARRANTIES OF TITLE,
+               NON-INFRINGEMENT,   QUIET  ENJOYMENT  OR  QUIET  POSSESSION  WITH
+               RESPECT  TO THE  SOFTWARE  PRODUCTS.  THE  ENTIRE  RISK AS TO THE
+               QUALITY OF OR ARISING OUT OF USE OR  PERFORMANCE  OF THE SOFTWARE
+               PRODUCTS, IF ANY, REMAINS WITH YOU.
+
+          (c)  Fault Tolerance. The Software Products are not fault-tolerant and
+               are not designed,  manufactured  or intended for use with on-line
+               control equipment in hazardous  environments  requiring fail-safe
+               performance (e.g., the operation of nuclear facilities,  aircraft
+               navigation or communication systems, air traffic control,  direct
+               life support machines, or weapons systems environments), in which
+               the  failure of the  Software  Products  could lead  directly  to
+               death,   personal  injury,   or  severe  physical,   property  or
+               environmental damage ("High Risk Activities").  MICROSOFT AND ITS
+               SUPPLIERS  SPECIFICALLY  DISCLAIM ANY EXPRESS OR IMPLIED WARRANTY
+               OF FITNESS FOR HIGH RISK ACTIVITIES.
+
+     12.  DEFENSE OF INFRINGEMENT CLAIMS.
+
+          (a)  Duty to Defend. Microsoft will defend you against and, subject to
+               Section l3(a),  will pay the amount of any adverse final judgment
+               (or settlement to which Microsoft  consents),  resulting from any
+               claims  by an  unaffiliated  third  party  that:  (1) a  Software
+               Product infringes any copyright  enforceable in any jurisdiction;
+               or  (2) a  Software  Product  infringes  any  patent  issued  and
+               enforceable  in the  United  States  on or  before  the date this
+               Agreement expires or is terminated.  Microsoft's obligation under
+               this  Section  12(a)  is  subject  to  your  notifying  Microsoft
+               promptly  in  writing  of the claim  and  giving  Microsoft  sole
+               control  over  its  defense  or  settlement.   You  will  provide
+               Microsoft with reasonable  assistance in defending the claim, and
+               Microsoft  will  reimburse you for any  reasonable  out-of-pocket
+               expenses incurred in providing such assistance.
+
+          (b)  Exceptions to Duty.  Microsoft's  obligations under Section 12(a)
+               will not apply to any  infringement  claim  that is based on your
+               (1) use of the Software  Product after Microsoft  notifies you to
+               discontinue  use  because  of  an  infringement   claim,  or  (2)
+               combining the Software Product with a non-Microsoft product, data
+               or  business  process if such claim would not have arisen but for
+               such  combination,  or (3) altering the Software  Product if such
+               claim  would not have  arisen but for such  alteration.  You will
+               reimburse  Microsoft  for all  reasonable  costs or damages  that
+               result from these actions.
+
+
+                                  Page 16 or 22
+<PAGE>
+
+          (c)  Opportunity to Cure. If Microsoft receives information concerning
+               an infringement  claim related to a Software  Product,  Microsoft
+               may, at its expense and without  obligation  to do so, either (1)
+               procure  for you  the  right  to  continue  to use the  allegedly
+               infringing  Software Product,  or (2) modify the Software Product
+               or  replace  it  with  a  functional   equivalent,   to  make  it
+               non-infringing, in which case you must immediately stop using the
+               allegedly  infringing  Software  Product.  If,  as a result of an
+               infringement claim, your use of a Software Product is enjoined by
+               a  court   of   competent   jurisdiction,   Microsoft   will  use
+               commercially  reasonable  efforts to either  procure the right to
+               continue its use,  replace the Software Product with a functional
+               equivalent,   or  modify   the   Software   Product  to  make  it
+               non-infringing.
+
+          (d)  Other Third Party Claims.  If any other type of third party claim
+               is  brought  against  you  regarding   Microsoft's   intellectual
+               property  (i.e.,  any third party claim not covered under Section
+               12(a)  above),  you must  notify  Microsoft  promptly in writing.
+               Microsoft  may,  at its option,  choose to treat these  claims as
+               being covered by this Section 12.
+
+          (e)  Exclusive  Remedy.  The rights and remedies  granted to you under
+               this Section 12 and Section 13  (Limitation  of Liability)  state
+               Microsoft's  entire  liability  and your  exclusive  remedy  with
+               respect to any claim of infringement of the intellectual property
+               rights of a third  party,  whether  arising  under  statutory  or
+               common law or otherwise.
+
+     13.  LIMITATION OF LIABILITY.
+
+          (a)  Limitation.  Microsoft's  liability  under this Agreement will be
+               limited to the maximum  extent  permitted  by  applicable  law to
+               direct  damages up to the amount  you have paid  Microsoft  under
+               this  Agreement.  The  foregoing  limitation  does  not  apply to
+               Microsoft's   obligation   to  pay  the  costs  of  defending  an
+               infringement  claim under Section 12(a);  however,  the foregoing
+               limitation does apply to Microsoft's  obligation to pay any final
+               judgment  or  settlement  under  Section  12(a).  In the  case of
+               Redistribution  Software,  Microsoft's total liability is limited
+               to Five Thousand  Dollars (US $5,000) or its  equivalent in local
+               currency.
+
+          (b)  No Liability for Certain Damages. To the maximum extent permitted
+               by applicable  law,  neither you or  Microsoft,  nor the parties'
+               respective  Affiliates or suppliers,  will be legally responsible
+               for  any  indirect  damages   (including,   without   limitation,
+               consequential,  special,  punitive or incidental damages, damages
+               for  loss of  profits  or  revenues,  loss of  privacy,  business
+               interruption,  or loss of business  information),  arising out of
+               the  use  of or  inability  to  use  the  Software  Products,  or
+               otherwise  under or in connection  with this  Agreement,  even if
+               advised of the possibility of such damages or if such possibility
+               was  reasonably  foreseeable.  The exclusion of liability in this
+               Section 13(b) does not apply to either  party's  liability to the
+               other for  violation of the other party's  intellectual  property
+               rights.
+
+          (c)  Application.  The  limitations on and exclusions of liability for
+               damages  in  this  Agreement  apply  regardless  of  whether  the
+               liability  is  based  on  breach  of  contract,  tort  (including
+               negligence),  strict or product liability, breach of warranty, or
+               any  other  legal  theory,  and even if any  remedy  fails of its
+               essential purpose.
+
+     14.  COMPLIANCE WITH EXPORT LAWS. The Software Products licensed under this
+          Agreement are of U.S. origin for purposes of U.S. export control laws.
+          You will comply with all  applicable  international  and national laws
+          that  apply  to the  Software  Products,  including  the  U.S.  Export
+          Administration   Regulations,   as  well  as  end-user,   end-use  and
+          destination  restrictions  issued by U.S. and other  governments.  For
+          additional   information  on  exporting  of  Microsoft  Products,  see
+          http://www.microsoft.com/exporting/.
+
+     15.  CONFIDENTIALITY.
+
+          (a)  Use of Confidential  information.  For a period of five (5) years
+               after  disclosure,  neither  party  will  use the  other  party's
+               Confidential   Information  without  the  other  party's  written
+
+                                  Page 17 or 22
+<PAGE>
+
+               consent except in furtherance  of this business  relationship  or
+               disclose the other party's  Confidential  Information except: (1)
+               when  disclosure  is necessary  for a party to enforce its rights
+               under this Agreement or any applicable laws; (2) to obtain advice
+               from legal or financial consultants;  or (3) if compelled by law,
+               in which case the party compelled to make the disclosure will use
+               its  best   efforts  to  give  the  other  party  notice  of  the
+               requirement so that the disclosure can be contested.  The parties
+               will  take  reasonable  precautions  to  safeguard  each  other's
+               Confidential  Information.  Such  precautions will be at least as
+               great as those each party takes to protect  its own  confidential
+               information.  A party may disclose the other party's Confidential
+               Information to its  employees,  agents or  consultants,  provided
+               that such  disclosures  are only on a need-to-know  basis and are
+               subject to the  confidentiality  obligations  imposed here.  When
+               Confidential  Information  is no longer  necessary  to perform or
+               enforce  any  obligation  under this  Agreement,  each party will
+               return  it to the  other  party  or  destroy  it at  the  other's
+               request.
+
+          (b)  Cooperation in the Event of Disclosure.  A party will immediately
+               notify  the  other  upon  discovery  of any  unauthorized  use or
+               disclosure of Confidential  Information and will cooperate in any
+               reasonable  way to help the other party regain  possession of the
+               Confidential Information and prevent further unauthorized use.
+
+     16.  MISCELLANEOUS.
+
+          (a)  Assignment.  You may not assign your rights or obligations  under
+               this Agreement, whether by contract, merger, operation of law, or
+               otherwise,  without  the  prior  written  consent  of  Microsoft.
+               Microsoft will not unreasonably  withhold or delay its consent to
+               a request for assignment.  Microsoft may assign this Agreement or
+               any  portion  thereof  to any  Affiliate  without  your  consent.
+               Microsoft will notify you of any such assignment in writing.  Any
+               attempted  assignment  in  violation  of this Section is null and
+               void.
+
+          (b)  Order of Precedence. If there is any direct inconsistency between
+               these Terms and Conditions  and any terms  contained in the SPUR,
+               then these Terms and Conditions  will control.  However,  for the
+               avoidance  of doubt,  in the event that a subject is addressed in
+               the SPUR and not in these Terms and Conditions, then the terms in
+               the SPUR will control.  The terms of this  Agreement will control
+               over any purchase order you may send to Microsoft.
+
+          (c)  Amendments.  This  Agreement,  except  for the SPUR and the Price
+               List,  may be changed only by a written  amendment that is signed
+               by an  authorized  representative  of each party.  Microsoft  may
+               amend the SPUR in accordance with Section 4(a), and Microsoft may
+               amend the Price List in accordance with Sections 6(b) and 6(c).
+
+          (d)  Notices.  Except as  provided in Sections  4(b),  5(c),  6(b) and
+               6(c),  all notices  under this  Agreement  must be addressed to a
+               party (as specified on the first page of this Agreement) and sent
+               by one of the following methods:  (1) postage prepaid,  certified
+               or  registered  mail,  return  receipt  requested;  (2) overnight
+               courier (e.g., DHL, Federal Express, Airborne),  charges prepaid,
+               confirmation  requested;  or (3) facsimile,  with confirmation of
+               delivery.  Notices will be deemed  delivered on the date shown on
+               the  postal  return  receipt  or  on  the  overnight  courier  or
+               facsimile confirmation of delivery.
+
+          (e)  Applicable  Law. If this Agreement is with a Microsoft  Affiliate
+               located outside of Europe, this Agreement will be governed by and
+               construed in accordance with the laws of the State of Washington,
+               U.S.A.,  exclusive  of its choice of law rules,  and the  federal
+               laws of the United States.  If this Agreement is with a Microsoft
+               Affiliate  located in Europe,  this Agreement will be governed by
+               and  construed in accordance  with the laws of Ireland.  The 1980
+               United Nations Convention on Contracts for the International Sale
+               of Goods  and its  related  instruments  will  not  apply to this
+               Agreement.
+
+
+                                  Page 18 or 22
+<PAGE>
+
+          (f)  Dispute Resolution. If Microsoft brings an action to enforce this
+               Agreement,  Microsoft will bring it in the jurisdiction where you
+               have  your  company  headquarters.  If this  Agreement  is with a
+               Microsoft Affiliate located outside of Europe, you will bring any
+               action to  enforce  this  Agreement  in the State of  Washington,
+               U.S.A. If this Agreement is with a Microsoft Affiliate located in
+               Europe,  you will bring any action to enforce  this  Agreement in
+               Ireland.  This choice of jurisdiction  and venue does not prevent
+               either  party from  seeking  injunctive  relief with respect to a
+               violation  of  intellectual   property  rights,   confidentiality
+               obligations  or  enforcement or recognition of any award or order
+               in any appropriate jurisdiction.
+
+          (g)  Survival.  Sections  6(f),  9, 10(d),  12, 13, 15, and 16 of this
+               Agreement  will survive the  termination  or  expiration  of this
+               Agreement.
+
+          (h)  Relationship.  This  Agreement  does not create a joint  venture,
+               partnership,  agency,  representative,  franchise  or  employment
+               relationship  between the parties.  This Agreement does not grant
+               either  party the  authority  to act for the  other  party in any
+               capacity or to make  commitments  of any kind for the account of,
+               or on behalf of, the other party,  except to the extent expressly
+               set forth in this Agreement.
+
+          (i)  No Waiver.  No waiver of any breach of this Agreement  shall be a
+               waiver of any other  breach,  and no  waiver  shall be  effective
+               unless made in writing and signed by an authorized representative
+               of the waiving party.
+
+          (j)  Headings.  The paragraph and Section  headings in this  Agreement
+               are inserted for convenience  only and will not in any way affect
+               the meaning or construction of any provision of this Agreement.
+
+          (k)  Severability. If a court holds any provision of this Agreement to
+               be illegal,  invalid or unenforceable,  the remaining  provisions
+               will remain in full force and effect and the  parties  will amend
+               the  Agreement  to give  effect  to the  stricken  clause  to the
+               maximum extent possible.
+
+
+                                  Page 19 or 22
+<PAGE>
+
+
+
+                       EXHIBIT A: AFFILIATE AGREEMENT FORM
+
+PRIOR TO EXERCISING ANY RIGHTS (INCLUDING BUT NOT LIMITED TO ANY USE OF SOFTWARE
+PRODUCTS) UNDER YOUR SERVICES PROVIDER LICENSE AGREEMENT (THE "AGREEMENT"), EACH
+AFFILIATE MUST EXECUTE AN AFFILIATE  AGREEMENT IN THE FORM SPECIFIED BELOW. BOTH
+YOU AND THE  AFFILIATE  MUST KEEP THE EXECUTED  AFFILIATE  AGREEMENT ON FILE AND
+MUST DELIVER IT TO MICROSOFT UPON REQUEST.
+
+
+                [TO BE PRINTED ON AFFILIATE'S COMPANY LETTERHEAD]
+
+                               AFFILIATE AGREEMENT
+
+For good and valuable consideration,  [insert name of affiliate],  a corporation
+organized under the laws of [insert name of jurisdiction]  ("Affiliate")  hereby
+covenants  and agrees with  [insert  name of  contracting  Microsoft  Affiliate]
+("Microsoft"),  that Affiliate will comply with all  obligations of [insert name
+of company that has entered into the  Agreement  with  Microsoft] a  corporation
+organized under the laws of [insert name of jurisdiction]  ("Company") under the
+Microsoft  Services  Provider License  Agreement  between  Microsoft and Company
+effective as of [insert Effective Date](the "Agreement").
+
+Affiliate  acknowledges  and agrees that its agreement herein is a condition for
+Affiliate  to exercise any of the rights  granted by Company to Affiliate  under
+the terms of the Agreement.  Affiliate  acknowledges  and agrees that it will be
+bound by the Terms and  Conditions  of the  Agreement  applicable to Company and
+that it and Company will be jointly and  severally  liable to Microsoft  for all
+obligations  related to  Affiliate's  exercise of any license  rights  under the
+Agreement,  including  but not limited to, the payment of monthly fees under the
+Agreement.  Notwithstanding  the  foregoing,  Affiliate  acknowledges  that  all
+Monthly Use Reports and  payments to be provided by each  Affiliate to Microsoft
+under the Agreement will be consolidated and provided to Microsoft each month by
+Company on behalf of Affiliate.
+
+Affiliate  acknowledges  and agrees that, in the event Affiliate ceases to be an
+Affiliate  of Company (as such term  "Affiliate"  is defined in the  Agreement),
+then the rights granted hereunder will automatically  terminate on the date that
+Affiliate ceases to be an Affiliate of Company.
+
+Any terms  used  herein  that are  defined in the  Agreement  will have the same
+meaning as in the Agreement.
+
+IN WITNESS WHEREOF,  a duly authorized  representative of Affiliate has executed
+this document as of the date set forth below. All signed copies of this document
+will be deemed originals.
+
+
+_________________________________
+(Name of Affiliate)
+
+_________________________________
+(Signature)
+
+_________________________________
+(Print Name and Title)
+
+_________________________________
+(Date)
+
+                                  Page 20 or 22
+
+<PAGE>
+
+
+                        EXHIBIT B: CUSTOMER LICENSE TERMS
+
+         You will use your name in place of references to "Company" below.
+
+            TERMS AND CONDITIONS REGARDING USE OF MICROSOFT SOFTWARE
+
+This document concerns your use of Microsoft  software,  which includes computer
+software  provided  to you by  [COMPANY]  as  described  below,  and may include
+associated media,  printed materials,  and "online" or electronic  documentation
+(individually and collectively "SOFTWARE PRODUCT'S"). [COMPANY] does not own the
+SOFTWARE  PRODUCTS  and the  use  thereof  is  subject  to  certain  rights  and
+limitations  of which  [COMPANY]  needs to  inform  you.  Your  right to use the
+SOFTWARE  PRODUCTS  is subject to your  agreement  with  [COMPANY],  and to your
+understanding  of,  compliance  with and  consent  to the  following  terms  and
+conditions, which [COMPANY] does not have authority to vary, alter or amend.
+
+1.   DEFINITIONS.
+
+     "CLIENT  SOFTWARE" means software that allows a Device to access or utilize
+     the services or functionality provided by the Server Software.
+
+     "DEVICE"  means each of a computer,  workstation,  terminal,  handheld  PC,
+     pager,  telephone,  personal  digital  assistant,  "smart  phone," or other
+     electronic device.
+
+     "SERVER SOFTWARE" means software that provides services or functionality on
+     a computer acting as a server.
+
+     "REDISTRIBUTION SOFTWARE" means the software described in Paragraph 4 ("Use
+     of Redistribution Software") below.
+
+2.   OWNERSHIP  OF SOFTWARE  PRODUCTS.  The  SOFTWARE  PRODUCTS  are licensed to
+     [COMPANY] from an affiliate of the Microsoft Corporation ("Microsoft"). All
+     title and intellectual property rights in and to the SOFTWARE PRODUCTS (and
+     the constituent elements thereof,  including but not limited to any images,
+     photographs,   animations,   video,   audio,   music,  text  and  "applets"
+     incorporated  into the  SOFTWARE  PRODUCTS)  are owned by  Microsoft or its
+     suppliers.  The  SOFTWARE  PRODUCTS are  protected  by  copyright  laws and
+     international  copyright treaties,  as well as other intellectual  property
+     laws and treaties. Your possession, access, or use of the SOFTWARE PRODUCTS
+     does  not  transfer  any   ownership  of  the  SOFTWARE   PRODUCTS  or  any
+     intellectual property rights to you.
+
+3.   USE OF CLIENT SOFTWARE.  You may use the Client Software  installed on your
+     Devices by [COMPANY] only in accordance with the instructions,  and only in
+     connection with the services, provided to you by [COMPANY].
+
+4.   USE OF REDISTRIBUTION SOFTWARE. In connection with the services provided to
+     you  by   [COMPANY],   you   may   have   access   to   certain   "sample,"
+     "redistributable"  and/or software  development  ("SDK")  software code and
+     tools (individually and collectively  "Redistribution  Software").  YOU MAY
+     NOT USE,  MODIFY,  COPY,  AND/OR  DISTRIBUTE  ANY  REDISTRIBUTION  SOFTWARE
+     UHNLESS YOU  EXPRESSLY  AGREE TO AND COMPLY WITH CERTAIN  ADDITIONAL  TERMS
+     CONTAINED  IN THE  SERVICES  PROVIDER  USE RIGHTS  ("SPUR")  APPLICABLE  TO
+     [COMPANY], WHICH TERMS MUST BE PROVIDED TO YOU BY [COMPANY]. Microsoft does
+     not  permit you to use any  Redistribution  Software  unless you  expressly
+     agree to and comply  with such  additional  terms,  as  provided  to you by
+     [COMPANY].
+
+5.   COPIES.  You may not make any copies of the  SOFTWARE  PRODUCTS;  provided,
+     however,  that you may (a) make one (1)  copy of  Client  Software  on your
+     Device as expressly authorized by [COMPANY]; and (b) you may make copies of
+     certain  Redistribution  Software in  accordance  with  Paragraph 4 (Use of
+
+                                  Page 21 or 22
+<PAGE>
+
+     Redistribution  Software).  You must  erase  or  destroy  all  such  Client
+     Software and/or Redistribution Software upon termination or cancellation of
+     your agreement with [COMPANY],  upon notice from [COMPANY] or upon transfer
+     of your Device to another person or entity, whichever first occurs. You may
+     not copy any printed materials accompanying the SOFTWARE PRODUCTS.
+
+6.   LIMITATIONS ON REVERSE ENGINEERING,  DECOMPILATION AND DISASSEMBLY. You may
+     not reverse  engineer,  decompile,  or disassemble  the SOFTWARE  PRODUCTS,
+     except and only to the extent that  applicable  law,  notwithstanding  this
+     limitation expressly permits such activity.
+
+7.   NO RENTAL. You may not rent, lease, lend, pledge, or directly or indirectly
+     transfer or distribute  the SOFTWARE  PRODUCTS to any third party,  and you
+     may not  permit  any  third  party  to be have  access  to  and/or  use the
+     functionality of the SOFTWARE PRODUCTS.
+
+8.   TERMINATION. Without prejudice to any other rights, [COMPANY] may terminate
+     your rights to use the  SOFTWARE  PRODUCTS if you fail to comply with these
+     terms and conditions. In the event of termination or cancellation, you must
+     stop using and/or accessing the SOFTWARE  PRODUCTS,  and destroy all copies
+     of the SOFTWARE PRODUCTS and all of its component parts.
+
+9.   NO  WARRANTIES,  LIABILITIES  OR REMEDIES  BY  MICROSOFT.  ANY  WARRANTIES,
+     LIABILITY  FOR  DAMAGES  AND  REMEDIES,  IF ANY,  ARE  PROVIDED  SOLELY  BY
+     [COMPANY] AND NOT BY MICROSOFT OR ITS AFFILIATES OR --- SUBSIDIARIES.
+
+10.  PRODUCT SUPPORT.  Any product support for the SOFTWARE PRODUCTS is provided
+     to you by [COMPANY]  and is not provided by Microsoft or its  affiliates or
+     subsidiaries.
+
+11.  NOT FAULT TOLERANT.  THE SOFTWARE  PRODUCTS MAY CONTAIN  TECHNOLOGY THAT IS
+     NOT FAULT TOLERANT AND IS NOT DESIGNED,  MANUFACTURED,  OR INTENDED FOR USE
+     IN  ENVIRONMENTS  OR  APPLICATIONS  IN WHICH THE  FAILURE  OF THE  SOFTWARE
+     PRODUCTS COULD LEAD TO DEATH, PERSONAL INJURY, OR SEVERE PHYSICAL, PROPERTY
+     OR ENVIRONMENTAL DAMAGE.
+
+12.  EXPORT RESTRICTIONS.  The SOFTWARE PRODUCTS are of U.S. origin for purposes
+     of U.S.  export  control  laws.  You  agree to comply  with all  applicable
+     international  and  national  laws  that  apply to the  SOFTWARE  PRODUCTS,
+     including the U.S. Export Administration  Regulations, as well as end-user,
+     end-use and destination  restrictions issued by U.S. and other governments.
+     For additional information, see http://www.microsoft.com/exporting/.
+
+13.  LIABILITY  FOR  BREACH.  In  addition  to any  liability  you  may  have to
+     [COMPANY],  you agree that you will also be legally responsible directly to
+     Microsoft for any breach of these terms and conditions.
+
+
+                                  Page 22 or 22
+
+1566168
+
+</TEXT>
+</DOCUMENT>

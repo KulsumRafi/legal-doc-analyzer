@@ -1,0 +1,897 @@
+<DOCUMENT>
+<TYPE>EX-2
+<SEQUENCE>4
+<FILENAME>aexhibit2_2.txt
+<DESCRIPTION>EXHIBIT 2.2-INTELLECTUAL PROPERTY AGREEMENT
+<TEXT>
+                                                                     Exhibit 2.2
+
+
+
+
+
+
+
+
+================================================================================
+
+
+
+
+                         INTELLECTUAL PROPERTY AGREEMENT
+
+
+
+
+
+                                 by and between
+
+
+
+
+
+                               AGERE SYSTEMS INC.
+                                       and
+                                ORTEL CORPORATION
+
+
+
+                                       and
+
+
+
+                               EMCORE CORPORATION
+
+
+
+
+
+
+
+
+================================================================================
+
+<PAGE>
+                                TABLE OF CONTENTS
+
+
+
+    Article I                    Definitions
+    Article II                   Assignment Of Software
+    Article III                  Software Licenses
+    Article IV                   Assignment Of Information
+    Article V                    Licenses To Information
+    Article VI                   Patent Licenses
+    Article VII                  Assignment Of Patents and Marks
+    Article VIII                 Export Control
+    Article IX                   Term And Termination
+    Article X                    Assignability
+    Article XI                   Licenses To Related Companies And Improvements
+    Article XII                  Rights and Obligations
+    Article XIII                 Warranties And Covenants
+    Article XIV                  General Provisions
+    Article XV                   Notices
+
+    Appendix A                   Definitions Appendix
+    Appendix B                   Assigned Software
+    Appendix C                   Licensed Software
+    Appendix D                   Assigned Technical Information
+    Appendix E                   Licensed Technical Information
+    Appendix F                   Trademark and Domain Name Assignment
+                                       Schedule A - Trademark Registrations and
+                                 Applications, and Domain Names
+    Appendix G                   Patent Assignment
+                                       Schedule A - Assigned Patents and
+                                 Applications
+    Appendix H                   Joint Patent Assignment
+    Appendix I                   Future Roadmaps
+
+<PAGE>
+
+
+
+                         INTELLECTUAL PROPERTY AGREEMENT
+
+
+         THIS INTELLECTUAL PROPERTY AGREEMENT (this "Agreement") is made by and
+between AGERE SYSTEMS INC., a Delaware corporation ("Agere") and ORTEL
+corporation ("Ortel", collectively herein "Seller"), and EMCORE Corporation, a
+New Jersey corporation ("Buyer"). Seller and Buyer are sometimes referred to
+herein individually as a "Party" and collectively as the "Parties".
+
+                                    RECITALS
+
+         A. WHEREAS, this Agreement is provided as Exhibit B to a certain Asset
+Purchase Agreement dated as of January 21, 2003 (the "Purchase Agreement")
+entered into by and between Agere and Buyer pursuant to which Agere is selling
+and Buyer is acquiring certain Purchased Assets, as that term is defined in the
+Purchase Agreement. This Agreement is executed upon the signing by all Parties
+and shall become effective concurrent with and on the Closing Date of the
+Purchase Agreement (the "Effective Date");
+
+         B. WHEREAS, this Agreement is intended by the parties to address, among
+other things, the intellectual property rights and Information either included
+in the Purchased Assets or licensed to Buyer; and
+
+         C. WHEREAS, in connection with the sale and purchase of the CATV
+Business, Seller agrees to assign certain intellectual property rights to Buyer
+and to license certain intellectual property rights to Buyer, in each case in
+accordance with the terms hereof.
+
+         NOW, THEREFORE, in consideration of the mutual agreements and covenants
+herein contained and intending to be legally bound thereby, the Parties agree as
+follows:
+
+                                    ARTICLE I
+                                   DEFINITIONS
+
+         1.01 Unless otherwise defined in Appendix A attached hereto, as used in
+this Agreement any term in initial capital letters shall have the meaning
+ascribed thereto in the Purchase Agreement.
+
+
+
+<PAGE>
+                                   ARTICLE II
+                             ASSIGNMENT OF SOFTWARE
+
+         2.01  Seller hereby transfers and assigns, subject to Section 2.02, to
+Buyer all worldwide right, title and interest in the Assigned Software,
+including all copyrights and other intellectual property rights therein, as well
+as the right to bring actions, at law or in equity for the infringement or other
+impairment thereof prior to the Closing Date, including the right to receive all
+proceeds or damages therefrom. Such transfer does not include a transfer of, or
+license under, any patents; any such license under any such patent being
+specifically set forth in Article VI herein. The transfer of the Assigned
+Software shall be subject to all prior written agreements (or replacement
+agreements thereof) between Seller, its predecessors (including AT&T Corp. and
+its Subsidiaries and Lucent Technologies Inc. and its Subsidiaries) or its
+Related Companies, and one or more third parties that have an effective date
+prior to the Effective Date of this Agreement, none of which will have a
+material adverse affect on Buyer's use of the Assigned Software in operation of
+the CATV Business as it existed as of the Closing Date.
+
+         2.02  Buyer grants to Seller, in consideration for the transfer and
+assignment of the Assigned Software by Seller to Buyer pursuant to Section 2.01,
+a personal, nonexclusive, non-transferable (except as provided in Article X),
+irrevocable, worldwide, royalty-free license to use, copy and distribute the
+Assigned Software, and create, use, copy and distribute Derivative Works from
+the Assigned Software with respect to any products or services of the businesses
+in which Seller or any of its Related Companies is now or hereafter engaged, but
+solely with respect to use of such products and services outside the CATV
+Business.
+
+         2.03  Seller agrees to deliver to Buyer copies of all Code of whatever
+kind in whatever medium that embody the Assigned Software within 30 days of
+Closing. To Seller's knowledge, all of the Assigned Software will, at closing,
+be included in the Principal Equipment transferred to the Buyer or otherwise in
+the possession of the Transferred Employees. However, Seller agrees to take all
+steps reasonably requested by Buyer in connection with delivering to Buyer any
+missing parts of the Assigned Software to the extent such Assigned Software
+exists within Seller. Buyer agrees that the previous sentence provides Buyer's
+sole remedy for Seller's failure to deliver the Assigned Software.
+
+                                   ARTICLE III
+                                SOFTWARE LICENSES
+
+         3.01  Seller hereby grants to Buyer a fully paid-up, royalty-free
+worldwide, irrevocable, non-transferable (except as provided in Article X) and
+nonexclusive license to use, copy, sublicense and distribute the Licensed
+Software, and create, use, copy, sublicense and distribute Derivative Works from
+the Licensed Software in connection with the conduct or operation of the CATV
+Business, under any and all copyright, trade secret and other intellectual
+property rights (other than patent rights which are specifically granted
+
+
+                                      -2-
+
+<PAGE>
+in Article VI herein) in the Licensed Software owned by Seller or its Related
+Companies or in which Seller or its Related Companies have a right to license as
+of the Effective Date including, without limitation, the right (i) to reproduce
+the Code of and Documentation for such Licensed Software; (ii) to sell, lease,
+sublicense (but only to the extent that Seller has a right to authorize Buyer to
+grant such a sublicense and provided that Seller shall not be obligated to pay
+any consideration for such sublicense authorization) or otherwise transfer
+copies of the Licensed Software and Derivative Works therefrom, in whole or in
+part for use within the scope of the CATV Business; and (iii) to combine the
+Licensed Software and Derivative Works therefrom with other software or hardware
+within the scope of the CATV Business.
+
+         3.02  Seller agrees to deliver to Buyer, within 30 days of Closing,
+complete and useable copies of the Licensed Software and any related
+documentation. To Seller's knowledge, all of the Licensed Software will, at
+Closing, be included in the Principal Equipment transferred to Buyer or
+otherwise in the possession of the Transferred Employees. Notwithstanding the
+foregoing, Seller agrees to take all steps reasonably requested by Buyer in
+connection with promptly delivering to Buyer any copies of any components of the
+Licensed Software or documentation not delivered to Buyer at Closing. Buyer
+agrees that the previous sentence provides Buyer's sole remedy for Seller's
+failure to deliver the Licensed Software.
+
+         3.03  The Parties recognize that the best or only available copy of
+certain Assigned Software and Licensed Software may reside, after the Closing
+Date, within the CATV Business or in the possession of the CATV Business, and
+that Seller may require certain access to or copies of the Assigned Software and
+Licensed Software for purposes consistent with this Agreement, which, because of
+inadvertence or oversight, a copy was not retained by or made available to
+Seller prior to the Closing Date. To that end, Buyer agrees, upon receiving a
+written request from Seller, to provide, within a commercially reasonable amount
+of time after receipt of Seller's written request, copies of any portion of the
+Assigned Software and Licensed Software necessary for Seller or one of its
+Related Companies to exercise its rights in accordance with this Agreement. Any
+reasonable costs associated with the assembling, copying and delivering of such
+requested Assigned Software and Licensed Software shall be borne by Seller.
+
+                                   ARTICLE IV
+                            ASSIGNMENT OF INFORMATION
+
+         4.01  Seller hereby transfers and assigns, subject to Section 4.02, to
+Buyer all worldwide right, title and interest in and to the Assigned Technical
+Information including all copyright, trade secret and intellectual property
+rights therein, as well as the right to bring actions at law or in equity for
+the infringement or other impairment thereof prior to the Closing, including the
+right to receive all proceeds or damages therefrom. Such transfer does not
+include a transfer of, or license under, any patents; any such license under any
+such patent being specifically set forth in Article VI herein. The transfer of
+such Assigned Technical Information shall be subject to all prior written
+agreements (or replacement
+
+
+                                      -3-
+
+<PAGE>
+agreements thereof) between Seller, its predecessors (including AT&T Corp. and
+its Subsidiaries and Lucent Technologies Inc. and its Subsidiaries) or its
+Related Companies, and one or more third parties that have an effective date
+prior to the Effective Date of this Agreement, none of which will have a
+material adverse affect on Buyer's use of the Assigned Technical Information in
+operation of the CATV Business as it existed as of the Closing Date.
+
+         4.02  In consideration for the transfer and assignment of the Assigned
+Technical Information by Seller to Buyer pursuant to Section 4.01, Buyer grants
+to Seller a personal, nonexclusive, non-transferable (except as provided in
+Article X), irrevocable, worldwide, royalty-free license to use, copy and
+distribute the Assigned Technical Information, and create, use, copy and
+distribute Derivative Works from the Assigned Technical Information with respect
+to any products or services of the businesses in which Seller or any of its
+Related Companies is now or hereafter engaged ., but solely with respect to use
+of such products and services outside the CATV Business.
+
+         4.03  Seller agrees to deliver to Buyer, within 30 days of Closing,
+copies of all documents of whatever kind in whatever medium that embody the
+Assigned Technical Information. To Seller's knowledge, all of the Assigned
+Technical Information will, at Closing, be included in the Business Records
+transferred to Buyer or otherwise in possession of the Transferred Employees.
+Notwithstanding the foregoing, Seller agrees to take all steps reasonably
+requested by Buyer in connection with delivering to Buyer any documents that
+embody the Assigned Technical Information not delivered to Buyer at Closing.
+Buyer agrees that the previous sentence provides Buyer's sole remedy for
+Seller's failure to deliver the Assigned Technical Information.
+
+         4.04  The Parties recognize that the best or only available copy of
+certain Assigned Technical Information may reside, after the Closing Date,
+within the CATV Business or in the possession of the CATV Business, and that
+Seller may require certain access to or copies of the Assigned Technical
+Information for purposes consistent with this Agreement, which, because of
+inadvertence or oversight, a copy was not retained by or made available to
+Seller prior to the Closing Date. To that end, Buyer agrees, upon receiving a
+written request from Seller, to provide, within a commercially reasonable amount
+of time after receipt of Seller's written request, copies of any portion of the
+Assigned Technical Information necessary for Seller or one of its Related
+Companies to exercise its rights in accordance with this Agreement. Any
+reasonable costs associated with the assembling, copying and delivering of such
+requested Assigned Technical Information shall be borne by Seller.
+
+
+                                      -4-
+
+<PAGE>
+                                    ARTICLE V
+                             LICENSES TO INFORMATION
+
+         5.01  Seller grants to Buyer a fully paid-up, royalty-free worldwide,
+irrevocable, non-transferable (except as provided in Article X) and nonexclusive
+license to use, copy, sublicense and distribute Licensed Technical Information,
+and create, use, copy, sublicense and distribute Derivative Works from the
+Licensed Technical Information, in connection with the conduct and operation of
+the CATV Business under any and all copyright, trade secret and other
+intellectual property rights in such Licensed Technical Information (other than
+patent rights which are specifically granted in Article VI herein) owned by
+Seller as of the Effective Date.
+
+         5.02  Seller grants to Buyer a personal, non-transferable and
+nonexclusive right, as an attribute of the right to use the Licensed Technical
+Information in Section 5.01, to communicate (subject to confidentiality
+provisions as least as restrictive as those in Section 13.03) portions of and
+grant nonexclusive sublicenses (of the same scope as the licenses granted to
+Buyer under Section 5.01) to such Licensed Technical Information to third party
+suppliers or manufacturers for the procurement by Buyer of materials,
+manufacturing facilities, parts and/or components reasonably necessary for use
+by Buyer in the manufacture and assembly of products of the CATV Business in
+accordance with this Agreement.
+
+         5.03  Seller agrees to deliver to Buyer, within 30 days of Closing,
+copies of all documents of whatever kind in whatever medium that embody the
+Licensed Technical Information. To Seller's knowledge, all of the Licensed
+Technical Information will, at Closing, be included in the Business Records
+transferred to Buyer or otherwise in possession of the Transferred Employees.
+Notwithstanding the foregoing, Seller agrees to take all steps reasonably
+requested by Buyer in connection with delivering to Buyer any documents that
+embody the Licensed Technical Information not delivered to Buyer at Closing.
+Buyer agrees that the previous sentence provides Buyer's sole remedy for
+Seller's failure to deliver the Licensed Technical Information.
+
+         5.04  The Parties recognize that the best or only available copy of
+certain Licensed Technical Information may reside, after the Closing Date,
+within the CATV Business or in the possession of the CATV Business, and Seller
+may require certain access to or copies of the Licensed Technical Information
+for purposes consistent with this Agreement, which because of inadvertence or
+oversight, a copy was not retained by or made available to Seller prior to the
+Closing Date. To that end, Buyer agrees, upon receiving a written request from
+Seller, to provide, within a commercially reasonable amount of time after
+receipt of Seller's written request, copies of any portion of the Licensed
+Technical Information necessary for Seller or one of its Related Companies to
+exercise its rights in accordance with this Agreement. Any reasonable costs
+associated with the assembling, copying and delivering of such requested
+Licensed Technical Information shall be borne by Seller.
+
+                                      -5-
+
+<PAGE>
+                                   ARTICLE VI
+                                 PATENT LICENSES
+
+         6.01  (a)  Subject to the consideration recited in the Purchase
+Agreement, Seller hereby grants to Buyer a personal, fully paid-up,
+royalty-free, worldwide, non-transferable (except as provided in Article X),
+irrevocable and nonexclusive license under the Licensed Patents to make, have
+made, use, sell, offer to sell, lease and import Products of the CATV Business.
+Licenses granted in this Section 6.01 to Buyer are not to be construed either
+(i) as consent by Seller to any act which may be performed by Buyer, except to
+the extent impacted by a patent licensed herein to Buyer, or (ii) to include
+licenses to contributorily infringe or induce infringement under U.S. law or a
+foreign equivalent thereof.
+
+              (b)   In addition to the license granted in Section 6.01(a),
+Seller grants to Buyer a personal, fully paid-up, royalty-free, worldwide,
+non-transferable (except as set forth herein), irrevocable and nonexclusive
+license, without the right to sublicense, under the Licensed Patents to make,
+have made, use, sell, offer to sell, lease and import future products as set
+forth in the column titled "Future Roadmaps" in Appendix I herein. The license
+granted under this Section 6.01(b) may be assigned only to any of the Buyer's
+Related Companies or any direct or indirect successor to all or a portion of the
+CATV Business, which successor shall thereafter be deemed substituted as the
+Party hereto, effective upon such assignment subject to written acceptance of
+such assignment by such successor. Notwithstanding any assignment, should the
+there be a Change of Control of the CATV Business, the license assigned under
+this Section 6.01(b) will remain in force only for products being manufactured
+by, and generally available from, the Buyer at the time of the Change of
+Control.
+
+         6.02  The patent licenses granted hereunder to Licensed Patents shall
+extend until the patent's expiration or the expiration of as much of such term
+as Seller has the right to grant.
+
+         6.03  Seller's failure to meet any obligation hereunder, due to
+assignment of title to any invention or patent, or the granting of any licenses,
+to the United States Government or any agency or designee thereof pursuant to a
+statute, regulation of such Government or agency shall not constitute a breach
+of this Agreement.
+
+         6.04  (a)  Seller grants to the Buyer a sublicense limited to the
+Products of the CATV Business under those patent license rights granted to
+Seller by any third party pursuant to any patent license agreement between such
+third party and Seller existing as of the Effective Date of this Agreement, but
+only to the extent that Seller has a right to grant such a sublicense and
+provided that Seller shall not be obligated to pay any consideration for such
+sublicense or relinquish its own licenses.
+
+               (b)  The sublicense granted to Buyer under Section 6.04(a)
+includes a sublicense, within the scope of the Seller's license, under the
+TriQuint Applications to
+
+
+                                      -6-
+
+
+<PAGE>
+Products of the CATV Business, except that the sublicense granted under this
+Section 6.04(b) does not include any past or future licenses to products which
+are sold or otherwise distributed, directly or indirectly, by the Buyer prior to
+the Effective Date even if they are of the same kind or similar to those of the
+CATV Business.
+
+         6.05  The have made rights granted to Buyer hereunder shall not be
+exercised in a manner that the exercise of such have made rights is a sham to
+sublicense the Licensed Patents to a third party and not for bona fide business
+purposes of the Buyer.
+
+         6.06 Any subsequent transfer by Seller of the patents licensed to Buyer
+under this Article VI shall be subject to the licenses granted to Buyer in this
+Agreement.
+
+         6.07  Seller agrees not to assert patents which are directly infringed
+by a 1310 nm Advanced Laser Module with in-line predistortion manufactured and
+sold by Motorola as a result of Motorola exercising its force majeure limited
+license right under an October 1999 Purchase Agreement between General
+Instruments and Ortel Corporation and assigned to Buyer. Seller also agrees not
+to assert patents relating to predistortion technology against Scientific
+Atlanta products incorporating either an A371 uncooled laser or an A1612 cooled
+laser module supplied under the May 17, 2002, Technology License and Equipment
+Purchase Agreement between Scientific Atlanta and Agere Systems and assigned to
+Buyer.
+
+
+                                   ARTICLE VII
+                         ASSIGNMENT OF PATENTS AND MARKS
+
+Seller assigns all Assigned Patents to Buyer, as follows:
+
+         7.01  Seller agrees to transfer and assign, at Buyer's sole expense,
+pursuant to the Patent Assignment attached as Appendix G hereto, to Buyer all
+worldwide right, title and interest in and to the Assigned Patents and all
+rights, privileges, obligations and priorities of Seller in such Assigned
+Patents, including but not limited to (i) the right to sue at law or in equity
+in respect of past, present and future infringement of any of such Assigned
+Patents; and (ii) the right to receive all proceeds or damages from any such
+infringement. Upon the Effective Date, Buyer shall assume all expenses related
+to the Assigned Patents incurred after the Effective Date. The transfer of such
+Assigned Patents shall be subject to all prior written agreements (or
+replacement agreements thereof) between Seller, its predecessors (including AT&T
+Corp. and its Subsidiaries and Lucent Technologies Inc. and its Subsidiaries) or
+its Related Companies, and one or more third parties that have an effective date
+prior to the Effective Date of this Agreement, none of such prior written
+agreements will have a material adverse affect on Buyer's use of the Assigned
+Patents in operation of the CATV Business as it existed as of the Effective
+Date.
+
+         7.02  (a)  Seller agrees to transfer and assign to Buyer, at Buyer's
+sole expense and pursuant to the Joint Patent Assignment attached as Appendix H
+hereto, a joint, worldwide right, title and interest in and to the Assigned
+Joint Patent and all rights, privileges, obligations and priorities of Seller in
+such Assigned Patent, including but not
+
+
+                                      -7-
+
+<PAGE>
+limited to (i) the right to sue at law or in equity in respect of past, present
+and future infringement of any of such Assigned Joint Patent, except as provided
+in Section 7.02(b); and (ii) the right to receive all proceeds or damages from
+any such infringement without accounting therefore to the non-licensing party.
+Buyer and Seller shall each have the right to bring any litigation against a
+third party under the Assigned Joint Patent without the consent of the other
+party. The other party hereby consents to be joined as a party to the
+litigation, if required.
+
+             (b)    Seller and Buyer have the aforementioned right to sue at
+law or in equity in respect of past, present and future infringement of such
+Assigned Joint Patent provided that the suing party shall notify the other, in
+writing, and identify the accused infringing third party within five (5) days
+after instituting any litigation involving the Assigned Joint Patent. Following
+the giving of such notice, the party receiving the notice shall not, during the
+course of the litigation and until its conclusion by settlement or execution of
+judgment, license or attempt to license any such Assigned Joint Patent to the
+third party.
+
+         7.03  Buyer hereby licenses to Seller the Assigned Patents and any and
+all patents issuing from patent applications having a priority date on or before
+the Effective Date resulting from inventions described in the Assigned Technical
+Information and/or the Assigned Software. Said licenses shall be for the all
+products and services of Seller outside the CATV Business, on terms reciprocal
+to the terms of Article VI provided, however, that Seller has the right to make,
+use, sell, have made, offer for sale, lease, and import, integrated circuits.
+Notwithstanding the foregoing rights identified in the previous sentence, no
+such sale shall convey to any customer of Seller any right, by implication,
+estoppel, or otherwise, to combinations of the integrated circuits with other
+components, where the combination is covered by one or more claims of the
+Assigned Patents.
+
+         7.04  Seller agrees to transfer and assign, pursuant to the Trademark
+and Domain Name Assignment attached as Appendix F hereto, to Buyer all worldwide
+right, title and interest in and to the Assigned Marks and good will associated
+therewith as well as all rights, privileges and priorities of Seller, together
+with all income, royalties or payments due or payable as of the Closing, as well
+as the right to sue at law or in equity in respect of past, present and future
+infringement of any of such Assigned Marks, including the right to receive all
+proceeds or damages therefrom. Such assignment shall be subject to all
+agreements entered into between Seller, its predecessors (including AT&T Corp.
+and its Subsidiaries, and Lucent Technologies and its Subsidiaries) or its
+Related Companies, and one or more third parties prior to the Effective Date of
+this Agreement, none of which will have a material adverse affect on Buyer's use
+of the Assigned Marks in operation of the CATV Business as it existed as of the
+Closing Date.
+
+         7.05  Buyer shall bear any and all administrative and similar costs
+external to Seller related to the recordation or transfer of title of the
+Assigned Patents, Assigned Joint Patent, and the Assigned Marks from Seller to
+Buyer pursuant to Sections 7.01, 7.02, and 7.04 above. Seller shall execute all
+documents and perform all acts as required to give
+
+
+                                      -8-
+
+<PAGE>
+effect to the assignment and recording of the transfer of the Assigned Patents,
+Assigned Joint Patent, and Assigned Marks to Buyer under this Agreement.
+
+                                  ARTICLE VIII
+                                 EXPORT CONTROL
+
+         8.01  The Parties acknowledge that any information and software
+(including, but not limited to, services and training) provided under this
+Agreement are subject to U.S. export laws and regulations and any use or
+transfer of such information and software must be authorized under those
+regulations. Each party hereby assures the other party that it will comply with
+all applicable export laws of the U.S. as may be in effect at the time any
+export of such information or software is made.
+
+                                   ARTICLE IX
+                              TERM AND TERMINATION
+
+         9.01  This Agreement shall be effective during the term commencing on
+the Effective Date hereof and shall continue unless terminated by mutual
+agreement between the Parties.
+
+         9.02  The rights and obligations of Buyer and Seller which by their
+nature would continue beyond termination of this Agreement shall survive and
+continue after any termination of this Agreement.
+
+                                    ARTICLE X
+                                  ASSIGNABILITY
+
+         10.01 The Parties hereto have entered into this Agreement in
+contemplation of personal performance, each by the other, and intend that the
+licenses and rights granted hereunder to a Party not be extended to entities
+other than such Party's Related Companies without the other Party's express
+written consent.
+
+         10.02 Notwithstanding the foregoing, all of a Party's rights, title and
+interest in this Agreement and any licenses and rights granted to it hereunder
+may be assigned to any of its Related Companies or any direct or indirect
+successor to all or a portion of the business of the Party, which successor
+shall thereafter be deemed substituted as the Party hereto, effective upon such
+assignment subject to written acceptance of such assignment by such successor.
+Notwithstanding any such assignment to a successor, any licenses assigned herein
+to the successor do not include any past or future licenses to products that are
+sold or otherwise distributed, directly or indirectly, by such successor prior
+to any assignment.
+
+                                   ARTICLE XI
+                 LICENSES TO RELATED COMPANIES AND IMPROVEMENTS
+
+         11.01 The grant of each license hereunder includes the right to grant
+sublicenses
+
+
+                                      -9-
+
+<PAGE>
+within the scope of such license to a Party's Related Companies for so long as
+they remain its Related Companies. Any and all licenses or sublicenses granted
+to Related Companies pursuant to this Agreement may be made effective
+retroactively, but not prior to the Effective Date hereof, nor, unless otherwise
+authorized pursuant to another provision of this Agreement, prior to the
+sublicensee's becoming a Related Company of such Party.
+
+         11.02 Unless otherwise specifically expressed in this Agreement, the
+Purchase Agreement or the Collateral Agreements, no license to, or right of a
+Party, under any patent, copyright, trademark, trade secret, or any other
+intellectual property right, is either granted or implied by conveying any
+information to such Party.
+
+         11.03 Except as otherwise expressly provided for herein or the Purchase
+Agreement or the Collateral Agreements, no rights are granted to a Party under
+any improvements or derivative works of the Software or the Technical
+Information to the extent made by the other Party after the Effective Date.
+
+
+         11.04 The grant of each license hereunder also includes the right of a
+Party to sublicense (commensurate with its own licenses) any business which is
+divested by that party or any of its Related Companies provided that the
+sublicense is granted within sixty (60) days of divestiture. Such sublicense
+shall extend only to the products licensed hereunder and sold or furnished by
+the divested business prior to the divestiture and only for the patents of the
+non-divesting party licensed to the divesting party in this Agreement.
+Furthermore, any sublicense shall not extend to the products sold or services
+furnished at the time of the divestiture by a third party which acquires the
+divested business, even if they are of the same kind or similar to those of the
+divested business and even if made, sold or provided by the divested business.
+
+                                   ARTICLE XII
+                             RIGHTS AND OBLIGATIONS
+
+         12.01 For any license provided from one party to the other, the
+licensee shall, at its sole expense, comply at all times with all applicable
+laws and regulations in connection with the use of the rights licensed to it
+hereunder, and obtain all appropriate permits and approvals, as applicable.
+
+         12.02 The licenses granted herein by Seller or Buyer, as the case may
+be, shall be deemed to be, for purposes of Section 365(n) of the U.S. Bankruptcy
+Code, to the fullest extent permitted by law, licenses to rights in
+"intellectual property" as defined in Section 101 of the Bankruptcy Code. The
+parties agree that the licensee to any such licenses, as the case may be, shall
+retain and may fully exercise all of its rights and elections under the
+Bankruptcy Code. In the event that a bankruptcy proceeding under the Bankruptcy
+Code is commenced by or against the licensor of any such licenses, the licensee
+shall be entitled to retain all of its rights under this Agreement (including
+without limitation all rights and licenses granted herein) pursuant to Section
+365(n) of the U.S. Bankruptcy Code.
+
+
+                                      -10-
+
+<PAGE>
+                                  ARTICLE XIII
+                            WARRANTIES AND COVENANTS
+
+         13.01 Except as expressly provided herein, all warranties and
+representations are exclusively set forth in the Purchase Agreement.
+
+         13.02 (a)  EXCEPT AS EXPRESSLY PROVIDED HEREIN OR IN THE PURCHASE
+AGREEMENT, THE TECHNICAL INFORMATION, SOFTWARE OR OTHER INFORMATION ASSIGNED OR
+LICENSED UNDER THIS AGREEMENT IS ASSIGNED OR LICENSED "AS IS" WITH ALL FAULTS,
+LATENT AND PATENT AND WITHOUT ANY WARRANTY OF ANY TYPE. SELLER AND ITS RELATED
+COMPANIES MAKE NO REPRESENTATIONS OR WARRANTIES, EXPRESSED OR IMPLIED. BY WAY OF
+EXAMPLE, BUT NOT OF LIMITATION, SELLER AND ITS RELATED COMPANIES MAKE NO
+REPRESENTATIONS OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR THAT
+THE USE OF THE TECHNICAL INFORMATION, SOFTWARE OR OTHER INFORMATION WILL NOT
+INFRINGE ANY PATENT OR OTHER INTELLECTUAL PROPERTY RIGHT OF ANY THIRD PARTY AND
+IT SHALL BE THE SOLE RESPONSIBILITY OF BUYER TO MAKE SUCH DETERMINATION AS IS
+NECESSARY WITH RESPECT TO THE ACQUISITION OF LICENSES UNDER PATENTS OR OTHER
+INTELLECTUAL PROPERTY RIGHTS OF THIRD PARTIES.
+
+              (b)   EXCEPT AS EXPRESSLY PROVIDED HEREIN OR IN THE PURCHASE
+AGREEMENT, SELLER AND ITS RELATED COMPANIES SHALL NOT BE HELD TO ANY LIABILITY
+WITH RESPECT TO ANY PATENT INFRINGEMENT OR ANY OTHER CLAIM MADE BY BUYER OR ANY
+THIRD PARTY ON ACCOUNT OF, OR ARISING FROM THE USE OF, THE TECHNICAL
+INFORMATION, SOFTWARE OR OTHER INFORMATION ASSIGNED OR LICENSED HEREUNDER.
+
+         13.03 Each party agrees:
+
+              (a)    that it will not, without the other party's express written
+permission or as provided herein or in the Purchase Agreement, or as otherwise
+agreed to in writing, (i) use in advertising, publicity, or otherwise any trade
+name, trademark, trade device, service mark, symbol or any other identification
+or any abbreviation, contraction or simulation thereof owned or used by the
+other party or any of its Related Companies, or (ii) represent, directly or
+indirectly, that any product or service produced in whole or in part with the
+use of any of the Software or Technical Information is a product or service of
+the other party or any of its Related Companies; and
+
+              (b)   that except as otherwise expressly provided for in this
+Agreement, it will hold in confidence for the other party all private or
+confidential information of the other party, including any Software or Technical
+Information licensed hereunder that such
+
+
+                                      -11-
+
+<PAGE>
+party's personnel may unavoidably receive or have access to during the
+performance of this Agreement. Such party further agrees that all such
+information shall remain the property of the other party and that such party
+shall not make any disclosure of such information to anyone, except to employees
+of such party to whom such disclosure is necessary to the use for which rights
+are granted hereunder. Such party shall appropriately notify all employees to
+whom any such disclosure is made that such disclosure is made in confidence and
+shall be kept in confidence by them.
+
+              (c)   The restrictions under this Section 13.03 on the use or
+disclosure of such information shall not apply to such information:
+
+                    (i)  which is independently developed by such party or is
+lawfully received free of restriction from another source having the right to so
+furnish such information; or
+
+                    (ii) after it has become generally available to the public
+by acts not attributable to such party or its employees, agents or contractors;
+or
+
+                    (iii)     which at the time of disclosure to such party was
+known to such party free of restriction and evidenced by documentation in such
+party's possession; or
+
+                    (iv) which the other party agrees in writing is free of such
+restrictions; or
+
+                    (v)  which is requested pursuant to a judicial or
+governmental request, requirement or order under law, provided that such party
+provides the other party with sufficient prior notice in order to contest such
+request, requirement or order or seek protective measures.
+
+         13.04 Seller shall have recorded in the United States Patent and
+Trademark Office the assignment of the patents listed in Appendix G herein to
+AGERE prior to the Effective Date of this agreement.
+
+         13.05 In the event of any conflict between the representations and
+warranties in this Agreement and the representations and warranties in the
+Purchase Agreement, the representations and warranties in the Purchase Agreement
+shall prevail.
+
+                                   ARTICLE XIV
+                               GENERAL PROVISIONS
+
+         14.01 Consideration. The consideration for the transfers, assignments
+and grant of rights and licenses under this Agreement by Seller to Buyer is
+provided in the Purchase Agreement and no further payment of royalties will be
+due under this Agreement.
+
+
+                                      -12-
+
+<PAGE>
+         14.02 Agreement Prevails. This Agreement shall prevail in the event of
+any conflicting terms or legends, which may appear on documents, the Software,
+the Documentation or the Technical Information transferred or licensed
+hereunder.
+
+         14.03 Relationship Between Parties. Neither Party to this Agreement
+shall have the power to bind the other by any guarantee or representation that
+it may give, or to incur any debts or liabilities in the name of or on behalf of
+the other Party. The Parties acknowledge and agree that nothing contained in
+this Agreement shall be deemed or construed to constitute or create between the
+Parties hereto a partnership, association, joint venture or other agency.
+
+         14.04 Entire Agreement. This Agreement, the Purchase Agreement and
+Collateral Agreements set forth the entire agreement and understanding between
+the Parties as to the subject matter hereof and merge all prior discussions
+between them, and none of the Parties shall be bound by any conditions,
+definitions, warranties, modifications, understandings or representations with
+respect to such subject matter other than as expressly provided herein or
+therein set forth on or subsequent to the Effective Date hereof in writing and
+signed by a proper and duly authorized representative of the Party to be bound
+thereby.
+
+         14.05 Headings. Section and subsection headings contained in this
+Agreement are inserted for convenience of reference only, shall not be deemed to
+be a part of this Agreement for any purpose, and shall not in any way define or
+affect the meaning, construction or scope of any of the provisions hereof.
+
+         14.06 Further Actions. Each Party agrees to execute, acknowledge and
+deliver such further instruments, and to do all such other acts, as may be
+necessary or appropriate in order to carry out the purposes and intent of this
+Agreement. This provision shall survive termination of this Agreement.
+
+         14.07 Governing Law. The Parties agree that this Agreement shall be
+governed by and construed and interpreted in accordance with the laws of the
+State of New York, excluding the choice of law rules thereof.
+
+         14.08 Force Majeure. Neither Party shall lose any rights hereunder or
+be liable to the other Party for damages or losses on account of failure of
+performance by the defaulting Party if the failure is occasioned by government
+action, war, acts of terrorism, fire, explosion, flood, strike, lockout,
+embargo, act of God, or other cause beyond the reasonable control of the
+defaulting Party, provided that the Party claiming force majeure has exerted
+commercially reasonable efforts to avoid or remedy such force majeure.
+
+         14.09 Waiver. Except as specifically provided for herein, the waiver
+from time to time by either of the Parties of any of their rights or their
+failure to exercise any remedy shall not operate or be construed as a continuing
+waiver of the same or of any other of such Party's rights or remedies provided
+in this Agreement.
+
+
+                                      -13-
+
+<PAGE>
+         14.10 Severability. If any term, covenant or condition of this
+Agreement or the application thereof to any Party or circumstances shall, to any
+extent, be held to be invalid or unenforceable, then the remainder of this
+Agreement, or the application of such term, covenant or condition to parties or
+circumstances other than those as to which it is held invalid or unenforceable,
+shall not be affected thereby and each term, covenant or condition of this
+Agreement shall be valid and be enforced to the fullest extent permitted by law.
+
+         14.11 No Rights to Other Products. Except as otherwise agreed in this
+Agreement, in the Purchase Agreement, or in a Collateral Agreement, Seller and
+Buyer shall have no right or interest whatsoever in any product of the other
+Party whether such product is conceived or developed by the other Party, during
+or after the course of performance of this Agreement, the Purchase Agreement or
+any Collateral Agreement. Nothing in this Agreement shall be construed to
+obligate Buyer or Seller to a specified level of effort in its promotion and
+marketing of any product.
+
+         14.12 Execution in Counterparts. This Agreement may be executed in any
+number of counterparts, each of which shall be deemed an original, but all of
+which together shall constitute one and the same instrument.
+
+                                   ARTICLE XV
+                                     NOTICES
+
+         15.01 Until further notice in writing, any notice or other
+communication hereunder shall be deemed to be sufficiently given to the
+addressee and any delivery hereunder deemed made when sent by certified mail to
+the addresses set out below.
+
+         For Agere:                Agere Systems
+                                   Intellectual Property
+                                   Attn: Contract Administrator
+                                   9333 South John Young Parkway
+                                   Orlando, Florida 32819-8698
+                                   United States of America
+
+         With a copy to:           Agere Systems Inc.
+                                   Attn: Vice President - Law
+                                   1110 American Parkway, NE
+                                   Allentown, PA 18109
+                                   United States of America
+                                   Facsimile: (610) 712-5336
+
+         For Buyer:                EMCORE Corporation
+                                   Attn: General Counsel
+                                   145 Belmont Drive
+                                   Somerset, NJ 08873
+                                   United States of America
+                                   Facsimile: (732) 302-9783
+
+
+                                      -14-
+
+<PAGE>
+         With a copy to:           Skadden, Arps, Slate, Meagher & Flom LLP
+                                   Attn:  Ron Laurie
+                                   300 South Grand Avenue
+                                   Los Angeles, CA 90071
+                                   United States of America
+                                   Facsimile: (213) 687-5600
+
+
+                                      -15-
+
+<PAGE>
+         IN WITNESS WHEREOF, each of the Parties has caused this Agreement to be
+executed by its duly authorized representative on the respective dates entered
+below.
+
+                              AGERE SYSTEMS INC.
+
+
+
+                              By: /s/ Gerard DeBlasi
+
+                              Name: Gerard DeBlasi
+
+                              Title: Vice President
+
+                              Date: January 21, 2003
+
+
+
+                              ORTEL CORPORATION
+
+
+
+                              By: /s/ Gerard DeBlasi
+
+                              Name: Gerard DeBlasi
+
+                              Title: Vice President
+
+                              Date: January 21, 2003
+
+
+
+                              EMCORE CORPORATION
+
+
+
+                              By:  /s/ Howard W. Brodie
+
+                              Name: Howard W. Brodie, Esq.
+
+                              Title:    Vice President and General Counsel
+
+                              Date: January 21, 2003
+
+
+               THIS AGREEMENT DOES NOT BIND OR OBLIGATE ANY PARTY
+                IN ANY MANNER UNLESS DULY EXECUTED BY AUTHORIZED
+                         REPRESENTATIVES OF ALL PARTIES
+
+
+                                      -16-
+
+</TEXT>
+</DOCUMENT>

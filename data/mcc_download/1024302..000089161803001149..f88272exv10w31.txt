@@ -1,0 +1,2487 @@
+<DOCUMENT>
+<TYPE>EX-10.31
+<SEQUENCE>3
+<FILENAME>f88272exv10w31.txt
+<DESCRIPTION>EXHIBIT 10.31
+<TEXT>
+<PAGE>
+                                                                   EXHIBIT 10.31
+
+
+                            PORTAL SERVICES AGREEMENT
+
+      This Portal Services Agreement (this "Agreement") is entered into as of
+October 28, 1999 (the "Effective Date"), by and between Inktomi Corporation, a
+Delaware corporation with its principal place of business at 4100 E. Third
+Avenue, Mail Stop FC2-5, Foster City, California, 94404 ("Inktomi") and
+Microsoft Corporation, a Washington corporation, with its principal place of
+business at One Microsoft Way, Redmond, Washington, 98052 ("Customer").
+
+                                   RECITALS
+
+      A. Inktomi utilizes its technology to provide a variety of services
+including without limitation those described on exhibits to this Agreement.
+
+      B. Customer desires to retain Inktomi to provide certain of Inktomi's
+services to Customer in accordance with the terms and conditions of this
+Agreement.
+
+      C. Customer has previously entered into the following agreements with
+Inktomi (i) a Software Development Agreement dated July 27, 1997; (ii) an
+Information Services Agreement dated July 27, 1997; (iii) a Software Hosting
+Agreement dated July 27, 1997; and (iv) a License Agreement dated May 12, 1997.
+The parties now desire that such agreements be terminated as of the Effective
+Date of this Agreement and that this Agreement supercede and supplant such
+agreements.
+
+NOW THEREFORE, Inktomi and Customer agree as follows:
+
+                                    AGREEMENT
+
+      In consideration of the foregoing and the mutual promises contained herein
+the parties agree as follows:
+
+      1. Definitions. For purposes of this Agreement, in addition to the other
+terms defined elsewhere in this Agreement, the following terms shall have the
+meanings set forth below:
+
+            1.1. "Intellectual Property Rights" means any and all rights
+existing from time to time under patent law, copyright law, semiconductor chip
+protection law, moral rights law, trade secret law, trademark law, unfair
+competition law, publicity rights law, privacy rights law, and any and all other
+proprietary rights, and any and all applications, renewals, extensions and
+restorations thereof, now or hereafter in force and effect worldwide.
+
+            1.2. "Inktomi Technology" means the computer software, technology
+and/or documentation which is supplied to Customer by Inktomi or used by Inktomi
+in connection with delivery of a Service, including without limitation all
+source code and object code therefor and all algorithms, ideas and Intellectual
+Property Rights therein, including upgrades, updates, successor versions,
+replacement versions thereof. The definition of "Inktomi Technology" shall
+include any supplemented definition set forth in an Exhibit for a Service.
+
+
+                                                                               1
+<PAGE>
+            1.3. "Services" means the various services to be provided by Inktomi
+for Customer under this Agreement, as more fully described on the Exhibits
+attached to this Agreement.
+
+            1.4. "Site" means a Web site and/or sites established and maintained
+by Customer or other authorized entity (to the extent permitted) through which
+end-users may access a Service as set forth in the Exhibit for such Service. For
+purposes of this Agreement, "Site" shall include MSN, other Microsoft Web sites,
+and MSN-branded, Microsoft-branded, co-branded and private-labeled Web sites,
+whether hosted or operated by Customer or third parties or subsidiaries,
+affiliates, or joint ventures or partnerships in which Customer participates,
+and any subsequent versions or upgrades of the foregoing, provided, however,
+that except as set forth in Section 2.1.1. herein no such Site shall resell or
+distribute such Service as standalone OEM services to third parties in
+competition to Inktomi.
+
+            1.5. "Term" shall have the meaning indicated in Section 9.
+
+            1.6. "Web" means the World Wide Web, containing, inter alia, pages
+written in hypertext markup language (HTML) and/or any similar successor
+technology.
+
+            1.7. "Web page" means a document on the Internet which may be viewed
+in its entirety without leaving the applicable distinct URL address.
+
+            1.8. "Web site" means a collection of inter-related Web pages.
+
+      2. Provision of Services.
+
+            2.1. Services. Subject to the terms and conditions of this
+Agreement, Inktomi shall provide each Service in accordance with the
+functionality specifications, performance criteria specified in the Exhibit and
+Schedule applicable to such Service as the same may change from time to time
+during the Term of this Agreement with the mutual consent of Customer and
+Inktomi, and all other terms and conditions contained in this Agreement,
+including Exhibits. Inktomi agrees that the Services shall be performed in a
+professional manner and shall be of a high grade, nature and quality.
+
+                  2.1.1. Scope of Rights. Customer shall have the right to use
+the Services and the search results generated thereby solely in connection with
+the provision of Customer's search engine services throughout the world during
+the Term, if and to the extent that it may determine is appropriate, including
+without limitation by way of sublicensing any and all rights herein to third
+parties. However, with respect to such sublicensing: (i) such sublicensees may
+operate Customer co-branded and/or private label sites accessing all or portions
+of the Services through Customer servers, provided that any such private labeled
+sublicensee sites shall include branding or attribution (such as "powered by MSN
+Search") which identifies Customer as the source of the Services (ii) Results
+Sets generated by sublicensees will be cumulative (but not double-counted) with
+Results Sets generated by Customer for purposes of Section 5; (iii) any
+sublicense shall be effective only, during the Term; and (iv) each sublicensee
+shall agree to hold all confidential and proprietary information regarding
+Inktomi and the Services in confidence, to use all or portions of the Services
+only in connection with providing search engine services to end users through
+sites operated by such sublicensee, and not to reverse engineer, disassemble or
+decompile the object code version of any Inktomi Technology. Except as set forth
+above, neither Customer nor its sublicensees shall be restricted in any way with
+respect to the access to and use of the Services or customized Customer services
+based on the Services. Inktomi's sole remedy,
+
+
+                                                                               2
+<PAGE>
+and Customer's sole obligation, for any breach by a Customer's sublicensee of
+its sublicense rights is termination or suspension of such sublicense.
+
+            2.2. Additional Services. Throughout the Term of this Agreement, the
+Services and Inktomi Technology and related features, functionality,
+performance, support and upgrades provided hereunder will be at least equal to
+those Inktomi provides to all other Inktomi customers. In the event Inktomi
+develops new Services and Inktomi Technology that it licenses or provides
+separately on a premium basis to its search customer base, then Inktomi shall
+offer such features and functionality to Customer at most favored customer
+pricing as against other Inktomi customers who have entered into agreements with
+Inktomi for similar services and with similar contract terms as those described
+herein. New Services and Inktomi Technology that are made available to Inktomi
+customers on a premium or non-premium basis will be offered to Customer no later
+than the same time they are offered to other Inktomi customers. Furthermore,
+upon request, and provided that Customer is current with service fees due under
+this Agreement, Customer may request customized services to be provided by
+Inktomi which are not otherwise contemplated or provided for by this Agreement.
+Such customized services shall be mutually agreed upon by the parties and shall
+be set forth, in Inktomi's reasonable discretion, on an additional Exhibit to
+this Agreement which upon execution, shall become binding between the parties.
+Such customized services, if provided pursuant to an additional Exhibit shall be
+provided in accordance with the rates, charges, terms and conditions of such
+Exhibit and the terms of this Agreement.
+
+            2.3. End-User Support. Inktomi, shall provide technical support for
+the Services to the extent set forth in Schedule 1 hereto. Except as set forth
+in such Schedule, Customer, at its own expense, shall provide all support of the
+Site.
+
+            2.4. Nonexclusive Services. Customer understands that Inktomi will
+provide the Services on a nonexclusive basis. Customer acknowledges that Inktomi
+has customized and provided, and will continue to customize and provide, its
+software and technology to other parties for use in connection with a variety of
+applications, including, without limitation, search engine, e-commerce and
+communication applications. Nothing in this Agreement will be deemed to limit or
+restrict Inktomi from customizing and providing its software and technology to
+other parties for any purpose or in any way affect the rights granted to such
+other parties. Further, nothing in this Agreement will be deemed to limit or
+restrict Customer's ability to acquire, license, independently develop, or serve
+for itself, or have others acquire, license, develop, or serve for Customer,
+similar services performing the same or similar functions as the Services
+contemplated by this Agreement, or to market and offer such similar services in
+addition to the Services contemplated by this Agreement.
+
+            2.5 [*]
+
+
+* Certain information on this page has been omitted and filed separately with
+the Commission. Confidential treatment has been requested with respect to the
+omitted portions.
+
+
+                                                                               3
+<PAGE>
+      3. Intellectual Property Licenses/Ownership.
+
+            3.1. Inktomi Technology. As between Customer and Inktomi, Customer
+acknowledges that Inktomi owns all right, title and interest in and to the
+Inktomi Technology (except for any software licensed by third parties to
+Inktomi), and that Customer shall not acquire any right, title, and interest in
+or to the Inktomi Technology, except as expressly set forth in this Agreement.
+Customer shall not modify, adapt, translate, prepare derivative works from,
+decompile, reverse engineer, disassemble or otherwise attempt to derive source
+code from any Inktomi Technology, except and only to the extent that such
+activity is otherwise permitted by Inktomi or is expressly permitted by
+applicable law notwithstanding this limitation. Customer will not remove,
+obscure, or alter Inktomi's copyright notice, trademarks, or other proprietary
+rights notices affixed to or contained within any Inktomi software or
+documentation.
+
+      4. Warranties and Disclaimer. Each party agrees as follows:
+
+            4.1. Inktomi Warranties. Inktomi warrants that: (i) it has full
+power and authority to enter into this Agreement; and (ii) it has not previously
+and will not grant any rights in the Inktomi Technology to any third party that
+are impede the rights granted to Customer hereunder; (iii) throughout the Term,
+each Service provided for Customer and the Inktomi Technology provided in
+connection with each such Service shall be free of material errors and defects
+and shall perform in accordance with the performance criteria set forth on the
+applicable Exhibit for such Service; and (iv) each Service provided for the
+Customer and the Inktomi Technology provided in connection with each Service do
+not and will not infringe any copyright, patent, trade secret, or other
+proprietary right held by any third party, and Inktomi has no knowledge of any
+allegations of any such infringement. INKTOMI MAKES NO OTHER WARRANTY OF ANY
+KIND, WHETHER EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, INCLUDING WITHOUT
+LIMITATION WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR USE, AND
+NONINFRINGEMENT. IN PARTICULAR, INKTOMI MAKES NO WARRANTIES WHATSOEVER REGARDING
+THE NATURE OF THE MATERIAL CONTAINED IN ITS SEARCH DATABASES AND TO THE MAXIMUM
+EXTENT PERMITTED BY LAW DISCLAIMS ANY RESPONSIBILITY OR LIABILITY FOR SUCH
+MATERIAL.
+
+            4.2. Customer Warranties. Customer warrants that: (i) it has full
+power and authority to enter into this Agreement; and (ii) it will seek all
+necessary governmental approvals required to effectuate this Agreement. CUSTOMER
+MAKES NO OTHER WARRANTIES OF ANY KIND, WHETHER EXPRESS, IMPLIED, STATUTORY OR
+OTHERWISE, INCLUDING WITHOUT LIMITATION WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR USE, AND NONINFRINGEMENT.
+
+      5. Payments.
+
+            5.1. Fees. Customer shall pay Inktomi fees for the Services in
+accordance with the Schedule 2 hereto.
+
+
+
+                                                                               4
+<PAGE>
+            5.2. Records. To the extent applicable for each Service and solely
+to the extent each party has obligations to make payments to the other party in
+connection with such Service each party shall: (i) maintain all records relevant
+to calculating service fees and/or revenues for a Service for a two (2) year
+period following the year in which any payments pertaining to such service fees
+and/or revenues were due; and (ii) have the right to designate a certified
+public accountant (other than on a contingency fee basis) to examine the other
+party's records from time to time but no more than once every year, and not
+later than one year following the date of the records or payment in question, to
+determine the correctness of any payment made under this Agreement. Such
+examination shall be conducted at reasonable times during the audited party's
+normal business hours and upon at least ten (10) business days' advance notice
+and in a manner so as not to unreasonably interfere with the conduct of the
+audited party's business. If any such examination indicates that the audited
+party has underpaid by more than five percent (5%) of the aggregate payments due
+for the period subject to such examination, the audited party shall reimburse
+the other party for reasonable costs of such examination.
+
+            5.3. Taxes. Customer shall be responsible for all sales taxes, use
+taxes, withholding taxes, value added taxes and any other similar taxes imposed
+by any federal, state, provincial or local governmental entity on the
+transactions contemplated by this Agreement, excluding taxes based upon
+Inktomi's net income. When Inktomi has the legal obligation to pay or collect
+such taxes, the appropriate amount shall be invoiced to and paid by Customer
+unless Customer provides Inktomi with a valid tax exemption certificate
+authorized by the appropriate taxing authority.
+
+            5.4. Payment. All fees quoted and payments made hereunder shall be
+in U.S. Dollars. Within thirty (30) days after the end of each calendar month
+with respect to which Customer owes Inktomi any service fees, Inktomi shall
+furnish Customer with an invoice. The invoice shall be based upon the fees set
+forth in the applicable Schedule(s) to this Agreement during the month then
+ended, and shall contain information reasonably sufficient to discern how fees
+were computed. Within thirty (30) days of receiving an invoice from Inktomi,
+Customer shall pay all amounts due under this Agreement to Inktomi at the
+address indicated at the beginning of this Agreement or such other location as
+Inktomi designates in writing.
+
+      6. Confidentiality.
+
+            6.1 The parties hereby agree that all terms and conditions of that
+certain Microsoft Corporation Non-Disclosure Agreement between them dated March
+18, 1997, shall govern the disclosure of confidential and proprietary
+information made under this Agreement. In this connection, the parties hereby
+agree that the terms of this Agreement shall be treated as confidential in
+accordance with the terms of said Non-Disclosure Agreement.
+
+            6.2 Without having first sought and obtained Customer's written
+approval (which Customer may withhold in its sole and absolute discretion),
+Inktomi shall not, directly or indirectly, (i) trade upon this transaction or
+any aspect of Inktomi's relationship with Customer, or (ii) otherwise deprecate
+Microsoft technology.
+
+            6.3 Neither party will issue any press release or make any public
+announcement(s) relating in any way whatsoever to this Agreement or the
+relationship established by this Agreement without the express prior written
+consent of the other party. However, the parties acknowledge that this
+Agreement, or portions thereof, may be required under applicable law to be
+disclosed, as part of or an exhibit to a party's required public disclosure
+documents. If either party is advised by its legal counsel that such disclosure
+is required, it will notify the other
+
+
+                                                                               5
+<PAGE>
+in writing and the parties will jointly seek confidential treatment of this
+Agreement to the maximum extent reasonably possible, in documents approved by
+both parties and filed with the applicable governmental or regulatory
+authorities.
+
+      7. Indemnification.
+
+            7.1 By Inktomi. Inktomi shall, at its expense and Customer's
+request, defend any third party claim or action brought against Customer, and
+Customer's subsidiaries, affiliates, directors, officers, employees, agents and
+independent contractors, which, if true, would constitute a breach of any
+warranty, representation or covenant made by Inktomi under this Agreement, and
+Inktomi will indemnify and hold Customer harmless from and against any costs,
+damages and fees reasonably incurred by Customer, including but not limited to
+fees of attorneys and other professionals, that are attributable to such claim.
+Customer shall: (i) provide Inktomi reasonably prompt notice in writing of any
+such claim or action and permit Inktomi, through counsel mutually acceptable to
+Customer and Inktomi, to answer and defend such claim or action; and (ii)
+provide Inktomi information, assistance and authority, at Inktomi's expense, to
+help Inktomi to defend such claim or action. Inktomi will not be responsible for
+any settlement made by Customer without Inktomi's written permission, which
+permission will not be unreasonably withheld.
+
+            7.2 By Customer. Customer shall, at its expense and Inktomi's
+request, defend any third party claim or action brought against Inktomi, and
+Inktomi's subsidiaries, affiliates, directors, officers, employees, agents and
+independent contractors, which, if true, (i) would constitute a breach of any
+warranty, representation or covenant made by Customer under this Agreement, (ii)
+is based in material part upon modifications to Inktomi Technology made by
+Customer but not approved by Inktomi, or (iii) is based in material part upon
+Customer's use of the Services but is not covered by Section 4.1 above, and
+Customer will indemnify and hold Inktomi harmless from and against any costs,
+damages and fees reasonably incurred by Inktomi, including but not limited to
+fees of attorneys and other professionals, that are attributable to such claim.
+Inktomi shall: (i) provide Customer reasonably prompt notice in writing of any
+such claim or action and permit Customer, through counsel mutually acceptable to
+Inktomi and Customer, to answer and defend such claim or action; and (ii)
+provide Customer information, assistance and authority, at Customer's expense,
+to help Customer to defend such claim or action. Customer will not be
+responsible for any settlement made by Inktomi without Customer's written
+permission, which permission will not be unreasonably withheld.
+
+            7.2 Separate Counsel; Reimbursement. An indemnified party shall have
+the right to employ separate counsel and participate in the defense of any claim
+or action. The indemnifying party shall reimburse the indemnified party upon
+demand for any payments made or loss suffered by it at any time after the date
+hereof, based upon the judgment of any court of competent jurisdiction or
+pursuant to a bona fide compromise or settlement of claims, demands, or actions,
+in respect to any damages related to any claim or action under this Section 7.
+
+            7.3 Settlement. The indemnifying party may not settle any claim or
+action under this Section 7 without first obtaining the indemnified party's
+written permission, which permission will not be unreasonably withheld. In the
+event Customer and Inktomi agree to settle a claim or action, each party agrees
+not to publicize the settlement without first obtaining the other's written
+permission, which permission will not be unreasonably withheld.
+
+
+
+                                                                               6
+<PAGE>
+            7.4 Proprietary Rights Infringement. Without limiting any of
+Customer's rights or remedies, in the event of any breach or alleged breach by
+Inktomi of Section 4.1(iv), Inktomi shall notify Customer and shall at Inktomi's
+expense (i) procure for Customer all rights necessary so that Inktomi shall not
+be in breach of Section 4.1(iv), or (ii) modify the pertinent item or infringing
+part thereof, or replace the infringing software with other software having
+substantially the same or better capabilities. If neither of the foregoing is
+commercially practicable to achieve within a reasonable period of time, then, in
+addition to any other rights and remedies available to Customer, Customer may
+immediately terminate this Agreement.
+
+      8. Limitation of Liability. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE
+LAW, NEITHER PARTY SHALL BE LIABLE FOR ANY LOST PROFITS OR COSTS OF PROCUREMENT
+OF SUBSTITUTE GOODS OR SERVICES, OR FOR ANY INDIRECT, SPECIAL, INCIDENTAL OR
+CONSEQUENTIAL DAMAGES, INCLUDING DAMAGES FOR LOST DATA, HOWEVER CAUSED AND UNDER
+ANY THEORY OF LIABILITY, INCLUDING BUT NOT LIMITED TO CONTRACT, PRODUCTS
+LIABILITY, STRICT LIABILITY AND NEGLIGENCE, AND WHETHER OR NOT IT WAS OR SHOULD
+HAVE BEEN AWARE OR ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. THESE LIMITATIONS
+SHALL APPLY NOTWITHSTANDING ANY FAILURE OF ESSENTIAL PURPOSE OF ANY LIMITED
+REMEDY. THIS SECTION SHALL NOT APPLY TO EITHER PARTY'S (A) ABILITY TO OBTAIN
+INJUNCTIVE OR OTHER EQUITABLE RELIEF; (B) CONFIDENTIALITY OBLIGATIONS UNDER
+SECTION 6; AND (C) OBLIGATIONS UNDER SECTION 3.1.
+
+      9. Term and Termination.
+
+            9.1. Term. The term of this Agreement (the "Term") shall commence on
+the Effective Date and shall continue in force for three (3) years or until the
+termination of the last Service. The parties may agree to renew the Agreement on
+mutually agreed upon terms.
+
+            9.2. Termination for Breach. In addition to any other rights and/or
+remedies that either party may have under the circumstances, all of which are
+expressly reserved, either party may suspend performance of and/or terminate
+this Agreement if (i) the other party materially breaches any term or condition
+of this Agreement and fails to cure such breach within thirty (30) days after
+receiving written notice of the breach, or (ii) either party is in material
+breach of Section 6.1.
+
+            9.3. Termination due to Insolvency. Either party may suspend
+performance and/or terminate this Agreement if the other party becomes insolvent
+or makes any assignment for the benefit of creditors or similar transfer
+evidencing insolvency, or suffers or permits the commencement of any form of
+insolvency or receivership proceeding, or has any petition under bankruptcy law
+filed against it, which petition is not dismissed within sixty (60) days of such
+filing, or has a trustee or receiver appointed for its business or assets or any
+party thereof.
+
+            9.4. Termination Without Cause. Upon ninety (90) days prior written
+notice to Inktomi, Customer may terminate this Agreement in its entirety without
+cause provided Customer has paid the annual minimum total Per Search Query
+Service Fee set forth in Schedule 2 of this Agreement [*]. In addition, if
+
+
+* Certain information on this page has been omitted and filed separately with
+the Commission. Confidential treatment has been requested with respect to the
+omitted portions.
+
+                                                                               7
+<PAGE>
+Customer no longer wishes to receive either the General Search Services or the
+Site Search Services, upon ninety (90) days prior written notice to Inktomi,
+Customer may terminate such portions of this Agreement that relate to the
+General Search Services or the Site Search Services, as the case may be provided
+Customer has paid the minimum total Per Search Query Service Fee set forth in
+Schedule 2 of this Agreement [*]; provided, that if Customer elects to terminate
+the Site Search Services portion of this Agreement, Customer shall have no
+further obligation to pay monthly service fees following the date of such
+termination.
+
+            9.5. Effect of Termination. Upon the termination of this Agreement
+for any reason: (i) all license rights granted under this Agreement shall
+terminate; (ii) Customer shall immediately pay to Inktomi all amounts due and
+outstanding as of the date of such termination; and (iii) each party shall
+return to the other party, or destroy and certify the destruction of, all
+Confidential Information of the other party.
+
+            9.6. Survival. In the event of any termination or expiration of this
+Agreement for any reason, Sections 1, 3, 4, 5.2, 6, 7, 8, 9, 10 and 11 shall
+survive termination or expiration of this Agreement. Neither party shall be
+liable to the other party for damages or equitable remedies of any sort
+resulting solely from terminating this Agreement in accordance with its terms.
+
+            9.7. Remedies. Each party acknowledges that its breach of the
+confidentiality or service/license restrictions contained herein may cause
+irreparable harm to the other party, the extent of which would be difficult to
+ascertain. Accordingly, each party agrees that, in addition to any other
+remedies to which the non-breaching party may be legally entitled, the
+non-breaching party shall have the right to seek immediately injunctive relief
+in the event of a breach of such confidentiality or service/license restrictions
+by the other party or any of its officers, employees, consultants or other
+agents.
+
+            9.8. If Inktomi is in material breach of this Agreement, then, in
+addition to any other remedies which Customer may have under the circumstances,
+Customer will have the right to withhold payment of amounts otherwise owed by
+Customer to Inktomi pursuant to this Agreement; provided, however, that Customer
+shall give Inktomi not less than forty-five (45) days to cure such breach prior
+withholding any such payments.
+
+      10. Miscellaneous.
+
+            10.1. Understanding. Each party acknowledges that it has read this
+Agreement, understands it and agrees to be bound by it. Each party acknowledges
+that it has not been induced to enter into such agreements by any
+representations or statements, oral or written, not expressly contained herein
+or expressly incorporated by reference.
+
+            10.2. Notice. Any notice required for or permitted by this Agreement
+shall be in writing and shall be delivered as follows with notice deemed given
+as indicated: (i) by personal delivery when delivered personally; (ii) by
+overnight courier upon written verification of receipt; (iii) by telecopy or
+facsimile transmission when confirmed by telecopier or facsimile transmission
+report; or (iv) by certified or registered mail, return receipt requested, upon
+verification of receipt. All notices to Inktomi must be sent to the addresses
+first described above or to such other address that Inktomi may have provided
+for the purpose of notice in accordance with this Section. All notices to
+Customer must be sent to: Microsoft Corporation, One Microsoft
+
+
+* Certain information on this page has been omitted and filed separately with
+the Commission. Confidential treatment has been requested with respect to the
+omitted portions.
+
+                                                                               8
+<PAGE>
+Way, Redmond, WA 98052, Attention:MSN Search manager, fax: (425) 936-7329, with
+a copy to: Microsoft Corporation, Law and Corporate Affairs, fax: (425)
+936-7409, or to such other address that Customer may have provided for the
+purpose of notice in accordance with this Section.
+
+            10.3. Assignment. Neither party may assign its rights or delegate
+its obligations under this Agreement without the other party's prior written
+consent, except (i) to the surviving entity in a merger or consolidation in
+which it participates or to a purchaser of all or substantially all of its
+assets, so long as such surviving entity or purchaser shall expressly assume in
+writing the performance of all of the terms of this Agreement, or (ii) in the
+case of Customer, to the Microsoft business unit responsible for MSN and/or MSN
+Search, in the event such unit becomes a separate legal entity, or to the
+purchaser of all or substantially all of the assets of the Microsoft business
+unit responsible for MSN and/or MSN Search.
+
+            10.4. No Third Party Beneficiaries. All rights and obligations of
+the parties hereunder are personal to the party that holds the rights or has the
+obligation. Except as otherwise specifically stated herein, this Agreement is
+not intended to benefit, nor shall it be deemed to give rise to, any rights in
+any third party.
+
+            10.5. Governing Law. This Agreement will be governed and construed,
+to the extent applicable, in accordance with United States law, and otherwise,
+in accordance with Washington law, without regard to its conflict of law
+principles. In any action or suit to enforce any right or remedy under this
+Agreement the prevailing party shall be entitled to recover its reasonable
+attorneys' fees and costs.
+
+            10.6. Independent Contractors. The parties are independent
+contractors. Neither party shall be deemed to be an employee, agent, partner or
+legal representative of the other for any purpose and neither shall have any
+right, power or authority to create any obligation or responsibility on behalf
+of the other.
+
+            10.7. Force Majeure. Neither party shall be liable hereunder by
+reason of any failure or delay in the performance of its obligations hereunder
+(except for the payment of money) on account of strikes, shortages, riots,
+insurrection, fires, flood, storm, explosions, earthquakes, telecommunications
+outages, acts of God, war, governmental action, or any other cause which is
+beyond the reasonable control of such party.
+
+            10.8. Compliance with Laws and Export Regulations. Each party shall
+be responsible for compliance with all applicable laws, rules and regulations,
+if any, related to the performance of its obligations under this Agreement.
+Customer acknowledges that Inktomi is not the originator or exporter of any
+information the Services return as the result of queries submitted by any user
+of Customer's system. Customer is responsible for ensuring that the export of
+any information provided by the Services is exported in accordance with all
+applicable U.S. laws and regulations, including U.S. export control laws.
+Additionally, Customer acknowledges that Inktomi is not the exporter of any
+products or information sold by Customer through the Services. Customer is
+responsible for ensuring that the export of any products facilitated for sale
+through the Services are exported in accordance with all applicable U.S. laws
+and regulations, including U.S. export control laws. Customer agrees to provide
+adequate safeguards including on line disclaimers on Customer's site to ensure
+compliance with these provisions.
+
+            10.9. Waiver. The failure of either party to require performance by
+the other party of any provision shall not affect the full right to require such
+performance at any time
+
+
+                                                                               9
+<PAGE>
+thereafter; nor shall the waiver by either party of a breach of any provision
+hereof be taken or held to be a waiver of the provision itself.
+
+            10.10. Conflicts. In the event of a conflict between the terms of
+this Agreement and an Exhibit attached hereto, the terms of the Exhibit shall
+prevail.
+
+            10.11. Severability. If any provision of this Agreement is held by a
+court of competent jurisdiction to be contrary to law, the parties agree that
+such provision shall be changed and interpreted so as to best accomplish the
+objectives of the original provision to the fullest extent allowed by law and
+the remaining provisions of this Agreement shall remain in full force and
+effect.
+
+            10.12. Headings. The section headings appearing in this Agreement
+are inserted only as a matter of convenience and in no way define, limit,
+construe or describe the scope or extent of such paragraph, or in any way affect
+such agreements.
+
+            10.13. Counterparts. This Agreement may be executed simultaneously
+in two or more counterparts, each of which will be considered an original, but
+all of which together will constitute one and the same instrument.
+
+            10.14. Entire Agreement. This Agreement, Exhibits, Attachments and
+Schedules hereto, constitute the entire agreement between the parties with
+respect to the subject matter hereof. This Agreement supersedes, and the terms
+of this Agreement govern, any other prior or collateral agreements with respect
+to the subject matter hereof. Any amendments to this Agreement must be in
+writing and executed by an officer or other duly authorized representative of
+the parties.
+
+      IN WITNESS WHEREOF, the parties have caused this Portal Services Agreement
+to be signed by their duly authorized representatives.
+
+MICROSOFT CORPORATION               INKTOMI CORPORATION
+
+By: /s/ Brad Chase                        By: /s/ Jerry Kennelly
+   ---------------------------------         ---------------------------------
+
+Name: Brad Chase                          Name: Jerry Kennelly
+     -------------------------------           -------------------------------
+
+Title: Vice-President                     Title: Chief Financial Officer
+      ------------------------------            ------------------------------
+
+
+
+                                                                              10
+<PAGE>
+                                   EXHIBIT A-1
+                                     TO THE
+                            PORTAL SERVICES AGREEMENT
+                             GENERAL SEARCH SERVICES
+
+This Exhibit to the Portal Services Agreement (this "Exhibit"), in conjunction
+with the terms of the Portal Services Agreement (the "Agreement") shall
+constitute the terms and conditions pursuant to which Inktomi shall provide
+General Search Services to Customer at the Site set forth above:
+
+      1. Definitions. In addition to any terms defined in this Exhibit, the
+following terms shall have the meanings set forth below. Any other terms not
+otherwise defined in this Exhibit shall have the meanings prescribed to them in
+the Agreement.
+
+      1.1. "Database" means Inktomi's full text index database of Web pages
+accessible by end users of the Site and end users of other Inktomi customers at
+any given time.
+
+      1.2. "General Search Database" is the database maintained as part of the
+General Search Services described on Attachment A to this Exhibit. The General
+Search Database shall at no time be less comprehensive than the Database.
+
+      1.3 "General Search Services" means the Internet Search Engine services
+and related support services to be provided by Inktomi for Customer under this
+Exhibit, as more fully described on Attachment A to this Exhibit and Schedule 1
+to the Agreement.
+
+      1.4 "Inktomi Data Protocol" means the written specification on how an
+Interface communicates and interacts with the Inktomi Search Engine.
+
+      1.5 "Inktomi Search Engine" means Inktomi's current Search Engine as of
+the Effective Date. The Inktomi Search Engine does not and will not include
+features, options and modules developed and customized specifically for third
+parties and provided to such third parties on an exclusive basis, or features,
+options, modules and future products which Inktomi licenses or provides
+separately; however, the Inktomi Search Engine will include all upgrades,
+updates, successor versions, replacement versions and new releases thereto which
+Inktomi makes generally available at no additional fees.
+
+      1.6 "Inktomi Technology" means the Inktomi Search Engine, the Inktomi Data
+Protocol, the Interface Construction Tools and all other computer software,
+technology and/or documentation which is supplied by Inktomi for use in or in
+connection with delivery of the General Search Services, including, without
+limitation, all source code and object code therefor and all algorithms, ideas
+and Intellectual Property Rights therein, including upgrades, updates, successor
+versions, replacement versions and new releases thereof.
+
+      1.7 "Interface" means the editorial and graphical content, and
+functionality (which is not otherwise Inktomi Technology hereunder), of the Web
+and other pages served to end users of Customer, including without limitation
+all Search Pages, Inktomi Results Pages, instruction pages, frequently asked
+questions pages and any site end user terms and guidelines.
+
+
+
+                                      A1-1
+<PAGE>
+      1.8 "Interface Construction Tools" means all software tools, if any, in
+object code form, provided by Inktomi to assist Customer to build the Interface
+to the Inktomi Search Engine, including without limitation Inktomi's application
+server currently known as Forge.
+
+      1.9 "Results Pages" means all Web pages displaying search results
+presented to end-users directly as a result of accessing the query mechanisms of
+the Inktomi Search Engine or indirectly through a cache controlled or influenced
+by Customer.
+
+      1.10 "Results Set" means a set of results consisting of between zero and
+one hundred unique records presented (either directly from the Inktomi Search
+Engine or indirectly through a cache controlled or influenced by Customer) in
+response to a search query.
+
+      1.11 "Search Engine" means computer software which crawls the Internet,
+downloads and analyzes text and other data, sorts and organizes the data,
+creates an index of accessible data, and, after receiving a particular search
+request (in the form of a word query), locates material accessible in the
+database, and presents the results of the search.
+
+      1.10 "Search Pages" means all Web pages which enable end users of the Site
+to initiate and send search queries to the Inktomi Search Engine.
+
+      1.11 "Inktomi Search Result Data" means the proprietary search result data
+(consisting of URLs, corresponding Web site descriptions, and corresponding
+numerical relevancy rankings among the individual search results provided by
+Inktomi) associated with specific queries that is provided by Inktomi to
+Customer for serving and display to end users of the Customer Services as part
+of the search results delivered in response to such end users' search queries.
+
+      1.12 Microsoft Query Default State - [*]
+
+      2. Provision of General Search Services; Site Implementation.
+
+            2.1. General Search Services and Site Implementation. Subject to the
+terms and conditions of this Exhibit and the Agreement, Inktomi shall provide
+the General Search Services to Customer for use in the Site or in other Customer
+applications, such services to be provided in accordance with the functionality
+specifications, performance criteria and limitations specified on Attachment A
+to this Exhibit and Schedule 1 to the Agreement. Inktomi, at its own expense,
+shall provide all data transmission capacity (bandwidth), disk storage, server
+capacity and other hardware and software required to run the Inktomi Search
+Engine and maintain the Database. Customer, at its election and at its own
+expense, shall create one or more Interface(s) to the Inktomi Search Engine for
+the Site, and shall provide all disk storage, server capacity and other hardware
+and software required to run and maintain the Site and the Interface(s), and to
+serve advertisements on the Interface(s). Inktomi shall provide reasonable
+
+* Certain information on this page has been omitted and filed separately with
+the Commission. Confidential treatment has been requested with respect to the
+omitted portions.
+
+                                    AA1-2
+<PAGE>
+assistance (through telephone, e-mail, the Web, or fax) to Customer during
+regular business hours regarding development of the Interface and integration of
+the same with the Inktomi Search Engine. Customer, at its own expense, shall
+provide all data transmission capacity (bandwidth) required to connect to and
+receive information from the Inktomi Search Engine. Customer may only utilize
+the General Search Services in conjunction with search services provided by
+Customer to end users of the Site[s] or as otherwise permitted in this
+Agreement. Customer may cache Results Sets and other information obtained from
+the Inktomi databases; provided, that if Customer wishes to begin such caching,
+Inktomi and Customer will first agree on appropriate Customer reporting
+requirements to ensure proper accounting of payments hereunder.
+
+            2.2. Test Cluster. During the development period for the Interface,
+Customer shall only have access through the Inktomi Data Protocol to a
+non-production version of the Inktomi Search Engine (the "Test Cluster"). Upon
+completion of the Interface and all desired testing against the Test Cluster,
+Customer shall present the Interface to Inktomi for review and testing against
+the production version of the Inktomi Search Engine. Inktomi shall promptly
+notify Customer of any problems or issues discovered by Inktomi regarding the
+Interface. Once cleared by Inktomi, Inktomi shall provide access to Customer to
+the production version of the Inktomi Search Engine. Customer may run reasonable
+tests against the Test Cluster and the production version of the Inktomi Search
+Engine, provided however that Customer may not conduct any load testing (prior
+to commercial launch of its search service) without the prior consent of
+Inktomi. There shall no service fee payable by Customer for searches run against
+the Test Cluster. Additional test support requirements for routine and
+non-routine testing are itemized in Schedule 1 of the Agreement.
+
+            2.3. Delivery of Materials. Promptly following execution of this
+Exhibit, Inktomi shall provide the Inktomi Data Protocol and the Interface
+Construction Tools to Customer, which Customer may use solely in strict
+compliance with the terms of Section 4.
+
+            2.4. Technical Support. Inktomi, at its own expense, shall provide
+technical support services to Customer regarding the operation of the Inktomi
+Search Engine and the General Search Services. Such support services will be
+provided as set forth on Schedule 1 of the Agreement.
+
+      3. Customer Obligations.
+
+            3.1. Technical Support. Except as set forth in Section 2.4 and
+Schedule 1 of the Agreement, Customer at its own expense shall provide all
+support including, without limitation, first level customer support services to
+end-users of the Site.
+
+      4. Intellectual Property Licenses/Ownership.
+
+            4.1. Inktomi Data Protocol. Inktomi grants to Customer a
+nontransferable, nonexclusive license during the Term (as defined below) to use
+the Inktomi Data Protocol and the Interface Construction Tools solely to create
+and maintain the Interface to the Inktomi Search Engine for the Site. The
+license granted hereunder shall include the right to use the Interface
+Construction Tools or to develop an Interface to the Inktomi Search Engine for
+use on the Sites.
+
+            4.2. Interface. As between Inktomi and Customer, Inktomi
+acknowledges that Customer owns all right, title and interest, including without
+limitation all Intellectual Property Rights, in and to the Interface (except for
+any software licensed by third parties to Customer and except for editorial
+content regarding the use and functionality of the Inktomi Search Engine
+provided by Inktomi to
+
+
+                                     AA1-3
+<PAGE>
+Customer for incorporation into the Site, which content shall be and remain
+Inktomi Technology), and that Inktomi shall not acquire any right, title or
+interest in or to the Interface.
+
+            4.3 Inktomi Search Results Data. As between Customer and Inktomi,
+Customer acknowledges and agrees that Inktomi owns all right, title and interest
+in and to the Inktomi Search Result Data, including without limitation any and
+all Intellectual Property Rights therein, and that Customer shall not acquire
+any right, title or interest in or to the Inktomi Search Result Data, except as
+expressly set forth in this Agreement. Inktomi hereby grants to Customer a
+worldwide, nontransferrable, nonsublicensable, nonexclusive license to use,
+reproduce, reformat, publicly perform, and publicly display the Inktomi Search
+Result Data for the limited purposes of (1) serving and displaying such Inktomi
+Search Result Data to end users of the Customer Services as part of the search
+results delivered in response to such end users' search queries, (2) for
+Customer's internal research and review and (3) in Customer's ad sales
+activities; and except as may be required to fulfill such limited purpose,
+Customer shall not use, reproduce, modify, adapt, prepare derivative works from,
+distribute, resell, provide or disclose to any third party any Inktomi Search
+Result Data, alone or in combination with other data, without the express prior
+written consent of Inktomi.
+
+            4.4 Other Data. Any and all other data relating to or arising from
+use of the General Search Services ("Other Data") shall be owned by Customer,
+including any and all Intellectual Property Rights therein, and Inktomi shall
+not acquire any right, title or interest in or to such other data. Inktomi shall
+make no use of such other data except as expressly authorized in writing by
+Customer. Notwithstanding anything to the contrary, however, any data generated
+by operation of the Inktomi Search Engine in connection with the search services
+and collected by Inktomi may be used for internal research and review and
+marketing only and shall not be shared or otherwise disclosed to third parties
+in any manner except in aggregated form only.
+
+      5. Payments.
+
+            5.1. Service Fees. Customer shall pay Inktomi service fees for the
+General Search Services in the amount and on terms specified on Schedule 2 of
+the Agreement.
+
+            5.2. Records. For purposes of fulfilling its obligations under this
+Section 5.2, Customer shall keep complete and accurate records as set forth in
+Section 5 of the Agreement.
+
+
+                                     AA1-4
+<PAGE>
+IN WITNESS WHEREOF, the parties have caused this Exhibit to the Agreement to be
+signed by their duly authorized representatives.
+
+MICROSOFT CORPORATION                     INKTOMI CORPORATION
+
+By:                                       By:
+   ---------------------------------         ---------------------------------
+
+Name:                                     Name:
+     -------------------------------           -------------------------------
+
+Title:                                    Title:
+      ------------------------------            ------------------------------
+
+
+
+
+
+                                     AA1-5
+<PAGE>
+                                  ATTACHMENT A
+                                       TO
+                                   EXHIBIT A-1
+                             GENERAL SEARCH SERVICES
+
+Capitalized terms not otherwise defined in this Attachment shall have the
+meanings prescribed to them in the corresponding Exhibit to which this
+Attachment is attached or the Portal Services Agreement to which such Exhibit
+and Attachment are attached.
+
+General Search Services
+
+      Inktomi will use the Inktomi Search Engine and its own editorial
+discretion to crawl the Internet, download and analyze text and other data, sort
+and organize the data, create an index of accessible data, and, after receiving
+a particular search request from Customer's end user (in the form of a word
+query), locate material accessible in the General Search Database, and provide
+the results of the search to Customer for presentation to it's end user. Inktomi
+will serve end user search queries out of one or more of its search engine data
+centers at Inktomi's discretion provided these search engine data centers
+reflect Customer's AddURL submissions, meet the specifications and support
+levels provided for in this Agreement and include a dedicated communications
+link as currently exists. Should Inktomi in its discretion elect to serve end
+user queries out of one or more of such data center, the parties will, prior to
+such serving of end user queries, mutually agree upon a network connectivity
+solution. Notwithstanding, upon 30 days prior notice to Inktomi by Customer,
+Inktomi will serve end user search queries out of any its search engine data
+centers requested by Customer, provided that Inktomi has sufficient capacity in
+such data centers. The functionality specifications and performance criteria
+applicable to such General Search Services are as follows:
+
+      General Search Services Functionality Specifications:
+
+      Inktomi will operate the Inktomi Search Engine so as to enable end users
+of the Site to run queries against the General Search Database with the
+following functionality:
+
+[*]
+
+
+* Certain information on this page has been omitted and filed separately with
+the Commission. Confidential treatment has been requested with respect to the
+omitted portions.
+
+                                     AA1-1
+<PAGE>
+      [*]
+
+      General Search Services Performance Criteria
+
+      -     Size of Database        -     Minimum of [*] million documents will
+                                          be available for all daily queries. In
+                                          addition, Customer will have access to
+                                          any other Inktomi databases on the
+                                          same terms that Inktomi makes
+                                          available to other customers pursuant
+                                          to an agreement with Inktomi similar
+                                          to Customer's Agreement for similar
+                                          services as those described
+                                          herein.
+
+      -     General Search Database       The General Search Database will be
+            Freshness                     updated a minimum of [*] times per
+                                          year (approximately every [*] weeks,
+                                          which may vary depending on
+                                          operational circumstances) with a goal
+                                          of [*] times per year. Other worldwide
+                                          databases accessed by Customer will be
+                                          updated with similar frequency (e.g.,
+                                          the [*] database will be updated a
+                                          minimum of [*] times per year or
+                                          approximately every [*] weeks
+                                          depending upon operational
+                                          circumstances).
+
+      -     Uptime/Downtime         -     Minimum [*]% uptime ([*]% downtime)
+                                          over monthly windows with a goal of
+                                          [*]% uptime. Downtime = any [*] minute
+                                          period in which Inktomi Search Engine
+                                          processes no requests.
+
+      -     Query/Response Speed    -     For any two word query (Boolean And),
+                                          the average time to return results to
+                                          the Yukon client is no more than [*]
+                                          seconds on average and is less than
+                                          [*] second for [*]% of the queries.
+                                          The average overall query response
+                                          time goal shall be less than or equal
+                                          to [*] milliseconds and the average
+                                          maximum response time goal shall not
+                                          exceed [*] milliseconds. The query
+                                          response time goals shall be based
+                                          upon the Microsoft Default Query
+                                          State.
+
+
+* Certain information on this page has been omitted and filed separately with
+the Commission. Confidential treatment has been requested with respect to the
+omitted portions.
+<PAGE>
+      -     Query Capacity                Inktomi will provision the General Web
+                                          Search Service according to Customer's
+                                          historic query volume growth rates,
+                                          provided that Customer shall give
+                                          Inktomi at least ninety (90) days
+                                          advance notice of any forecasted
+                                          increase in queries from one month to
+                                          another that exceeds the prior month's
+                                          queries by [*] ([*]) percent or
+                                          more.
+
+      AddURL Submissions functionality and performance criteria
+
+      [*]
+
+
+
+* Certain information on this page has been omitted and filed separately with
+the Commission. Confidential treatment has been requested with respect to the
+omitted portions.
+<PAGE>
+      [*]
+
+
+Production Schedule
+
+      Customer will begin work on constructing the Interface, and Inktomi will
+begin work on tuning its Search Engine to provide the services set forth herein
+promptly upon execution of the Exhibit. Both parties will use commercially
+reasonable efforts so that the General Search Services are available to Customer
+for use in the Site within ninety (90) days following the Effective Date.
+
+LINGUISTICS & INTERNATIONAL SUPPORT
+
+
+[*]
+
+
+* Certain information on this page has been omitted and filed separately with
+the Commission. Confidential treatment has been requested with respect to the
+omitted portions.
+<PAGE>
+
+[*]
+
+
+
+
+CRAWL BREADTH PER INTERNATIONAL MARKET
+
+[*]
+
+*    Certain information on this page has been omitted and filed separately,
+     with the commission. Confidential treatment has been requested with respect
+     to the omitted portions.
+<PAGE>
+                                   SCHEDULE 1
+                                     TO THE
+                            PORTAL SERVICES AGREEMENT
+
+                             SUPPORT GUIDELINES FOR
+                                 SEARCH SERVICES
+
+1.    Definitions.
+
+      (a)   Hours of Operation. Inktomi will provide Customer with 7 x 24
+            support as set forth herein.
+
+      (b)   Problem. Any error, bug, or malfunction that makes any feature of
+            the Inktomi Search Engine perform unpredictably or to otherwise
+            become intermittently unavailable, or that causes the Inktomi Search
+            Engine to have a material degradation in response time performance.
+
+      (c)   Severe Problem. Any error, bug, or malfunction that causes the
+            Inktomi Search Engine to become inaccessible to Customer and its
+            Site end users, or that causes any feature of the Inktomi Search
+            Engine to become continuously unavailable.
+
+      (d)   Enhancement Request. A request by Customer to incorporate a new
+            feature or enhance an existing feature of the Inktomi Search Engine.
+
+      (e)   Fix. A correction, fix, alteration or workaround that solves a
+            Problem or a Severe Problem.
+
+2.    Contact points.
+
+      (a)   Customer Technical Support Personnel. Customer will designate
+            certain Customer employees and executive escalation personnel as
+            qualified to contact Inktomi for technical support. Customer will
+            designate a liaison for centralized project coordination purposes.
+            Customer may change its designated Technical Support Personnel and
+            executive escalation personnel at its discretion with reasonable
+            notice to Inktomi.
+
+      (b)   Inktomi Technical Support Personnel. Inktomi will ensure that its
+            Technical Support Personnel are adequately trained to provide
+            technical support to Customer. Inktomi will designate a liaison for
+            centralized project coordination purposes. Inktomi will provide
+            Customer with a web interface or an email address (the "Support
+            Address"), as well as an email pager address (the "Support Pager")
+            for contacting the Inktomi Technical Support Personnel no later than
+            one week prior to the Launch Date. Inktomi will also provide
+            Customer with contact information for executive escalation personnel
+            no later than one week prior to the Launch Date. Inktomi may change
+            its designated Technical Support Personnel and executive escalation
+            personnel at its discretion with reasonable notice to Customer.
+
+3.    Support procedures.
+
+
+                                      S1-1
+<PAGE>
+      (a)   All Problems reported by Customer Technical Support Personnel to
+            Inktomi must be submitted via web site or email to the Support
+            Address.
+
+      (b)   If Customer believes it is reporting a Severe Problem, Customer will
+            accompany its email request with a page via the Support Pager.
+
+      (c)   Upon receiving a report from Customer, Inktomi will respond to the
+            request and use reasonable commercial efforts to provide a Fix as
+            described in the support table set forth below.
+
+      (d)   Inktomi will use commercially reasonable efforts to inform Customer
+            Technical Support Personnel of Fixes.
+
+4.    Support levels.
+
+      (a)   Customer will provide technical support to end users of the Sites
+            who email or otherwise contact Customer directly with questions
+            about the Sites. Customer will use its commercially reasonable
+            efforts to Fix any Problems without escalation to Inktomi.
+
+      (b)   Inktomi will provide the following technical support solely to
+            Customer Technical Support Personnel:
+
+<TABLE>
+<CAPTION>
+RECEIPT OF REQUEST   TYPE OF   TARGET RESPONSE     TARGET FIX TIME AND REPORTING
+                     REQUEST   TIME FROM RECEIPT
+<S>                  <C>       <C>                 <C>
+[*]                  [*]       [*]                 [*]
+
+[*]                  [*]       [*]                 [*]
+
+[*]                  [*]       [*]                 [*]
+</TABLE>
+
+      (c)   In the event Inktomi does not respond to Customer within the target
+            response time from email receipt set forth above, then Customer may
+            contact the following Inktomi executive escalation personnel in
+            order:
+
+            Darryl Rosen           -              Liason
+
+            Steve Crusenberry      -              Search Engine Technical
+                                                  Operations
+
+            Troy Toman             -              Director of Partner Services
+
+            Dick Pierce            -              Vice President Marketing
+
+            David Peter Schmidt    -              CEO
+
+      (c)   All problems reported by customer will be given a "fix by" date
+            estimate by Inktomi as to when the problem will be resolved and
+            deployed (if deployment is required).
+
+      (d)   Customer will be given access to the Inktomi problem tracking system
+            and defect (bug) tracking system for all problems and bugs that
+            affect Customer. These systems will be monitored by Inktomi [*].
+
+
+* Certain information on this page has been omitted and filed separately with
+the Commission. Confidential treatment has been requested with respect to the
+omitted portions.
+
+
+                                      S1-2
+<PAGE>
+      (e)   Inktomi and Exodus will monitor the search cluster and the leased
+            line and will provide a status to Customer on demand. Inktomi will
+            provide a mechanism that alerts the Customer (via a pager and email)
+            within [*] seconds of any partial or complete outages.
+
+      (f)   Inktomi will notify Customer within [*] minutes (via an alert page
+            and email) of the FTP Site, site search feed & crawl process, crawl
+            reports, and other related processes becoming inoperable. Customer
+            will use Inktomi web support tracking system to report problems with
+            these services when discovered by Customer.
+
+      (g)   Inktomi will provide Customer with [*] hours advance notice of
+            scheduled maintenance outage and will maintain published scheduled
+            maintenance windows.
+
+      (h)   Inktomi will provide MS with [*]-hour turn-around in removing
+            domains, which clone, spam, hijack or misappropriate MS URLs, with a
+            goal of [*]-hour turn-around.
+
+5.    Periodic Reviews and Upgrades
+
+      (a)   Inktomi will arrange and hold weekly status calls and quarterly
+            operations reviews with Customer.
+
+      (b)   Customer will be given the opportunity to perform early review and
+            provide comment on Inktomi's search roadmap.
+
+      (c)   Customer will be given access to Inktomi's detailed feature lists.
+            Inktomi will make commercially reasonable efforts to work with
+            Customer to launch new product releases, enhancements, and fixes of
+            the Inktomi Technology with minimal disruption to Customer. Such
+            efforts may include the review of proposed features, changes in
+            search operations, and proposed test plans.
+
+      (d)   Inktomi will provide a minimum of [*] days notice to Customer of any
+            upgrade or new release of the Services. Any change which could
+            potentially impact the Customer's Site Search service must be
+            approved by Customer prior to such change occurring except for
+            critical bug fixes or activity required of Inktomi to meet its
+            obligations under this Agreement.
+
+6.    Test Support
+
+      (a)   Inktomi will provide test access to Customer for any new cluster or
+            software that Inktomi plans to use for serving Customer's queries.
+            Testing procedures will be mutually agreed to by the parties and
+            will be designed to replicate expected traffic conditions. Customer
+            will not incur any per query charges for performing these queries.
+
+      (b)   Customer may periodically run higher than normal load testing on
+            standard search clusters during non-peak hours with Inktomi's prior
+            consent. Specific test parameters, including load and timing, will
+            be mutually agreed to by the parties on a per event basis. Customer
+            will not incur any per query charges for performing these queries.
+
+      (c)   Routine test queries - Inktomi will permit Customer to run routine
+            non-high load stress tests [*] against the main index at any time
+            without prior approval. Customer will incur per query charges in the
+            event these routine test queries exceed [*]% of total monthly
+            queries.
+
+      (d)   Inktomi will provide Customer with a separate client ID to track
+            test queries performed under 6 (a) and (b) above.
+
+      (e)   Customer may request engineering versions of search code which can
+            be tested against the test search cluster.
+
+
+* Certain information on this page has been omitted and filed separately with
+the Commission. Confidential treatment has been requested with respect to the
+omitted portions.
+
+
+                                      S1-3
+<PAGE>
+7.    General Reporting
+
+      (a)   Inktomi will provide weekly status reports that include information
+            regarding crawl rates, service uptime, and operations problem
+            summaries including time, duration, and description of problem.
+
+
+
+
+
+                                      S1-4
+<PAGE>
+                                   SCHEDULE 2
+                                     TO THE
+                            PORTAL SERVICES AGREEMENT
+
+                                  SERVICE FEES
+
+       1. Site Search Information Service Fee. Customer shall pay Inktomi a base
+information services fee of $[*] per year for provisioning of the Site Search
+Services as set forth in Exhibit A-2. For the first year under the Agreement,
+the base information services fee shall be paid as follows: twelve (12) equal
+monthly installments on the last day of each month. For subsequent years, the
+base information service fee shall be paid in equal monthly installments on the
+last day of each month.
+
+       2. Supplementary Site Search Information Service Fee. In addition to the
+fees set forth above, Customer shall pay Inktomi a Supplementary Site Search
+Information Service Fee of $[*] annually for the failover solution provided as
+part of the Site Search Services as set forth in Exhibit A-2. For the first year
+under the Agreement, the base Supplemental Site Search Information Services Fee
+shall be paid as follows: twelve (12) equal monthly installments on the last day
+of each month. For subsequent years the Supplemental Site Search Information
+Services Fee shall be invoiced in equal monthly installments on the last day of
+each month.
+
+       3. Site Search Capacity Expansion Fee. In addition to the fees set forth
+above, if Customer explicitly requests database capacity more than [*] Web pages
+for its Site Search Services, then Customer shall pay Inktomi a capacity
+expansion fee of $[*] per year for each additional [*] Web pages. The Capacity
+Expansion Fee shall be added to and paid as part of the Site Search Information
+Services Fee set forth above.
+
+       4. Per Search Query Service Fee. In addition to the information service
+fees set forth above, Customer shall pay Inktomi monthly per-query service fees
+based on the total number of Results Sets served for General Search Services and
+Site Search Services on a monthly basis. These fees equal:
+
+      (A)   the total number of Results Sets served during the month divided by
+            the total number of days in such month ("Average Daily Results Sets
+            Served"),
+
+      (B)   multiplied and added in accordance with the following graduated
+            schedule
+
+            For the first [*] million Average Daily
+              Results Sets Served                   $[*] per Results Sets Served
+
+            For the next [*] million Average Daily
+              Results Sets Served                   $[*] per Results Sets Served
+
+            For any additional Average Daily
+              Results Sets Served                   $[*] per Results Sets Served
+
+
+      (C)   multiplied by the total number of days in such month.
+
+      (D)   multiplied by [*]% to reflect the [*]% test query volume specified
+            in 6.(c) of Schedule 1 to the Portal Services Agreement.
+
+
+* Certain information on this page has been omitted and filed separately with
+the Commission. Confidential treatment has been requested with respect to the
+omitted portions.
+
+
+                                      S2-1
+<PAGE>
+      3. All Services. The service fees set forth above are for General Search
+Services and Site Search Services provided by Inktomi as such Services are
+contemplated in the applicable Exhibit. If Inktomi and Customer mutually agree
+to modify any of the Services, additional charges may apply. Monthly service
+fees shall be paid within thirty (30) calendar days of receiving an invoice from
+Inktomi as provided in the Portal Service Agreement.
+
+      The annual minimum Per Search Query Service Fees payable by Customer shall
+be $[*] in the first year of the Term, $[*] in the second year of the Term, and
+$[*] in the third year of the Term.
+
+       4. Notwithstanding any other provision of this Agreement, Customer shall
+have no obligation to use the Services, or to limit the frequency or number of
+search results on any given Web page in the Site[s]. Inktomi acknowledges and
+agrees that it is not entitled to any share in any revenue derived by Customer
+from the Site[s], regardless of how derived, and that except as may be expressly
+provided otherwise in this Agreement (or by subsequent mutual agreement of the
+parties) the service fees payable (if any) under this Schedule will be the only
+payments required to be made to Inktomi for or in consideration of the rights
+granted to Customer hereunder, the Services and all results and proceeds
+thereof. Nothing in this Agreement will be construed as restricting Customer's
+ability to acquire, license, develop, manufacture, use or distribute for itself,
+or have others acquire, license, develop, manufacture, use or distribute for,
+similar technology performing the same or similar functions as the technology
+contemplated by this Agreement, or to market, use and distribute such similar
+technology in addition to, or in lieu of, the technology contemplated by this
+Agreement.
+
+
+* Certain information on this page has been omitted and filed separately with
+the Commission. Confidential treatment has been requested with respect to the
+omitted portions.
+
+                                      S2-2
+<PAGE>
+                                   EXHIBIT A-2
+                                     TO THE
+                            PORTAL SERVICES AGREEMENT
+                              SITE SEARCH SERVICES
+
+This Exhibit to the Portal Services Agreement (this "Exhibit"), in conjunction
+with the terms of the Portal Services Agreement (the "Agreement") shall
+constitute the terms and conditions pursuant to which Inktomi shall provide Site
+Search Services to the Site set forth above:
+
+      1. Definitions. In addition to any terms defined in this Exhibit, the
+following terms shall have the meanings set forth below. Any other terms not
+otherwise defined in this Exhibit shall have the meanings prescribed to them in
+the Agreement.
+
+            1.1. "Inktomi Data Protocol" means the written specification on how
+an Interface communicates and interacts with the Inktomi Search Engine.
+
+            1.2. "Inktomi Search Engine" means Inktomi's current Search Engine
+as of the Effective Date. The Inktomi Search Engine does not and will not
+include features, options and modules developed and customized specifically for
+third parties and provided to such third parties on an exclusive basis, or
+features, options, modules and future products which Inktomi licenses or
+provides separately; however, the Inktomi Search Engine will include all
+upgrades, updates, successor versions, replacement versions and new releases
+which Inktomi makes generally available at no additional fees.
+
+            1.3. "Inktomi Technology" means the Inktomi Search Engine, the
+Inktomi Data Protocol, the Interface Construction Tools and all other computer
+software, technology and/or documentation which is supplied by Inktomi for use
+in or in connection with delivery of the Site Search Service, including without
+limitation all source code and object code therefor and all algorithms, ideas
+and Intellectual Property Rights therein, including upgrades, updates, successor
+versions, replacement versions and new releases thereto.
+
+            1.4. "Interface" means the editorial and graphical content and
+design of the Web pages served to end users of the Site, including without
+limitation all Search Pages, Results Pages, instruction pages, frequently asked
+questions pages and any Site end user terms and guidelines.
+
+            1.5. "Interface Construction Tools" means all software tools, if
+any, in object code form, provided by Inktomi to assist Customer to build the
+Interface to the Inktomi Search Engine, including without limitation Inktomi's
+application server currently known as Forge.
+
+            1.6. "Site Content Database" is a database maintained as part of the
+Site Search Services described on Attachment A to this Exhibit.
+
+            1.7. "Site Search Services" means the Internet Search Engine
+services and related support services to be provided by Inktomi for Customer
+under this Exhibit, as more fully described on Attachment A to this Exhibit and
+Schedule 1 to the Agreement.
+
+
+
+                                      A2-1
+<PAGE>
+            1.8. "Results Pages" means all Web pages displaying search results
+presented to end-users directly as a result of accessing the query mechanisms of
+the Inktomi Search Engine or indirectly through a cache controlled or influenced
+by Customer.
+
+            1.9 "Results Set" means a set of results consisting of between zero
+and one hundred unique records presented (either directly from the Inktomi
+Search Engine or indirectly through a cache controlled or influenced by
+Customer) in response to a search query.
+
+            1.10 "Search Engine" means computer software which crawls the
+Internet, downloads and analyzes text and other data, sorts and organizes the
+data, creates an index of accessible data, and, after receiving a particular
+search request (in the form of a word query), locates material accessible in the
+database, and presents the results of the search.
+
+            1.10 "Search Pages" means all Web pages which enable end users of
+the Site to initiate and send search queries to the Inktomi Search Engine.
+
+            1.11 "Inktomi Search Result Data" means the proprietary search
+result data (consisting of URLs, corresponding Web site descriptions, and
+corresponding numerical relevancy rankings among the individual search results
+provided by Inktomi) associated with specific queries that is provided by
+Inktomi to Customer for serving and display to end users of the Customer
+Services as part of the search results delivered in response to such end users'
+search queries.
+
+            1.12 Microsoft Query Default State - [*]
+
+      2. Provision of Site Search Services; Site Implementation.
+
+            2.1. Site Search Services and Site Implementation. Subject to the
+terms and conditions of this Exhibit and the Agreement, Inktomi shall provide
+the Site Search Services to Customer for use in the Site or in other Customer
+applications, such services to be provided in accordance with the functionality
+specifications and performance criteria specified on Attachment A to this
+Exhibit and Schedule 1 to the Agreement. Inktomi, at its own expense, shall
+provide all data transmission capacity (bandwidth), disk storage, server
+capacity and other hardware and software required to run the Inktomi Search
+Engine and maintain the Site Content Database. Customer, at its election and at
+its own expense, shall create one or more Interface(s) to the Inktomi Search
+Engine for the Site, and shall provide all disk storage, server capacity and
+other hardware and software required to run and maintain the Site and the
+Interface(s), and to serve advertisements on the Interface(s). Inktomi shall
+provide reasonable assistance (through telephone, e-mail, the Web, or fax) to
+Customer during regular business hours regarding development of the Interface
+and integration of the same with the Inktomi Search Engine. Customer, at its own
+expense, shall provide all data transmission capacity (bandwidth) required to
+connect to and receive information from the Inktomi Search Engine. Customer may
+only utilize the Site Search Services
+
+
+* Certain information on this page has been omitted and filed separately with
+the Commission. Confidential treatment has been requested with respect to the
+omitted portions.
+
+                                      A2-2
+<PAGE>
+in conjunction with search services provided by Customer to end users of the
+Site[s] or as otherwise permitted in this Agreement. Customer may cache Results
+Sets and other information obtained from the Inktomi databases; provided, that
+if Customer wishes to begin such caching, Inktomi and Customer will first agree
+on appropriate Customer reporting requirements to ensure proper accounting of
+payments hereunder.
+
+            2.2. Test Cluster. During the development period for the Interface,
+Customer shall only have access through the Inktomi Data Protocol to a
+non-production version of the Inktomi Search Engine (the "Test Cluster"). Upon
+completion of the Interface and all desired testing against the Test Cluster,
+Customer shall present the Interface to Inktomi for review and testing against
+the production version of the Inktomi Search Engine. Inktomi shall promptly
+notify Customer of any problems or issues discovered by Inktomi regarding the
+Interface. Once cleared by Inktomi, Inktomi shall provide access to Customer to
+the production version of the Inktomi Search Engine. Customer may run reasonable
+tests against the Test Cluster and the production version of the Inktomi Search
+Engine, provided however that Customer may not conduct any load testing (prior
+to commercial launch of its search service) without the prior consent of
+Inktomi. There shall no service fee payable by Customer for searches run against
+the Test Cluster. Additional test support requirements for routine and
+non-routine testing are itemized in Schedule 1 of the Agreement.
+
+            2.3. Delivery of Materials. Promptly following execution of this
+Exhibit, Inktomi shall provide the Inktomi Data Protocol and the Interface
+Construction Tools to Customer, which Customer may use solely in strict
+compliance with the terms of Section 4.
+
+            2.4. Technical Support. Inktomi, at its own expense, shall provide
+technical support services to Customer regarding the operation of the Inktomi
+Search Engine and Site Search Services. Such support services will be provided
+as set forth on Schedule 1 of the Agreement.
+
+      3. Customer Obligations.
+
+            3.1. Technical Support. Except as set forth in Section 2.4 and
+Schedule 1 of the Agreement, Customer at its own expense shall provide all
+support including, without limitation, first level customer support services to
+end-users of the Site.
+
+
+      4. Intellectual Property Licenses/Ownership.
+
+            4.1. Inktomi Data Protocol. Inktomi grants to Customer a
+nontransferable, nonexclusive license during the Term (as defined below) to use
+the Inktomi Data Protocol and the Interface Construction Tools solely to create
+and maintain the Interface to the Inktomi Search Engine for the Site. The
+license granted hereunder shall include the right to use the Interface
+Construction Tools or to develop an Interface to the Inktomi Search Engine for
+use on the Sites.
+
+            4.2. Interface. As between Inktomi and Customer, Inktomi
+acknowledges that Customer owns all right, title and interest, including without
+limitation all Intellectual Property Rights, in and to the Interface (except for
+any software licensed by third parties to Customer and except for editorial
+content regarding the use and functionality of the Inktomi Search Engine
+provided by Inktomi to Customer for incorporation into the Site, which content
+shall be and remain Inktomi Technology), and that Inktomi shall not acquire any
+right, title or interest in or to the Interface.
+
+
+
+                                      A2-3
+<PAGE>
+            4.3 Inktomi Search Results Data. As between Customer and Inktomi, to
+the extent that the Inktomi Search Results Data consists of Microsoft URLs
+entirely, Inktomi acknowledges and agrees that Customer owns all right, title
+and interest in and to the Inktomi Search Result Data and any and all other data
+relating to or arising from use of the Site Search Services ("Other Data"),
+including without limitation any and all Intellectual Property Rights therein,
+and that Inktomi shall not acquire any right, title or interest in or to the
+Inktomi Search Result Data, except as expressly set forth in this Agreement.
+Except as may be required to fulfill the purpose of processing search queries
+and serving and displaying search results, Inktomi shall not use, reproduce,
+modify, adapt, prepare derivative works from, distribute, resell, provide or
+disclose to any third party any Inktomi Search Result Data or any Other Data,
+alone or in combination with other data, without the express prior written
+consent of Customer. As between Customer and Inktomi, to the extent that that
+the Inktomi Search Results Data consists in part or all of non-Microsoft URLs,
+Customer acknowledges and agrees that Inktomi owns all right, title and interest
+in and to the Inktomi Search Result Data, including without limitation any and
+all Intellectual Property Rights therein, and that Customer shall not acquire
+any right, title or interest in or to the Inktomi Search Result Data, except as
+expressly set forth in this Agreement, except that Inktomi hereby grants to
+Customer a worldwide, nontransferrable, nonsublicensable, nonexclusive license
+to use, reproduce, reformat, publicly perform, and publicly display such data
+for the limited purposes of (1) serving and displaying such data to end users of
+the Customer Services as part of the search results delivered in response to
+such end users' search queries, (2) for Customer's internal research and review
+and (3) in Customer's ad sales activities. Notwithstanding anything to the
+contrary, however, any data generated by operation of the Inktomi Search Engine
+in connection with the search services and collected by Inktomi may be used for
+internal research and review and marketing only and shall not be shared or
+otherwise disclosed to third parties in any manner except in aggregated form
+only.
+
+      5. Payments.
+
+            5.1. Service Fees. Customer shall pay Inktomi service fees for the
+Site Search Services in the amount and on terms specified on Schedule 2 of the
+Agreement.
+
+            5.2 Records. For purposes of fulfilling its obligations under this
+Section 5.2, Customer shall keep complete and accurate records as set forth in
+Section 5 of the Agreement.
+
+
+      IN WITNESS WHEREOF, the parties have caused this Exhibit to the Agreement
+to be signed by their duly authorized representatives.
+
+MICROSOFT CORPORATION                     INKTOMI CORPORATION
+
+By:                                       By:
+   ---------------------------------         ---------------------------------
+
+Name:                                     Name:
+     -------------------------------           -------------------------------
+
+Title:                                    Title:
+      ------------------------------            ------------------------------
+
+
+
+                                      A2-4
+<PAGE>
+                                  ATTACHMENT A
+                                       TO
+                                   EXHIBIT A-2
+                              SITE SEARCH SERVICES
+
+Site Search Services:
+
+      Inktomi will use the Inktomi Search Engine to crawl or otherwise access
+the Site Content Databases, download and analyze text and other data, sort and
+organize the data, create an index of accessible data, and, after receiving a
+particular search request from an end user (in the form of a word query), locate
+material accessible in the Site Content Database and present the results of the
+search to the end user. The functionality and performance criteria applicable to
+such services are as follows:
+
+      1. Site Content Database Capacity. Inktomi will provision sufficient
+hardware, software and other equipment that can provide query access to a Site
+Content Database containing up to [*] Web pages. Customer may request
+additional database capacity (i.e. query access to a Site Content Database
+containing more Web pages), provided however that Customer shall pay the
+Capacity Expansion Fee set forth on Schedule 2. Inktomi will upgrade capacity
+within thirty (30) days of notification by Customer.
+
+      2. Crawling and Indexing. Inktomi will use reasonable commercial efforts
+to crawl or otherwise access and index up to [*] new and updated pages per hour
+associated with the Site Content Databases. The Web pages included in the Site
+Content Database shall be compiled by crawling URL lists to be added, deleted or
+updated provided by Customer. The URL list will follow the URL List File Format
+below. Inktomi will provide the same level of service for URLs to be deleted as
+for URLs to be added. Specific requirements shall be as set forth below. Such
+requirements may change from time to time upon mutual agreement of the parties.
+
+            a. [*]
+
+
+            b. [*]
+
+
+            c. [*]
+
+
+            d. File Types
+
+                  [*]
+
+
+* Certain information on this page has been omitted and filed separately with
+the Commission. Confidential treatment has been requested with respect to the
+omitted portions.
+
+                                     AA2-1
+<PAGE>
+            e. [*]
+
+            f. [*]
+
+
+            g. [*]
+
+      3. Queries. Inktomi will provision sufficient hardware, software and other
+equipment to service up to [*] queries per day from Customer. Specific query
+functionality shall be as set forth below.
+
+            [*]
+
+
+      4. Uptime/Downtime. The Inktomi Search Engine running the Site Search
+Services will have a minimum uptime operation of [*]% (downtime of [*]%) over
+monthly windows with a goal of
+
+
+*Certain information on this page has been omitted and filed separately with
+ the Commission. Confidential treatment has been requested with respect to
+ the omitted portions.
+
+                                     AA2-2
+<PAGE>
+[*]% uptime. Downtime shall mean any one minute interval in which the Inktomi
+Search Engine is unable to process search requests.
+
+      5. Response Time. For any two word query (Boolean And) and additionally
+restricted by DOMAIN:<site>, the average time to return results to the Yukon
+client is no more than [*] seconds on average and is less than [*] second for
+[*]% of the queries. The average overall query response time goal shall be less
+than or equal to [*] milliseconds and the average maximum response time goal
+shall not exceed [*] milliseconds. The query response time goals shall be based
+upon the Microsoft Default Query State.
+
+      6.    Document Tagging.  Microsoft will send Inktomi on a weekly basis
+a list of URLs to be "tagged" allowing these URLs to be found when searching
+on specific attributes.  Specific requirement for this have been outlined by
+Inktomi in their [*].
+
+            [*]
+
+
+
+            Additional requirements are as follows:
+
+            [*]
+
+                  [*]
+
+*Certain information on this page has been omitted and filed separately with
+ the Commission. Confidential treatment has been requested with respect to
+ the omitted portions.
+
+
+
+
+                                     AA2-3
+<PAGE>
+                  [*]
+
+
+      7. Reports
+
+      [*]
+
+
+* Certain information on this page has been omitted and filed separately with
+  the Commission. Confidential treatment has been requested with respect to the
+  omitted portions.
+
+
+
+
+
+                                     AA2-4
+<PAGE>
+Production Schedule
+
+      Customer will begin work on constructing the Interface and identifying the
+Site Content Database and the URL List, and Inktomi will begin work on tuning
+its Search Engine to provide the services set forth herein promptly upon
+execution of this Agreement. Both parties will use commercially reasonable
+efforts so that the Site Search Services are available to Customer for use in
+the Site are available within ninety (90) days following the Effective Date.
+
+
+
+
+
+
+
+                                     AA2-5
+<PAGE>
+                                  AMENDMENT ONE
+                                     TO THE
+                            PORTAL SERVICES AGREEMENT
+                                     BETWEEN
+                         INKTOMI CORPORATION ("INKTOMI")
+                                       AND
+                       MICROSOFT CORPORATION ("CUSTOMER")
+
+      WHEREAS Inktomi and Customer entered into the Portal Services Agreement
+dated effective October 28, 1999 and any Exhibits, Attachments, and Schedules
+thereto ("the Agreement");
+
+      WHEREAS Inktomi and Customer desire to amend and clarify the Agreement;
+
+      NOW, THEREFORE, Inktomi and Customer agree to the following with respect
+to the Agreement:
+
+
+      1) Delete Section 4(B) of Schedule 2 and replace with the following:
+
+      "(B) multiplied and added m accordance with the following graduated
+schedule
+
+      For the first *
+         Average Daily Results Sets Served      $* per Results Sets Served
+      For the next *
+         Average Daily Results Sets Served      $* per Results Sets Served
+      For the next *
+         Average Daily Results Sets Served      $* per Results Sets Served
+      For the next * and all subsequent
+         Average Daily Results Sets Served      $* per Results Sets Served"
+
+      2) Except as provided above, the terms and conditions of the Agreement
+remain unchanged.
+
+      IN WITNESS WHEREOF, the parties have caused this Amendment to the
+Agreement to be duly executed, effective as of this 1st day of June, 2000.
+
+INKTOMI CORPORATION                       MICROSOFT CORPORATION
+
+By: /s/ David Ponzini                     By: /s/ Bill Bliss
+    --------------------------------          --------------------------------
+
+Name: David Ponzini                       Name: Bill Bliss
+      ------------------------------            ------------------------------
+
+Title: Director of Finance                Title: General Manager - MSN Search
+       -----------------------------             -----------------------------
+
+* Certain information on this page has been omitted and filed separately with
+  the Commission. Confidential Treatment has been requested with respect to the
+  omitted portions.
+
+<PAGE>
+                              AMENDMENT NUMBER TWO
+                                     TO THE
+                            PORTAL SERVICES AGREEMENT
+                                     BETWEEN
+                              MICROSOFT CORPORATION
+                                       AND
+                               INKTOMI CORPORATION
+
+      This document (the "Amendment Two") shall serve to amend the Portal
+Services Agreement and any Exhibits, Attachments, Addenda, or Schedules thereto
+(the "Agreement") between Microsoft Corporation ("Customer") and Inktomi
+Corporation ("Inktomi") dated October 28, 1999 (the "Agreement"),
+
+                                    RECITALS
+
+      WHEREAS, Customer and Inktomi desire to amend and clarify the Agreement so
+as to enable Customer to display certain Inktomi URLs on the Customer Site;
+
+      NOW, THEREFORE, Customer and Inktomi agree to amend the Agreement as
+follows:
+
+      1. The following definitions are added to Section 1 of the Agreement:
+
+            (a) "Monetized URL" means all URLs supplied to Inktomi by an Inktomi
+Paid Inclusion Customer. Such URLs shall pertain to web sites that are publicly
+available through the Internet and shall have a cost-per-Click Through revenue
+opportunity for Customer.
+
+            (b) "Inktomi Paid Inclusion Customer" means an Inktomi customer
+whose URLs are included in the web search results served by Inktomi.
+
+            (c) "Paid Inclusion Display" means the display of Monetized URLs by
+Inktomi on Customer Site.
+
+            (d) "Redirect URL" means the URL supplied by Inktomi to Customer to
+track click-through traffic.
+
+            (e) "Paid Inclusion Program" means that program provided by Inktomi
+to Inktomi Paid Inclusion Customers which gives such customers the opportunity
+to display their URLs on the Customer Site for which Inktomi shall receive per
+Click Through revenue, a portion of which Inktomi shall remit to Customer
+pursuant to this Amendment.
+
+            (f) "Click Through" means an instance in which a third party
+Internet user navigates to a page of the Inktomi Paid Inclusion Customer's site
+by clicking on a Monetized URL on the Customer Site.
+<PAGE>
+            (g) "Revenue" shall mean gross revenue due to Inktomi from Inktomi
+Paid Inclusion Customers from Click Throughs.
+
+      2. The parties acknowledge and agree that Inktomi may be permitted to
+display Monetized URLs on the Customer Site in the manner described on Exhibit
+B. Customer may, but is not obligated to, display Inktomi's Monetized URLs on
+The Customer Site. This amendment is for the Customer U.S. Site and Customer
+international markets as defined by Customer.
+
+      3. The following provisions are added to Schedule 2 of the Agreement:
+
+            (a) Paid Inclusion Program Fees. Inktomi shall pay Customer revenue
+from Click Throughs in accordance with Exhibit B, which is hereby added and
+incorporated into the Agreement.
+
+      4. The Inktomi warranties specified in Section 4.1 and the Inktomi
+indemnification obligations specified in Section 7.1 of the Agreement shall
+apply to the Inktomi Paid Inclusion Products.
+
+      5. The Term of this Amendment shall be for the duration of the Agreement
+or until the Agreement is otherwise terminated. Customer may (i) terminate this
+Amendment at any time, without cause, upon sixty (60) days written notice to
+Inktomi; or (ii) terminate this Amendment at any time, for legal or Public
+Relations concern, upon five (5) days prior written notice to Inktomi.
+
+      Other than the changes above, the terms and conditions of the Agreement
+remain unchanged and in full force and effect.
+
+      The effective date of this Amendment shall be the later of the two
+signature dates below.
+
+MICROSOFT CORPORATION                     INKTOMI CORPORATION
+
+By: /s/ John Krass                        By: /s/ David Ponzini
+    --------------------------------          --------------------------------
+
+Name: John Krass                          Name: David Ponzini
+      ------------------------------            ------------------------------
+
+Title: MSN Search - Business Manager      Title: Director of Finance
+       -----------------------------             -----------------------------
+
+Date: 1/17/01                             Date: 1/17/01
+      ------------------------------            ------------------------------
+
+
+
+                                                                             -2-
+<PAGE>
+                                    EXHIBIT B
+
+      1. CUSTOMER'S OBLIGATIONS
+
+            1.1 If Customer chooses to display Monetized URLs on the Customer
+Site, Customer shall control the manner to which such URLs are displayed,
+including any placement (weighting or boosting) of such. If the ranking
+algorithm used by Inktomi includes a factor for the URL being "monetized," then
+Customer shall have the ability to control such ranking algorithm, including the
+ability to change such or turn it off.
+
+            1.2 Customer shall use the Redirect URL in conjunction with all
+Monetized URLs.
+
+      2. INKTOMI OBLIGATIONS
+
+            2.1 Inktomi shall provide to Customer a display Monetized URL (which
+is the destination URL seen by the end user) and a Redirect URL (which directs
+the end user through an Inktomi tracking server and then to the displayed URL)
+in a format acceptable to Customer.
+
+            2.2 Subject to applicable laws, regulations, and other
+authorizations, Inktomi shall provide Customer with statistical information for
+the period in which a Monetized URL was displayed on Customer Site, in a format
+acceptable to customer.
+
+            2.3 Inktomi is solely responsible for all sales, marketing, billing
+and client support of the Inktomi Paid Inclusion Program.
+
+            2.4 Upon Customer's request, within three (3) days Inktomi shall
+remove all Monetized URLs and Redirect URLs from the search results Inktomi
+delivers to Customer for publication on the Customer Site.
+
+            2.5 Inktomi shall not use Customer's trademarks or logos on any
+materials or data, either prepared by Inktomi or any third parties, without the
+prior approval of Customer.
+
+            2.6 Inktomi shall provide Inktomi Paid Inclusion Customers with Paid
+Inclusion Program aggregate data only. Inktomi shall not provide Inktomi Paid
+Inclusion Customers with Paid Inclusion Program specific data (i.e. Inktomi
+shall provide number of Click Throughs per customer link on a whole counting all
+Inktomi Paid Inclusion Program Customers, but shall not provide the number of
+Click Throughs specifically coming from Customer).
+
+            2.7 In the event that Inktomi's Redirect URL service is down,
+Inktomi will modify its Results in such a way that the outage is transparent to
+Customer and Customer's users within fifteen (15) minutes of the outage by
+modifying the URLs to be non-redirected URLs.
+<PAGE>
+      3. FEES
+
+            3.1 Each quarter, Inktomi will provide Customer with a reporting on
+the number of Click Throughs for that quarter in a format acceptable to
+Customer.
+
+            3.2 Each quarter, Inktomi shall pay Customer: (i) * per cent (*%) of
+booked gross Revenue, up to $*; and (ii) * percent (*%) of booked gross Revenue
+over $*. Payments shall be due within thirty (30) days of the end of each
+quarter.
+
+* Certain information on this page has been omitted and filed separately with
+  the Commission. Confidential Treatment has been requested with respect to the
+  omitted portions.
+
+
+
+
+
+
+                                                                             -2-
+<PAGE>
+                             AMENDMENT NUMBER THREE
+                                     TO THE
+                            PORTAL SERVICES AGREEMENT
+                                     BETWEEN
+                              MICROSOFT CORPORATION
+                                       AND
+                               INKTOMI CORPORATION
+
+      This Amendment Number Three ("Amendment Three") amends that certain Portal
+Services Agreement and any exhibits, attachments, addenda, and schedules
+thereto, between Microsoft Corporation ("Customer") and Inktomi Corporation
+("Inktomi") dated as of October 28, 1999 (the "Agreement").
+
+                                    RECITALS
+
+      WHEREAS, Customer and Inktomi desire to amend the Agreement in order to
+revise pricing models and service fees for certain Services to be provided by
+Inktomi to Customer thereunder;
+
+      NOW, THEREFORE, in consideration of the mutual covenants contained herein,
+and for such other good and valuable consideration, the sufficiency of which is
+hereby acknowledged by the parties hereto, Customer and Inktomi agree to amend
+the Agreement as follows
+
+                                    AMENDMENT
+
+1.    All capitalized terms used and not otherwise defined herein, shall have
+      the meaning given to such terms in the Agreement.
+
+2.    Delete Section 4(B) of Schedule 2 and replace with the following.
+
+      "(B) multiplied and added in accordance with the following graduated
+schedule
+
+<TABLE>
+<S>                                                <C>
+      For The first * Average Daily
+            Results Sets Served                    $* per Results Sets Served
+      For the next * Average Daily
+            Results Sets Served                    $* per Results Sets Served
+      For the next * Average Daily
+            Results Sets Served                    $* per Results Sets Served
+      For the next * Average Daily
+            Results Sets Served                    $* per Results Sets Served
+      For the next * Average Daily
+            Results Sets Served                    $* per Results Sets Served
+      For all subsequent Average Daily
+            Results Sets Served over *             $* per Results Sets Served"
+</TABLE>
+
+3.    Customer and Inktomi further agree that the Site Search Information
+      Service Fee, described in Section 1 of Schedule 2 to the Agreement, the
+      Supplementary Site Search Information
+
+
+* Certain information on this page has been omitted and filed separately with
+  the Commission. Confidential Treatment has been requested with respect to the
+  omitted portions.
+
+
+<PAGE>
+      Service Fee, described in Section 2 of Schedule 2 of the Agreement, and
+      the Site Search Capacity Expansion Fee, described in Section 3 of Schedule
+      2 of the Agreement, shall each be reduced to [*].
+
+4.    Customer shall have the option of receiving news content and search
+      services through Inktomi's "Moreover News Feed" service (the "Moreover
+      News Feed Service"), or such other successor service as Inktomi may
+      provide from time to time. In the event Customer elects to receive the
+      Moreover News Feed Service, Customer shall so notify Inktomi in writing.
+      [*]
+
+5.    With the exception of the modifications above, the terms and conditions of
+      the agreement shall remain unchanged and in full force and effect.
+
+6.    The effective date of this Amendment Three (the "Effective Date") shall be
+      May 1, 2001.
+
+      IN WITNESS WHEREOF, Customer and Inktomi have caused their respective duly
+authorized representatives to execute this Amendment Three as of the Effective
+Date.
+
+MICROSOFT CORPORATION                     INKTOMI CORPORATION
+
+By: /s/ Bill Bliss                        By: /s/ David Ponzini
+    --------------------------------          ----------------------------------
+
+Name: Bill Bliss                          Name: David Ponzini
+      ------------------------------            --------------------------------
+
+Title: General Manager - MSN Search       Title: VP, Finance
+       -----------------------------             -------------------------------
+
+Date:  5/01/01                            Date: 5/21/01
+      ------------------------------            --------------------------------
+
+
+[*] Certain information on this page has been omitted and filed separately with
+    the Commission. Confidential Treatment has been requested with respect to
+    the omitted portions.
+
+                                                                             -2-
+<PAGE>
+                                 AMENDMENT FOUR
+                                       TO
+                            PORTAL SERVICES AGREEMENT
+                                 BY AND BETWEEN
+                               INKTOMI CORPORATION
+                                       AND
+                              MICROSOFT CORPORATION
+
+      THIS AMENDMENT FOUR TO PORTAL SERVICES AGREEMENT (this "Amendment") is
+made and entered into as of this 13th day of June, 2001 (the "Effective Date")
+by and between Inktomi Corporation, a Delaware corporation, with its principal
+place of business located at 4100 East Third Avenue, Foster City, California
+94404 ("Inktomi") and Microsoft Corporation, a Washington corporation with its
+principal place of business located at One Microsoft Way, Redmond, Washington,
+98052 ("Customer").
+
+                                    RECITALS
+
+A.    Customer and Inktomi made and entered into that certain Portal Services
+      Agreement dated as of October 28, 1999, as amended from time to time (the
+      "Agreement").
+
+B.    Customer and Inktomi wish to amend the Agreement to allow for the
+      provision of additional services and to memorialize the parties
+      understandings respecting fees and charges applicable for such services,
+      all as set forth in this Amendment.
+
+                                    AGREEMENT
+
+      NOW, THEREFORE, in consideration of the foregoing, the mutual promises set
+forth herein, and for such other good and valuable consideration, the
+sufficiency of which is hereby acknowledged by the parties, Customer and Inktomi
+do hereby amend the Agreement as follows.
+
+1.    Definitions. All capitalized terms, not otherwise defined herein, shall
+      have the meaning given to such terms in the Agreement.
+
+2.    Additional Language Support.
+
+
+      2.1   Additional Language Support. That portion of Amendment A to Exhibit
+            A-1 of the Agreement, entitled "LINGUISTICS & INTERNATIONAL
+            SUPPORT"`, shall be deleted in its entirety and replaced with the
+            following:
+
+            *
+
+
+*Certain information on this page has been omitted and filed separately with the
+ Commission. Confidential Treatment has been requested with respect to the
+ omitted portions.
+<PAGE>
+      2.2   [*]
+
+3.    Fees, Charges and Other Compensation. Customer shall pay for the
+      additional services and language support set forth in this Amendment
+      pursuant to the terms, and subject to the conditions, of Schedule 2 of the
+      Agreement, as amended by that certain Amendment Number Three to the
+      Agreement, made and entered into try and between Inktomi and Customer,
+      with an effective date of May 1, 2003.
+
+4.    Miscellaneous.
+
+      4.1   Complete Understanding. This Agreement, including all Exhibits or
+            attachments attached hereto, which are hereby incorporated herein by
+            this reference, constitutes the final, complete and exclusive
+            agreement between the parties with respect to the subject matter
+            hereof, and supersedes any prior or contemporaneous agreement. A
+            facsimile of a signed copy of this Amendment received from either
+            party may be relied upon as an original.
+
+      4.2   No Other Modifications. Except as expressly modified pursuant to
+            this Amendment, all the provisions of the Agreement remain in full
+            force and effect. No other modification, amendment or waiver of any
+            provision of the Agreement shall be effective unless in writing and
+            signed by an officer of Inktomi and an authorized representative of
+            Customer.
+
+
+[*] Certain information on this page has been omitted and filed separately with
+    the Commission. Confidential Treatment has been requested with respect to
+    the omitted portions.
+
+                                                                             -2-
+<PAGE>
+      IN WITNESS WHEREOF, Customer and Inktomi have caused their respective duly
+authorized representatives to execute this Amendment as of the Effective Date.
+
+MICROSOFT CORPORATION                     INKTOMI CORPORATION
+
+
+
+By: /s/ Bill Bliss                        By: /s/ David Ponzini
+    --------------------------------          ----------------------------------
+
+Name: Bill Bliss                          Name: David Ponzini
+      ------------------------------            --------------------------------
+
+Title: General Manager                    Title: VP, Finance
+       -----------------------------             -------------------------------
+
+Date: 6-13-01                             Date: 6-10-01
+      ------------------------------            --------------------------------
+
+
+
+
+                                                                             -3-
+<PAGE>
+                                    EXHIBIT C
+                                       TO
+                         INFORMATION SERVICES AGREEMENT
+
+Chinese Search Services
+
+      Inktomi shall use the Inktomi Search Engine: at its own editorial
+discretion to crawl the Internet, download and analyze text and other data, sort
+and organize the data, create an index of accessible data, and, after receiving
+a particular search request from an end user (in the form of a word query),
+locate material accessible in the Inktomi Chinese Search Database, and present
+the results of the search to the end user through Customer's Asian Site(s).
+Inktomi shall serve the end user search queries out of one (1) or more of its
+search engine data centers at Inktomi's discretion. The functionality
+specifications and performance criteria applicable to such service:, are as
+follows:
+
+      Functionality Specifications:
+
+      Inktomi shall operate the Inktomi Search Engine so as to enable end users
+of the Site to run queries against the Chinese Search Database with the
+following functionality:
+
+      *
+
+
+      Chinese Search Performance Criteria:
+
+      -     Size of Database - Minimum of at least * documents in the Chinese
+            index.
+
+      -     Database Freshness - Objective is a crawl every thirty days for
+            documents in .cn, .hk, and .tw domains, as wall as documents in
+            traditional and simplified Chinese. Freshness may vary depending
+            upon operational circumstances.
+
+      -     Uptime/Downtime - Minimum *% uptime (*% downtime) over monthly
+            windows with a goal of *% uptime. Downtime = any * minute period
+            in which Inktomi Search Engine processes no requests.
+
+      -     Query/Response Speed - Average speed * milliseconds.
+
+
+
+*Certain information on this page has been omitted and filed separately with the
+ Commission. Confidential Treatment has been requested with respect to the
+ omitted portions.
+
+                                                                             -4-
+<PAGE>
+      -     Additional Criteria not expressly mentioned above - Adherence to SLA
+            in current Customer Agreement.
+
+      Production Schedule
+
+      Both Parties shall use commercially reasonable efforts so that the Chinese
+Search Services are available to Customer far use in Customer's Asian Site(s)
+within thirty (30) days following the Effective Date of this Amendment.
+
+
+
+
+
+
+                                                                             -5-
+<PAGE>
+                              AMENDMENT NUMBER FIVE
+                                     TO THE
+                            PORTAL SERVICES AGREEMENT
+                                     BETWEEN
+                              MICROSOFT CORPORATION
+                                       AND
+                               INKTOMI CORPORATION
+
+      This Amendment Number Five To Portal Services Agreement ("Amendment Number
+Five") is made and entered into by and between Microsoft Corporation, a
+Washington corporation with its principal place of business located at One
+Microsoft Way, Redmond, Washington 98052 ("Customer") and Inktomi Corporation, a
+Delaware corporation with its principal place of business located at 4100 East
+Third Avenue, Foster City, California 94404 ("Inktomi") as of this ___ day of
+February, 2002 ("Amendment Effective Date").
+
+                                    RECITALS
+
+      WHEREAS, Customer and Inktomi desire to amend that certain Portal Services
+Agreement, made and entered into by and between Inktomi and Customer, dated as
+of October 28, 1999, as amended from time to time, (the "Agreement"), so as to
+revise pricing models and service fees for certain Services to be provided by
+Inktomi to Customer thereunder;
+
+      NOW, THEREFORE, in consideration of the mutual covenants contained herein,
+and for such other good and valuable consideration, the sufficiency of which is
+hereby acknowledged by the parties, Customer and Inktomi agree to amend the
+Agreement as follows:
+
+                                    AMENDMENT
+
+1.    All capitalized terms used and not otherwise defined herein, shall have
+      the meaning given to such terms in the Agreement.
+
+2.    Section 4(B) of Schedule 2 is deleted in its entirety and replaced with
+      the following:
+
+      (B) multiplied and added in accordance with the following graduated
+schedule
+
+      For the first  *  Average Daily Results                $ *  per Results
+            Sets Served                                      Sets Served
+
+      For the next  *  Average Daily Results Sets            $ *  per Results
+            Served                                           Sets Served
+
+      For the next  *  Average Daily Results Sets            $ *  per Results
+            Served                                           Sets Served
+
+      For the next  *  Average Daily Results Sets            $ *  per Results
+            Served                                           Sets Served
+
+      For the next  *  Average Daily Results Sets            $ *  per Results
+            Served                                           Sets Served
+
+      For all subsequent Average Daily Results Sets Served   $ *  per Results
+            over  *                                          Sets Served
+
+
+
+
+* Certain information on this page has been omitted and filed separately with
+  the Commission. Confidential Treatment has been requested with respect to
+  the omitted portions.
+
+
+<PAGE>
+3.    Except as expressly modified by this Amendment Five, the terms and
+      conditions of the Agreement remain unchanged and in full force and effect.
+
+IN WITNESS WHEREOF, the parties have caused their respective duly authorized
+representatives to execute this Amendment Five on their behalf as of the
+Amendment Effective Date.
+
+MICROSOFT CORPORATION                     INKTOMI CORPORATION
+
+By: /s/ Bill Bliss                        By: /s/ Vishal Makhijani
+    --------------------------------          ----------------------------------
+
+Name: Bill Bliss                          Name: Vishal Makhijani
+      ------------------------------            --------------------------------
+
+Title: General Manager                    Title: Director, GM Search
+       -----------------------------             -------------------------------
+
+Date: 5 March 2002                        Date: March 8, 2002
+      ------------------------------            --------------------------------
+
+
+                                                                   Page 2 of 3
+                                                                   Confidential
+<PAGE>
+                                 AMENDMENT NO. 6
+               Effective Date of Amendment No. 6: October 1, 2002
+
+This AMENDMENT NO. 6 ("Amendment No. 6") to that certain Portal Services
+Agreement dated effective as of October 28, 1999 (the "Agreement"), by and
+between INKTOMI CORPORATION, a Delaware corporation ("Inktomi"), and MICROSOFT
+CORPORATION, a Washington corporation ("Customer").
+
+                                    RECITALS
+
+The parties desire to amend the Agreement on the terms and conditions provided
+herein; and
+
+The parties hereby agree as follows:
+
+                                    AMENDMENT
+
+1.    The term will be extended to January 31, 2003
+
+2.    Schedule 2, Section 4(B) will be deleted in its entirety and replaced with
+      the following:
+
+      (B) multiplied and added in accordance with the following graduated
+schedule
+
+<TABLE>
+<CAPTION>
+                     TIERS
+          (AVERAGE DAILY RESULTS SETS         PRICE PER 1000 AVERAGE
+           SERVED PER CALENDAR MONTH)        DAILY RESULTS SETS SERVED
+           --------------------------        -------------------------
+<S>                                          <C>
+       For Average Daily Results Sets                   *
+       *
+
+       For Average Daily Results Sets                   *
+       *
+
+       For Average Daily Results Sets                   *
+       *
+</TABLE>
+
+3.    Schedule 2, Exhibit B, Section 3.2 will be deleted in its entirety and
+      replaced with the following:
+
+      Each quarter, Inktomi shall pay Customer: (i) * of booked gross Revenue up
+      to *; and (ii) * of all booked gross Revenue over *. Payments shall be due
+      within thirty (30) days of the end of each quarter.
+
+Defined terms herein have the same meaning as set forth in the Agreement, except
+as otherwise provided.
+
+This Amendment No. 6 amends, modifies and supersedes to the extent of any
+inconsistencies, the provisions of the Agreement.  Except as expressly amended
+by this Amendment No. 6, the Agreement remains in full force and effect.
+
+
+
+
+                                             INKTOMI - MICROSOFT AMENDMENT NO. 6
+                                                       PORTAL SERVICES AGREEMENT
+
+                                                       CONFIDENTIAL
+
+* Certain information on this page has been omitted and filed separately with
+  the Commission. Confidential Treatment has been requested with respect to the
+  omitted portions.
+
+<PAGE>
+IN WITNESS WHEREOF, the parties have executed this Amendment No. 6 as of the
+Amendment No. 6 Effective Date set forth above. All signed copies of this
+Amendment No. 6 are deemed originals. This Amendment No. 6 does not constitute
+an offer by either party. This Amendment No. 6 is effective upon execution on
+behalf of Company and Microsoft by their duly authorized representatives.
+
+INKTOMI CORPORATION                       MICROSOFT CORPORATION
+4100 E. Third Ave, Mail Stop FC2-5        One Microsoft Way
+Foster City, CA 94404                     Redmond WA 98052-6399
+
+
+/s/ Vishal Makhijani                      By: /s/ John Krass
+------------------------------------          ----------------------------------
+(Sign)                                    (Sign)
+
+Vishal Makhijani                          John Krass
+------------------------------------      --------------------------------------
+Name (Print)                              Name (Print)
+
+GM + VP, Web Search
+------------------------------------      --------------------------------------
+Title                                     Title
+
+
+
+
+                                                                     Page 2 of 3
+
+                                             INKTOMI - MICROSOFT AMENDMENT NO. 6
+                                                       PORTAL SERVICES AGREEMENT
+
+                                                       CONFIDENTIAL
+<PAGE>
+                                 AMENDMENT NO. 7
+              EFFECTIVE DATE OF AMENDMENT NO. 7: DECEMBER 10, 2002
+
+This AMENDMENT NO. 7 ("Amendment No. 7") to that certain Portal Services
+Agreement dated effective as of October 28, 1999 (the "Agreement"), by and
+between INKTOMI CORPORATION, a Delaware corporation ("Inktomi"), and MICROSOFT
+CORPORATION, a Washington corporation ("Customer").
+
+                                    RECITALS
+
+The parties desire to amend the Agreement on the terms and conditions provided
+herein; and
+
+The parties hereby agree as follows:
+
+                                    AMENDMENT
+
+1.    Section 7.1 will be modified as follows (amendments in italics):
+
+            7.1 By Inktomi. Inktomi shall, at its expense and Customer's
+request, defend any third party claim or action brought against Customer, and
+Customer's subsidiaries, affiliates, directors, officers, employees, agents and
+independent contractors, which, (a) if true, would constitute a breach of any
+warranty, representation or covenant made by Inktomi under this Agreement, or
+(b) arises from Inktomi's failure to remove a link from the Inktomi Search
+Result Data after receiving a written (email acceptable) removal request from
+Customer and confirmed to Customer in writing (email acceptable) that such link
+has been removed, and Inktomi will indemnify and hold Customer harmless from and
+against any costs, damages and fees reasonably incurred by Customer, including
+but not limited to fees of attorneys and other professionals, that are
+attributable to such claim. Customer shall: (i) provide Inktomi reasonably
+prompt notice in writing of any such claim or action and permit Inktomi, through
+counsel mutually acceptable to Customer and Inktomi, to answer and defend such
+claim or action; and (ii) provide Inktomi information, assistance and authority,
+at Inktomi's expense, to help Inktomi to defend such claim or action. Inktomi
+will not be responsible for any settlement made by Customer without Inktomi's
+written permission, which permission will not be unreasonably withheld. Inktomi
+shall have no indemnification obligations under Section 7.1(b) to the extent
+that all or some of the offending content from a link removed from Inktomi
+Search Result Data appears in another link that has not otherwise been
+identified by Customer as a link to be removed from Inktomi Search Result Data.
+
+2.    The Term will extended to April 30, 2003.
+
+3.    Schedule 2, Section 4(D) will be deleted in its entirety.
+
+4.    Schedule 2, Section 4(D) will be renumbered Section 4(C).
+
+
+Page 1 of 2               CONFIDENTIAL       Inktomi - Microsoft Amendment No. 7
+
+
+<PAGE>
+Defined terms herein have the same meaning as set forth in the Agreement, except
+as otherwise provided.
+
+This Amendment No. 7 amends, modifies and supersedes to the extent of any
+inconsistencies, the provisions of the Agreement.  Except as expressly amended
+by this Amendment No. 7, the Agreement remains in full force and effect.
+
+IN WITNESS WHEREOF, the parties have executed this Amendment No. 7 as of the
+Amendment No. 7 Effective Date set forth above.  All signed copies of this
+Amendment No. 7 are deemed originals.  This Amendment No. 7 does not constitute
+an offer by either party.  This Amendment No. 7 is effective upon execution on
+behalf of the Company and Microsoft by their duly authorized representatives.
+
+
+
+INKTOMI CORPORATION                       MICROSOFT CORPORATION
+4100 E. Third Avenue, Mail Stop FC2-5     One Microsoft Way
+Foster City, CA 94404                     Redmond, WA 98052-6398
+
+
+
+/s/ Vishal Makhijani                     By:  /s/ John Krass
+------------------------------------          ----------------------------------
+(Sign)                                    (Sign)
+
+Vishal Makhijani                          John Krass
+------------------------------------      --------------------------------------
+Name (Print)                              Name (Print)
+
+GM + VP, Web Search
+------------------------------------      --------------------------------------
+Title                                     Title
+
+
+
+
+
+Page 2 of 2               CONFIDENTIAL       Inktomi - Microsoft Amendment No. 7
+
+</TEXT>
+</DOCUMENT>

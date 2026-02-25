@@ -1,0 +1,594 @@
+<DOCUMENT>
+<TYPE>EX-10.7
+<SEQUENCE>4
+<FILENAME>v87986exv10w7.txt
+<DESCRIPTION>EXHIBIT 10.7
+<TEXT>
+<PAGE>
+                                                                   EXHIBIT 10.07
+
+[AT&T LOGO]                   AMENDED AND RESTATED
+                          AT&T MASTER CARRIER AGREEMENT
+
+             MASTER CARRIER AGREEMENT - TERMS AND CONDITIONS Page 9
+
+<TABLE>
+<S>                                                <C>                                              <C>
+CUSTOMER Name (Full Legal Name):                                                                    AT&T Sales Representative:
+AT&T Wireless Services, Inc.                       AT&T Corp.,                                      Richard B. Miller
+                                 ("CUSTOMER")                   a New York corporation ("AT&T")
+
+CUSTOMER Name (and Title) for Notice:              AT&T Name (and Title) for Notice:                AT&T Contact Telephone Number:
+Karen Hobbs, Director-IXC                          Doug Markling, General                           206-545-8102
+Relations                                          Manager
+
+CUSTOMER Address:                                  AT&T Address:                                    Initial Deposit Amount Required:
+7277 164th Avenue NE                               4430 Rosewood Dr, Bldg 3,                        None
+                                                   6th Floor
+
+City                     State      Zip Code       City                     State      Zip Code
+Redmond                  WA         98052          Pleasanton               CA         94588
+
+CUSTOMER Fax number for Notice:                    AT&T Fax number for Notice:
+425-580-9945                                       925-224-1666
+</TABLE>
+
+CUSTOMER and AT&T entered into a Master Carrier Agreement executed by the
+parties on the following dates:
+
+Date of execution by CUSTOMER: 06/06/01 Date of execution by AT&T: 06/06/01
+
+The parties hereby replace that prior agreement with this Amended and Restated
+Master Carrier Agreement, which shall be legally binding when signed by both
+parties and shall continue in effect until the end of the longest term specified
+in the Attachment(s), or until otherwise terminated as provided in accordance
+with this Agreement. The rates and commitments provided in the Attachments shall
+be effective as provided in each Attachment.
+
+This Amended and Restated Master Carrier Agreement consists of this Cover Sheet,
+the attached General Terms and Conditions, and the Attachment(s) listed below
+(these documents together are collectively referred to as the "Agreement"). In
+the event of any inconsistency between these documents, precedence will be given
+to the documents in the following order: (1) this Cover Sheet; (2)
+Attachment(s); (3) the General Terms and Conditions. In the event of any
+inconsistency between the terms of this Agreement and the terms of an applicable
+Tariff, the terms of the Agreement shall prevail.
+
+                      [THIS SPACE INTENTIONALLY LEFT BLANK]
+<PAGE>
+
+AMENDED AND RESTATED MASTER CARRIER AGREEMENT -- COVER SHEET         PAGE 2 OF 2
+
+<TABLE>
+<CAPTION>
+Title                                                                             Doc. ID                 Date/time stamp
+-----                                                                             -------                 ---------------
+<S>                                                                      <C>                             <C>
+General Terms and Conditions                                                  MCA 000626a.doc            06/26/00 10:53 am
+Supplemental Terms and Conditions                                            AWS STC020218.doc            02/18/02 4:58 PM
+Former Affiliate Wholesale Service Terms and Pricing                        AWS FAWSTP021230.doc          12/30/02 4:52 PM
+Former Affiliate Wholesale Service Description                               AWS SDA 020228.doc          02/28/02 12:21 PM
+AT&T Local Services - Dedicated Transport Services Terms and Pricing        AWS DTSSTP020731.doc         07/31/02 10:36 AM
+AT&T Private Line and Satellite Services Terms and Pricing                   AWS DSTP021004.doc           10/04/02 9:43 PM
+AT&T ATM Service Description                                                AWS ATMSDA010214.doc          02/27/01 3:49 PM
+AT&T ATM and FRAME Relay Service Terms and Pricing                        AWS ATM-FRSTP021118.doc         11/18/02 5:04 PM
+AT&T SDN Services Terms and Pricing                                        AWS SDNSTP 020228.doc          02/28/02 8:35 PM
+Term and Commitment Attachment                                               AWS TCA021031.doc            10/31/02 2:58 PM
+AT&T Local Services - Prime Interconnect Service                              AWS 8YYSTP010501            05/17/01 6:05 PM
+Terms and Pricing Attachment
+AT&T Teleconference Web Meeting Services Service Order Attachment          AWS TelCon-WebMeet SOA        08/19/02 12:28 PM
+                                                                                 020819.doc
+AT&T Managed Internet Services Terms and Pricing Attachment              AWS MIS MCA STP010606.doc        06/06/01 6:50 PM
+AT&T Managed Internet Services Addendum Pricing Schedule - Appendix A        MIS-AWS-01606.doc            06/06/01 7:49 PM
+AT&T Voice Over Internet Protocol (VoIP) Service Field Trial               AWS VoIPFTA011016.doc          10/16/01 1:57 PM
+Attachment
+AT&T DSL Internet Services Service Order Attachment                        AWS DSLSOA 011214.doc          12/14/01 5:01 PM
+AT&T Vitual Teleconferencing Network Service - Service Order                AWS VTNS 021029.doc           10/29/02 5:40 PM
+Attachment Voice/Data Services
+AT&T Private Line Project Based Pricing - Project 3G                      Project 3G PBP020910.doc       09/10/02 12:30 PM
+AT&T Alascom Simply Better Flex Service Order Attachment                    AWS SIMPB 020506.doc         05/06/02 11:59 AM
+AT&T Alascom Intrastate Service Agreement                                   AWS INTRA 020503.doc          05/03/02 2:20 PM
+</TABLE>
+
+CUSTOMER'S SIGNATURE BELOW ACKNOWLEDGES THAT CUSTOMER HAS READ, UNDERSTANDS AND
+AGREES TO EACH OF THE TERMS AND CONDITIONS OF THIS AGREEMENT AND THAT THE
+INDIVIDUAL SIGNING THIS AGREEMENT IS DULY AUTHORIZED TO DO SO.
+
+<TABLE>
+<S>                                                             <C>
+AT&T WIRELESS SERVICES, INC.                                    AT&T CORP.
+
+By:  _____________________________________________________      By:  ____________________________________________________________
+      (Authorized Customer Signature)                                 (Authorized AT&T Signature)
+
+__________________________________________________________      _________________________________________________________________
+(Typed or Printed Name and Title)                               (Typed or Printed Name and Title)
+
+Date:  ___________________________________________________      Date:  __________________________________________________________
+</TABLE>
+
+<PAGE>
+
+                          GENERAL TERMS AND CONDITIONS                    Page 1
+
+
+1. PROVISION OF SERVICES. CUSTOMER hereby orders and AT&T hereby agrees to
+provide the AT&T services described in the Attachment(s) to this Agreement (the
+"Services"). AT&T is not responsible for the quality of transmission or
+signaling on CUSTOMER's side of the network interface between AT&T and CUSTOMER.
+Service is furnished subject to the availability of the service components
+required, and subject to operational and systems constraints.
+
+2. BILLING AND PAYMENT FOR THE SERVICES. Except as may be provided in an
+Attachment, AT&T will send a single monthly bill for each of the Services to one
+location designated by CUSTOMER. CUSTOMER is liable for all amounts due to AT&T
+under this Agreement. Payment in U.S. currency is due within thirty days after
+the bill date, except as otherwise provided below with respect to Billing
+Disputes.
+
+3. NON-PAYMENT. AT&T may add interest charges to any past due amounts at the
+lower of 12.0% per year or the maximum rate allowed by law. CUSTOMER shall
+reimburse AT&T for reasonable attorney's fees and any other costs associated
+with collecting delinquent or dishonored payments. Restrictive endorsements or
+other statements on checks accepted by AT&T will not apply.
+
+4. BILLING DISPUTES. To dispute a charge on a bill, CUSTOMER must identify the
+specific charge in dispute and provide a full written explanation of the basis
+for the dispute using a standard AT&T billing dispute form within 90 days after
+the bill date. CUSTOMER may withhold payment of a charge subject to a good faith
+dispute provided: (a) CUSTOMER submits the billing dispute, using a standard
+AT&T billing dispute form, within thirty days after the bill date; (b) CUSTOMER
+pays the undisputed portion of all charges; and (c) CUSTOMER cooperates
+reasonably with AT&T's efforts to investigate and resolve the dispute. If AT&T
+determines a disputed charge was billed in error, AT&T shall issue a credit to
+reverse the amount incorrectly billed. If AT&T determines a disputed charge was
+billed correctly, payment shall be due from CUSTOMER within five days after AT&T
+advises CUSTOMER in writing that the dispute is denied.
+
+5. DEPOSITS. Using its Deposit standards, AT&T has assessed and CUSTOMER shall
+pay the Initial Deposit amount specified on the Cover Sheet before Services are
+provided. AT&T may require CUSTOMER, during the term of this Agreement, to
+tender a deposit in an amount to be determined by AT&T in its reasonable
+discretion. AT&T will rely upon commercially reasonable factors to determine the
+need for and amount of any deposit. These factors may include, but are not
+limited to, payment history, number of years in business, history of service
+with AT&T, bankruptcy history, current account treatment status, financial
+statement analysis, and commercial credit bureau rating, as well as commitment
+levels and anticipated monthly charges. Any deposit will be held by AT&T as a
+guarantee for the payment of charges. A deposit does not relieve CUSTOMER of the
+responsibility for the prompt payment of bills. Interest (at the rate of 6% per
+year or such other rate as is applicable by law) will be paid to CUSTOMER for
+any period that a cash deposit is held by AT&T.
+
+6. OBLIGATIONS REGARDING TAXES. CUSTOMER shall pay any applicable local, state
+and federal taxes, levied upon the sale, installation, use or provision of the
+Services, except to the extent customer provides a valid tax exemption
+certificate to AT&T prior to the delivery of Services. CUSTOMER shall not be
+required to pay any taxes assessed on AT&T's income. Gross Receipts Taxes will
+be charged to CUSTOMER in the same manner as that provided in AT&T Tariff F.C.C.
+No. 1, Section 2.5.14, as amended from time to time.
+
+7. CUSTOMER IS A CARRIER. CUSTOMER certifies it is a "common carrier" as defined
+in the Communications Act of 1934 (see ss.ss.153(10) and 211), with all required
+state and federal operating authority.
+
+8. RESPONSIBILITIES OF CUSTOMER. CUSTOMER is responsible for interfacing and
+communicating with its End Users, for placing any orders, and for assuring that
+it and any Intermediate Providers comply with the provisions of this Agreement
+and with all applicable federal and state laws and regulatory requirements with
+respect to the Services. CUSTOMER is responsible for arranging premises access
+at any reasonable time so that AT&T personnel may install, repair, maintain,
+inspect or remove service components.
+
+9. SOFTWARE. AT&T grants CUSTOMER a personal, non-transferable and non-exclusive
+license (without the right to sublicense) to use, in object code form, all
+software and associated written and electronic documentation and data furnished
+pursuant to this Agreement (collectively, "Software"), solely in connection with
+the Services and solely in accordance with applicable written and electronic
+documentation. CUSTOMER will refrain from taking any steps to reverse assemble,
+reverse compile or otherwise derive a source code version of the Software. The
+Software shall at all times remain the sole and exclusive property of AT&T or
+its suppliers. "Third-Party Software" means Software that bears a copyright
+notice of a third party. "AT&T Software" means all Software other than
+Third-Party Software. CUSTOMER shall not copy or download the Software, except
+to the extent expressly provided otherwise in the applicable documentation for
+the Service or in a writing signed by AT&T. Any copy must contain the same
+copyright notices and proprietary markings as the original Software. CUSTOMER
+agrees to comply with any additional restrictions that are provided with any
+Third-Party Software. The term of the license granted with respect to any
+Software shall be coterminous with the Attachment which covers the Software.
+CUSTOMER shall assure that its Users comply with the terms and conditions of
+this Section.
+<PAGE>
+
+                          GENERAL TERMS AND CONDITIONS                    Page 2
+
+
+10. WARRANTY WITH RESPECT TO SOFTWARE. AT&T warrants that all AT&T Software will
+perform substantially in accordance with its applicable published specifications
+during a warranty period of ninety (90) days beginning on the date of delivery
+of the AT&T Software to CUSTOMER. If CUSTOMER returns to AT&T, within the ninety
+(90) day warranty period, any AT&T Software that does not comply with this
+warranty, then AT&T, at its option, will either repair or replace the portion of
+the AT&T Software that does not comply or refund the amount paid by CUSTOMER for
+such failed or defective AT&T Software. This warranty will apply only if the
+AT&T Software is used in accordance with the terms of this Agreement and is not
+altered, modified or tampered with by CUSTOMER or Users.
+
+11. ABUSE OF SERVICE. The abuse of Service is prohibited. Using Service or
+permitting Service to be used in the following ways constitutes abuse:(a)
+interfering unreasonably with the use of AT&T service by others or the operation
+of the AT&T network; (b) carrying calls that originate on the network of a
+facilities-based interexchange carrier other than AT&T and terminate
+disproportionately to domestic locations for which AT&T's cost of terminating
+switched access (based on the published access rates of the incumbent local
+exchange companies) is above AT&T's price for the call under this Agreement
+(after application of discounts); (c) subjecting AT&T personnel or non-AT&T
+personnel to hazardous conditions; (d) attempting to avoid the payment, in whole
+or in part, of any charges by any means or device (non-payment of billed charges
+will not be considered abuse of service for purposes of this Section); or (e)
+using the Services or displaying or transmitting Content in a manner that
+violates any applicable law or regulation. In any instance in which AT&T
+believes in good faith that there is abuse of Service as set forth above, AT&T
+may immediately restrict, suspend or discontinue providing Service or prevent
+the display or transmission of Content, without liability on the part of AT&T,
+and then notify CUSTOMER of the action that AT&T has taken and the reason for
+such action. To the extent doing so does not interfere with its ability to
+prevent abuse of Service (to be determined in AT&T's reasonable judgment), AT&T
+will attempt to notify CUSTOMER before taking such action, and will attempt to
+limit any restriction, suspension or discontinuance under this Section to the
+locations, Content, or Services with respect to which the abuse is taking place.
+
+12. DEFAULT. If a party breaches any material term of this Agreement and the
+breach continues unremedied for 60 days after written notice of default, the
+other party may terminate for cause any Attachment materially affected by the
+breach. If CUSTOMER is in breach of its payment obligations (including failure
+to pay a required deposit), and fails to make payment in full within 5 days
+after receipt of written notice of default, AT&T may, at its option, terminate
+the Agreement, terminate affected Attachments, suspend Service under the
+affected Attachments, and/or require a deposit, advanced payment, or other
+satisfactory assurances in connection with any or all Attachments as a condition
+of continuing to provide Services; except that AT&T will not take any such
+action as a result of CUSTOMER's non-payment of a charge subject to a timely
+billing dispute, unless AT&T has reviewed the dispute and determined that the
+charge is correct. An Attachment may be terminated by either party immediately
+upon written notice if the other party has become insolvent or involved in a
+liquidation or termination of its business, or adjudicated bankrupt, or been
+involved in an assignment for the benefit of its creditors. CUSTOMER shall be
+liable to AT&T for Termination Charges, as specified in a terminated Attachment,
+in the event that AT&T terminates an Attachment as a result of a breach by
+CUSTOMER. Termination by either party of an Attachment does not waive any other
+rights or remedies it may have under this Agreement.
+
+13. NO OTHER WARRANTIES. EXCEPT AS EXPRESSLY PROVIDED IN THIS AGREEMENT, AT&T
+MAKES NO WARRANTIES, EXPRESS OR IMPLIED, UNDER THIS AGREEMENT AND SPECIFICALLY
+DISCLAIMS ANY WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE,
+TITLE OR NON-INFRINGEMENT OR ANY WARRANTY ARISING BY USAGE OF TRADE, COURSE OF
+DEALING OR COURSE OF PERFORMANCE. AT&T DOES NOT WARRANT THAT THE SERVICES WILL
+BE UNINTERRUPTED OR ERROR-FREE, OR THAT THE SERVICES WILL MEET CUSTOMER'S
+REQUIREMENTS OR THAT THE SERVICES WILL PREVENT UNAUTHORIZED ACCESS BY THIRD
+PARTIES. AT&T DOES NOT AUTHORIZE ANYONE TO MAKE A WARRANTY OF ANY KIND ON ITS
+BEHALF AND CUSTOMER SHOULD NOT RELY ON ANYONE MAKING SUCH STATEMENTS.
+
+14. LIMITATION OF LIABILITY. EITHER PARTY'S ENTIRE LIABILITY, AND THE OTHER
+PARTY'S EXCLUSIVE REMEDIES, FOR ANY DAMAGES CAUSED BY ANY SERVICE DEFECT OR
+FAILURE, OR FOR OTHER CLAIMS ARISING IN CONNECTION WITH ANY SERVICE OR
+PERFORMANCE OR NON-PERFORMANCE OF OBLIGATIONS UNDER THIS AGREEMENT SHALL BE:
+
+            (a) FOR BODILY INJURY OR DEATH TO ANY PERSON, OR REAL OR TANGIBLE
+      PROPERTY DAMAGE, NEGLIGENTLY CAUSED BY A PARTY, OR DAMAGES ARISING FROM
+      THE WILLFUL MISCONDUCT OF A PARTY OR A BREACH OF THE PROVISIONS OF SECTION
+      17 (USE OF MARKS), THE OTHER PARTY'S RIGHT TO PROVEN DIRECT DAMAGES;
+
+            (b) FOR DEFECTS OR FAILURES OF SOFTWARE, THE REMEDIES SET FORTH
+      ABOVE UNDER THE
+
+<PAGE>
+
+                          GENERAL TERMS AND CONDITIONS                    Page 3
+
+
+      HEADING WARRANTY WITH RESPECT TO SOFTWARE;
+
+            (c) FOR INDEMNITY, THE REMEDIES SET FORTH BELOW UNDER THE HEADING
+      INDEMNIFICATION;
+
+            (d) FOR DAMAGES OTHER THAN THOSE SET FORTH ABOVE AND NOT EXCLUDED
+      UNDER THIS AGREEMENT, EACH PARTY'S LIABILITY SHALL BE LIMITED TO PROVEN
+      DIRECT DAMAGES NOT TO EXCEED PER CLAIM (OR IN THE AGGREGATE DURING ANY
+      12-MONTH PERIOD) AN AMOUNT EQUAL TO THE TOTAL NET PAYMENTS PAYABLE BY
+      CUSTOMER FOR THE APPLICABLE SERVICE UNDER THE APPLICABLE ATTACHMENT DURING
+      THE 3 MONTHS PRECEDING THE MONTH IN WHICH THE DAMAGE OCCURRED.
+
+EXCEPT TO THE EXTENT PROVIDED UNDER THIS AGREEMENT WITH RESPECT TO
+INDEMNIFICATION, NEITHER PARTY SHALL BE LIABLE TO THE OTHER PARTY FOR ANY
+INDIRECT, INCIDENTAL, CONSEQUENTIAL, PUNITIVE, RELIANCE OR SPECIAL DAMAGES,
+INCLUDING WITHOUT LIMITATION DAMAGES FOR LOST PROFITS, ADVANTAGE, SAVINGS OR
+REVENUES OF ANY KIND, OR INCREASED COST OF OPERATIONS, WHETHER OR NOT SUCH PARTY
+HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. IN NO EVENT SHALL AT&T BE
+LIABLE FOR ANY CLAIM OR DAMAGES CAUSED BY OR ARISING OUT OF:
+
+            (i) ANY ACT OR OMISSION (INCLUDING WITHOUT LIMITATION UNAUTHORIZED
+      USE, THEFT, ALTERATION, LOSS OR DESTRUCTION OF SERVICE OR THE
+      APPLICATIONS, CONTENT, DATA, PROGRAMS, INFORMATION, NETWORK OR SYSTEMS OF
+      CUSTOMER, AN END USER OR ANY THIRD PARTY) OF CUSTOMER, AN INTERMEDIATE
+      PROVIDER, AN END USER, OR ANOTHER THIRD PARTY,
+
+            (ii) EXCEPT AS OTHERWISE PROVIDED IN AN ATTACHMENT, SERVICE
+      INTERRUPTIONS OR LOST OR ALTERED MESSAGES OR TRANSMISSIONS, OR
+
+            (iii) INTEROPERABILITY, INTERACTION OR INTERCONNECTION OF THE
+      SERVICES WITH APPLICATIONS, EQUIPMENT, SERVICES, CONTENT OR NETWORKS
+      PROVIDED BY CUSTOMER OR THIRD PARTIES.
+
+THE LIMITATIONS OF LIABILITY SET FORTH IN THIS AGREEMENT SHALL SURVIVE FAILURE
+OF AN EXCLUSIVE REMEDY, AND SHALL APPLY REGARDLESS OF THE FORM OF ACTION,
+WHETHER IN CONTRACT, TORT, WARRANTY, STRICT LIABILITY, OR NEGLIGENCE (INCLUDING
+WITHOUT LIMITATION ACTIVE AND PASSIVE NEGLIGENCE). NOTHING IN THIS SECTION
+LIMITS CUSTOMER'S RESPONSIBILITY FOR THE PAYMENT OF CHARGES DUE AS PROVIDED IN
+THIS AGREEMENT.
+
+15. FORCE MAJEURE. Neither party nor its Affiliates or subcontractors shall be
+liable to the other party for any delay, failure in performance, loss or damage
+due to force majeure conditions such as fire, explosion, power blackout,
+earthquake, volcanic action, flood, hurricane, the elements, strike, embargo,
+labor disputes, civil or military authority, war, acts of God, acts or omissions
+of other carriers (except, for CUSTOMER, the acts of omissions of its
+Intermediate Providers), acts of regulatory or governmental agencies, or other
+causes beyond their reasonable control, except that CUSTOMER's obligation to pay
+for services provided shall not be excused. Changes in economic, business or
+competitive conditions are not force majeure conditions. If CUSTOMER is unable
+to meet its commitments as a direct result of a force majeure condition,
+CUSTOMER may suspend its commitments for one full billing month (or longer, with
+AT&T's written consent, which shall not be unreasonably withheld). The effect of
+such a suspension of commitment will be to exclude the affected month(s) from
+all calculations affecting the CUSTOMER's commitments and to extend the term of
+this Agreement by the same number of months. CUSTOMER must provide notice to
+AT&T of the force majeure condition giving rise to the right to suspend
+commitments within 30 days after its occurrence.
+
+16. INDEMNIFICATION. CUSTOMER shall indemnify, defend, and hold harmless AT&T
+and its Affiliates, directors, officers, employees, agents, successors and
+assigns from any and all claims, damages and expenses whatsoever (including
+reasonable attorneys' fees) arising on account of or in connection with
+CUSTOMER's use, resale or sharing of the Services, including but not limited to:
+(a) claims for libel, slander, invasion of privacy; (b) claims for infringement
+of copyright arising from any communication using the Services; (c) claims
+arising from any failure, breakdown, interruption or deterioration of service
+provided by AT&T to CUSTOMER or by CUSTOMER to End Users or Intermediate
+Providers; (d) claims arising from CUSTOMER's marketing efforts; and (e) claims
+of patent infringement arising from combining or using services or equipment
+furnished by AT&T in connection with services or equipment furnished by others.
+AT&T shall indemnify, defend, and hold harmless CUSTOMER and its Affiliates,
+directors, officers, employees, agents, successors and assigns from all claims
+of patent infringement arising solely from the use of the Services. CUSTOMER's
+indemnification obligations do not apply to claims for damages to real or
+tangible personal property or for bodily injury or death negligently caused by
+AT&T.
+
+17. USE OF MARKS. Nothing in this Agreement creates in a party any rights in the
+other party's trade names, trademarks, service marks or any other intellectual
+property. Either party may use the other party's trade names, trademarks, or
+service marks only to the extent such use is not prohibited by this Agreement
+and is
+
+<PAGE>
+
+                          GENERAL TERMS AND CONDITIONS                    Page 4
+
+
+otherwise permitted by law (including but not limited to the Lanham Act). In no
+event shall either party use or display, in advertising or otherwise, any of the
+other party's logos, trade dress, trade devices or other indicia of origin, or
+any confusingly similar logos, trade dress, trade devices or indicia of origin.
+CUSTOMER will not conduct business under any AT&T corporate or trade name,
+trademark, service mark, logo, trade dress, trade device, indicia of origin or
+other symbol that serves to identify and distinguish AT&T from its competitors,
+or under any confusingly similar corporate or trade name, trademark, service
+mark, logo, trade dress, trade device, indicia of origin or other symbol.
+CUSTOMER will not indicate or imply to any other party that CUSTOMER is
+affiliated with AT&T, that CUSTOMER is authorized by AT&T to sell or provide
+service to them, that CUSTOMER is providing (or will provide) service to such
+party jointly or in collaboration or partnership with AT&T, or as the agent of
+AT&T, or that service provided by CUSTOMER or another carrier is provided by
+AT&T. Except to the limited extent (if any) as may be required under law,
+neither CUSTOMER nor an Intermediate Provider shall indicate or imply to any
+existing or potential End User (or Intermediate Provider) that any portion of
+the service provided to the End User (or Intermediate Provider) by CUSTOMER or
+the Intermediate Provider is provided by AT&T or is carried over the AT&T
+network or AT&T facilities.
+
+18. RELATIONSHIP OF THE PARTIES. The relationship between the parties shall be
+that of independent contractors and not of principal and agent, employer and
+employee, franchiser and franchisee, partners or joint venturers. This Agreement
+does not establish CUSTOMER as a dealer, distributor or franchisee of AT&T, and
+no fee is being paid to AT&T to enter into this Agreement.
+
+19. CONFIDENTIAL INFORMATION DEFINED. "Confidential Information" consists of the
+following: all information disclosed by one party or its agent or representative
+(the "Disclosing Party") to the other party or its agent or representative (the
+"Receiving Party") in connection with this Agreement regarding the
+telecommunications needs of CUSTOMER and/or the telecommunications offerings of
+AT&T, to the extent that (a) for information disclosed in written, graphic or
+other tangible form, it is designated by appropriate markings to be confidential
+or proprietary or (b) for information disclosed orally, it is both identified as
+proprietary or confidential at the time of disclosure and summarized in a
+writing so marked within 15 business days following the oral disclosure.
+Notwithstanding the foregoing, all written or oral pricing and contract
+proposals exchanged between the parties shall be Confidential Information,
+whether or not so designated. Confidential Information is the property of the
+Disclosing Party and shall be returned to the Disclosing Party upon request.
+This Agreement is Confidential Information as to which each party is both a
+Disclosing Party and a Receiving Party. Information made known to the public by
+the Disclosing Party or a third party, or previously known to the Receiving
+Party free of any obligation to keep it confidential, or independently developed
+by the Receiving Party, shall not be Confidential Information.
+
+20. CONFIDENTIALITY OBLIGATIONS. A Receiving Party shall hold all Confidential
+Information in confidence from the time of disclosure until at least 2 years
+following the termination of this Agreement. During that period, the Receiving
+Party: (a) shall use such Confidential Information only for the purposes of
+performing this Agreement and using the Services; (b) shall reproduce such
+Confidential Information only to the extent necessary for such purposes; (c)
+shall restrict disclosure of such Confidential Information to employees that
+have a need to know for such purposes; (d) shall advise those employees of the
+obligations of this Agreement; (e) shall not disclose Confidential Information
+to any third party without prior written approval of the Disclosing Party except
+as expressly provided in this Agreement; and (f) shall use at least the same
+degree of care (in no event less than reasonable care) as it uses with regard to
+its own proprietary or confidential information to prevent the disclosure,
+unauthorized use or publication of Confidential Information.
+
+21. PUBLICITY. No public statements or announcements relating to this Agreement
+shall be issued by either party without the prior written consent of the other
+party.
+
+22. ALTERNATIVE DISPUTE RESOLUTION. The parties will attempt to settle any claim
+for non-payment of charges or recovery of overpayment of charges for the
+Services (hereinafter a "Billing Dispute"), through good faith negotiations. The
+parties may agree to submit a Billing Dispute to non-binding mediation. At any
+time, the party seeking payment may submit a notice of arbitration of a Billing
+Dispute for arbitration under the United States Arbitration Act pursuant to the
+terms of this Section and the Non-Administered Arbitration Rules of the CPR
+Institute for Dispute Resolution ("CPR"), to the extent such rules do not
+conflict. The Arbitration will be held in New York, New York, or any other
+location selected by mutual agreement of the parties. The arbitrator shall not
+have the power to award any damages in excess of the limits set forth in or
+excluded under the limitations of liability provided in this Agreement. The
+arbitrator may not limit, expand or otherwise modify the terms of this
+Agreement. The arbitrator shall strictly limit discovery to the production of
+documents directly relevant to the facts alleged in the notices of arbitration
+and defense. If depositions are required, the arbitrator shall permit each Party
+to conduct an equal number of depositions (not to exceed five per side), with
+equal limits on the number of deposition hours for each Party (not to exceed 7
+per deposition). If an evidentiary hearing is held, each Party's presentation of
+its case shall be limited to three (3) days. Requests for temporary injunctive
+relief may be
+
+<PAGE>
+
+                          GENERAL TERMS AND CONDITIONS                    Page 5
+
+
+submitted to a court of competent jurisdiction if the arbitrator has not yet
+been appointed, but the arbitrator shall have the authority to modify any
+injunctive relief granted by such a court. The arbitration award shall be made
+final within eight months of filing of the notice of arbitration and judgment
+upon the award may be entered in any court having competent jurisdiction. All
+participants and the arbitrator shall hold the existence, content and results of
+mediation and arbitration in confidence, except as necessary to enforce a final
+settlement agreement or to enforce an arbitration award. Each party shall bear
+its own expenses and equally share expenses related to the compensation of the
+arbitrator. The arbitrator's award shall be in writing and shall state the
+reasons for the award.
+
+23. TIME TO BRING CLAIMS. Any initial demand for arbitration pursuant to this
+Agreement, and any legal action arising under this Agreement, must be initiated
+within two years after the cause of action arises.
+
+24. NOTICES. All notices under this Agreement shall be in writing and shall be
+made: (a) by personal delivery; (b) by certified or registered mail, postage
+prepaid return receipt requested, (c) by overnight delivery, or (d) by facsimile
+transmission. Notice shall be sent to the individuals identified on the Cover
+Sheet (at the address and/or fax number designated for notice), or to such other
+individual, address or fax number as a party may designate by notice to the
+other party.
+
+25. EQUIPMENT. AT&T shall retain title to all of its equipment and facilities
+used to provide service under this Agreement. CUSTOMER will pay reasonable
+shipping charges for delivery to CUSTOMER's premises of AT&T equipment used to
+provide Service under this Agreement. CUSTOMER is liable to AT&T for the
+replacement cost of any AT&T-provided equipment installed at CUSTOMER's premises
+in the event of loss of said equipment for any reason, including but not limited
+to theft.
+
+26. EXPORT REGULATIONS. The parties acknowledge that the Services may be subject
+to U.S. export laws and regulations. If requested, CUSTOMER will sign assurances
+and other export-related documents required for AT&T to comply with U.S. export
+regulations.
+
+27. QUALITY MONITORING. CUSTOMER authorizes AT&T to monitor and record calls to
+AT&T concerning the Services for training and quality control purposes.
+
+28. ASSIGNMENT. This Agreement may not be assigned by either party except that
+either party may assign its rights or delegate its duties under this Agreement
+to an Affiliate of that party.
+
+29. NO THIRD PARTY BENEFICIARIES. This Agreement does not expressly or
+implicitly provide any third party (including but not limited to End Users and
+Intermediate Providers) with any remedy, claim, liability, reimbursement, cause
+of action or other right or privilege.
+
+30. NON-WAIVER. The failure of a party to enforce any right under this Agreement
+at any particular point in time shall not constitute a continuing waiver of any
+such right with respect to the remaining term of this Agreement, or the waiver
+of any other right under this Agreement.
+
+31. SEVERABILITY. If any portion of this Agreement is found to be invalid or
+unenforceable, the remaining provisions shall remain in effect and the parties
+shall immediately begin negotiations to replace any invalid or unenforceable
+portions that are essential parts of this Agreement.
+
+32. SURVIVAL OF TERMS. The rights and obligations of either party that by their
+nature would continue beyond the termination or expiration of this Agreement
+shall survive termination or expiration of this Agreement. For example, the
+provisions of this Agreement regarding Confidentiality shall remain in effect
+for 2 years following termination of this Agreement and the provisions of this
+Agreement regarding arbitration, use of Marks, indemnification, and/or
+limitation of liability shall survive termination of this Agreement as to any
+cause of action arising under the Agreement.
+
+33. CHOICE OF LAW. The domestic law of the State of New York, except its
+conflict-of-laws rules, shall govern the construction, interpretation, and
+performance of this Agreement, except to the extent superceded by federal law.
+The United Nations Convention on Contracts for International Sale of Goods shall
+not apply.
+
+34. AMENDMENT. No amendment, supplement, modification or waiver of any provision
+of this Agreement shall be effective unless in writing and signed by authorized
+representatives of both parties.
+
+35. ENTIRE AGREEMENT. This Agreement constitutes the entire agreement between
+the parties with respect to the Services. This Agreement supersedes all prior
+agreements, proposals, representations, statements or understandings, whether
+written or oral, concerning the Services or the parties' rights or obligations
+relating to the Services. Any prior representations, promises, inducements or
+statements of intent regarding the Services that are not embodied in this
+Agreement are of no effect.
+
+36. DEFINITIONS. The following definitions apply in addition to the definitions
+set forth elsewhere in this Agreement:
+
+"Affiliate" - any entity that controls, is controlled by or is under common
+control with a party.
+
+"Content" - information made available, displayed or transmitted in connection
+with a Service (including information made available by means of an HTML "hot
+link", a third party posting or similar means) including all trademarks, service
+marks and domain names contained therein as well as the contents of any bulletin
+boards or chat forums, and, all updates, upgrades, modifications and other
+versions of any of the foregoing.
+<PAGE>
+
+                          GENERAL TERMS AND CONDITIONS                    Page 6
+
+
+"End User" or "User" - the entity that uses the service furnished under this
+Agreement for its own use, and not for purposes of providing telecommunications
+services to others.
+
+"Intermediate Provider" - any provider or other intermediary (other than
+CUSTOMER or its agents or employees) in the sales chain between CUSTOMER and an
+End User.
+
+"Tariff" - the AT&T Tariffs identified in the Attachments, and the successor
+documents of general applicability that replace such tariffs in the event of
+detariffing.
+
+If not otherwise defined, capitalized terms shall be defined as provided in
+AT&T's Tariffs.
+
+--------------------------End of Terms and Conditions---------------------------
+
+</TEXT>
+</DOCUMENT>

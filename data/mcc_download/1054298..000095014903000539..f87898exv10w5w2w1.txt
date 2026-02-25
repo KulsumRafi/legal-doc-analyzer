@@ -1,0 +1,2777 @@
+<DOCUMENT>
+<TYPE>EX-10.5.2.1
+<SEQUENCE>16
+<FILENAME>f87898exv10w5w2w1.txt
+<DESCRIPTION>EXHIBIT 10.5.2.1
+<TEXT>
+<PAGE>
+                                                                EXHIBIT 10.5.2.1
+
+                    THIS DISTRIBUTION AND LICENSE AGREEMENT
+
+      THIS DISTRIBUTION AND LICENSE AGREEMENT (the "Agreement"), dated as of
+August 31, 2000, by and between Ask Jeeves International, Inc., a Delaware
+corporation ("AJI"), Ask Jeeves Kabushiki Kaisha (in Japanese) (A.J.J. Co., Ltd.
+in English) (the "KK"), and Ask Jeeves, Inc., a Delaware corporation ("Ask
+Jeeves") (only with respect to the provisions of Sections 8, 10, 12(b) and 15,
+subject to the limitation of liability set forth in Section 13, (and no other
+provisions)) and Trans Cosmos, Inc. ("TCI") (only with respect to the provisions
+of Sections 3(j), 8, 11 and 15 subject to the limitation of liability set forth
+in Section 13, (and no other provisions)), subject to termination set forth in
+Section 14.
+
+      WHEREAS, AJI and TCI have entered into a Joint Venture Agreement as of
+August 31, 2000, pursuant to which they established the KK.
+
+      WHEREAS, AJI has the right to (i) sublicense rights to all current and
+future technology that its parent, Ask Jeeves uses to provide natural-language
+question answering services to consumers via the Internet on the Ask Jeeves
+"Ask.com" Web Site as well as its Popularity Engine technology and (ii) to grant
+distribution and sublicensing rights pertaining to certain consumer interaction
+software, also owned by Ask Jeeves, which is offered to corporations
+(hereinafter described as "Corporate Services").
+
+      WHEREAS, the parties desire to cause the adaptation, localization,
+maintenance and update of the Ask Jeeves natural language search engine in the
+Japanese language, and, subject to the terms and conditions of this Agreement,
+all current and future Ask Jeeves products, services, technology, trademarks,
+designs, page layouts and other visual elements used by Ask Jeeves and its
+subsidiaries for the KK's exclusive use (as described herein) in the Territory.
+
+      WHEREAS, the KK has been formed to exploit the Ask Jeeves' proprietary
+technology licensed through AJI for the purpose of offering Consumer and
+Corporate Services in the Territory, and to serve as the exclusive vehicle in
+the Territory for the implementation and distribution of all (except as provided
+herein) current and future products, services and technology employed by Ask
+Jeeves and its subsidiaries.
+
+      WHEREAS, AJI desires to grant to the KK an exclusive right and license,
+subject to the terms and conditions of this Agreement, to use all current and
+future proprietary technology of Ask Jeeves and its subsidiaries for the purpose
+of operating, marketing and distributing consumer question answering services in
+the Territory only, and the KK desires to obtain such right and license.
+
+      WHEREAS, AJI desires to grant to the KK an exclusive right and license,
+subject to the terms and conditions of this Agreement, to use the current and
+future Consumer Corporate Services technology of Ask Jeeves and its subsidiaries
+for the purpose of operating, marketing,
+
+-------
+|*|   Indicates that certain information in this exhibit has been omitted and
+      filed separately with the Securities and Exchange Commission. Confidential
+      treatment has been requested with respect to the omitted portions.
+
+
+                                      -1-
+<PAGE>
+
+                                                                EXHIBIT 10.5.2.1
+
+distributing and sublicensing such technology in the Territory only, and the KK
+desires to obtain such right and license.
+
+      WHEREAS, Ask Jeeves is currently the defendant in two separate lawsuits
+alleging patent infringement, based upon use of some or all of the Ask Jeeves
+technology that AJI seeks to license to the KK under this Agreement.
+
+      NOW, THEREFORE, in consideration of the foregoing and the representations,
+warranties, covenants and agreements contained herein, the parties hereto,
+intending to be legally bound hereby, agree as follows:
+
+      1. DEFINITIONS.
+
+      "AJ" means, collectively, AJI and Ask Jeeves and its subsidiaries.
+
+      "AJ ASSETS" shall have the meaning given to it in Section 2 of this
+Agreement.
+
+      "AJ CONTENT" means all knowledge bases and other data and information, in
+any medium, created and/or maintained by AJ using the AJ Software, including
+without limitation any improvements, additions, modifications and enhancements
+to the U.S. Knowledgebase and any text, music, sound, photographs, video or
+graphics.
+
+      "AJ ENTITY" shall have the meaning given to it in Section 5(k)(iii) of
+this Agreement.
+
+      "AJ MARKS" means the domain names, trademarks, service marks and logos
+used by AJ, to (1) operate the "Ask.com" Web site and the Web site(s) operated
+by the KK using the URL and provide services to consumers and (2) render the
+Corporate Services, together with associated Web site elements and other design
+elements deemed important by AJ to maintain and enhance its unique look and
+feel, and listed on EXHIBIT A hereto as may be modified by AJ from time to time
+in accordance with Section 3(i) below. AJ Marks does not include the domain
+names, trademarks, service marks and logos of any third-party partners of AJ or
+any of the third-party partners' affiliates.
+
+      "AJ SOFTWARE" means the English language version of the AJ proprietary
+software listed in EXHIBIT B and all software created, licensed and otherwise
+owned by AJ, now and in the future.
+
+      "AJURL" shall have the meaning given to it in the Joint Venture Agreement.
+
+      "APPROVED SUB-CONTRACTOR" shall mean a sub-contractor previously approved
+by AJI in writing to perform Internationalization and/or Localization of the
+Source Code to the AJ Software.
+
+-------
+|*|   Indicates that certain information in this exhibit has been omitted and
+      filed separately with the Securities and Exchange Commission. Confidential
+      treatment has been requested with respect to the omitted portions.
+
+
+                                      -2-
+<PAGE>
+
+                                                              EXHIBIT 10.5.2.1
+
+      "BUSINESS DAY" means as to a party hereto whose action is required to take
+place within a number of Business Days (whether the giving of notice or the
+making of a payment or otherwise), any day of the week which is not a Saturday
+or Sunday and not a bank holiday in the state or country from which such action
+is required to be made (as the case may be in the state of California or in
+Japan).
+
+      "BUSINESS PLAN" means the business plan of the KK completed in accordance
+with the Joint Venture Agreement.
+
+      "CHANGE IN CONTROL" shall be deemed to have occurred if any of the
+following occurs with respect to a Party (unless otherwise noted in the context
+below):
+
+      (a) the direct or indirect sale or exchange in a single series of related
+transactions by the controlling shareholders or other holders of controlling
+ownership interest in a Party, of more than fifty percent (50%) of the voting
+stock or other voting ownership interests of such Party; or
+
+      (b) the sale, exchange or transfer of all or substantially all of the
+assets of a Party by such Party; or
+
+      (c) a liquidation or dissolution of a Party;
+
+provided, however, that any transaction or series of transactions that are
+effected solely in connection with a (i) grant of equity interests in connection
+with a bona fide employee benefit arrangement, (ii) re-incorporation, (iii) a
+reorganization, recapitalization or financing not in connection with the sale of
+all or substantially all of the assets or stock ownership interests of a Party,
+or (iv) an underwritten public offering of common stock of a Party, is not a
+Change in Control.
+
+      "CONFIDENTIAL INFORMATION" means any data or information disclosed
+hereunder (whether written, oral or graphical) that relates to the disclosing
+party's products, financial information, technology, research, development,
+customers or business activities, and which is confidential or proprietary to or
+a trade secret of the disclosing party, provided that either the information is
+marked or identified as confidential at the time of disclosure, or that it is
+reasonably apparent to the recipient that the information is confidential.
+Confidential Information includes, without limitation, any data, programs,
+program decks, routines, subroutines, translators, compilers, assemblers,
+operating systems, object and Source Codes, and updates thereto and any other
+information related to the AJ Assets and KK Assets, the fact of the KK's payment
+to AJI pursuant to Section 5 and the amount of the capital contribution made by
+TCI to the KK pursuant to the JV Agreement. The scope of the Confidential
+Information may also include information, data or material which AJ is holding
+in confidence for a third party or third parties. Confidential Information shall
+not include any information, data or material which: (1) the disclosing party
+expressly agrees in writing is free of any non-disclosure obligations; (2) at
+the time of disclosure to the receiving party was known to the receiving party
+(as evidenced by documentation in the receiving party's possession) to be free
+of any non-disclosure
+
+-------
+|*|   Indicates that certain information in this exhibit has been omitted and
+      filed separately with the Securities and Exchange Commission. Confidential
+      treatment has been requested with respect to the omitted portions.
+
+
+                                      -3-
+<PAGE>
+
+                                                                EXHIBIT 10.5.2.1
+
+obligations; (3) is independently developed by the receiving party (as evidenced
+by documentation in the receiving party's possession); (4) is lawfully received
+by the receiving party, free of any non-disclosure obligations, from a third
+party having the right to so furnish such Confidential Information; or (5) is or
+becomes generally available to the public without any breach of this Agreement
+or unauthorized disclosure of such Confidential Information by the receiving
+party.
+
+      "CONSUMER FIELD OF USE" means offering the Consumer Services in Japanese
+customized for and targeted primarily at consumers in the Territory, including
+use of idiomatic Japanese as used in the Territory, and specifically excluding
+the provision of question answering services customized for and targeted
+primarily to enterprises or entities for use by employees, customers, consumers
+or other third parties.
+
+      "CONSUMER SERVICES" means the offering to the general public in the
+Territory of the functionality of the Ask Jeeves-maintained Ask.com site or any
+successor sites, which presently offers natural language question answering for
+Web Sites throughout the Internet and popularity ranking technology for sites
+throughout the Web, as such functionality may be improved, enhanced and
+supplemented from time to time on the Ask.com Site.
+
+      "CONSUMER SERVICES SOFTWARE" means the Consumer Services Software listed
+on EXHIBIT B (including all Updates thereto) created, licensed or otherwise
+owned by AJI, now and in the future, that are used to render Consumer Services.
+
+      "CORPORATE CUSTOMERS" means all persons who are not living individuals
+which have agreements to receive Corporate Services, which comply with the terms
+and conditions set forth in Section 3(b)(v) hereof and are in effect at the
+relevant time.
+
+      "CORPORATE FIELD OF USE" means the offering of Corporate Services to all
+persons who are not living individuals and which are established in the
+Territory.
+
+      "CORPORATE SERVICES" means the group of products and services and their
+related technologies which are or will be delivered by Ask Jeeves to corporate
+customers, currently and in the future, that assist those corporate customers in
+their real time customer interactions over the Internet within a specific Web
+site.
+
+      "CORPORATE SERVICES SOFTWARE" means the Corporate Services Software listed
+on EXHIBIT B (including all Updates thereto) created, licensed or otherwise
+owned by AJI, now and in the future, that are used to render Corporate Services.
+
+      "DERIVED KK CONTENT" shall have the meaning given to it in Section 2(e).
+
+      "DEVELOPMENT TOOLS" means the Development Tools listed on EXHIBIT B
+including all Updates thereto and used for implementation of AJ Software.
+
+-------
+|*|   Indicates that certain information in this exhibit has been omitted and
+      filed separately with the Securities and Exchange Commission. Confidential
+      treatment has been requested with respect to the omitted portions.
+
+
+                                      -4-
+<PAGE>
+
+                                                              EXHIBIT 10.5.2.1
+
+      "DOCUMENTATION" means the documentation for the AJ Software (including all
+Updates thereto) created or otherwise owned by AJI, now and in the future, that
+are used to render Corporate Services.
+
+      "EFFECTIVE DATE" means the date of closing of the JV Agreement.
+
+      "FIELD OF USE" means, collectively, the Consumer Field of Use and the
+Corporate Field of Use.
+
+      "GROSS REVENUES" means the accrued revenues from all exploitation of the
+AJ Assets (less sales and use taxes, freight charges and returns), whether the
+revenues are in cash, services, merchandise or in kind, recognized by the KK in
+accordance with Japanese generally accepted accounting principles consistently
+applied, unless another accounting method is specified by the Parties.
+
+      "INTELLECTUAL PROPERTY RIGHTS" or "IP RIGHTS" means all current and future
+copyrights, database rights, trade secrets, patents, mask works and other
+intellectual property rights, including applications continuations, extensions,
+re-examinations and registrations with respect thereto, now known or hereafter
+recognized in any medium in any jurisdiction worldwide, but excluding
+trademarks, service marks, trade names and other product, service or company
+identifiers.
+
+      "INTERNATIONALIZATION" or "INTERNATIONALIZE" means the conversion of
+software or data into double byte/Unicode encoding of data (ISO 10646), which
+supports localization to various international character sets and languages,
+from which the Localized version can be prepared, modifying it in a consistent
+way so that it can operate in the same integrated way in which it currently
+operates but in an international or localized setting (as the case may be).
+
+      "IPLEARN SUIT" means the suit filed by IPLearn, LLC in the United States
+District Court, Northern District of California, Oakland Division, Action No. C
+99-03352 SBA (ENE).
+
+      "JAPANESE NATURAL LANGUAGE SEARCH ENGINE" means the Localized version of
+the Ask Jeeves natural-language question answering search engine technology.
+
+      "JAPANESE KNOWLEDGE BASE" means the database(s) created by AJI or its
+licensors especially for the Japanese speaking marketplace (and indexing
+Japanese language sites), including all Updates thereto, the development and
+maintenance of which is the exclusive responsibility of the KK. "Japanese
+Knowledge Base" shall not be deemed to include the file format developed by AJ,
+which shall remain proprietary and owned by AJ and licensed as part of the AJ
+Software hereunder.
+
+      "JOINT VENTURE AGREEMENT" or "JV AGREEMENT" means the Joint Venture
+Agreement, dated as of August 31, 2000, by and between AJI and TCI establishing
+the KK.
+
+-------
+|*|   Indicates that certain information in this exhibit has been omitted and
+      filed separately with the Securities and Exchange Commission. Confidential
+      treatment has been requested with respect to the omitted portions.
+
+
+                                      -5-
+<PAGE>
+
+                                                                EXHIBIT 10.5.2.1
+
+      "KATZ SUIT" means the suit filed by Patrick H. Winston and Boris Katz in
+the United States District Court, District of Massachusetts, Civil Action No.
+99-CV-012584-MLW.
+
+      "KK ASSETS" shall have the meaning given to it in Section 2 of this
+Agreement.
+
+      "KK CONTENT" means the Japanese Knowledge Base and all other knowledge
+bases and other data and information, in any medium, created and/or maintained
+by the KK, whether or not derived from the AJ Content, including without
+limitation any improvements, additions, modifications and enhancements to the
+Japanese Knowledge Base(s) and any text, music, sound, photographs, video or
+graphics. "KK Content" also includes all user data, including website popularity
+data collected by the KK pursuant to the activities contemplated or permitted by
+this Agreement. (Special provisions regarding ownership of Derived KK Content
+are set forth in Section 2(e).)
+
+      "KK TECHNOLOGY" shall have the meaning given to it in Section 2(c).
+
+      "KNOWLEDGE BASE" means an Ask Jeeves proprietary file format containing
+questions paired with URLs which are intended to contain content answering those
+questions.
+
+      "LICENSED SOFTWARE" means the Japanese language version of AJ Software.
+
+      "LOCALIZATION" or "LOCALIZE" means the conversion of any Internationalized
+software or AJ Content into the Japanese language.
+
+      "LOGOS" mean Ask Jeeves' copyrighted and trademarked butler logo,
+copyrighted and trademarked "Ask" logo and other logos as set forth on EXHIBIT
+A, and other logos copyrighted and/or trademarked, and owned or licensed by AJ,
+as they may change from time to time.
+
+      "NEW AJ ASSET" shall have the meaning given to it in Section 2(a)(ii).
+
+      "OBJECT CODE" means the fully-compiled, machine-readable version of a
+software program that can be executed by a computer without further compilation.
+
+      "PARTY" means each of AJI, KK, AJ and TCI. "PARTIES" means collectively
+AJI, KK, AJ and TCI.
+
+      "PATENT SUITS" means, collectively, the Katz Suit and the IP Learn Suit,
+and any further suits involving the AJ Software (whether brought within the
+United States or within the Territory) that may be filed during the term of this
+Agreement and which Ask Jeeves or AJI shall promptly report to the KK.
+
+      "POPULARITY DATABASE" means AJ's proprietary information and data format
+used to select and prioritize answers to user questions.
+
+-------
+|*|   Indicates that certain information in this exhibit has been omitted and
+      filed separately with the Securities and Exchange Commission. Confidential
+      treatment has been requested with respect to the omitted portions.
+
+
+                                      -6-
+<PAGE>
+
+                                                              EXHIBIT 10.5.2.1
+
+      "POPULARITY ENGINE" means Ask Jeeves' proprietary technology which
+analyzes user questions and selects and prioritizes answers according to the
+frequency that prior users have selected such answers associated with the
+question.
+
+      "REVENUE BASED FEE" means a fee based on a percentage of Gross Revenues in
+an amount set forth in Section 5(c) of this Agreement.
+
+      "QUERY PROCESSING ENGINE" or "QPE" means Ask Jeeves' proprietary natural
+language parsing engine, which is used to tokenize the relevant elements in user
+questions and analyze the resulting terms for matching with appropriate question
+and answer templates.
+
+      "QUOTE AMOUNT" shall have the meaning given to it in Section 5(k)(iii).
+
+      "RUNTIME SOFTWARE" means the Japanese language version of the software
+that is distributed to the Corporate Customer to enable it to run the Corporate
+Services.
+
+      "SOURCE CODE" means the human-readable version of a software program that
+requires compilation or other manipulation before it can be executed by a
+computer and all corresponding source documentation, including application
+programming interface (API) specifications, release notes and build procedures.
+
+      "SOURCE CODE WORK FACILITY" shall have the meaning given to it in Section
+4(b).
+
+      "SPECIAL MATERIAL BREACH" shall have the meaning given to it in Section
+14(b).
+
+      "TERRITORY" means Japan and speakers of the Japanese language worldwide.
+
+      "UPDATES" means the modifications, new versions, new releases and
+enhancements, and of all bug fixes of the AJ Assets whether to correct errors,
+add functionality, improve performance or otherwise, and any revisions of the
+Documentation.
+
+      "URL" means the URL "www.askjeeves.co.jp" and its permutations, such as
+"aj.co.jp", and "askj.co.jp", "ask.ne.jp", and "ask.co.jp" (as and when acquired
+for or on behalf of AJI), and such placeholder URL(s) as AJI may designate prior
+to securing the main URL (and its permutations).
+
+      "U.S. KNOWLEDGEBASE" means the U.S. databases, which may include a
+popularity database created by AJI or its licensors.
+
+      2. INTELLECTUAL PROPERTY OWNERSHIP AND USAGE.
+
+            a. AJ Assets. AJ Assets means all AJ Software, Licensed Software, AJ
+Content, Updates and Documentation and all other current and future products,
+services, technology and content developed by or for AJ and/or contained in the
+English-language version of the Ask.com
+
+-------
+|*|   Indicates that certain information in this exhibit has been omitted and
+      filed separately with the Securities and Exchange Commission. Confidential
+      treatment has been requested with respect to the omitted portions.
+
+
+                                      -7-
+<PAGE>
+
+                                                                EXHIBIT 10.5.2.1
+
+Web Site, both during and after the term of the JV Agreement, including without
+limitation all Localized and Internationalized versions thereof, but excluding
+the Japanese Knowledge Base. AJI or Ask Jeeves, as the case may be, shall retain
+full ownership of all AJ Assets and all IP Rights therein, at all times during
+and after the term of the JV Agreement. Nothing in the JV Agreement or this
+Agreement is intended by the parties or shall operate in any way to transfer any
+ownership interest of any kind in the AJ Assets to the KK. Notwithstanding the
+foregoing, "AJ Assets" shall not include the current or future products,
+services, technology and content owned by an Acquirer of Ask Jeeves.
+
+            (i) List of Current AJ Assets. During the term of this Agreement,
+AJI shall provide a list of all current AJ Assets that it has the right to
+deliver to the KK on an ongoing basis, at a minimum quarterly, by any means,
+such as by download or by dial-up login, or as mutually agreed.
+
+            (ii) Option. AJI hereby grants to the KK an option to take an
+exclusive, perpetual, fee-free license in the Territory to any future AJ Asset
+which is not a part of the Consumer Services Software or the Corporate Services
+Software or otherwise already subject to this Agreement (herein "NEW AJ ASSET"),
+subject to the following provisions:
+
+      (A) Each time that AJI shall have notified the KK of any New AJ Asset, the
+KK shall have fifteen (15) Business Days to request additional information
+(including, without limitation any then existing Object Code and documentation)
+with respect to such New AJ Asset, which AJI shall promptly deliver to the KK.
+Upon receipt of the requested information (to the extent available), the KK
+shall have ten (10) Business Days to notify AJI that it desires to take a
+license to such New AJ Asset for the Territory, whereupon the parties shall
+enter into an exclusive, perpetual, fee- and royalty-free license agreement,
+subject the provisions of Sections 2(a)(ii)(B) and (C), to such New AJ Asset,
+which agreement will include such further terms and conditions as the parties
+may reasonably and in good faith agree to enter into.
+
+      (B) If the KK does not notify AJI, or does not timely notify AJI of its
+desire to take a license with respect to such New AJ Asset the KK shall promptly
+return to AJI all information received with respect to such New AJ Asset, and
+the KK shall then sublicense to a third party designated by AJI the rights to
+distribute and market the New AJ Asset in the Territory on behalf of the KK. The
+terms of such sublicense shall be determined by the parties, in good faith and
+in their reasonable discretion, at the time of the sublicense grant.
+
+      (C) If the KK has commenced good faith exploitation of the New AJ Asset in
+the Territory, but has been unable to make a sale to at least two (2) Corporate
+Customers (with respect to Corporate Services) or to implement it on the KK's
+site (with respect to Consumer Services) within one (1) year, the KK shall then
+sublicense to a third party designated by AJI the rights to distribute and
+market the New AJ Asset in the Territory on behalf of the KK. The terms of such
+sublicense shall be determined by the parties, in good faith and in their
+reasonable discretion, at the time of the sublicense grant.
+
+-------
+|*|   Indicates that certain information in this exhibit has been omitted and
+      filed separately with the Securities and Exchange Commission. Confidential
+      treatment has been requested with respect to the omitted portions.
+
+
+                                      -8-
+<PAGE>
+
+                                                              EXHIBIT 10.5.2.1
+
+            b. Enforcement of Rights. In the event it is necessary for AJI to
+enforce its rights against an infringer of any AJ Asset during the term of this
+Agreement, and in the event said enforcement requires the filing of any
+applications for protection and registration of the IP Rights represented
+therein, or whenever AJI believes such documentation is otherwise necessary or
+desirable, the KK hereby agrees to execute any documentation reasonably
+necessary to evidence AJI's ownership of any Internationalized and/or Localized
+version of such AJ Assets, at AJI's cost and expense. The KK hereby appoints AJI
+as attorney-in-fact to execute any such documents on its behalf in the event
+that the KK does not execute or deliver any such documents, provided that
+whenever AJI will execute any such documents pursuant to the power of attorney
+granted hereby, it shall first notify the KK of its intention to do so.
+
+            c. KK Assets. KK Assets means all technology not derived from the AJ
+Assets (which may include "plug-ins" to the extent they are useable apart from
+the AJ Assets) but rather created independently by or on behalf of the KK during
+the term of the JV Agreement (the "KK TECHNOLOGY"), all KK Content and all tools
+developed independently by the KK without any reference to the Development Tools
+or Licensed Software. For the avoidance of doubt, it is agreed that KK developed
+non-derivative, independent plug-ins to any AJ Asset will constitute the KK
+Technology. All KK Assets and the IP Rights represented therein shall become the
+sole property of the KK upon creation, and shall remain wholly owned by the KK.
+The KK shall have the sole right to pursue any IP filings for the KK Assets. The
+KK will have the right to use the U.S. Knowledgebase only for the purpose of
+facilitating the creation of the Japanese Knowledge Base.
+
+            d. AJ Marks. All use by the KK of the AJ Marks at all times under
+the JV Agreement and this Agreement shall be subject to the license from AJI set
+forth in Section 3(i). During the term of this Agreement and thereafter, only
+AJ, AJ's affiliates and/or their licensors, as appropriate, shall have the right
+to pursue mark registration(s) for the AJ Marks. The KK shall not form any
+combination marks with the AJ Marks or the Logos except as expressly permitted
+in this Agreement. Without limiting the foregoing, the KK hereby assigns to AJI
+any rights it may obtain in the AJ Marks or the Logos or in such combination
+marks or marks derived from the AJ Marks and Logos, and any trademark or
+copyright rights created by the KK's use of the AJ Marks or the Logos, together
+with the goodwill attaching thereto. The KK agrees to execute and deliver to AJI
+such documents as AJI reasonably requires formalizing its ownership rights or
+other rights in such marks or copyrights, at AJI's cost and expense. The KK
+hereby appoints AJI as attorney-in-fact to execute any such documents on its
+behalf in the event that the KK does not execute or deliver any such documents,
+provided that whenever AJI will execute any such documents pursuant to the power
+of attorney granted hereby, it shall first notify the KK of its intention to do
+so. The KK shall not use the AJ Marks or the Logos in any way as an endorsement
+or sponsorship of any third party without the prior written consent of AJI.
+
+            e. Joint Ownership of KK Content Derived from AJ Content. Upon
+creation of KK Content that has been derived from Localization of AJ Content
+(the "DERIVED KK CONTENT"), ownership of the Derived KK Content shall be jointly
+owned by the KK and AJI. The Intellectual Property Rights in the Derived KK
+Content shall automatically vest equally in
+
+-------
+|*|   Indicates that certain information in this exhibit has been omitted and
+      filed separately with the Securities and Exchange Commission. Confidential
+      treatment has been requested with respect to the omitted portions.
+
+
+                                      -9-
+<PAGE>
+
+                                                                EXHIBIT 10.5.2.1
+
+the KK and AJI, subject to restrictions agreed upon by the KK and AJI. Each of
+the KK and AJI shall own an undivided one-half interest in the Derived KK
+Content. To the extent AJI might be presumed to retain any ownership interest in
+the Derived KK Content or the Intellectual Property Rights therein (based upon
+the theory that the Derived KK Content constitutes a derivative work based upon
+the AJ Content), AJI hereby assigns an undivided one-half interest in all of its
+right, title and interest in and to all Derived KK Content created during the
+Term, provided that in no event will such assignment transfer any rights in any
+AJ Assets. Each Party agrees to execute any documentation reasonably necessary
+to evidence the other's undivided one-half ownership interest in the Derived KK
+Content, subject to Section 2(d), at its own expense.
+
+            f. Restrictions on Derived KK Content. AJI and the KK agree to the
+following restrictions on use of the Derived KK Content by them:
+
+            i. the KK agrees not to use the Derived KK Content outside the
+Territory;
+
+            ii. the KK agrees not to translate the Derived KK Content into any
+language other than Japanese;
+
+            iii. the KK agrees not to export the Derived KK Content outside the
+Territory, except that AJI acknowledges that the use of Derived KK Content on
+the Internet shall not constitute "export". The Derived KK Content shall on
+reside on servers located within Japan; and
+
+            iv. Each of the KK and AJI agrees that it shall not grant a license
+to any third party to modify or distribute the Derived KK Content, incorporate
+it into products, or bundle it with other products, except as otherwise
+permitted by this Agreement.
+
+      3. LICENSE GRANTS TO THE KK.
+
+            a. Consumer Services: Object Code. Subject to the terms and
+conditions of this Agreement, AJI hereby grants to the KK, under all of AJI's
+Intellectual Property Rights in the Japanese language version of the Consumer
+Services Software, a fee-bearing, exclusive, non-transferable (except as
+permitted herein), license to use, operate, distribute, display, reproduce and
+exploit the Object Code for the Consumer Service Software, for the sole purpose
+of developing, operating, providing, marketing and maintaining Consumer Services
+in the Consumer Field of Use. Such license does not include any ownership right
+to the Source Code for any AJ Software or Licensed Software. The exclusivity of
+such license shall be within the Territory including with respect to AJI and
+AJI's licensors, except to the extent that any application hosted or customized
+for use outside the Territory by the nature of the Internet is available to end
+users accessing the Internet in the Territory.
+
+            b. Corporate Services.
+
+-------
+|*|   Indicates that certain information in this exhibit has been omitted and
+      filed separately with the Securities and Exchange Commission. Confidential
+      treatment has been requested with respect to the omitted portions.
+
+
+                                      -10-
+<PAGE>
+
+                                                                EXHIBIT 10.5.2.1
+
+            (i) Appointment as Distributor. Subject to the terms and conditions
+of this Agreement, AJI hereby appoints the KK as the exclusive distributor of
+the Corporate Services in the Japanese language within the Corporate Field of
+Use. The KK will use commercially reasonable efforts to distribute and license
+the Corporate Services and the Runtime Software to Corporate Customers in the
+Japanese language.
+
+            (ii) Modification of Corporate Services.
+
+      (A) Not Associated with Product Sale. Whenever there is a modification,
+elimination or supplement of the products and services offered by AJI, which is
+not associated with Ask Jeeves' sale of substantially all its assets related to
+that product or service, the KK shall have the right to determine whether it
+will continue to market and distribute such discontinued products and services.
+The KK shall notify AJI of its election to continue such marketing and
+distribution within thirty (30) Business Days. The KK shall have the right to so
+market and distribute for an unlimited time period, subject to Section
+3(b)(ii)(B). If the KK elects to continue marketing such products and services,
+AJI shall have no obligation to provide support for such products and services
+after the expiration of six (6) months from the date of the KK's election.
+
+      (B) Ask Jeeves Sale of Product Line. Whenever there is a modification,
+elimination or supplement of the products and services offered by AJI which is
+associated with Ask Jeeves' sale of substantially all of its assets related to
+that product or service, the KK and its Resellers (as appointed under subsection
+(iii) below) shall have the right to continue to market and distribute the
+product or service in question under the terms of this Agreement for a period of
+six (6) months and at the end of such time shall cease all marketing and
+distribution of those products and services. Following the expiration of the six
+(6) month period, the KK shall not market or distribute the product or service,
+except that, any customer agreements then in effect may continue until the end
+of their then-current term, and AJI shall continue to provide support for such
+customer agreements up to one (1) year.
+
+            (iii) Right to Appoint Resellers. The KK shall have the right to
+appoint resellers ("Resellers"), provided that AJI shall have the right to
+approve in advance in writing the form of agreement proposed to be used by the
+KK from time to time between itself and its Resellers. The KK shall require all
+Resellers to adhere to terms that are at least as protective of AJI's
+intellectual property rights as, and do not exceed, the terms of this Agreement
+and shall obtain from the KK's board approval, so long as AJI has equal
+representation on the board, of a Reseller which is not established primarily in
+Japan. AJI shall not unreasonably withhold or delay the grant of any of its
+approval required by this subsection (iii). The KK shall promptly provide AJI
+with a copy of all agreements appointing Resellers into which it enters.
+
+            (iv) Distribution License. Subject to the terms and conditions of
+this Agreement, AJI hereby grants to the KK a limited, non-sublicensable (except
+as provided in Section 3(b)(iii) above with respect to Resellers, and Section
+3(b)(v) with respect to Corporate Customers), non-transferable, exclusive (as
+described in Section 3(b)(i) above), fee-bearing (solely as described in Section
+5 of this Agreement) right to market, offer, license and distribute
+
+-------
+|*|   Indicates that certain information in this exhibit has been omitted and
+      filed separately with the Securities and Exchange Commission. Confidential
+      treatment has been requested with respect to the omitted portions.
+
+
+                                      -11-
+<PAGE>
+
+                                                                EXHIBIT 10.5.2.1
+
+the Runtime Software and the Corporate Services to Corporate Customers in the
+Territory (in order to enable such Corporate Customers to provide end-users of
+their site(s) access to the Corporate Services' functionality on such site(s))
+and to use the Runtime Software and use and modify the corporate Knowledge Bases
+so as to provide Corporate Services. Such license does not include any ownership
+right to the Source Code for any technology comprising or relating to the
+Corporate Services.
+
+            (v) Corporate Services Software License. Subject to the terms and
+conditions of this Agreement, AJI hereby grants to the KK a limited,
+non-sublicensable, non-transferable, exclusive (as described in Section 3(b)(i)
+above), fee-bearing, solely as described in Section 5 of this Agreement, license
+to use, operate, reproduce and exploit the Object Code for the Corporate Service
+Software, for the sole purpose of developing, operating, providing, marketing
+and maintaining Corporate Services in the Corporate Field of Use. Such license
+does not include any ownership right to the Source Code for any AJ Software or
+Licensed Software.
+
+            (vi) Terms of Corporate Customer Sublicenses. The KK shall have the
+right to sublicense the Runtime Software and the Corporate Services to Corporate
+Customers, provided that the KK will do so only under terms at least as
+protective of AJ's rights as those attached hereto as EXHIBIT C hereto. AJI
+shall have the right to approve in advance in writing the form of corporate
+customer agreement used by the KK (and any reseller) in each jurisdiction within
+the Territory to ensure adequate protection of its Intellectual Property Rights.
+AJI shall have the right to require additional licensing restrictions for
+Corporate Customers as reasonably necessary for the protection of those rights.
+The KK shall not license the Runtime Software and the Corporate Services to any
+customer for a period of longer than two (2) years without the prior written
+approval of AJI, provided that any customer agreement may renew on expiration
+upon agreement by the KK and its customer if this Agreement is then in effect.
+
+            c. License Back of KK Assets. The KK hereby grants to AJI a
+non-exclusive, fee-bearing, irrevocable, perpetual, worldwide license to all
+current and future KK Technology. In addition, the KK hereby grants to AJI a
+non-exclusive, fee-bearing, irrevocable, perpetual, worldwide license back to
+use, for internal purposes only, that part of the KK Content pertaining to the
+Consumer Services and the tools developed independently by the KK without any
+reference to the Development Tools or the Licensed Software. The fee for the
+licenses described in this section shall be an amount determined in good faith
+by the Parties.
+
+            d. Services. Subject to the previous Section 3(c), the KK agrees to
+render all reasonable cooperation to AJI, at AJI's request and expense, to
+enable it to exercise AJI's rights to the KK Technology and/or the KK Content,
+including without limitation by timely delivering materials embodying such KK
+Technology and/or Content (and by executing all documents reasonably necessary
+or desirable to evidence AJI's rights). The KK will deliver to AJI notification
+and necessary information about all KK Technology and all KK Content that it has
+developed so that AJI can determine whether it wants to obtain such KK
+Technology or KK Content. If AJI so elects to obtain it, the KK shall deliver
+the KK Technology or KK Content to
+
+-------
+|*|   Indicates that certain information in this exhibit has been omitted and
+      filed separately with the Securities and Exchange Commission. Confidential
+      treatment has been requested with respect to the omitted portions.
+
+
+                                      -12-
+<PAGE>
+
+                                                              EXHIBIT 10.5.2.1
+
+AJI within ninety (90) days following implementation of any such KK Technology
+and/or KK Content, but in no event less often than twice each calendar year.
+
+            e. Development Tools License. Subject to the terms and conditions of
+this Agreement, AJI hereby grants to the KK a fee-bearing (solely as described
+in Section 5 of this Agreement) non-transferable, non-sublicensable except as
+permitted herein, exclusive license to use the Development Tools on its internal
+systems solely for the purpose of (i) developing and maintaining the Consumer
+Services as permitted under this Agreement, and (ii) rendering Corporate
+Services as permitted under this Agreement. The KK may not make the Development
+Tools available to any third party including, without limitation, customers and
+Resellers, and agrees that only employees and independent contractors of the KK
+which have signed confidentiality agreements at least as protective as the terms
+of this Agreement may use the Development Tools. Such license does not include
+any ownership right to the Source Code for any technology comprising or relating
+to any AJ Assets. In the event any software engines, applications or tools are
+utilized by AJ in its delivery of the AJ Assets and such software would
+similarly be required to enable the KK to perform within the scope of this
+Agreement, AJI shall supply such software to the KK on a fee-free basis
+throughout the term of this Agreement. In the event any of these software tools
+have not been developed or are not owned by AJI but rather are licensed by AJI,
+then at the expense of AJI, AJI shall use all commercially reasonable efforts to
+obtain pass-through licenses sufficient to enable the KK to make use of the
+tools during the term of this Agreement. Furthermore, in the event that any
+third party license is needed, either in connection with AJ Assets or otherwise,
+AJI will be responsible for the negotiation of such license. Notwithstanding the
+foregoing, the KK shall be responsible for the payment of any sublicense fees
+therefor. Whenever possible, AJI shall obtain such pass-through licenses at no
+extra cost. All derivative works of the Development Tools developed by or on
+behalf of KK shall be the sole property of AJI, and upon AJI's request, the KK
+agrees to execute and deliver to AJI such documents as AJI reasonably requires
+to formalize its ownership rights or other rights in such derivative works of
+the Development Tools at AJI's cost and expense.
+
+            f. Documentation License. Subject to the terms and conditions of
+this Agreement, AJI hereby grants to the KK, under all of AJI's Intellectual
+Property Rights in the Documentation, a fee-free, fully-paid up, exclusive,
+non-transferable except as provided herein, license to use, display, reproduce
+and modify (including translate) the Documentation for the purposes of
+developing, operating, marketing, maintaining and exploiting Corporate Services
+and Consumer Services in the Field of Use in the Territory. The KK has a limited
+right to create, use and distribute derivative works (including translation into
+Japanese) of those portions of the Documentation intended for Corporate Services
+customer use to the extent that the KK adapts that Documentation to local
+cultural requirements. AJI shall be the sole owner of any such modified
+Documentation, and upon AJI's request, the KK agrees to execute and deliver to
+AJI such documents as AJI reasonably requires to formalize its ownership rights
+or other rights in such modified Documentation, at AJI's cost and expense.
+
+-------
+|*|   Indicates that certain information in this exhibit has been omitted and
+      filed separately with the Securities and Exchange Commission. Confidential
+      treatment has been requested with respect to the omitted portions.
+
+
+                                      -13-
+<PAGE>
+
+                                                              EXHIBIT 10.5.2.1
+
+            g. Proprietary Notices. The KK will not obfuscate, remove or alter
+any copyright and other proprietary notices contained on or in the AJ Assets as
+delivered to the KK, and all such markings shall be included on or in all copies
+of any portion of the AJ Assets.
+
+            h. Additional Restrictions. The KK has only the license rights
+expressly granted under this Agreement, and whatever rights are not expressly
+granted in this Agreement are reserved by AJI. Except as expressly permitted by
+applicable law or this Agreement, the KK will not, and will not permit or
+encourage others to, (1) reverse engineer, decompile, disassemble or otherwise
+attempt to derive the Source Code for any AJ Software or the Licensed Software,
+or (2) modify the AJ Software or the Licensed Software. The KK shall be
+permitted to use the KK Technology and KK Content for any purpose as long as it
+does not compete with an AJ product or service. Any technology derived from AJ
+Technology shall not be used beyond the scope of the terms of the Distribution
+and License Agreement. No KK employee shall be permitted to work on competing
+products, internally or externally, for a period of twelve (12) months following
+the employee's most recent access to the Source Code, and this requirement shall
+survive termination of employment.
+
+            i. Trademark And Copyright License.
+
+                  (i) License Grant. Subject to the terms and conditions hereof,
+AJI hereby grants to the KK a fee-bearing (solely as described in Section 5 of
+this Agreement), exclusive as defined herein, non-transferable (except as
+provided herein), license to use the AJ Marks and the Logos solely in connection
+with the development, maintenance, marketing, operation, promotion and provision
+of services in the Field of Use in the Territory. The KK shall have the right to
+grant sublicenses of its rights under this Section 3(i) to Resellers and
+Corporate Customers, subject to the restrictions set forth in the minimum
+customer license terms attached hereto as EXHIBIT C.
+
+                  (ii) Requirements. The KK shall at all times comply with all
+written AJI trademark and copyright guidelines that AJI supplies, from time to
+time, to the KK. The KK acknowledges the importance of maintaining a common look
+and feel and feature set for all sites and services powered by Ask Jeeves'
+technology and services worldwide. The KK shall promptly update all sites and
+services in the Field of Use operated, licensed or controlled by the KK to
+reflect any changes in the look and feel, or functionality or features,
+resulting from the implementation, modification or discontinuation of any AJ
+Marks or the Logos on the Ask.com site. In no case later than thirty (30) days
+after the delivery of any new or modified AJ Marks or Logos, or notice of
+discontinuation thereof by AJI, the KK shall implement, modify or discontinue
+its use of such AJ Marks or the Logos, as the case may be to the extent approved
+by the KK Board of Directors (but only so long as AJI has a representation on
+such Board of Directors equal to one-half of its members). Without limiting
+anything to the contrary herein provided, the KK shall (i) use the AJ Marks or
+the Logos exactly in the form provided; (ii) not alter the size, placement,
+rotation, typeface, font, color or any other attribute of any AJ Mark or Logo
+without the prior written consent (not to be unreasonably delayed) of AJI, on a
+case by case basis; (iii) mark its use of the AJ Marks and the Logos with the
+symbol "(TM)", "(R)" or "(C)," and/or
+
+-------
+|*|   Indicates that certain information in this exhibit has been omitted and
+      filed separately with the Securities and Exchange Commission. Confidential
+      treatment has been requested with respect to the omitted portions.
+
+
+                                      -14-
+<PAGE>
+
+                                                              EXHIBIT 10.5.2.1
+
+local equivalents, if any, as appropriate; (iv) include the appropriate
+trademark or copyright attribution in reasonably close proximity to its first
+use of the AJ Marks or the Logos, as the case may be, in any document or on any
+screen display, or in a location to which users are directed for statements
+concerning the ownership of Intellectual Property Rights - the terms and wording
+of the trademark or copyright attribution shall be as requested by AJI; (v)
+provide AJI in advance with specimens of all of the KK's proposed uses of any AJ
+Mark or any Logo (including without limitation, in the form of Web Site page
+mockups, draft versions of marketing material, etc.) before any such use,
+together with a brief statement setting forth the proposed use and the proposed
+time period of such use; and not commence such use without AJI's express prior
+written consent, which may be withheld in AJI's sole discretion, and which
+consent shall be given or withheld within five (5) but in no case later than ten
+(10) Business Days from the date of notice to AJI. At any time when AJI
+representatives do not constitute one half of the Board of Directors of KK, AJ
+may terminate the license granted above with respect to any particular AJ Mark
+if, in its sole discretion, it determines that the KK's use of the AJ Mark or
+Logo tarnishes, blurs or dilutes the quality associated with such AJ Mark or
+Logo or the associated goodwill, such use being in breach of this Agreement or
+the AJI trademark guidelines that AJI supplies to the KK in writing, and such
+problem is not cured within ten (10) Business Days of notice of breach with
+respect to "top level" Web pages, currently the KK's site home page, the
+response page and the results page frame, and within thirty (30) Business Days
+of notice of breach with respect to all other media.
+
+                  (iii) Ownership. The KK acknowledges that title to and
+ownership of the AJ Marks and Logos shall remain with AJI or its licensors, as
+shall the renown of the AJ Marks and Logos worldwide. All use of the AJ Marks
+and Logos by the KK shall inure to AJI's benefit or that of its licensors. The
+KK shall not take any action inconsistent with AJI's or its licensors' ownership
+of the AJ Marks and Logos, and any benefits accruing from use of such AJ Marks
+and Logos shall automatically vest in AJI or its licensors. The KK shall not use
+the AJ Marks or Logos in any way as an endorsement or sponsorship of any third
+party without the prior written consent of AJI (not to be unreasonably delayed).
+The KK shall not adopt, use or attempt to register any trademarks or trade names
+that are confusingly similar to the AJ Marks or Logos.
+
+                  (iv) Right to Modify. Subject to subsections (A) and (B) below
+AJI may modify the AJ Marks from time to time in its sole discretion, whereupon
+it will promptly notify the KK of any such modification. Notwithstanding the
+foregoing:
+
+      (A) The KK shall have the right to continue to use any old AJ Mark or use
+a new one, except in the event (I) of an alleged infringement by such AJ Mark of
+a third party trademark, (II) a judgment obtained against AJ because of
+trademark infringement which enjoins the further use of such AJ Mark, (III) AJI
+has obtained a written legal opinion that the continued use of such old AJ Mark
+or the use of the new AJ Mark presents a material substantial risk of being
+deemed to constitute the infringement of a third party trademark or servicemark
+or other intellectual property right, or (IV) in AJI's good faith and reasonable
+opinion, the continued use of the old AJ Mark or the use of a new one is likely
+to substantially diminish the value of the AJ Marks and/or Logos on a worldwide
+basis.
+
+-------
+|*|   Indicates that certain information in this exhibit has been omitted and
+      filed separately with the Securities and Exchange Commission. Confidential
+      treatment has been requested with respect to the omitted portions.
+
+
+                                      -15-
+<PAGE>
+
+                                                                EXHIBIT 10.5.2.1
+
+      (B) The KK may request that AJI grant the KK permission (which AJI will
+not unreasonably withhold or delay) to delay the introduction of the
+modification of the AJ Marks into the Territory by up to six (6) months where
+the KK reasonably considers either (A) that it requires this time to allow it to
+incorporate the revised marks in promotional material, or (B) that it has
+recently spent substantial amounts in promoting the previous AJ Marks.
+
+      (C) The KK may notify AJI within ten (10) Business Days that, in its
+reasonable opinion, the proposed change to the AJ Marks would be unsuitable in
+the Territory on the grounds that the revised AJ Marks would be offensive,
+illegal, libelous, amount to an infringement of a trademark or passing-off, or
+bear a derogatory or unintended meaning, or amount to a sexual innuendo
+(hereafter all referred to as "Unsuitable"), in which case AJI shall consider
+whether it agrees with the KK (in which case it shall not introduce the modified
+AJ Mark(s) in the Territory.) AJI shall advise the KK of its decision within ten
+(10) Business Days. AJI's decision shall be final and binding upon the KK unless
+the KK elects to contest such decision by demonstrating to the satisfaction of
+an arbitration panel appointed under Section 15(d) that the proposed change to
+the AJ Marks would be Unsuitable in the Territory. In such event, the KK shall
+not be obligated to implement the proposed change in the AJ Marks until the
+arbitrator's final decision has been issued.
+
+                  (v) Moral Rights. The KK hereby irrevocably transfers and
+assigns to AJI any and all Moral Rights (as defined below) that the KK may have
+in or with respect to all AJ Marks or the Logos. To the extent the KK cannot
+assign such rights, the KK hereby waives and agrees never to assert such rights
+against AJI, its affiliates or any of their licensees or assignees. If the KK
+has any right to any AJ Marks or the Logos that cannot be assigned to AJI or
+waived by the KK, the KK unconditionally and irrevocably grants to AJI, during
+the term of such rights, an exclusive, irrevocable, perpetual, worldwide, fully
+paid and fee-free license, with rights to sublicense throughout multiple levels
+of sublicensees, to reproduce, adapt, modify, create derivative works of,
+distribute, publicly perform and publicly display by all means now known or
+later developed such rights. In addition, the KK agrees to use commercially
+reasonable efforts to obtain such assignment, waiver, covenant not to assert
+such rights, or license from any subsidiary, subcontractor, or employee who
+creates, either in whole or part, AJ Marks or Marks derived from AJ Marks, at
+AJI's cost and expense. "MORAL RIGHTS" means any right to (i) retract any AJ
+Marks or the Logos from the public; (ii) claim creation of or be accredited as
+creator of any AJ Marks or the Logos; (iii) object to any distortion, mutilation
+or other modification of any AJ Marks or the Logos; or (iv) any and all similar
+rights, existing under judicial or statutory law of any country or jurisdiction
+in the world, or under any treaty regardless of whether or not such right is
+called or generally referred to as a moral right.
+
+                  (vi) Registration. AJI shall obtain and maintain registration
+of the AJ Marks as utilized by the KK within the country of Japan. AJI shall
+file all appropriate applications to register the AJ Marks in Japan within sixty
+(60) days of the Effective Date. AJI shall bear all costs of obtaining and
+maintaining such registration.
+
+-------
+|*|   Indicates that certain information in this exhibit has been omitted and
+      filed separately with the Securities and Exchange Commission. Confidential
+      treatment has been requested with respect to the omitted portions.
+
+
+                                      -16-
+<PAGE>
+
+                                                              EXHIBIT 10.5.2.1
+
+            j. URLs. AJI shall license to the KK the URL. The KK will register
+and own any and all additional URLs that serve the KK. The KK acknowledges that
+the URL, or any portion of it, may be registered in the name of one or more
+entities not owned or controlled by AJI. The parties further acknowledge that
+the URL, or any portion of it, may be registered in the name of one or more
+entities not owned or controlled by TCI and the KK. Notwithstanding anything to
+the contrary provided in this Agreement, each of TCI and the KK undertakes that
+(at such time when such assignment and transfer shall be permitted under
+Japanese law) upon AJI's request, at its cost and expense, it shall cause such
+entity or entities controlled by TCI or the KK (as the case may be) to freely
+assign and transfer to AJI (or such entity or entities as AJI may designate for
+that purpose). The KK will register and own any and all additional URLs that
+serve the KK. The KK acknowledges that the URL, or any portion of it, may be
+registered in the name of one or more entities not owned or controlled by AJI.
+
+      4. SOURCE CODE LICENSE.
+
+            a. Source Code License. Solely in order to enable the KK to perform
+the Internationalization and Localization of the AJ Software in accordance with
+its obligations under Section 5(e) below, AJI will provide the KK with the AJ
+Software, all Updates and Documentation in accordance with Sections 6(a) and
+6(b). Therefore, subject to the terms and conditions of this Agreement, AJI
+hereby grants to the KK a limited, non-exclusive, non-transferable (except as
+herein provided) license to the Source Code in order to reproduce and make
+derivative works of the AJ Software and Licensed Software and such Updates
+solely for purposes of performing the Internationalization and the Localization
+(collectively, the "WORK"), and solely so long as the Work is being performed.
+All other rights in or to the AJ Software and the Updates are reserved to AJ.
+
+            b. Source Code Work Facility. The Source Code shall only be kept at,
+and all work performed on the Source Code shall be done solely at, the
+facilities of an AJI Subsidiary in Tokyo, Japan or the Tokyo facilities of an
+Approved Sub-contractor (the "SOURCE CODE WORK FACILITY"). All access to the
+Source Code shall be managed by the Source Code Work Facility. At a minimum, AJI
+shall require that the Source Code Work Facility permit the KK to have all free
+access to the Source Code at the Source Code Work Facility, during normal
+business hours or as needed in case of emergency. The KK agrees not to reproduce
+the AJ Software, Licensed Software or relevant Updates except as reasonably
+necessary to perform the Work and shall use the Source Code for the AJ Software,
+Licensed Software and the relevant Updates only at the Source Code Work
+Facility, subject always to the Source Code Restrictions set forth in EXHIBIT D.
+If the KK (or the relevant Approved Sub-contractor) wishes to move the Source
+Code to another Source Code Work Facility, the KK shall seek AJI's prior written
+approval of transfer and demonstrate that it is being moved to the new facility
+for the sole purpose of performing the Work. Only the Chief Executive Officer of
+Ask Jeeves may grant such permission, not to be unreasonably withheld, and
+actual transportation of the Source Code shall be managed and performed by the
+current Source Code Work Facility.
+
+-------
+|*|   Indicates that certain information in this exhibit has been omitted and
+      filed separately with the Securities and Exchange Commission. Confidential
+      treatment has been requested with respect to the omitted portions.
+
+
+                                      -17-
+<PAGE>
+
+                                                                EXHIBIT 10.5.2.1
+
+            c. Delivery of Internationalized Code. As soon as the
+Internationalization is completed, or at such other times as the Parties may
+agree, the KK will deliver a copy to AJI of the Internationalized AJ Software,
+Licensed Software or Update (as the case may be) in both Object Code and Source
+Code, along with related technical documentation.
+
+            d. Custody; Duty of Care. The KK shall treat the Source Code as
+Confidential Information in accordance with Section 8. Without limiting the
+foregoing, the KK shall at all times comply with the Source Code Restrictions
+attached hereto as EXHIBIT D. Whenever possible, the KK shall cooperate with AJI
+to take all necessary measures to protect the security of the Source Code, both
+in the United States and in the event that the Source Code is moved to Japan
+pursuant to Section 6(b). The KK may copy only such portions of the Source Code
+as are necessary for the Internationalization, Localization and/or use of the AJ
+Software or Licensed Software in Japanese.
+
+            e. Termination of President of KK. In the event the Source Code is
+released to an unauthorized person by reason of the KK's breach of the
+provisions of this Section 4 and of Exhibit D, the president of the KK shall be
+terminated immediately. A new president shall then be appointed in accordance
+with Section 10.3 of the Joint Venture Agreement.
+
+      5. PAYMENT OBLIGATIONS OF THE KK.
+
+            a. Initial Agreed Fee. In consideration of the rights granted to the
+KK in this Agreement, the KK shall pay to AJI a non-refundable initial agreed
+fee (the "Initial Agreed Fee") of |*|Dollars ($|*|) which shall be payable as
+follows:
+
+                  (i)   |*| Dollars ($|*|) upon closing of this Agreement;
+
+                  (ii)  |*|Dollars ($|*|) thirty (30) days from the Effective
+                        Date; and
+
+                  (iii) |*|Dollars ($|*|) sixty (60) days from the Effective
+                        Date.
+
+      Notwithstanding anything herein provided to the contrary, the KK expressly
+understands and agrees that the KK's payment obligation of the entire Initial
+Agreed Fee shall be subject only to AJI's compliance with its obligation to
+deliver the Source Code.
+
+            b. AJI Knowledgebase Service Fees. The KK acknowledges that AJI has
+performed Japanese Knowledge Base development services for the KK prior to the
+Effective Date. AJI shall present one or more invoices to the KK for such
+services at its regular rates for these services limited to salary (including
+payroll taxes, if any), airfare from and to Japan and accommodation, but in no
+event shall the KK be obligated to pay more than $|*|. The KK shall pay such
+invoice(s) to AJI promptly upon receipt, provided such invoiced amounts are
+reasonable. If timely presented, the first such invoice shall be payable on the
+Effective Date.
+
+-------
+|*|   Indicates that certain information in this exhibit has been omitted and
+      filed separately with the Securities and Exchange Commission. Confidential
+      treatment has been requested with respect to the omitted portions.
+
+
+                                      -18-
+<PAGE>
+
+                                                              EXHIBIT 10.5.2.1
+
+            c. Revenue Based Fee. The KK shall pay to AJI a Revenue Based Fee on
+Gross Revenues, payable quarterly within thirty (30) days following each
+calendar quarter, subject to year-end adjustment for returns and Gross Revenues
+that are booked as uncollectible, in consideration of the KK's continued use of
+all AJ Marks and AJ Assets. Payments shall be made as follows:
+
+                  (i) Before the initial public offering of the KK securities,
+the KK shall pay to AJI a Revenue Based Fee of |*|percent (|*|%) of the KK's
+Gross Revenues, payable quarterly, except that no such Revenue Based Fee shall
+be due with respect of any Gross Revenues accrued during the first 12-month
+period following the first date on which revenue was recognized. It is
+understood that for the Revenue Based Fees payable after such initial
+twelve-month period, the first payment period shall begin on a partial quarter;
+
+                  (ii) After the initial public offering of the KK securities,
+the KK shall pay to AJI a Revenue Based Fee of |*|percent (|*|%) of the KK's
+Gross Revenue, payable quarterly;
+
+                  (iii) Revenues shall be attributed to the date on which it is
+accrued for accounting purposes;
+
+                  (iv) AJI shall have the right examine the KK's books and
+records in accordance with Section 13.2 of the JV Agreement.
+
+      In the event of a dissolution of the KK by mutual agreement of the parties
+pursuant to the JV Agreement, the KK's obligation to pay such Revenue Based Fees
+shall terminate and AJI shall have no further obligation to provide Updates and
+support.
+
+            d. Taxes. The KK shall be responsible for any taxes owing or
+assessed against all payments under this Agreement paid or received by the KK
+under the laws of the Territory. In addition, the KK shall pay, and indemnify
+and hold AJI harmless from and against, any and all sales, use, excise,
+value-added or similar tax, fee or duty, including any penalties and interest
+levied on the income, sales and operations of the KK, including the rendering of
+Consumer and Corporate Services anywhere in the Territory. The KK's obligations
+in the preceding sentence shall also apply to any tax on funds restricted from
+expatriation to Japan by the KK under the laws of any jurisdiction within the
+Territory. The KK shall withhold any applicable withholding taxes from the
+Initial Agreed Fee and the Revenue Based Fee (i.e. if the relevant Fee is $100
+and 10% taxes are to be withheld, then the KK will remit $90 to AJI); provided,
+however, that the KK shall notify AJI at least ten (10) days prior to the
+withholding.
+
+            e. Internationalization and Localization. In consideration of AJI's
+obligations hereunder, the KK shall be solely responsible for all
+Internationalization and Localization of the AJ Software and Localization of
+Updates licensed hereunder. Internationalization and Localization shall be
+performed either by personnel of the KK or by Approved Sub-contractors engaged
+by the KK, at the Source Code Work Facility. Any agreement with any such
+Approved
+
+-------
+|*|   Indicates that certain information in this exhibit has been omitted and
+      filed separately with the Securities and Exchange Commission. Confidential
+      treatment has been requested with respect to the omitted portions.
+
+
+                                      -19-
+<PAGE>
+
+                                                              EXHIBIT 10.5.2.1
+
+Sub-contractor shall be subject to AJI's prior written approval and shall at
+least include the Source Code Restrictions set forth in EXHIBIT D. The KK shall
+bear all costs of the Localization of the AJ Software and the AJ Assets.
+
+            f. Development and Promotion of the Consumer and Corporate Services.
+The KK will use commercially reasonable efforts to actively develop, deploy and
+promote the Consumer Services in the Consumer Field of Use in the Territory and
+Corporate Services in the Corporate Field of Use in the Territory at the KK's
+sole cost, subject to the terms and conditions of this Agreement and in
+accordance with the Joint Venture Agreement and the Business Plan. The KK shall
+be solely responsible for all costs associated with the creation of the KK
+Assets, all operational costs for the KK Web site, and all advertising and
+promotional costs associated with the operation of the KK site. The KK shall
+bear sole responsibility for all marketing, promotion, sales, business
+development and engineering activities of the KK site, as well as the offering
+of Consumer Services in the Consumer Field of Use and Corporate Services in the
+Corporate Field of Use. The parties acknowledge and agree that the KK shall
+develop the KK Assets for the site, and obtain by license appropriate
+third-party content for the site. Any such licenses to third party content shall
+run to the KK, and shall terminate upon dissolution of the KK.
+
+            g. Synchronization with Ask.com Site. The KK acknowledges the
+importance of maintaining a common look and feel and feature set for all natural
+language question answering sites and services powered by Ask Jeeves' technology
+worldwide. The KK shall ensure that the initial launch of all Web sites and
+services in the Consumer Field of Use shall reflect the look and feel and
+features of the Ask.com Web site and its related sites. The parties anticipate
+that the KK's sites and services may use variations on the "Ask Jeeves" name and
+butler logo and enter into various co-branding arrangements for specific pages
+on such sites via the display of sponsor's banners and other means. All such
+variations on the "Ask Jeeves" name or the Logos, and all proposed co-branding
+arrangements, must be consistent with AJI's trademark and copyright guidelines
+and must be approved in writing in advance by AJI in its reasonable discretion.
+
+            h. Service Levels. The KK will operate all sites and services in the
+Consumer Field of Use in a manner which is consistent with the current and
+future quality standards, of the Ask.com site and which meets uptime and
+response times and other performance standards for users of the KK's services as
+recommended by AJI to and approved by the KK Board of Directors as long as AJI
+has representation on the KK Board equal to one-half of its members.
+
+            i. Compliance With Laws. The KK shall comply with all applicable
+laws, regulations, rules, directives, ordinances and orders regarding the
+marketing and performance of services in the Field of Use in the Territory and
+the creation and dissemination of content. The KK will immediately notify AJI of
+any investigation, inquiry or other issue with respect to the laws of any
+jurisdiction in which the KK operates or intends to operate. Without limiting
+the foregoing, the KK covenants that at all relevant times: (i) it will promptly
+obtain or have obtained all governmental approval, permits and licenses, and
+will promptly make or will have made all governmental filings and registrations,
+necessary or prudent for the marketing and
+
+-------
+|*|   Indicates that certain information in this exhibit has been omitted and
+      filed separately with the Securities and Exchange Commission. Confidential
+      treatment has been requested with respect to the omitted portions.
+
+
+                                      -20-
+<PAGE>
+
+                                                              EXHIBIT 10.5.2.1
+
+performance of Consumer Services and the creation and distribution of content in
+the Territory, (ii) it will be in compliance with the Foreign Corrupt Practices
+Act of the United States, and (iii) AJI is not required to obtain any
+governmental approval, permits or licenses as a result of this Agreement, AJI's
+performance hereunder or any payments made by the KK hereunder. Without limiting
+its other remedies, if after having given notice to the KK that it is in breach
+of any of the foregoing provisions, (if the breach is capable of being cured)
+the KK has failed to cure such breach within sixty (60) days, and if AJI
+reasonably believes there is a risk of potential criminal sanctions against any
+officer or employee of either the KK or AJI, then AJI may suspend its
+performance of any or all obligations herein, including without limitation,
+AJI's obligation to deliver Updates to the KK, for so long as AJI reasonably
+believes that the KK is in breach of this Section 5(i).
+
+            j. Content Standards. The KK shall not provide any content to users
+that to the KK's knowledge: (i) infringes any third party's copyright, patent,
+trademark, trade secret or other proprietary rights or rights of publicity or
+privacy; (ii) violates any law, statute, ordinance, directive, or regulation
+(including, without limitation, the laws and regulations governing export
+control, unfair competition, antidiscrimination or false advertising); (iii) is
+defamatory, trade libelous, unlawfully threatening or unlawfully harassing; (iv)
+is obscene, harmful to minors or child pornographic; (v) contains any viruses,
+Trojan horses, worms, time bombs, cancelbots or other computer programming
+routines that are intended to damage, detrimentally interfere with,
+surreptitiously intercept or expropriate any system, data or personal
+information; or (vi) is materially false, misleading or inaccurate.
+
+            k. Global Provisions.
+
+                  (i) No Solicitation. Each party hereby undertakes that it will
+not (A) solicit orders for any Corporate Services from customers headquartered
+outside its territory, (B) engage in any advertising or marketing activity for
+any Corporate Services outside its territory, (C) take any actions to place any
+Corporate Services in any market outside its territory, or (D) maintain any
+marketing facilities for Corporate Services outside its territory. AJI expressly
+reserves all its and its Affiliates' rights in relation to marketing, sales and
+licensing of Corporate Services outside the Territory. AJI shall have no
+obligation to provide service support for any customers of the KK outside its
+territory.
+
+                  (ii) Whenever the KK wants to solicit any potential corporate
+customer headquartered outside Japan to provide Corporate Services to it in
+Japanese, the KK shall first notify AJI of such intention, whereupon the KK and
+AJI shall coordinate their selling efforts (together with other Distributors if
+appropriate or desirable).
+
+                  (iii) If the KK receives a request from AJI or one or more
+other Distributors (the "AJ ENTITY") to provide Corporate Services in Japanese,
+the KK shall use commercially reasonable efforts to provide a binding quote (the
+"QUOTE AMOUNT") and schedule for rendering those Corporate Services with the
+information and in the format agreed between the KK and the AJ Entity within
+five (5) Business Days following the KK's obtaining all relevant
+
+-------
+|*|   Indicates that certain information in this exhibit has been omitted and
+      filed separately with the Securities and Exchange Commission. Confidential
+      treatment has been requested with respect to the omitted portions.
+
+
+                                      -21-
+<PAGE>
+
+                                                                EXHIBIT 10.5.2.1
+
+information from the AJ Entity, it being understood and agreed that obtaining
+all such relevant information may require the KK to conduct one or more
+in-person visits to the relevant potential Corporate Customer, a technical
+analysis and similar actions by the KK or such AJ Entity. The AJ Entity shall
+pay the KK not less than the Quote Amount. The Quote Amount will be based upon a
+sublicensing fee and other charges and on terms no less favorable than those
+offered to comparable Corporate Customers of the KK. The AJ Entity may use the
+contents of the quote to determine pricing for a potential corporate customer in
+its territory.
+
+            (iv) For the first two (2) requests of a Quote Amount, in the event
+that the KK is unable to provide a Quote Amount in accordance with the preceding
+paragraph, (without otherwise limiting any right or license granted the KK
+pursuant to this Agreement) AJI has the right to provide the Quote Amount and
+the requested Corporate Services in Japanese to the AJ Entity in question and to
+perform all necessary activities in connection therewith. In such event, the KK
+will grant to AJI (A) a fee-bearing license to use the KK Assets solely for the
+purposes of providing the Corporate Services to the relevant corporate customer,
+and (B) a fee-bearing sublicense of the Corporate Services Software, Localized
+Development Tools, and any other materials as reasonably necessary or desirable
+in connection with the Corporate Services to be provided to the relevant
+corporate customer. The terms of the license shall be determined by the parties
+in good faith at the time of grant of the license. After the first two (2)
+requests for a Quote Amount, the KK and AJI shall enter into good faith
+negotiations to determine how to handle the Quote Amount in the event of a
+backlog or other urgent reasons, on a case by case basis.
+
+      6. AJI OBLIGATIONS.
+
+            a. Initial Delivery. At the Effective Date, AJI shall deliver to the
+KK all the AJ Software and Development Tools in both Object Code and Source
+Code, and Documentation, solely for the purposes set forth in Section 4(a). The
+Source Code shall be delivered to the KK by delivery to the Source Code Work
+Facility, which the KK agrees constitutes delivery of the Source Code to the KK.
+AJI shall provide the KK with notice of the delivery and its location.
+
+            b. Delivery of Updates. AJI shall update a delivery schedule every
+calendar quarter to indicate which Updates are expected or contemplated for the
+next year. AJI shall provide to KK the Updates in both Object Code and Source
+Code quarterly, with comments as are customary in the industry, together with
+special notes AJI determines are appropriate, solely for the purpose of
+Localization by the KK. All delivery of the Updates Source Code shall be made to
+the Source Code Work Facility, but only so long as no company listed on Exhibit
+F to the JV Agreement is a shareholder of the KK who has access to the Source
+Code. In the event AJI fails to deliver the Update quarterly as scheduled, AJI
+shall have ten (10) days to cure such default following the KK's notice of
+breach. If at the end of such 10-day period AJI still fails to comply with its
+delivery obligation with respect to such Update, the KK shall as its sole
+remedy, at AJI's expense, send up to two engineers to AJ's site to retrieve the
+Source Code in order for to KK to carry out the Internationalization, it being
+understood that the KK engineers shall be subject to the Source Code
+Restrictions set forth in EXHIBIT D, and shall bring the Source Code
+
+-------
+|*|   Indicates that certain information in this exhibit has been omitted and
+      filed separately with the Securities and Exchange Commission. Confidential
+      treatment has been requested with respect to the omitted portions.
+
+
+                                      -22-
+<PAGE>
+
+                                                              EXHIBIT 10.5.2.1
+
+directly to the Source Code Work Facility. At such time as AJI in its sole
+discretion deems it to be prudent, AJI shall, at its sole expense, pursue
+independent research and development of alternative technology to the technology
+at issue in the currently existing Patent Suits.
+
+            c. Development of Alternative Technology. At such time as AJI in its
+sole discretion deems it prudent, AJI shall, at its sole expense, pursue
+independent research and development of alternative technology to the technology
+at issue in the current existing Patent Suits.
+
+            d. Support. AJI agrees to provide, either itself or by
+subcontracting to Ask Jeeves or such other entity as AJI deems reasonably
+appropriate in consultation with the KK, the technical support, training and
+installation described in EXHIBIT E attached hereto.
+
+            e. Compliance With Laws. AJI shall comply with all applicable laws,
+regulations, rules, directives, ordinances and orders regarding the development
+of the AJ Software and the creation and dissemination of Updates. AJI will
+immediately notify the KK of any investigation, inquiry or other issue with
+respect to the laws of any jurisdiction in which AJ operates or intends to
+operate. Without limiting the foregoing, AJI covenants that at all relevant
+times: (i) it will have obtained all governmental approval, permits and
+licenses, and will have made all governmental filings and registrations,
+necessary or prudent for the Localization and development of the AJ Software and
+the creation and dissemination of Updates in the Territory, and (ii) it is in
+compliance with the Foreign Corrupt Practices Act of the United States. Without
+limiting its other remedies, if after having given notice to AJI that it is in
+breach of any of the foregoing provisions, (if the breach is capable of being
+cured) AJI has failed to cure such breach within sixty (60) days, and if the KK
+reasonably believes there is a risk of potential criminal sanctions against any
+officer or employee of either the KK or AJI, then the KK may suspend its
+performance of any or all obligations herein, including without limitation, the
+KK's obligation to pay Revenue Based Fees pursuant to Section 5(c), for so long
+as the KK reasonably believes that AJI is in breach of this Section 6(e).
+
+            f. Contract with TCI for Advertising. AJI shall use commercially
+reasonable efforts to cause the KK to contract with TCI or an affiliate of TCI
+for advertising purposes and back office support regarding the Consumer Services
+and Corporate Services if such support is offered at no more than arms-length
+prices.
+
+            g. Taxes. AJI shall be responsible for any taxes owing or assessed
+against all payments under this Agreement under the laws of the United States.
+AJI shall pay, and indemnify and hold the KK harmless from and against, any and
+all sales, use, excise, value-added or similar tax, fee or duty (including for
+the avoidance of doubt withholding taxes which shall be deducted by the KK if
+applicable and taxes based on AJI's net income), including any penalties and
+interest, as well as all costs associated with the collection or withholding
+thereof, levied on AJI's income, sales and operations, including the delivery of
+the Updates to the KK, or any payments made by the KK to AJI hereunder.
+
+-------
+|*|   Indicates that certain information in this exhibit has been omitted and
+      filed separately with the Securities and Exchange Commission. Confidential
+      treatment has been requested with respect to the omitted portions.
+
+
+                                      -23-
+<PAGE>
+
+                                                                EXHIBIT 10.5.2.1
+
+      7. INFRINGEMENT CLAIMS.
+
+            a. Notice of (Threatened) Infringement. In the event that the KK or
+AJI learns of any infringement or threatened infringement of the AJ Marks or of
+any allegation or claim by any person that an AJ Mark is liable to cause
+deception or confusion to the public, or is liable to dilute or infringe any
+right of any person, the KK or AJI, as the case may be, shall notify the other
+Party. AJ shall take action against any such unauthorized use or infringement.
+AJ shall promptly notify the KK of its determination and shall briefly describe
+the action, if any, which it shall take.
+
+            b. Litigation Control. In the event that AJ initiates litigation
+against any person in connection with the foregoing, AJ shall choose the
+attorneys, control the litigation, pay the litigation expenses, and retain any
+damages recovered as a result of any judgment in favor of AJ.
+
+      8. CONFIDENTIALITY.
+
+            a. Standard of Care. Each Party agrees to do the following with
+respect to any Confidential Information: (i) exercise the same degree of care to
+safeguard the confidentiality of, and prevent the unauthorized use of, such
+information as that Party exercises to safeguard the confidentiality of its own
+Confidential Information of a like nature, but in no event less than a
+reasonable degree of care, and (ii) instruct and require such advisors,
+employees, sublicensees, and agents to maintain the confidentiality of such
+information, and not to use such Confidential Information except as expressly
+permitted herein. Each Party further agrees not to remove or destroy any
+proprietary or confidential legends or markings placed upon any documentation or
+other materials. Notwithstanding the foregoing, regardless of (1) whether any
+Source Code or other information contained within the AJ Software, the Licensed
+Software and Documentation was known to the KK or TCI (or employees, contractors
+or consultants of either) before the date of delivery to the KK, or (2) any
+components of the AJ Software, the Licensed Software, the Documentation and the
+U.S. Knowledgebase are confidential and proprietary and the Confidential
+Information of AJI and its licensors. Similarly, regardless of (1) whether any
+Source Code or other information contained within the KK Technology was known to
+AJI or its employees before the date of delivery to AJI, or (2) any components
+of the KK Technology or the accompanying documentation is labeled confidential
+or proprietary when delivered to AJI by the KK, the Japanese Knowledge Base and
+the KK Technology are confidential and proprietary and are the Confidential
+Information of the KK.
+
+            b. Proprietary Agreement. The foregoing confidentiality obligations
+shall also apply to the contents of this Agreement and the JV Agreement.
+
+            c. Government Disclosures. The obligations under this Section 8
+shall not prevent the Parties from disclosing the Confidential Information or
+terms of this Agreement and the JV Agreement to any governmental authority as
+required by law or regulation (including those requiring filing of documents in
+connection with registrations under the Securities Act of 1933) or as ordered by
+a court (provided that the Party intending to make such disclosure in such
+
+-------
+|*|   Indicates that certain information in this exhibit has been omitted and
+      filed separately with the Securities and Exchange Commission. Confidential
+      treatment has been requested with respect to the omitted portions.
+
+
+                                      -24-
+<PAGE>
+
+                                                              EXHIBIT 10.5.2.1
+
+circumstances: (i) has given the appropriate other Party prompt notice prior to
+making such disclosure so that the other Party may seek a protective order or
+other appropriate remedy prior to such disclosure, and (ii) cooperates fully
+with the other Party in seeking such order or remedy), and seeks confidential
+treatment of the Confidential Information, this Agreement and the JV Agreement
+when disclosed to a governmental authority. In the event the governmental
+authority denies confidential treatment, the Parties will use their best efforts
+to seek a protective order to redact Confidential Information, financial
+information and payment schedules from this Agreement and the JV Agreement.
+
+      9. DISCLAIMER OF WARRANTIES.
+
+      EXCEPT AS EXPRESSLY PROVIDED IN SECTION 10, THE AJ SOFTWARE, THE LICENSED
+SOFTWARE, THE JAPANESE KNOWLEDGE BASE, THE AJ MARKS AND THE DOCUMENTATION ARE
+LICENSED ON AN "AS IS" BASIS, WITHOUT ANY WARRANTY OF ANY KIND. WITHOUT LIMITING
+THE FOREGOING, AJI MAKES NO WARRANTIES, WHETHER EXPRESS, IMPLIED OR STATUTORY,
+WITH RESPECT TO THE AJ SOFTWARE, THE LICENSED SOFTWARE, THE JAPANESE KNOWLEDGE
+BASE, THE AJ MARKS OR THE DOCUMENTATION, INCLUDING, WITHOUT LIMITATION, ANY
+WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+      10. WARRANTIES AND REPRESENTATIONS OF AJI AND ASK JEEVES.
+
+      Each of AJI and Ask Jeeves (but only as to the paragraphs which relate to
+it) hereby warrants and represents to the KK that:
+
+            a. Good Standing. Each of AJI and Ask Jeeves is duly organized,
+validly existing, and in good standing under the laws of the State of Delaware
+and is duly qualified to do business and is in good standing in each
+jurisdiction in which it is required to be so qualified;
+
+            b. Authority. Each of Ask Jeeves and AJI has the power and authority
+to enter into this Agreement;
+
+            c. Agreement Enforceable. This Agreement is enforceable against Ask
+Jeeves and AJI in accordance with its terms, except as such enforceability (i)
+is limited as to Ask Jeeves to the provisions with respect to which it has
+executed this Agreement and (ii) may be limited by bankruptcy or other laws
+affecting the enforcement of creditors' rights generally or by general equity
+principles, and does not violate or create a default under any instrument or
+agreement binding on Ask Jeeves or AJI;
+
+            d. Ownership of AJ Marks. Ask Jeeves (i) is and will be the owner of
+the AJ Assets and the AJ Marks, except that it does not yet own the domain names
+listed on Exhibit A, (ii) has full right, title and interest in and to the AJ
+Assets and the AJ Marks, and (iii) AJI has
+
+-------
+|*|   Indicates that certain information in this exhibit has been omitted and
+      filed separately with the Securities and Exchange Commission. Confidential
+      treatment has been requested with respect to the omitted portions.
+
+
+                                      -25-
+<PAGE>
+
+                                                                EXHIBIT 10.5.2.1
+
+full power and authority to grant the license to the AJ Assets licensed
+hereunder and the AJ Marks, as well as the limited license to the Source Code
+granted under this Agreement;
+
+            e. No Infringement. So far as either Ask Jeeves or AJI is aware, the
+AJ Assets, and the AJ Marks, and the usage rights granted under this Agreement
+do not infringe on, or constitute an unauthorized use of, the rights, title or
+interests of any other person. Further, on the Effective Date, no person has
+made any such material claim of infringement or unauthorized use against AJI or
+Ask Jeeves except for the Katz Suit and the IPLearn Suit;
+
+            f. No Litigation. So far as either Ask Jeeves or AJI is aware, on
+the Effective Date, there are no pending or threatened actions or proceedings
+before any court or administrative agency that could have a material adverse
+effect on AJI or Ask Jeeves to perform AJI's obligations under this Agreement,
+except for the Katz Suit and the IPLearn Suit;
+
+            g. No Conflict. The execution, delivery and performance by AJI of
+this Agreement does not conflict with or create a default under AJI's articles
+of incorporation or by-laws or any material provision of any indenture, note,
+bond, security agreement or other agreement of AJI or under which AJI or any of
+its properties is bound, except that it conflicts with AJI's obligations under
+the Global Agreement with Ask Jeeves and the Ask Jeeves UK Partnership;
+
+            h. Trademark Registration. AJI has filed all appropriate application
+in Japan to register the AJ Marks or will initiate such filings within sixty
+(60) days of the Effective Date; and
+
+            i. Governmental Approval. AJI shall obtain all governmental
+approvals necessary for it to enter into and perform this Agreement, and TCI
+shall provide reasonable assistance in obtaining such approvals.
+
+      11. WARRANTIES AND REPRESENTATIONS OF THE KK AND TCI.
+
+      Each of TCI (but only as to the paragraphs which relate to it) and the KK
+warrants and represents to AJI that:
+
+            a. Good Standing. Each of TCI and the KK is duly organized, validly
+existing, and in good standing under the laws of Japan and is duly qualified to
+do business and is in good standing in each jurisdiction in which it is required
+to be so qualified;
+
+            b. Authority. Each of TCI and the KK has the power and authority to
+enter into this Agreement;
+
+            c. Agreement Enforceable. This Agreement is enforceable against TCI
+and the KK in accordance with its terms except as such enforceability (i) is
+limited as to TCI to the provisions with respect to which it has executed this
+Agreement and (ii) may be limited by bankruptcy or other laws affecting the
+enforcement of creditors' rights generally or by general
+
+-------
+|*|   Indicates that certain information in this exhibit has been omitted and
+      filed separately with the Securities and Exchange Commission. Confidential
+      treatment has been requested with respect to the omitted portions.
+
+
+                                      -26-
+<PAGE>
+
+                                                              EXHIBIT 10.5.2.1
+
+equity principles and does not violate or create a default under any instrument
+or agreement binding on the KK;
+
+            d. Ownership of KK Assets. The KK (i) except as set forth in this
+Agreement is and will be the owner of the KK Assets and (ii) has full right,
+title and interest in and to such KK Assets;
+
+            e. No Infringement. So far as the KK is aware, the KK Assets, do not
+infringe on, or constitute an unauthorized use of, the rights, title or
+interests of any other person and no person has made any such claim of
+infringement or unauthorized use against the KK; excepted from this warranty and
+representation and any attendant indemnification shall be any instance or
+finding, in any Patent Suit, of infringement by the AJ Assets, which finding is
+extended to include infringement by any derivatives of that technology developed
+pursuant to this Agreement, including without limitation, infringement by the KK
+Assets (to the extent such infringement arises from the underlying AJ Assets);
+
+            f. No Litigation. So far as the KK is aware, there are no pending or
+threatened actions or proceedings before any court or administrative agency that
+could have a material adverse effect on the KK's ability to perform its
+obligations under this Agreement;
+
+            g. Governmental Approval. The KK shall obtain all governmental
+approvals necessary for it to enter into and perform this Agreement; and
+
+            h. No Conflict. The execution, delivery and performance by the KK of
+this Agreement does not conflict with or create a default under the KK's
+articles of incorporation or by-laws or any material provision of any indenture,
+note, bond, security agreement or other agreement of the KK or under which the
+KK or any of its properties is bound.
+
+      12. INDEMNITY.
+
+            a. KK Indemnity.
+
+                  (i) Basic Indemnity. The KK shall indemnify and hold AJI and
+its licensors harmless from and against any and all liabilities, claims, losses,
+costs and expenses, including without limitation reasonable attorneys' fees
+which AJI, its affiliates or their licensors may incur as a result of any third
+party claims in any form arising from, relating to or in connection with (A) any
+KK Content, Consumer Services, or Corporate Services offered by the KK
+(including, without limitation, any acts or omissions relating to the KK's sales
+practices), or (B) from the KK's use of any AJ Mark or Logo other than in
+accordance with this Agreement, or (C) from any breach by the KK of Section 5(i)
+("Compliance with Laws"), Section 5(j) ("Content Standards") or Section 11
+("Warranties and Representations of the KK").
+
+                  (ii) Reseller Indemnity. In addition, the KK agrees to
+indemnify, defend and hold harmless AJI and its licensors from and against any
+and all liabilities, claims,
+
+-------
+|*|   Indicates that certain information in this exhibit has been omitted and
+      filed separately with the Securities and Exchange Commission. Confidential
+      treatment has been requested with respect to the omitted portions.
+
+
+                                      -27-
+<PAGE>
+
+                                                                EXHIBIT 10.5.2.1
+
+losses, fines, penalties, costs and expenses, including without limitation
+reasonable attorneys' fees which AJI or its licensors may incur as a result of
+any third party claims in any form arising out of (A) any statement made by or
+on behalf of the KK or any reseller of the KK regarding the function or
+operation of the Corporate Services Software or Corporate Services, and (B) any
+terms agreed to between the KK and its customers for the Corporate Services,
+where in each case, such terms do not comply with the minimum license terms set
+forth in EXHIBIT C.
+
+                  (iii) Conditions. As a condition to the KK's obligations under
+this Section 12(a), AJI will provide prompt written notice of any claim giving
+rise to an obligation of the KK hereunder, will tender the sole control of the
+defense and settlement of such claim to the KK, and will provide the KK with all
+assistance that the KK reasonably requests in connection with such defense or
+settlement.
+
+            b. AJ Indemnity.
+
+                  (i) Basic Indemnity. Each of AJI and Ask Jeeves, jointly and
+severally, shall indemnify and hold the KK harmless from and against any and all
+liabilities, claims, losses, costs and expenses, including without limitation
+reasonable attorneys' fees which the KK or its affiliates or licensees may incur
+as a result of any third party claims in any form arising from, relating to or
+in connection with any AJ Assets or from any breach by Ask Jeeves or AJI of
+Section 10 (Warranties and Representations of AJ) including in the event of any
+instance or finding of infringement as recited in Section 10(e) above. For the
+avoidance of doubt, the foregoing indemnity shall apply if as a direct result of
+any such instance or finding of AJI or Ask Jeeves' infringement the KK is also
+held by a court of competent jurisdiction to have infringed upon any third
+party's Intellectual Property Rights (whether in an action brought by such third
+party or by a Corporate Customer of the KK).
+
+                  (ii) Special Remedies in Event of Infringement. In addition to
+the foregoing, if AJI or Ask Jeeves is held by a court of competent jurisdiction
+to have infringed upon a third party's intellectual property rights, or if such
+court suspends AJ's use of the Consumer Services or Corporate Services, then AJ,
+at its sole expense, shall use all commercially reasonable efforts to (x) obtain
+a license from the rightful technology owner to permit the KK to use the
+infringed technology, (y) obtain licenses to alternative, similar technologies
+to enable the KK to continue its operations as contemplated under this
+Agreement, or (z) develop alternative, non-infringing technologies for licensing
+to the KK to continue its operations as contemplated under the JV Agreement and
+this Agreement, or failing those remedies take such other action as AJI in
+consultation with the KK may deem to be appropriate.
+
+                  (iii) Limitations of Liability. Notwithstanding anything to
+the contrary provided in this Agreement, if a modification or substitution in
+accordance with item (x) of the preceding paragraph is not possible so as to
+avoid the infringement, or AJI has been unable to procure a license in
+accordance with item (y) of the preceding paragraph, and AJI elects to proceed
+with item (z) of the preceding paragraph, AJI shall be liable for (A) all
+additional costs incurred in implementing and maintaining such alternative,
+non-infringing technologies, and (B)
+
+-------
+|*|   Indicates that certain information in this exhibit has been omitted and
+      filed separately with the Securities and Exchange Commission. Confidential
+      treatment has been requested with respect to the omitted portions.
+
+
+                                      -28-
+<PAGE>
+
+                                                              EXHIBIT 10.5.2.1
+
+actual losses (including attorneys' fees), subject to the limitation of
+liability provided in Section 13 below, incurred by the KK in the event that a
+customer of the KK sues the KK for the KK's inability or failure to provide
+Corporate Services or Consumer Services due to the finding of infringement.
+
+                  (iv) Conditions. As a condition to AJI's obligations under
+Section 12(b)(i), the KK will provide prompt written notice of any claim giving
+rise to an obligation of AJI hereunder, will tender the sole control of the
+defense and settlement of such claim to AJI, and will provide AJI with all
+assistance that AJI reasonably requests in connection with such defense or
+settlement, including any arising from a suit filed by any plaintiff to the
+Patent Suits.
+
+      13. LIMITATION OF LIABILITY.
+
+            a. EXCEPT IN THE EVENT OF A BREACH OF SECTION 8 ("Confidentiality"),
+THE KK'S EXCEEDING THE SCOPE OF THE LICENSES GRANTED PURSUANT TO SECTION 3
+("License Grants") ASK JEEVES' OR AJI'S BREACH OF EXCLUSIVITY GRANTED IN SECTION
+3, OR PAYMENTS MADE AS A RESULT OF A CLAIM UNDER SECTION 12 ("Indemnity"),
+NEITHER PARTY SHALL BE LIABLE FOR SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES
+OR LOST PROFITS ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT (HOWEVER
+ARISING, INCLUDING NEGLIGENCE).
+
+            b. EXCEPT IN THE EVENT OF A BREACH OF SECTION 8 ("CONFIDENTIALITY"),
+THE KK'S EXCEEDING THE SCOPE OF THE LICENSES GRANTED IN SECTION 3 ("LICENSE
+GRANTS") OR ASK JEEVES' OR AJI'S BREACH OF EXCLUSIVITY PROVISIONS GRANTED IN
+SECTION 3, IN NO EVENT SHALL EITHER PARTY BE LIABLE TO THE OTHER PARTY FOR
+CLAIMS MADE IN AN AMOUNT GREATER THAN:
+
+            (i) |*|DOLLARS ($|*|) FOR CLAIMS MADE DURING THE FIRST YEAR AFTER
+THE EFFECTIVE DATE;
+
+            (ii) |*|DOLLARS ($|*|) FOR CLAIMS MADE DURING THE SECOND YEAR AFTER
+THE EFFECTIVE DATE;
+
+            (iii) |*|DOLLARS ($|*|) FOR CLAIMS MADE DURING THE THIRD YEAR AFTER
+THE EFFECTIVE DATE; AND
+
+            (iv) FOR CLAIMS MADE MORE THAN THREE YEARS AFTER THE EFFECTIVE DATE,
+THE DOLLAR LIMITATION SHALL BE EQUAL TO THE AMOUNT ACTUALLY PAID BY THE KK TO
+AJI DURING THE TWELVE-MONTHS PRIOR TO THE DATE THE CLAIM WAS MADE (THE "GENERAL
+FINANCIAL CAP"). THE EXISTENCE OF ONE OR MORE CLAIMS WILL NOT ENLARGE THE LIMIT.
+THE GENERAL FINANCIAL CAP
+
+-------
+|*|   Indicates that certain information in this exhibit has been omitted and
+      filed separately with the Securities and Exchange Commission. Confidential
+      treatment has been requested with respect to the omitted portions.
+
+
+                                      -29-
+<PAGE>
+
+                                                                EXHIBIT 10.5.2.1
+
+FOR A PARTICULAR YEAR OR TIME PERIOD SHALL APPLY TO A CLAIM FOR WHICH THE
+COMPLAINING PARTY HAS GIVEN NOTICE PURSUANT TO SECTION 12(A)(III) OR 12(B)(IV)
+(AS THE CASE MAY BE) ON A DATE WITHIN THAT PARTICULAR YEAR OR TIME PERIOD.
+
+      c. THE FOREGOING PROVISIONS OF THIS SECTION 13 SHALL NOT APPLY TO
+LIABILITY FOR (I) PERSONAL INJURY OR DEATH RESULTING FROM NEGLIGENCE OR WILLFUL
+MISCONDUCT, (II) FRAUD OR FRAUDULENT MISREPRESENTATION; AND (III) ANY OTHER
+LIABILITY WHICH CANNOT BY LAW BE EXCLUDED OR LIMITED.
+
+      d. THE FOREGOING PROVISIONS OF THIS SECTION 13 SHALL APPLY TO
+INDEMNIFICATION OF THE KK FOR ANY CLAIM(S) OF INFRINGEMENT PURSUANT TO SECTION
+12(B) EXCEPT THAT (INSTEAD OF THE GENERAL FINANCIAL CAP) THERE SHALL BE A
+SPECIAL FINANCIAL CAP OF |*|DOLLARS ($|*|).
+
+      14. TERM AND TERMINATION.
+
+            a. Term. This Agreement will commence on the Effective Date and will
+remain in effect indefinitely unless terminated by the mutual agreement of the
+parties or as specified in Section 14(b).
+
+            b. Termination of JV Agreement for Special Material Breach. Without
+limiting any other remedies for material breach of any provision of this
+Agreement, the JV Agreement may be terminated by either Party on sixty (60)
+days' written notice to the other only if the other Party commits a Special
+Material Breach of this Agreement and such breach is not cured within the
+applicable cure period. For purposes of this Section, "SPECIAL MATERIAL BREACH"
+means:
+
+                  (i) as to the KK: (A) a failure to pay any fee hereunder for
+twenty (20) days after the date of AJI's notice of breach, or (B) breach of
+Section 15(j); and
+
+                  (ii) as to AJI: (A) breach of the exclusivity of the licenses
+set forth in Section 3 which has not been cured after sixty (60) days following
+the KK's notice of breach, or (B) breach of Section 15(j).
+
+            c. Effect of Termination of JV Agreement.
+
+                  (i) Dissolution of KK by Material Breach. Notwithstanding the
+foregoing, in the event of dissolution of the KK by reason of material breach of
+the JV Agreement, the KK shall assign this Agreement to the Terminating
+Shareholder (as defined in the JV Agreement) and all licenses granted hereunder
+shall continue in full force and effect as set forth in this Agreement. The
+Terminating Shareholder shall have ongoing exclusive use of the Localized
+version of the AJ Assets and KK Assets. The KK shall assign ownership of the KK
+Assets to the Terminating Shareholder. The KK shall assign its undivided
+one-half interest in
+
+-------
+|*|   Indicates that certain information in this exhibit has been omitted and
+      filed separately with the Securities and Exchange Commission. Confidential
+      treatment has been requested with respect to the omitted portions.
+
+
+                                      -30-
+<PAGE>
+
+                                                              EXHIBIT 10.5.2.1
+
+and to the Derived KK Content to the Terminating Shareholder, subject to all
+restrictions set forth in Section 2(f) of this Agreement, which shall continue
+in full force and effect. The License to the AJ Marks shall be transferred to
+the Terminating Shareholder, and the Terminating Shareholder shall obtain all
+rights, and assume all obligations of the KK for all purposes, including without
+limitation, this Agreement. Without limiting the KK's obligations under Section
+4, (A) the Defaulting Party shall otherwise return or destroy all Confidential
+Information to the nonbreaching party and certify in writing that it has done
+so, provided that the Defaulting Party shall not be required to (I) destroy
+items which it requires to continue operating its business in the ordinary
+course (so long as such items remain Confidential) or (II) purge backup and
+archival copies of its information made in the ordinary course of business which
+may contain the nonbreaching party's Confidential Information; and (B) the
+nonbreaching party will return or destroy all of Defaulting Party's Confidential
+Information and certify that it has done so, provided that the nonbreaching
+party shall not be required to (I) destroy items which it requires to continue
+operating its business in the ordinary course (so long as such items remain
+Confidential) or (II) purge backup and archival copies of its information made
+in the ordinary course of business which may contain the Defaulting Party's
+Confidential Information.
+
+                  (ii) Dissolution by Mutual Agreement. In the event of
+dissolution of the KK by reason of mutual agreement, the KK shall assign equal
+and concurrent ownership to both TCI and AJI of all KK Assets and any other
+technology, content, and property owned by it, and the KK shall assign equal and
+concurrent ownership to both TCI and AJI of all of its undivided one-half
+interest in the Derived KK Content. In the event any IP protective filings have
+been made by the KK (as to KK Assets or such other technology), under this
+section, formal assignments to TCI and AJI as co-owners of said filings shall be
+made, and authorized officers of the KK shall execute any other documentation
+necessary to evidence the co-ownership of the KK Assets and such other
+technology by the parties. Concurrently therewith, AJI shall grant to TCI a
+perpetual, fee-free, worldwide non-exclusive license to use the then existing
+Localized version of the AJ Assets. Thereafter, each of TCI and AJI shall be
+free to utilize such Localized version of the AJ Assets, KK Assets, Derived KK
+Content and such other technology in the Territory, either themselves or through
+third parties, without restriction of any kind as against one another. AJI shall
+then provide technical support to TCI at the then-current market rate for AJI's
+support services, for at least six (6) months following the dissolution date, in
+accordance with EXHIBIT E. AJI shall have exclusive use of the AJ Marks and the
+AJURL. AJI shall pay, in proportion to its ownership share in the KK, to TCI the
+fair market value of the goodwill built up in the AJURL. TCI shall have
+exclusive use of all other URLs registered by the KK, and AJI shall take any
+steps necessary to effectuate such exclusive use. TCI shall pay to AJI the fair
+market value of the goodwill built up in such other URLs.
+
+                  (iii) Buy-out of Defaulting Shareholder. In the event of a
+buy-out of a Defaulting Shareholder's interest in the KK by the Terminating
+Shareholder pursuant to the JV Agreement, the KK and all the licenses, rights
+and obligations granted to the KK under this Agreement shall remain in full
+force and effect. The Terminating Shareholder shall be entitled to purchase the
+Defaulting Shareholder's interest at either (a) price per share equal to |*|
+|*|, or (b) a purchase price of (Yen)|*| per share.
+
+-------
+|*|   Indicates that certain information in this exhibit has been omitted and
+      filed separately with the Securities and Exchange Commission. Confidential
+      treatment has been requested with respect to the omitted portions.
+
+
+                                      -31-
+<PAGE>
+
+                                                              EXHIBIT 10.5.2.1
+
+                  (iv) [INTENTIONALLY OMITTED]
+
+            d. Effect of Termination of Distribution and License Agreement. Upon
+termination of this Agreement for any reason:
+
+                  (i) all future usage rights of the KK to the AJ Assets and
+(unless specifically herein provided to the contrary) the Localized version of
+the AJ Assets shall cease, as shall AJI's obligations to provide any additional
+AJ Assets (including Updates) to the other. Following termination, AJI shall
+become free to Localize and distribute AJ Assets within the Territory.
+
+                  (ii) the license of the AJ Marks and all uses of the AJ Marks
+shall be extracted from any version of the Localized version of the AJ Assets
+(to the extent the KK has continued usage rights thereto pursuant to this
+Section 14) and the KK Assets utilized by the KK, and with regard to the KK
+Assets, all uses of the AJ Marks shall similarly be extracted. Nothing in this
+section shall operate to grant any license in or to the AJ Marks to the KK or
+TCI outside of the operation of the KK beyond the terms detailed above except
+per Section 14(d)(i).
+
+      15. MISCELLANEOUS.
+
+-------
+|*|   Indicates that certain information in this exhibit has been omitted and
+      filed separately with the Securities and Exchange Commission. Confidential
+      treatment has been requested with respect to the omitted portions.
+
+
+                                      -32-
+<PAGE>
+
+                                                                EXHIBIT 10.5.2.1
+
+            a. Force Majeure. Each party will have no liability to the other
+party as a result of any delay or failure in the performance of such party's
+obligations under this Agreement if the delay or failure is caused by events or
+circumstances beyond such party's control including earthquakes, fires, floods,
+riots, wars, labor disputes, shortages of materials or supplies, changes in laws
+or government requirements, and transportation difficulties. If either party is
+prevented from performing any of its obligations hereunder due to any such event
+or circumstance beyond its control, it will use reasonable efforts under the
+circumstances to notify the other party and to resume performance as soon as
+reasonably possible.
+
+            b. Survival. Each party's rights and obligations under the following
+Sections will survive the expiration or termination of this Agreement for any
+reason: Sections 1, 4(c), 4(d), 5(a), 5(c)(only with respect to payments accrued
+prior to termination), 5(d), 7 through 13, 14(c), 14(d) and 15.
+
+            c. Notices. All notices, consents, waivers, and other communications
+intended to have legal effect under this Agreement must be in writing, must be
+delivered to the other party at the address set forth below by personal
+delivery, telecopier or facsimile transmission, or a nationally recognized
+overnight courier, and will be effective upon personal delivery or upon
+acknowledgement of receipt of an electronic transmission. Each party may change
+its address for receipt of notices by giving notice of the new address to the
+other party.
+
+<TABLE>
+<CAPTION>
+        To AJI:                                      To the KK:
+        ------                                       ---------
+<S>                                                  <C>
+        Ask Jeeves International, Inc.               Ask Jeeves Japan, Inc.
+        12100 Wilshire Boulevard                     3-3-3 Akasaka
+        Los Angeles, CA 90025                        Minato-ku Tokyo, 107
+        Attention: George Lichter, CE-               JAPAN
+        Telecopier: 310-207-9519                     Telecopier:
+        Telephone: 310-207-9555                      Telephone:
+
+        With a copy required for any notice to:      With a copy (which shall not constitute notice) to:
+</TABLE>
+
+-------
+|*|   Indicates that certain information in this exhibit has been omitted and
+      filed separately with the Securities and Exchange Commission. Confidential
+      treatment has been requested with respect to the omitted portions.
+
+
+                                      -33-
+<PAGE>
+
+                                                                EXHIBIT 10.5.2.1
+
+<TABLE>
+
+<S>                                                <C>
+        Ask Jeeves, Inc.                           Foster Pepper & Shefelman PLLC
+        5858 Horton Street                         1111 Third Avenue  #3400
+        Emeryville, CA 94608                       Seattle, WA  98101
+        Attn: Cynthia Pevehouse, General           Attention: Lucas D. Schenck
+              Counsel
+        Telecopier: 510-985-7507                   Telecopier: (206) 447-9700
+        Telephone: 510-985-7400                    Telephone: (206) 447-4400
+
+        With a copy (which shall not constitute
+        notice) to:
+
+        Cooley Godward LLP
+        Five Palo Alto Square
+        3000 El Camino Real
+        Palo Alto, CA 94306
+        Attention: James Kitch
+        Telecopier: 650-849-7400
+        Telephone: 650-843-5027
+</TABLE>
+
+            d. Arbitration.
+
+                  (i) Subject to Section 15(d)(ii), any dispute, controversy or
+claim arising out of or relating to this Agreement, or the breach, termination,
+or invalidity thereof, shall be settled by arbitration in San Francisco,
+California, U.S.A. in accordance with the rules of JAMS/ENDISPUTE by three (3)
+arbitrators knowledgeable in the field of software licensing appointed in
+accordance with such rules. The language of the arbitration shall be English
+with Japanese translation as requested. California law shall govern any
+arbitration proceeding arising from this Agreement. The arbitration award shall
+be final and binding upon the parties, and judgment on such award may be entered
+in any court having jurisdiction thereof. To the extent permitted by law, the
+Parties shall keep proceedings and award confidential.
+
+                  (ii) Any dispute, controversy or claim arising out of or
+relating to the interpretation or the implementation of Section 14(c) shall be
+settled by Arbitration in accordance with the rules then in effect of the Japan
+Commercial Arbitration Association by three (3) arbitrators knowledgeable in the
+field of software licensing appointed in accordance with such rules. One (1) of
+the three (3) arbitrators shall be a U.S. national; one (1) arbitrator shall be
+a Japanese national; and one (1) arbitrator shall be mutually appointed by the
+other two arbitrators. Any such arbitration shall be held in Tokyo, Japan and
+shall be conducted in Japanese (with English translation to the extent requested
+by AJI or an English-speaking arbitrator). The arbitration panel shall only have
+authority to render a decision regarding (1) the breach of the Joint Venture
+Agreement and (2) the disposition of the Joint Venture Agreement. The
+arbitration panel shall have no authority to arbitrate the disposition of this
+Distribution and License Agreement. Any disposition of this Agreement shall only
+be made pursuant to Section 15(d)(i) above. The arbitration award shall be final
+and binding upon the Parties and judgment on such
+
+-------
+|*|   Indicates that certain information in this exhibit has been omitted and
+      filed separately with the Securities and Exchange Commission. Confidential
+      treatment has been requested with respect to the omitted portions.
+
+
+                                      -34-
+<PAGE>
+
+                                                                EXHIBIT 10.5.2.1
+
+award may be entered in any court having jurisdiction thereof. The Parties shall
+keep proceedings and award confidential.
+
+            e. Provisional Relief. The parties agree that the arbitrator shall
+have the authority to issue interim orders for provisional relief, including,
+but not limited to, orders for injunctive relief, attachment or other
+provisional remedy, as necessary to protect either party's name, proprietary
+information, trade secrets, know-how or any other proprietary right. The parties
+agree that any interim order of the arbitrator for any injunctive or other
+preliminary relief shall be enforceable in any court of competent jurisdiction.
+In addition, nothing in this Agreement shall be deemed as preventing either
+party from seeking provisional relief from any court of competent jurisdiction
+in accordance with Section 15(f).
+
+            f. Governing Law. This Agreement will be governed by and interpreted
+in accordance with the laws of the State of California, excluding any conflicts
+or choice of law rule or principle that might otherwise refer construction or
+interpretation of this Agreement to the substantive law of another jurisdiction.
+Section 14(c) will be governed by and interpreted in accordance with the laws of
+Japan. The parties agree that the United Nations Convention on the Sale of
+International Goods will not apply to this Agreement.
+
+            g. Injunctive Relief. It is understood and agreed by both parties
+that a breach of the provisions of this Agreement by the other may cause
+irreparable damage for which recovery of monetary damages would be inadequate,
+and that either party may seek injunctive or other equitable relief to protect
+their Confidential Information, Intellectual Property Rights and other rights
+under the Agreement, in addition to any and all remedies available at law.
+
+            h. Waiver. The failure of either party to require performance by the
+other party of any provision of this Agreement will not affect the full right to
+require such performance at any time thereafter; nor will the waiver by either
+party of a breach of any provision of this Agreement be taken or held to be a
+waiver of the provision itself.
+
+            i. Severability. If any provision of this Agreement is unenforceable
+or invalid under any applicable law or is so held by applicable court decision,
+such unenforceability or invalidity will not render this Agreement unenforceable
+or invalid as a whole, and such provision will be changed and interpreted so as
+to best accomplish the objectives of such unenforceable or invalid provision
+within the limits of applicable law or applicable court decisions.
+
+            j. Assignment. Neither this Agreement nor any rights or obligations
+of the KK or AJI under this Agreement may be assigned (by operation of law or
+otherwise) in whole or in part without the prior written consent of the other
+party, which may be withheld in the other party's sole discretion. A Change In
+Control shall be deemed to be an assignment (except as set forth in the Joint
+Venture Agreement). Any attempted assignment without the prior written consent
+of such other party will be null and void ab initio and will be a Special
+Material Breach of this Agreement. This Agreement will bind and inure to the
+benefit of the respective successors and permitted assigns of the parties.
+Either party may assign, except in connection
+
+-------
+|*|   Indicates that certain information in this exhibit has been omitted and
+      filed separately with the Securities and Exchange Commission. Confidential
+      treatment has been requested with respect to the omitted portions.
+
+
+                                      -35-
+<PAGE>
+
+                                                                EXHIBIT 10.5.2.1
+
+with a Change In Control, this agreement to a wholly-owned subsidiary without
+consent of the other party. Provided that (i) notice of such assignment is
+provided to the other party within ten (10) days of such assignment, and (ii)
+that the assigning party shall remain fully liable for all obligations incurred
+by it under this Agreement.
+
+            k. Filings. Promptly after execution of this Agreement, the KK shall
+file with the appropriate authorities of Japan, by the names of the Parties as
+required by Japanese law, an application for approval of the business
+contemplated by this Agreement.
+
+            l. Export Control. AJI shall, at its own expense, comply with all
+U.S., and other governmental laws and regulations, including those of all
+countries within the Territory, concerning the export or re-export of the AJ
+Software and Licensed Software.
+
+            m. Counterparts. This Agreement may be executed in any number of
+counterparts, each of which shall be original as against any party whose
+signature appears thereon, and all of which together shall constitute one and
+the same instrument. This Agreement shall become binding when one or more
+counterparts hereof, individually or taken together, shall bear the signatures
+of all of the parties reflected herein as signatories.
+
+            n. Currency. Unless otherwise noted, all dollar amounts refer to
+United States Dollars. All yen amounts refer to Japanese Yen.
+
+            o. Decisionmaking. The KK's decisions regarding this Agreement will
+be decided by board vote on which AJI directors have abstained.
+
+                            [Signature pages follow.]
+
+-------
+|*|   Indicates that certain information in this exhibit has been omitted and
+      filed separately with the Securities and Exchange Commission. Confidential
+      treatment has been requested with respect to the omitted portions.
+
+
+                                      -36-
+<PAGE>
+
+                                                                EXHIBIT 10.5.2.1
+
+      IN WITNESS WHEREOF, the parties, by their duly authorized representatives,
+have executed this Agreement as of the Effective Date.
+
+ASK JEEVES INTERNATIONAL, INC.
+
+By:  /s/ George Lichter
+   ------------------------------
+
+Name:   George Lichter
+     ----------------------------
+Title: President
+      ---------------------------
+
+A.J.J. Co., Ltd.
+
+By:  /s/   Seinosuke Sato
+   ------------------------------
+Name:     Seinosuke Sato
+     ----------------------------
+Title:    President
+      ---------------------------
+
+-------
+|*|   Indicates that certain information in this exhibit has been omitted and
+      filed separately with the Securities and Exchange Commission. Confidential
+      treatment has been requested with respect to the omitted portions.
+
+
+                                      -37-
+<PAGE>
+
+                                                                EXHIBIT 10.5.2.1
+
+      By the signature of its duly authorized officer, Ask Jeeves, Inc., a
+Delaware corporation, with offices at 5858 Horton Street, Emeryville, California
+94608, USA, hereby agrees to be bound, jointly and severally with Ask Jeeves
+International, Inc., by the provisions of Sections 8, 9, 10, 12(b) and 15,
+subject to the limitation of liability set forth in Section 13 (and no other
+provisions), of this Distribution and License Agreement (this "Agreement") by
+and between Ask Jeeves International, Inc. and Ask Jeeves Kabushiki Kaisha (in
+Japanese) and Ask Jeeves Japan, Inc. in English, Ask Jeeves, Inc. and Trans
+Cosmos, Inc. as if fully set forth herein.
+
+      IN WITNESS WHEREOF, Ask Jeeves, Inc., by its duly authorized
+representative, has executed this Agreement (only with respect to such Sections
+8, 9, 10 and 12(b), 13 and 15 subject to the limitation of liability set forth
+in Section 13) as of the Effective Date.
+
+ASK JEEVES, INC.
+
+By: /s/ Adam Klein
+   --------------------------
+Name:   Adam Klein
+     ------------------------
+Title: President
+      ------------------------
+
+-------
+|*|   Indicates that certain information in this exhibit has been omitted and
+      filed separately with the Securities and Exchange Commission. Confidential
+      treatment has been requested with respect to the omitted portions.
+
+
+                                      -38-
+<PAGE>
+
+                                                                EXHIBIT 10.5.2.1
+
+      By the signature of its duly authorized officer, Trans Cosmos, Inc., a
+Japanese corporation, having its principal place of business at 3-3-3 Akasaka,
+Minato-ku Tokyo, 107, Japan, hereby agrees to be bound, jointly and severally
+with Ask Jeeves Kabushiki Kaisha (Ask Jeeves Japan, Inc.), by the provisions of
+Sections 3(j), 8, 11 and 15, subject to the limitation of liability set forth in
+Section 13 (and no other provisions), of this Distribution and License Agreement
+(this "Agreement") by and between Ask Jeeves International, Inc. and Ask Jeeves
+Kabushiki Kaisha (in Japanese) and Ask Jeeves Japan, Inc. in English, Ask
+Jeeves, Inc. and Trans Cosmos, Inc., as if fully set forth herein.
+
+      IN WITNESS WHEREOF, Trans Cosmos, Inc., by its duly authorized
+representative, has executed this Agreement (only with respect to such Sections
+3(j), 8, 11 and 15 subject to the limitation of liability set forth in Section
+13) as of the Effective Date.
+
+TRANS COSMOS, INC.
+
+By:     /s/ Masatake Okuda
+   -----------------------------------
+Name:     Masatake Okuda
+     ---------------------------------
+Title:   Executive Vice President
+      --------------------------------
+
+-------
+|*|   Indicates that certain information in this exhibit has been omitted and
+      filed separately with the Securities and Exchange Commission. Confidential
+      treatment has been requested with respect to the omitted portions.
+
+
+                                      -39-
+<PAGE>
+
+                                                                EXHIBIT 10.5.2.1
+
+                                    EXHIBIT A
+
+                                LIST OF AJ MARKS
+
+Ask Jeeves(SM)
+
+Jeeves Live(SM)
+
+Jeeves Answers(SM)
+
+Jeeves Answers Suite(SM)
+
+Jeeves Search(SM)
+
+Jeeves Advisor(SM)
+
+Jeeves Insight(SM)
+
+Jeeves Compare(SM)
+
+[Ask Jeeves logo]
+
+TO BE COMPLETED
+
+(LOGO'S, BUTLER LOGO, ETC.)
+
+[Ask Jeeves logo](SM)
+
+[Ask Jeeves logo](SM)
+[Ask logo](SM)                          DOMAIN NAMES
+ask.co.jp;
+
+-------
+|*|   Indicates that certain information in this exhibit has been omitted and
+      filed separately with the Securities and Exchange Commission. Confidential
+      treatment has been requested with respect to the omitted portions.
+
+
+                                      A-1
+<PAGE>
+
+                                                                EXHIBIT 10.5.2.1
+
+askjeeves.co.jp;
+
+aj.co.jp;
+
+ask.ne.jp;
+
+askjeeves.ne.jp;
+
+aj.ne.jp; and
+
+askj.co.jp
+
+-------
+|*|   Indicates that certain information in this exhibit has been omitted and
+      filed separately with the Securities and Exchange Commission. Confidential
+      treatment has been requested with respect to the omitted portions.
+
+
+                                      A-2
+<PAGE>
+
+                                                                EXHIBIT 10.5.2.1
+
+                                    EXHIBIT B
+
+      The AJ Software includes the following and all Updates thereto:
+
+      -     Jeeves Search, (formerly Direct Hit), provides enhanced search
+            engine facilities and is based on a Free BSD platform, with Oracle
+            and BDB as backend database components, and PERL, C++, and Java as
+            runtime components. Jeeves Search includes the following components:
+
+                  -     Jeeves Popularity Engine
+
+                  -     Jeeves OOSE (Search Engine)
+
+                  -     Jeeves Directory
+
+                  -     Jeeves Shopping
+
+                  -     Jeeves Text Sponsorship
+
+      -     Jeeves Answers, the original question answering service, provides an
+            editorial approach to indexing documents; it is based on Visual C++,
+            MFC, SQL Server, and IIS with ASP. Jeeves Answers includes the
+            following components:
+
+                  -     Jeeves QAE (Question Answering Engine)
+
+                  -     Jeeves Research Assistant (Knowledgebase development
+                        tools)
+
+                  -     Jeeves Answer Exchange
+
+                  -     Jeeves Insight, offers reporting and data analysis
+            relating to use of the other Ask Jeeves products
+
+                  -     Jeeves Live, provides web-based CRM environments
+            including chat and co-browsing, and offers real time customer
+            interaction with human customer service representatives via the Web.
+            It is a Java-based development environment.
+
+                  -     Jeeves Advisor provides advice based on a decision
+            support engine, also mostly Java-based. Offers product selection and
+            decision support
+
+NOTE: Some AJ Software is already substantially Internationalized by virtue of
+      the development paradigm chosen (e.g., Java and XML-based applications).
+      In these cases, the KK will review the source and develop code necessary
+      to demonstrate to AJI's satisfaction the
+
+-------
+|*|   Indicates that certain information in this exhibit has been omitted and
+      filed separately with the Securities and Exchange Commission. Confidential
+      treatment has been requested with respect to the omitted portions.
+
+
+                                      B-1
+<PAGE>
+
+                                                                EXHIBIT 10.5.2.1
+
+      operation of these programs in the Asian character sets and languages
+      ("CJK"). In other cases, the KK will undertake to convert the programs to
+      handle Unicode characters.
+
+-------
+|*|   Indicates that certain information in this exhibit has been omitted and
+      filed separately with the Securities and Exchange Commission. Confidential
+      treatment has been requested with respect to the omitted portions.
+
+
+                                      B-2
+<PAGE>
+
+                                                                EXHIBIT 10.5.2.1
+
+                                    EXHIBIT C
+
+                  MINIMUM LICENSE TERMS FOR CORPORATE SERVICES
+
+"Customer" below is the Corporate Customer
+
+1. DEFINITIONS.
+
+      1.1. "ASK JEEVES" means Ask Jeeves Kabushiki Kaisha.
+
+      1.2. "SERVICE" means services rendered by Ask Jeeves and any software and
+data files Ask Jeeves delivers for use with those services (including
+knowledgebase files, which contain Ask Jeeves' proprietary syntactic and
+semantic, and product selection networks), and other materials Customer may be
+delivered from time to time for use with Ask Jeeves products and Services.
+
+      1.3. "SERVICE LOG FILES" are log files generated from the software portion
+of the Services (not server logs themselves).
+
+      1.4. "SITE(S)" means specified parts of website(s) or parts of website(s)
+on which Customer may make the Service available to users. The Site includes
+co-branded (where Customer's branding is at least as prominent as the third
+party's) or framed versions of the Site but does not include any customized
+'private label' version of the Site not substantially branded as a Customer
+site.
+
+2. CONTENT AND CREATION OF SITE. Customer agrees that it shall be responsible
+for the creation of all Customer Materials and all contents of the Site other
+than the Services.
+
+3. LIMITED LICENSES.
+
+      3.1. LICENSE. Subject to the terms of this Agreement, Ask Jeeves grants
+Customer a limited, nonsublicensable, nontransferable, non-exclusive right to
+use that Service solely to provide users of the Site(s) to access the end-user
+functionality provided by that Service. Customer may distribute the software
+portion of the Service only to the extent the portions of the software are
+intended to be downloaded by end users in the course of the normal operation of
+the Service. Customer may only make copies of the Service (i) for installation
+and use on the Sites and (ii) backup copies of the Service made incidentally to
+backing up the Sites. Customer must reproduce and include the copyright notice
+and any other notices that appear on the Service, including on the copy's media.
+Customer will only use the Service in the technical environment described in the
+documentation to the Service. Ask Jeeves grants no implied license to its
+intellectual property (including patents), and all rights not expressly granted
+in this Section 3 are reserved by Ask Jeeves.
+
+-------
+|*|   Indicates that certain information in this exhibit has been omitted and
+      filed separately with the Securities and Exchange Commission. Confidential
+      treatment has been requested with respect to the omitted portions.
+
+
+                                      C-1
+<PAGE>
+
+                                                                EXHIBIT 10.5.2.1
+
+      3.2. RESTRICTIONS. Customer will not, and will not allow any third party
+to: (i) decompile, disassemble, or otherwise reverse engineer the Service by any
+means whatsoever, including by using the Service Log Files; (ii) provide, lease,
+lend, use for timesharing or service bureau purposes or otherwise use the
+Service for or with a third party (except as end users may use the Service over
+Customer's web site); (iii) modify the Service or incorporate it into software,
+except to the extent that the Service is used on the Site in accordance with its
+documentation; (iv) disseminate performance information or analysis relating to
+the Service, except for Customer's internal evaluation of the effectiveness of
+the Service; (v) use any portion of the Service to create a competitive service,
+product or technology; or (vi) enter into any arrangement with a third party to
+use the Service without displaying the Site itself (for instance, private
+labeling the Site or issuing queries to the Service without displaying the
+Site). Customer may not use the Service for any purpose or in any manner not
+expressly permitted in this Agreement. Customer has no right to receive any
+source code or design documentation relating to the Service. If the laws of any
+applicable jurisdiction limit the enforceability of these restrictions, they
+will be limited so that they prohibit the activity only to the maximum extent
+permitted by law, and Customer agrees to negotiate in good faith with Ask Jeeves
+the terms of a license prior to engaging in any of the above activities.
+
+      3.3. CURRENT VERSION OF SOFTWARE. Customer acknowledges that the
+functioning of the Service depends on Customer using the most current version of
+the Service, and agrees to implement the most current version of the Service
+delivered to Customer within 90 days. All bug fixes, updates and enhancements
+provided will be Services for the purposes of this Agreement.
+
+      3.4. LICENSE TO CUSTOMER'S MATERIALS. Customer acknowledges that in order
+to make the Service available Ask Jeeves may be required to have access to
+certain Customer software, equipment, the web contents relevant to Ask Jeeves'
+performance of Services, customer inputs to the Service and other material of
+Customer or Customer's suppliers ("CUSTOMER MATERIALS"). Customer grants to Ask
+Jeeves a non-exclusive, non-transferable license to use the Customer Materials
+for the purpose of rendering the Services and improving the services Ask Jeeves
+offers.
+
+4. OWNERSHIP. Ask Jeeves retains ownership of the Service and all copies and
+portions of the Service. All rights not expressly granted under this Agreement
+are reserved by Ask Jeeves.
+
+5. PAYMENT AND RECORDS.
+
+      5.1. RECORDS AND AUDIT. Customer agrees that it will maintain usage
+records of the Service for a period of two years. Ask Jeeves will have the right
+to examine these records from time to time to determine whether the Service is
+being used in accordance with the requirements of this Agreement.
+
+      5.2. SERVICE LOG FILES. Customer agrees to provide the Service Log Files
+to Ask Jeeves on the schedule listed in the Statement of Work. Customer agrees
+that failure to timely
+
+-------
+|*|   Indicates that certain information in this exhibit has been omitted and
+      filed separately with the Securities and Exchange Commission. Confidential
+      treatment has been requested with respect to the omitted portions.
+
+
+                                      C-2
+<PAGE>
+
+                                                                EXHIBIT 10.5.2.1
+
+deliver the Service Log Files will excuse Ask Jeeves from rendering Services to
+the extent the Services utilize these files.
+
+6. WARRANTY DISCLAIMER. THE SERVICE IS PROVIDED "AS IS" AND WITHOUT WARRANTY OF
+ANY KIND AND ASK JEEVES EXPRESSLY DISCLAIMS ANY AND ALL WARRANTIES OF ANY KIND
+OR NATURE, WHETHER EXPRESS, IMPLIED, OR STATUTORY, INCLUDING WITHOUT LIMITATION
+THE IMPLIED WARRANTIES OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY, AND FITNESS
+FOR A PARTICULAR PURPOSE. ASK JEEVES DOES NOT WARRANT THAT THE SERVICE WILL BE
+FREE FROM BUGS OR MAKE ANY OTHER REPRESENTATIONS REGARDING THE UPTIME, USE, OR
+THE RESULTS OF USE OF THE SERVICE OR OTHER MATERIALS DELIVERED, INCLUDING IN
+TERMS OF CORRECTNESS, ACCURACY, RELIABILITY, OR OTHERWISE. Customer understands
+that Ask Jeeves is not responsible for and will have no liability for hardware,
+software, or other items or any services provided by any persons other than Ask
+Jeeves.
+
+7. LIMITATION OF LIABILITY. ASK JEEVES WILL NOT BE LIABLE FOR ANY LOSS OF USE,
+LOSS OF DATA, INTERRUPTION OF BUSINESS, DOWNTIME, LOST PROFITS, OR ANY INDIRECT,
+SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES OF ANY KIND REGARDLESS OF THE FORM
+OF ACTION WHETHER IN CONTRACT, TORT (INCLUDING NEGLIGENCE), STRICT PRODUCT
+LIABILITY, OR OTHERWISE, EVEN IF IT HAS BEEN ADVISED OF THE POSSIBILITY OF
+DAMAGES. IN NO EVENT WILL ASK JEEVES' LIABILITY TO CUSTOMER UNDER THIS AGREEMENT
+EXCEED PAYMENTS RECEIVED BY ASK JEEVES ATTRIBUTABLE TO CUSTOMER UNDER THIS
+AGREEMENT WITHIN THE PRECEDING TWELVE MONTHS. THE EXISTENCE OF ONE OR MORE
+CLAIMS WILL NOT ENLARGE THIS LIMIT. THE PARTIES ACKNOWLEDGE AND AGREE THAT THIS
+SECTION IS AN ESSENTIAL ELEMENT OF THE AGREEMENT AND THAT IN ITS ABSENCE, ASK
+JEEVES MAY ELECT NOT TO PROVIDE THE SERVICE AND THE ECONOMIC TERMS OF THIS
+AGREEMENT WOULD BE SUBSTANTIALLY DIFFERENT. THIS SECTION IS SEVERABLE AND SHALL
+SURVIVE ANY TERMINATION OR EXPIRATION OF THIS AGREEMENT. IF ASK JEEVES DECIDES
+TO LIMIT THE LIABILITY OF CUSTOMER, THE CONSEQUENTIAL DAMAGES EXCLUSION SHALL
+NOT APPLY TO BREACHES OF THE LICENSE GRANT BY CUSTOMER.
+
+8. INDEMNITY. Customer agrees to indemnify, defend and hold harmless Ask Jeeves
+from and against any and all liabilities, damages, loss, demands, fees,
+expenses, fines, penalties and direct costs (including attorneys' fees) incurred
+by Ask Jeeves and arising from any claims, suits, actions or proceedings brought
+against Ask Jeeves by any third party arising out of the content of the Site or
+alleging that all or any part of the Customer Materials or the Site, including
+any recommendations or diagnoses on the site (other than the Service itself)
+infringe any patent, copyright, trademark or other intellectual property right
+of a third party or misappropriate any third party trade secret. Customer agrees
+to indemnify and defend Ask Jeeves from and against any against any claims of
+injury arising from Ask Jeeves' work on Customer's premises.
+
+-------
+|*|   Indicates that certain information in this exhibit has been omitted and
+      filed separately with the Securities and Exchange Commission. Confidential
+      treatment has been requested with respect to the omitted portions.
+
+
+                                      C-3
+<PAGE>
+
+                                                                EXHIBIT 10.5.2.1
+
+9. CONFIDENTIALITY. The Service Log Files contain certain confidential
+information of Ask Jeeves and Customer, and both parties agree not to disclose
+the Service Log Files, or data derived from these files, to third parties, or
+use such files except for the purposes contemplated by this Agreement.
+
+10. NO EXPORT. Customer acknowledges that the laws and regulations of the United
+States restrict the export and re-export of commodities and technical data of
+United States origin, including the software portion of the Services. Customer
+agrees that it will not export or re-export the software from the United States,
+Japan or the country originally shipped to by Ask Jeeves in any form, without
+the appropriate United States, Japanese and foreign governmental licenses.
+Customer agrees that its obligations pursuant to this Section will survive and
+continue after any termination or expiration of rights under this Agreement.
+
+11. TRADEMARK. Customer acknowledges that Ask Jeeves has substantial interest in
+maintaining its trademark rights in its "Ask" button and butler character, and
+agrees that it will not use any button with the word "ask," except the Ask
+Jeeves button, or any character which is a butler or may be confused with a
+butler (such as a maid, chauffeur, etc.) or looks like Ask Jeeves' "Jeeves"
+character, connected to any functionality of the Service. Customer agrees that
+it will not use any character which uses the word "Ask" (such as "Ask Phil")
+without prior written approval of Ask Jeeves on the name and on the rendition of
+the character. Customer acknowledges that Ask Jeeves requires certain screen
+layouts and graphic elements for the Service, and agrees that it will maintain
+conformity with the requirements listed at
+http://corp.ask.com/guidelines/index.html. Subject to the terms and conditions
+of this Agreement, Ask Jeeves grants Customer a non-exclusive, non-transferable
+license to use the Ask Jeeves marks and logos in those requirements on the Site,
+solely in connection with the Service. Ask Jeeves has the right to terminate
+Customer's right to use its marks and logos if, in Ask Jeeves' discretion,
+Customer's use may result in damage to Ask Jeeves or its marks and logos.
+
+12. ASSIGNMENT. This Agreement is assignable by Customer only in connection with
+an assignment of all assets relating to the Site and if the assignee agrees in
+writing to be bound by the terms of this Agreement.
+
+-------
+|*|   Indicates that certain information in this exhibit has been omitted and
+      filed separately with the Securities and Exchange Commission. Confidential
+      treatment has been requested with respect to the omitted portions.
+
+
+                                      C-4
+<PAGE>
+
+                                                                EXHIBIT 10.5.2.1
+
+                                    EXHIBIT D
+
+                            SOURCE CODE RESTRICTIONS
+
+      1. Access to the Source Code will be managed solely by an engineering
+manager at the Source Code Work Facility pursuant to restrictions agreed to by
+AJI and the Source Code Work Facility, subject to Section 4(b).
+
+      2. The KK acknowledges and agrees that the disclosure and use of the
+Source Code of the AJ Software warrants additional security precautions to those
+set forth for Confidential Information generally. Therefore, the KK agrees to
+protect all Source Code for the AJ Software, at a minimum, as follows:
+
+            (a) The KK agrees that it will comply with all restrictions on use
+of the Source Code at the Source Code Work Facility, including at a minimum that
+the KK will:
+
+                  (i) not reproduce the Source Code or any portion of the Source
+Code, in any form or medium, except as absolutely necessary to perform the Work;
+
+                  (ii) not allow hard copy printouts of any portion of the
+Source Code to exist except within the Source Code Work Facility;
+
+                  (iii) not use or disclose the Source Code for any purpose not
+specifically authorized in this Agreement.
+
+      3. The KK employees may only access and use the Source Code at the Source
+Code Work Facility.
+
+      4. No right to access any Source Code will be granted to a company listed
+on Exhibit F to the Joint Venture Agreement.
+
+-------
+|*|   Indicates that certain information in this exhibit has been omitted and
+      filed separately with the Securities and Exchange Commission. Confidential
+      treatment has been requested with respect to the omitted portions.
+
+
+                                      D-1
+<PAGE>
+
+                                                                EXHIBIT 10.5.2.1
+
+                                    EXHIBIT E
+
+                     SUPPORT SERVICES TO BE RENDERED BY AJI
+
+-     TELEPHONE AND EMAIL: AJI shall use telephonic, voicemail and email means
+      to provide assistance and consultation for the purpose of resolving
+      implementation and performance issues with respect to the AJ Assets. AJI
+      shall name at least one designated e-mail contact person and one dedicated
+      contact to provide telephonic assistance to the KK.
+
+-     TRAINING: Training in the use of AJ Software. Training will be provided at
+      no additional charge (other than travel and hotel expenses and per diem
+      costs) to the KK, at the KK's offices in Japan. Training shall consist of
+      five (5) days of training, with an eight (8) hour work day being
+      considered one day of training, and shall be conducted within ten (10)
+      days of delivery of the AJ Software. Training shall be provided to up to
+      three (3) employees of the KK.
+
+-     ACCESS: Access to information on upcoming features.
+
+-     MAINTENANCE: AJI will use commercially reasonable efforts to maintain and
+      support the AJ Assets and all current and future technology, including
+      Updates, on behalf of the KK.
+
+-     SUPPORT HOURS: AJI technical support business hours will be from 9 a.m. to
+      5 p.m. Monday through Friday, Pacific Time. Technical support will be
+      closed on all scheduled AJI holidays (which generally coincide within U.S.
+      Federal holidays). Technical support may also be closed because of
+      unforeseen emergencies (e.g., weather conditions, power outages etc.).
+
+-     ISSUE ESCALATION: AJ will regard as a high priority issues regarding
+      availability and operations of the AJ Software and Updates. If the issue
+      is deemed to originate with the AJ Software or Updates, the AJI support
+      representative will promptly escalate the issue to AJI's Engineering
+      Group. Issues regarding general usage, bug reports, documentation, etc.,
+      will be handled using the escalation procedure below.
+
+-     ACCESS TO TRACKING SYSTEM: The KK engineers shall have full-time access
+      during AJI's normal business hours to the AJI status tracking system to
+      share data and report new bugs. AJI will appoint a contact person to
+      enable the KK to have access during emergencies. As soon as the tracking
+      system is available 24 hours a day on the Web, the KK shall have full-time
+      access to it.
+
+-     FIRST LEVEL SUPPORT: First Level Support is provided via email or by
+      telephone. First Level Support is also provided by technical support
+      representatives and includes answering general services questions.
+
+        First Level Support representatives may source AJI's internal knowledge
+        base, product documentation or other support representatives for the KK.
+        If the issue cannot be
+
+-------
+|*|   Indicates that certain information in this exhibit has been omitted and
+      filed separately with the Securities and Exchange Commission. Confidential
+      treatment has been requested with respect to the omitted portions.
+
+                                      E-1
+<PAGE>
+
+                                                                EXHIBIT 10.5.2.1
+
+        answered, it will be escalated by AJI within a reasonable period of time
+        to Second Level Support.
+
+        The First Level support representative is responsible for selecting the
+        appropriate Second Level support personnel. If a Second Level support
+        representative is not available, the KK representative will be contacted
+        within two (2) business hours by a Second Level support representative.
+
+-     SECOND LEVEL SUPPORT: Second Level support consists of senior support
+      representatives and support management; these individuals will make every
+      reasonable attempt to answer the problem during the same business day, if
+      possible. If the issue has been investigated by Second Level Support for
+      more than eight (8) business hours and it has not been resolved, Second
+      Level support will escalate the issue to the AJI Engineering Group or a
+      third party vendor depending on the problem. The KK will be notified by
+      email and informed of the estimated time of resolution. Follow-up messages
+      will be sent as deemed necessary to ensure the KK is properly informed.
+
+-------
+|*|   Indicates that certain information in this exhibit has been omitted and
+      filed separately with the Securities and Exchange Commission. Confidential
+      treatment has been requested with respect to the omitted portions.
+
+
+                                      E-2
+
+</TEXT>
+</DOCUMENT>

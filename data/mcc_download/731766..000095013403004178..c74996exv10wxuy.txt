@@ -1,0 +1,2228 @@
+<DOCUMENT>
+<TYPE>EX-10.(U)
+<SEQUENCE>8
+<FILENAME>c74996exv10wxuy.txt
+<DESCRIPTION>EX-10(U) AMENDMENT TO INFO. TECHNOLOGY AGREEMENT
+<TEXT>
+<PAGE>
+                                                                   EXHIBIT 10(u)
+
+
+                               AMENDMENT NUMBER 1
+                                       TO
+                   INFORMATION TECHNOLOGY SERVICES AGREEMENT
+
+
+This is Amendment Number 1, dated as of September 15, 1997 to the Information
+Technology Services Agreement (the "Agreement") dated as of June 1, 1996
+between UNISYS CORPORATION ("Unisys") and UNITED HEALTHCARE SERVICES, INC.
+("UHS").
+
+Section 3.18 of the Agreement provides that the Parties will jointly develop
+and implement a revised charge process in accordance with Exhibit 31 of the
+Agreement which will result in charges based on the usage of computing resources
+
+ACCORDINGLY, in consideration of the premises and other good and valuable
+consideration, the receipt and sufficiency of which is hereby acknowledged,
+Unisys and UHS hereby agree to amend Exhibit 31 of the Agreement to incorporate
+the following additional provisions:
+
+     1. Rate Card. Attached hereto as Exhibit 31-1 is the rate card which sets
+     forth the methodology by which UHS will be assessed charges for Services
+     provided by Unisys pursuant to the Agreement.
+
+     2. UNIX charges by system. Attached hereto as Exhibit 31-2 are schedules
+     containing the charges for the initial systems and systems added during
+     1996. The initial systems listed by serial number in Exhibit 2 of this
+     contract amendment replace those listed in Exhibit 6 of the Agreement.
+
+     3. Methodology. Attached hereto as Exhibit 31-3 is the methodology and
+     description forming the basis for the application of the Rate Card.
+
+     4. Effective Date. The rate card is effective January 1, 1997. Within 30
+     days of execution of this Amendment Number 1, Unisys will provide to UHS
+     retro-active rate card based invoices and credits to reverse prior Interim
+     Agreement charges.
+
+     5. IBM consumption based charges. Consumption based charges will be
+     developed including prime and off-prime rates. The rate card for these
+     charges will have a structure similar to the Unisys rate card. The goal is
+     to have these charges be effective October 1, 1997. Should the rate card
+     not be finalized by October 1, Unisys will continue charges based on
+     capacity, with the understanding that these charges will be reversed and
+     replaced by consumption based charges retro-active to October 1, 1997.
+
+
+                                  Page 1 of 2
+
+
+<PAGE>
+                               AMENDMENT NUMBER 1
+                                       TO
+                   INFORMATION TECHNOLOGY SERVICES AGREEMENT
+
+
+     6. UNIT/NT consumption based charges. The Account Executives will review
+     the possibility of converting UNIX/NT to consumption based charges. A
+     feasibility study will be submitted to UHS by January 1, 1998. Effective in
+     1998, a report on the status of this conversion will be prepared by the
+     Account Executives and submitted to UHS on a quarterly basis. Key to making
+     this conversion will be the proliferation of large capacity servers with
+     the ability to consolidate servers and support consumption measurement
+     software.
+
+     7. Prime and off-prime for Unisys. Effective with the 4th quarter of 1997,
+     the Account Executives will review this issue on a quarterly basis. The
+     Account Executives will consider modifying the rate card for prime and
+     off-prime rates, add-hoc requests and/or monthly cyclical rates. A joint
+     Unisys/UHS feasibility study will be generated at the request of the
+     Account Executives
+
+     8. Per member per month. The Account Executives will consider modifying the
+     rate card to per member per month rates.  With mutual agreement, a joint
+     Unisys/UHS feasibility study will be generated at the request of the
+     Account Executives.
+
+     9. Other Terms. Except as herein specifically amended, all of the terms of
+     the Agreement remain in full force and effect and are hereby ratified and
+     confirmed. To the extent the terms of this Amendment Number 1 conflict with
+     the existing Exhibit 31 or other terms of the Agreement, the provisions set
+     forth in this amendment shall control.
+
+IN WITNESS WHEREOF, Unisys and UHS have executed this Amendment Number 1,
+effective as of the date first above written.
+
+UNISYS CORPORATION                      UNITED HEALTHCARE SERVICES, INC.
+
+By:  /s/  Illegible                     By:  /s/  Illegible
+     -------------------                     ----------------------
+
+Its: Director, Finance                 Its:  Vice President
+     -------------------                     -----------------------
+
+
+                                  Page 2 of 2
+
+
+
+<PAGE>
+                                                                    EXHIBIT 31-1
+
+                      UNISYS OUTSOURCING RATE CARD PROPOSAL
+                             BASE VOLUMES AND RATES
+
+<TABLE>
+<CAPTION>
+METRIC                              1997       1998       1999       2000       2001       2002        2003       2004       2005
+<S>                                <C>        <C>        <C>         <C>        <C>        <C>        <C>        <C>        <C>
+UNISYS CPU USAGE* BASE VOLUME      5,368.81   5,368.81   5,368.81    5,368.81   5,368.81   5,368.81   5,368.81   5,368.81   5,368.81
+(HOURS)           BASE RATE          ***        ***        ***         ***        ***        ***        ***        ***        ***
+                  RATE REDUCTION                ***        ***         ***        ***        ***        ***        ***        ***
+
+UNISYS DISK USAGE BASE VOLUME        677.11     677.11     677.11      677.11     677.11     677.11     677.11     677.11     677.11
+(GB)              BASE RATE          ***        ***        ***         ***        ***        ***        ***        ***        ***
+                  RATE REDUCTION                ***        ***         ***        ***        ***        ***        ***        ***
+UNISYS TAPE USAGE BASE VOLUME     35,553.00  35,553.00  35,553.00   35,553.00  35,553.00  35,553.00  35,553.00  35,553.00  35,553.00
+(MOUNTS)          BASE RATE          ***        ***        ***         ***        ***        ***        ***        ***        ***
+                  RATE REDUCTION                ***        ***         ***        ***        ***        ***        ***        ***
+IBM MIPS          BASE VOLUME        231.00     231.00     231.00      231.00     231.00     231.00     231.00     231.00     231.00
+(MIPS)            BASE RATE          ***        ***        ***         ***        ***        ***        ***        ***        ***
+                  RATE REDUCTION                ***        ***         ***        ***        ***        ***        ***        ***
+IBM DISK USAGE    BASE VOLUME      1,300.00   1,300.00   1,300.00    1,300.00   1,300.00   1,300.00   1,300.00   1,300.00   1,300.00
+(GB)              BASE RATE          ***        ***        ***         ***        ***        ***        ***        ***        ***
+                  RATE REDUCTION                ***        ***         ***        ***        ***        ***        ***        ***
+IBM TAPE MOUNTS   BASE VOLUME     33,000.00  33,000.00  33,000.00   33,000.00  33,000.00  33,000.00  33,000.00  33,000.00  33,000.00
+(MOUNTS)          BASE RATE          ***        ***        ***         ***        ***        ***        ***        ***        ***
+                  RATE REDUCTION                ***        ***         ***        ***        ***        ***        ***        ***
+
+
+COLA                                            ***        ***         ***        ***        ***        ***        ***        ***
+CREDIT % ON BASE RATE FOR UNUSED UNITS  ***     ***        ***         ***        ***        ***        ***        ***        ***
+</TABLE>
+
+
+<TABLE>
+<CAPTION>
+                                                          VOLUME DISCOUNT RATES
+                                                       ---------------------------
+* A SERIES, CLEARPATH FAMILY            GREATER OF                          % OF
+                                         EQUAL TO       LESS THAN         DISCOUNT
+                                         --------       ---------         --------
+<S>                                     <C>            <C>                <C>
+                                            0%              100%            ***
+                                            100%            105%            ***
+                                            105%            110%            ***
+                                            110%            115%            ***
+                                            115%            120%            ***
+                                            120%            125%            ***
+                                            125%        AND OVER            ***
+
+</TABLE>
+
+***      Indicates the omission of confidential information filed separately
+         with the Securities and Exchange Commission in connection with a
+         confidential treatment request made pursuant to Rule 24-b(2) of the
+         Securities and Exchange Act of 1934, as amended.
+
+<PAGE>
+                                                                    EXHIBIT 31-2
+
+                           LEASE/DEPRECIATION CHARGES
+
+<TABLE>
+<CAPTION>
+UNIX PROCESSORS:                    STYLE     SERIAL     1996   1997   1998   1999   2000   2001   2002   2003   2004   2005   TOTAL
+----------------                  --------   ---------   ----   ----   ----   ----   ----   ----   ----   ----   ----   ----   -----
+<S>                               <C>        <C>         <C>    <C>    <C>    <C>    <C>    <C>    <C>    <C>    <C>    <C>    <C>
+ABACUS                            7013-J30     2652250   ***    ***    ***    ***      --     --     --     --     --     --   ***
+BAMBAM                            7013-39H     2687366   ***    ***    ***    ***      --     --     --     --     --     --   ***
+BHDATA1                           7013-59H     2648757   ***    ***    ***    ***      --     --     --     --     --     --   ***
+BHDATA2                           7013-59H     2651771   ***    ***    ***    ***      --     --     --     --     --     --   ***
+BAMBAM                            7013-39H     2687366   ***    ***    ***    ***      --     --     --     --     --     --   ***
+BHFUNC1                           7013-580     2639063   ***    ***    ***    ***      --     --     --     --     --     --   ***
+BIS1                              7013-590     2646076   ***    ***    ***    ***      --     --     --     --     --     --   ***
+BIS3                              7013-J30     2654414   ***    ***    ***    ***      --     --     --     --     --     --   ***
+CALVIN                            7013-591     2641001   ***    ***    ***    ***      --     --     --     --     --     --   ***
+CEREBUS                           7012-G30     2687935   ***    ***    ***    ***      --     --     --     --     --     --   ***
+BAMBAM                            7013-39H     2687366   ***    ***    ***    ***      --     --     --     --     --     --   ***
+BAMBAM                            7013-39H     2687366   ***    ***    ***    ***      --     --     --     --     --     --   ***
+GAR                               7013-690     2646104   ***    ***    ***    ***      --     --     --     --     --     --   ***
+HOBBES                            7013-590     2643186   ***    ***    ***    ***      --     --     --     --     --     --   ***
+KAZOO                             7013-J40     2646969   ***    ***    ***    ***      --     --     --     --     --     --   ***
+KESTREL                           U6000/65   414171439   ***    ***    ***    ***      --     --     --     --     --     --   ***
+ORION                             7013-59H     2650200   ***    ***    ***    ***      --     --     --     --     --     --   ***
+OSPRAY                            U6000/65   414171652   ***    ***    ***    ***      --     --     --     --     --     --   ***
+PEGASUS                           7013-J30     2650254   ***    ***    ***    ***      --     --     --     --     --     --   ***
+PIRANHA                           7013-550     2621567   ***    ***    ***    ***      --     --     --     --     --     --   ***
+POLARIS                           7013-590     2650490   ***    ***    ***    ***      --     --     --     --     --     --   ***
+STARFISH                          7013-J30     2653745   ***    ***    ***    ***      --     --     --     --     --     --   ***
+BAMBAM                            7013-39H     2687366   ***    ***    ***    ***      --     --     --     --     --     --   ***
+ROHCS1                            7013-580     2639286   ***    ***    ***    ***      --     --     --     --     --     --   ***
+SUSIE                             7013-59H     2649667   ***    ***    ***    ***      --     --     --     --     --     --   ***
+TOKAY                             7013-59H     2648268   ***    ***    ***    ***      --     --     --     --     --     --   ***
+DUKE                              7013-590     1640842   ***    ***    ***    ***      --     --     --     --     --     --   ***
+TOPGUN                            7013-590     2640841   ***    ***    ***    ***      --     --     --     --     --     --   ***
+UHC16A5                           7013-59H     2648392   ***    ***    ***    ***      --     --     --     --     --     --   ***
+VIPER                             7013-590     2641251   ***    ***    ***    ***      --     --     --     --     --     --   ***
+ZUHL                              7013-590      264373   ***    ***    ***    ***      --     --     --     --     --     --   ***
+   S/T BASE SYSTEMS                                      ***    ***    ***    ***      --     --     --     --     --     --   ***
+
+
+
+PIKE                              7013-J40     2655199   ***    ***    ***    ***     ***     --     --     --     --     --   ***
+VIPER2                            7013-J40     2656294   ***    ***    ***    ***     ***     --     --     --     --     --   ***
+TOMCAT                            7013-J40     2656295   ***    ***    ***    ***     ***     --     --     --     --     --   ***
+POSEIDON                          7013-J30     2653583   ***    ***    ***    ***     ***     --     --     --     --     --   ***
+    S/T 1996 GROWTH SYSTEMS                              ***    ***    ***    ***     ***     --     --     --     --     --   ***
+
+TOTAL UNIX                                               ***    ***    ***    ***     ***     --     --     --     --     --   ***
+</TABLE>
+
+
+***      Indicates the omission of confidential information filed separately
+         with the Securities and Exchange Commission in connection with a
+         confidential treatment request made pursuant to Rule 24-b(2) of the
+         Securities and Exchange Act of 1934, as amended.
+
+
+
+<PAGE>
+
+                                                                    EXHIBIT 31-2
+
+<TABLE>
+<CAPTION>
+UNIX                                               TOTAL CHARGES
+----
+PROCESSORS:        STYLE      SERIAL  JAN-97  FEB-97  MAR-97  APR-97  MAY-97  JUN-97  JUL-97  AUG-97  SEP-97  OCT-97  NOV-97  DEC-97
+----------         -----      ------  ------  ------  ------  ------  ------  ------  ------  ------  ------  ------  ------  ------
+<S>             <C>        <C>        <C>     <C>     <C>     <C>     <C>     <C>     <C>     <C>     <C>     <C>     <C>     <C>
+ABACUS          7013-J30     2652250     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***
+BAMBAM          7013-39H     2687366     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***
+BHDATA1         7013-59H     2648757     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***
+BHDATA2         7013-59H     2651771     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***
+BHFUNC1         7013-580     2639063     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***
+BIS1            7013-590     2646076     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***
+BIS3            7013-J30     2654414     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***
+CALVIN          7013-591     2641001     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***
+CEREBUS         7012-G30     2687935     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***
+FILLET          7013-59H     2649881     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***
+GAR             7013-690     2646104     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***
+HOBBES          7013-590     2643186     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***
+KAZOO           7013-J40     2646969     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***
+KESTREL         U6000/65   414171439     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***
+ORION           7013-59H     2650200     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***
+OSPRAY          U6000/65   414171652     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***
+PEGASUS         7013-J30     2650254     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***
+PIRANHA         7013-550     2621567     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***
+POLARIS         7013-590     2650490     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***
+STARFISH        7013-J30     2653745     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***
+ROHCS1          7013-580     2639286     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***
+SUSIE           7013-59H     2649667     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***
+TOKAY           7013-59H     2648268     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***
+DUKE            7013-590     1640842     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***
+TOPGUN          7013-590     2640841     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***
+UHC16A5         7013-59H     2648392     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***
+VIPER           7013-590     2641252     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***
+ZUHL            7013-590     2643731     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***
+   S/T BASE SYSTEMS                      ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***
+
+
+PIKE            7013-J40     2655199     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***
+VIPER2          7013-J40     2656294     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***
+TOMCAT          7013-J40     2656295     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***
+POSEIDON        7013-J30     2653583     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***
+    S/T 1996 GROWTH SYSTEMS              ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***
+
+
+TOTAL UNIX                               ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***
+</TABLE>
+
+***      Indicates the omission of confidential information filed separately
+         with the Securities and Exchange Commission in connection with a
+         confidential treatment request made pursuant to Rule 24-b(2) of the
+         Securities and Exchange Act of 1934, as amended.
+
+
+
+                                   PAGE 1 OF 1
+
+
+<PAGE>
+
+
+
+                                                                    EXHIBIT 31-2
+<TABLE>
+<CAPTION>
+UNIX                                                      LEASE & DEPRECIATION RECOVERY
+----                                                      -----------------------------
+PROCESSORS:         STYLE     SERIAL  JAN-97  FEB-97  MAR-97  APR-97  MAY-97  JUN-97  JUL-97  AUG-97  SEP-97  OCT-97  NOV-97  DEC-97
+----------          -----     ------  ------  ------  ------  ------  ------  ------  ------  ------  ------  ------  ------  ------
+<S>             <C>        <C>        <C>     <C>     <C>     <C>     <C>     <C>     <C>     <C>     <C>     <C>     <C>     <C>
+ABACUS           7013-J30    2652250     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***
+BAMBAM           7013-39H    2687366     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***
+BHDATA1          7013-59H    2648757     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***
+BHDATA2          7013-59H    2651771     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***
+BHFUNC1          7013-580    2639063     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***
+BIS1             7013-590    2646076     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***
+BIS3             7013-J30    2654414     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***
+CALVIN           7013-591    2641001     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***
+CEREBUS          7012-G30    2687935     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***
+FILLET           7013-59H    2649881     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***
+GAR              7013-690    2646104     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***
+HOBBES           7013-590    2643186     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***
+KAZOO            7013-J40    2646969     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***
+KESTREL          U6000/65  414171439     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***
+ORION            7013-59H    2650200     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***
+OSPRAY           U6000/65  414171652     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***
+PEGASUS          7013-J30    2650254     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***
+PIRANHA          7013-550    2621567     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***
+POLARIS          7013-590    2650490     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***
+STARFISH         7013-J30    2653745     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***
+ROHCS1           7013-580    2639286     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***
+SUSIE            7013-59H    2649667     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***
+TOKAY            7013-59H    2648268     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***
+DUKE             7013-590    1640842     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***
+TOPGUN           7013-590    2640841     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***
+UHC16A5          7013-59H    2648392     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***
+VIPER            7013-590    2641252     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***
+ZUHL             7013-590    2643731     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***
+   S/T BASE SYSTEMS                      ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***
+
+PIKE             7013-J40   2655199`     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***
+VIPER2           7013-J40    2656294     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***
+TOMCAT           7013-J40    2656295     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***
+POSEIDON         7013-J30    2653583     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***
+    S/T 1996 GROWTH SYSTEMS              ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***
+
+
+TOTAL UNIX                               ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***     ***
+</TABLE>
+
+
+
+
+
+
+
+***      Indicates the omission of confidential information filed separately
+         with the Securities and Exchange Commission in connection with a
+         confidential treatment request made pursuant to Rule 24-b(2) of the
+         Securities and Exchange Act of 1934, as amended.
+
+                                   PAGE 1 OF 1
+
+
+<PAGE>
+                                                                    EXHIBIT 31-2
+
+<TABLE>
+<CAPTION>
+
+                                                           TOTAL CHARGES
+
+UNIX PROCESSORS:                    STYLE     SERIAL     1996   1997   1998   1999   2000   2001   2002   2003   2004   2005   TOTAL
+----------------                  --------   ---------   ----   ----   ----   ----   ----   ----   ----   ----   ----   ----   -----
+<S>                               <C>        <C>         <C>    <C>    <C>    <C>    <C>    <C>    <C>    <C>    <C>    <C>    <C>
+ABACUS                            7013-J30     2652250    ***    ***    ***    ***     --     --     --     --     --     --     ***
+BAMBAM                            7013-39H     2687366    ***    ***    ***    ***     --     --     --     --     --     --     ***
+BHDATA1                           7013-59H     2648757    ***    ***    ***    ***     --     --     --     --     --     --     ***
+BHDATA2                           7013-59H     2651771    ***    ***    ***    ***     --     --     --     --     --     --     ***
+BHFUNC1                           7013-580     2639063    ***    ***    ***    ***     --     --     --     --     --     --     ***
+BIS1                              7013-590     2646076    ***    ***    ***    ***     --     --     --     --     --     --     ***
+BIS3                              7013-J30     2654414    ***    ***    ***    ***     --     --     --     --     --     --     ***
+CALVIN                            7013-591     2641001    ***    ***    ***    ***     --     --     --     --     --     --     ***
+CEREBUS                           7012-G30     2687935    ***    ***    ***    ***     --     --     --     --     --     --     ***
+FILLET                            7013-59H     2649881    ***    ***    ***    ***     --     --     --     --     --     --     ***
+GAR                               7013-690     2646104    ***    ***    ***    ***     --     --     --     --     --     --     ***
+HOBBES                            7013-590     2643186    ***    ***    ***    ***     --     --     --     --     --     --     ***
+KAZOO                             7013-J40     2646969    ***    ***    ***    ***     --     --     --     --     --     --     ***
+KESTREL                           U6000/65   414171439    ***    ***    ***    ***     --     --     --     --     --     --     ***
+ORION                             7013-59H     2650200    ***    ***    ***    ***     --     --     --     --     --     --     ***
+OSPRAY                            U6000/65   414171652    ***    ***    ***    ***     --     --     --     --     --     --     ***
+PEGASUS                           7013-J30     2650254    ***    ***    ***    ***     --     --     --     --     --     --     ***
+PIRANHA                           7013-550     2621567    ***    ***    ***    ***     --     --     --     --     --     --     ***
+POLARIS                           7013-590     2650490    ***    ***    ***    ***     --     --     --     --     --     --     ***
+STARFISH                          7013-J30     2653745    ***    ***    ***    ***     --     --     --     --     --     --     ***
+ROHCS1                            7013-580     2639286    ***    ***    ***    ***     --     --     --     --     --     --     ***
+SUSIE                             7013-59H     2649667    ***    ***    ***    ***     --     --     --     --     --     --     ***
+TOKAY                             7013-59H     2648268    ***    ***    ***    ***     --     --     --     --     --     --     ***
+DUKE                              7013-590     1640842    ***    ***    ***    ***     --     --     --     --     --     --     ***
+TOPGUN                            7013-590     2640841    ***    ***    ***    ***     --     --     --     --     --     --     ***
+UHC16A5                           7013-59H     2648392    ***    ***    ***    ***     --     --     --     --     --     --     ***
+VIPER                             7013-590     2641251    ***    ***    ***    ***     --     --     --     --     --     --     ***
+ZUHL                              7013-590      264373    ***    ***    ***    ***     --     --     --     --     --     --     ***
+      S/T BASE SYSTEMS                                    ***    ***    ***    ***     --     --     --     --     --     --     ***
+
+
+
+PIKE                              7013-J40     2655199    ***    ***    ***    ***    ***     --     --     --     --     --     ***
+VIPER2                            7013-J40     2656294    ***    ***    ***    ***    ***     --     --     --     --     --     ***
+TOMCAT                            7013-J40     2656295    ***    ***    ***    ***    ***     --     --     --     --     --     ***
+POSEIDON                          7013-J30     2653583    ***    ***    ***    ***    ***     --     --     --     --     --     ***
+    S/T 1996 GROWTH SYSTEMS                               ***    ***    ***    ***    ***     --     --     --     --     --     ***
+
+
+TOTAL UNIX                                                ***    ***    ***    ***    ***     --     --     --     --     --     ***
+
+</TABLE>
+
+
+
+
+***      Indicates the omission of confidential information filed separately
+         with the Securities and Exchange Commission in connection with a
+         confidential treatment request made pursuant to Rule 24-b(2) of the
+         Securities and Exchange Act of 1934, as amended.
+
+                                   PAGE 1 OF 1
+<PAGE>
+                                                                    EXHIBIT 31-3
+
+                         BASE CHANGES - VOLUME AND RATE
+
+If the actual unit volume consumed for a specific category exceeds or falls
+below the base by 40% or more for three consecutive months, the Account
+Executives shall negotiate an adjustment to the base volume and base rate. The
+principles underlying this adjustment would be that the adjusted base volume
+would not exceed the prior 90 day average volume and the adjusted base rate
+would not exceed the prior 90 day unit average.
+
+If the actual unit volume for three consecutive months is 0 and the forecast for
+the next 3 months is also 0, the base volume for that particular metric will be
+set at 0.
+
+                              VOLUME DISCOUNT RATES
+
+The volume discount percentages apply only to the units in the range for that
+particular percentage. For example, if the actual volume is 114% of the base,
+the units below 100% receive no discount, the units between 100 - 105% receive
+6%, the units between 105 - 110% receive 10% and the units between 100 - 115%
+receive 15%.
+
+                   CREDITS FOR UNUSED UNITS BELOW BASE VOLUME
+
+Credits for unused units below the base volume will be granted only for unused
+units that have been forecasted. No credits be given for unused units below the
+forecast. For example, if the forecasted volume is 75% of the base and the
+actual volume is 65% of the base, then credits for the unused units between 75%
+and 100% of the base volume will be granted per the schedule. No credits will be
+given for units between 65% and 75%. However, if in the same example the actual
+volume is 80%, credits are granted for the units between 80% and 100%.
+
+If the volume consumed for a category falls below the base, then the amount
+billed will equal the base units times the base rate for that period with a
+credit for each unused unit below the base, providing the forecasted volume was
+below the actual volume. The amount of the credit is a percentage of the base
+rate to be determined according to the rate card schedule.
+
+                                 MINIMUM CHARGES
+ALL PERIODS
+If the base volume falls below 60% of the initial base volume for a particular
+category, for example "Unisys CPU Hour" and the UHS volume forecast for that
+category is flat or projecting continued decline, the Account Executives for
+Unisys and UHS will jointly agree on a revised rate card for that category as
+well as a one-time charge for the reduced capacity requirement, or if UHS
+reassigns the volume of one product family (IBM, Unisys, UNIX) to other product
+families supported by Unisys, the Account Executives for Unisys and UHS will
+jointly agree on an appropriate one-time charge for the eliminated capacity
+requirement. This charge will be supported by Unisys and limited to the
+remaining Unisys book value of capitalized assets as of the month of termination
+less any remaining fair market value of associated equipment, early termination
+penalties and/or notice period requirements on hardware and software maintenance
+contracts and redeployment costs of affected human resources.
+
+INITIAL 48 MONTHS
+Rate Card based charges (Total of Unisys, IBM and UNIX/NT) will not fall below
+the "contract to date" values contained in Exhibit 11 of the Agreement.
+
+AFTER MONTH 48
+
+Rate Card based charges (Total of Unisys, IBM and UNIX/NT) will not fall below
+the "contract to date" values contained in Exhibit 11 of the agreement.
+
+
+
+                                  Page 1 of 12
+
+
+
+<PAGE>
+                                                                    EXHIBIT 31-3
+
+
+
+If UHS reassigns the volume of one product family (IBM, Unisys, UNIX) to another
+vendor, the Account Executives for Unisys and UHS will jointly agree on an
+appropriate one-time charge for the eliminated capacity requirement. This charge
+will be supported by Unisys and limited to the remaining Unisys book value of
+capitalized assets as of the month of termination less any remaining fair market
+value of associated equipment, early termination penalties and/or notice period
+requirements on hardware and software maintenance contracts and redeployment
+costs of affected human resources.
+
+The one-time charge referenced above replaces the product family (IBM, Unisys,
+UNIX) termination charges contained in Exhibit 17 of the Agreement.
+
+If UHS reassigns the volume of all product families (IBM, Unisys, UNIX/NT) to
+another vendor, the Termination Charges from Exhibit 17 of the Agreement are
+applicable.
+
+Unisys and UHS agree that the standard depreciation schedule for calculation of
+Unisys book value for capitalized assets will be 4 years. Exceptions will be
+authorized if both parties agree in advance.
+
+                                      UNIX
+
+END OF TERM:
+
+BASE SYSTEMS
+
+Effective with January, 1998, Unisys will provide a 90 day notice UHS on systems
+reaching the end of their initial term. The initial notification will include
+all systems which were fully depreciated by December, 1997. UHS has the option
+to terminate, replace, or extend systems at the end of their initial term. If
+the system is terminated, Unisys will discontinue charges after the initial
+term. If the system is replaced, Unisys will discontinue all capital costs
+effective with the end of initial term and discontinue the remaining charges
+with deinstallation of the system. If the system is to be extended as
+configured, Unisys will submit a new quote for the system without capital costs.
+
+GROWTH SYSTEMS
+
+At 90 days prior to the end of their term as defined in the ASR document, Unisys
+will notify UHS of the end of the initial agreement. UHS has the option to
+terminate, replace or extend systems after their individual term. If the system
+is terminated, Unisys will discontinue all future charges after the initial
+term. If the system is replaced, Unisys will discontinue all capital costs
+effective with the first month after the initial term and discontinue the
+remaining charges with deinstallation of the system. If the system is to be
+extended as configured, Unisys will submit a new quote for the system without
+capital costs.
+
+EARLY TERMINATION
+
+With a 90 day notice, UHS will be allowed to terminate UNIX systems prior to the
+end of their term by paying Unisys an "Early Termination Charge" equal to the
+remaining Unisys book value as of the month of termination less any remaining
+fair market value.
+
+                                 VOLUME FORECAST
+
+United HealthCare Services will provide Unisys with a 12 month consumption
+forecast for all mainframe metrics on a quarterly basis. That forecast will be
+delivered on the 15th of the final month of each quarter (March, June, September
+and December).
+
+                                  Page 2 of 12
+
+
+<PAGE>
+                                                                    EXHIBIT 31-3
+
+
+UHS FORECASTING AND BILLING METRICS
+
+The following metrics will be used for forecasting and Billing Consumption.
+
+A SERIES/CLEARPATH MACHINES
+
+A SERIES/CLEARPATH DISK FORECASTING/BILLING METRICS
+
+FORECASTING AND MEASURING
+
+         Metrics to be used          1.   Average gigabytes allocated (total for
+                                          each system)(1)
+                                     2.   Maximum gigabytes allocated any time
+                                          within a month (total for each
+                                          system)(1)
+
+         Unit of Measure             Gigabytes of Fault tolerant disk
+
+         How computed                Viewpoint will monitor disk usage by taking
+                                     snapshots of the disk usage each minute.
+                                     These minutely samples are automatically
+                                     consolidated into summary records by
+                                     Viewpoint (e.g., 15 minute, hourly and
+                                     daily records). On a monthly basis, the
+                                     average disk allocated and the maximum disk
+                                     allocated for each pack family at any point
+                                     during that month will be reported from
+                                     data in the daily summary records.
+
+         What forecasted             Concept:  all non-system related disk
+                                     requirements will be forecasted by UHS.
+                                     (System related disk requirements will be a
+                                     computed factor and not forecasted by UHS).
+
+                                     Specific pack families that need to be
+                                     included in UHS forecast number:
+
+                                     PRODUCTION SYSTEMS:
+                                     -  All database families
+                                     -  ARCPK
+                                     -  DSSPK
+                                     -  LAGPK
+                                     -  RAMPK
+                                     -  DBPACK
+                                     -  CODEPACK
+                                     -  PRTBKUP
+                                     -  FLATPACK
+                                     -  SORTPACK
+                                     -  WFMPACK
+
+                                     DEVELOPMENT SYSTEMS
+                                     -  DISK
+                                     -  DEVPACK
+                                     -  DEVDBPK
+
+
+
+
+                                  Page 3 of 12
+
+
+<PAGE>
+                                                                    EXHIBIT 31-3
+
+
+                                     -  SRCPACK
+                                     -  PACK
+                                     -  GENPK
+                                     -  AUDIT1
+                                     -  LOGPACK
+
+         Missing Viewpoint Data      In the event that Viewpoint data is missing
+                                     or corrupted for any given time period
+                                     (minute, 15 minute, hour, day, etc.),
+                                     Unisys will average the data from the
+                                     previous good time period with the
+                                     following good time period.  For example,
+                                     if 14 minutes of data are missing, Unisys
+                                     would average the previous 15 minute sample
+                                     with the next 15 minute sample to compute
+                                     an average for the missing period.  If 23
+                                     hours of data was missing, the previous and
+                                     next daily samples would be used to compute
+                                     an average.
+
+                                     Unisys would clearly report exactly what
+                                     method and samples it used in computing
+                                     metrics for any lost period.
+
+(1)  This will be computed from the A Series statistic "sectors in use."  The
+     formula to convert to Gigabytes Allocated = sectors in use *  ***
+
+BILLING UNITS
+
+The billing metric will be the sum of the maximum gigabytes allocated (as
+defined above) for each forecasted pack family, for each system, within each
+month.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+***      Indicates the omission of confidential information filed separately
+         with the Securities and Exchange Commission in connection with a
+         confidential treatment request made pursuant to Rule 24-b(2) of the
+         Securities and Exchange Act of 1934, as amended.
+
+
+
+                                  Page 4 of 12
+
+
+<PAGE>
+                                                                    EXHIBIT 31-3
+
+A SERIES/CLEARPATH PROCESSOR FORECASTING/BILLING METRICS
+
+Forecasting and Measuring
+
+Forecasting metric to be used      Total Application CPU Hours/Month/Workgroup
+                                   (database) forecasted on machine that the
+                                   database is running on.(1)
+Unit of Measure                    Viewpoint will capture processor utilization
+                                   statistics for the various workgroups.  The
+                                   utilization statistics for multi-processor
+                                   A18's need to be converted into a common
+                                   metric (A18- 1x Application CPU hours) for
+                                   that class of machine.(2) Different processor
+                                   classes (e.g., A19) will require a conversion
+                                   factor to produce compatible hourly
+                                   projections.  The Relative Performance
+                                   Measure (RPM) as reported by Unisys product
+                                   specifications will be used to make this
+                                   conversion.
+How forecasted and measured        Computed and tracked via Viewpoint CPU USER
+                                   PERCENT samples
+When computed                      Viewpoint will monitor processor usage by
+                                   taking snapshots of the usage each minute.
+                                   These minutely samples are automatically
+                                   consolidated into summary records by
+                                   Viewpoint (e.g., 15 minutes, hourly and daily
+                                   records).  The daily records will be used in
+                                   computing total monthly usage.
+What forecasted/measured           A workgroup will be defined for each
+                                   database.
+
+                                   For the production machines, one total will
+                                   be forecasted for each database plus one
+                                   total for "OTHER." OTHER will contain
+                                   programs that aren't easily broken out by
+                                   database even though their time may be
+                                   attributable to a particular database.(3)
+
+                                   For the development machines, one monthly
+                                   total for everything will be provided.
+What programs are included/        Since UHS has several thousand programs
+excluded from forecast             running in production on the various machines
+                                   under various usercodes, and the list of
+                                   programs change on a frequent basis, an
+                                   inclusive list of all programs would be
+                                   unmanageable.
+
+                                   Excluded programs are:
+
+                                   SYSTEM/A=, A TO A Routers
+                                   SYSTEM/U=, U to A Routers
+                                   SYSTEM/CO=, SYSTEM/COMS
+                                   SYSTEM/CA=, SYSTEM/CANDE
+                                   SYSTEM/CC=, Application to Appl calls
+                                   (PROD)SYSTEM/=. A to A, U to A
+                                   (PROD)CCF/=, -o-
+Missing Viewpoint Data             In the event that Viewpoint data is missing
+                                   or corrupted for any given time period
+                                   (minute, 15 minute, hour, day, etc.), Unisys
+                                   will average the data from the previous good
+                                   time period with the following good time
+                                   period. For example, if 4 minutes of data are
+                                   missing, Unisys
+
+
+
+
+                                  Page 5 of 12
+
+
+<PAGE>
+                                                                    EXHIBIT 31-3
+
+
+                                   would average the previous 15 minute sample
+                                   with the next 15 minute sample to compute an
+                                   average for the missing period. If 23 hours
+                                   of data are missing, the previous and next
+                                   daily samples would be used to compute an
+                                   average.
+
+                                   Unisys would clearly report exactly what
+                                   method and samples it used in computing
+                                   metrics for any lost period.
+
+(1) - When available, the forecast should include a breakout by div within a
+      database
+(2) - The formula for computing the daily Application CPU hours will be:
+      Processor Utilization Percentage * hours/day * # of processors. For
+      example, if a A18-3x has ***
+(3) - OTHER will be defined in Viewpoint as all programs not included in the
+      database workgroups except for the programs specifically excluded from the
+      forecast (as noted above).
+
+BILLING UNITS
+
+Total application CPU hours per month for all A Series machines
+
+MACHINE/RESOURCE UTILIZATION
+
+In general, for an on-line oriented machine, as the machine utilization
+approaches saturation, technical support requirements increase exponentially.
+Efficient and cost effective computer operations requires executing the hardware
+resources at the highest level possible that doesn't require oppressive human
+intervention. The billing rates will be based on a best fir of machine
+utilization and technical resource utilization.
+
+Conversation Factor
+
+Since a variety of processor speeds/models are in use by UHS and it is expected
+that new processor speeds/models will be used, a conversion must be done to
+convert application CPU hours on all machines to a common metric. The
+conversation factor is the multiplier that will be applied to convert that
+machine to A18 - 1x Application CPU hours (the base metric). For example, ***
+
+Machine Style       Conversion Factor
+
+A18 - all models    ***
+A16-82L             ***
+A19 - all models    ***
+NX4801              ***
+
+BILLING REPORTING
+
+Unisys and UHS have defined workgroups into which the Viewpoint data will be
+defined. The hours in these workgroups will be converted to a common metric and
+summed monthly to provide the total Application CPU hours used. One workgroup
+exists for each A Series database plus one workgroup for all applications
+("OTHER") that don't easily fit into a database workgroup. Unisys will provide
+billing detail at the summarized workgroup level.
+
+
+
+***      Indicates the omission of confidential information filed separately
+         with the Securities and Exchange Commission in connection with a
+         confidential treatment request made pursuant to Rule 24-b(2) of the
+         Securities and Exchange Act of 1934, as amended.
+
+
+
+
+
+                                  Page 6 of 12
+
+<PAGE>
+                                                                    EXHIBIT 31-3
+
+
+A SERIES/CLEARPATH MEDIA MOUNTS FORECASTING/BILLING METRICS
+
+The total of all media mounts (tape, CD-ROMS, etc.) will be forecast. Actual
+numbers will be calculated using OPCON statistics.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                  Page 7 of 12
+
+
+
+
+<PAGE>
+                                                                    EXHIBIT 31-3
+
+
+IBM ES9000 MACHINE - CURRENTLY IN EFFECT
+
+DISK FORECASTING/BILLING METRICS
+
+Metric to be used               Total disk available on system
+Unit of Measure                 Gigabytes of non-fault tolerant disk
+How computed               Total gigabytes of all the disk connected to the
+                           system.
+When computed              Each time additional disk is added to system.
+What forecasted            The available disk will be forecasted into the
+                           following categories:
+
+                                 -    System Requirements
+                                 -    Financial Production and Test
+                                 -    Dental Systems
+                                 -    Center Files
+                                 -    DPS Files
+                                 -    Other: Infopac, Other Prd, Temp, Work, ML1
+                                 -    DSS Production and Management
+                                 -    Available
+
+BILLING UNITS
+
+The forecasted disk usage number will assume all disk is non-fault tolerant. Any
+other type of disk purchase requested by UHS will be handled as an exception to
+Variable Pricing.
+
+The billing metric will be the total disk space available on the system.
+
+IBM PROCESSOR FORECASTING/BILLING METRICS
+
+FORECASTING AND MEASURING
+
+Forecasting metric to be used Maximum       MIPS available on system
+
+Unit of Measure                             MIPS as defined by IBM product
+                                            specifications
+
+What forecasted/measured                    Entire system
+
+What programs are excluded from forecast    None
+
+BILLING UNITS
+
+Maximum MIPS available on machine
+
+IBM MEDIA MOUNTS FORECASTING/BILLING METRICS
+
+The total of all media mounts (tape, CD-ROMS, etc.) will be forecast. Actual
+numbers will be calculated using OPCON statistics.
+
+
+
+
+
+
+                                  Page 8 of 12
+
+
+
+<PAGE>
+                                                                    EXHIBIT 31-3
+
+IBM ES9000 MACHINE - DRAFT PROPOSAL
+
+DISK FORECASTING/BILLING METRICS
+
+Metric to be used Maximum GB used within month
+
+Unit of Measure   Gigabytes of fault tolerant disk(1)
+
+How computed              The DCOLLECT tool will run multiple times per day
+                          capturing the maximum disk used in each of the disk
+                          pools plus the SPOOL and Migration volumes.(2) At the
+                          end of the month, the maximum GB of disk for the
+                          month will be computed using this formula:
+
+
+
+                          Max GB consumed -
+                            max (SPOOL/Migration) + max (pool 1) + max (pool 2)
+                          + xxx + (pool n)
+
+                          where the "max" will be the highest value recorded for
+                          that pool at any time within the month and "n" will be
+                          the last pool being forecasted.
+
+                          For example: if 2 pools are being used in the
+                          computation:
+                          Pool 1:6/1@ 12:00 = 90 GB
+                          ...
+                          Pool 1:6/12@ 12:00 = 100 GB
+                          Pool 1:6/12@ 18:00 = 110 GB
+                          ...
+                          Pool 1:6/30@ 18:00 = 95 GB
+
+                          Pool 2:6/1@ 12:00 = 190 GB
+                          ...
+                          Pool 2:6/15@ 12:00 = 200 GB
+                          ...
+                          Pool 2:6/1@ 12:00 = 1095GB
+
+                          The maximum for pool 1 =
+                          110 GB and the maximum for
+                          pool 2 = 200 GB. The Max
+                          Disk Consumed metric
+                          reported for the month
+                          would be 310 GB.
+
+DCOLLECT Run Frequency    To be run as needed.(3)
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                  Page 9 of 12
+
+
+<PAGE>
+                                                                    EXHIBIT 31-3
+
+Pools forecasted/Used in
+Computation POOLS:
+
+                          CENTER1
+                          CENTER2
+                          HEDIS
+                          DBDSST
+                          DBDSSP
+                          DBTECH
+                          DENTAL
+                          DPSCENTR
+                          DSSPROD
+                          DSSTEST
+                          EPIS
+                          FINPROD
+                          FINTEST
+                          INFOPAC
+                          PROD
+                          TEMP
+                          TEST
+                          UMWA
+
+                          OTHER VOLUMES:
+                          All volumes associate with SPOOL and Migration
+                          (currently MLxxxxpqcks).
+
+Missing Data              In the event that data is missing or corrupted for any
+                          given time, Unisys will average the data from the
+                          previous good time period with the following good time
+                          period.  For example, if a 4 hour collection period is
+                          used and if 4 hours of data are missing, Unisys would
+                          average the previous 4 hour sample with the next 4
+                          hour sample to compute an average for the missing
+                          period.
+
+                          Unisys would clearly report exactly what method and
+                          samples it used in computing metrics for any lost
+                          period.
+
+Data Retention            The summarized daily information will be kept for
+                          one year.
+
+
+
+
+(1)  -  BILLING UNITS
+
+The forecasted disk usage number will assume all disk is fault tolerant. Any
+other type of disk purchase requested by UHS may be handled as an exception to
+Variable Pricing by Unisys.
+
+(2)  -  SPOOL AND MIGRATION VOLUMES
+
+Although the SPOOL and Migration volumes are not true "pools," the amount of
+space consumed on these packs is directly related to the retention setting
+requested by UHS>
+
+(3)  -  DCOLLECT Frequency
+
+Unisys will initially run this tool once per hour. Since the CPU consumption for
+this product is chargeable to Unisys, Unisys may change the schedule of its use
+to optimize machine resources.
+
+
+
+
+                                  Page 10 of 12
+
+
+<PAGE>
+                                                                    EXHIBIT 31-3
+
+
+IBM PROCESSOR FORECASTING/BILLING METRICS
+
+FORECASTING AND MEASURING
+
+Forecasting Metric to be used       Total CPU consumed within selected account
+                                    codes by Prime and Off-Prime shifts.
+
+Unit of Measure                     ES9021-340 (1 processor) CPU Hours
+
+What forecasted/measured            All CPU time for the following Account Codes
+                                    will be excluded from the consumption
+                                    totals:
+
+                                    3400 - Unisys Scheduling
+                                    3420 - Unisys Operations Analysts
+                                    3440 - Unisys Operations, Technical Staff
+
+                                    All CPU time for other account codes will
+                                    be included.
+
+Prime/Off-Prime                     Shifts All Reporting will be done by prime
+                                    and off-prime periods using an Interval
+                                    Accounting method.(1) Prime Shift Period:
+                                    8AM - 5 PM Central Time, Monday through
+                                    Friday except Holidays. Off-Prime Shift
+                                    Period: 5:01PM - 7:59AM Weekdays plus
+                                    weekends and holidays.
+
+How forecasted and measured         Extract the SMF Type 30 Subtypes 2, 3, and 5
+                                    records. These records will be used to
+                                    calculate CPU times using TCB, SRB, HPT and
+                                    IO. All the data will be contained in a
+                                    monthly file, and retained for one year.
+                                    This file will be kept at the detailed level
+                                    not summarized at any level, allowing the
+                                    smallest base of raw data anyone could work
+                                    from.
+
+Missing Data                        In the event that data is missing or
+                                    corrupted for any given time, Unisys will
+                                    average the data from the previous good time
+                                    period with the following good time period.
+                                    For example, if a 4 hour collection period
+                                    is used and if 4 hours of data are missing,
+                                    Unisys would average the previous 4 hour
+                                    sample with the next 4 hour sample to
+                                    compute an average for the missing period.
+
+                                    Unisys would clearly report exactly what
+                                    method and samples it used in computing
+                                    metrics for any lost period.
+
+Data Retention                      The summarized daily information will be
+                                    kept for one year.
+
+(1) - Interval Accounting: The actual time a job executes within prime shift
+      and off-prime shift will be accounted for separately. For example,
+      assuming prime shift is 8AM to 5PM, and a job runs from 7 AM to 9AM
+      (regardless of when it was submitted), it will accumulate 1 hour of
+      off-prime shift time and 1 hour of prime shift time.
+
+Conversion Factor
+
+Since it is expected that new processor speeds/models will be used, a
+conversation must be done to convert application CPU hours on all machines to a
+common metric. The conversation factor is the multiplier that will be applied to
+convert that machine to ES9021-340 CPU hours (the base metric).
+
+                                  Page 11 of 12
+
+
+<PAGE>
+                                                                    EXHIBIT 31-3
+
+
+Machine Style     Conversion Factor(2)
+ES9021-340        1
+ES9021-711        2.66
+ES9021-962        2.66
+(2) - Based on Cheryl Watson's Tuning Letter Information
+
+BILLING REPORTING
+
+From the SMF data, Unisys will sum all CPU hours for all appropriate account
+codes (see prior list). The hours in these Account Codes will be converted to a
+common metric and summed monthly to provide the total CPU hours consumed. Unisys
+will provide two monthly metrics; one metric for total prime shift CPU hours and
+one metric for off-prime shift CPU hours. Unisys will also provide an EXCEL
+spreadsheet that contains the detail used to create this report.
+
+IBM MEDIA MOUNTS FORECASTING /BILLING METRICS
+
+Forecasting metric to be used       Total media mounts consumed within selected
+                                    account codes.
+
+Unit of Measure                     Count as supplied by SMF records
+
+What forecasted/measured            All media mounts for the following Account
+                                    Codes will be excluded from the consumption
+                                    totals:
+
+                                    3400 - Unisys Scheduling
+                                    3420 - Unisys Operations Analysts
+                                    3440 - Unisys Operations, Technical Staff
+
+                                    All media mounts for other account codes
+                                    will be included.
+
+How forecasted and measured         Extract the SMF Type 30 Subtypes 2, 3, and 5
+                                    records. These records will be used to
+                                    calculate CPU times using TCB, SRB, HPT and
+                                    IO. All the data will be contained in a
+                                    monthly file, and retained for one year.
+                                    This file will be kept at the detailed level
+                                    not summarized at any level, allowing the
+                                    smallest base of raw data anyone could work
+                                    from.
+
+Missing Data                        In the event that data is missing or
+                                    corrupted for any given time, Unisys will
+                                    average the data from the previous good time
+                                    period with the following good time period.
+                                    For example, if a 4 hour collection period
+                                    is used and if 4 hours of data are missing,
+                                    Unisys would average the previous 4 hour
+                                    sample with the next 4 hour sample to
+                                    compute an average for the missing period.
+
+                                    Unisys would clearly report exactly what
+                                    method and samples it used in computing
+                                    metrics for any lost period.
+
+Data Retention                      The summarized daily information will be
+                                    kept for one year.
+
+
+
+
+
+
+
+
+                                  Page 12 of 12
+
+
+
+<PAGE>
+                               AMENDMENT NUMBER 2
+                                       TO
+                   INFORMATION TECHNOLOGY SERVICES AGREEMENT
+
+
+
+
+This is Amendment Number 2, dated as of June 30, 1999, to the Information
+Technology Services Agreement dated as of June l, 1996 between UNISYS
+CORPORATION ("Unisys") and UNITED HEALTHCARE SERVICES, INC, ("UHS"), as amended
+September 15, 1997 (the Agreement").
+
+The Agreement sets forth the parties' obligations relating to (i) ownership of
+certain Unisys Machines and System Software, (ii) Termination Charges and (iii)
+pricing adjustments in the event of the occurrence of certain base volume
+changes. Unisys has requested such provisions be amended in certain respects and
+UHS has agreed to amend such provisions in accordance with this Amendment Number
+2. Terms not otherwise defined herein shall have the meaning given them in the
+Agreement.
+
+ACCORDINGLY, in consideration of the premises and other good and valuable
+consideration, the receipt and sufficiency of which is hereby acknowledged,
+Unisys and UHS hereby agree to amend the Agreement to incorporate the following
+additional provisions and modify certain clauses as follows:
+
+1.       Notwithstanding anything to the contrary contained in the Agreement or
+         any exhibits thereto, upon the termination, in whole or in part only
+         with respect to the A-Series and Clearpath Unisys Machines, of the
+         Agreement for any reason prior to its expiration, UHS shall, upon
+         request of Unisys, only with respect to (i) any A Series and Clearpath
+         Unisys Machines and related peripherals described on Exhibit A attached
+         hereto and (ii) Unisys proprietary System Software described on Exhibit
+         A attached hereto, be obligated to (i) purchase such A-Series and
+         Clearpath Unisys Machines and related peripherals and (ii) license such
+         Unisys proprietary Systems Software for the remaining term of the
+         Agreement, solely for an amount equal to the amount set forth on
+         Exhibit B attached hereto. Upon the sale of any Unisys Machines and
+         related peripherals to UHS under this Amendment Number 2, Unisys will
+         represent and warrant that it has the full right, title and interest in
+         such Unisys Machines and related peripherals free and clear of any
+         liens, claims or encumbrances and that such Unisys Machines and related
+         peripherals are in good working order and eligible for Unisys
+         maintenance services in accordance with Unisys then existing
+         maintenance agreements. It is understood and agreed by the parties
+         that, in the event UHS terminates the Agreement in full or only with
+         respect to one or more of the A-Series and Clearpath Unisys Machines,
+         and Unisys requests that UHS purchase the A-Series and Clearpath Unisys
+         Machines and related peripherals described on Exhibit A attached hereto
+         and license the Unisys proprietary System Software described on Exhibit
+         A attached hereto, UHS will only be obligated to pay (i) those fees
+         then due and payable under the Agreement at the time of termination and
+         (ii) the amount set forth on Exhibit B attached hereto. Notwithstanding
+         the foregoing, in the event
+
+<PAGE>
+         that UHS terminates the Agreement pursuant to Section 24.05 of the
+         Agreement, UHS shall not be obligated to pay the applicable amount set
+         for on Exhibit B attached hereto for such A-Series and Clearpath Unisys
+         Machines and related peripherals if UHS has not received the full right
+         title and interest in such Unisys Machines and related peripherals free
+         and clear of any liens, claims or encumbrances. No other fees or
+         charges of any kind shall apply. For clarification purposes only,
+         termination solely with respect to one or more IBM or Unix machines
+         shall be in accordance with the terms and conditions of the Agreement
+         (specifically including Amendment 1).
+
+2.       Upon mutual agreement of the parties, which agreement will be in the
+         sole discretion of the parties, Exhibit A attached hereto will be
+         amended, from time to time, as the A-Series and Clearpath Unisys
+         Machines and Unisys proprietary System Software subject to this
+         Amendment Number 2 are substituted by Unisys. Exhibit B attached hereto
+         will not be amended or modified as a result of any such amendment of
+         Exhibit A attached hereto. The intent of the parties is that Exhibit A
+         attached hereto reflects all of the hardware and Unisys proprietary
+         System Software required to process the UHS workload as of the date of
+         this Amendment Number 2. Unisys hereby represents that Exhibit A
+         attached hereto includes a complete and accurate list of all the
+         A-Series and Clearpath Unisys Machines and Unisys proprietary System
+         Software required to process the Unisys related UHS workload as of the
+         date of this Amendment.
+
+3.       Section 33.01(1) of the Agreement is hereby amended by adding the
+         following sentence to the end of the paragraph:
+
+         "Notwithstanding the above, Unisys may assign its right to receive
+         payments under this Agreement; provided, however, that any such
+         assignment (a) will not increase the number of payments  or amounts due
+         from UHS, (b) will be subject to any claims and offset rights as well
+         as UHS's right to receive payment for unused credits of UHS and (c)
+         will not affect any of UHS's rights or remedies under the Agreement."
+
+4.       The first paragraph under the title "BASE CHANGES - VOLUME AND RATE" on
+         page 1 of Exhibit 31-3 of Amendment Number 1 to the Agreement is hereby
+         amended by adding the following sentence to the end of such paragraph:
+
+         "It is understood and agreed and it is the intent of the parties hereto
+         that, with respect to A-Series and Clearpath Unisys Machines only, in
+         the event that an adjustment to the base rate is made as a result of a
+         reduction in the actual unit volume consumed for a specific category,
+         the parties will negotiate in good faith an appropriate adjustment to
+         the base rate to reflect the capacity reductions and volume changes.
+         Adjustments to the base rate pursuant to this paragraph will not in any
+         way affect, reduce, amend or alter the parties rights or obligations
+         under Article 9 of the Agreement."
+
+
+
+                                       2
+<PAGE>
+5.       The first sentence of the paragraph titled "ALL PERIODS" on page 1 of
+         Exhibit 31-3 of Amendment Number 1 to the Agreement is hereby amended
+         to read in its entirety as follows:
+
+         "If the base volume for a particular category falls below either 60% of
+         the base volume existing as of the date of this Amendment Number 2 for
+         the Unisys category, or 60% of the initial base volume for the IBM
+         categories, the Account Executives for Unisys and UHS will jointly
+         agree on a revised rate card for that category. The Account Executives
+         will also agree on a one-time charge for the reduced capacity
+         requirement, or if UHS re-assigns the volume of one product family
+         (IBM, Unisys) to the other product families supported by Unisys, the
+         Account Executives for Unisys and UHS will jointly agree on an
+         appropriate one-time charge for the eliminated capacity requirement."
+
+6.       Section 30.01 of the Agreement is hereby amended to read in its
+         entirety as follows:
+
+                  30.01(a) Direct Damages. Each of UHS and Unisys shall be
+         liable to the other Party for any direct damages arising out of or
+         relating to a breach of its obligations under this Agreement. The
+         following shall be considered direct damages and Unisys shall not
+         assert that they are indirect, incidental, special, or consequential
+         damages or lost profits to the extent they result from Unisys failure
+         to provide the Services in accordance with this Agreement:
+
+                  (1)      reasonable costs of recreating (if possible) or
+                           reloading any of UHS' or its Affiliates' information
+                           that is lost or damaged;
+
+                  (2)      reasonable costs of implementing a work around in
+                           respect of a failure to provide all or a portion of
+                           the Services or any part thereof;
+
+                  (3)      reasonable costs of replacing lost or damaged
+                           equipment software and materials;
+
+                  (4)      reasonable costs and expenses incurred by UHS or its
+                           Affiliates to return Systems Software to manufacturer
+                           specifications;
+
+                  (5)      reasonable costs and expenses incurred by UHS or its
+                           Affiliates to procure the Services from an alternate
+                           source, to the extent in excess of Unisys charges
+                           under this Agreement, and provided that such costs
+                           and expenses shall not continue beyond the Term;
+
+                  (6)      reasonable straight time, overtime or related
+                           expenses incurred by UHS or its Affiliates, including
+                           overhead allocations of UHS or its Affiliates for
+                           their employees, wages and salaries of additional
+                           employees, travel expenses, overtime expenses,
+                           telecommunication charges and similar charges, due to
+                           the failure of Unisys or its Agents to provide all or
+                           a portion of the Services incurred in connection with
+                           (1) through (5) above;
+
+                  (7)      specific damages incurred pursuant to contractual
+                           provisions including, without limitation, liquidated
+                           damages, performance guarantees and fee reductions
+                           incurred by UHS or its Affiliates pursuant to
+                           customer or provider contracts; and
+
+
+
+
+                                       3
+<PAGE>
+                  (8)      the amount of any payment or penalty imposed on a
+                           Party by a regulatory agency arising out of the other
+                           Party's breach of this Agreement.
+
+                  30.01(b) Limitation on Liability. The liability of either
+         Party for actual, direct damages resulting from performance or
+         nonperformance under this Agreement, regardless of the form of action,
+         and whether in contract, tort (including, without limitation,
+         negligence), warranty or other legal or equitable grounds, will be
+         limited as follows:
+
+         l.       With respect to UHS, liability for actual, direct damages
+                  resulting from performance or nonperformance under this
+                  Agreement, regardless of the form of action, and whether in
+                  contract, tort (including, without limitation, negligence),
+                  warranty or other legal or equitable grounds, will be limited
+                  in the aggregate for the Term to the greater of (i) $6,000,000
+                  and (ii) the charges paid to Unisys by UHS during the twelve
+                  month period immediately prior to the date the amount of
+                  damages was established (the "UHS Damages Cap"). In addition,
+                  the liability of UHS for actual, direct damages specified in
+                  subsections 30.01(7) and (8) resulting from performance or
+                  nonperformance under this Agreement, regardless of the form of
+                  action, and whether in contract, tort (including, without
+                  limitation, negligence), warranty or other legal or equitable
+                  grounds, will be limited in the aggregate for the Term to ten
+                  percent (10%) of the charges paid to Unisys by UHS during the
+                  twelve month period immediately prior to the date the amount
+                  of damages was established.
+
+         2.       With respect to Unisys, liability for actual, direct damages
+                  resulting from performance or nonperformance under this
+                  Agreement, regardless of the form of action, and whether in
+                  contract, tort (including, without limitation, negligence),
+                  warranty or other legal or equitable grounds, will be limited
+                  in the aggregate for the Term to the greater of (i) $6,000,000
+                  and (ii) the actual direct damages incurred by UHS up to a
+                  limit of an amount equal to the charges paid to Unisys by UHS
+                  during the twelve (12) month period immediately prior to the
+                  date the amount of damages was established (the "Unisys Direct
+                  Damages Cap"). In addition, the liability of Unisys for
+                  actual, direct damages specified in subsections 30.01(7) and
+                  (8) resulting from performance or nonperformance under this
+                  Agreement, regardless of the form of action, and whether in
+                  contract, tort (including, without limitation, negligence),
+                  warranty or other legal or equitable grounds, will be limited
+                  in the aggregate for the Term to ten percent (10%) of the
+                  charges paid to Unisys by UHS during the twelve month period
+                  immediately prior to the date the amount of damages was
+                  established. Notwithstanding the preceding two sentences, in
+                  the event that UHS terminates this Agreement in accordance
+                  with Section 24.02, 24.03, 24.05 or 24.06, Unisys will pay to
+                  UHS an amount equal to the charges paid to Unisys by UHS
+                  during the four (4) month period immediately prior to the date
+                  of such termination and Unisys liability with respect to such
+                  direct damages sustained as a
+
+
+
+
+
+                                       4
+
+
+<PAGE>
+                  result of such termination will be limited to an amount equal
+                  to the charges paid to Unisys by UHS during the eight (8)
+                  month period immediately prior to the date of such
+                  termination.
+
+         3.       The limitations in Subsections 30.01(b)(1) and (2) above will
+                  not apply to (a) losses by either Party for bodily injury or
+                  damage to real property or tangible personal property, (b)
+                  either Party's obligations to indemnify the other pursuant to
+                  Section 29.01(1), Section 29.01(7), Section 29.02(1) and
+                  Section 29.02(7), (c) any breach of confidentiality
+                  obligations contained in this Agreement or the improper
+                  disclosure of UHS Data, or (d) liability resulting from the
+                  willful misconduct of a Party.
+
+7.       It is the intent of the parties that Exhibit 17 of the Agreement is
+         superseded in its entirety by Amendment Number 1 and this Amendment
+         Number 2.
+
+8.       Other Terms
+
+         Except as herein specifically amended, all of the terms of the
+         Agreement remain in full force and effect and are hereby ratified and
+         confirmed.
+
+         To the extent the terms of this Amendment Number 2 conflict with other
+         terms of the Agreement or any exhibits thereto, the provisions set
+         forth in this Amendment Number 2 shall control.
+
+
+IN WITNESS WHEREOF, Unisys and UHS have executed this Amendment Number 2,
+effective as of the date first above written.
+
+
+UNISYS CORPORATION                  UNITED HEALTHCARE SERVICES, INC.
+
+By: Illegible                       By: Illegible
+   -----------                           -----------
+
+Its: Illegible                      Its:  Illegible
+    -----------                           -----------
+
+
+                                       5
+<PAGE>
+                                    EXHIBIT A
+                                   AMENDMENT 2
+                   INFORMATION TECHNOLOGY SERVICES AGREEMENT
+
+
+
+<TABLE>
+<CAPTION>
+
+                                                                              06/30/99
+                                      EXTENDED     *** H/W       NET         REMAINING       START
+DESCRIPTION                           LIST PRICE   DISCOUNT      LIST        BOOK VALUE      DATE
+-----------                           ----------   --------      ----        ----------      ----
+<S>                                   <C>         <C>         <C>           <C>             <C>
+INITIAL ASSET TFSR - 3430 H/W         $  ***      $    -      $  ***         $  ***          Jun-96
+INITIAL ASSET TFSR - 3430 S/W         $  ***      $    -      $  ***         $  ***          Jun-96
+(Extended List Price = Asset Transfer Value from the initial Agreement)
+(3430 was the A Series org # for UHG at time of contract)
+INCREMENTAL HARDWARE
+
+Al8-4x-6x                             $  ***      $  ***      $  ***         $  ***          Aug 96
+A19 Components                        $  ***      $  ***      $  ***         $  ***          Oct-96
+A Series Disk USE3600II               $  ***      $  ***      $  ***         $  ***          Oct-96
+A Series Disk Growth                  $  ***      $  ***      $  ***         $  ***          Mar-97
+A168                                  $  ***      $  ***      $  ***         $  ***          May-97
+Initial Clearpath                     $  ***      $  ***      $  ***         $  ***          May-97
+A Series                              $  ***      $  ***      $  ***         $  ***          Sep-97
+CP2013-V35 LMV Card                   $  ***      $  ***      $  ***         $  ***          Sep-97
+Opcon Unix                            $  ***      $  ***      $  ***         $  ***          Sep-97
+MAG TAPE                              $  ***      $  ***      $  ***         $  ***          Sep-97
+A Series Disk                         $  ***      $  ***      $  ***         $  ***          Oct-97
+CLRPTH 3x                             $  ***      $  ***      $  ***         $  ***          Oct-97
+Clearpath 3x-5x                       $  ***      $  ***      $  ***         $  ***          Nov-97
+A Series Disk                         $  ***      $  ***      $  ***         $  ***          Nov-97
+A Series Disk                         $  ***      $  ***      $  ***         $  ***          Nov-97
+Clearpath 3x Hardware                 $  ***      $  ***      $  ***         $  ***          Jan-98
+Disk for Prod C & F                   $  ***      $  ***      $  ***         $  ***          Mar-98
+CLRPTH UPG                            $  ***      $  ***      $  ***         $  ***          May-98
+2x5800 ClrPth                         $  ***      $  ***      $  ***         $  ***          Oct-98
+4O98 A Series Disk                    $  ***      $  ***      $  ***         $  ***          Oct-98
+A Series Cache Disk memory            $  ***      $  ***      $  ***         $  ***          Dec-98
+OR801-RPW                             $  ***      $  ***      $  ***         $  ***          Dec-98
+TAB40-048                             $  ***      $  ***      $  ***         $  ***          Jan-99
+GVPRODF 3x-4x                         $  ***      $  ***      $  ***         $  ***          Jan-99
+GVPRODC 4x-5x                         $  ***      $  ***      $  ***         $  ***          Jan-99
+GVPRODF 4x-5x                         $  ***      $  ***      $  ***         $  ***          Jan-99
+A Series Disk                         $  ***      $  ***      $  ***         $  ***          Apr-99
+
+
+
+SUB TOTAL                             $  ***      $  ***      $  ***         $  ***
+</TABLE>
+
+
+
+
+***   Indicates the omission of confidential information filed separately with
+      the Securities and Exchange Commission in connection with a confidential
+      treatment request made pursuant to Rule 24-b(2) of the Securities Exchange
+      Act of 1934, as amended.
+<PAGE>
+
+                                   EXHIBIT A
+                                  AMENDMENT 2
+                   INFORMATION TECHNOLOGY SERVICES AGREEMENT
+
+<TABLE>
+<CAPTION>
+
+                                                                              06/30/99
+                                      EXTENDED     *** H/W       NET         REMAINING       START
+DESCRIPTION                           LIST PRICE   DISCOUNT      LIST        BOOK VALUE      DATE
+-----------                           ----------   --------      ----        ----------      ----
+INCREMENTAL SOFTWARE
+<S>                                   <C>         <C>         <C>           <C>             <C>
+
+
+
+A18-4x-6x                             $  ***      $    -      $  ***         $  ***          Aug-96
+Disk-260GB USE36000II                 $  ***      $    -      $  ***         $  ***          Aug-96
+Disk Software                         $  ***      $    -      $  ***         $  ***          Oct-96
+Disk Software                         $  ***      $    -      $  ***         $  ***          Oct-96
+Disk Software                         $  ***      $    -      $  ***         $  ***          Mar-97
+A18 2x-3x ETP                         $  ***      $    -      $  ***         $  ***          Mar-97
+Disk Software                         $  ***      $    -      $  ***         $  ***          May-97
+CLRPTH                                $  ***      $    -      $  ***         $  ***          May-97
+Disk Software                         $  ***      $    -      $  ***         $  ***          Jun-97
+A19 S/W License Renewal               $  ***      $    -      $  ***         $  ***          Jul-97
+UN6000 UNIX Software                  $  ***      $    -      $  ***         $  ***          Sep-97
+3x Clearpath                          $  ***      $    -      $  ***         $  ***          Sep-97
+Clearpath 3x-5x                       $  ***      $    -      $  ***         $  ***          Nov-97
+Clearpath 3x Software                 $  ***      $    -      $  ***         $  ***          Jan-98
+4x Clearpath                          $  ***      $    -      $  ***         $  ***          May-98
+A19 S/W License Renewal               $  ***      $    -      $  ***         $  ***          Jun-98
+2x5800 ClearPath                      $  ***      $    -      $  ***         $  ***          Oct-98
+GVPRODF 3x-4x                         $  ***      $    -      $  ***         $  ***          Jan-99
+GVPRODC 4x-5x                         $  ***      $    -      $  ***         $  ***          Jan-99
+GVPRODF 4x-5x                         $  ***      $    -      $  ***         $  ***          Jan-99
+
+
+
+SUB TOTAL                             $  ***      $    -      $  ***         $  ***
+
+
+
+GRAND TOTAL                           $  ***      $  ***      $  ***         $  ***
+</TABLE>
+
+
+
+***   Indicates the omission of confidential information filed separately with
+      the Securities and Exchange Commission in connection with a confidential
+      treatment request made pursuant to Rule 24-b(2) of the Securities Exchange
+      Act of 1934, as amended.
+<PAGE>
+                                    EXHIBIT B
+                               TERMINATION CHARGES
+                                     (***'S)
+
+<TABLE>
+<CAPTION>
+     Year      Month    Unisys Only and All Platforms
+<S>            <C>      <C>
+                38                      ***
+                39                      ***
+                40                      ***
+                41                      ***
+                42                      ***
+                43                      ***
+                44                      ***
+                45                      ***
+                46                      ***
+                47                      ***
+                48                      ***
+      5         49                      ***
+                50                      ***
+                51                      ***
+                52                      ***
+                53                      ***
+                54                      ***
+                55                      ***
+                56                      ***
+                57                      ***
+                58                      ***
+                59                      ***
+                60                      ***
+      6         61                      ***
+                62                      ***
+                63                      ***
+                64                      ***
+                65                      ***
+                66                      ***
+                67                      ***
+                68                      ***
+                69                      ***
+                70                      ***
+                71                      ***
+                72                      ***
+      7         73                      ***
+                74                      ***
+                75                      ***
+                76                      ***
+                77                      ***
+                78                      ***
+                79                      ***
+                80                      ***
+                81                      ***
+                82                      ***
+                83                      ***
+                84                      ***
+       8        85                      ***
+</TABLE>
+
+
+
+***   Indicates the omission of confidential information filed separately with
+      the Securities and Exchange Commission in connection with a confidential
+      treatment request made pursuant to Rule 24-b(2) of the Securities Exchange
+      Act of 1934, as amended.
+
+
+
+
+
+
+
+                                  Page 1 of 2
+<PAGE>
+                                    EXHIBIT B
+                               TERMINATION CHARGES
+                                     (***'S)
+
+<TABLE>
+<CAPTION>
+     Year      Month       Unisys Only and All Platforms
+<S>            <C>         <C>
+                86                      ***
+                87                      ***
+                88                      ***
+                89                      ***
+                90                      ***
+                91                      ***
+                92                      ***
+                93                      ***
+                94                      ***
+                95                      ***
+                96                      ***
+       9        97                      ***
+                98                      ***
+                99                      ***
+               100                      ***
+               101                      ***
+               102                      ***
+               103                      ***
+               104                      ***
+               105                      ***
+               106                      ***
+               107                      ***
+               108                      ***
+      10       109                      ***
+               110                      ***
+               111                      ***
+               112                      ***
+               113                      ***
+</TABLE>
+
+
+
+
+
+
+***   Indicates the omission of confidential information filed separately with
+      the Securities and Exchange Commission in connection with a confidential
+      treatment request made pursuant to Rule 24-b(2) of the Securities Exchange
+      Act of 1934, as amended.
+
+
+
+
+
+
+
+                                   Page 2 of 2
+<PAGE>
+                               AMENDMENT NUMBER 3
+                                       TO
+                   INFORMATION TECHNOLOGY SERVICES AGREEMENT
+
+                  This is Amendment No. 3, dated as of May 1, 2002, to the
+         Information Technology Services Agreement dated as of June 1, 1996
+         between Unisys Corporation ("Unisys") and United HealthCare Services,
+         Inc., ("UHS"), as amended (the "Agreement").
+
+         NOW, THEREFORE, in consideration of the premises and mutual promises
+herein contained, it is agreed that the Agreement is hereby amended as follows:
+
+         WHEREAS, the Parties wish to amend the Agreement and/or Additional
+Service Requisitions there under in order to modify certain sections and
+exhibits of the Agreement and/or Additional Service Requisitions there under,
+and add additional terms.
+
+         NOW, THEREFORE, for good and valuable consideration, the receipt of
+which is acknowledged, the Parties agree as follows:
+
+         1.       All capitalized terms not defined herein shall have the same
+                  meaning ascribed to such terms in the Agreement.
+
+         2.       Additional Service Requisition 0157 (AARP/Compass) is hereby
+                  amended to include the following information in a new
+                  subsection under Section 7(a) as outlined in Exhibit A
+                  attached hereto.
+
+         3.       Additional Service Requisition 01102 (Physician Portal) is
+                  hereby amended to include the following information in a new
+                  subsection under Section 7 as outlined in Exhibit B attached
+                  hereto.
+
+         4.       Exhibit 15 (Subcontractors) is hereby amended to delete the
+                  subcontractors chart in its entirety and replace it with the
+                  following chart shown in Exhibit C attached hereto.
+
+         5.       Article 33 (Miscellaneous Provisions) of the Agreement shall
+                  be modified as to add a new Section 33.18 titled "External
+                  Access", as outlined in Exhibit D attached hereto.
+
+         6.       Article 33 (Miscellaneous Provisions), Section 33.02 (Notices)
+                  is hereby updated with the following revised contact
+                  information as outlined in Exhibit E attached hereto.
+
+         7.       Article 22 (Confidentiality), Section 22.01 (Confidential
+                  Information) will be amended to include the following as
+                  outlined in Exhibit F attached hereto.
+
+
+
+
+                                       1
+
+
+<PAGE>
+
+In the event of inconsistencies between the Agreement and this Amendment, the
+terms and conditions of this Amendment shall be controlling. Unless specifically
+modified or changed by the terms of this Amendment, all terms and conditions of
+the Agreement shall remain in effect and shall apply fully as described and set
+forth in the Agreement.
+
+Accepted by:                                   Accepted by:
+
+Unisys Corporation                             United HealthCare Services, Inc.
+
+By:  /s/ Kenneth W. Hadzinski                  By: /s/ Darrell Brooks
+     ---------------------------------             ----------------------------
+
+Name:    Kenneth W. Hadzinski                  Name:   Darrell Brooks
+     ---------------------------------             ----------------------------
+         Contracts Manager
+Title:   Unisys Corporation                    Title:  VP, Service Management
+     ---------------------------------             ----------------------------
+
+Date:    9/10/02                               Date:   08-30-2002
+     ---------------------------------             ----------------------------
+
+
+
+
+                                       2
+<PAGE>
+
+                                    EXHIBIT A
+
+          ADDITIONAL SERVICE REQUISITION 0157 (AARP/COMPASS) AMENDMENT
+
+         "7. Problem Resolution Time Unisys shall resolve all problems
+         categorized below within the times listed below from the time that the
+         Unisys Service Center problem ticket is opened until the problem is
+         resolved.
+
+<TABLE>
+<CAPTION>
+         Severity                        Characteristics                            Resolution
+                                                                                        Time
+<S>                           <C>                                                   <C>
+1- Major Business Impact      Major impact on business.
+                              The site is unavailable or any of the                  8 hours
+                              major functions (i.e. transactions or content) of
+                              the site are completely or partially unavailable
+                              or the site is experiencing significant response
+                              time issues (i.e. not meeting performance
+                              metrics).
+                              A system or component is down causing a business
+                              function to halt. The critical situation procedure
+                              is followed to resolve the problem.
+3 - Minor Business Impact     Minor impact on business.
+                              Any issue affecting the functionality                  96 hours
+                              (I.e. transaction, content or performance) or
+                              availability of the site for a single user. This
+                              does not have critical impact on the business, but
+                              does restrict functions to some users and can
+                              impact normal operations.
+</TABLE>
+
+
+
+
+
+
+
+
+
+
+
+                                       3
+<PAGE>
+                                    EXHIBIT B
+
+        ADDITIONAL SERVICE REQUISITION 01102 (PHYSICIAN PORTAL) AMENDMENT
+
+
+         "G. Problem Resolution Time Unisys shall resolve all problems
+         categorized below within the times listed below from the time that the
+         Unisys Service Center problem ticket is opened until the problem is
+         resolved.
+
+
+<TABLE>
+<CAPTION>
+         Severity                        Characteristics                                Resolution
+                                                                                           Time
+<S>                           <C>                                                       <C>
+1- Major Business Impact      Major impact on business.
+                              The site is unavailable or any of the                       8 hours
+                              major functions (i.e. transactions or content) of
+                              the site are completely or partially unavailable
+                              or the site is experiencing significant response
+                              time issues (i.e. not meeting performance
+                              metrics).
+                              A system or component is down causing a business
+                              function to halt The critical situation procedure
+                              is followed to resolve the problem.
+3 - Minor Business Impact     Minor impact on business.
+                              Any issue affecting the functionality                      96 hours
+                              (I.e. transaction, content or performance) or
+                              availability of the site for a single user. This
+                              does not have critical impact on the business, but
+                              does restrict functions to some users and can
+                              impact normal operations.
+</TABLE>
+
+
+
+
+
+                                       4
+<PAGE>
+
+                                    EXHIBIT C
+
+                                   EXHIBIT 15
+                                    (REVISED)
+                                 SUBCONTRACTORS
+
+
+
+<TABLE>
+<CAPTION>
+      VENDOR                                 USER
+<S>                                  <C>
+  Burns Security                     Facilities
+  Honeywell                          Eagan Service Center
+
+  Hunt Electric                      Facilities
+  Iron Mountain                      Eagan Service Center
+
+  Quicksilver                        Eagan Service Center
+</TABLE>
+
+
+
+
+
+
+                                       5
+
+<PAGE>
+                                                                       EXHIBIT D
+
+
+
+                ADDITION TO ARTICLE 33 MISCELLANEOUS PROVISIONS
+
+33.18 External Access. This section establishes the terms and conditions and
+procedures of Unisys access to certain of UHS' Systems noted on the Security
+Form ("United IS").
+
+(1). Method of Access. Unisys shall have access to United IS by the following
+methods:
+
+-        At a UHS Site using UHS owned or leased equipment.
+
+-        As otherwise mutually agreed to by the Parties.
+
+(2). System Users. As part of the Agreement, UNISYS shall identify to UHS the
+UNISYS employees UNISYS believes will need to have access to United IS under the
+Agreement ("SYSTEM USERS"). UHS will provide each System User with a hard copy
+of the UHS customer administration request form that is used by UHS to process
+adds, changes and deletes regarding access to the United IS, which is located in
+the UHS Lotus Notes database (the "SECURITY FORM"). The UHS designated contact
+will forward the completed Security Form to the UHS security group for
+processing. UNISYS shall provide UHS the information regarding each System User
+reasonably required by UHS, including, but not limited to, the United IS each
+System User will access and the method of each System User's access to United
+IS. UNISYS will not provide social security numbers or other UNISYS or personal
+confidential information to UHS.
+
+UNISYS shall promptly notify UHS of any System Users who cease to require access
+to United IS as a result of a change of responsibilities and/or leaving UNISYS
+employment. UHS may terminate any System User's access to United IS in the event
+UHS has good faith reason to believe such access is not authorized, or access
+must be terminated in order to prevent damage to UHS. UNISYS is responsible for
+a System User's non-compliance with the terms of this Agreement. UNISYS
+subcontractors shall be deemed System Users under the terms of the Agreement.
+
+         In the event UHS terminates an UNISYS System User's access to the
+United IS for any reason other than (1) a material breach of the Agreement or
+(2) a force majeure event, and such access is necessary for UNISYS to perform
+the Services, the Parties will mutually agree to either (1) develop an
+alternative means to access the data on the United IS that is necessary for
+UNISYS to perform the Services or (2) delay the delivery of any deliverables
+under the Agreement, with no contractual penalty being assessed against UNISYS.
+
+
+
+
+                                        6
+
+<PAGE>
+
+(3). Limitations on UNISYS Use of Access to United IS. UNISYS shall not use its
+access to United IS for any purposes not authorized by an Agreement.
+
+(4). No Software License Granted and Ownership. The access to United IS granted
+to UNISYS under the Agreement is limited to granting UNISYS access to the United
+IS and does not and shall not be construed as granting UNISYS a license for the
+use of the software programs contained in the United IS. Any license to the
+software programs contained in United IS shall be pursuant to a separate license
+agreement between the Parties. UNISYS shall not and shall not attempt to reverse
+engineer or otherwise obtain copies of the software programs contained in United
+IS or the source code of the software programs contained in United IS.
+
+UHS represents and warrants to UNISYS that it either owns and/or has rights to
+the United IS and it owns or has rights to allow UNISYS to access and use the
+software and applications on the United IS solely for the purposes set forth in
+the Agreement. This section to the Agreement does not transfer title to or
+ownership to rights to United IS or to rights in patents, copyrights, trademarks
+and trade secrets encompassed in the United IS to UNISYS.
+
+(5). Security. UNISYS shall use reasonable physical and software-based measures,
+commonly used in the electronic data interchange field as such are provided by
+UHS to UNISYS or that UNISYS uses in its normal course of business, to protect
+data contained in United IS from unauthorized access. UNISYS shall comply with
+and shall not attempt to circumvent or bypass UHS's security procedures for the
+United IS that are required by UHS and provided to UNISYS during the performance
+of the SOW. UNISYS shall advise UHS if conformance with such requirements will
+result in additional burdens on UNISYS, and if such burdens will affect UNISYS
+ability to deliver the Services and/or increase UNISYS costs to perform the
+Services. Notwithstanding the foregoing, any such Changes to the Agreement will
+be processed by the Parties in accordance with the terms and conditions of the
+Agreement.
+
+
+
+
+                                       7
+
+<PAGE>
+
+                                                                       EXHIBIT E
+
+                             SECTION 33.02 NOTICES
+
+In the case of UHS:
+
+United HealthCare Services, Inc.
+9900 Bren Road East
+Minnetonka, Minnesota 55343
+Attn: James Hudak, CEO, UnitedHealth Technologies
+FAX: 952.936.7430
+
+For default or termination, with a copy to:
+
+United HealthCare Services, Inc.
+9900 Bren Road East
+Minnetonka, Minnesota 55343
+Attn: David Lubben, General Counsel
+FAX: 952.936.0044
+
+And to
+
+United HealthCare Services, Inc.
+9900 Bren Road East
+Minnetonka, Minnesota 55343
+Attn: Colleen Schmid, Associate General Counsel
+FAX: 952.936.1745
+
+In the case of Unisys:
+
+Unisys Corporation
+3900 Paramount Parkway
+Suite 250 South
+Morrisville, North Carolina
+27560
+
+Attn: Ken Hadzinski
+
+
+
+
+
+                                       8
+<PAGE>
+                                   EXHIBIT F
+
+ADDITIONAL NEW PARAGRAPH IN SECTION 22.01 CONFIDENTIAL INFORMATION
+
+         "While it is not contemplated under this Agreement that Unisys will
+have a need to use or disclose Protected Health Information or Personal
+Information (as those terms are defined below), in connection with providing
+services to UHS, in the event Unisys does, this section shall apply.  In
+addition to its obligations of confidentiality under this Agreement, Unisys
+understands and acknowledges that it may receive from or create or receive on
+behalf of UHS Protected Health Information, as defined under the privacy
+regulations issued pursuant to the Health Insurance Portability and
+Accountability Act of 1996 ("HIPAA"), and/or nonpublic personal information, as
+defined under the Gramm-Leach-Bliley Act and implementing regulations ("GLB"),
+during the performance of its obligations under this Agreement. Unisys agrees
+to comply with any information privacy and security policies and standards of
+UHS that are disclosed by UHS to Unisys in writing and that are applicable to
+the aforementioned information. Except as otherwise specified herein, Unisys
+may use or disclosure Protected Health Information received from or created or
+received on behalf of UHS ("PHI") and nonpublic personal information received
+from or created or received on behalf of UHS ("Personal Information") solely to
+perform functions, activities, or services for, or on behalf of, UHS as
+specified in this Agreement. With regard to its use and/or disclosure of PHI or
+Personal Information, Unisys hereby agrees and represents and warrants to UHS
+that Unisys shall:
+
+(a)      Not use or further disclose any PHI or Personal Information other than
+as permitted by this Agreement.
+(b)      At all times maintain and use appropriate safeguards to prevent uses
+or disclosures of any PHI or Personal Information other than as permitted by
+this Agreement;
+(c)      Ensure that any subcontractor or agent to whom it provides any PHI or
+Personal Information agrees in writing to the same conditions and restrictions
+that apply to Unisys with regard to the PHI or Personal Information, including,
+without limitation, all of the requirements of this Section 22.
+
+With regard to its use and/or disclosure of PHI, Unisys hereby agrees and
+represents and warrants to UHS that Unisys shall:
+(a)      Report promptly to UHS any use or disclosure of any PHI of which it
+becomes aware that is not permitted by this Agreement;
+(b)      Mitigate, to the extent practicable, any harmful effect that is known
+to Unisys of a use or disclosure of PHI by Unisys in violation of the
+requirements of this Agreement;
+(c)      In the time and manner designated by UHS, make available PHI in a
+Designated Record Set, to UHS, or as directed by UHS, to an individual, in
+order for UHS to respond to individuals' request for access to information
+about them in accordance with the HIPAA privacy regulation;
+
+
+
+
+                                       9
+<PAGE>
+(d)      In the time and manner designated by UHS, make any amendments or
+corrections to the PHI in a Designated Record Set that UHS directs in
+accordance with the HIPAA privacy regulation;
+(e)      In the time and manner designated by UHS, document such disclosures of
+PHI and information related to such disclosures as would be required for UHS to
+respond to a request by an individual for an accounting of disclosures of PHI in
+accordance with the HIPAA privacy regulations;
+(f)      In the time and manner designated by UHS, make available to UHS, or as
+directed by UHS, to an individual, the information documented in accordance
+with subsection (e) above, to permit UHS to respond to a request by an
+individual for an accounting of disclosures, in accordance with the HIPAA
+privacy regulations;
+(g)      In the time and manner designated by UHS or the Secretary of HHS, make
+its internal practices, books and records relating to the use and disclosure of
+PHI available to UHS and to the Secretary of HHS for purposes of determining
+UHS's compliance with the HIPAA privacy regulations.
+
+
+
+         Unisys agrees that this Agreement may be terminated by UHS upon written
+notice to Unisys in the event that UHS determines that Unisys has violated any
+material term of this section. Alternatively, UHS may choose to provide Unisys
+with written notice of the existence of an alleged material breach of this
+section and afford Unisys an opportunity to cure said breach upon mutually
+agreeable terms. Failure to cure, or a determination by UHS that cure is not
+practicable or possible, shall be grounds for the immediate termination of this
+Agreement. Unisys agrees to defend, indemnify and hold harmless UHS against any
+and all claims, liabilities, judgments or damages asserted against, imposed upon
+or incurred by UHS that arise out of any violation of this section.
+
+
+
+         Upon the termination of this Agreement for any reason, Unisys shall
+return to UHS or destroy all PHI and/or Personal Information, and retain no
+copies in any form whatsoever. This provision shall apply to PHI and/or Personal
+Information that is in the possession of subcontractors, vendors or agents of
+Unisys. Unless otherwise specified in this Agreement, all capitalized terms in
+this section not otherwise defined have the meaning established for purposes of
+Title 45 parts 160 and 164 of the UHS States Code of Federal Regulations, as
+amended from time to time. The Parties agree to take such action as is necessary
+to amend this Agreement from time to time as is necessary for UHS to comply with
+the requirements of HIPAA, the HIPAA privacy regulations, GLB and other federal
+and state privacy and consumer rights laws and regulations applicable to UHS.
+Unisys agrees to cooperate with and assist UHS in order for UHS to meet its
+obligations under applicable privacy laws and regulations. This section shall
+survive any termination of this Agreement. The terms and conditions of this
+section required by HIPAA shall be construed in light of any applicable
+interpretation of and/or guidance on the HIPAA privacy regulation issued by HHS
+
+
+
+
+
+                                       10
+<PAGE>
+         from time to time. Any ambiguity in this section shall be resolved in
+         favor of a meaning that permits UHS to comply with applicable laws and
+         regulations.
+
+Notwithstanding  anything to the contrary  contained in this Section 22.01,  UHS
+acknowledges and agrees that Unisys has no independent  knowledge of the
+requirements  of HIPAA or GLB or any regulations  promulgated  pursuant
+thereto.  As a result,  to the extent that any of the obligations  of Unisys
+with regard to PHI or Personal  Information  are determined by, relate or refer
+to the provisions of HTAA, GLB or any regulations relating thereto,  Unisys
+shall be bound by any such  obligation only if and to the extent that Unisys has
+been informed by UHS, in writing,  (via policies and procedures or otherwise) of
+the requirements of such provision and the procedures that Unisys must follow in
+order to comply with such  obligations.  If and to  the  extent  that,  when  so
+informed,  Unisys  determines  that  compliance  with  such obligations would be
+commercially  unreasonable or unduly burdensome,  Unisys shall so notify UHS and
+the  parties  shall work  together  in good  faith to  develop a mutually
+acceptable solution,  including,  without limitation,  restricting Unisys's
+access to the applicable PHI or Personal Information, if practicable."
+
+
+
+
+                                       11
+
+
+</TEXT>
+</DOCUMENT>

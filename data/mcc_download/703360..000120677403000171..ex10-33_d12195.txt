@@ -1,0 +1,1199 @@
+<DOCUMENT>
+<TYPE>EX-10.33
+<SEQUENCE>4
+<FILENAME>ex10-33_d12195.txt
+<TEXT>
+* Portions denoted with an asterisk have been omitted and filed separately with
+the Securities and Exchange Commission pursuant to a request for confidential
+treatment.
+
+                                                                   EXHIBIT 10.33
+
+                   MANUFACTURING TECHNOLOGY JOINT DEVELOPMENT
+
+                                       AND
+
+                            FOUNDRY SUPPLY AGREEMENT
+
+      This Manufacturing Technology Joint Development and Foundry Supply
+Agreement (hereinafter the "Agreement") effective as of March 30, 2001
+("Effective Date"), is made by and between Taiwan Semiconductor Manufacturing
+Co., Ltd., a company duly incorporated under the laws of the Republic of China
+("ROC"), having its principal place of business at No. 121, Park Avenue 3
+Science Based Industrial Park, Hsin-Chu, Taiwan, ROC ("TSMC") and LSI Logic
+Corporation, a company duly incorporated under the laws of the State of
+Delaware, having its principal place of business at 1551 McCarthy Blvd.,
+Milpitas, California 95035, United States of America (hereinafter "LSI"). (TSMC
+and LSI are collectively referred to as the "Parties" or individually as a
+"Party").
+
+                                    RECITALS
+
+A.    TSMC manufactures and supplies semiconductor wafers pursuant to its
+      leading-edge foundry operations and performs research and development for
+      advanced wafer fabrication technologies and associated factory operations.
+
+B.    LSI designs, develops, manufactures and markets leading-edge integrated
+      circuits and performs research and development for its products and
+      operations, including for advanced wafer fabrication technologies and
+      associated factory operations.
+
+C.    The Parties wish to collaborate involving semiconductor wafer process and
+      manufacturing technology and to establish a wafer supply arrangement by
+      which TSMC will supply a portion of LSI's requirements for semiconductor
+      wafers.
+
+      Now, therefore, in consideration of the foregoing premises and the mutual
+promises and obligations set forth herein, the Parties hereby agree as follows:
+
+1     Definitions:
+
+1.1   "Affiliate" of a Party means, any corporation, limited liability company,
+      partnership or other business enterprise of which more than fifty percent
+      (50%) of the voting rights with respect to the election of directors or
+      managers is owned or controlled, directly or indirectly, by, or which is
+      under the practical control directly or indirectly of, any Party to this
+      Agreement. Any corporation, limited liability company, partnership or
+      other business enterprise which would at any time be an Affiliate of LSI
+      or TSMC by reason of the foregoing, shall be considered an Affiliate for
+      purposes of this Agreement only for so long as the foregoing conditions
+      are met. For purposes of this Agreement, TSMC's Affiliates shall include
+      Singapore Semiconductor Manufacturing Corporation ("SSMC") and Vanguard
+      International Semiconductor Corporation ("Vanguard").
+
+1.2   "Confidential Information" shall have the meaning as set forth in Section
+      8.1.
+
+1.3   "Deliverables" mean items, whether tangible or intangible, that are
+      identified by the Statement of Work, or other means of the Development
+      Program to be provided by one Party to the other for the purposes of
+      successful completion of the Development Program.
+
+1.4   "Development Program" means the cooperative development and the
+      installation and qualification of the JDP Process in a single instance at
+      each of the respective factories of the Parties.
+
+1.5   "Intellectual Property Rights" means (a) all Patent Rights; (b) all
+      copyrights and all other literary property and author rights, and all
+      rights, title and interest in and to all copyrights, copyright
+      registrations, certificates of copyrights and copyrighted interests; (c)
+      all mask work rights, mask work applications, and mask work registrations,
+      and (d) all rights, title and interest in and to all inventions (whether
+      patentable or not in any country), invention disclosure, and trade secrets
+      (i) solely owned by a Party or its Affiliates that would necessarily be
+      infringed by the practice or exploitation of the JDP Process and (ii) that
+      a Party or it's Affiliates have the right to grant licenses of the scope
+      herein without the payment of royalties to any third party, to the extent
+      the practice or exploitation of the JDP Process by a Party hereto would
+      infringe the intellectual property rights of such third party.
+
+1.6   "Invention" means an invention or discovery relating to the JDP Process
+      first conceived or reduced to practice as a result of activities
+      undertaken pursuant to the Development Program.
+
+1.7   "JDP Process" shall have the meaning set forth in Article 2.0 and as to be
+      more fully delineated in the Statement of Work.
+
+1.8   "LSI Front End Process" means the portion of the LSI Gflx process that is
+      described at Schedule B to this Agreement.
+
+1.9   "Patent Rights" means any patent rights, letters patent and applications
+      for letters patent, or other government issued or granted indicia of
+      invention ownership, including any reissue, division, term extension,
+      continuation or continuation-in-
+
+
+                                       2
+<PAGE>
+
+      part, which have a first effective filing date in any country prior to one
+      hundred and eighty (180) days after termination or expiration of this
+      Agreement.
+
+1.10  "Statement of Work" means the description of the activities,
+      responsibilities and contributions of the Parties, both separately and in
+      cooperation with each other, and the mutually desired results therefrom
+      that are to be developed pursuant to this Agreement for successful
+      completion of the Development Program.
+
+1.11  "Technology" means any technical information relevant to or useful to the
+      Development Program that is to be provided as a Deliverable under this
+      Agreement or which is reasonably required for the practice or exploitation
+      of the JDP Process, which a Party or its Affiliates (a) owned or
+      controlled prior to the Effective Date of this Agreement, (b) solely
+      develops during the time this Agreement is in effect or thereafter or (c)
+      otherwise obtains rights to independently of the other Party hereto.
+      Technical information includes, but is not limited to, any and all
+      methods, processes, recipes, formulae, measurements, computer programs,
+      algorithms, procedures, designs, schematics, know-how, show-how, mask
+      works for demonstration or qualification vehicles, including all
+      information, data, and materials describing any of the foregoing.
+      Technology expressly excludes other types of technical information,
+      including by way of example, related to packaging, circuitry, cell
+      libraries and electronic product design, except where such information has
+      been expressly provided for as a Deliverable pursuant to this Agreement.
+
+1.12  "Term" shall mean the term of this Agreement, including any extended
+      period(s), as provided by Section 11.1 of this Agreement.
+
+1.13  "TSMC Foundry Process" means the TSMC CL013 1.2V/3.3V foundry process,
+      including copper interconnect and Black Diamond Low K dielectric, as such
+      exists or is specified for development at the Effective Date.
+
+1.14  "Wafer Foundry Agreement" means the agreement for the purchase and sale of
+      wafers provided for at Article 6.
+
+2     Scope
+
+      This Agreement covers the Parties' rights and obligations with respect to:
+      a) their respective contributions to and collaboration for joint
+      development of a semiconductor wafer fabrication CMOS process for 0.13um
+      technology, referred to herein as the JDP Process; b) the successful
+      installation and qualification of the JDP Process in each Party's factory
+      and c) the supply of semiconductor wafers by TSMC to LSI using the JDP
+      Process. In addition, the Parties anticipate that their success in the
+      development and use of the JDP Process will precede their further
+      collaboration for advanced joint process technology development, mutually
+      recognized to be a 100nm or 90nm node.
+
+
+                                       3
+<PAGE>
+
+3     Joint Development
+
+3.1   Promptly upon the Effective Date the Parties will commence and complete
+      preparation of a mutually acceptable Statement of Work that will set forth
+      the material elements for the cooperative development of the JDP Process
+      under the Development Program. The Statement of Work, when completed and
+      mutually agreed to, will be deemed to be incorporated into and become a
+      part of this Agreement as Schedule A. If there is any conflict or
+      discrepancy between the terms of this Agreement and those of the Statement
+      of Work, the terms and conditions of this Agreement shall prevail.
+
+3.2   The Statement of Work will reflect that the development of the JDP Process
+      will combine certain Technology of the TSMC Foundry Process and the
+      Technology of the LSI Front End Process and the other Technology elements
+      to be contributed by LSI that are further described at Schedule B to this
+      Agreement.
+
+3.3   The Statement of Work will specify in adequate detail the elements of
+      Technology, personnel expertise and particular resources to be contributed
+      by each Party for purposes of development and/or factory use of the JDP
+      Process. In addition the Statement of Work will specify a timetable, with
+      appropriate milestones, pursuant to which Deliverables are to be provided
+      by one Party to the other Party, the desired results of the Development
+      Program that are to be realized, including the initial installation and
+      qualification of the JDP Process in each Party's factory and the means by
+      which successful completion of the Development Program will be ascertained
+      and such other elements as the Parties may deem appropriate to include.
+
+3.4   The Parties shall exercise their reasonable best efforts in the
+      performance of their duties and obligations in the preparation of the
+      Statement of Work and with respect to the work and other activities to be
+      performed thereunder for successful completion of the Development Program;
+      provided, however, neither party shall be responsible for whether or to
+      what extent the other party is able to successfully operate the JDP
+      Process in the other Party's facilities.
+
+3.5   All expenses incurred by a Party with respect to the performance of its
+      obligations under the Development Program shall be the responsibility of
+      that Party and no reimbursement therefor shall be required of the other
+      Party. In preparing the Statement of Work, the Parties shall endeavor to
+      allocate costs and expenses to be incurred by each Party pursuant to the
+      Development Program in an approximately equal manner, with appropriate
+      regard for efficient accomplishment of the Development Program. In the
+      event that a Party provides additional services necessary to the
+      development of the JDP Process but outside the scope of the Development
+      Program, the Parties shall mutually agree, in advance, upon any equitable
+      reimbursement.
+
+3.6   Subject to Article 8 (Confidentiality), each Party shall provide the other
+      Party with adequate access to its facilities for the purposes of the
+      Parties' performance
+
+
+                                       4
+<PAGE>
+
+      of their obligations under this Agreement. The Party gaining access to the
+      other Party's facilities shall cause its employees and representatives who
+      are allowed such access to fully comply with the other Party's rules and
+      regulations governing conduct in the work place. Each Party shall hold the
+      other Party harmless from damage or injury to the other Party and/or its
+      employees that is proximately caused by such Party's employees or
+      representatives while at the other Party's facilities.
+
+3.7   Within six (6) months following the Effective Date the Parties will meet
+      and confer regarding their mutual interests in entering into a joint
+      development program for their respective manufacturing process
+      requirements beyond that covered by this Agreement, which are currently
+      anticipated to be for a 100nm or 90nm technology. The provisions of such a
+      joint development program would be the subject of a separate agreement.
+
+3.8   During the term of this Agreement and for a period of twelve (12) months
+      following its termination for any reason, each Party (i) shall not hire or
+      solicit for hire any employee of the other Party who is involved in the
+      performance of the obligations of the other Party under this Agreement or
+      who becomes known to the other Party by virtue of the Parties' activities
+      under this Agreement and (ii) shall not through any other means, directly
+      or indirectly, encourage any such employee to terminate his/her employment
+      with the other Party. This restriction shall no longer apply with respect
+      to any person whose employment was involuntarily terminated or who has not
+      been employed for more than twelve (12) months by the other Party.
+
+3.9   Technology and Intellectual Property Rights that are created through the
+      work of the Parties pursuant to the Development Program will be jointly
+      owned by the Parties (subject to Section 7.3), without any obligation of
+      accountability of one Party to the other Party with respect thereto unless
+      otherwise expressly provided in this Agreement. One Party's rights to use
+      Technology and Intellectual Property Rights of the other Party are set
+      forth in Article 4.
+
+3.10  The Parties' obligations and activities hereunder are non-exclusive.
+      Unless otherwise expressly stipulated under this Agreement, nothing in
+      this Agreement is intended to preclude or otherwise limit either Party
+      from engaging in any kind of activity covered by this Agreement, either
+      separately or in combination with any other party.
+
+4     Licenses
+
+4.1   LSI, for itself and on behalf of its Affiliates, hereby grants and agrees
+      to grant to TSMC a [*] license under LSI's Technology and Intellectual
+      Property Rights:
+
+      (a) to use in TSMC's factories and to modify, in whole or in part, the JDP
+      Process and to make derivatives of the JDP Process;
+
+
+                                       5
+<PAGE>
+
+      (b) to use in TSMC's factories to manufacture, to offer to sell, to sell,
+      to import, to export, and otherwise distribute products made, in whole or
+      in part, with the JDP Process and any modifications thereto and/or
+      derivatives thereof;
+
+      (c) to grant [*]; and
+
+      (d) to grant sublicense rights of the same or lesser scope as those
+      granted by LSI herein, to [*], subject to LSI's prior written consent,
+      which will not be unreasonably withheld or delayed, and further subject to
+      the following: (i) LSI will be given reasonable prior written notice of
+      the [*]granted; (ii) [*]; (iii) the granting of such sublicense rights
+      shall not occur prior to [*]; and (iv) [*] will agree in writing to be
+      bound to the terms and conditions (excluding Article 6) that are
+      substantially similar to which the rights and licenses granted to TSMC are
+      subject.
+
+4.2   TSMC, for itself and on behalf of its Affiliates, hereby grants and agrees
+      to grant to LSI a [*]license under TSMC's Technology and Intellectual
+      Property Rights:
+
+      (a) to use in LSI's factories and to modify, in whole or in part, the JDP
+      Process and to make derivatives of the JDP Process;
+
+      (b) to use in LSI's factories to manufacture, to offer to sell, to sell,
+      to import, to export, and otherwise distribute products made, in whole or
+      in part, with the JDP Process and any modifications thereto and/or
+      derivatives thereof;
+
+      (c) to grant [*].
+
+      (d) to grant sublicense rights of the same or lesser scope as those
+      granted by TSMC herein, to the non-Affiliate third party identified on
+      Schedule C, subject to the following: (i) TSMC will be given written
+      notice at the time of the granting of any such sublicense rights; (ii)
+      [*]; (iii) the granting and/or practice of such sublicense rights shall
+      not occur prior to [*]; and (iv) [*] will agree in writing to be bound to
+      the terms and conditions (excluding Article 6) that are substantially
+      similar to which the rights and licenses granted to LSI are subject.
+
+4.3   The rights and licenses granted by one Party to the other Party are
+      subject to the terms and conditions of this Agreement and are limited to
+      the rights and licenses expressly set forth herein and, with respect to
+      the rights to grant sublicenses, the full compliance by sublicensees with
+      confidentiality obligations substantially equivalent to those contained in
+      this Agreement.
+
+4.4   The conditions precedent, regarding installation and qualification of the
+      JDP Process in the factories of the Parties, to the rights granted to each
+      Party under subsections 4.1 (d) and 4.2 (d) respectively shall not apply
+      to a Party as a Non-Defaulting Party in the case of an Event of Default by
+      the other Party.
+
+4.5   In the event either Party exercises its rights under Section 4.1(d) or
+      4.2(d) above, the Parties shall discuss and attempt, in good faith,
+      [*]received by the other Party
+
+
+                                       6
+<PAGE>
+
+      by virtue of such provisions of this Agreement will have the right to
+      receive reports and [*]with respect thereto.
+
+5     JDP Process Installation and Qualification
+
+5.1   The Statement of Work will specify that the initial installation and
+      qualification of the JDP Process will be in a TSMC factory. TSMC, with
+      LSI's assistance as provided in the Statement of Work, will perform all
+      activities necessary or appropriate for the installation and qualification
+      in accordance with customary TSMC procedures therefor and as otherwise
+      required pursuant to the Statement of Work.
+
+5.2   At such time as LSI shall request, TSMC will transfer the JDP Process to
+      an LSI factory for installation and qualification in order to perform that
+      portion of the Development Program. LSI anticipates that such transfer for
+      the initial installation and qualification of the JDP Process will be to
+      equipment for fabrication of 200mm (8") wafers, but reserves the right to
+      require initial transfer of the JDP Process for installation and
+      qualification for the fabrication of 300mm (12") wafers. LSI will not
+      request transfer to an LSI factory prior to the completion of initial
+      installation and qualification of the JDP Process at a TSMC factory unless
+      such installation and qualification of the JDP Process at a TSMC factory
+      does not occur within 90 days of the time provided therefor under the
+      Statement of Work. If any such delay is due in substantial part to any act
+      or omission of LSI, the 90 day period shall be extended on a day for day
+      basis until LSI's act or omission is no longer a material contributing
+      factor to such delay.
+
+5.3   In the event of any delay in completing the initial installation and
+      qualification of the JDP Process in a TSMC factory or an LSI factory, the
+      Parties shall promptly confer and discuss, in good faith, a commercially
+      reasonable solution for such delay, which may include appropriate
+      revisions to the Statement of Work to provide for transfer of the JDP
+      Process to the factory of the Party that suffered the delay in
+      installation and qualification of the JDP Process under the Statement of
+      Work as originally intended, and adjustments to the Parties' respective
+      obligations under Article 6 hereinbelow, in order to realize the Parties'
+      original intent to the fullest extent practicable.
+
+5.4   The Parties will establish a protocol for periodic technical and
+      operations reviews, which are anticipated to be held on a quarterly basis,
+      at which they will exchange information regarding their respective
+      experiences with the JDP Process. The Parties will not disclose customer
+      specific information without having first obtained the written consent of
+      the relevant customer.
+
+5.5   Unless LSI has elected to have the initial transfer of the JDP Process to
+      an LSI factory for fabrication of 300mm (12") wafers, upon request by LSI,
+      TSMC also will transfer the JDP Process to an LSI factory for fabrication
+      of 300mm (12")
+
+
+                                       7
+<PAGE>
+
+      wafers after the JDP Process has been successfully installed and qualified
+      by TSMC for such type of equipment in its own factory. In the event of
+      such second transfer to LSI, upon request by TSMC, LSI will reimburse TSMC
+      for its reasonable out-of-pocket costs and expenses incurred with respect
+      to such second transfer, installation and qualification of the JDP Process
+      in an LSI factory.
+
+6     Manufacturing Alliance
+
+6.1   The Parties will enter into a manufacturing alliance through which TSMC
+      will supply semiconductor wafers to LSI using the JDP Process and/or
+      TSMC's standard 0.13um processes. The terms and conditions of the alliance
+      will be set forth in a separate foundry supply agreement that is
+      consistent with the provisions hereof and that is substantially in the
+      form attached hereto as Schedule D.
+
+6.2   Subject to the successful installation and qualification of the JDP
+      Process in a TSMC factory in accordance with the Statement of Work, TSMC
+      will be obligated to sell to LSI and LSI will be obligated to purchase
+      from TSMC the percentages of LSI's requirements for semiconductor wafers
+      based upon the JDP Process as follows:
+
+      a)    [*];
+
+      b)    [*] and
+
+      c)    [*].
+
+      The wafer volumes under subsections 6.2 a) and b) are for 200mm (8")
+      wafers or equivalents. In the event LSI seeks to purchase wafers from
+      TSMC, the quantities of which were included in LSI's forecast for the JDP
+      Process at the time this Agreement was signed, which are to be
+      manufactured using another 0.13um TSMC process, such volumes shall be
+      counted towards fulfillment of the Parties' quantity obligations
+      hereunder. [*] For purposes hereof the wafer requirements of LSI include
+      those of LSI's Affiliates. The Parties may conduct individual wafer sale
+      and purchase transactions through their respective Affiliates as they deem
+      appropriate.
+
+6.3   Subject to the qualification factors set forth below in this Section 6.3,
+      TSMC will sell 0.13um JDP Process wafers and TSMC 0.13um standard process
+      wafers to LSI [*].
+
+6.4   The minimum quantities of wafer purchases and sales obligations of the
+      Parties under subsection 6.2 c) will be measured on [*].
+
+6.5   TSMC will manufacture and supply masks for wafers fabricated for LSI by
+      TSMC using the JDP Process and, upon request by LSI, for wafers to be
+      fabricated in LSI factories using the JDP Process. [*].
+
+
+                                       8
+<PAGE>
+
+6.6   The Parties anticipate further discussions of their mutual interest in
+      potential mask making activities at LSI's Gresham, Oregon location. In the
+      event the Parties reach agreement on such matter, it would be the subject
+      of a separate agreement.
+
+6.7   As soon as practicable following the Effective Date, [*], which will be
+      set forth in the Wafer Foundry Agreement, pursuant to which [*].
+
+7     Inventions
+
+7.1   Each Party represents and warrants to the other Party that it has full
+      ownership of and/or rights to all Technology contributed by such Party for
+      purposes of the Development Program and has sufficient right and authority
+      to convey the rights and licenses granted to the other Party under this
+      Agreement.
+
+7.2   TSMC shall remain the exclusive owner of all TSMC Technology and
+      Intellectual Property Rights developed or secured before this Agreement.
+      LSI shall remain the exclusive owner of all of LSI Technology and
+      Intellectual Property Rights developed and secured before this Agreement.
+      Except as provided by this Agreement or by a separate written agreement of
+      the Parties, neither Party shall have the right or license to use the
+      other Party's exclusively owned pre-existing Technology and Intellectual
+      Property Rights.
+
+7.3   Rights to all Inventions solely developed by a Party during the term of
+      this Agreement without using any of the other Party's Technology and/or
+      Intellectual Property Rights shall be solely owned by the Party who
+      develops any such Invention. Rights to all Inventions solely developed by
+      a Party during the term of this Agreement that are substantially based
+      upon the other Party's Technology and/or Intellectual Property Rights
+      contributed hereunder shall be owned by the Party who develops any such
+      Invention and the other Party shall have and enjoy the free and
+      non-exclusive right to use any such Invention; provided, however, any
+      Invention made solely by one Party that is based upon the subject matter
+      disclosed by any patent of the other Party shall be solely owned by the
+      inventing Party without any rights of the other Party accruing to such
+      Invention. For purposes of the foregoing, the term "patent" includes
+      letters patent or other government granted or issued indicia of invention
+      ownership by any country and any patent application that has been made
+      available for public inspection. Rights to all Inventions developed
+      jointly by the Parties as a result of their activities pursuant to the
+      Development Program shall be jointly owned. Each Party shall promptly
+      provide written notices to the other Party describing any Inventions made
+      by the first Party that are based on the Technology and/or Intellectual
+      Property Rights of the other Party contributed hereunder and advising the
+      other Party of the first Party's intentions for filing any patent
+      application therefor.
+
+
+                                       9
+<PAGE>
+
+7.4   In the instance of any Invention that is jointly developed, the Parties
+      will cooperate with respect to the determination to seek any Patent Rights
+      that may be obtained and, if they so agree, with respect to the
+      country(ies) of filing, the expenses to be incurred and how to be shared,
+      the prosecution of such Patent Rights and the maintenance of any Patent
+      Rights so obtained.
+
+7.5   If only one Party determines to file a patent application in any country
+      on a jointly developed Invention, then that Party will be responsible for
+      and shall pay the entire costs associated with the preparation, filing,
+      prosecution, and maintenance of any such patents of jointly developed
+      Inventions filed in such country. In such instance only and
+      notwithstanding Section 7.3, Patent Rights to any patent resulting from
+      such solely filed applications in such country shall be solely owned by
+      the Party responsible for the procurement and maintenance thereof and the
+      other Party shall have a non-exclusive, royalty-free, worldwide (only in
+      countries where the Patent Rights are granted), non-sublicensable,
+      non-transferable and non-assignable license to such Patent Rights for
+      their life to practice such patent for any purpose.
+
+8     CONFIDENTIALITY
+
+8.1   Confidential Information shall mean any information that is controlled by
+      a Party and is identified as proprietary and confidential and that is
+      disclosed by a Party to the other under this Agreement. Written
+      Confidential Information shall be clearly marked or labeled "CONFIDENTIAL"
+      or comparable legend. All oral and visual disclosures of Confidential
+      Information shall be identified as such upon disclosure and confirmed, in
+      writing, by the disclosing party within thirty (30) days of the
+      disclosure. In case of disagreement to confidentiality or the contents,
+      the receiving party must make an objection thereto, in writing, within ten
+      (10) days of receipt of written disclosure or confirmation.
+
+8.2   Unless designated as Confidential Information in accordance with the above
+      Section 8.1, all other information disclosed between the Parties will be
+      presumed to be non-confidential.
+
+8.3   Except as provided for elsewhere in this Article 8, for five (5) years
+      after the disclosure of Confidential Information, the receiving Party
+      shall use the same care and discretion to avoid disclosure, publication or
+      dissemination of disclosed and accepted Confidential Information as the
+      receiving Party employs with similar information of its own which it does
+      not desire to have disclosed, and in no event less than reasonable care,
+      and shall not use such Confidential Information for its own benefit,
+      except for the purposes of this Agreement, without the prior written
+      consent of the disclosing Party.
+
+
+                                       10
+<PAGE>
+
+8.4   The obligations set forth in Section 8.3 shall not in any way restrict or
+      impair the right of the receiving Party to disclose to any third party, or
+      use, any Confidential Information which:
+
+      a) is or becomes publicly available without breach of this Agreement;
+
+      b) was already known by the receiving Party before disclosure by the
+      disclosing Party;
+
+      c) is rightfully received by the receiving Party from a third party
+      without breach of this Agreement;
+
+      d) is independently developed by the receiving Party; or
+
+      e) is released for disclosure by the disclosing Party with its prior
+      written consent.
+
+8.5   Except as otherwise provided in this Agreement, one Party shall
+      immediately notify the other Party of any private or governmental request
+      it receives for information (including, without limitation, Confidential
+      Information) provided by the other Party under or related to this
+      Agreement. Each Party shall have the right to participate in any other
+      Party's response to any such request. In the event that a Party receives
+      any subpoena or other legal process requiring the production of
+      information, documents, data, work papers, reports, computer files or
+      other materials relating to any secret or confidential information
+      (including, without limitation, Confidential Information) or to this
+      Agreement, that the Party shall:
+
+      a) give the other Party the opportunity to participate in quashing,
+      modifying, or otherwise responding to any compulsory process in an
+      appropriate and timely manner; and
+
+      b) cooperate fully with the other Party's efforts to narrow the scope of
+      any such compulsory process, to obtain a protective order limiting the use
+      or disclosure of the information sought, or in any other lawful way to
+      obtain continued protection of the secret or Confidential Information.
+
+8.6   If one Party becomes aware of the loss, theft, or misappropriation of the
+      other Party's Confidential Information which is in the one Party's
+      possession or control, that Party shall notify the other Party in writing
+      within five (5) Business Days of its discovery of such loss, theft, or
+      misappropriation.
+
+8.7   Except as provided herein, neither Party shall disclose the terms and
+      conditions of this Agreement to any third party without the other Party's
+      prior written consent, which shall not be unreasonably withheld, except to
+      the extent required by applicable governmental authorities.
+      Notwithstanding the forgoing, each Party shall have the right to disclose
+      this Agreement to its attorneys, accountants, and like personnel, and to
+      potential investors or acquires, under reasonable conditions of
+      confidentiality. In addition, the Parties may disclose such portions of
+      Confidential Information to such third parties (e.g. customers and
+      suppliers) as
+
+
+                                       11
+<PAGE>
+
+      is necessary or appropriate to the normal conduct of a Party's business,
+      subject to such disclosures being subject to written obligations of
+      confidentiality, comparable to those herein, being undertaken by such
+      third parties.
+
+8.8   The Parties agree to issue a joint press announcement after the Effective
+      Date. Each Party must approve the content of such announcement before it
+      is released.
+
+9     THIRD PARTY CLAIMS AND IPR INDEMNIFICATION
+
+9.1   LSI shall, at its own expense, indemnify and hold TSMC harmless from and
+      against any expenses and losses resulting from any [*], provided that (i)
+      TSMC gives LSI reasonably prompt notice in writing of any such claim or
+      suit, and permits LSI, through counsel of its choice, to answer the charge
+      of infringement and control the defense of such claim or suit; (ii) TSMC
+      provides LSI information, assistance and authority, at LSI's expense, to
+      enable LSI to defend such claim or suit; and (iii) LSI shall not be
+      responsible for any settlement made by TSMC without LSI's prior written
+      permission. For purpose of this Section 9.1, "TSMC" shall include TSMC,
+      its Affiliate(s) and/or third party sub-licensee(s) who have legitimate
+      right or license to use or have access to LSI Technology under Article 4
+      of this Agreement.
+
+9.2   TSMC shall, at its own expense, indemnify and hold LSI harmless from and
+      against any expenses and losses resulting from any [*], provided that: (i)
+      LSI gives TSMC reasonably prompt notice in writing of any such claim or
+      suit, and permits TSMC, through counsel of its choice, to answer the
+      charge of infringement and control the defense of such claim or suit; (ii)
+      LSI provides TSMC information, assistance and authority, at TSMC's
+      expense, to enable TSMC to defend such claim or suit; and (iii) TSMC shall
+      not be responsible for any settlement made by LSI without TSMC's prior
+      written permission. For purpose of this Section 9.2, "LSI" shall include
+      LSI, its Affiliate(s) and/or third party sub-licensee(s) who have
+      legitimate right or license to use or have access to TSMC Technology under
+      Article 4 of this Agreement.
+
+9.3   In the event that a Party becomes aware that any Patent Rights of a third
+      party may be infringed by the practice of JDP Process, that Party shall
+      provide prompt written notice thereof to the other Party. Thereafter, the
+      Parties, with the assistance of their respective legal representatives as
+      appropriate, shall confer and cooperate as they mutually see fit, at their
+      own respective costs. Any information provided by one Party to the other
+      in such regard shall be understood to be done in support of the Parties'
+      common interests in defending against any allegations of infringement then
+      existing or as may be anticipated to arise and are intended to be subject
+      to all legal privileges, including confidentiality, to which a Party is
+      entitled. [*] EACH PARTY EXPRESSLY DISCLAIMS ALL LIABILITY TO THE OTHER
+      PARTY BASED UPON ANY CLAIM OF CONTRIBUTORY INFRINGEMENT.
+
+
+                                       12
+<PAGE>
+
+9.4   The foregoing states the entire liability and exclusive remedies of TSMC
+      and LSI for infringement by the Wafers, the Process and the production of
+      the Wafers furnished hereunder.
+
+10    EVENTS OF DEFAULT AND REMEDIES
+
+10.1  An event of default ("Event of Default") under this Agreement shall be
+      deemed to exist upon the occurrence of any one or more of the following
+      events:
+
+      a) If a Party (the "Defaulting Party") is in material breach (other than a
+      breach referred to in subsections 10.1 (b) and 10.1 (c) below) and such
+      material breach is not cured by the Defaulting Party within thirty (30)
+      days after written notice of such material breach from the other Party
+      (the "Non-Defaulting Party"); or
+
+      b) If by order of a court of competent jurisdiction, a receiver or
+      liquidator or trustee of a Party or of all of the property of a Party
+      shall be appointed, and such receiver or liquidator or trustee shall not
+      have been discharged within a period of sixty (60) days; or if by decree
+      of such a court, a Party shall be adjudicated bankrupt or insolvent or all
+      of the property of such Party shall have been sequestered, and such decree
+      shall have continued undischarged and unstayed for a period of sixty (60)
+      days after entry thereof; or if a petition to declare bankruptcy, to
+      wind-up or to reorganize a Party pursuant to any of the provisions of the
+      United States Federal Bankruptcy Code, or pursuant to the bankruptcy laws
+      of the Republic of China, or pursuant to any other similar statute, rule
+      or law applicable to such Party, shall be filed against such Party and
+      shall not be dismissed within sixty (60) days of such filing; or
+
+      c) If a Party shall file a voluntary petition in bankruptcy under any
+      provision of any federal or state bankruptcy law or a petition for
+      voluntary winding-up under the United States Federal Bankruptcy Code or
+      the bankruptcy laws of the Republic of China or shall consent to the
+      filing of any bankruptcy or reorganization petition against it under such
+      applicable or similar law; or, without limitation of the generality of the
+      foregoing, if a Party shall file a petition or answer or consent to
+      seeking relief in a proceeding under any of the provisions of the United
+      States Federal Bankruptcy Code, or under the bankruptcy laws of the
+      Republic of China, or pursuant to any other similar statute, rule of law
+      applicable to such Party, or an answer admitting the material allegations
+      of a petition filed against it in such a proceeding; or if a Party shall
+      make an assignment for the benefit of creditors; or if a Party shall admit
+      in writing its inability to pay its debts generally as they become due; or
+      if a Party shall consent to the appointment of a receiver or receivers, or
+      trustee or trustees, or liquidator or liquidators of it or of all or any
+      part of its property.
+
+
+                                       13
+<PAGE>
+
+10.2  Upon the occurrence and during the continuation of any Event of Default
+      under this Agreement, the Non-Defaulting Party shall have the right to:
+
+      a) terminate this Agreement pursuant to Section 11.2 and/or
+
+      b) subject to the limitations imposed by Article 11, pursue any other
+      remedy given under this Agreement or at law or in equity or otherwise.
+
+11    TERM AND TERMINATION
+
+11.1  The term of this Agreement shall commence on the Effective Date and shall
+      continue in effect until March 31, 2008, or until such later date(s) as to
+      which the Parties may agree in writing, unless terminated prior to any
+      such date in accordance with Article 10.
+
+11.2  This Agreement may be terminated prior to the expiration of the Term upon
+      written notice given by the Non-Defaulting Party upon the occurrence of an
+      Event of Default.
+
+11.3  The rights and obligations of the Parties with respect to termination of
+      the Wafer Foundry Agreement, in whole or in part, are to be governed by
+      the terms and conditions of that agreement.
+
+11.4  Each Party acknowledges that a breach by it of its covenants regarding
+      non-disclosure and confidentiality contained in Article 8 will result in
+      irreparable injury to the other Party, and consequently the other Party
+      shall be entitled to temporary, preliminary and permanent injunctive
+      relief or to a protective order for any threatened or actual violation of
+      the provisions of Article 8. Each Party agrees and consents to the entry
+      of an injunction or protective order by any court of competent
+      jurisdiction upon a showing by the other Party of a reasonable belief that
+      the Confidential Information is being used or disclosed contrary to the
+      terms of Article 8. The foregoing provisions are in addition to, and not
+      in limitation of, the remedies of specific performance, termination of
+      this Agreement, damages, and any other remedies at law or equity or
+      otherwise, that the other Party many have upon breach of Article 8. The
+      Parties stipulate that the arbitration provision of Section 12.2 shall not
+      apply to any temporary restraining order, injunctive relief, protective
+      order or other provisional remedy sought to prohibit or prevent threatened
+      breaches of the provisions of Article 8.
+
+11.5  Upon the expiration of the Term in accordance with Section 11.1, the
+      Parties shall have no further duties, obligations or liabilities towards
+      each other hereunder except any then remaining duties, obligations or
+      liabilities that have then accrued and remain unperformed prior to the
+      effective date of such expiration and pursuant to those surviving sections
+      set forth in Section 11.8 below.
+
+
+                                       14
+<PAGE>
+
+11.6  Upon the early termination of this Agreement for default pursuant to
+      Section 11.2, including termination due to breach of the confidentiality
+      obligations of Article 8:
+
+      a) the Non-Defaulting Party shall have no further duties, obligations or
+      liabilities towards the Defaulting Party under this Agreement, except for
+      the confidentiality obligations set forth in Article 8; and
+
+      b) the Defaulting Party shall not be excused from any then remaining
+      duties, obligations or liabilities under the Agreement, including those
+      obligations under Section 6.2 and liabilities for damages or harm suffered
+      by the Non-Defaulting Party prior to or after such termination or
+      expiration, subject to the liability limitations of this Agreement. Also,
+      in such event, the Defaulting Party shall promptly return to the
+      Non-Defaulting Party all tangible Confidential Information and certify as
+      deleted all electronic forms of Confidential Information received from the
+      other Party.
+
+11.7  The rights and licenses granted by one Party to the other Party under this
+      Agreement shall perpetually and irrevocably continue without interruption
+      following the expiration or termination of this Agreement, except in the
+      case of a termination of this Agreement by a Non-Defaulting Party for
+      material breach by the other Party; provided, however, if the
+      Non-Defaulting Party exercises its right to terminate this Agreement for
+      the material breach by the other Party and intends to also terminate the
+      rights and licenses granted to the Defaulting Party, any termination of
+      the rights and licenses granted hereunder to the Defaulting Party may only
+      occur after (i) the Non-Defaulting Party shall first give the Defaulting
+      Party notice of such intention to terminate the rights and licenses
+      granted to the Defaulting Party and a detailed written description of the
+      material breach that is asserted to cause substantial harm to the
+      Non-Defaulting Party; (ii) the Defaulting Party is given the reasonable
+      opportunity to cure any such material breach for a period of ninety (90)
+      days following the giving of such notice (iii) and if the Defaulting Party
+      does not cure such material breach within said ninety (90) day period. In
+      addition, the termination of the rights and licenses granted to a Party
+      may only apply to a Defaulting Party's prospective activities. The rights
+      and licenses of the Non-Defaulting Party shall remain in full force and
+      effect notwithstanding any termination of this Agreement and/or the
+      termination of the rights and licenses of the Defaulting Party for
+      material breach.
+
+11.8  Subject to the rights of a Non-Defaulting Party under Section 11.6 and
+      11.7, the following provisions of this Agreement shall survive the
+      expiration or termination of this Agreement for any reason: Article 1
+      (Definitions), Section 3.8 (employment prohibition), Article 4 (Licenses),
+      Article 7 (Inventions), Article 8 (Confidentiality), Article 9 (Third
+      Party Claims and IPR Indemnification), Article 12 (Dispute Resolution),
+      Article 13 (Limitation of Liability) and Article 15 (General Provisions).
+
+
+                                       15
+<PAGE>
+
+12    DISPUTE RESOLUTION
+
+12.1  The Parties shall use all reasonable efforts to settle any disputes
+      arising hereunder by mutual agreement. In the event any dispute is not so
+      settled, a Party which believes a dispute exists shall provide a written
+      notice of the dispute (the "Dispute Notice") to the senior management
+      representatives of the other Party seeking resolution of the dispute by
+      mutually agreed upon meeting(s) or teleconference(s) of such
+      representatives. The initial senior management representatives designated
+      by the Parties (and who may be replaced by the respective appointing
+      Party) to resolve disputes pursuant to this Section 12.1 are:
+
+      LSI Representative:       [*]
+
+      TSMC Representative:      [*]
+
+      If the dispute is not resolved within thirty (30) Business Days following
+      receipt by the receiving Party of the Dispute Notice (the "Internal
+      Dispute Resolution Period"), either Party may initiate binding arbitration
+      proceedings in accordance with Section 12.2 below.
+
+12.2  Any dispute between the Parties that is not resolved pursuant to Section
+      12.1, the Parties shall submit such dispute to binding arbitration
+      conducted pursuant to the following procedure:
+
+      a) The Party seeking arbitration shall give written notice to the other
+      Party with reasonable promptness following the expiration of the Internal
+      Dispute Resolution Period. The notice shall include a clear statement of
+      the matter(s) in dispute, shall name one arbitrator appointed by such
+      Party, and shall be delivered to the other Party. Within twenty (20)
+      Business Days after receipt of such request, the other Party shall appoint
+      one arbitrator, or in default thereof, such arbitrator shall be named as
+      soon as practicable in accordance with the United Nations Commission on
+      International Trade Law (UNCITRAL) Arbitration Rules (the "Arbitration
+      Rules"). The two arbitrators appointed by the Parties shall appoint a
+      third arbitrator within ten (10) Business Days after the appointment of
+      the second arbitrator, or failing such agreement on a third arbitrator by
+      the two arbitrators so appointed, a third arbitrator shall be appointed in
+      accordance with the Arbitration Rules.
+
+      b) The arbitration hearing shall be held in San Francisco, California,
+      United States, if it is initiated by TSMC, or alternatively in Taipei,
+      Taiwan ROC if it is initiated by LSI, on at least twenty (20) Business
+      Days' prior written notice to the Parties, and shall be conducted in the
+      English language. Except as otherwise provided herein, the proceedings
+      shall be conducted in accordance with the Arbitration Rules; provided (i)
+      the Parties shall be entitled to and hereby agree to be subject to
+      discovery in scope and under procedures substantially equivalent to that
+      provided by the US Federal Rules of Civil Procedure and (ii) the governing
+
+
+                                       16
+<PAGE>
+
+      law shall be as specified in Section 15.2. Any decision of the
+      arbitrators, including a decision regarding an allocation of costs
+      consistent with Section 12.2, shall be joined in by at least two of the
+      arbitrators and shall set forth in a written award which shall state the
+      basis of the award and shall include both findings of facts and
+      conclusions of law. The arbitrators shall not have the power to award
+      punitive damages or costs or damages for attorneys' or consultants' fees.
+      An award rendered pursuant to the foregoing, shall be final and binding on
+      the Parties, and judgment thereon may be entered or enforcement thereof
+      sought by any Party in any court of competent jurisdiction.
+
+      c) Unless otherwise set forth in the award of the arbitrators, each Party
+      shall bear the costs of its appointed arbitrator and its own attorneys'
+      and consultants' fees, and the costs of the third arbitrator shall be
+      shared equally by the Parties. Additional incidental costs of arbitration
+      shall be paid for by the non-prevailing Party in the arbitration; provided
+      that where the final decision of the arbitrators is not clearly in favor
+      of either Party, such incidental costs shall be shared equally by the
+      Parties.
+
+      d) The existence of any dispute or controversy under this Agreement or the
+      pendency of the dispute settlement or resolution procedures set forth
+      above shall not in and of themselves relieve or excuse any Party from its
+      ongoing duties and obligations under this Agreement or under any other
+      agreement between the Parties.
+
+13    LIMITATION OF LIABILITY
+
+      INDEPENDENTLY OF ANY OTHER LIMITATION HEREOF AND REGARDLESS OF WHETHER THE
+      PURPOSE OF ANY REMEDY SET FORTH HEREIN IS SERVED, NEITHER PARTY WILL BE
+      LIABLE UNDER ANY CONTRACT, NEGLIGENCE, STRICT LIABILITY OR OTHER THEORY
+      FOR ANY SPECIAL, INDIRECT, INCIDENTAL OR CONSEQUENTIAL DAMAGES RESULTING
+      FROM, RELATING TO OR ARISING OUT OF THIS AGREEMENT, EVEN IF SUCH PARTY HAS
+      BEEN MADE AWARE OF SUCH DAMAGES.
+
+14    FORCE MAJEURE
+
+      In the event that either Party is prevented from performing or unable to
+      perform any of its obligations under this Agreement, due to any act of
+      God, fire, casualty, flood, earthquake, hurricane, typhoon, tornado, war,
+      strike, lockout, epidemic, riot insurrection, or any other similar cause
+      beyond the reasonable control of the Party invoking this section (a "Force
+      Majeure") and if such Party shall have used its best reasonable efforts to
+      mitigate the effects of such Force Majeure, such Party shall give prompt
+      written notice to the other Party, its nonperformance shall
+
+
+                                       17
+<PAGE>
+
+      be excused, and the time for the performance shall be extended for a
+      period of ninety (90) days or such longer period to which the Parties may
+      agree. In the event one Party provides notice of the occurrence of a Force
+      Majeure, as promptly as practicable the Parties shall meet and confer
+      regarding whether, and if so, how their respective obligations under
+      Articles 3, 5 and 6 may be modified, if necessary, in order to reasonably
+      preserve their original expectations regarding completion of the
+      installation and qualification of the JDP Process in each other's
+      factories and the provisions for wafer supply. After such ninety (90)
+      days, or longer period as may be agreed to by the Parties, the Party to
+      which notice of a Force Majeure has been given may terminate this
+      Agreement by written notice to the other Party whose performance was
+      excused due to the Force Majeure and, in such event, the Parties'
+      obligations thereafter shall be as provided by Section 11.8.
+
+15    GENERAL PROVISIONS
+
+15.1  Neither Party may assign or transfer this Agreement or any rights or
+      obligations hereunder voluntarily, involuntarily, by operation of law, in
+      connection with a change of control or otherwise, without the prior
+      written consent of the other Party, which shall not be unreasonably
+      withheld or delayed. "Change of control" shall mean a change in ownership
+      or control of fifty percent (50%) or more of the common stock or other
+      equity instrument of a Party by one or more parties acting in concert in
+      one or more transactions. Any assignment or transfer of this Agreement
+      made in contravention of the terms of this section shall be null and void.
+
+15.2  This Agreement shall be construed and interpreted in accordance with the
+      law of the State of California (except its choice of law rules).
+
+15.3  Each party will comply with all applicable laws, rules and regulations of
+      the U.S. and Republic of China Governments relating to the export of
+      commodities technical data and software insofar as they relate to the
+      activities under this Agreement. In particular, the Parties agree not to
+      export or re-export, directly or indirectly, any product, process,
+      technical data or software to any country to which such export or
+      re-export is restricted or prohibited by U.S. or Republic of China
+      Governments or other relevant laws, without obtaining prior authorization
+      from the competent government authorities as required by those laws. TSMC
+      shall provide a letter of assurance to LSI in the form set forth at
+      Schedule E hereto upon the signing of this Agreement. The export
+      provisions of this Section 15.3 shall survive any termination or
+      expiration of this Agreement.
+
+15.4  No failure or delay on the part of either Party in the exercise of any
+      right or privilege hereunder shall operate as a waiver thereof or of the
+      exercise of any right or privilege hereunder, nor shall any single or
+      partial exercise of any such
+
+
+                                       18
+<PAGE>
+
+      right or privilege preclude other or further exercise thereof or of any
+      other right or privilege.
+
+15.5  Any written notice or communication to a Party required or permitted under
+      this Agreement and the delivery of any other material pursuant to this
+      Agreement shall be deemed to have been duly given and received (i) on the
+      date of service or delivery, if served or delivered personally or sent by
+      facsimile transmission (and as confirmed as transmitted by a transmission
+      slip and confirmation copy sent via first class mail, postage prepaid, and
+      addressed to the Party to whom notice is to be given) to the Party to whom
+      notice or the delivery is to be given, or (ii) on the tenth (10th) day
+      after mailing, if mailed by first class registered or certified mail if
+      mailed nationally or by registered airmail if mailed internationally,
+      postage prepaid, and addressed to the Party to whom notice is to be given
+      at the address set forth below or at the most recent address specified by
+      written notice given in accordance herewith, or (iii) on the next day if
+      sent by a nationally recognized courier for next day service and so
+      addressed and if there is evidence of acceptance by receipt, or (iv) on
+      the third (3rd) day after mailing, if sent by an internationally
+      recognized courier for expedited service and so addressed and if there is
+      evidence of acceptance by receipt. All notices and correspondence required
+      under this Agreement shall be sent to the following addresses, which may
+      be changed by notice so given:
+
+      If to TSMC:                         If to LSI:
+                                          ---------
+      121, Park Ave., III, Science-Based  1551 McCarthy Blvd.
+      Industrial Park, Hsin-Chu 310       Milpitas, California 95035
+      Taiwan, R.O.C.                      USA
+                                          Attention: General Counsel - M/S D-106
+      Attention: General Counsel          Telephone:  [*]
+      Telephone: [*]                      Fax:             [*]
+      Fax: [*]                            cc: Vice President Strategic Alliances
+      cc:
+
+15.6  If any provision of this Agreement is held by a court or tribunal of
+      competent authority to be ineffective, unenforceable or illegal for any
+      reason, such holding shall not effect the validity or enforcement of any
+      or all of the remaining portions thereof, which shall be construed in
+      order to respect the Parties' intent as fully as possible in spite of any
+      such holding.
+
+15.7  Nothing contained in this Agreement shall be construed as conferring by
+      implication, estoppel or otherwise upon either Party or any third party a
+      license or other right except, solely as to the Parties hereto, the rights
+      expressly granted hereunder.
+
+
+                                       19
+<PAGE>
+
+15.8  Neither Party shall use the name of the other Party in any form of
+      advertising or promotional material without the prior written approval of
+      the other Party. Either Party may, without notice to the other Party,
+      disclose the transactions contemplated by this Agreement in any form of
+      advertising or promotional material so long as the name of the other Party
+      is not mentioned in the advertising or promotional material.
+
+15.9  The Agreement, with the Schedules hereto, which are incorporated herein by
+      reference, embodies the final, complete and exclusive statement of the
+      terms of the Parties' agreement with respect to the subject matter hereof
+      and supercedes any prior or contemporaneous representations, descriptions,
+      courses of dealings or agreements as to such subject matter, including
+      confidentiality and other agreements entered into in anticipation of this
+      Agreement. No amendment or modification of this Agreement or any Schedule
+      hereto shall be valid or binding upon the Parties unless in writing and
+      signed by an officer of each Party, and NO LSI OR TSMC EMPLOYEE OR
+      REPRESENTATIVE HAS ANY AUTHORITY OTHERWISE TO BIND LSI OR TSMC TO ANY
+      OBLIGATION OR LIABILITY NOT EXPRESSLY STATED HEREIN.
+
+15.10 The relationship of the Parties hereto is that of independent contractors.
+      Neither Party, nor its agents or employees shall be deemed to the agents,
+      employee, joint venturer, partner or fiduciary of the other Party. Neither
+      Party shall have the right to bind the other Party, transact any business
+      in the other Party's name or on the other Party's behalf or incur any
+      liability for or on behalf of the other Party.
+
+15.11 This Agreement shall not be modified, amended or terminated except by
+      written agreement of the Parties, signed by the Parties authorized
+      representatives.
+
+15.12 For the purposes of this Agreement, headings used in this Agreement are
+      for convenience of reference only and shall not be used in construing or
+      interpreting this Agreement. The word "including" when used is not
+      intended to be exclusive and means "including, without limitation."
+
+15.13 This Agreement may be signed on behalf of the Parties in one or more
+      counterparts, each in the English language and each of which shall be
+      deemed to be an original instrument, and all such counterparts shall
+      together constitute the same agreement.
+
+
+                                       20
+<PAGE>
+
+      IN WITNESS HEREOF the Parties have caused this Agreement to be signed by
+their duly authorized representatives.
+
+LSI Logic Corporation                    Taiwan Semiconductor Manufacturing Co.,
+                                         Ltd.
+
+By:_____________________________         By:___________________________________
+
+Name: Joseph Zelayeta                    Name: F. C. Tseng
+
+Title: Executive Vice President          Title: President,
+         Worldwide Operations
+
+Date:___________________________         Date:_________________________________
+
+
+                                       21
+<PAGE>
+
+                                   Schedule A
+
+                        Statement of Work for Development
+                                     of the
+                                   JDP Process
+
+                                       [*]
+
+* Portions denoted with an asterisk have been omitted and filed separately with
+the Securities and Exchange Commission pursuant to a request for confidential
+treatment.
+
+
+                                       22
+<PAGE>
+
+                                   Schedule B
+
+               Description of LSI Process Technology Contribution
+
+LSI Front End Process:
+[*]
+
+LSI Other Technology:
+
+LSI Logic will also contribute to the Development Program for the JDP Process
+information in the following areas:
+
+1.      [*]
+
+2.      [*]
+
+                               [End of Schedule B]
+
+* Portions denoted with an asterisk have been omitted and filed separately with
+the Securities and Exchange Commission pursuant to a request for confidential
+treatment.
+
+
+                                       23
+<PAGE>
+
+                                   Schedule C
+
+                 Identity of Party Referenced in Section 4.2(d)
+
+                                       [*]
+
+* Portions denoted with an asterisk have been omitted and filed separately with
+the Securities and Exchange Commission pursuant to a request for confidential
+treatment.
+
+
+                                       24
+<PAGE>
+
+                                   Schedule D
+
+                             Wafer Foundry Agreement
+                                      Form
+
+
+                                       25
+<PAGE>
+
+                                   Schedule E
+
+                          Letter of Written Assurances
+
+LSI Logic Corporation
+1551 McCarthy Blvd.
+Milpitas, California 95035
+
+      Re:   Manufacturing Technology Joint Development and Foundry Supply
+            Agreement ("Agreement")
+
+Gentlemen:
+
+This letter is provided by Taiwan Semiconductor Manufacturing Co., Ltd., a
+company duly incorporated under the laws of the Republic of China ("ROC"),
+having its principal place of business at No. 121, Park Avenue 3 Science Based
+Industrial Park, Hsin-Chu, Taiwan, ROC ("TSMC") to convey appropriate written
+assurance that TSMC acknowledges that the technology provided by LSI Logic
+Corporation ("LSI") to TSMC under the above referenced Agreement ("Technology")
+may be subject to regulation and control by the Export Administration
+Regulations ("EAR") of the United States and that without having first obtained
+any necessary BXA license or license exception to the EAR, TSMC will not:
+
+      1.    reexport or release the Technology to a national of a country in
+            Country groups D:1 or E:2 of the EAR or
+
+      2.    export to Country Groups D:1 or E:2 of the EAR the direct product of
+            the Technology, if such product produced outside the United States
+            is subject to national security controls a s identified on the EAR
+            Commerce Control List "(CCL)", General Prohibition Three, Sec.
+            736.2(b)(3) of the EAR. For purposes hereof it is understood that
+            the term "direct product" has the meaning as set out in Part
+            734.3(a)(4) and that the jointly developed process under the
+            Agreement would be the "direct product" of the Technology to which
+            this letter applies.
+
+                                    Sincerely,
+                                    Taiwan Semiconductor Manufacturing Co. Ltd.
+
+                                    -------------------------------------------
+                                    Title:
+
+
+                                       26
+
+</TEXT>
+</DOCUMENT>

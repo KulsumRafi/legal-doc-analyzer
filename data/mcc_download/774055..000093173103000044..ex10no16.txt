@@ -1,0 +1,1183 @@
+<DOCUMENT>
+<TYPE>EX-10.16
+<SEQUENCE>3
+<FILENAME>ex10no16.txt
+<DESCRIPTION>LICENSE AGREEMENT
+<TEXT>
+
+
+
+                                                                  EXHIBIT 10.16
+
+                       SOFTWARE LICENSE, SOURCE CODE, AND
+                    DERIVATIVE PRODUCT DISTRIBUTION AGREEMENT
+
+
+                                           License Agreement No.  ______________
+
+         This Software License, Source Code, and Derivative Product Distribution
+Agreement (the "Agreement") is entered into this _27th day of November, 2002, by
+and between M2, INC., a Florida corporation with its principal place of business
+at 850  Trafalgar  Court,  Suite  100,  Maitland,  Florida  32751,  (hereinafter
+referred to as "LICENSEE"  or "M2") and DIGITAL  COURIER  TECHNOLOGIES,  INC., a
+Delaware  corporation  with its  principal  place of  business  at 348 East 6400
+South,  Suite 220, Salt Lake City,  Utah 84107,  and all of its  affiliates  and
+subsidiaries, (hereinafter collectively referred to as "DCTI" or "DCTi").
+
+     WHEREAS, DCTI owns the Licensed Software (as defined below);
+
+     WHEREAS, DCTI desires to License its software in the ways set  forth below;
+and
+
+         WHEREAS,  LICENSEE  desires to  acquire a license  to use the  Licensed
+Software subject to the terms and conditions set forth below.
+
+     NOW,  THEREFORE,  for good and  valuable  consideration,  the  receipt  and
+sufficiency of which are hereby acknowledged, the parties agree as follows:
+
+1. DEFINITIONS
+
+        1.1   "Documentation"  shall mean such  manuals and other  standard  end
+              user  and  technical  documentation  that  DCTI  ordinarily  makes
+              available  with a  program,  including  amendments  and  revisions
+              thereto.
+
+        1.2   "Licensed  Materials"  means one copy of the Source Code, one copy
+              of the executable code (i.e. object code) of the Licensed Software
+              and a copy of all Documentation relating to the Licensed Software,
+              including,  without  limitation,  textual and/or graphic material,
+              perceivable  directly by humans and/or with the aid of a device or
+              a machine, and all of the documentation reasonably necessary for a
+              user to operate the Licensed Software.
+
+        1.3   "Licensed  Software"  means the  collection  of computer  programs
+              described in the attached Exhibit A.
+
+                                       1
+<PAGE>
+
+        1.4   "Source Code" means software in human-readable form, including but
+              not limited to, programmers' comments,  data files and structures,
+              macros,  object  libraries,  programming  tools  not  commercially
+              available,   technical   specifications,   flowcharts   and  logic
+              diagrams,  schematics,  annotations and  documentation  reasonably
+              required  or  necessary  to  enable  an  independent  third  party
+              programmer with reasonable programming skills to create,  operate,
+              maintain,  modify and improve the software without the help of any
+              other  person.  Data  files  containing  Source  Code  must  be in
+              standard ASCII format and be readable by a text editor.
+
+        1.5   "Transaction"  shall mean that function by which a single  message
+              exchange is processed,  facilitated and/or completed by or through
+              the licensed material.
+
+2. DELIVERY AND ACCEPTANCE
+
+        2.1   Delivery.   DCTI  agrees  to  deliver  to  LICENSEE  the  Licensed
+              Materials  listed on Exhibit A within three (3)  business  days of
+              the execution of this Agreement.
+
+        2.2   Acceptance.  LICENSEE  shall  have  five (5) days from the date of
+              receipt  of  the  Licensed  Materials  to  evaluate  the  Licensed
+              Materials for substantial  conformity with the  specifications set
+              forth on Exhibit  A, and either  accept,  return  for  rework,  or
+              reject the Licensed Materials.  LICENSEE shall be entitled to test
+              and  evaluate the  Licensed  Materials by whatever  means it deems
+              appropriate   consistent   with  DCTI's  rights  in  the  Licensed
+              Materials,  and  DCTI  hereby  grants  to  LICENSEE  any  licenses
+              necessary  for  LICENSEE  to perform its  evaluation.  If LICENSEE
+              returns Licensed Materials for rework,  DCTI agrees to correct the
+              listed defects and resubmit the Licensed  Materials for evaluation
+              by  LICENSEE  under the same  acceptance  procedure.  In the event
+              LICENSEE  rejects  the  Licensed  Materials,  it shall  give  DCTI
+              written   notice  of   rejection   stating  the  reasons  for  its
+              unacceptability.  No  payment  shall be  payable to DCTI until the
+              Licensed  Materials  have been  accepted by LICENSEE in writing or
+              LICENSEE fails to reject the Licensed  Materials within such 5 day
+              period at which time the Licensed  Materials will have been deemed
+              accepted.
+
+3. RIGHTS GRANTED AND RESTRICTIONS
+
+         License Grant. DCTI hereby grants to LICENSEE  a fully-paid, perpetual,
+         non-exclusive,   irrevocable,   transferable,   assignable,   worldwide
+         license,  with limited  rights to  sublicense  as more fully set out in
+         paragraph  3.1 of  this  Agreement  (the  "License")  to  the  Licensed
+         Materials  for the uses set forth in Section  1.2.  This License has no
+         limitation as to seats or site.
+
+         3.1  Uses.  LICENSEE  has the  right  to use for any and all  purposes,
+              market,  transfer,  assign,  and/or resell the Licensed  Materials
+              under  its own  name or  that  of DCTI , at its  sole  discretion.
+              LICENSEE may further  sublicense  any and all  licensed  materials
+              that  LICENSEE  or its  agents  have  enhanced  or from  which the
+
+
+                                       2
+<PAGE>
+
+              LICENSEE has made derivative products,  programs,  applications or
+              code.  The  License  granted  herein  shall  be for the use of the
+              Licensed  Materials by LICENSEE in  connection  with any or all of
+              its  business  operations,   including  without  limitation,   the
+              operations  of its  affiliates,  wherever  the same may be located
+              from time to time and specifically  includes the right to install,
+              execute,  use,  copy,  test,  display,  distribute and perform the
+              Licensed  Software.  The License granted herein shall additionally
+              include the right to make back-up copies of the Licensed Materials
+              for  back-up  purposes  and the  right  to  create  derivative  or
+              compatible works of the Licensed  Materials,  as well as the right
+              to  sub-license,  resell,  transfer,  and/or  assign the  Licensed
+              Materials and  derivative  works thereof to LICENSEE's  customers,
+              under DCTI or LICENSEE's name.
+
+        3.2   Trademarks. Neither party is granted any right or interest to the,
+              trademarks  or trade  names  (collectively,  "Marks") of the other
+              party.  Neither  party may use the other's Marks without the prior
+              written consent of the other party. Notwithstanding the foregoing,
+              DCTI agrees that LICENSEE may, in its discretion,  use DCTI's name
+              and the Licensed  Software name in identification of the existence
+              of the Licensed Software as bundled with a LICENSEE Product.
+
+        3.3   Licensed Software. LICENSEE shall not be an owner of any copies of
+              the Licensed  Software,  but, rather, is licensed pursuant to this
+              Agreement to use such  copies.  LICENSEE  acknowledges  and agrees
+              that, as between LICENSEE and DCTI, all right, title, and interest
+              in the Licensed Software and any part thereof, including,  without
+              limitation,  all rights to patent, copyright,  trademark and trade
+              secret rights and all other  intellectual  property rights therein
+              and thereto,  and all copies thereof, in whatever form,  including
+              any written  documentation and all other material  describing such
+              Licensed Software, shall at all times remain solely with DCTI.
+
+         3.4  LICENSEE  Modification.  LICENSEE shall have the right, in its own
+              discretion,  to independently modify the Licensed Software for its
+              own purposes and use, through the services of its own employees or
+              of  independent  contractors,  provided  that  same  agree  not to
+              disclose or  distribute  any part of the Licensed  Software to any
+              other person or entity or  otherwise  violate  DCTI's  proprietary
+              rights therein.  LICENSEE SHALL BE THE OWNER OF ANY MODIFICATIONS,
+              DERIVATIVE OR COMPATIBLE  WORKS.  DCTI shall not  incorporate  any
+              such  modifications  into its software for  distribution  to third
+              parties without the prior written consent of the LICENSEE.
+
+4. PAYMENT
+
+         Payment.  In  consideration  for the  rights  and  licenses  granted to
+         LICENSEE  under  this  Agreement,  LICENSEE  shall pay DCTI a  one-time
+         license  fee of Fifty  Thousand  Dollars  ($50,000.00)  within five (5)
+         business days of its acceptance of the Licensed Materials in accordance
+         with Section.
+
+                                       3
+<PAGE>
+
+        4.1   Royalty.  For a period  of two  years  from  commencement  of this
+              Agreement,  LICENSEE shall pay DCTI 1/10 of a cent ($.001) for all
+              accounts   receivable  revenue  generated  by  actual  Transaction
+              processing as defined herein.
+
+        4.2   Taxes. DCTI shall be solely  responsible for taxes on amounts paid
+              to DCTI by LICENSEE under this Agreement,  including all state and
+              local use, sales, property (ad valorem) and similar taxes.
+
+        4.3   Right of First  Refusal.  In the  event  that  DCTI  endeavors  to
+              transfer  its  title to the  Licensed  Materials,  either by sale,
+              gift,   private  corporate   restructuring,   or  in  a  voluntary
+              Bankruptcy  proceeding,  DCTI will first give LICENSEE  notice and
+              opportunity to purchase ownership rights in the Licensed Materials
+              prior to obligating DCTI to the transfer of ownership  rights to a
+              third party.
+
+         4.4  Right of  Notice.  DCTI  hereby  agrees to give  LICENSEE  15 days
+              notice  prior  to  conveying  to any  third  party  the  right  to
+              sub-license or resell the Licensed Materials.
+
+5. WARRANTY AND INDEMNIFICATION
+
+        5.1   General Warranty. DCTI warrants and represents as follows:
+
+
+              (a) The Licensed Materials do not contain any unauthorized  codes,
+              such as a virus, Trojan Horse, or other software routines designed
+              to provide  unauthorized  access,  to disable,  erase or otherwise
+              harm software, hardware or data, nor does it contain any self-help
+              code,  such as any back door, time bomb, drop dead device or other
+              software   routine   designed   to  disable  a  computer   program
+              automatically  with  passage  of time or under  the  control  of a
+              person other than the LICENSEE;
+
+              (b)  DCTI  has  all  right,  title,  ownership  and  other  rights
+              necessary to grant the License to LICENSEE,  free and clear of all
+              liens, security interests, pledges, encumbrances or charges of any
+              kind;
+
+              (c) The use of the Licensed  Materials  by LICENSEE in  accordance
+              with this  Agreement will not violate or infringe upon any patent,
+              copyright,  trade secret or other intellectual  property rights of
+              other persons or entities; and
+
+              (d) The  Licensed  Software  will operate in  accordance  with and
+              substantially  conform  to the  specifications  set  forth  in the
+              Documentation and the  specifications set forth on Exhibit A or as
+              subsequently modified by mutual agreement of the parties.
+
+                                       4
+<PAGE>
+
+        5.2   Indemnification.  DCTI shall  defend,  indemnify and hold harmless
+              the LICENSEE, its corporate affiliates,  and any employee or agent
+              thereof  (each of the  foregoing  being  hereinafter  referred  to
+              individually as the "Indemnified  Party") against all liability to
+              third  parties  arising  from (a) the  negligence  or  willful  or
+              intentional  misconduct or omission of the DCTI or its agents,  or
+              (b) the License granted herein to LICENSEE for use of the Licensed
+              Materials,  including  without  limitation,  the  violation of any
+              third party's trade secrets,  proprietary information,  trademark,
+              copyright or patent rights in connection with the licensing of the
+              Licensed Materials.  DCTI may, at its option, conduct a defense in
+              such third party action  arising as described  herein and LICENSEE
+              shall   cooperate   in  good   faith  with  such   defense.   This
+              indemnification  is limited to the Licensed Software  delivered to
+              the LICENSEE or as modified by DCTI and does not cover third party
+              claims  arising from  modifications  to the Licensed  Software not
+              authorized by DCTI. If a third party claim causes LICENSEE's quiet
+              enjoyment  and  use  of the  Licensed  Materials  to be  seriously
+              endangered or disrupted, DCTI shall:
+
+              (a) replace the Licensed Materials, without any additional charge,
+              with a  compatible,  functionally  equivalent  and  non-infringing
+              product;
+
+              (b) modify the Licensed Materials to avoid the infringement; or
+
+              (c)  obtain a license  for the  LICENSEE  to  continue  to use the
+              Licensed  Materials  and pay for any  additional  fee required for
+              such license.
+
+6. MAINTENANCE.
+
+         During the term of this Agreement,  DCTI shall, at no additional  cost,
+         (a) provide to LICENSEE all upgrades, modifications and enhancements to
+         the Licensed  Materials created by DCTI, and (b) correct any defects or
+         malfunctions in the Licensed Materials. For purposes of this Section 6,
+         "Upgrade" shall mean any correction of any defect or malfunction in the
+         Licensed  Materials,  "Modification"  shall  mean  any  change  to  the
+         Licensed  Materials which improves the efficiency and  effectiveness of
+         the basic program functions,  but which do not change such functions or
+         create  one or more new  functions,  and  "Enhancement"  shall mean any
+         changes  in the  Licensed  Materials  that  modify  the  basic  program
+         functions  of the Licensed  Materials or add one or more new ones.  All
+         such   Upgrades,   Modifications,   Enhancements,   new   releases  and
+         corrections shall constitute Licensed Materials.
+
+7. LIMITED LIABILITY
+
+         EXCEPT FOR ANY DAMAGES CAUSED BY WILLFUL OR  INTENTIONAL  MISCONDUCT OR
+         OMISSION,  OR GROSS  NEGLIGENCE,  NEITHER  DCTI NOR  LICENSEE,  NOR ANY
+
+
+                                       5
+<PAGE>
+
+         PERSON ACTING ON ITS BEHALF (AS AN EMPLOYEE,  OFFICER,  DIRECTOR, AGENT
+         OR   OTHERWISE),   SHALL   HAVE  ANY   LIABILITY   HEREUNDER   FOR  ANY
+         CONSEQUENTIAL,  INCIDENTAL, SPECIAL OR PUNITIVE DAMAGES, OR ANY DAMAGES
+         BASED  ON  THIRD  PARTY  CLAIMS  RELATING  TO THE  USE OF THE  LICENSED
+         MATERIALS,  INCLUDING  LOSS OF PROFITS  ARISING OUT OF THIS  AGREEMENT,
+         WHETHER ANY SUCH CLAIM IS BASED UPON CONTRACT OR TORT.
+
+8. CONFIDENTIAL INFORMATION
+
+        8.1   Licensed Materials.  All Licensed Software in object code form and
+              related  Documentation  provided to LICENSEE  hereunder are deemed
+              non-confidential, and LICENSEE is not under any obligation to DCTI
+              to restrict  access to or use of such Licensed  Software in object
+              code form or related  Documentation,  provided LICENSEE  otherwise
+              complies with the terms of this Agreement.
+
+        8.2   Confidential  Information.  During  the  term of  this  Agreement,
+              either party may receive or have access to technical  information,
+              as  well  as  information  about  product  plans  and  strategies,
+              promotions,   customers   and   related   non-technical   business
+              information   which  the   disclosing   party   considers   to  be
+              confidential   ("Confidential   Information").    In   the   event
+              Confidential  Information is disclosed, the disclosing party shall
+              (i)  mark  the   information  as   confidential  at  the  time  of
+              disclosure,   or  (ii)  if  disclosed  orally  but  stated  to  be
+              confidential,   designate  such  information  as  confidential  in
+              writing by summarizing the Confidential  Information disclosed and
+              sending  such summary to the  receiving  party within a reasonable
+              period of time after  such oral  disclosure.  Notwithstanding  any
+              provision  to the  contrary,  all source  code  provided by either
+              party to the other,  and all business  information with respect to
+              any  unpublished or future DCTI or LICENSEE  products,  are deemed
+              Confidential Information for the purposes of this Section 8.
+
+        8.3   Nondisclosure.   Confidential  Information  may  be  used  by  the
+              receiving  party  only in a manner  consistent  with such  party's
+              rights and obligations  under this Agreement.  The receiving party
+              shall protect the Confidential Information of the disclosing party
+              by using the same  degree of care (but not less than a  reasonable
+              degree of care) to prevent the unauthorized use,  dissemination or
+              publication  of such  Confidential  Information,  as the receiving
+              party uses to protect  its own  Confidential  Information  of like
+              nature.  The  receiving  party's  obligation  under this Section 8
+              shall  be for a  period  of  three  (3)  years  after  the date of
+              disclosure  except for either  party's  source code which shall be
+              held  confidential in perpetuity.  The foregoing  obligation shall
+              not apply to any  information  that is: (i)  already  known by the
+              receiving  party  prior to  disclosure;  (ii)  publicly  available
+              through no fault of the receiving party; (iii) rightfully received
+              from a  third  party  without  a  duty  of  confidentiality;  (iv)
+              disclosed by the disclosing  party to a third party without a duty
+
+
+                                       6
+<PAGE>
+
+              of   confidentiality   on  such  third  party;  (v)  independently
+              developed by the receiving  party prior to or  independent  of the
+              disclosure;  (vi)  disclosed  under  operation  of law;  or  (vii)
+              disclosed by the receiving party with the disclosing party's prior
+              written approval.
+
+        8.4   Notification.  Each party  agrees to notify the other  promptly on
+              the event of any breach of security  under  conditions in which it
+              would appear that any  Confidential  Information was prejudiced or
+              exposed to loss. Each party shall, upon request of the other, take
+              all other  reasonable  steps  necessary to recover any compromised
+              Confidential  Information disclosed to or placed in the possession
+              of each  party by  virtue  of this  Agreement.  Each  party  shall
+              individually bear the cost of taking any such steps.
+
+        8.5   Remedies.  Each party  acknowledges  that any breach of any of its
+              obligations  under this  section 8 is likely to cause or  threaten
+              irreparable harm to the other, and accordingly, agree that in such
+              event,  the aggrieved party shall be entitled to equitable  relief
+              to  protect  its  interest  therein,  which  will  be  limited  to
+              preliminary and permanent  injunctive relief for both LICENSEE and
+              DCTI but will not limit the aggrieved party from seeking  expanded
+              remedies from other unrelated third parties.
+
+9. OTHER PROVISIONS
+
+        9.1   Authorization.  This  Agreement  has been duly  authorized  by all
+              necessary  corporate  action  on the part of the each  party.  The
+              Agreement  constitutes  the  parties'  valid and  legally  binding
+              obligation,  enforceable  against it in accordance with its terms.
+              DCTI has the full corporate power and authority to enter into this
+              Agreement.  LICENSEE has the full corporate power and authority to
+              enter into this Agreement.
+
+        9.2   Publicity.  Each party  agrees not to  publicize  or disclose  the
+              existence or terms of this Agreement to any third party (except as
+              allowed in this  agreement in Section 3) without the prior written
+              consent of the other except as required by law. In particular,  no
+              press releases  shall be made without the written  consent of each
+              party.
+
+        9.3   Independent  Contractors.  The  relationship  of the parties under
+              this  Agreement is that of  independent  contractors,  and neither
+              party is an  employee,  agent,  partner or joint  venturer  of the
+              other.
+
+        9.4   Relationship  Managers.  Each party  designates  the person(s) set
+              forth on Exhibit B as the  primary  contact(s)  of each party with
+              respect to this Agreement,  which person(s) may be redesignated by
+              a party by written notice to the other.
+
+
+
+                                       7
+<PAGE>
+
+
+Disputes and Governing Law.
+
+         (a) Dispute Resolution.  In the event of a dispute between the parties,
+the issue will first be escalated to the individuals identified on Exhibit B. If
+these individuals cannot resolve the dispute within two (2) weeks of notice, the
+issue will be escalated  to the legal  counsel of each party and/or the parties'
+principals.  Either party may initiate dispute resolution by notice to the other
+party.  Such notice will be without  prejudice to the invoking party's rights to
+any  other  remedy  permitted  hereunder.  The  parties  will  use  commercially
+reasonable  efforts to arrange meetings or telephone  conferences,  as needed at
+mutually  convenient times and places,  to facilitate  negotiations  between the
+parties.  In the event that the parties  fail or are unable to resolve a dispute
+between them after  exhausting  the  escalation  process set forth  above,  then
+either  party may  declare  that a deadlock  exists.  In the event of a deadlock
+after  undertaking the forgoing steps to resolve the dispute in good faith,  the
+parties  shall  attempt  to  resolve  the  dispute  through  mediation  prior to
+instituting litigation or other adversary proceeding.
+
+         (b) Mediation.  A party shall  initiate a mediation by serving  written
+notice on the other party by overnight mail. The parties may select any mediator
+mutually  agreeable to them.  If the parties  cannot agree on a mediator  within
+fifteen (15) days,  they will,  within five (5) days  thereafter  submit a joint
+request for mediation to the Orlando, Florida office of the American Arbitration
+Association  ("AAA") and request the AAA to select an appropriate  mediator with
+experience  in  resolving  software  development  and  licensing  disputes.  The
+mediation  session  shall occur within  thirty (30) days of the selection of the
+mediator  unless the parties  mutually  agree to extend this time,  and shall be
+scheduled for not less than one day. Each party agrees to send a  representative
+with  full  settlement  authority  to the  mediation.  The  mediation  shall  be
+conducted  exclusively in Tampa,  Florida or within 100 miles  thereout,  unless
+otherwise  agreed by the parties.  The parties  agree to hold the content of the
+mediation in confidence and further agree that the mediator is disqualified as a
+litigation  witness for any party to the  mediation.  The parties  further agree
+that the mediation shall be considered to be a form of settlement  negotiations,
+the content of which shall not be  admissible  as evidence of  liability  in any
+judicial  proceeding.  Each party shall bear its own expenses and an equal share
+of the  expenses of the mediator  and,  where  applicable,  the AAA. The parties
+agree that any refusal to mediate under this section is a breach of contract for
+which  damages may be recovered  in  litigation  between the parties.  Except as
+provided  below,  if  the  party  who  ultimately  prevails  in  any  litigation
+institutes a court action or other adversary proceeding without first attempting
+mediation as required  hereby,  SUCH  PREVAILING  PARTY SHALL NOT BE ENTITLED TO
+ATTORNEYS'  FEES OR COSTS THAT MIGHT  OTHERWISE  BE  AVAILABLE  TO IT UNDER THIS
+CONTRACT OR IN COURT ACTION.
+
+         (c)  Litigation.  In the  event  a  dispute  is not  resolved  by  such
+mediation,  the parties shall have the right to initiate a suit, action or other
+adversary  proceeding  before  the  appropriate  court  exclusively  within  the
+jurisdiction  of the state and federal  courts in the state of  Florida.  In the
+event of such suit, action or other adversary proceeding, the Parties hereto (a)
+submit to the exclusive personal jurisdiction of the federal and state courts in
+the State of Florida,  County of Orange and (b)  expressly  waive any right they
+
+
+                                       8
+<PAGE>
+
+may have to a jury trial and agree that any such proceeding  shall be tried by a
+judge  without a jury.  All  defenses  based on  passage of time shall be tolled
+pending mediation, unless otherwise prohibited by law.
+
+         (d)  Applicable  Law. This Agreement  shall be governed by,  construed,
+enforced and interpreted in accordance with the internal substantive laws of the
+State of Florida.
+
+         (e) Interim  Relief.  Nothing in this  Section  shall be  construed  to
+preclude any party from seeking  injunctive or other provisional relief in order
+to protect its rights pending  mediation,  provided however that such relief may
+only be sought within the  appropriate  judicial forum as provided in Subsection
+(c) above.  In the event a party seeks interim relief  without first  attempting
+mediation,  such party shall not forfeit its entitlement to legal fees and costs
+that would otherwise be available to it only if such party  initiates  mediation
+within fifteen (15) days after  initiating the action seeking interim relief.  A
+request  to a court  for  interim  relief  shall  not be  deemed a waiver of the
+obligation to mediate.
+
+        9.5   Notice.  Any notice or other  communication  required or otherwise
+              provided for under this Agreement shall be in writing and shall be
+              deemed given when  delivered by hand or by courier or express mail
+              or by registered or certified  United States mail,  return receipt
+              requested,   postage  prepaid,  or  by  facsimile  if  receipt  is
+              acknowledged (except that a notice of termination or default shall
+              not  be  sent  by  facsimile)   and  shall  be  addressed  to  the
+              appropriate relationship manager as set forth on Exhibit B.
+
+        9.6   Assignment.  This Agreement shall be binding upon and inure to the
+              benefit of the  parties  hereto and their  respective  affiliates,
+              successors  and  permitted  assigns.  DCTI  may  not  assign  this
+              Agreement or its  interest or  obligations  hereunder  without the
+              prior consent of LICENSEE.  LICENSEE may assign this  Agreement or
+              its  interest or  obligations  hereunder  without  DCTI's  consent
+              including,  but not  limited  to, in  connection  with a change of
+              control of LICENSEE,  a merger of LICENSEE with another entity, or
+              the sale of all or substantially all of the assets of LICENSEE.
+
+
+        9.7   Severability.  The  terms of this  Agreement  shall be  applicable
+              severally to each Licensed Software program, if more than one, and
+              any dispute  affecting  either party's rights or obligations as to
+              one or more  Licensed  Software  program(s)  shall not  affect the
+              rights  granted  hereunder  as  to  any  other  Licensed  Software
+              program(s).  If any  provision  of  this  Agreement  is held to be
+              invalid or  unenforceable  by a court of  competent  jurisdiction,
+              then the remaining  provisions  will  nevertheless  remain in full
+              force and effect,  and the parties will  negotiate in good faith a
+              substitute,  valid and  enforceable  provision  which most  nearly
+              effects the parties' intent in entering into this Agreement.
+
+                                       9
+<PAGE>
+
+        9.8   Headings. The captions and headings used in this Agreement are for
+              convenience in reference  only, and are not to be construed in any
+              way as  terms  or be  used to  interpret  the  provisions  of this
+              Agreement.
+
+        9.9   Distribution  Obligation.  LICENSEE  may  in its  sole  discretion
+              decide to distribute or not  distribute  the Licensed  Software or
+              derivative products created from the Licensed Software as it deems
+              appropriate.
+
+        9.10  Relationship of Parties.  In performing under this Agreement,  the
+              parties are acting as independent  contractors  and this Agreement
+              shall not be  construed as imposing  liability  upon one party for
+              the acts or omissions  of the other or as  providing  either party
+              with  the  right,  power  or  authority  to  impose  any  duty  or
+              obligation on the other except as expressly provided herein.
+
+        9.11  Modifications.  This  Agreement  may be modified only by a writing
+              signed by an authorized representative of each party.
+
+        9.12  Waiver.  Neither  party's  failure to  exercise  any of its rights
+              hereunder shall  constitute or be deemed a waiver or forfeiture of
+              any such rights.
+
+        9.13  Force Majeure.  Nonperformance  of either party will be excused to
+              the extent  that  performance  is rendered  impossible  by strike,
+              fire, flood,  governmental acts or orders or restrictions or other
+              similar  reason where failure to perform is beyond the control and
+              not caused by the negligence of the non performing party, provided
+              that  the  non  performing  party  gives  prompt  notice  of  such
+              conditions to the other party and makes all reasonable  efforts to
+              perform.
+
+        9.14  Entire  Agreement.  This document  represents the entire agreement
+              between  the  parties  as to the  matters  set  forth  herein  and
+              supersedes    all   prior    discussions,    representations    or
+              understandings between them.
+
+        9.15  Exhibits.  Each of the Exhibits  referred to in this  Agreement is
+              incorporated in full in this Agreement wherever reference to it is
+              made.
+
+        9.16  Counterparts. This Agreement may be executed in counterparts, each
+              of which shall be deemed an original.
+
+
+        9.17  Items  8.1  through  8.5  of  this Agreement   shall  survive  the
+              Agreement.
+
+
+
+
+                                       10
+<PAGE>
+
+
+
+
+         IN WITNESS WHEREOF, this Agreement has been executed below on behalf of
+each corporation's duly authorized officer as of the date first set forth above.
+
+M2, INC                                         DIGITAL COURIER
+                                                    TECHNOLOGIES, INC
+
+By:  /s/ Joseph W. Adams                        By: /s/ Don Marshall
+    -------------------------                       ---------------------
+
+Print Name: Joseph W. Adams                     Print Name: Don Marshall
+Title: President and CEO                        Title:  CEO
+
+
+
+
+
+
+
+                                       11
+<PAGE>
+
+
+
+
+                                    EXHIBIT A
+
+         iGuard - Fraud monitor and  management  systems for acquiring  merchant
+         transaction processing. Includes a Transaction Processing Rules Engine,
+         Fraud Alert Case Engine,  and Fraud Alert Case Work Flow Queue  manager
+         system.
+
+         netClearing - An Internet  Payment Gateway process (IPG).  Includes the
+         i24Admin  merchant  administration  system, a merchant-agent  portfolio
+         reporting  system (PRS),  and a merchant  reporting and  administrative
+         system (MRS).
+
+         SecureCharge - A transaction  authorization  and  settlement  reporting
+         system,   including  a  batch-based   transaction   authorization   and
+         settlement system (SecureBatch).
+
+         ePos - A consumer-to-merchant payments processing module.
+
+         eBatch - A merchant  payments module  permitting batch  submissions for
+         transaction authorization, capture, settlement and reporting.
+
+         SecureCart - An internet  shopping cart application  including  various
+         security provisions
+
+         SecureTrans - Used in conjunction with SecureCart, this module provides
+         for processing secure payments transactions.
+
+         OFS - An order fulfillment  system which includes payments  processing,
+         order management and tracking,  shipping reports and product back-order
+         and tracking logic.
+
+         SMS - A subscription management system which tracks orders and acquires
+         payments for products or services on a recurring billing basis.
+
+
+
+                                       1
+<PAGE>
+
+
+
+
+                                      DCTI
+                               e-payment services
+
+DCTi netClearing and iGuard
+
+                                   Version 1.0
+
+Table of Contents
+
+Payment Processing with DCTI................................................3
+
+The SecureCharge(R)and SecureBatch(R)Payment Plug-In........................3
+
+ePOS........................................................................3
+
+eBATCH......................................................................3
+
+iGuard Fraud Control........................................................3
+
+Merchant Tools and Reports..................................................4
+
+
+NetClearing Payment Services for Financial Institutions.....................4
+
+Internet Payment Gateway....................................................4
+
+Risk Management.............................................................5
+
+Tools and Reports...........................................................5
+
+
+Risk Management and Internet Fraud Control..................................6
+
+Credit Card Clearing Process................................................8
+
+
+Technology..................................................................9
+
+Performance and attributes..................................................9
+
+
+
+
+                                       2
+<PAGE>
+
+
+
+
+Payment Processing with DCTI
+----------------------------
+
+DCTI offers credit-card processing services for Visa(R), MasterCard(R), American
+Express(R),  Discover(R),  Diners Club(R),  and can support all other major card
+schemas.  Payment  features of the DCTI service  include  authentication,  fraud
+control, authorization, settlement handling, and real-time reporting.
+
+The SecureCharge(R) and SecureBatch(R) Payment Plug-In
+------------------------------------------------------
+
+Designed for ease of use, DCTI's  SecureCharge(R)  and  SecureBatch(R)  "Payment
+Plug-in"  software  delivers  transaction  processing  capabilities  in a small,
+easy-to-install, thin-client format. Because the Payment Plug-ins are built with
+technology  based on open  standards,  clients can quickly and easily  integrate
+them into a wide range of e-commerce server platforms,  software  packages,  and
+financial systems  infrastructure.  Once installed,  these lightweight  software
+libraries  enable   application   programming   interfaces  (API)  that  can  be
+implemented  in a secure  yet  simple  manner.  Once  implemented,  the  payment
+plug-ins handle all security  protocols,  communication  protocols,  and message
+formatting.  The payment plugins securely transmit  transaction data to the DCTI
+Internet Payment Gateway,  discussed below. The gateway examines the transaction
+for  potential  fraudulent  activity,  logs the  transaction  in a database  for
+reporting, and routes the transaction to the card networks for authorization.
+
+The  plug-ins are  available  in a variety of  languages on all major  operating
+systems and are provided in a concise SDK (Software  Development  Kit). The DCTI
+SecureCharge  and SecureBatch SDK contain the plug-in  software  libraries,  API
+documentation,  software  languages  and sample  code for  implemention  in CGI,
+ISAPI,  NSAPI,  COM/Active-X,  Visual Basic, C/C++, Java, and Perl for both Unix
+and Windows platforms.
+
+ePOS
+----
+
+DCTI's ePOS(R) is an easy-to-use,  Web-based point-of-sale terminal application.
+Merchants  can use ePOS from a desktop  computer to submit credit card and order
+information to the DCTI Internet  Payment  Gateway,  discussed  below.  With its
+Web-based   functionality,   ePOS  provides  flexibility  for  multiple  station
+processing  facilities such as call centers and customer service  centers.  Most
+importantly,  because ePOS accesses DCTI's Payment Plug-in,  transactions can be
+processed with the same rapid response times, Web-based reporting, and access to
+important fraud protection service.
+
+eBATCH
+------
+
+DCTI's eBATCH(R) is an easy-to-use Web-based  point-of-sale terminal application
+designed  for  multi-transaction  processing.  Merchants  can use eBATCH  from a
+desktop  computer  to  submit  files  of  credit  card  transactions  and  order
+information  to  the  DCTI  Internet   Payment   Gateway.   With  its  Web-based
+functionality,  eBATCH  provides  flexibility  for multiple  station  processing
+facilities such as call centers and customer service centers to upload recurring
+transactions. Most importantly,  because eBATCH accesses DCTI's Internet Payment
+Gateway,  transactions  can be  processed  with the same rapid  response  times,
+Web-based  reporting,  and access to important fraud protection  services as are
+available for other credit card transactions.
+
+iGuard Fraud Control
+--------------------
+
+All transactions passed to DCTI's Internet Payment Gateway are guarded by DCTI's
+iGuard Payment Protection  System, a suite of fraud-detection  software routines
+and  applications.   The  iGuard  System  constantly   monitors  for  suspicious
+transactions  and data entry  errors.  Merchants  are alerted to evidence of the
+misuse of card  information,  detected by such  metrics as the  verification  of
+addresses, velocity of purchases, and bad card histories.
+
+
+
+                                       3
+<PAGE>
+
+
+
+Merchant Tools and Reports
+--------------------------
+
+DCTI offers its merchant clients 24/7 access to account information on a secure,
+password-protected  Web site  called  MRS(R)  (Merchant  Reporting  Suite).  The
+security sub system of MRS is a tool and resource rights based system made up of
+users and  groups.  With the  appropriate  login and  password  information,  an
+authorized  user can access this Web site via a desktop  computer with and a web
+browser.  Because  DCTI's  system  captures  and  displays  transaction  data in
+real-time,  all reports provide an accurate reflection of account activity.  The
+primary  categories of information and  functionality  available to the users of
+the MRS(R) system include:
+
+        o     My Account
+                o    Account Profiles
+                o    User and Group Security Sub-System Management
+                o    Processing Profiles
+        o    Account Activity Reports
+                o    Transaction Summaries
+                o    Detailed Transaction Reports
+                o    Account Velocity Reporting
+                o    Advanced Ad Hoc Transaction Searches
+                o    Customer Risk and Valuation Tools
+        o    Reconciliation Reports
+                o    Chargeback and Exceptions Management
+                o    Account Ledgers
+        o    EPOS
+        o    eBATCH
+        o    Secure Electronic Document Delivery System
+        o    Integrated System News
+        o    Extensive Online Help
+
+
+NetClearing Payment Services for Financial Institutions
+
+DCTI's payment services for financial institutions provide an outsource solution
+for electronic  payment services and merchant  portfolio  management  tools. The
+payment services software suite is called PRS(R) (Portfolio Reporting Suite) and
+includes  a  white  labeled   netClearing   Internet  Payment  Gateway,   direct
+connections  to  credit  card  networks,  and an  extensive  array of  portfolio
+management  tools that  provide  reliable  transaction  processing  services for
+institutions with an existing merchant acquiring program.  With DCTI's Web-based
+portfolio management tools,  financial institutions can better control the level
+of risk associated with their portfolio,  a merchant category,  or an individual
+merchant.
+
+Internet Payment Gateway
+------------------------
+
+The Internet Payment Gateway is a term used to describe the collection of DCTI's
+risk management,  reporting, and merchant account management tools that interact
+directly  with  legacy  financial  and  banking  networks,   operating  systems,
+acquiring  gateways,  and  credit-card  networks.  The gateway is comprised of a
+commerce  server  located at one DCTI's data centers in Salt Lake City,  Utah or
+Clearwater,  Florida, a transaction database,  and fraud screening software that
+seamlessly integrate into existing systems.
+
+Integrating  a portfolio  of  merchants  with the  Internet  Payment  Gateway is
+straightforward  and  efficient.  Online account  management  tools come with an
+easy-to-use  administration  interface  that helps users perform  functions that
+include adding and updating merchants, accessing reports, and monitoring fraud.
+
+                                       4
+<PAGE>
+
+Risk Management
+---------------
+
+Both merchants and financial  institutions are protected by DCTI's iGuard matrix
+of fraud detection analysis and software. Through iGuard, an individual merchant
+or an entire  merchant  portfolio  can be monitored for  potentially  fraudulent
+credit-card activity and data entry errors.
+
+The risk management  software alerts  financial  institutions to evidence of the
+misuse of card information, detected by such metrics as the use of a compromised
+Bank   Identification   Number  (a  "BIN"),   unusual   velocity  or  volume  of
+transactions,   or  the  use  of  a  compromised  card  number.   Fraud  control
+administrators  (such as risk management officers) can use DCTI's secure PRS Web
+site to manage their merchant portfolio and to set fraud detection limits with a
+graphical user interface.
+
+Tools and Reports
+-----------------
+
+DCTI offers real-time  activity  reports and portfolio  management tools through
+the secure  password-protected PRS Web site. The security sub system of PRS is a
+tool and resource  rights based system made up of users and groups.  Clients can
+log-on to the secure Web site to view and react to  transactions  as they occur.
+All reports are generated from the live transaction database. Custom reports are
+dynamically  generated  based  on any of 16  user  selected  parameters  such as
+transaction number, cardholder, or BIN.
+
+Because DCTI has direct  access to the card  networks the Company can record and
+display  transaction  activity in real-time.  Reporting  functions  available to
+financial institution clients include:
+
+o    Portfolio Analysis
+o    General Overview
+o    Settlement Analysis
+o    Volume Analysis
+o    Per Ticket Analysis
+o    Merchant Activity
+o    Detailed Transaction Reports
+o    Transaction Summary Reports
+o    Deposit Baseline Reviews
+o    Merchant Velocity
+o    Violation Review
+o    Extensive Searching Capabilities
+o    Ad Hoc Transaction Searches
+o    Card Holder Name Searches
+o    Credit Card Number Searches
+o    Bin Searches
+o    Fraud and Reporting
+o    Card Holder Risk and Valuation Analysis
+o    By Portfolio or Merchant
+o    Stolen Card Activity
+o    Captured Transaction Report
+o    iGuard Fraud Profile Administration
+o    iGuard Fraud Case Management Suite
+o    iGuard Fraud Alert Engine
+o    Reconciliation Systems
+o    Settlement Report Management
+o    Merchant Ledger Management
+o    Adjustment Management
+
+
+                                       5
+<PAGE>
+
+o    Chargeback and Exceptions Management
+o    Merchant Management
+o    Merchant Account Management
+o    Processing Profile Management
+o    Security Sub System Controls
+o    User and Group Management
+o    Tool and Resource Management
+
+
+Risk Management and Internet Fraud Control
+------------------------------------------
+
+DCTI's  iGuard  fraud-screening  software  suite helps  merchants  reduce  their
+exposure to losses  generated by credit-card  fraud or data entry errors.  These
+controls were developed specifically for e-commerce businesses,  which typically
+experience  higher  rates of  credit-card  fraud.  The software  provides  added
+protection  for  processing  banks and merchants by scrubbing  all  transactions
+through various  fraud-detection  software  routines and databases.  Potentially
+fraudulent  transactions  are detected and rejected  prior to  authorization  or
+caught by a fraud alert engine and placed in a fraud case management system.
+
+Following is a description of the primary fraud detection  routines DCTI can use
+to scrub its clients' transactions:
+
+         Checksum (Luhn check)
+         A basic  check of how many digits are in a credit card number to ensure
+         the customer's credit card is valid.
+
+         Address Verification System ("AVS")
+         Merchants can require  customers to submit the billing address of their
+         credit  card.  The address  supplied by the customer is compared to the
+         address on file with the issuing bank.  Merchants may choose the degree
+         of match  (between  credit  card  number  and  address)  at  which  the
+         transaction should be rejected.
+
+         Difference between name and card number
+         A credit  card  number  can be matched  to a  cardholder's  name for an
+         existing  client.  A  mismatch  may  indicate  that  a  card  has  been
+         compromised.
+
+         Unusual frequency of purchases
+         A merchant may record  information  about how frequently its product or
+         service is  typically  purchased  with a particular  card  number.  The
+         information is matched to actual  activity so merchants are notified of
+         any significant variation from that mean.
+
+         Unusual time of day for purchases
+         A merchant may record typical transaction volumes for a particular time
+         of day. The  information is matched to actual activity so merchants are
+         notified of any significant variation from that mean.
+
+         Compromised BIN and card database
+         All  transactions  can be checked  against a  database  of BINs or card
+         numbers that may have been compromised. These options include:
+
+BIN screening
+A BIN corresponds to a whole set of cards that a card issuing bank has released.
+When the security of a BIN is  compromised,  chances for fraud  increase for all
+cards  bearing  that BIN.  DCTI BIN  screens  help to flag  numbers  that may be
+compromised.
+
+                                       6
+<PAGE>
+
+Card  screening
+Transactions  may be checked  against a database  of  invalid,  compromised  and
+otherwise questionable credit card numbers.
+
+Declined card screening
+All  transactions  may be checked against a database of credit card numbers that
+have declined charges recently.  This service saves clients  transaction fees by
+declining the charge before it is submitted to the banking network.
+
+         Summary activity
+         Financial institutions can monitor activity of a single merchant or all
+         merchants to track  sales,  credits and single  transactions.  Even the
+         flow of money across  credit  cards can be reviewed to reveal  customer
+         histories, purchasing habits, and money flow into or out of a card on a
+         daily basis or on an historical timeline.
+
+         Fraud reporting
+         Financial  institutions  can survey and analyze  activity by BIN,  card
+         number,  AVS  and  velocity  of  purchases.  Stolen  credit  cards  and
+         questionable transactions present themselves on demand.
+
+         BIN check
+         Entire BINs can be reviewed for questionable activity and transactions.
+         Customer  data  associated  with credit cards can be compared to locate
+         unreported,  stolen or generated  card usage.  Related  merchants are a
+         mouse click away from review of any suspicious transaction.
+
+         Unusual activity
+         DCTI also provides the ability to generate 90-day baseline data for any
+         merchant  in a bank's  portfolio.  Side  reports  offer the  ability to
+         locate  transactions  exceeding  the baseline by whatever  range a Bank
+         determines is valid for that merchant. Excessive tickets, unusual daily
+         deposits and more can be located quickly and reviewed 24/7.
+
+
+         Review merchant and portfolio activity in real-time
+         A  financial  institution's  entire  merchant  portfolio  or  a  single
+         merchant  account can be viewed with DCTI's online charting tools.  The
+         ability to graphically review a merchant's dollar and transaction count
+         can be a simple indicator of merchant or consumer fraud. Peak hours can
+         be located  within hourly  summaries  that appear in easy to understand
+         bar charts.
+
+
+
+
+                                       7
+<PAGE>
+1a Merchant Web Site
+
+
+      Real-time reporting
+
+
+1b Internet Payment
+   Gateway
+
+VISA MC AMEX Discover
+Credit Card Network
+
+
+3a Issuing Bank
+
+
+2 Settlement Authority
+
+
+3b Merchant Bank
+
+
+Credit Card Clearing Process
+
+To better understand DCTI's products and services, the following explanation and
+diagram describe how the credit card clearing process works, and how the Company
+simplifies  the process.  DCTI  generates  real-time  reporting and  transaction
+management   services   through  a  secure  Web  server.   Information  such  as
+authorization  notices and  settlement  data from the credit card  companies are
+stored  in the DCTI  database,  which  generates  reports  on the  DCTI  account
+activity  reporting sites. This means that merchants and financial  institutions
+can  view  real-time  transaction  information  any  time  of the  day via a Web
+browser.
+         1    Authorization - When merchants are ready to begin accepting credit
+              cards as  payment  for goods or  services  on their Web site (1a),
+              they can  download  DCTI's  Payment  Plug-In  and  request  DCTI's
+              assistance in establishing a merchant account. They are then ready
+              to begin accepting payments.
+
+     Once the customer  submits a credit card number on the merchant's Web site,
+     the Payment  Plug-in  contacts the DCTI  Internet  Payment  Gateway (1b) to
+     initiate fraud screening and then to request  authorization,  final sale or
+     credit.
+
+         2    If the transaction is not rejected for potential  fraud,  the DCTI
+              Internet Payment Gateway then sends the transaction information to
+              the credit card network (1c) for  authorization  or declination of
+              the charge. This process is completed  in-house;  the Company does
+              not use third party  acquiring  processors.  If the transaction is
+              approved,  an authorization code is returned to the merchant's Web
+              site and the  authorization is complete.  With DCTI's system,  the
+              real-time authorization and capture process occurs within seconds.
+              Batch requests are completed within ten to thirty minutes.
+
+         3    Settlement - Once the product the customer  ordered is shipped (or
+              downloaded),  the authorization  code is used to settle the amount
+              of the transaction. DCTI's Internet Payment Gateway and the credit
+              card network exchange  information  with the Settlement  Authority
+              (2) to confirm the transaction.
+
+                                       8
+<PAGE>
+
+         4    Funds transfer - Finally the Settlement Authority requests a funds
+              transfer from the Issuing Bank (3a), which moves money through the
+              Settlement  Authority into the  merchant's  bank (3b). The payment
+              process is now complete.
+
+
+Technology
+
+We have  computer  facilities  in Salt Lake  City,  Utah to  support  all of our
+products  and  services.  This data  center has  redundant  systems in place for
+power,  telecommunications,  environmental  controls,  and fire suppression that
+assure  consistently   optimal  performance  through   state-of-the-art   system
+scalability and reliability. Features of the data center include:
+
+         o        multiple  fiber  optic  OC-3's from  distinct  Tier 1 Internet
+                  Service Providers  providing highly scalable  bandwidth,  load
+                  balancing, fault tolerance, and data redundancy for e-commerce
+                  and other Internet applications and customers;
+
+         o        fully  redundant   network   architecture   composed  of  dual
+                  switches,  routers,  firewalls,  and  load  balancing  devices
+                  providing  internet  scalability,  load  balancing  and  fault
+                  tolerance;
+
+         o        a  range  of high  availability  multiprocessor  servers  from
+                  various  manufacturers  including  Hewlett-Packard,  Dell, Sun
+                  Microsystems  and Tandem  Computers  supporting  our  business
+                  operations.  The super-scalar processing architecture of these
+                  systems manages our service components including  simultaneous
+                  payment  processing,  real-time report generation and merchant
+                  accounting; and
+
+         o        modern fire retardant  systems,  security systems,  quad-power
+                  conditioners,  and industrial battery backup arrays as well as
+                  an  8-day  backup  diesel   generator,   which  all  guarantee
+                  continuous power and environmental control to insure seamless,
+                  around-the-clock systems uptime and availability.
+
+
+Performance and attributes
+
+DCTI's technology gives online businesses the high-speed  performance they need.
+Transactions  are  usually  complete in 1-2  seconds.  DCTi's  Internet  Payment
+Gateway architecture provide fast, secure, and reliable performance.
+
+o     Capacity
+
+         The entire Internet  Payment  Gateway (IPG) is continually  tracked for
+         availability. Once every minute, a test transaction is sent to Visa and
+         MasterCard.  Also, all transaction  servers are equipped with Redundant
+         Arrays of  Independent  Disks  (RAID) and  multiple  power  supplies to
+         ensure network availability.
+
+
+o     Security
+
+         Firewall  systems exceed  industry  standards and work in tandem with a
+         state of the art intrusion  detection system,  which uses algorithms to
+         detect any hacking  attempt.  Connections and information are protected
+         by standard RSA encryption to SSLv3.0.
+
+o     Scalability
+
+         DCTI's  infrastructure  is highly  scalable  for future  expansion  and
+increased performance requirements.
+
+
+
+                                       9
+<PAGE>
+
+
+
+
+                                    EXHIBIT B
+
+                        NOTICE AND RELATIONSHIP MANAGERS
+
+LICENSEE:                           DCTI:
+
+Joseph W. Adams                         Don Marshall
+M2, Inc.                                Digital Courier Technologies, Inc.
+850 Trafalgar Court, Suite 100          348 East 6400 South, Suite 220
+Maitland, Florida 32751                 Salt Lake City, Utah  84107
+
+Notices with respect to the  administration of this Agreement shall be addressed
+to the Business  Manager set forth above and cc: to LICENSEE's  legal department
+at:
+
+Andrea T. Tullo
+Shumaker, Loop & Kendrick, LLP
+101  East Kennedy Boulevard, Suite 2800
+Tampa, FL  33602
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                       10
+<PAGE>
+
+</TEXT>
+</DOCUMENT>

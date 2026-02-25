@@ -1,0 +1,1547 @@
+<DOCUMENT>
+<TYPE>EX-10.30
+<SEQUENCE>3
+<FILENAME>c75685exv10w30.txt
+<DESCRIPTION>AMENDMENT TO DISTRIBUTION AGREEMENT
+<TEXT>
+<PAGE>
+                                                                   EXHIBIT 10.30
+
+PORTIONS OF THIS DOCUMENT INDICATED BY AN ++ HAVE BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO A REQUEST FOR
+CONFIDENTIAL TREATMENT OF SUCH INFORMATION.
+
+
+                  AMENDMENT NO. 1 TO THE DISTRIBUTOR AGREEMENT
+
+This Amendment No. 1 to the Distributor Agreement, effective as of December 19,
+2002 ("Effective Date"), is made by and between NOKIA Inc., by and through its
+NOKIA Mobile Phones business unit ("NOKIA"), and Brightpoint North America L.P.
+("BRIGHTPOINT"), with reference to the following:
+
+WHEREAS, NOKIA and BRIGHTPOINT entered into a Distributor Agreement (the
+"Agreement") effective October 29, 2001, which sets forth the terms and
+conditions under which NOKIA will sell, and BRIGHTPOINT will purchase and
+distribute, various NOKIA Products; and
+
+WHEREAS, the parties desire, among other things, to replace their current
+distribution and logistics relationship with a Vendor Managed Inventory ("VMI")
+system for the purchase and distribution of NOKIA Handsets, and to amend the
+Agreement to implement VMI in accordance with the terms and conditions set forth
+herein;
+
+NOW, THEREFORE, in consideration of the mutual covenants provided for herein,
+and other good and valuable consideration, the receipt and sufficiency of which
+are hereby acknowledged, the parties hereby agree as follows:
+
+1.   ADD NEW SECTION 2. PRODUCT FORECASTS - The following Section 2, governing
+     Product Forecasts, is hereby added to this Agreement:
+
+     "2.  PRODUCT FORECASTS
+
+     2.1  On or before the first of each calendar month of the Term of this
+          Agreement, BRIGHTPOINT agrees to furnish a non-binding, rolling, ++
+          month forecast of its anticipated sales of Products under this
+          Agreement (each, a "Forecast"), which data will be utilized in the
+          Demand Supply Balancing ("DSB") process set forth in Section 4.1.1 of
+          the VMI Statement of Work attached hereto as Attachment 10 ("VMI
+          Statement of Work"). The parties will conduct ++ reviews of Forecasts
+          to maximize the stability of such Forecasts. Under the VMI Program as
+          defined in Section 18-A and described in the VMI Statement of Work,
+          NOKIA agrees to maintain in the inventory of Products owned by NOKIA
+          and held by BRIGHTPOINT as Bailed Inventory at BRIGHTPOINT's facility
+          located at 501 Airtech Parkway, Plainfield, Indiana (which facility is
+          designated as "US 17" in NOKIA's system, and "NOK5" in BRIGHTPOINT's
+          system, and which facility is hereinafter referred to as "NOK5") such
+          amounts of Product equal to ++ Days of Supply (as defined in Section
+          4.1.4 of Attachment 10, and calculated in accordance with Section
+          4.3(ii) of Attachment 10) of Products as set forth in the then current
+          Forecast, provided, however, that NOKIA shall have ++ days from the
+          Effective Date of Amendment No. 1 to the Distributor Agreement to
+          reduce BRIGHTPOINT's current inventory of Products to the ++ Days of
+          Supply standard. Upon the expiration of such ++ day Product inventory
+          transition period, if the inventory levels held in NOK5 during the
+          remainder of the term of the VMI Program exceed ++ Days of Supply as
+          set forth in the then current Forecast, NOKIA shall have the right,
+          upon providing ++ days' prior written notice to BRIGHTPOINT, to sell
+          or distribute the amount of inventory of Products exceeding ++ Days of
+          Supply of Products as set forth in the then current Forecast to any
+          third party entity (subject to the terms, conditions and limitations
+          set forth in the Agreement). For purposes of this Agreement, Bailed
+          Inventory shall mean the inventory of Products owned by NOKIA and held
+          by BRIGHTPOINT at NOK5 under a legal bailment relationship, with NOKIA
+          as bailor and BRIGHTPOINT as bailee.
+
+
+<PAGE>
+
+     2.2  All shipments of Product from NOKIA manufacturing plants to NOK5,
+          further described in the VMI Statement of Work, will be made F.O.B. ++
+          on NOKIA's designated freight carrier with freight charges to be borne
+          by ++. Immediately upon shipment of Products from NOKIA's
+          manufacturing locations to NOK5 (or to Fulfill1 (as defined in Section
+          3.2) after expiration or termination of the VMI Program), NOKIA agrees
+          to transmit to BRIGHTPOINT via EDI advanced shipment notices
+          containing serialization data and, if applicable, sublocks. Each of
+          NOKIA and BRIGHTPOINT acknowledges and agrees that NOKIA shall retain
+          title to all Products held in NOK5 until the time of Product Issue (as
+          defined in Section 4.1) and until the time of Product Issue
+          BRIGHTPOINT will hold such Products as Bailed Inventory on behalf of
+          NOKIA. NOKIA will bear the risk of loss to deliver Products ++.
+
+     2.3  The minimum order quantity of any Product model shall be full location
+          amounts."
+
+2.   SECTION 3.2 - Section 3.2 is amended in its entirety to state as follows:
+
+     "All shipments of Product from NOKIA manufacturing plants to NOK5 will be
+     made F.O.B. ++ on NOKIA's designated freight carrier with freight charges
+     to be borne by ++. NOKIA will bear the risk of loss to NOK5 and arrange for
+     and absorb ++. Shipments from NOK5 to BRIGHTPOINT'S distribution center in
+     Plainfield, Indiana ("Fulfill1") will be made F.O.B. ++ on NOKIA's
+     designated freight carrier with freight charges, if any, to be borne by ++
+     (either "freight collect" or "freight prepay and add" as designated by ++).
+     ++ will bear the risk of loss to the destination and arrange for and absorb
+     the cost of insurance to cover such shipments from NOK5 to Fulfill1. Upon
+     BRIGHTPOINT's receipt of each shipment from NOK5 into Fulfill1, BRIGHTPOINT
+     will mark the bill of lading with substantially the following phrase
+     "received in good condition except as noted, contents subject to complete
+     inspection/verification for hidden damages and/or shortages". Any claims of
+     loss or damage concerning the Products, other than for hidden damages
+     and/or shortages, shipped from NOK5 to Fulfill1 or drop-shipped for
+     BRIGHTPOINT must be reported to NOKIA immediately."
+
+3.   SECTION 3.3 - Section 3.3 is deleted in its entirety.
+
+4.   SECTION 3.4 - Section 3.4 is amended by adding the following sentence to
+     the end of such Section:
+
+     "Notwithstanding the foregoing, BRIGHTPOINT acknowledges and agrees that
+     Products shall not be drop-shipped to separate locations by NOKIA under the
+     VMI Program."
+
+5.   SECTION 4.1 - Section 4.1 is amended in its entirety to state as follows:
+
+     "The terms of payment shall be net due ++ days from date of invoice. NOKIA
+     shall invoice BRIGHTPOINT for the Products at the time of "Product Issue".
+     For purposes of this Agreement, the date of Product Issue is the date on
+     which ++. The date of Products Issue constitutes the point in time when
+     title to the Products is transferred from NOKIA to BRIGHTPOINT, and the
+     date on which NOKIA will create an invoice for the Products to BRIGHTPOINT.
+     If Product inventory levels exceed ++ Days of Supply as set forth in the
+     then current Forecast, and NOKIA, pursuant to Section 2.1, sells or
+     distributes the amount of Products exceeding ++ Days of Supply as set forth
+     in the then current Forecast to a third party customer of NOKIA, ++
+
+6.   SECTION 4.4 - Section 4.4 is amended in its entirety to state as follows:
+
+     "BRIGHTPOINT shall be responsible for all taxes, fees or other charges
+     imposed by any governmental entity arising with respect to (i) the sale of
+     Products by NOKIA to BRIGHTPOINT, and (ii) any BRIGHTPONT business
+     activities related to NOKIA Product management and distribution in the
+     State of Indiana, specifically including the Indiana Inventory Carrying
+     Tax. ++ will be responsible, with ++ `s assistance, for filing appropriate
+     tax documentation with the State of Indiana for the Inventory Carrying Tax.
+     Notwithstanding the forgoing, BRIGHTPOINT shall not be responsible for any
+     taxes that may be based on NOKIA'S net income or any import duties incurred
+     by NOKIA in bringing the Products into the U.S."
+
+
+                                       2
+<PAGE>
+
+
+7.   ADD SECTION 4.8 - Section 4.8, governing the retention of title in the
+     Products held in NOK5 as Bailed Inventory until Products Issue and
+     precautionary notice filings under the Uniform Commercial Code is hereby
+     added to this Agreement:
+
+     "4.8      NOKIA shall have the right at any time and from time to time to
+               file, in any filing office in any appropriate Uniform Commercial
+               Code jurisdiction, including the State of Indiana, any initial
+               financing statements and amendments thereto in a form
+               substantially similar to the statements attached hereto as
+               Exhibit A, that (i) indicate that NOKIA holds title to the
+               Products held in NOK5 until the time of Product Issue and that
+               BRIGHTPOINT holds such Products as Bailed Inventory until the
+               time of Product Issue and (ii) BRIGHTPOINT agrees to provide any
+               other necessary and appropriate information required by part 5 of
+               Article 9 of the Uniform Commercial Code of any relevant state or
+               such other jurisdiction for the sufficiency or filing office
+               acceptance of any such financing statement or amendment.
+               BRIGHTPOINT covenants with NOKIA as follows: (a) without
+               providing at least thirty (30) days prior written notice to
+               NOKIA, BRIGHTPOINT will not change its name or location of the
+               Bailed Inventory or organizational identification number if it
+               has one, (b) if BRIGHTPOINT does not have an organizational
+               identification number and later obtains one, BRIGHTPOINT will
+               forthwith notify NOKIA of such organizational identification
+               number, and (c) BRIGHTPOINT will not change its type of
+               organization, jurisdiction of organization or other legal
+               structure."
+
+8.   SECTION 5.7 - Section 5.7 is amended by adding the following sentence to
+     the end of such Section: ++
+
+9.   SECTION 8.2 - Section 8.2 is amended in its entirety to state as follows:
+
+     "BRIGHTPOINT shall not modify the Products while such Products remain in
+NOK5 in any manner without the prior written approval of NOKIA. In addition,
+BRIGHTPOINT shall not modify, remove, or alter the documentation accompanying
+the Products without the prior written approval of NOKIA. If BRIGHTPOINT ++."
+
+10.  SECTION 8.3 - Section 8.3 is amended in its entirety to state as follows:
+
+     "During the Term of this Agreement, BRIGHTPOINT shall make available to
+     NOKIA, and NOKIA shall make available to BRIGHTPOINT the reports and
+     business information set forth in ATTACHMENT. 7" attached hereto and
+     incorporated herein.
+
+11.  SECTION 8.5 - Section 8.5 is amended in its entirety to state as follows:
+
+     "During the Term of this Agreement, BRIGHTPOINT agrees to provide NOKIA
+     with a work area in BRIGHTPOINT's facility located in Plainfield, Indiana,
+     equipped with (i) a "Pick Desk" for ++employees, (ii) telephones for ++
+     employees capable of making conference calls, (iii) Extra-Net capabilities
+     (Internet side of BRIGHTPOINT's firewall) for VPN (Virtual Private
+     Networking) access to allow such employees to link to the NOKIA network.
+     The work area, furniture and communications equipment will be provided ++.
+     NOKIA employees and representatives will be allowed reasonable access to
+     the BRIGHTPOINT distribution center to observe NOK5 inventory, and to
+     observe all processes related to the distribution of NOKIA Products to
+     NOKIA or BRIGHTPOINT customers."
+
+12.  SECTION 12.1 - Section 12.1 is amended in its entirety to state as follows:
+
+     "Unless sooner terminated in accordance with the provisions of this
+     Agreement, the initial term of this Agreement shall commence January l,
+     2002, and extend until December 31, 2004 ("Term"), provided, however, that
+     the ++ shall expire six (6) months from the Effective Date of this
+     Amendment No. 1 unless earlier terminated in accordance with the terms
+     herein. Notwithstanding the foregoing, the parties acknowledge and agree
+     (i) that the Agreement shall continue in full force and effect despite the
+     expiration or termination of the ++ unless earlier terminated in accordance
+     with the terms herein, and (ii) that the ++ shall automatically terminate
+     in the event the Agreement is terminated for any reason."
+
+
+                                       3
+<PAGE>
+
+
+13.  SECTION 12.3  - Section 12.3 is amended in its entirety to state as
+     follows:
+
+     "Upon ++ days prior written notice to the other party, either party may
+     terminate this Agreement, with or without cause, with the effective date of
+     such early termination to be not earlier than January 1, 2004.
+     Notwithstanding the foregoing, VMI Program described in this Agreement may
+     be terminated with immediate effect by written notice from NOKIA in the
+     event that there is a Change of Control of BRIGHTPOINT. "Change of Control"
+     will be deemed to have occurred if: (i) any person or entity becomes the
+     beneficial owner (as defined in Rule 13d-5 under the Securities Exchange
+     Act as in effect on the Effective Date), directly or indirectly, of
+     securities representing fifty percent (50%) or more of the combined voting
+     power of the outstanding securities of BRIGHTPOINT, or (ii) BRIGHTPOINT
+     becomes a subsidiary of some unrelated third party; or (iii) any unrelated
+     person or "Group" (within the meaning of Section 13(d)(3) of the Securities
+     Exchange Act as in effect on the Effective Date) acquires all or
+     substantially all of the assets of BRIGHTPOINT."
+
+14.  SECTION 12.4 - Section 12.3 is amended in its entirety to state as follows:
+
+     "Termination of this Agreement, howsoever caused, shall not terminate
+     obligations which occurred prior to the effective date of termination. In
+     addition, immediately upon termination of this Agreement for any reason,
+     except for NOKIA's breach or termination for convenience, all then-existing
+     Product inventory held in the NOK5 inventory up to a maximum quantity of ++
+     Days of Supply as set forth in the then current Forecast shall be deemed
+     purchased by BRIGHTPOINT at the then-current prices for such Products.
+     Ownership will transfer and an invoice submitted on the date of the
+     Products Issue. Moreover, upon termination of this Agreement for any
+     reason, for a period not to exceed ++ days, the parties shall continue to
+     perform their obligations under this Agreement so as to facilitate
+     transition of responsibility for distribution of NOKIA Products to a
+     different vendor or to NOKIA. All transition activities shall be conducted
+     so as to minimize disruption to the other party. Each party shall provide
+     all cooperation and assistance required or requested by the other and shall
+     identify and resolve, with the other party's reasonable assistance, any
+     problems that may impede or delay the timely completion of such transition
+     activities."
+
+15.  ADD NEW SECTION 18A - VENDOR MANAGED INVENTORY PROCESS-The following
+     Section 18.A, governing the parties' new VMI Program process, is hereby
+     added to this Agreement:
+
+     Upon the Effective Date, BRIGHTPOINT and NOKIA agree to institute the VMI
+     system, under which NOKIA will manage and own certain Product inventory for
+     BRIGHTPOINT's handset distribution business located in Plainfield, Indiana
+     (the "VMI Program"). Under the VMI Program, BRIGHTPOINT will provide a
+     Forecast of Products, pursuant to Section 2 herein, for the initial
+     transfer of Products to NOK5 to be held by BRIGHTPOINT as Bailed Inventory.
+     As BRIGHTPOINT requires additional Products, BRIGHTPOINT will, from time to
+     time, deliver to NOKIA a purchase order for the issuance of Products to
+     BRIGHTPOINT from NOK5 inventory. The VMI Program will remain in effect for
+     a period of ++ from the Effective Date of this Amendment No. 1, unless
+     sooner terminated in accordance with the terms hereof. Complete details
+     regarding the VMI Program are set forth in Attachment 10 attached hereto."
+
+16.  ADD SECTION 19.9 - Section 19.9, governing compliance with laws, is hereby
+     added to the Agreement:
+
+     "Each party shall comply, and cause its subcontractors to comply, with all
+     applicable federal, state and local laws, rules, regulations and orders,
+     including, but not limited to, those pertaining to employment."
+
+17.  ADD SECTION 19.10 - Section 19.10, governing disaster recovery, is hereby
+     added to the Agreement:
+
+     "BRIGHTPOINT has developed or shall develop a disaster recovery plan
+     defining an action plan to minimize any damages to NOKIA in case of a
+     severe damage to BRIGHTPOINT's distribution center in Plainfield, Indiana
+     which will impact the Products held in NOK5. BRIGHTPOINT shall submit a
+     copy of the plan to NOKIA within ++ days of the Effective Date of this
+     Amendment No. 1. BRIGHTPOINT will
+
+
+
+                                       4
+<PAGE>
+     use commercially reasonable efforts to resume its obligations under this
+     Agreement as soon as possible after disaster occurrence."
+
+18.  ADD SECTION 19.11 - Section 19.11, governing Product shrinkage, is hereby
+     added to the Agreement:
+
+     "BRIGHTPOINT is responsible for all theft, damage or destruction of
+     Products and related materials once such Products and materials are
+     received into the NOK5 inventory of Products, except with respect to the
+     negligent or intentional acts or omissions of NOKIA."
+
+19.  ADD SECTION 19.12 - Section 19.12, governing audit rights, is hereby added
+     to the Agreement:
+
+     "During the Term of this Agreement, each of BRIGHTPOINT and NOKIA will keep
+     and maintain accurate information and records related to all transactions
+     under this Agreement. Upon the other party's written request, and with at
+     least ++ days' prior written notice, each party will provide access to such
+     information and records for examination and audit by the other party or an
+     independent certified auditor provided by such other party. The party
+     requesting the audit will pay all costs of such examination and audit."
+
+20.  ADD SECTION 19.14 - Section 19.14, governing Brightpoint insurance
+     requirements, is hereby added to the Agreement:
+
+     "BRIGHTPOINT shall maintain in full force and effect during the Term of
+     this Agreement insurance coverages as specified in Attachment 11".
+
+21.  ATTACHMENTS - The Attachments to the Agreement are amended/added as
+     follows:
+
+     ATTACHMENT 4 (Receiving Requirements) - Amended as per new Attachment 4
+     ATTACHMENT 7 (Business Information) - Amended as per new Attachment 7
+     ADD NEW ATTACHMENT 10 -Vendor Managed Inventory Process Statement of Work
+     ADD NEW ATTACHMENT 11 - Insurance Requirements
+     ADD NEW SCHEDULE 4.1 - Freight Charges
+
+22.  GENERAL - Except as expressly set forth above, this Amendment No. 1 to the
+     Agreement does not supersede or amend any of the other terms and conditions
+     of the Agreement, which shall continue in full force and effect. This
+     Amendment No. 1 shall bind and inure to the benefit of each of the parties
+     hereto and their respective successors and assigns. The parties represent
+     and warrant to each other that the undersigned are authorized to execute
+     this Amendment No. 1. Defined terms used but not defined herein shall have
+     the respective meanings ascribed to them in the Agreement.
+
+
+NOKIA INC.                               BRIGHTPOINT NORTH AMERICA L.P.
+
+                                         By:  Brightpoint  North America,  Inc.,
+                                              its general partner
+
+By: /s/ Mike Pennington                  By: /s/ J. Mark Howell
+    --------------------------------         -----------------------------------
+
+Name: Mike Pennington                    Name: J. Mark Howell
+      ------------------------------           ---------------------------------
+
+Title: VP Sales                          Title:  President
+       -----------------------------            --------------------------------
+
+Date: December 20, 2002                  Date: December 19, 2002
+      ------------------------------           ---------------------------------
+
+
+
+                                       5
+<PAGE>
+
+                                    EXHIBIT A
+
+                              UCC FILING STATEMENT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE>
+
+UCC FINANCING STATEMENT
+State Form 50181 (5-01)
+Approved by State Board of Accounts, 2001
+
+FOLLOW INSTRUCTIONS (FRONT AND BACK) CAREFULLY
+
+-------------------------------------------------------
+A.     NAME AND PHONE OF CONTACT AT FILER (optional)
+-------------------------------------------------------
+B.     SEND ACKNOWLEDGMENT TO: (Name and Address)
+
+       [                   ]
+
+
+
+       [                   ]
+
+-------------------------------------------------------
+                                   THE ABOVE SPACE IS FOR FILING OFFICE USE ONLY
+
+
+<TABLE>
+<S>                       <C>                           <C>                      <C>                          <C>
+1.   DEBTOR'S EXACT FULL LEGAL NAME - Insert only one debtor (1a or 1b) - do not abbreviate or combine names
+------------------------------------------------------------------------------------------------------------------------------
+         1a.  ORGANIZATION'S NAME
+OR              BRIGHTPOINT NORTH AMERICA L.P.
+------------------------------------------------------------------------------------------------------------------------------
+         1b.  INDIVIDUAL'S LAST NAME                     FIRST NAME              MIDDLE NAME                 SUFFIX
+
+------------------------------------------------------------------------------------------------------------------------------
+1c.      MAILING ADDRESS                                 CITY                    STATE    POSTAL CODE        COUNTRY
+                501 Airtech Parkway                             Plainfield       IN       46168              USA
+------------------------------------------------------------------------------------------------------------------------------
+         ADD'L INFO RE    1e. TYPE OF ORGANIZATION       1f.  JURISDICTION OF     1g. ORGANIZATIONAL ID #, if any
+         ORGANIZATION         ltd partnership                  ORGANIZATION
+         DEBTOR                                                  DELAWARE                                      [ ] NONE
+------------------------------------------------------------------------------------------------------------------------------
+2.  ADDITIONAL DEBTOR'S EXACT FULL LEGAL NAME - Insert only one debtor (2a or 2b) - do not abbreviate or combine names
+------------------------------------------------------------------------------------------------------------------------------
+         2a.  ORGANIZATION'S NAME
+OR   -------------------------------------------------------------------------------------------------------------------------
+         2b.  INDIVIDUAL'S LAST NAME                     FIRST NAME              MIDDLE NAME                 SUFFIX
+------------------------------------------------------------------------------------------------------------------------------
+2c.      MAILING ADDRESS                                 CITY                    STATE    POSTAL CODE        COUNTRY
+------------------------------------------------------------------------------------------------------------------------------
+         ADD'L INFO RE    1e. TYPE OF ORGANIZATION       1f.  JURISDICTION OF     1g. ORGANIZATIONAL ID #, if any
+         ORGANIZATION                                          ORGANIZATION
+         DEBTOR                                                                                                [ ] NONE
+------------------------------------------------------------------------------------------------------------------------------
+3.  SECURED PARTY'S NAME (or NAME of TOTAL ASSIGNEE S/P) - insert only one secured party name (3a or 3b)
+------------------------------------------------------------------------------------------------------------------------------
+         3a.  ORGANIZATION'S NAME
+OR              NOKIA Inc..
+     -------------------------------------------------------------------------------------------------------------------------
+         3b.  INDIVIDUAL'S LAST NAME                     FIRST NAME              MIDDLE NAME                 SUFFIX
+------------------------------------------------------------------------------------------------------------------------------
+3c.      MAILING ADDRESS                                 CITY                    STATE    POSTAL CODE        COUNTRY
+                600 Connection Drive                            Irving           TX       75039              USA
+------------------------------------------------------------------------------------------------------------------------------
+4.  This FINANCING STATEMENT covers the following collateral:
+------------------------------------------------------------------------------------------------------------------------------
+         This is a protective filing and does not, and is not intended to,
+         create a security interest in any property of Bailee. This filing is
+         intended to protect Bailor's interest in Bailor's inventory of
+         Nokia-branded wireless telecommunications handsets held by Bailee as
+         bailed inventory in the "NOK5" warehouse under a vendor-managed
+         inventory program pursuant to that certain Distributor Agreement dated
+         October 29, 2001 by and between Bailor and Bailee, as amended.
+
+------------------------------------------------------------------------------------------------------------------------------
+5.  ALTERNATIVE DESIGNATION (if applicable):  [ ] LESSEE/LESSOR   [ ] CONSIGNEE/CONSIGNOR   [ ] BAILEE/BAILOR
+    [ ] SELLER/BUYER  [ ] AG LIEN  [ ] NON-UCC FILING
+------------------------------------------------------------------------------------------------------------------------------
+6.  [ ] This FINANCIAL STATEMENT is to be filed (for record) (or    7.  Check to REQUEST SEARCH REPORT(S) on Debtor(s)
+recorded) in the REAL ESTATE RECORDS, Attach Addendum (if         (ADDITIONAL FEE) (optional)
+applicable)                                                                  [ ] All Debtors   [ ] Debtor 1    [ ] Debtor 2
+------------------------------------------------------------------------------------------------------------------------------
+8.  OPTIONAL FILER REFERENCE DATA
+
+------------------------------------------------------------------------------------------------------------------------------
+FILING OFFICE COPY - INDIANA UCC FINANCING STATEMENT
+</TABLE>
+
+
+
+<PAGE>
+
+
+
+
+                                  ATTACHMENT 4
+
+                       BRIGHTPOINT RECEIVING REQUIREMENTS
+
+
+
+
+<PAGE>
+
+
+BRIGHTPOINT
+
+                       BRIGHTPOINT INBOUND SPECIFICATIONS
+
+                                TABLE OF CONTENTS
+
+
+<TABLE>
+<CAPTION>
+                                                                              Page Number
+
+<S>      <C>                                                                  <C>
+         Table of Contents......................................................... 1
+
+I.       Brightpoint Inbound Shipping Specifications............................... 2
+
+II.      Delivery Scheduling Procedures............................................ 2
+
+III.     Bill of Lading Requirements............................................... 2
+
+IV.      Packaging List Requirements............................................... 2
+
+V.       Vendor Packing Requirements............................................... 3
+
+VI.      Vendor Pallet Specifications.............................................. 3
+
+VII.     Vendor Labelling Requirements............................................. 3
+
+VIII.    General Merchandise Packing and Labelling Violations and Fees............. 4
+
+IX.      Brightpoint Appointment Request Form...................................... 5
+
+X.       Brightpoint Air Freight Shipping Notification............................. 6
+
+XI.      Item Code Specific Information Sheet...................................... 7
+
+XII.     Example of Shipment Non-Conformance Form.................................. 8
+</TABLE>
+
+
+
+
+                                     1 of 8
+<PAGE>
+
+I.   BRIGHTPOINT INBOUND SHIPPING SPECIFICATIONS
+
+The carrier must contact Brightpoint's Inbound Clerk at (800) 952-2355 (ext.
+2261) to schedule an appointment for each delivery prior to the actual delivery
+date in accordance with the Delivery Scheduling Procedures set forth below.
+Receiving hours are between 6:00 am and 6:00 pm (EST) Monday through Friday.
+Brightpoint's receiving schedule is made on a first-call, first-serve basis.
+Brightpoint reserves the right to refuse or reschedule shipments/trailers that
+arrive unscheduled and/or are more than one hour late.
+
+All items, products or otherwise, are to be shipped according to the terms and
+conditions of the purchase order or contract. Unless specified otherwise, all
+shipments shall be collect FOB Origin City.
+
+Brightpoint's Receiving Department requires a 24-hour electronic ASN (Advanced
+Shipping Notice) with the following items: purchase order number, item,
+quantity. The following items must be unique: pallet id, carton id, serial or
+IME/ESN/MSN number, and sublocks (for handsets). For additional information
+regarding ASN requirements contact Brightpoint's Director of Information
+Technology at (800) 952-2355 ext. 2314.
+
+
+The carrier must provide Brightpoint with a valid PO# or RA# in order to
+schedule a shipment. If the carrier has a valid PO#, Brightpoint's Receiving
+Clerk will verify the validity of the PO# using Brightpoint's Warehouse
+Management System, issue a RA#, and schedule an appointment in the next
+available opening. A RA# will be accepted and appointment will be set at that
+time. If the PO# is not valid, Brightpoint's Receiving Clerk will investigate
+the matter. Supplier agrees to cooperate with and assist the Brightpoint
+Purchasing Department and the National Brightpoint receives the necessary
+information, Brightpoint will contract the carrier to schedule the appointment.
+
+
+II.  DELIVERY SCHEDULING PROCEDURES
+
+All freight shipments must be scheduled for a delivery appointment 24 hours
+prior the actual delivery arrival of the shipment. The carrier should send the
+correct APPOINTMENT REQUEST FORM (included on the following pages) as soon as it
+receives the shipment. This practice will help expedite the shipment into
+Brightpoint's facility and help eliminate any additional transit time.
+
+
+The following information is required for all appointment requests:
+
+
+o    carrier name
+o    vendor name
+o    all valid PO#s
+o    number of cartons for each PO
+o    total cartons/total pallets
+o    weight of shipment
+o    bill of lading number
+o    carrier PRO number and/or shipment number
+
+Without this information, NO delivery appointment can be scheduled.
+
+
+AIR FREIGHT SHIPMENTS
+For all expedited shipments (e.g. air freight), vendors must follow these
+procedures when making an appointment.
+
+SMALL PACKAGE CARRIER SHIPMENTS
+Small package carrier (i.e. UPS, Airborne, Federal Express) shipments are
+limited to no more than 200 pounds or 10 boxes per shipment, per d ay. Shipments
+exceeding these criteria will be treated as receipts without an appointment. For
+shipments of 200 pounds/10 cartons or greater, vendor must contact Brightpoint's
+Freight Manager at (800) 952-2355 extension 2227 for assistance with carrier
+information.
+
+
+III.   BILL OF LADING REQUIREMENTS
+
+THE FOLLOWING BILL OF LADING REQUIREMENTS ARE MANDATORY. FAILURE TO COMPLY WITH
+THESE INSTRUCTIONS COULD RESULT IN COSTLY DELAYS.
+
+
+All Shipments regardless of mode or FOB status must be accompanied by a Bill of
+Lading. The Bill of Lading must include the following:
+
+
+o    vendor name
+     shipping address
+     city, state and zip code
+o    Brightpoint destination
+     street address
+     city, state and zip code
+o    bill to address
+o    freight payment terms
+o    actual ship date
+o    carrier
+o    trailer number
+o    seal number
+o    total number of cartons, pallets, and gross weight of shipment
+o    product descriptions
+o    Brightpoint's PO#
+     -----------------
+     If shipping multiple purchase order numbers together, all numbers must be
+     listed with a carton break down by purchase order.
+o    "Shipper load and Count" (actual carton quantity the carrier picked up from
+     the vendor or shipper) printed on the Bill of Lading when a trailer is
+     loaded and sealed without the driver being afforded the opportunity to
+     count or inspect the freight.
+
+Carriers are responsible for the Bill of Lading carton quantities; consequently,
+shortages will result in a freight claim against the carrier. However, any unit
+discrepancies received against the packing list are the vendor's responsibility.
+
+
+IV.  PACKING LIST REQUIREMENTS
+
+The following packing list requirements apply to each shipment:
+
+
+o    Only one PO# per carton
+o    Only one PO# per packing list
+o    The packing list must be placed in a removable envelope or pouch and must
+     be attached to the outside facing of carton, not on tip, located at the
+     tail end of the trailer where possible. The carton with the packing list
+     should be clearly marked "Packing list Enclosed."
+o    The packing list must match the contents of the shipment.
+o    Packing lists for partial shipments MUST only list the units shipped.
+o    Packing lists labeled with only "PARTIAL SHIPMENT" is not acceptable.
+o    For small package carrier deliveries (i.e. UPS, RPS, Fed Ex), each carton
+     must have a copy of the complete packing list, detailing the contents of
+     the total shipment.
+
+
+                                     2 of 8
+<PAGE>
+
+An accurate and legible packing list must accompany each shipment to
+Brightpoint's facility. The packing list MUST include the following:
+
+
+o    vendor name
+     shipping address
+     city, state, and zip code
+o    Brightpoint destination
+     street address
+     city, state, and zip code
+o    Brightpoint's PO#
+o    vendor's invoice number
+o    routing used on the shipment (i.e., carrier name)
+o    product description
+o    model number/Brightpoint Part #
+o    quantity shipped per SKU
+o    number of cartons of the total shipment
+
+V.   VENDOR PACKING REQUIREMENTS
+
+All products must be packaged to conform to good packaging procedures. Proper
+packing material must be used to ensure adequate protection of product. If there
+is loss and/or damage of a product due to poor packaging, Brightpoint will file
+a claim with the appropriate carrier. In the event that a claim is not collected
+from the carrier, the claim will then be processed against the shipper, and the
+charges will be deducted from payment of invoice.
+
+
+All products must be palletized with labels facing outward. Only empty cartons
+can be neated (stacked in the middle) for the purpose of stabilizing the load.
+
+
+Product must be shipped in a standard master pack. Changes to the master carton
+must be communicated to Brightpoint's Receiving Department one week in advance
+of shipment.
+
+
+All master cartons and/or pallets received at Brightpoint's facility must
+conform to a standard Unit of Measure ("UOM"). This UOM must remain constant for
+the life of the product, until Brightpoint is notified. Notice of changes made
+to the master carton and/or standard pallet configuration will need to be sent
+to Project Manager of Operations, Brightpoint North America L.P., 501 Airtech
+Pkwy, Plainfield, IN 46168 or call (800) 952-2355 (Ext. 2202).
+
+
+Ship one item per master carton. For master cartons that contain more than one
+item, the carton must be labeled "mixed". All shipments must be in full master
+carton quantities. Partial cartons will only be accepted if it is marked as
+"partial". The amount of mixed or partial cartons must be kept to a minimum
+quantity of cartons for each shipment. Only one PO# should be shipped within a
+carton.
+
+
+Product must be loaded onto a trailer by PO#, then by SKU. Multiple purchase
+orders must not be mixed on multiple pallets or across trailers. For mixed Pos
+across pallets or across trailer please fill all pallets with the same PO and
+SKU. Mixed SKUs on a pallet must be signed accordingly.
+
+
+Palletized product must be shipped on 40" x 48" x 40" GMA 4-way pallets in
+accordance with the pallet specifications set forth below. All cartons must fit
+entirely on pallets without any overhand. Product must not be stacked higher
+than 48" on the pallet including the height of the skid.
+
+
+CONVEYABLE LOOSE PIECE CARTON SIZES AND WEIGHTS
+
+
+---------------------------------------------------------
+              Length     Width*     Height**   Weight
+---------------------------------------------------------
+Minimum       12"        7"         6"         1/2 -1 lb.
+---------------------------------------------------------
+Maximum       24"        20"        13"        45 lbs.
+---------------------------------------------------------
+Average       12"        10"        6"         3 lbs.
+---------------------------------------------------------
+
+Average length for speed and rate of calculations = 12" Clarification: The
+minimum weight for any item is1/2lb. and items over 12" in length must
+weigh1/2lb./ft of length. Therefore, the minimum weight for a 24" item is 1 lb.
+
+
+CONVEYABLE FULL CASE CARTONS AND KITS
+
+
+---------------------------------------------------------
+              Length     Width*     Height**   Weight
+---------------------------------------------------------
+Minimum       18"        10"        6"         5#
+---------------------------------------------------------
+Maximum       28"        18"        23.5"      45#
+---------------------------------------------------------
+
+Some combinations of the dimensions may be unstable when conveyed. The following
+rules apply to cartons that are in good condition and uniformly weighted:
+
+
+o    Carton width must be less than carton length..  (W<L)
+o    Carton height must be less than the carton length.  (H<L)
+o    Carton height must be less than 1.5 times the carton width.  (H<1.5 x W)
+
+VI.  PALLET  SPECIFICATIONS
+
+o    All pallets must be 40"x48" in size. o Pallet designs must emulate a GMA
+     4-way pallet.
+o    Product must not be stacked higher than 49" on the pallet including the
+     height of the skid. o Contents of cartons including part number, quantity,
+     and ESN (when applicable) must be facing outward.
+o    Product must be wrapped and secured to the pallet.
+o    When contents of pallet contain loose boxes, the boxes must be banded to
+     the pallet with steel bands. Wooden strips must also be under the bands of
+     steel on top of the boxes. This secures the weight of the product on the
+     pallet.
+o    Each pallet must contain the correct P.O. # or RA# and the Brightpoint
+     address label.
+o    All partial cartons must be marked "Partial Carton" and be taped
+
+VII.   VENDOR LABELING REQUIREMENTS
+
+A carton label must be applied to every carton. If information is preprinted on
+a carton, then information does not need to be duplicated on a carton label.
+However, all information is required in a preprinted form, carton label or both.
+Each CARTON LABEL must include the following information:
+
+
+o    Carton ID - alphanumeric; not exceed 15 characters in length; uniqueness to
+     include company prefix; code 128 symbology; ladder format.
+o    serial (ESN, MSN, IMEI or product serial number, when applicable) -
+     alphanumeric; picket fence barcode and/or 2D barcode.
+o    master carton quantities
+o    model/description
+
+Shipping labels may be in a pallet sign format unless cartons are shipped in
+loose quantities.
+
+
+                                     3 of 8
+<PAGE>
+Each SHIPPING LABEL must include the following information:
+
+o    vendors name and address
+o    Brightpoint's name and address
+o    PO#
+o    carton quantity
+o    bill of lading number
+
+On express shipments (e.g., UPS, Fed Ex, Airborne), each carton must be marked
+"CARTON X OF N", where X is the sequential carton number and N is the total
+number of cartons on shipment. All express shipments must have a carton label
+and shipping label on every unit.
+
+
+VIII.   GENERAL MERCHANDISE PACKING AND LABELING VIOLATIONS AND FEES
+
+Violation                              Fee
+
+Packaging
+---------
+o    Shipment UOM                     $10.00/CARTON
+     different than on-hand
+
+UOM
+o    More than one SKU or              $10.00/CARTON
+     purchase order within a carton
+o    Mixed SKUs across                 $10.00/CARTON
+     pallets that are not identified
+
+Labeling
+--------
+o    "Mixed" or "partial"              $10.00/CARTON
+     cartons not labeled as such
+o    Missing label from                $10.00/CARTON
+     carton
+o    Missing information               $10.00/CARTON
+     on carton label
+o    Incorrect                         $10.00/CARTON
+     information on carton label
+
+Packing List
+------------
+o    No packing list                   $100.00/SHIPMENT
+o    All packing lists                 $100.00/SHIPMENT
+     not accompanying the shipment
+o    Incomplete,                       $100.00/SHIPMENT
+     incorrect or non-readable
+     packing list
+o    More than one                     $100.00/SHIPMENT
+     purchase order per packing list
+o    Purchase order                    $100.00/SHIPMENT
+     number on packing list is
+     invalid
+
+Stacking and Master Carton Specifications
+-----------------------------------------
+o    Pallets stacked over              $100.00/PALLET
+     48" high
+o    Pallets not standard              $100.00/PALLET
+     size 40" x 48"
+o    Freight stacked on                $100.00/PALLET
+     broken pallets
+
+Other
+-----
+o    Re-palleting fee                  $10.00/CARTON
+o    Re-boxing fee                     $10.00/CARTON
+o    Purchase order needs              $100.00/SHIPMENT
+     part number added
+o    Expected quantity                 $100.00/SHIPMENT
+     needs updating
+o    Shipments received                $100.00/SHIPMENT
+     without scheduled appointments
+o    Shipments received                100.00/SHIPMENT
+     late (1 hr. past scheduled
+     appointment
+
+DEFINITIONS:
+
+"Master Carton" means a corrugated box containing multiple units with the same
+item code. Used for consolidating same item codes strictly for transporting not
+for retail.
+
+"Unit of Measure" means the pallet configuration by each/units contained in a
+Master Carton or on a full pallet.
+
+Example:
+Each/Unit: will always be one                     1
+Master Carton: How many eaches/units in the       6
+Master Carton?
+Pallet: How many eaches/units on the total        240
+pallet?
+
+
+                                     4 of 8
+<PAGE>
+
+IX.
+
+                      BRIGHTPOINT APPOINTMENT REQUEST FORM
+
+***************************
+***CIRCLE DESTINATION***
+***************************
+
+Brightpoint North America L.P.     Technical Services        CARRIER: __________
+501 Airtech Pkwy                   501 Airtech Pkwy          CONTACT: __________
+Plainfield, IN  46168              Plainfield, IN  46168     PHONE: ____________
+Tel: 317-707-2261                  Tel: 317-707-2355         FAX: ______________
+Fax: 317-707-2163                  Fax: 371-707-2383
+
+Brightpoint North America L.P.
+West Coast Distribution Center
+5360 Capital Dr.
+Reno, NV  89502
+Tel: 775-858-CELL
+Fax: 775-858-2341
+                                   **MUST HAVE CARTON BREAK DOWN PER P.O.
+                                   **PLEASE PROVIDE AN E.T.A.:
+                                                              ------------------
+
+**APPOINTMENT DATE:
+                   --------------------------------------------------------
+**APPOINTMENT TIME:
+                   --------------------------------------------------------
+**APPOINTMENT CONFIRMED WITH:
+                             ----------------------------------------------
+
+
+
+--------------------------------------------------------------------------------
+    P.O. #       # of Pallets       Vendor        Carrier        PRO/BOL #
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+
+                 ONCE THE APPOINTMENT HAS BEEN SET, ANY CHANGES
+               NEED TO BE COMMUNICATED TO THE RECEIVING DEPARTMENT
+             (I.E. CARRIER OF TRAILER #, CARTON COUNTS, P.O.s, ETC.)
+
+
+                                     5 of 8
+<PAGE>
+                    BRIGHTPOINT AIR FREIGHT NOTIFICATION FORM
+
+Brightpoint North America L.P.    Technical Services        CARRIER: ___________
+501 Airtech Pkwy                  501 Airtech Pkwy          CONTACT: ___________
+Plainfield, IN  46168             Plainfield, IN  46168     PHONE:______________
+Tel: 317-707-2261                 Tel: 317-707-2355         FAX: _______________
+Fax: 317-707-2163                 Fax: 371-707-2383
+
+Brightpoint North America L.P.
+West Coast Distribution Center
+5360 Capital Dr.
+Reno, NV  89502
+Tel: 775-858-CELL
+Fax: 775-858-2341
+                                  **MUST HAVE CARTON BREAK DOWN PER P.O.
+                                  **PLEASE PROVIDE AN E.T.A.:
+                                                             -------------------
+
+**APPOINTMENT DATE:
+                   ------------------------------------------------------
+**APPOINTMENT TIME:
+                   ------------------------------------------------------
+**APPOINTMENT CONFIRMED WITH:
+                             --------------------------------------------
+
+
+
+--------------------------------------------------------------------------------
+    P.O. #       # of Pallets       Vendor        Carrier        PRO/BOL #
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+
+
+                 ONCE THE APPOINTMENT HAS BEEN SET, ANY CHANGES
+               NEED TO BE COMMUNICATED TO THE RECEIVING DEPARTMENT
+             (I.E. CARRIER OF TRAILER #, CARTON COUNTS, P.O.s, ETC.)
+
+
+
+
+
+                                     6 of 8
+<PAGE>
+
+
+XI.
+
+--------------------------------------------------------------------------------
+            PLEASE PROVIDE THE FOLLOWING INFORMATION FOR PART NUMBERS
+                            SHIPPED TO BRIGHTPOINT.
+--------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------
+                              Master Carton
+                              Dimensions          Master          Full Pallet
+Part Number    Weight/ea.     L x W x H           Carton/ea       Quantity/ea.
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+                                     7 of 8
+<PAGE>
+XII.
+                                                                   EXAMPLE ONLY
+
+<TABLE>
+<S>                                                                                <C>
+SHIPMENT NONCONFORMANCE FORM    Disc #                                               Receiver #
+                                       ---------------------------------------                  -----------------------------------
+Product Shipped From:                                                      Form completed by:
+                     -------------------------------------------                             ---------------------------------
+Customer Name:                                                             Who has been contacted:
+              --------------------------------------------------                                  ----------------------------
+P.O. #:                                                                    When:
+       ---------------------------------------------------------                ----------------------------------------------
+B.O.L.# or Tracking #:                                                     Warehouse Code:
+                      ------------------------------------------                          ------------------------------------
+Date:                                                                      Carrier:
+     -----------------------------------------------------------                   -------------------------------------------
+
+VIOLATIONS/FEES                                                                    DETAILS/EXPLANATION
+---------------                                                                    -------------------
+PACKAGING
+---------
+____ UOM different than current on-hand UOM
+                                                                                   ------------------------------------------------
+____ More than on SKU/PO within a carton
+                                                                                   ------------------------------------------------
+____ Mixed SKU's across a pallet than are not identified
+                                                                                   ------------------------------------------------
+____ (# of cartons/errors) X $10/PER CARTON                        =      _____
+                                                                                   ------------------------------------------------
+LABELING
+--------
+____ "Mixed" or "partial" cartons no labeled as such
+                                                                                   ------------------------------------------------
+____ Missing label from carton
+                                                                                   ------------------------------------------------
+____ Missing information on carton label
+                                                                                   ------------------------------------------------
+____ Incorrect information on carton label
+                                                                                   ------------------------------------------------
+____ (# of cartons/Errors) X $10 PER CARTON                        =      ____
+                                                                                   ------------------------------------------------
+PACKING LIST
+------------
+____ No packing slip                                               =      ____
+                                                                                   ------------------------------------------------
+____ All packing lists not accompanying shipment
+                                                                                   ------------------------------------------------
+____ Incomplete, incorrect or non-readable packing list
+                                                                                   ------------------------------------------------
+____ More than one purchase order per packing list
+                                                                                   ------------------------------------------------
+____ P.O.# on packing list is invalid
+                                                                                   ------------------------------------------------
+____ (# of Errors) X $100/PER SHIPMENT
+                                                                                   ------------------------------------------------
+STACKING AND MASTER CARTON SPECIFICATIONS
+-----------------------------------------
+____ Pallets stacked over 48" high                                 =      ____
+                                                                                   ------------------------------------------------
+____ Number of Pallets not to standard size (40x48")
+                                                                                   ------------------------------------------------
+____ Freight stacked on broken pallet
+                                                                                   ------------------------------------------------
+____ (# of Errors) X $10/PER CARTON
+                                                                                   ------------------------------------------------
+OTHER
+-----
+____ Re-boxing Fee                                                 =      ____
+                                                                                   ------------------------------------------------
+____ Re-palletizing fee (Cost per carton)
+                                                                                   ------------------------------------------------
+____ (# of Errors) X $10/PER CARTON
+                                                                                   ------------------------------------------------
+____ Expected quantity needs updated                               =      ____
+                                                                                   ------------------------------------------------
+____ P.O. needs item code added
+                                                                                   ------------------------------------------------
+____ Shipments received without scheduled appointment
+                                                                                   ------------------------------------------------
+____ Shipments received late (1 br past schedule time)
+                                                                                   ------------------------------------------------
+____ (# of Errors) x $100/PER SHIPMENT
+                                                                                   ------------------------------------------------
+TOTAL $ AMOUNT CHARGED:                                                            REC. Sup./OPS Mgr. Signature:
+                       ----------------------                                                                   -------------------
+</TABLE>
+
+
+
+<PAGE>
+
+                                  ATTACHMENT 7
+
+                              BUSINESS INFORMATION
+
+
+     The following written reports will be provided by BRIGHTPOINT to NOKIA at
+     BRIGHTPOINT's ++
+
+     ++
+
+     All reports shall be provided in a format mutually agreed to by the
+     parties. Each party shall provide the other with such documentation and
+     other information available to it as may be reasonably requested by the
+     other party from time to time in order to verify the accuracy of the
+     reports provided."
+
+
+
+
+
+
+
+
+
+<PAGE>
+                                  ATTACHMENT 10
+
+                            VENDOR MANAGED INVENTORY
+                                STATEMENT OF WORK
+     1.    SCOPE
+
+Upon the Effective Date of this Amendment No.1, BRIGHTPOINT and NOKIA agree to
+institute the VMI Program, under which NOKIA will manage and own certain Product
+inventory for BRIGHTPOINT's handset distribution business located in Plainfield,
+Indiana. Under the VMI Program, BRIGHTPOINT will provide a Forecast of Products,
+pursuant to Section 2 of the Agreement, for the initial transfer of Products to
+NOK5 to be held by BRIGHTPOINT as Bailed Inventory. As BRIGHTPOINT requires
+additional Products, BRIGHTPOINT will, from time to time, deliver to NOKIA a
+BRIGHTPOINT Purchase Order (as hereinafter defined) for the issuance of Products
+to BRIGHTPOINT from NOK5 inventory. This Statement of Work describes the VMI
+Program, including scope, processes, timelines, and system input and outputs.
+Under the VMI Program, BRIGHTPOINT will not carry Product inventory on its
+financial books and NOKIA will receive ++. NOKIA will own Product inventory,
+though BRIGHTPOINT will remain in possession and/or control of the Product.
+
+  ------------------------------------------------------------------------------
+  IN SCOPE                                          OUT OF SCOPE
+  ------------------------------------------------------------------------------
+  NOKIA US Sales                                  NOKIA LTA Sales, NOKIA Canada
+                                                  Sales, NOKIA European Sales,
+                                                  NOKIA APAC sales.
+
+  ------------------------------------------------------------------------------
+  NOKIA plant US00, MX00                          All other NOKIA plants
+  ------------------------------------------------------------------------------
+  BRIGHTPOINT warehouse in Indianapolis           BRIGHTPOINT warehouse in
+                                                  Nevada or any other warehouse.
+
+  ------------------------------------------------------------------------------
+  Phone Packages                                  Transceivers and accessories
+  ------------------------------------------------------------------------------
+  SAP, NPWS, Provia, Endura, Harbigen,
+  Software Systems
+  ------------------------------------------------------------------------------
+  EDI Advanced Ship Notice (856)                  EDI Purchase Order (850)
+  ------------------------------------------------------------------------------
+
+     2.    DEFINITIONS
+
+  ------------------------------------------------------------------------------
+  EDI                                             Electronic Data Exchange -
+                                                  Electronically sending data
+                                                  from one system to another
+  ------------------------------------------------------------------------------
+  STOP                                            Stock Transport Purchase
+                                                  Order, which does not
+                                                  constitute an express
+                                                  commitment or undertaking to
+                                                  purchase Products (NOKIA SAP
+                                                  document)
+  ------------------------------------------------------------------------------
+  BRIGHTPOINT PURCHASE ORDER                      BRIGHTPOINT's full value,
+                                                  binding purchase order for
+                                                  purchase of Products from NOK5
+  ------------------------------------------------------------------------------
+  DSB                                             Demand Supply Balancing -
+                                                  Monthly process within NOKIA
+                                                  for top level forecasting
+  ------------------------------------------------------------------------------
+  SAP                                             NOKIA's Integrated Operations
+                                                  system
+  ------------------------------------------------------------------------------
+  ENDURA                                          BRIGHTPOINT's financial system
+  ------------------------------------------------------------------------------
+  PROVIA                                          BRIGHTPOINT's warehouse
+                                                  management system
+  ------------------------------------------------------------------------------
+  CPT                                             NOKIA's sales planning team
+  ------------------------------------------------------------------------------
+
+  ------------------------------------------------------------------------------
+  VMI                                             Vendor Managed Inventory
+
+  ------------------------------------------------------------------------------
+  NOK5                                            The designation of
+                                                  BRIGHTPOINT's facility located
+                                                  at 501 Airtech Parkway,
+                                                  Plainfield, Indiana in
+                                                  BRIGHTPOINT's warehouse
+                                                  system.
+  ------------------------------------------------------------------------------
+
+
+<PAGE>
+
+
+  ------------------------------------------------------------------------------
+  US17                                            The designation of
+                                                  BRIGHTPOINT's facility located
+                                                  at 501 Airtech Parkway,
+                                                  Plainfield, Indiana in NOKIA's
+                                                  system.
+  ------------------------------------------------------------------------------
+
+        3.    PROJECT TEAMS
+
+  ------------------------------------------------------------------------------
+  NOKIA  Project Owner                                 ++
+  ------------------------------------------------------------------------------
+  NOKIA  Project Manager                               ++
+  ------------------------------------------------------------------------------
+  NOKIA  Technical Manager                             ++
+  ------------------------------------------------------------------------------
+  NOKIA  Concept Owner (PDS)                           ++
+  ------------------------------------------------------------------------------
+  NOKIA  Key User                                      ++
+  ------------------------------------------------------------------------------
+  BRIGHTPOINT Project Manager                          ++
+  ------------------------------------------------------------------------------
+  BRIGHTPOINT Technical contact                        ++
+  ------------------------------------------------------------------------------
+  BRIGHTPOINT Purchasing contacts                      ++
+  ------------------------------------------------------------------------------
+
+        4.    VMI PROGRAM PROCESS
+
+4.1       Process Steps
+
+4.1.1     ++
+
+4.1.2     ++
+
+4.1.3     ++
+
+4.1.4     Subject to Section 2.1 of the Agreement, and based upon each Forecast,
+          NOKIA will calculate ++ of supply of Products ("Days of Supply") for
+          each sales package, and review current stock and analyze necessary
+          replenishment quantities held in NOK5. NOKIA will communicate
+          replenishment quantities to its authorized representative located at
+          BRIGHTPOINT's facility in Plainfield, Indiana. Upon expiration of the
+          ++ day Product inventory transition period defined in Section 2.1,
+          NOKIA agrees to maintain in NOK5 such amounts of Products equal to ++
+          of Supply.
+
+
+4.1.5     ++
+
+4.1.5A    ++
+
+4.1.5B    ++
+
+4.1.6-4.1.17  ++
+
+
+
+<PAGE>
+
+
+Flowchart of Brightpoint VMI process...
+
+++
+
+
+<PAGE>
+
+
+                                  ATTACHMENT 11
+
+                             INSURANCE REQUIREMENTS
+
+
+BRIGHTPOINT shall meet and comply with the following "Insurance Requirements",
+as stated in this Insurance Requirements Attachment:
+
+1.   BRIGHTPOINT's Obligations
+
+     a.   BRIGHTPOINT shall carry and maintain in full force and effect during
+          the term of the parties' agreement(s) at least the minimum insurance
+          coverages stated in Section 2 below.
+
+     b.   All insurance policies providing such coverage must be written on an
+          occurrence basis for worker' compensation and employer's, commercial
+          general, commercial automobile and umbrella liability coverage and on
+          a claims made basis for professional/errors and omissions and software
+          errors and omissions coverages. BRIGHTPOINT's insurance is primary to
+          any valid collectible insurance carried by the Additional Insureds
+          (defined below).
+
+     c.   The insurer(s) providing such coverages must be licensed and admitted
+          in the state(s) of BRIGHTPOINT's operations and performance of the
+          parties' agreement(s), and have a rating of "A-" and policyholder's
+          surplus size "VII" or better as listed in the then-current Best's
+          Insurance Report published by A.M. Best Company, Inc., or equivalent
+          rating from Standard & Poors or Moody's.
+
+     d.   The Commercial General Liability and Umbrella Liability insurance
+          coverages shall protect BRIGHTPOINT and NOKIA and each of the
+          Additional Insureds, where applicable, from and against claims against
+          BRIGHTPOINT and/or NOKIA for damages for personal injury, property
+          damage, bodily injury, including without limitation, mental distress
+          and anguish, and death, which may be sustained by or made against
+          BRIGHTPOINT, NOKIA, their respective directors, officers, employees
+          and agents, affiliates or sustained by any third parties, unless
+          claims are wholly due to the gross negligence or willful misconduct of
+          NOKIA.
+
+
+2.   Minimum Insurance Coverage
+
+     The required minimum insurance coverages and limits which BRIGHTPOINT shall
+     obtain and maintain shall include the following:
+
+     2.A.  Worker's Compensation and Employer's Liability:
+           -----------------------------------------------
+
+           2.A.1.   Coverage A -- Statutory Benefits
+                    Coverage for liability imposed under the Workers'
+                    Compensation laws or similar provisions of the state(s) in
+                    which BRIGHTPOINT is performing work to fulfill obligations
+                    under the parties' agreement(s), including exempt employees.
+
+           2.A.2.   Coverage B -- Employer's Liability
+                    Limits of at least:
+                    USD 500,000 Bodily Injury by Accident
+                    USD 500,000 Bodily Injury by Disease - Policy Aggregate
+                    USD 500,000 Bodily Injury by Disease - Each Employee
+
+           2.A.3.   Extensions of Coverage
+                        2.A.3.1. Other States Insurance Coverage
+           2.A.3.2. Federal Workers' Compensation Act Coverage (as applicable)
+                        2.A.3.3. Proprietors, Partners and Executive Officers
+                                 Coverage
+
+     2.B.  Commercial General Liability:
+           -----------------------------
+
+           2.B.1.  Required Coverage Limits
+                   The following coverages shall have the following minimum
+                   limits, exclusive of defense costs, which shall be paid
+                   under the insurance policy outside the limits:
+
+<PAGE>
+                    USD 2,000,000 General Annual Aggregate
+                    USD 2,000,000 Products/Completed Operations Annual Aggregate
+                    USD 2,000,000 Personal and Advertising Injury Annual
+                                  Aggregate
+                    USD 1,000,000 Each Occurrence
+                    USD    50,000 Medical Payments
+
+           2.B.2.   Extensions of Coverage
+                    2.B.2.1.  Duty to Defend
+                    2.B.2.2.  "Legally Obligated to Pay" wording
+                    2.B.2.3.  Contractual Liability Coverage
+                    2.B.2.4.  Coverage (where permissible) for Punitive Damages,
+                              Fines and Penalties
+                    2.B.2.5.  Separation of Insureds
+                    2.B.2.6.  Worldwide Coverage
+
+     2.C.  Commercial Automobile Liability:
+           --------------------------------
+
+                    2.C.1.    Required Coverage Limits
+                              USD 1,000,000 Combined Single Limit Each Accident
+                              (Bodily Injury/Property Damage)
+                    2.C.2.    Extensions of Coverage
+                              Coverage for all owned, hired and non-owned motor
+                              vehicles
+
+     2.D.  Umbrella Liability:
+           -------------------
+
+                    2.D.1.    Required Coverage Limits
+                              USD 10,000,000 Each Occurrence
+                    2.D.2.    Coverage
+                              Excess of Employer's Liability, Commercial General
+                              Liability and Commercial Automobile Liability
+                              insurance policies, including all coverages and
+                              extensions of coverage
+
+     2.D.3. Extensions of Coverage
+                                2.D.3.1. Duty to Defend
+                                2.D.3.2. "Pay on behalf of" wording
+
+     2.E.  Errors & Omissions Insurance (if applicable):
+           ---------------------------------------------
+
+                    2.E.1.      Required Coverage Limits
+                                USD 2,000,000 per claim where applicable:
+
+
+The minimum amounts of insurance required in this Section 2 may be satisfied by
+BRIGHTPOINT purchasing primary coverage in the amounts and coverages specified,
+or a separate umbrella or excess policy together with a lower limit primary
+underlying coverage. The structure of coverage is at BRIGHTPOINT's option so
+long as the total amount of insurance meets these minimum requirements.
+
+3.   Retentions
+
+     Any deductibles, self-insured retention loss limits, retentions or similar
+     obligations (collectively, "Retentions") must be disclosed on the
+     certificate of insurance provided to NOKIA. Payment of all Retentions shall
+     be the sole expense obligation of BRIGHTPOINT.
+
+4.   Additional Insured
+
+     a.    BRIGHTPOINT shall have NOKIA (including its parent, subsidiary,
+     affiliated and managed entities), its directors, officers and employees,
+     agents and assigns named as additional insureds (collectively, the
+     "Additional Insureds") under each General Liability, Automobile Liability
+     and Umbrella Liability insurance policy obtained by BRIGHTPOINT pursuant to
+     the requirements contained in this Appendix. Such additional insured status
+     shall be procured and evidenced by an "Additional Insured Endorsement" and
+     shall cover the Additional Insureds for any and all claims and legal
+     proceedings of any kind whatsoever arising out of BRIGHTPOINT's work or
+     operations (including the sale of goods to
+
+
+
+
+<PAGE>
+
+     NOKIA) performed by or on behalf of NOKIA, except for claims caused by the
+     gross negligence or willful misconduct of NOKIA. Such Additional Insured
+     Endorsement shall provide that such insurance is primary and shall not
+     contribute with any insurance or self-insurance that NOKIA has procured to
+     protect itself unless claims are wholly due to the gross negligence or
+     willful misconduct of NOKIA.
+
+     b.    Each of the insurance limits required by this Appendix shall be fully
+     paid and exhausted before NOKIA, including any and all of NOKIA's separate
+     insurance coverage, if any, including NOKIA's umbrella and/or excess
+     insurance policies, if any, becomes involved in the defense or payment of
+     any claim or legal proceeding. NOKIA's separate insurance coverages, if
+     any, shall be excess over any insurance afforded by BRIGHTPOINT in
+     compliance with the terms of this Appendix.
+
+5.   Waiver of Subrogation
+
+     Where permitted by law, BRIGHTPOINT waives and will require its insurers to
+     waive all rights of subrogation and recovery against the Additional
+     Insureds, whether sounding in contract, tort (including negligence and
+     strict liability) or otherwise, unless such damages are caused in whole or
+     in part due solely to the gross negligence or willful misconduct of NOKIA,
+     or acts or omissions of NOKIA triggering strict liability.
+
+6.   Proof of Insurance
+
+     a.   Before commencement of the parties' agreement(s) and prior to NOKIA
+          having any obligation to pay BRIGHTPOINT whatsoever, BRIGHTPOINT shall
+          provide to NOKIA a certificate of insurance (ACCORD Form 25-S (1/95),
+          or the latest edition) signed by a duly authorized officer or agent of
+          the insurer certifying that the minimum insurance coverages set forth
+          in Section 2 of this Appendix are in effect. Further, the certificate
+          of insurance must state that NOKIA will receive at least 30 days'
+          written notice of policy cancellation, non-renewal or material
+          modification. BRIGHTPOINT shall thereafter provide NOKIA, at least 30
+          days' prior to the expiration date of the cancelled, non-renewed or
+          materially modified policy, written evidence by an insurance
+          certificate that such policy has been replaced, renewed or modified
+          with no lapse in coverage by another policy which meets the minimum
+          insurance coverages set forth in Section 2 of this Appendix. If
+          BRIGHTPOINT does not provide NOKIA with such certificates of insurance
+          within 30 days after the date of the parties' agreement(s) and after
+          each policy renewal thereafter, then NOKIA may (i) suspend payments to
+          BRIGHTPOINT until evidence of required coverage is provided or (ii)
+          terminate the parties' agreement(s) or any then-current statement(s)
+          of work, work order(s), etc.
+
+     b.   NOKIA's approval of any of BRIGHTPOINT's insurance coverages does not
+          relieve or limit any of BRIGHTPOINT's obligations under the parties'
+          agreement(s), including, but not limited to, liability under the
+          indemnification and defense provisions of the parties' agreement(s)
+          for claims exceeding required insurance limits.
+
+     c.   In no event shall NOKIA's allowing BRIGHTPOINT to begin or complete
+          its obligations under the parties' agreement(s), or acceptance of any
+          such performance or payment therefor, be construed as a waiver of
+          NOKIA's right to assert a claim against BRIGHTPOINT for breach of
+          BRIGHTPOINT's obligations under this Appendix, or declare BRIGHTPOINT
+          in default of the parties' agreement(s) for failure to comply with any
+          of BRIGHTPOINT's obligations under this Appendix, all and each of
+          which are deemed material.
+
+7.   Subcontractor Requirements
+
+     BRIGHTPOINT shall require each of its subcontractors, if any and as may be
+     authorized under the parties' agreement(s) by NOKIA, to comply with all of
+     the terms of this Appendix. This includes, but is not limited to,
+     maintaining the minimum insurance coverages and limits, naming the
+     Additional Insureds as additional insureds under all liability insurance
+     policies and waiving all subrogation and other rights of recovery, if any,
+     against the Additional Insureds and any assignee thereof, whether in
+     contract or tort (including negligence and strict liability) or otherwise.
+
+
+<PAGE>
+                                  SCHEDULE 4.1
+
+                                 SHIPPING RATES
+
+
+For purposes of calculating the transportation fee specified in Section 4.1 of
+the Agreement, freight charges shall be applied at the rate of $++ per unit for
+all Products.
+
+
+
+</TEXT>
+</DOCUMENT>

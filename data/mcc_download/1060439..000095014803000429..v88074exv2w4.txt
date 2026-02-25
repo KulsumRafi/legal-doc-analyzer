@@ -1,0 +1,815 @@
+<DOCUMENT>
+<TYPE>EX-2.4
+<SEQUENCE>6
+<FILENAME>v88074exv2w4.txt
+<DESCRIPTION>EXHIBIT 2.4
+<TEXT>
+<PAGE>
+                                                                     Exhibit 2.4
+
+
+
+
+
+
+
+
+
+     ======================================================================
+
+
+
+
+                              INTELLECTUAL PROPERTY
+
+                                LICENSE AGREEMENT
+
+
+
+
+                             DATED FEBRUARY 25, 2003
+
+
+
+
+       ==================================================================
+
+
+                                       -i-
+<PAGE>
+                                TABLE OF CONTENTS
+
+<TABLE>
+<CAPTION>
+                                                                           PAGE
+<S>                                                                        <C>
+1.    DEFINITIONS......................................................      1
+      1.1   Definitions from Asset Purchase Agreement..................      1
+      1.2   Additional Definitions.....................................      1
+
+2.    LICENSE BACK OF CERTAIN TRANSFERRED IP...........................      4
+      2.1   Grant......................................................      4
+      2.2   Authorized Contracts.......................................      5
+      2.3   Limited Exclusivity........................................      5
+      2.4   Assignment of Fast Patent License..........................      5
+      2.5   Source Code................................................      6
+      2.6   Named Portals..............................................      6
+
+3.    DERIVATIVES AND RESERVATION OF RIGHTS............................      6
+      3.1   Rights to Derivatives......................................      6
+      3.2   Reservation of Rights......................................      6
+
+4.    NON-EXCLUSIVE PATENT LICENSES....................................      7
+      4.1   License From Fast..........................................      7
+
+5.    TERM.............................................................      7
+      5.1   Term.......................................................      7
+
+6.    REPORTS AND DATA.................................................      7
+      6.1   Provision of Reports.......................................      7
+      6.2   Use of and Responsibility for Report Data..................      7
+
+7.    WARRANTY DISCLAIMERS.............................................      8
+      7.1   By Company.................................................      8
+      7.2   By Fast....................................................      8
+
+8.    MISCELLANEOUS PROVISIONS.........................................      8
+      8.1   Relationship to Asset Purchase Agreement...................      8
+      8.2   Notices....................................................      8
+      8.3   Entire Agreement...........................................     10
+      8.4   No Third Party Beneficiaries...............................     10
+</TABLE>
+
+
+
+                                       ii
+<PAGE>
+                                TABLE OF CONTENTS
+
+                                   (Continued)
+
+<TABLE>
+<CAPTION>
+                                                                           PAGE
+<S>                                                                        <C>
+      8.5   Headings and Interpretation........................................10
+      8.6   Bankruptcy.........................................................10
+      8.7   Severability.......................................................10
+      8.8   Governing Law......................................................10
+      8.9   Consent to Jurisdiction............................................11
+      8.10  Assignment and Transfers...........................................11
+      8.11  Specific Performance...............................................11
+      8.12  Exhibits and Schedules.............................................11
+      8.13  Other Remedies.....................................................11
+      8.14  Counterparts.......................................................12
+</TABLE>
+
+
+                                      iii
+<PAGE>
+                     INTELLECTUAL PROPERTY LICENSE AGREEMENT
+
+      This INTELLECTUAL PROPERTY LICENSE AGREEMENT (this "Agreement") is made
+and entered into as of February 25, 2003, by and between Overture Services,
+Inc., a Delaware corporation ("Company"), and Fast Search & Transfer ASA, an
+organization organized under the laws of Norway and the Seller Subsidiaries (as
+defined below) (together, "Fast"). Company and Fast may be referred to
+individually as a "Party" or collectively as "Parties".
+
+                                    RECITALS
+
+      A. Concurrently with the execution and delivery of this Agreement, the
+Parties are entering into an Asset Purchase Agreement (the "Asset Purchase
+Agreement"), under which Fast will transfer to Company, and Company will
+acquire, the Transferred Intellectual Property Rights and Transferred
+Technology, among other things.
+
+      B. In connection with the Asset Purchase Agreement and the transfers
+and acquisitions under the Asset Purchase Agreement, effective as of the Closing
+Date, Company wishes to grant Fast a license to Transferred Technology under the
+Transferred Intellectual Property Rights, and Fast wishes to grant to Company a
+non-exclusive license under its retained Patent rights.
+
+                                    AGREEMENT
+
+      NOW, THEREFORE, in consideration of the premises and of the mutual
+covenants set forth herein, the sufficiency and receipt of which the Parties
+hereby acknowledge, the Parties hereto agree as follows:
+
+1.    DEFINITIONS
+
+      1.1  Definitions from Asset Purchase Agreement.
+
+      For the purpose of this Agreement the following capitalized terms used in
+this Agreement have the meanings set forth in the Asset Purchase Agreement:
+Business, Closing Date, Patents, Person, Software, Seller Subsidiaries,
+Technology, Transferred IP, Transferred Patents, Transferred Intellectual
+Property Rights, and Transferred Technology.
+
+      1.2  Additional Definitions.
+
+            (a) "Assignment" or "Assignable" means, when used in connection with
+the assignment or assignability of this Agreement or any license hereunder, the
+direct or indirect assignment or assumption of this Agreement or a license
+hereunder, as the case may be, including as a result of, or in connection with a
+Change of Control.
+
+            (b) "Authorized Contract" means the Development and License
+Agreement between Elsevier Science Inc. and Fast, dated November 7, 2000.
+<PAGE>
+            (c) "Company Patent License" means the patent license granted by
+Fast to Company pursuant to Section 4.1.
+
+            (d) "Change of Control" with respect to an entity means the
+occurrence of one or more of the following: (i) the acquisition by any Person
+(or related group of Persons), whether by tender or exchange offer made directly
+to the stockholders, open market purchases or any other transaction or series of
+transactions, of 50% or more of the capital stock entitled to elect the members
+of the Board of Directors or other analogous governing body of such entity; (ii)
+a merger or consolidation in which such entity is not the surviving entity,
+except for a transaction in which the securities of such entity immediately
+prior to consummation of such merger or consolidation are converted by means of
+such merger or consolidation into securities representing more than fifty
+percent (50%) of the total combined voting power of the surviving entity; or
+(iii) any reverse merger in which such entity is the surviving entity but in
+which the securities of such entity immediately prior to consummation of such
+reverse merger represent less than fifty percent (50%) of the total combined
+voting power of such entity's capital stock outstanding immediately after
+consummation of such merger; or (iv) any sale of all or substantially all of the
+assets of the entity to any Person (or related group of Persons).
+
+            (e) "Derivatives" of Technology means derivative works (as defined
+in the United States Copyright Act) and other modifications, improvements,
+fixes, enhancements, and upgrades with respect to such Technology.
+
+            (f) "Enterprise" means a business, academic or government entity
+such as a corporation, university or local government.
+
+            (g) "Enterprise Search Field" means creating, using, selling or
+distributing to Enterprises Technology or products specifically designed and
+adapted to index and search data that either (a) reside behind an Enterprise's
+firewalls and are not publicly available via a published web site, or (b) are
+proprietary to the Enterprise and not publicly available, in each case only
+where the results of indexing or search are provided only to the Enterprise for
+its use. The Enterprise Search Field excludes, without limitation, the Web
+Search Field.
+
+            (h) "Excluded Entity" means Autonomy Corporation plc., Verity, Inc.,
+Oracle Corporation, or IBM Corporation.
+
+            (i) "Existing Customer" means a customer of Fast under an Existing
+Contract.
+
+            (j) "Existing Contract" means a written contract between Fast and a
+third party customer entered into prior to the date hereof and in effect as of
+the Closing Date and unmodified (with respect to rights related to the Remaining
+Modules) since the date hereof which contract includes a specific license to a
+Remaining Module.
+
+            (k) "Fast Hosted Web Search Service" means a Web Search Service
+hosted and operated by Fast or by a third party, solely and exclusively for
+Fast's economic benefit.
+
+
+                                       2
+<PAGE>
+            (l) "Fast Patents" means patents or applications for patents that,
+at any time prior to the first anniversary of the Closing Date, are either (i)
+owned by Fast or its Subsidiaries, or (ii) with respect to which Fast or its
+Subsidiaries has right to grant to Company a license of the scope granted
+Section 4.1 without payment of material consideration to a third party (except
+for payments among Fast and its Subsidiaries, and payments to employees for
+inventions made by them while employed by Fast or its Subsidiaries), and that
+are related to the Business or Web Search Field. "Fast Patents" includes, but is
+not limited to (i) any Patent issuing from a patent application filed, or which
+would have been entitled to a filing or invention date, prior to the first
+anniversary of the Closing Date and (ii) the Patents listed in Schedule B
+hereto; provided, however, the Fast Patents do not include any Patents of Fast
+that are Transferred Patents.
+
+            (m) "Fast Patent License" means the Patent License granted to Fast
+pursuant to Section 2.1(b) and as such license may be modified in accordance
+with Section 2.4 in the event of a Change of Control of Fast.
+
+            (n) "Joint Development Agreement" means the joint development
+agreement to be entered into between the Parties hereto, on or prior to the
+Closing Date related to the joint development of "Fast Web Search 4.0" and which
+references this Agreement.
+
+            (o) "Licensed Modules" means both the Overlap Modules and the
+Remaining Modules.
+
+            (p) "Overlap Modules" means those modules of Software included in
+Transferred Technology that are included in or used in the Fast's products
+referred to as "FAST Web Search 3.4" and "Fast Data Search 3.1. or 3.2" and that
+are listed in Schedule A-2 hereto and Derivatives of the foregoing created by
+Fast in accordance the Joint Development Agreement.
+
+            (q) "Licensed Products" means a Fast product or service that is
+outside of the field of, and not specifically designed or licensed for use in,
+the Web Search Field.
+
+            (r) "Remaining Modules" means those modules of Software included in
+Transferred Technology that are included in or used in the Fast's products
+referred to as "FAST Web Search 3.4" and that are listed in Schedule A-1 hereto
+and Derivatives of the foregoing created by Fast in accordance with the Joint
+Development Agreement.
+
+            (s) "Restricted Portals" means those entities listed on Schedule C.
+
+            (t) "Subsidiary" means an entity controlled by one of the Parties,
+where "control" means ownership of 50% or more of the stock entitled to vote for
+the board of directors or other governing body of that entity.
+
+            (u) "Web Search Service" a hosted search service on the world wide
+web specifically designed and adapted to either (A) index, locate or search data
+on computer servers not defined in advance of such search and where neither the
+data nor the servers are owned by or for the benefit of Person requesting or
+executing the search including a service that uses Technology to
+
+
+                                       3
+<PAGE>
+"crawl" (or locate and index) data stored on computer servers connected to the
+world wide web or (B) return search results based on predefined criteria linked
+to information on the world wide web where neither the data nor the servers are
+owned by, or operated exclusively for the benefit of, the Person requesting or
+executing the search, and such search criteria are based, at least in part, on
+input from a Person having an ownership or other interest in such linked
+information on the world wide web, including without limitation, a "pay for
+performance" or "paid-inclusion" search service.
+
+            (v) "Web Search Field" means creating, using, selling or
+distributing Technology or products specifically designed and adapted to either
+(A) index, locate or search data on computer servers not defined in advance of
+such search and where neither the data nor the servers are owned by Person
+requesting or executing the search or (B) return search results based on
+predefined criteria linked to information on the world wide web where neither
+the data nor the servers are owned by, or operated exclusively for the benefit
+of, the Person requesting or executing the search, and such search criteria are
+based, at least in part, on input from a Person having an ownership or other
+interest in such linked information on the world wide web, including without
+limitation, a "pay for performance" or "paid-inclusion" search service. Except
+with respect to the use of the term "Web Search Field" in Section 2.1(b)(ii),
+the term "Web Search Field" shall include using Technology to "crawl" (or locate
+and index) data stored on computer servers connected to the world wide web. The
+Web Search Field includes, without limitation, any Web Search Service or
+software or hardware products designed, or adapted for, or licensed for use in,
+providing a Web Search Service.
+
+2.    LICENSE BACK OF CERTAIN TRANSFERRED IP
+
+      2.1  Grant.
+
+            (a) Effective as of the Closing Date, and subject to the terms
+hereof, Company hereby grants Fast, only under such Intellectual Property Rights
+(other than Trademarks, Uniform Resource Locators and domain names and Patents)
+as Company may have acquired under the Asset Purchase Agreement:
+
+                  (i) A fully-paid, royalty-free, irrevocable, perpetual, non
+transferable and personal (except as provided in Section 8.10),
+non-sublicensable, non-exclusive license to internally copy, use and create
+Derivatives of the Overlap Modules for the sole purpose of creating (x) Licensed
+Products, and (y) after the first anniversary of the Closing Date, a Fast Hosted
+Web Search Service.
+
+                  (ii) After the first anniversary of the Closing Date, a
+fully-paid, royalty-free, irrevocable, perpetual, non-transferable and personal
+(except as provided in Section 8.10), non-sublicensable, non-exclusive license
+to use and operate a Fast Hosted Web Search Service.
+
+                  (iii) A fully-paid, royalty-free, irrevocable, perpetual, non
+transferable and personal (except as provided in Section 8.10), license to copy
+and distribute the Overlap Modules and any Derivatives of the Overlap Modules
+created in accordance with 2.1(a)(i), in either object
+
+
+                                       4
+<PAGE>
+code or source code form, solely as an integral part of a Licensed Product;
+provided, however, under no circumstances may Fast, or shall Fast have a right
+or license to, distribute or license, directly or indirectly, the Overlap
+Modules (or any part thereof), in either source or object code form, to any
+third party as a product or service that is, is part of any product or service
+that is, is intended for, or is specifically designed for use, in the Web Search
+Field; provided however that the unintentional use by Fast of an insignificant
+part of an Overlap Module shall not be prohibited by the foregoing.
+
+                  (iv) A fully-paid, royalty-free, irrevocable, perpetual,
+non-transferable and personal (except as provided in Section 8.10),
+non-sublicensable, non-exclusive license to (x) copy the Remaining Modules and
+to distribute such Remaining Modules in object code form only to an Existing
+Customer to the sole extent necessary to fulfill Fast's obligations to such
+Existing Customer under an Existing Contract, and (y) internally create
+improvements and fixes to the Remaining Modules for the sole purpose of
+distributing improvements or fixes, in object code form only, to an Existing
+Customer that has licensed the Remaining Modules to which such improvements or
+fixes are made pursuant to an Existing Contract; provided however, except as
+provided in Section 2.2, under no circumstances shall Fast have the right to
+license any third party, including any Existing Customer, to use or otherwise
+have any rights to or with respect to the use of, the Remaining Modules in the
+Web Search Field. Under no circumstance shall Fast disclose, license or
+distribute the source code for the Remaining Modules to any third party,
+including any Existing Customer.
+
+            (b) Effective as of the Closing Date, and subject to the terms
+hereof, Company hereby grants Fast, only under rights in the Transferred Patents
+as Company may have acquired under the Asset Purchase Agreement, a fully-paid,
+royalty-free, irrevocable, perpetual, non-sublicensable, non-transferable and
+personal (except as provided in Section 2.4) non-exclusive license:
+
+                  (i) to make, have made (to the extent permitted under Section
+2.5(b)) use, import and sell the Licensed Products and operate a Fast Hosted Web
+Search Service to the extent permitted pursuant to the licenses set forth in
+Section 2.1(a); and
+
+                  (ii) to make, have made (to the extent permitted under Section
+2.5(b)), use, import and sell Licensed Products.
+
+      2.2   Authorized Contracts.
+
+      Notwithstanding Section 2.3, Fast shall be permitted to exercise the
+licenses granted in Section 2.1 for the additional purpose of fulfilling any
+Authorized Contract entered into prior to the date hereof for the term of such
+contract then in effect.
+
+      2.3   Limited Exclusivity.
+
+      For one year following the Closing Date, the license granted under Section
+2.1(a)(iii) above is exclusive (including as to Company) in the Enterprise
+Search Field; provided, however, that if Company acquires an entity (other than
+an Excluded Entity) or the assets of an entity (other than an
+
+
+                                       5
+<PAGE>
+Excluded Entity) engaged in the Enterprise Search Field then license shall, upon
+such, acquisition no longer be exclusive as to Company or such acquired entity.
+
+      2.4   Assignment of Fast Patent License.
+
+      The Fast Patent License shall not be Assignable by Fast except that in the
+event of a Change of Control of Fast and provided Fast provides Company of
+written notice within 30 days of entering into a written agreement ("Agreement
+Date") for such Change of Control specifying the entity acquiring Fast in such
+Change of Control (the "Acquiring Entity"), the Fast Patent License shall
+survive only with respect to those products and services of Fast in existence as
+of the Agreement Date and updates and new versions of such product and services
+that are substantially based on the software constituting the products or
+services existing as of the Agreement Date but only if such products or services
+do not include any software of the Acquiring Entity. In no event shall the Fast
+Patent License extend to any products or services of the Acquiring Entity
+existing prior to the date of such acquisition.
+
+      2.5   Source Code.
+
+            (a) Notwithstanding the limitation on the licensing or distribution
+of source code set forth in Section 2.1(a)(iv), where required by a customer,
+Fast shall be permitted to place into escrow a copy of the source code for the
+Licensed Modules under an agreement that provides for the release of such source
+code to a Fast licensee in the event of Fast's bankruptcy and that is otherwise
+on the same terms that govern other material Fast software.
+
+            (b) Notwithstanding the limitations set forth in Section 2.1(a)(i),
+Fast may provide a Licensed Product that includes Overlap Modules in source code
+form to a third party for the sole purpose of enabling such third party to
+develop such software provided that such developed software is not specifically
+designed for use in, or used in, or licensed for use in, the Web Search Field.
+
+      2.6   Named Portals.
+
+      Prior to the first anniversary of the Closing Date, Fast shall not offer
+to sell, or otherwise provide any of its products or services to any of the
+Restricted Portals except with the written consent of Company which consent is
+not to be unreasonably withheld.
+
+3.    DERIVATIVES AND RESERVATION OF RIGHTS
+
+      3.1   Rights to Derivatives.
+
+      As between the Parties, Fast shall own all Derivatives created by or for
+Fast (or any of its affiliates) in accordance with this Agreement ("Fast
+Derivatives"); provided, however, Fast shall only have such rights to the works
+(including the Transferred Technology) from which such Derivatives are derived
+as are expressly granted herein and may only exercise its rights in the Fast
+
+
+                                       6
+<PAGE>
+Derivatives in a manner consistent with the ownership of such underlying works
+by Company and the licenses granted in Section 2.1 hereunder. Company shall own
+all Transferred Technology and Licensed Modules, as well as any Derivatives
+created by or for Company (or any of its affiliates) ("Company Derivatives").
+
+      3.2   Reservation of Rights.
+
+      Except as expressly provided herein, no license or immunity is granted
+under this Agreement by either Party, either directly or by implication,
+estoppel or otherwise to any third parties acquiring items from either Party for
+the combination of such acquired items with other items (including items
+acquired from either Party hereto) or for the use of such combination.
+
+4.    NON-EXCLUSIVE PATENT LICENSES
+
+      4.1   License From Fast.
+
+            (a) Fast hereby grants, and shall cause its Subsidiaries to grant,
+to Company and its current and future affiliates a non-exclusive, fully-paid,
+royalty-free, in all territories in which such Fast Patents exist,
+non-transferable (except as provided in Section 8.10), irrevocable, license
+under the Fast Patents, to make, have made, use, sell, offer for sale, import
+and otherwise exploit products or services, including products or services that
+include or rely on the Transferred Technology, in all fields other than the
+Enterprise Search Field, and to use Transferred Technology (or Company
+Derivatives of such Technology) in all fields other than the Enterprise Search
+Field. The foregoing license shall not be sublicenseable by Company to third
+parties except in connection with the transfer or licensing of the Transferred
+Technology (or Company Derivatives of such Transferred Technology) to a third
+party to whom such sublicense is granted.
+
+            (b) Fast hereby grants, and shall cause its Subsidiaries to grant,
+to Company and its current and future affiliates a non-exclusive, fully-paid,
+royalty-free, in all territories in which such Fast Patents exist, irrevocable,
+non-sublicensable, license under the Fast Patents, to make, have made, use,
+sell, offer for sale, import and otherwise exploit the Transferred Technology
+including products or services that include or rely on or use Transferred
+Technology (or Company Derivatives of such Transferred Technology). The
+foregoing license shall not be transferable except as provided in Section 8.10,
+or in connection with the transfer of the Transferred Technology or Company
+Derivatives of such Transferred Technology.
+
+5.    TERM
+
+      5.1   Term.
+
+            This Agreement is effective as of the Closing Date and continues in
+perpetuity thereafter. The term of all Patent licenses granted hereunder shall
+continue until the last to expire of the Patents so licensed, all other licenses
+granted under this Agreement are perpetual.
+
+
+                                       7
+<PAGE>
+6.    REPORTS AND DATA
+
+      6.1   Provision of Reports.
+
+      For a period of one year from the Closing Date, to the extent Company has
+a right to do so, and subject to applicable legal requirements and obligations
+to third parties, Company shall provide to Fast, on a monthly basis, reports
+that include the following information: (a) query logs from "alltheweb.com;" and
+(b) information about "link cardinality" (i.e., a web graph, or how many pages
+link to a particular page and to how many pages that particular page links). Any
+or all of the data included in the foregoing reports are "Report Data". In
+exchange for the Report Data, Fast shall pay Company an amount equal to
+Company's cost for providing the reports that include Report Data, within thirty
+(30) days after the date of Company's invoice. This provision and the rights
+granted to Fast hereunder shall terminate upon a Change of Control of Fast.
+
+      6.2   Use of and Responsibility for Report Data.
+
+      The Report Data provided to Fast are Company's Confidential Information,
+and are subject to the provisions of the Asset Purchase Agreement governing
+Confidential Information. Fast may use Report Data only for its own internal
+purposes, and may not provide or disclose such Report Data to any third party.
+Fast is solely responsible for its use of the Report Data information, and will
+indemnify, defend and hold Company harmless for any liabilities, damages,
+losses, and costs arising out of or related to Fast's use or disclosure of
+Report Data (or any portion thereof). ALL REPORT DATA ARE PROVIDED AS IS AND
+WITHOUT ANY WARRANTY OF ANY KIND WHATSOEVER. COMPANY HEREBY DISCLAIMS ANY AND
+ALL IMPLIED WARRANTIES WITH RESPECT TO THE REPORT DATA.
+
+7.    WARRANTY DISCLAIMERS
+
+      7.1   By Company.
+
+      COMPANY MAKES NO WARRANTIES, EXPRESS, IMPLIED OR STATUTORY, WITH RESPECT
+TO THE TRANSFERRED TECHNOLOGY, TRANSFERRED PATENTS, LICENSED MODULES OR
+OTHERWISE. COMPANY HEREBY DISCLAIMS ALL OTHER WARRANTIES, EXPRESS, IMPLIED,
+STATUTORY OR OTHERWISE, INCLUDING WARRANTIES OF NONINFRINGEMENT,
+MERCHANTABILITY, OR FITNESS FOR A PARTICULAR PURPOSE. EXCEPT AS MAY BE PROVIDED
+IN THE ASSET PURCHASE AGREEMENT, NEITHER PARTY WILL BE LIABLE FOR INDIRECT,
+SPECIAL, INCIDENTAL, PUNITIVE OR CONSEQUENTIAL DAMAGES, ARISING IN CONNECTION
+WITH THIS AGREEMENT.
+
+      7.2   By Fast.
+
+      FAST MAKES NO WARRANTIES EXPRESS, IMPLIED OR STATUTORY UNDER THIS
+AGREEMENT WITH RESPECT TO THE LICENSES GRANTED BY IT HEREUNDER, AND FAST HEREBY
+DISCLAIMS ALL SUCH WARRANTIES, EXPRESS, IMPLIED OR
+
+
+                                       8
+<PAGE>
+STATUTORY INCLUDING WARRANTIES OF NONINFRINGEMENT, MERCHANTABILITY, OR FITNESS
+FOR A PARTICULAR PURPOSE; PROVIDED, HOWEVER, THAT THE FOREGOING DISCLAIMER SHALL
+NOT APPLY TO ANY WARRANTIES, EXPRESS, IMPLIED, STATUTORY OR OTHERWISE SET FORTH
+IN, OR UNDER, THE ASSET PURCHASE AGREEMENT.
+
+8.    MISCELLANEOUS PROVISIONS
+
+      8.1   Relationship to Asset Purchase Agreement.
+
+      This Agreement will be interpreted in connection with the Asset Purchase
+Agreement, and is part of the same series of transactions as that Asset Purchase
+Agreement. If there is a conflict between the terms of this Agreement and the
+terms of the Asset Purchase Agreement, then this Agreement controls but only
+with respect to that conflicting item.
+
+      8.2   Notices.
+
+      Notices will be deemed given if delivered personally or by pre-paid
+overnight or same-day commercial messenger or courier service, or mailed by
+registered or certified mail (return receipt requested) or sent via facsimile
+(with acknowledgment of complete transmission) to the Parties at the following
+addresses (or at such other address for a Party as shall be specified by like
+notice):
+
+            (a)   If to Company, to:
+
+                  Overture Services, Inc.
+                  74 North Pasadena Avenue, 3rd Floor
+                  Pasadena, CA 91103
+                  Attn: President and Chief Executive Officer
+                  Fax:  (626) 685 5601
+
+            with a copy to (which shall not constitute notice):
+
+                  Wilson Sonsini Goodrich & Rosati
+                  650 Page Mill Road
+                  Palo Alto, CA  94304
+                  Attn:  Selwyn B. Goldberg, Esq.
+                  Fax:  (650) 493-6811
+
+            (b)   if to Fast, to:
+
+                  Fast Search & Transfer ASA
+                  Wellesley Gateway
+                  93 Worcester Street
+                  Wellesley, MA 02481
+                  Attn: Howard Novick, Esq.
+
+
+                                       9
+<PAGE>
+                  Fax: (781) 304-2410
+
+                  with a copy to (which shall not constitute notice):
+
+                  Lucash, Gesmer & Updegrove, LLP
+                  40 Broad Street
+                  Boston, MA 02109
+                  Attn: William Contente, Esq.
+
+                  Fax: (617) 350-6878
+
+      All such notices, requests and other communications will (a) if delivered
+personally to the address as provided in this Section 8.2, be deemed given upon
+delivery, (b) if delivered by facsimile transmission to the facsimile number as
+provided for in this Section, be deemed given upon facsimile confirmation, and
+(c) if delivered by messenger or courier to the address as provided in this
+Section, be deemed given on the earlier of the first business day following the
+date sent by such messenger or courier upon receipt (in each case regardless of
+whether such notice, request or other communication is received by any other
+Person to whom a copy of such notice is to be delivered pursuant to this Section
+8.2). A Party from time to time may change its address, facsimile number or
+other information for the purpose of notices to that Party by giving notice
+specifying such change to the other Parties hereto.
+
+      8.3  Entire Agreement.
+
+      This Agreement, the Exhibits and Schedules hereto, the Ancillary
+Agreements (as defined in the Asset Purchase Agreement) and the documents and
+instruments and other agreements among the Parties constitutes the entire
+agreement among the Parties with respect to the subject matter hereof and
+thereof and supersede all prior agreements and understandings, both written and
+oral, among the Parties with respect to the subject matter hereof and thereof.
+
+      8.4   No Third Party Beneficiaries.
+
+      This Agreement is solely for the benefit of the Parties hereunder and
+their respective successors and permitted assigns. This Agreement does not
+confer upon or give to any other third party any remedy, claim, right to
+reimbursement, cause of action or other right, unless expressly provided for in
+this Agreement.
+
+      8.5   Headings and Interpretation.
+
+      The headings and table of contents used in this Agreement have been
+inserted for convenience of reference only and do not define, limit, describe,
+explain, modify, amplify or add to the interpretation, construction or meaning
+of any provision of, or scope or intent of, this Agreement nor in any way effect
+this Agreement.
+
+      8.6   Bankruptcy.
+
+
+                                       10
+<PAGE>
+      All rights and licenses granted to Party (in such capacity and for the
+purposes of this Section 8.6 only a "Licensee") pursuant to this Agreement are,
+and shall otherwise be deemed to be, for purposes of Section 365(n) of the
+United States Bankruptcy Code, 11 U.S.C. 101, et seq., licenses to rights of
+"intellectual property" as defined thereunder. Notwithstanding any provision
+contained herein to the contrary, if the Party granting such license (in such
+capacity and for the purposes of this Section only a "Licensor") is under any
+proceeding under the United States Bankruptcy Code, and the trustee in
+bankruptcy of Licensor, or Licensor, as a debtor in possession, rightfully
+elects to reject this Agreement, Licensee may, pursuant to 11 U.S.C. Section
+365(n)(1) and (2), retain any and all of the rights grated to it hereunder, to
+the maximum extent permitted by law, otherwise subject to the terms of this
+Agreement. Any purported assumption of this Agreement or of any license granted
+hereunder by the trustee in bankruptcy of Licensee, or Licensee, as a debtor in
+possession shall be considered a prohibited Assignment of this Agreement or of
+any license to Licensee, as the case may be. If Fast is in bankruptcy, or the
+equivalent status, under the laws of Norway, and the United States Bankruptcy
+Code does not apply to Fast, the Parties wish the same results and consequences
+that are set forth herein with respect to the United States Bankruptcy Code to
+apply to the maximum extent permitted under the laws of Norway.
+
+      8.7   Severability.
+
+      In the event that any provision of this Agreement or the application
+thereof, becomes or is declared by a court of competent jurisdiction to be
+illegal, void or unenforceable, the remainder of this Agreement will continue in
+full force and effect and the application of such provision to other Persons or
+circumstances will be interpreted so as reasonably to effect the intent of the
+Parties. The Parties further agree to replace such void or unenforceable
+provision of this Agreement with a valid and enforceable provision that will
+achieve, to the extent possible, the economic, business and other purposes of
+such void or unenforceable provision.
+
+      8.8   Governing Law.
+
+      This Agreement shall be governed by and construed in accordance with the
+laws of the State of California without regard to the conflicts of laws
+provisions thereof.
+
+      8.9   Consent to Jurisdiction.
+
+      Each of the Parties hereto hereby irrevocably and unconditionally submits,
+for itself and its property, to the nonexclusive jurisdiction of any California
+state court, or federal court of the United States of America, sitting in Los
+Angeles County, California, and any appellate court from any thereof, in any
+action or proceeding arising out of or relating to this Agreement or the
+agreements delivered in connection herewith or the transactions contemplated
+hereby or thereby or for recognition or enforcement of any judgment relating
+thereto, and each of the Parties hereby irrevocably and unconditionally (i)
+agrees that any claim in respect of any such action or proceeding may be heard
+and determined in such California state court or, to the extent permitted by
+law, in such Federal court, (ii) waives, to the fullest extent it may legally
+and effectively do so, any objection which it may now or hereafter have to the
+laying of venue of any such action or proceeding in any such California state or
+federal court, and (iii) waives, to the fullest extent permitted by law,
+
+
+                                       11
+<PAGE>
+the defense of an inconvenient forum to the maintenance of such action or
+proceeding in any such California state or federal court. Each of the Parties
+hereto agrees that a final judgment in any such action or proceeding shall be
+conclusive and may be enforced in other jurisdictions by suit on the judgment or
+in any other manner provided by law. Each Party to this Agreement irrevocably
+consents to service of process in the manner provided for notices herein.
+Nothing in this Agreement will affect the right of any Party to this Agreement
+to serve process in any other manner permitted by law. Fast hereby appoints
+Howard Novick, as corporate counsel (or his successor), Fast Search & Transfer,
+Inc., 93 Worchester Street, Wellesley, MA 02481, tel: (781) 304 2400, fax: (781)
+304 2410 as its agent for service of process in connection with any dispute or
+action arising hereunder.
+
+      8.10  Assignment and Transfers.
+
+      Except as otherwise expressly provided herein, neither Party may assign or
+delegate either this Agreement or any of its rights, interests, or obligations
+hereunder without the prior written approval of the other Party, except in
+connection with a Change of Control of a Party. Notwithstanding the foregoing,
+in the case of Fast an Assignment of the Fast Patent License is subject to the
+limitations set forth in Section 2.4. Subject to the foregoing, this Agreement
+shall be binding upon and shall inure to the benefit of the Parties hereto and
+their respective successors and permitted assigns.
+
+      8.11  Specific Performance.
+
+      The Parties agree that irreparable damage would occur in the event that
+any of the provisions of this Agreement were not performed in accordance with
+their specific terms or were otherwise breached. It is accordingly agreed that
+the Parties shall be entitled to an injunction or injunctions to prevent
+breaches of this Agreement and to enforce specifically the terms and provisions
+hereof in any court of the United States or any state having jurisdiction, this
+being in addition to any other remedy to which they are entitled at law or in
+equity.
+
+      8.12  Exhibits and Schedules.
+
+      The Exhibits and Schedules to this Agreement, including the Disclosure
+Schedule, form an integral part of this Agreement and are hereby incorporated by
+reference into this Agreement wherever reference is made to them to the same
+extent as if they were set out in full.
+
+      8.13  Other Remedies.
+
+      Except as otherwise provided herein, any and all remedies herein expressly
+conferred upon a Party will be deemed cumulative with and not exclusive of any
+other remedy conferred hereby, or by law or equity upon such Party, and the
+exercise by a Party of any one remedy will not preclude the exercise of any
+other remedy.
+
+      8.14  Counterparts.
+
+
+                                       12
+<PAGE>
+      This Agreement may be executed in one or more counterparts, all of which
+shall be considered one and the same agreement and shall become effective when
+one or more counterparts have been signed by each of the Parties and delivered
+to the other Party, it being understood that all Parties need not sign the same
+counterpart.
+
+                  [Remainder of page left intentionally blank]
+
+
+                                       13
+<PAGE>
+      IN WITNESS WHEREOF, each of the Parties have executed this Agreement, in
+duplicate originals, by their respective officers hereunto duly authorized, the
+day and year first above written.
+
+FAST SEARCH & TRANSFER ASA               OVERTURE SERVICES, INC.
+
+
+
+By: /s/ John M. Lervik______________     By: /s/ Ted Meisel____________________
+
+Print Name:  John M. Lervik_________     Print Name:  Ted Meisel_______________
+
+Its: CEO____________________________     Its: CEO______________________________
+
+Date:  February 25,  2003___________      Date: February 25, 2003______________
+<PAGE>
+                                  SCHEDULE A-1:
+
+                                REMAINING MODULES
+
+
+<PAGE>
+                                 SCHEDULE A-2:
+
+                                 OVERLAP MODULES
+
+
+<PAGE>
+                                   SCHEDULE B
+
+                                  FAST PATENTS
+
+
+<PAGE>
+                                   SCHEDULE C:
+
+                               RESTRICTED PORTALS
+
+
+
+</TEXT>
+</DOCUMENT>

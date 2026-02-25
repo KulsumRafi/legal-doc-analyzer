@@ -1,0 +1,1356 @@
+<DOCUMENT>
+<TYPE>EX-10.18
+<SEQUENCE>3
+<FILENAME>b45644akexv10w18.txt
+<DESCRIPTION>EX-10.18 AKAMAI SERVICES CUSTOMER AGREEMENT
+<TEXT>
+<PAGE>
+
+                                                               Exhibit No. 10.18
+
+   Confidential Materials omitted and filed separately with the Securities and
+                Exchange Commission. Asterisks denote omissions.
+
+EXHIBIT 10.18
+
+               AKAMAI -- MICROSOFT NON-STANDARD SERVICES AGREEMENT
+                              TERMS AND CONDITIONS
+
+1.       AKAMAI SERVICE RESPONSIBILITIES. During the Term (as defined in Section
+8), Akamai agrees to provide the services ordered by Customer (the "Services")
+as set forth on one or more order forms attached hereto Each order form shall
+include and define Services, pricing, service level maintenance and requirements
+and identify software (Services, pricing, service level maintenance and
+requirements and software requirements shall hereinafter be collectively
+referred to as "Order Form" or "Order Forms"). Akamai and Customer may enter
+into subsequent Order Forms which may supersede or complement prior Order Forms.
+The Order Forms, any schedules or exhibits thereto, and these Terms &
+Conditions, and any addenda hereto, shall collectively constitute the
+"Agreement" between the parties. Akamai shall provide, maintain and operate on a
+twenty-four hour per day, seven days per week, 365 days per year basis, Akamai's
+geographically distributed network of web servers (the "Akamai Network"), all
+network software and peripherals, and all Internet connectivity, as necessary to
+perform the Services in accordance with these Terms & Conditions. Akamai shall
+staff its Network Operating Center ("NOC") twenty-four hours per day, seven days
+per week, 365 days per year. Where applicable, Akamai shall deliver to Customer
+one copy of the Software (as defined in Section 3), together with all user IDs
+and passwords as necessary for Customer to access the Akamai Network and utilize
+the Services in accordance with these Terms & Conditions. Akamai shall exercise
+preventative network security measures and keep in place network security as
+reasonably necessary to monitor and protect against unauthorized access to
+Customer Content (as defined in Section 2) while on or within the Akamai
+Network. Customer acknowledges, however, that the portion of the Akamai Network
+through which Customer Content will pass and the web servers on which Customer
+Content will be stored will not be segregated or in a separate physical location
+from web servers on which Akamai's other customers' content is or will be
+transmitted or stored. Akamai shall maintain sufficient capacity on the Akamai
+Network during the Term as necessary to meet Customer's committed network usage
+as set forth in the Order Forms. Akamai shall provide Customer with such
+installation, support, training or other additional services as may be specified
+in the Order Forms or as may be requested by Customer from time to time during
+the Term and set forth in a separate addendum agreed to and executed by both
+parties.
+
+2.       CUSTOMER RESPONSIBILITIES. Customer is and shall be solely responsible
+for the creation, renewal, updating, deletion, editorial content, control and
+all other aspects of any files, software, scripts, multimedia images, graphics,
+audio, video, text, data or other objects, including any third party content or
+materials, originating or transmitted from any web site owned or operated by
+Customer, and routed to, passed through and/or stored on or within the Akamai
+Network or otherwise transmitted or routed using the Services ("Customer
+Content"). Customer owns all right, title, and interest in the Customer Content,
+or possesses or shall possess all legally valid rights in the Customer Content
+necessary for the uses of the Customer Content contemplated by these Terms &
+Conditions. Customer will not knowlingly transmit or route to the Akamai Network
+or otherwise direct via the Services any Customer Content that (a) infringes any
+copyright, trade secret, or other intellectual property right, (b) contains
+libelous, defamatory, or obscene material, or (c) otherwise violates any laws or
+regulations relating to content or content distribution. Customer shall be
+responsible for utilizing (i) the Software as provided in the Documentation
+(described in Section 3), (ii) the static string(s) provided by Akamai, or (iii)
+such other method agreed to by the parties to tag the uniform resource locator
+("URL") of the Customer Content to route such Customer Content to the Akamai
+Network (an Akamai tagged URL is hereinafter referred to as an "ARL"). In the
+event Customer has actual knowledge that any Customer Content infringes the
+intellectual property or other rights of a third party or violates any
+applicable laws or regulations (including, without limitation, laws and
+regulations relating to indecency or obscenity), Customer shall (a) remove such
+Customer Content from Customer's origin server, (b) remove the URL/tag from such
+Customer Content, or (c) remove the ARLs for such Customer Content from
+Customer's web site(s) or cause such ARLs to be removed from any third party web
+site so that it will not be routed to and not pass through the Akamai Network.
+Customer shall be solely responsible for maintaining the availability of its web
+site(s), the connectivity of its web site(s) to the Internet, and all Customer
+Content, IP addresses, domain names, hyperlinks, databases, applications and
+other resources as necessary for Customer to operate and maintain its web
+site(s) to meet Customer's business purposes and objectives.
+
+3.       SOFTWARE; RESTRICTIONS. In connection with the provision of the
+Services, Akamai will provide to Customer, as necessary, software identified in
+the applicable Order Form (the "Software") and/or documentation pertaining to
+the Services (the "Documentation"), or a combination thereof, as required by the
+Customer to use the Services. Akamai possesses the necessary rights, title and
+licenses in and to the Software and Documentation (each defined herein)
+necessary to license the Software and perform the Services hereunder. Akamai
+grants Customer a limited, nontransferable and nonexclusive license to use,
+during the Term, the Software, in object code form only, together with the
+Documentation subject to the following restrictions: (i) Customer shall use the
+Software and/or the Documentation for Customer's internal purposes only, solely
+for renaming the URL of Customer Content; (ii) Customer shall use the Software
+for Customer's internal purposes only, solely in conjunction with analyzing the
+flow of Customer Content that is delivered using the Services; (iii) Customer
+acknowledges that the Software contains certain third party software elements,
+including without limitation software relating to the mapping functions, and
+Customer is prohibited from replicating or distributing such mapping images or
+otherwise using the same other than for Customer's internal business purposes;
+and (iv) Customer shall not, for itself, any affiliate of Customer or any third
+party sell, license, assign, or transfer the Software or any Documentation;
+decompile, disassemble, or reverse engineer the Software; copy the
+
+AKAMAI   NON-STANDARD SERVICES AGREEMENT WITH TERMS AND CONDITIONS BETWEEN
+MICROSOFT CORPORATION AND AKAMAI TECHNOLOGIES, INC. (PAGE 1)
+
+<PAGE>
+
+Software or any Documentation, except that Customer may make a reasonable number
+of copies of the Software for backup purposes (provided Customer reproduces on
+such copies all proprietary notices of Akamai or its suppliers); nor remove from
+the Software or Documentation any language or designation indicating the
+confidential nature thereof or the proprietary rights of Akamai or its
+suppliers. In addition, Customer shall not alter or duplicate any aspect of the
+Software or Documentation, except as expressly permitted under these Terms &
+Conditions; assign, transfer, distribute, or otherwise provide access to the
+Software or Services to any third party; use the Software with or for the
+benefit of any third party content; or export, re-export or permit any third
+party to export or re-export the Software or Documentation where such export or
+re-export is prohibited by U.S. or other applicable law without appropriate
+licenses and clearances.
+
+4.       INTELLECTUAL PROPERTY RIGHTS. As between Customer and Akamai, Customer
+shall own all right, title and interest in and to any Customer Content. During
+the Term, Customer grants to Akamai a limited, non-exclusive, royalty-free
+license to transmit the Customer Content over the Akamai Network as contemplated
+by these Terms & Conditions and for Akamai to perform the Services as
+contemplated hereunder. These Terms & Conditions do not transfer or convey to
+Akamai or any third party any right, title or interest in or to the Customer
+Content or any associated intellectual property rights, but only a limited right
+of use revocable in accordance with the terms of these Terms & Conditions. As
+between Customer and Akamai, Akamai shall own all right, title and interest in
+and to the Software, Services and Documentation. These Terms & Conditions do not
+transfer or convey to Customer or any third party any right, title or interest
+in or to the Software, Documentation or Services or any associated intellectual
+property rights, but only a limited right of use revocable in accordance with
+these Terms & Conditions.
+
+5.       PUBLICITY; TRADEMARKS. Neither party shall issue press releases or
+publicity that relates to this Agreement without the express written consent of
+the other party. Akamai shall not use the name "Microsoft" or "Microsoft
+Corporation" in any brochures, advertisements or sales presentations without the
+express written consent of the Customer. Neither party may display or refer to
+the other party's proprietary indicia, trademarks, service marks, trade names,
+logos, symbols and/or brand names (collectively "Marks") or remove, destroy or
+alter the other party's Marks. Each party agrees that it shall not challenge or
+assist others to challenge the rights of the other party or its suppliers or
+licensors in the Marks or the registration of the Marks, or attempt to register
+any trademarks, trade names or other proprietary indicia confusingly similar to
+the Marks.
+
+6.       FEES; PRICING AND PAYMENT TERMS; TAXES. Akamai's current fees for the
+Services (including license fees, installation charges, service usage fees and
+other fees) are set forth in the attached Order Forms. Akamai reserves the right
+to amend the fees payable for the Services provided under such Order Form(s) at
+any time after the Initial Term, as set forth in each Order Form, upon sixty
+(60) days prior written notice to Customer; provided that if Akamai increases
+the fees, Customer shall be entitled to terminate this Agreement upon thirty
+(30) days prior written notice to Akamai. All prices are in United States
+dollars and do not include sales, use, value-added or import taxes, customs
+duties or similar taxes that may be assessed by any jurisdiction. Amounts due
+hereunder are payable upon receipt of invoice. Customer agrees to pay a late
+charge of 1.5% per month or the maximum lawful rate, whichever is less, for all
+amounts not paid within forty-five (45) days of receipt of invoice. Any sales or
+use taxes, duties, fees or governmental charges that (i) are owed by Customer
+solely as a result of entering into this Agreement and the payment of the fees
+hereunder, (ii) are required to be collected from Customer by Akamai under
+applicable law, and (iii) are based solely upon the amounts payable under this
+Agreement (such taxes the "Collected Taxes"), shall be stated separately as
+applicable on Akamai's invoices, if such information is available at time of
+invoicing, and/or any notice or bill thereof received by Akamai shall be
+forwarded to Customer within sixty (60) days of receipt of such notice or bill
+by Akamai. The payment for such Collected Taxes shall be remitted by Customer to
+Akamai, whereupon, and as required, Akamai shall remit to Customer official tax
+receipts indicating that such Collected Taxes have been collected by Akamai.
+Customer agrees to pay reasonable attorneys' fees and court costs incurred by
+Akamai to collect any unpaid amounts owed by Customer.
+
+7.       CONFIDENTIAL INFORMATION. The mutual Microsoft Non-Disclosure
+Agreement, dated as of April 13, 1999 (the "NDA"), entered into by and between
+the parties, applies to this Agreement as if fully set forth herein and that all
+of the terms of this Agreement (including but not limited to its existence), and
+all discussions and negotiations related thereto are considered confidential
+information under the NDA. A copy of said NDA is attached hereto as Exhibit "A".
+In addition to the confidentiality obligations of the NDA, each party agrees to
+discuss with the other party any security problems identified by the other party
+and to cooperate with the other party to prevent the disclosure of the
+confidential information to unauthorized third parties.
+
+8.       TERM AND TERMINATION.
+
+         8.1      These Terms & Conditions shall become effective with respect
+to each Order Form as of the Effective Date specified in each Order Form and
+shall remain in full force and effect for the Initial Term as specified in such
+Order Form(s). With respect to each Order Form, if the specified Initial Term is
+one (1) year or greater, then, upon expiration of the Initial Term, these Terms
+& Conditions, and any addenda hereto, with respect to the specified Services, in
+such Order Form(s) shall be renewable for additional one (1) year periods (each,
+a "Renewal Term"), provided each party delivers written notice to the other of
+renewal at least thirty (30) days prior to the expiration of the applicable term
+of the Services set forth in the specified Order Form(s). If (i) the parties do
+not renew the Initial Term or Renewal Term, as applicable, in accordance with
+the foregoing sentence and (ii) neither party delivers a written notice of
+termination to the other party, the Agreement shall continue on a month-to-month
+basis and may be terminated by either party by delivery of a written notice of
+termination to the other party at least ten (10) days prior to the first day of
+the following month.
+
+         8.2      Each Order Form shall specify an Effective Date and Initial
+Term and shall be governed by these Terms & Conditions.With respect to each
+Order Form, the Initial Term, together with any and all Renewal Terms, is
+sometimes collectively referred to as the "Term." Either party may terminate
+this Agreement in the event that the other party materially defaults in
+performing any obligation under these Terms & Conditions and such default
+continues unremedied for a period of thirty (30) days following written notice
+of default, except that either party may immediately terminate this Agreement if
+either party has breached this Agreement by violating Sections 7 and/or 11
+hereof. This Agreement shall terminate, effective upon delivery of written
+notice by either party to the other party: (i) upon the institution of
+insolvency, receivership or bankruptcy proceedings or any other proceedings for
+the settlement of debts of the other party;
+
+AKAMAI   NON-STANDARD SERVICES AGREEMENT WITH TERMS AND CONDITIONS BETWEEN
+MICROSOFT CORPORATION AND AKAMAI TECHNOLOGIES, INC. (PAGE 2)
+
+<PAGE>
+
+(ii) upon the making of an assignment for the benefit of creditors by the other
+party; (iii) upon the dissolution of the other party; or (iv) any material
+breach of this Agreement if such breach, because of the nature of the breach,
+cannot be cured. Either party may terminate the FreeFlowSM Services set forth in
+the specific Order Form(s) at any time upon thirty (30) days prior written
+notice to the other party during the Term set forth in such Order Form(s);
+provided that if Customer terminates such Services during such period, Customer
+agrees to pay Akamai all undisputed unpaid fees accrued as of the termination
+date, including without limitation, any installation, set-up and training fees.
+Except for FreeFlowSM Services and Services relating to a Live Event, either
+party may terminate the Services set forth in the specific Order Form(s) during
+the first sixty (60) days of the Initial Term set forth in such Order Form(s)
+without liability upon written notice to the other party; provided that if
+Customer terminates such Services during such period, Customer agrees to pay
+Akamai all undisputed unpaid fees accrued as of the termination date, including
+without limitation, any installation, set-up and training fees. Except for
+FreeFlowSM Services and Services relating to a Live Event, Customer may cancel
+the Service set forth in the specific Order Form(s) at any time after the first
+sixty (60) days of the Initial Term as set forth in such Order Form(s) for
+convenience upon written notice to Akamai, in which case Customer agrees to pay
+to Akamai all undisputed unpaid Service fees as set forth in the specific Order
+Form(s) accrued as of such cancellation date; plus (b) an early cancellation fee
+equal to the minimum usage fees (as set forth in such Order Form(s)) that will
+become due during the canceled portion of such Initial Term or Renewal Term, as
+applicable. Except for Services relating to a Live Event, Customer may cancel
+the Services set forth in the specific Order Form(s) at any time after any
+respective Renewal Term for convenience upon written notice to Akamai, in which
+case Customer agrees to pay to Akamai: (a) all undisputed unpaid Service fees as
+set forth in the specific Order Form(s) accrued as of such cancellation date;
+plus (b) an early cancellation fee equal to the minimum usage fees (as set forth
+in such Order Form(s)) that will become due during the canceled portion of such
+Renewal Term. The provisions of Sections 2 (with respect to Customer's
+responsibility for Customer Content), 3, 6, 7, 8, 9, 10, 11, 12 and 13 (with
+respect to third party beneficiaries, entire agreement and waiver, severability,
+non-disclosure, construction, remedies and binding effect of the Agreement)
+shall survive termination of this Agreement. All other rights and obligations of
+the parties and/or any license granted hereunder shall cease upon expiration or
+termination of this Agreement and/or the Services set forth in any Order Form.
+
+9.       DISPUTE RESOLUTION. In the case of any disputes under this Agreement,
+the parties shall first attempt in good faith to resolve their dispute
+informally, or by means of commercial mediation, without the necessity of a
+formal proceeding.
+
+10.      REPRESENTATIONS AND WARRANTIES.
+
+         10.1     AKAMAI'S REPRESENTATIONS AND WARRANTIES. Akamai represents
+and warrants to Customer as follows:
+
+                  10.1.1   Services. The Services provided will be provided in a
+workmanlike manner, consistent with industry standards. At all times while
+performing the Services, Akamai's employees and/or agents shall conduct
+themselves in a professional workman-like manner and in accordance with Akamai's
+policies and procedures. Akamai will be responsible for the acts and omissions
+of Akamai's employees and/or agents.
+
+                  10.1.2   Y2K Compliant. The Software accurately manipulates,
+processes, compares, displays and calculates date or time data from, into the
+twenty-first century, including leap years; and such Software shall not be
+interrupted or adversely affected by the manipulation, processing, comparison,
+display or calculation of dates from, into the twenty-first century, including
+leap years; but only if the Software is used in accordance with all accompanying
+Documentation and Specifications, and provided that all hardware and software
+products not provided by Akamai that are used in combination with the Software
+properly exchange date data with them. Additionally, Akamai agrees to work with
+Customer and provide all reasonably necessary information in a prompt manner
+should Customer have any inquires regarding the Year 2000 readiness of Akamai or
+any of the information or technology that is the subject of this Section.
+
+         10.2     INSURANCE.  Akamai agrees to fully comply with the insurance
+and risk allocation provisions as follows:
+
+                  10.2.1   General. Prior to the commencement of this Agreement,
+and throughout the entire Term of this Agreement, Akamai shall procure and
+maintain insurance which shall comply with the following minimum requirements.
+
+                  10.2.2   Commercial General Liability. Akamai shall obtain and
+maintain a commercial general liability insurance policy with reputable insurers
+with policy limits of not less than $1,000,000 each occurrence for bodily injury
+and $1,000,000 each occurrence for damage to property. The policy shall be the
+"occurrence" form and shall include coverage for premises and operations,
+contractual liability (including insurable contractual liability assumed in this
+Agreement), broad form property damage, and products and completed operations.
+
+                  10.2.3   Intellectual Property Liability Insurance. Vendor
+shall maintain policy limits of not less than $[**] each claim. Such insurance
+shall include coverage for infringement of proprietary rights of any third
+party, including without limitation copyright, trade secret and trademark
+infringement as related to Vendor's performance under this Agreement. Throughout
+the Term of this Agreement, the Intellectual Property Liability insurance's
+retroactive coverage date will be no later than the Effective Date of this
+Agreement. Upon expiration or termination of this Agreement, Vendor will either
+maintain an active policy, or purchase an extended reporting period, providing
+coverage for claims first made and reported to the insurance company within [**]
+years after the end of the agreement.
+
+                  10.2.4   General Requirements Applicable to Above Coverages.
+The following general requirements shall be applicable to all coverages
+referenced anywhere in this Section: (1) the above-referenced insurance policies
+shall be primary; 2) all deductibles and premiums associated with the above
+coverages shall be the responsibility of Akamai; and (3) the above referenced
+insurance limits shall not in any way limit the liability of Akamai or the
+liability of any Akamai subcontractor during their performance under this
+Agreement, 4) Microsoft and Akamai shall evaluate the coverage requirements on
+an annual basis. If, in the opinion of Microsoft, the amount of liability
+coverage is with not adequate, or is not needed, by reason of experience or the
+nature and content of Akamai's activities, Akamai shall adjust the insurance
+coverage as reasonably required by Microsoft.
+
+AKAMAI   NON-STANDARD SERVICES AGREEMENT WITH TERMS AND CONDITIONS BETWEEN
+MICROSOFT CORPORATION AND AKAMAI TECHNOLOGIES, INC. (PAGE 3)
+
+<PAGE>
+
+                  10.2.5   Certificates of Insurance. At Customer's request,
+Akamai shall provide to Customer certificates of insurance evidencing
+appropriate insurance coverage. Such certificates shall be kept current
+throughout the entire period of the Agreement. Failure by Akamai to furnish
+certificates of insurance or failure by Customer to request same shall not
+constitute a waiver by Customer of the insurance requirements set forth herein.
+
+                  10.2.6   Order of Precedence. If any of the provisions within
+this Agreement are inconsistent with the provisions set forth in the previous
+Insurance section, then the provisions set forth in the Insurance section shall
+take precedence.
+
+         10.3     MUTUAL REPRESENTATIONS AND WARRANTIES. Each party represents
+and warrants to the other party as follows:
+
+         (a)      It has full and exclusive right and power to perform according
+to the terms of this Agreement and that such performance will not materially
+violate any other agreement.
+
+         (b)      It shall materially comply with all applicable laws,
+regulations, and ordinances relating to its performance hereunder.
+
+11.      INDEMNIFICATION. Akamai shall defend, indemnify and hold harmless
+Customer from and against any suit, proceeding, assertion, damages, cost,
+liability, and expenses (including court costs and reasonable attorneys' fees)
+incurred as a result of claims by a third party against Customer and its
+affiliates, licensors, suppliers, officers, directors, employees and agents
+arising from or connected with a claim that [**]. If a claim of infringement
+under this Section 11 occurs, or if Akamai determines that a claim is likely to
+occur, Akamai shall have the right, in its sole discretion, to either: (i)
+procure for Customer the right or license to continue to use the [**] free of
+the infringement claim; or (ii) replace or modify [**] to make it non-infringing
+provided that the replacement [**] substantially conforms to Akamai's
+then-current specification for the [**]. If these remedies are not reasonably
+available to Akamai, may, at its option, terminate this Agreement and return any
+fees paid by Customer in advance. Despite the provisions of this Section 10,
+Akamai has no obligation with respect to any claim of infringement that is based
+upon or arises out of: (i) any modification to the [**] if the modification was
+not made by Akamai; or (ii) the use or combination of the [**] with any
+hardware, software, products, data or other materials not specified or provided
+by Akamai; or (iii) Customer's use of the [**] other than in accordance with the
+Documentation or Akamai's written directions or policies.
+
+Customer acknowledges that by entering into and performing its obligations under
+these Terms & Conditions, Akamai does not assume and should not be exposed to
+the business and operational risks associated with Customer's business, or any
+aspects of the operation or contents of Customer's web site(s). Accordingly,
+Customer shall defend, indemnify, and hold harmless Akamai from and against any
+suit, proceeding, assertion damages, cost, liability, and expenses (including
+court costs and reasonable attorneys' fees) incurred as a result of claims of
+customers or other third party claim against Akamai and its affiliates,
+licensors, suppliers, officers, directors, employees and agents arising from or
+connected with any Customer Content or Customer's web site(s) (including without
+limitation any activities or aspects thereof or commerce conducted thereon),
+Customer's misuse of the Services, unauthorized modification of the Software, or
+unauthorized combination of the Software with any hardware, software, products,
+data or other materials not specified or provided by Akamai.
+
+         Each party (the "Indemnifying Party") agrees to defend, hold harmless,
+and indemnify the other party and/or it's the other party's subsidiaries,
+affiliates, directors, officers, employees, agents, and assigns (the
+"Indemnified Party"), from and against any and all claims, damages, losses,
+suits, actions, demands, proceedings, expenses, and/or liabilities of any kind,
+(including but not limited to reasonable attorneys' fees incurred and/or those
+necessary to successfully establish the right to indemnification) threatened,
+asserted or filed against the Indemnified Party, to the extent that such claims
+arise out of or relate to (i) bodily injury or death to any person (and
+including specifically bodily injury or death to any employee of the Indemnified
+Party and/or any of the Indemnified Party's employees, subcontractor or agent);
+(ii) loss, theft, disappearance, or damage to property of any person which
+arises out of or is in any way connected with the Services to be performed
+and/or products provided under this Agreement; and/or (iii) the negligence or
+willful misconduct of the Indemnifying Party or the Indemnifying Party's
+employees, subcontractor or agent, which arises out of the performance by the
+Indemnifying Party of or is connected with the Services to be performed under
+this Agreement, except to the comparative extent that such claims result from
+the negligent or willful acts of the Indemnified Party.
+
+The indemnified party shall (i) promptly notify the indemnifying party in
+writing of any claim, suit or proceeding for which indemnity is claimed,
+provided that failure to so notify will not remove the indemnifying party's
+obligation except to the extent it is prejudiced thereby, and (ii) have the
+right, at its own expense, to employ separate counsel and participate in the
+defense thereof. In no event may either party enter into any third-party
+agreements which would in any manner whatsoever affect the rights of, or bind
+the other party in any manner to such third party, without the prior written
+consent of the other party.
+
+EXCEPT AS SPECIFICALLY PROVIDED IN THIS AGREEMENT, EACH PARTY EXPRESSLY
+DISCLAIMS ALL WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, TO THE FULLEST EXTENT
+PERMITTED BY LAW, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+12.      LIMITATION OF LIABILITY AND DAMAGES.
+
+EXCEPT FOR EACH PARTY'S LIABILITY ARISING OUT OF VIOLATIONS OF SECTIONS 7 AND 11
+HEREOF, LIABILITY FOR ALL CLAIMS ARISING OUT OF THESE TERMS & CONDITIONS,
+WHETHER IN CONTRACT, TORT OR OTHERWISE, SHALL NOT EXCEED THE AMOUNT OF FEES PAID
+BY CUSTOMER TO AKAMAI UNDER THIS AGREEMENT DURING THE TWELVE (12) MONTHS
+PRECEDING THE CLAIM.
+
+EXCEPT FOR VIOLATIONS OF SECTIONS 7 AND 11 HEREOF, IN NO EVENT SHALL EITHER
+PARTY BE LIABLE TO THE OTHER FOR ANY LOSS OF DATA, LOSS OF BUSINESS PROFITS,
+BUSINESS INTERRUPTION, OR OTHER SPECIAL, INCIDENTAL, CONSEQUENTIAL, PUNITIVE OR
+INDIRECT DAMAGES ARISING FROM OR IN RELATION TO THESE TERMS & CONDITIONS OR THE
+USE OF THE SERVICES, HOWEVER CAUSED AND REGARDLESS OF THEORY OF LIABILITY. THIS
+LIMITATION WILL APPLY EVEN IF SUCH PARTY
+
+AKAMAI   NON-STANDARD SERVICES AGREEMENT WITH TERMS AND CONDITIONS BETWEEN
+MICROSOFT CORPORATION AND AKAMAI TECHNOLOGIES, INC. (PAGE 4)
+
+<PAGE>
+
+HAS BEEN ADVISED OR IS AWARE OF THE POSSIBILITY OF SUCH DAMAGES.
+
+THIS SECTION 12 DOES NOT LIMIT EITHER PARTY'S RIGHT TO ENFORCE ANY OTHER
+PROVISION OF THIS AGREEMENT.
+
+13.      MISCELLANEOUS. Any notice required or permitted hereunder shall be in
+writing and shall be delivered to the contact person listed on the Order Forms
+as follows (with notice deemed given as indicated): (i) by personal delivery
+when delivered personally; (ii) by established overnight courier upon written
+verification of receipt; (iii) by facsimile transmission when receipt is
+confirmed orally; or (iv) by certified or registered mail, return receipt
+requested, upon verification of receipt. Either party may change its contact
+person for notices and/or address for notice by means of notice to the other
+party given in accordance with this Section 13. Neither party may, without the
+prior written consent of the other party, which such consent shall not be
+unreasonably withheld, assign this Agreement, in whole or in part, and any
+attempt to do so shall be a material default of this Agreement and shall be
+void. Notwithstanding the foregoing, either party may assign its rights and
+obligations under this Agreement to an affiliate or to any person or entity in
+connection with a merger, spin-off, divestiture, reorganization or sale of
+substantially all or all of the business, or part of the business; provided,
+that if either party makes such an assignment, such party shall provide
+reasonable notice to the other party of such assignment. Upon such notice of
+assignment by a party, the other party may terminate this Agreement if it is
+reasonably determined that the assignee's business or content materially: (i)
+interferes with or is detrimental to the other party's interests, reputation or
+business, (ii) subjects the other party to unfavorable regulatory action, (iii)
+infringes the intellectual property or other rights of a third party, (iv)
+contains any libelous, defamatory, or obscene material, (v) otherwise violates
+any laws or regulations relating to content or content distribution, or (vi)
+otherwise subjects the other party to liability for any reason. Except as
+otherwise provided by the foregoing, any attempt by either party to assign this
+Agreement in violation of this Section shall be a material default of this
+Agreement and the Agreement shall be void. This Agreement shall be interpreted
+according to the laws of the State of New York without regard to or application
+of choice-of-law rules or principles. This Agreement and any addenda hereto
+shall constitute the entire agreement between Akamai and Customer with respect
+to the subject matter hereof and all prior agreements, representations, and
+statements with respect to such subject matter are superceded hereby, including
+without limitation any non disclosure agreement previously executed between the
+parties. These Terms & Conditions shall control in the event of any
+inconsistency with the terms of the Order Forms or other schedules or exhibits
+attached hereto. These Terms & Conditions may be changed only by written
+agreement signed by both Akamai and Customer. No failure of either party to
+exercise or enforce any of its rights under these Terms & Conditions shall act
+as a waiver of subsequent breaches; and the waiver of any breach shall not act
+as a waiver of subsequent breaches. In the event any provision of these Terms &
+Conditions is held by a court or other tribunal of competent jurisdiction to be
+unenforceable, that provision will be enforced to the maximum extent permissible
+under applicable law, and the other provisions of these Terms & Conditions will
+remain in full force and effect. The parties further agree that in the event
+such provision is an essential part of these Terms & Conditions, they will begin
+negotiations for a replacement provision. If either party is prevented from
+performing any of its obligations under this Agreement due to any cause beyond
+the party's reasonable control, including, without limitation, an act of God,
+fire, flood, explosion, war, strike, embargo, government regulation, civil or
+military authority, acts or omissions of carriers, transmitters, providers, or
+acts of vandals, or hackers (a "force majeure event") the time for that party's
+performance will be extended for the period of the delay or inability to perform
+due to such occurrence; provided, however, that Customer will not be excused
+from the payment of any sums of money owed by Customer to Akamai for Services
+provided prior to the force majeure event; and provided further, however, that
+if a party suffering a force majeure event is unable to cure that event within
+thirty (30) days, the other party may terminate this Agreement. Neither these
+Terms & Conditions nor the Order Forms (and other schedules and exhibits
+thereto) may be construed as creating or constituting a partnership, joint
+venture, or agency relationship between the parties. Neither party will have the
+power to bind the other or incur obligations on the other's behalf without the
+other's prior written consent. These Terms & Conditions shall be construed and
+interpreted fairly, in accordance with the plain meaning of its terms, and there
+shall be no presumption or inference against the party drafting this Agreement
+in construing or interpreting the provisions hereof. Except as provided herein,
+the rights and remedies of the parties set forth in this Agreement are not
+exclusive and are in addition to any other rights and remedies available to it
+at law or in equity. These Terms & Conditions shall be binding upon and shall
+inure to the benefit of the respective parties hereto, their respective
+successors in interest, legal representatives, heirs and assigns. Each party
+shall comply with all applicable laws, regulations, and ordinances relating to
+their performance hereunder.
+
+                  [REMAINDER OF PAGE INTENTIONALLY LEFT BLANK.]
+
+AKAMAI   NON-STANDARD SERVICES AGREEMENT WITH TERMS AND CONDITIONS BETWEEN
+MICROSOFT CORPORATION AND AKAMAI TECHNOLOGIES, INC. (PAGE 5)
+
+<PAGE>
+
+[AKAMAI LOGO]
+
+                     AKAMAI FREEFLOW(SM) SERVICES ORDER FORM
+
+IN WITNESS WHEREOF, the parties have entered into this Agreement as of the
+Effective Date written below.
+
+MICROSOFT CORPORATION ("CUSTOMER")                  AKAMAI TECHNOLOGIES, INC.
+
+By /s/ Arne Josefberg                               By /s/ Don Hatfield
+   ------------------                               Name   Don Hatfield
+Name   Arne Josefberg                               Title  Director
+Title  General Manager                              Signature Date June 27, 2002
+Signature Date:  June 27, 2000
+
+Akamai Technologies, Inc. - Confidential
+
+                                       -6-
+<PAGE>
+
+[AKAMAI LOGO]
+
+                     AKAMAI FREEFLOW(SM) SERVICES ORDER FORM
+
+                                    ADDENDUM
+
+         This Addendum, dated as of November 1, 2001 (the "Addendum"), amends
+and supersedes certain of the provisions of the Akamai Microsoft Non-Standard
+Services Agreement Terms & Conditions (the "Terms & Conditions") and Akamai
+FreeFlow Services Order Form (the "Order Form") entered into by and between
+Akamai Technologies, Inc. and Microsoft, Inc., dated as of June 29, 2000, to
+which this Addendum is attached. This Addendum takes the place of and supersedes
+those portions of any article or sections of the Terms & Conditions or Order
+Form that deal with the subject matter as provided for in this Addendum and if
+the provisions of this Addendum and the Terms and Conditions or Order Form
+conflict, then the provisions of this Addendum shall control. Unless otherwise
+defined herein, all capitalized terms used herein shall have the meanings
+assigned to such terms in the Terms & Conditions or Order Form.
+
+NOW, THEREFORE, in consideration of the following as set forth in this Addendum,
+the parties agree as follows:
+
+     1.     The chart entitled "Committed Inf $/mbps" set forth in Schedule B-1
+            of the Order Form is hereby amended as follows:
+
+<TABLE>
+<CAPTION>
+Total [**] FreeFlow Usage* +         Domestic Traffic**         International Traffic**
+-----------------------------        ------------------        -----------------------
+<S>                                  <C>                       <C>
+          up to [**] Mbps                $[**]/Mbps                   $[**]/Mbps
+          [**] Mbps                      $[**]/Mbps                   $[**]/Mbps
+          [**] Mbps                      $[**]/Mbps                   $[**]/Mbps
+          [**] Mbps                      $[**]/Mbps                   $[**]/Mbps
+          [**] - above Mbps              $[**]/Mbps                   $[**]/Mbps
+</TABLE>
+
+FreeFlow Services may be used by Microsoft and Microsoft Affiliates (as defined
+below) whose origin server is located in the territories set forth on Exhibit C
+(as may be amended from time to time) provided Akamai and Microsoft accept the
+order by executing a separate Order Form for FreeFlow Service which identifies
+the Microsoft Affiliate. Akamai hereby grants any such Microsoft Affiliate the
+right to use the FreeFlow Services and associated Software in accordance with
+the Agreement (including the licensing restrictions and confidentiality
+provisions thereof); provided that, so long as Microsoft and Akamai have
+accepted the order with respect to a given Microsoft Affiliate as provided for
+above, all other rights and obligations under the Agreement shall remain with
+Microsoft and Microsoft shall be fully responsible for any breach of the
+Agreement by its Affiliates. With respect to any order relating to a given
+Microsoft Affiliate Microsoft and Akamai have accepted under the terms hereof,
+Akamai shall bill Microsoft and Microsoft shall pay for the FreeFlow Services
+used by Microsoft and any such Microsoft Affiliates. Support will be provided
+directly to Microsoft for FreeFlow Services used by Microsoft and Microsoft
+Affiliates. The parties have waived the requirement to execute a separate Order
+Form in order to accept the order with respect to msnbc.com, a Microsoft
+Affiliate, and msnbc.com may use the FreeFlow Services in accordance with the
+terms of the Agreement.
+
+For purposes of this Agreement, "Affiliate" shall mean any entity now or
+hereafter directly or indirectly controlling or controlled by or in common
+control with a party, where "control" is defined as the ownership of at least
+50% of the equity or beneficial interest of such entity or the right to vote for
+or appoint a majority of the board of directors or other governing body of such
+entity, and any other entity with respect to which party (i) sold a majority
+interest and retained at least 10% ownership of the equity or beneficial
+interest of such entity and (ii) has management or operational responsibility
+(including the authority to act on behalf of and legally bind such entity)
+(collectively "Management or Operational Responsibility") provided that such
+entity shall be deemed to be an Affiliate only so long as such "control" exists
+or party has Management or Operational Responsibility for such entity. For the
+avoidance of doubt, this Agreement shall not apply to any affiliates of
+Microsoft Affiliates.
+
+Akamai Technologies, Inc. - Confidential
+
+                                       -7-
+<PAGE>
+
+[AKAMAI LOGO]
+
+                     AKAMAI FREEFLOW(SM) SERVICES ORDER FORM
+
+Akamai subsidiaries or affiliates may provide all of the duties and/or
+obligations provided hereunder as determined by Akamai in its sole and
+reasonable discretion but Akamai shall retain responsibility for the work
+performed by such subsidiaries or affiliates. In the course of conducting its
+business, Akamai collects and processes certain information about its customers,
+business partners, prospects, suppliers and other business contacts. This
+information might include the name, business address, telephone number, e-mail
+address, and other business-related information about an employee of one of
+these entities. As a global company, Akamai's business processes extend to more
+than one country and may result in worldwide processing and use of such data
+internally, and in appropriate circumstances, with Akamai's business partners
+and subcontractors. Microsoft acknowledges and agrees that Akamai may use and
+share such information within its enterprise and with Akamai business partners
+and subcontractors solely to provide products and services to Microsoft.
+Microsoft agrees to cooperate with Akamai to fulfill the legal requirements
+necessary, if any, to make such disclosures, use, and transfer of such
+information lawful.
+
++ Based on 95th Percentile Method. Does not include [**] is billed
+separately as set forth below.
+
+** Microsoft's 95th Percentile usage level will be divided [**] for each
+measured sample according to [**]
+
+              IN WITNESS WHEREOF, and intending to be legally bound hereby, the
+         parties hereto have caused this Amendment to be duly executed and
+         delivered by their respective duly authorized officers as an instrument
+         under seal as of the date and year first above written.
+
+     Agreed and Accepted:                   Agreed and Accepted:
+
+     AKAMAI TECHNOLOGIES, INC.              MICROSOFT, INC.
+
+     By: /s/Michael Brent                   By: Greg Furman
+
+     Name: Michael Brent                    Name Greg Furman
+
+     Title: Regional Sales Manager          Title: Director - Partner Mgmt
+
+     Date: March 18, 2002                   Date: March 29, 2002
+
+Akamai Technologies, Inc. - Confidential
+
+                                       -8-
+<PAGE>
+
+[AKAMAI LOGO]
+
+                     AKAMAI FREEFLOW(SM) SERVICES ORDER FORM
+
+                                    Exhibit C
+
+[**]
+
+Akamai Technologies, Inc. - Confidential
+
+                                       -9-
+<PAGE>
+
+[AKAMAI LOGO]
+
+                     AKAMAI FREEFLOW(SM) SERVICES ORDER FORM
+
+                                    ADDENDUM
+
+         This Addendum, dated as of December 1, 2002 (the "Addendum"), amends
+and supersedes certain of the provisions of the Akamai Microsoft Non-Standard
+Services Agreement Terms & Conditions (the "Terms & Conditions") and Akamai
+FreeFlow Services Order Form (the "Order Form") entered into by and between
+Akamai Technologies, Inc. and Microsoft, Inc., dated as of June 29, 2000, as
+previously amended by the Addendum between the parties dated as of November 1,
+2001. This Addendum takes the place of and supersedes those portions of any
+article or sections of the Terms & Conditions or Order Form that deal with the
+subject matter as provided for in this Addendum and if the provisions of this
+Addendum and the Terms and Conditions or Order Form conflict, then the
+provisions of this Addendum shall control. Unless otherwise defined herein, all
+capitalized terms used herein shall have the meanings assigned to such terms in
+the Terms & Conditions or Order Form.
+
+NOW, THEREFORE, in consideration of the following as set forth in this Addendum,
+the parties agree as follows:
+
+     2.     The chart entitled "Committed Inf $/mbps" set forth in Schedule B-1
+            of the Order Form is hereby amended as follows:
+
+<TABLE>
+<CAPTION>
+              [**]                               [**]    [**]
+   TOTAL     TRAFFIC                 TOTAL     TRAFFIC  TRAFFIC
+  MONTHLY     RATE                  MONTHLY     RATE     RATE
+[**]TRAFFIC   (PER               [**] TRAFFIC   (PER     (PER
+  (MBPS)      MBPS)                  (MBPS)     MBPS)    MBPS)
+--------------------             ------------------------------
+<S>          <C>         <C>     <C>           <C>      <C>
+    [**]       $[**]     [**]        [**]      $[**]    $[**]
+--------------------             ------------------------------
+    [**]       $[**]     [**]        [**]      $[**]    $[**]
+--------------------             ------------------------------
+    [**]       $[**]     [**]        [**]      $[**]    $[**]
+--------------------             ------------------------------
+    [**]       $[**]     [**]        [**]      $[**]    $[**]
+--------------------             ------------------------------
+    [**]       $[**]     [**]        [**]      $[**]    $[**]
+--------------------             ------------------------------
+    [**]       $[**]
+--------------------
+</TABLE>
+
+         * Measurements are based on 95th Percentile Method. When a volume tier
+         is obtained, all traffic for that month is priced at that rate.
+
+         ** Does not include [**] is billed separately as set forth below, and
+         [**] pricing will remain unchanged at $[**] or $[**] per region with a
+         peak load of [**] per region.
+
+         *** [**] traffic will be charged at [**] rates.
+
+         **** For purposes of determining the applicable volume tier from the
+         above tables, Microsoft's 95th Percentile usage level will be [**] for
+         each measured sample according to [**]. For invoicing purposes [**]
+         will then be further divided, measured on 95th percentile usage, [**].
+
+         ***** FreeFlow Services may be used by Microsoft and Microsoft
+         Affiliates (as defined below) whose origin server is located in the
+         territories set forth on Exhibit C (as may be amended from time to
+         time) provided Akamai and Microsoft accept the order by executing a
+         separate Order Form for FreeFlow Service which identifies the Microsoft
+         Affiliate. Akamai hereby grants any such Microsoft Affiliate the right
+         to use the FreeFlow Services and associated Software in accordance with
+         the Agreement (including the licensing restrictions and confidentiality
+         provisions thereof); provided that, so long as Microsoft and Akamai
+         have accepted the order with respect to a given Microsoft Affiliate as
+         provided for above, all other rights and obligations under the
+         Agreement shall remain with Microsoft and Microsoft shall be fully
+         responsible for
+
+Akamai Technologies, Inc. - Confidential
+
+                                      -10-
+<PAGE>
+
+[AKAMAI LOGO]
+
+                     AKAMAI FREEFLOW(SM) SERVICES ORDER FORM
+
+         any breach of the Agreement by its Affiliates. With respect to any
+         order relating to a given Microsoft Affiliate Microsoft and Akamai have
+         accepted under the terms hereof, Akamai shall bill Microsoft and
+         Microsoft shall pay for the FreeFlow Services used by Microsoft and any
+         such Microsoft Affiliates. Support will be provided directly to
+         Microsoft for FreeFlow Services used by Microsoft and Microsoft
+         Affiliates. The parties have waived the requirement to execute a
+         separate Order Form in order to accept the order with respect to
+         msnbc.com, a Microsoft Affiliate, and msnbc.com may use the FreeFlow
+         Services in accordance with the terms of the Agreement.
+
+         For purposes of this Agreement, "Affiliate" shall mean any entity now
+or hereafter directly or indirectly controlling or controlled by or in common
+control with a party, where "control" is defined as the ownership of at least
+50% of the equity or beneficial interest of such entity or the right to vote for
+or appoint a majority of the board of directors or other governing body of such
+entity, and any other entity with respect to which party (i) sold a majority
+interest and retained at least 10% ownership of the equity or beneficial
+interest of such entity and (ii) has management or operational responsibility
+(including the authority to act on behalf of and legally bind such entity)
+(collectively "Management or Operational Responsibility") provided that such
+entity shall be deemed to be an Affiliate only so long as such "control" exists
+or party has Management or Operational Responsibility for such entity. For the
+avoidance of doubt, this Agreement shall not apply to any affiliates of
+Microsoft Affiliates.
+
+         Akamai subsidiaries or affiliates may provide all of the duties and/or
+         obligations provided hereunder as determined by Akamai in its sole and
+         reasonable discretion but Akamai shall retain responsibility for the
+         work performed by such subsidiaries or affiliates. In the course of
+         conducting its business, Akamai collects and processes certain
+         information about its customers, business partners, prospects,
+         suppliers and other business contacts. This information might include
+         the name, business address, telephone number, e-mail address, and other
+         business-related information about an employee of one of these
+         entities. As a global company, Akamai's business processes extend to
+         more than one country and may result in worldwide processing and use of
+         such data internally, and in appropriate circumstances, with Akamai's
+         business partners and subcontractors. Microsoft acknowledges and agrees
+         that Akamai may use and share such information within its enterprise
+         and with Akamai business partners and subcontractors solely to provide
+         products and services to Microsoft. Microsoft agrees to cooperate with
+         Akamai to fulfill the legal requirements necessary, if any, to make
+         such disclosures, use, and transfer of such information lawful.
+
+     2.  For purposes of clarification, the parties acknowledge that, in
+         accordance with Section 8.1 of the Terms and Conditions, the Order Form
+         and the FreeFlow Services provided thereunder are being provided on a
+         month-to-month basis and are subject to termination by either party by
+         delivery of a written notice of termination to the other party at least
+         ten (10) days prior to the first day of the following month.
+
+     3.  In consideration of the pricing being extended by Akamai in this
+         Addendum, Microsoft agrees to have all of its international downloads
+         for its download.microsoft.com website delivered using Akamai's
+         FreeFlow Service.
+
+Akamai Technologies, Inc. - Confidential
+
+                                      -11-
+<PAGE>
+
+[AKAMAI LOGO]
+
+                     AKAMAI FREEFLOW(SM) SERVICES ORDER FORM
+
+              IN WITNESS WHEREOF, and intending to be legally bound hereby, the
+         parties hereto have caused this Amendment to be duly executed and
+         delivered by their respective duly authorized officers as an instrument
+         under seal as of the date and year first above written.
+
+     Agreed and Accepted:                  Agreed and Accepted:
+
+     AKAMAI TECHNOLOGIES, INC.             MICROSOFT, INC.
+
+     By: /s/ Robert Ball                   By: /s/ Greg Furman
+
+     Name: Robert Ball                     Name: Greg Furman
+
+     Title: VP - Business Development      Title: Director - Partner Mgmt.
+
+     Date: December 16, 2002               Date: December 11, 2002
+
+Akamai Technologies, Inc. - Confidential
+
+                                      -12-
+<PAGE>
+
+[AKAMAI LOGO]
+
+                     AKAMAI FREEFLOW(SM) SERVICES ORDER FORM
+
+                                    Exhibit C
+
+[**]
+
+Akamai Technologies, Inc. - Confidential
+
+                                      -13-
+<PAGE>
+
+<TABLE>
+<S>                               <C>                             <C>                             <C>
+                  -----------                   -----------                     -----------                   -----------
+  EFFECTIVE DATE: 6-29-00         BILLING DATE: 7-13-00           INITIAL TERM: 12 months         CONTRACT
+                                                                                7-13-00 to        REF. NO.:
+                                                                                7-13-01
+                  -----------                   -----------                     -----------                   -----------
+
+                  -----------                                                                                 -----------
+PURCHASE ORDER #:                                                                                 SALES REP.: David Fox
+                  -----------                                                                                 -----------
+</TABLE>
+
+<TABLE>
+<S>                                                              <C>
+CUSTOMER INFORMATION:                                            CUSTOMER CONTACT FOR NOTICES:
+
+      Company:     Microsoft Corporation                                Name:       Neal Piliavin
+                   -------------------------------------------                      ------------------------------------------------
+      Address:     One Redmond Way                                      Phone:      425-936-8013
+                   -------------------------------------------                      ------------------------------------------------
+                   Redmond, Wa. 98052                                   Fax:
+                   -------------------------------------------                      ------------------------------------------------
+                                                                        E-Mail:     nealp@microsoft.com
+                   -------------------------------------------                      ------------------------------------------------
+BILLING CONTACT:   (if different than Customer Contact)          TECHNICAL CONTACT:
+
+      Name:                                                             Name:       Scott Hogan
+                   -------------------------------------------                      ------------------------------------------------
+      Phone:                                                            Phone:      425-705-5747
+                   -------------------------------------------                      ------------------------------------------------
+      Fax:                                                              Fax:
+                   -------------------------------------------                      ------------------------------------------------
+      E-Mail:                                                           E-Mail:     shogan@microsoft.com
+                   -------------------------------------------                      ------------------------------------------------
+UPGRADE/ACCOUNT CHANGE AUTHORITY: (Check contacts with authority to upgrade contract)
+            [X] Customer Contact    [ ] Billing Contact          [ ] Technical Contact          [ ] Other (See Special Instructions)
+</TABLE>
+
+<TABLE>
+<S>                                                              <C>
+AKAMAI SALES CONTACT:                                            AKAMAI CONTACT FOR NOTICES:
+
+       Name:       David Fox                                            Name:       General Counsel
+                   -------------------------------------------                      ------------------------------------------------
+       Address:    1400 Fashion Island Blvd. San Mateo Ca.                          Akamai Technologies, Inc.
+                   94404
+                   -------------------------------------------                      ------------------------------------------------
+       Phone:      650-627-5208                                         Address:    500 Technology Square, Cambridge, MA, 02139
+                   -------------------------------------------                      ------------------------------------------------
+       Fax:        650-627-5272                                         Phone:      617-250-3000
+                   -------------------------------------------                      ------------------------------------------------
+       E-Mail:     dfox@akamai.com                                      Fax:        617-250-3695
+                   -------------------------------------------                      ------------------------------------------------
+</TABLE>
+
+DESCRIPTION OF FREEFLOW SERVICES:
+
+      The FreeFlow Services consist of access to (i) Akamai's global network of
+      content distribution servers, (ii) the Akamai DNS system, (iii) the
+      reporting tools (to be provided as part of the FreeFlow Services or
+      licensed to Customer for a fee) and (iv) the [**] (to be provided as part
+      of the FreeFlow Services). FreeFlow Services will (a) allow Customer
+      Content designated by Customer to be tagged for inclusion on the Akamai
+      Network and delivered to web users accessing Customer's website(s) and (b)
+      enable independent monitoring by Customer of certain aspects of the Akamai
+      Network. Akamai will provide the FreeFlow Services in accordance with the
+      service levels set forth in Section I of the Service Level Agreement
+      attached to this FreeFlow Services Order Form as Exhibit A.
+
+       Customer hereby orders from Akamai Technologies, Inc., a Delaware
+       corporation, and from any of its affiliates or subsidiaries ("Akamai"),
+       the FreeFlow Services described in this FreeFlow Services Order Form, the
+       attached Service Level Agreement and any other schedules or exhibits
+       attached hereto (this "FreeFlow Services Order Form"). This FreeFlow
+       Services Order Form, which is issued pursuant and subject to the attached
+       Akamai Services Terms & Conditions ("Terms & Conditions"), shall become
+       valid when executed by Customer and accepted by an authorized
+       representative of Akamai. This FreeFlow Services Order Form, Terms &
+       Conditions, any other Akamai services order form(s), and any addenda
+       thereto, executed by the parties, shall collectively constitute the
+       "Agreement" between the parties. This Agreement is effective as of the
+       last date of signature set forth on this FreeFlow Services Order Form,
+       unless otherwise agreed to by the parties and set forth in the "Special
+       Instructions" section of this FreeFlow Services Order Form (the
+       "Effective Date"). Billing for FreeFlow Services set forth on this
+       FreeFlow Services Order Form shall commence two weeks after the Effective
+       Date (the "Billing Date") and Customer shall be billed monthly. The
+       initial term of this Agreement is for a term of one (1) year from the
+       Billing Date (the "Initial Term"), renewable pursuant to the Terms &
+       Conditions. Capitalized terms used in this FreeFlow Services Order Form
+       and not otherwise defined have the meanings ascribed to them in the Terms
+       & Conditions.
+
+       CUSTOMER AND AKAMAI AGREE THAT THE TERMS AND CONDITIONS OF THIS AGREEMENT
+       SUPERSEDE ANY PROVISIONS OF ANY CUSTOMER DRAFTED PURCHASE ORDER AND
+       SUPERSEDE ALL PROPOSALS, WRITTEN OR ORAL, AS WELL AS OTHER COMMUNICATIONS
+       BETWEEN CUSTOMER AND AKAMAI RELATING TO THIS AGREEMENT. IN THE EVENT OF
+       ANY CONFLICT BETWEEN THE TERMS OF THIS FREEFLOW SERVICES ORDER FORM,
+       SERVICE LEVEL AGREEMENT AND THE TERMS & CONDITIONS, THE TERMS &
+       CONDITIONS SHALL TAKE PRECEDENCE.
+
+<TABLE>
+<CAPTION>
+<S>                                                             <C>
+ACCEPTED BY CUSTOMER:                                           ACCEPTED BY AKAMAI:
+-------------------------------------------------------         -------------------------------------------------------------------
+SIGNATURE   /s/ ARNE JOSEFBERG                                  SIGNATURE /s/ DON HATFIELD
+
+-------------------------------------------------------         -------------------------------------------------------------------
+NAME        ARNE JOSEFBERG        DATE  06/29/2000              NAME      DON HATFIELD                       DATE 06/30/2000
+
+-------------------------------------------------------         -------------------------------------------------------------------
+TITLE       GENERAL MANAGER                                     TITLE     DIRECTOR
+</TABLE>
+
+Akamai Technologies, Inc. - Confidential
+
+                                      -14-
+<PAGE>
+
+AKAMAI PRODUCTS & SERVICES CONFIGURATION AND DESCRIPTIONS
+
+<TABLE>
+<CAPTION>
+SUMMARY OF CHARGES:
+-----------------------------------------------------------------------------------------------------------------------------------
+                                                                                                          ONE TIME      RECURRING
+                                                                                                            FEES           FEES
+---------------------------------------------------------------------------------------------------------------------------------
+<S>                                   <C>                                                               <C>          <C>
+                     ACTIVATION FEE:  One-time fee after activation is complete ($[**] per Mbps;
+                                      $[**] minimum)                                                       NA
+---------------------------------------------------------------------------------------------------------------------------------
+                     PRICE PER MBPS:  Rate per Mbps for FreeFlow Services  $ See Schedule B 1______
+---------------------------------------------------------------------------------------------------------------------------------
+   COMMITTED INFORMATION RATE (CIR):  Minimum Committed Monthly Usage of
+                                      FreeFlow Services (in Mbps)                   ____[**]mbps__
+---------------------------------------------------------------------------------------------------------------------------------
+    MONTHLY RECURRING FREEFLOW FEES:  Monthly fees billed in advance (based on CIR) = Price per                          SEE
+                                      Mbps x CIR                                                                     SCHEDULE B1
+---------------------------------------------------------------------------------------------------------------------------------
+             PERFORMANCE MONITORING:  Keynote                                                                            NA
+---------------------------------------------------------------------------------------------------------------------------------
+                                      Akanote(TM) - Independent Performance Reporting                                    NA
+---------------------------------------------------------------------------------------------------------------------------------
+                    REPORTING TOOLS:  Akamai Reporter(TM)                                                               $[**]
+---------------------------------------------------------------------------------------------------------------------------------
+                                      Akamai traffic Analyzer(TM)                                                        NA
+---------------------------------------------------------------------------------------------------------------------------------
+         PROFESSIONAL SERVICES FEES:  Web Integration Consulting Fees                                   SEE BELOW
+---------------------------------------------------------------------------------------------------------------------------------
+          AKAMAIZATION(TM) SOFTWARE:  LAUNCHER(TM), Akamaizer(TM), Akamai Adapter(TM) or Akamai static
+                                      strings                                                              NA
+=================================================================================================================================
+            SUB-TOTAL ONE TIME FEES:
+---------------------------------------------------------------------------------------------------------------------------------
+                        ADJUSTMENTS:  Adjustments for One Time Fees (if applicable)                        NA
+---------------------------------------------------------------------------------------------------------------------------------
+                TOTAL ONE TIME FEES:
+---------------------------------------------------------------------------------------------------------------------------------
+   SUB-TOTAL MONTHLY RECURRING FEES:                                                                                 SEE SCHEDULE
+                                                                                                                          B1
+---------------------------------------------------------------------------------------------------------------------------------
+                        ADJUSTMENTS:  Adjustments for Monthly Recurring Fees (if applicable)                              NA
+---------------------------------------------------------------------------------------------------------------------------------
+       TOTAL MONTHLY RECURRING FEES:                                                                                 SEE SCHEDULE
+                                                                                                                          B1
+---------------------------------------------------------------------------------------------------------------------------------
+</TABLE>
+
+METHODS FOR BILLING CIR:
+
+     -    Committed Information Rate fees are billed in advance using the 95th
+          Percentile Method.
+
+     -    For purposes of this Agreement, the "95th Percentile Method" shall
+          mean the process of (i) measuring actual data transmission in Mbps
+          over 5 minute intervals, (ii) ranking such measurements from largest
+          to smallest, (iii) discarding the largest 5% of the measurements; and
+          (iv) billing based on the measurement at the 95th percentile.
+
+     -    Bandwidth usage in excess of two (2) times the actual 95th percentile
+          usage in a month, as defined above, during the remaining 5% period of
+          a month, as defined above, will be billed at a rate of $.[**] per
+          megabyte transferred (the "Additional Fees"). These Additional Fees
+          will be in addition to the fees billed for the 95th percentile
+          bandwidth usage during the month. [**] during the month, [**] the 95th
+          percentile bandwidth usage [**]. Additionally, if the 5% period
+          bandwidth usage in any given month, is consistent with following month
+          95th percentile usage, Akamai may, in its sole discretion, waive the
+          Additional Fees for any given month.
+
+     -    Changes to the types of services, amount or frequency of services, and
+          other similar factors may result in overages or surcharges.
+
+SPECIAL INSTRUCTIONS:
+
+     *This Agreement will serve as a global purchase agreement for Microsoft and
+     subsidiaries.
+
+     This Order Form will cover the Free Flow services only; Customer shall be
+     required to execute a separate Order Form for any other products and
+     services provided by Akamai.
+
+     Commencing on and until termination of the Agreement, the base minimum
+     Committed Information Rate ("CIR") with which Customer agrees to maintain
+     with Akamai is [**]. Customer has the discretion to increase CIR at any
+     time, but cannot decrease below its monthly scheduled CIR. Akamai Account
+     Management and the Customer contract administrator will reconcile billing
+     on a monthly and quarterly basis.
+
+     Customer's bill will be reviewed monthly in arrears and if Customer exceeds
+     this bandwidth threshold in any given month, Customer's bill will be
+     reconciled in accordance with the actual usage based on the payment
+     schedule set forth in Schedule B1 and credited for the difference. Such
+     credits [**] at the end of this Agreement.
+
+     Schedule B1 prices are set at [**] increments. If actual exceeds the [**]
+     increments based on the 95th percentile model sustained bandwidth, customer
+     will qualify for the next level of pricing.
+
+     * Customer will be assigned a dedicated account team to serve as a
+     centralized point of contact for all Properties to address all issues with
+     respect to billing and customer care. In addition, based on the level the
+     of Customer's issue, Customer shall receive support from Akamai's Customer
+     Care team, [**], and the Network Operations Center (the "NOC"). Akamai`s
+     Customer Care and the NOC will provide customer support to Customer 24
+     hours a day, 7 days a week, 365 days a year.
+
+Akamai Technologies, Inc. - Confidential
+
+                                      -15-
+<PAGE>
+
+     Effective June 29, 2000, all existing FreeFlow Services Agreement with
+     Customer will be automatically superseded by the terms of this Agreement.
+
+     Web integration and consulting fees and/or On-site Installation fee shall
+     be billed at $[**] per day.
+
+     As part of the Services, Akamai shall grant Customer the right to use and
+     provide Customer with a copy of the [**]. See Schedule A for [**]
+     description.
+
+Akamai Technologies, Inc. - Confidential
+
+                                      -16-
+<PAGE>
+
+                                    EXHIBIT A
+
+                        STANDARD SERVICE LEVEL AGREEMENT
+
+I.       SERVICE LEVELS AND CREDITS
+
+         Akamai agrees to provide a level of service demonstrating:
+
+         (a)      Measurable Performance Enhancement: The Akamai FreeFlow
+                  service will deliver content measurably faster than the
+                  Customer's web site.
+
+         (b)      100% Uptime: The Akamai FreeFlow service will serve content
+                  100% of the time.
+
+         (c)      Credits: If the Akamai FreeFlow service fails to meet either
+                  of the above service levels, the Customer will receive a
+                  credit equal to fees for the day in which the failure occurs.
+
+II.      SLA MONITORING METHODOLOGY
+
+         The following methodology will be employed to measure FreeFlow service
+         availability and performance enhancement:
+
+         Agents and Polling Frequency
+
+         (a)      From six (6) geographically and network-diverse locations in
+                  major metropolitan areas, Akamai will simultaneously poll a
+                  test file residing on the Customer's production servers and on
+                  Akamai's network
+
+         (b)      The polling mechanism will perform two (2) simultaneous http
+                  GET operations:
+
+                           one GET operation will be performed on a test file
+                           residing on the appropriate customer server (e.g.,
+                           http://www.customerxyz.com/images/test/gif.com
+
+                           the other GET operation will be performed from the
+                           Akamai Free Flow Servicegif http://
+                           a564.g.akamaitech.net/7/564/24/2c1db485/
+                           www.customerxyz.com/images/test gif.
+
+         (c)      The Akamaized test GIF must be of typecode 7 to ensure that it
+                  is a live object.
+
+         (d)      The test GIF will be a file of 20 Kbytes or greater in size.
+
+         (e)      Polling will occur at approximately 12-minute intervals.
+
+         (f)      Based on the http GET operations described in II(b) above, the
+                  response times received from the two sources, (a) the Customer
+                  server, and (b) the Akamai network, will be compared for the
+                  purpose of measuring performance metrics and Outages.
+
+III.     PERFORMANCE METRIC
+
+         The performance metric will be based on a daily average of performance
+         for the FreeFlow service and the Customer's production web server,
+         computed from data captured across all regions and hits. Each time will
+         be weighted to reflect peak traffic conditions or "primetime" usage.
+         The primetime period is 10 AM to 8 PM EST. All times recorded during
+         this period will be weighted by a factor of three. If on a given day
+         the Akamai weighted daily average time exceeds the Customer's weighted
+         daily average time, then the Customer will receive a credit equivalent
+         to fees for that day of service.
+
+IV.      OUTAGES
+
+         An "Outage" is defined as a 12-minute period of consecutive failed
+         attempts by a single agent to "get" a file from the FreeFlow network
+         while succeeding to "get" the test file from the Customer web site. If
+         an Outage is identified by this method, the customer will receive a
+         credit equivalent to the fees for the day in which the failure
+         occurred.
+
+Akamai Technologies, Inc. - Confidential
+
+                                      -17-
+<PAGE>
+
+                                   SCHEDULE A
+
+[**] SPECIFICATION DOCUMENT
+
+PURPOSE OF DOCUMENT:
+
+         To document the proposed functionality of the [**]. The intention is to
+         properly communicate functionality expectations to ensure a smooth and
+         successful implementation of Akamai's FreeFlow service.
+
+SYSTEM BENEFITS:
+
+     -   By installing Akamai's FreeFlow [**] Microsoft's [**], Microsoft will
+         [**] Microsoft content.
+
+     -   Microsoft will have [**] Akamai [**].
+
+     -   [**] Microsoft [**] Microsoft [**].
+
+     -   Akamai's [**]
+
+FUNCTIONALITY REQUIREMENTS:
+
+     -   Microsoft will be [**] Microsoft [**] FreeFlow [**]Akamai's [**]
+         Microsoft [**] Akamai [**] Microsoft [**] Microsoft [**] Akamai [**]
+         Microsoft may [**] FreeFlow will [**] described in the next paragraph.
+
+     -   Microsoft will have [**] of Microsoft [**] Microsoft [**] Microsoft
+         [**] Microsoft [**] Akamai [**]. The Akamai FreeFlow system will [**]
+         Microsoft [**]. For Example, Microsoft may [**] Microsoft [**]
+         Microsoft [**] Akamai [**] Microsoft [**] Akamai [**].
+
+     -   Microsoft will [**] which will be [**]. This will allow Microsoft [**]
+         to be [**], Microsoft will also have the [**]. Example: Microsoft [**]
+         Microsoft [**] Microsoft [**] Microsoft [**] Microsoft [**] will be
+         [**] MSN dial-up customers [**] Microsoft [**]FreeFlow [**]will be for
+         [**] will be [**].
+
+Akamai Technologies, Inc. - Confidential
+
+                                      -18-
+<PAGE>
+
+MICROSOFT SCHEDULE B1
+Microsoft Pricing
+For Akamai FreeFlow Service
+
+<TABLE>
+<CAPTION>
+--------------------------------------------------------------------------------------------------------------------------------
+                    2000                                                        2001
+                    Jun       Jul       Aug       Sep       Nov       Dec       Jan       Feb       Mar       Apr       May
+                    15        15        15        15        15        15        15        15        15        15        15
+<S>                 <C>       <C>       <C>       <C>       <C>       <C>       <C>       <C>       <C>       <C>       <C>
+Price per mbps      [**]      [**]      [**]      [**]      [**]      [**]      [**]      [**]      [**]      [**]      [**]
+                    ------------------------------------------------------------------------------------------------------------
+CIR*                [**]      [**]      [**]      [**]      [**]      [**]      [**]      [**]      [**]      [**]      [**]
+                    ------------------------------------------------------------------------------------------------------------
+Monthly
+Commitment          [**]      [**]      [**]      [**]      [**]      [**]      [**]      [**]      [**]      [**]      [**]
+--------------------------------------------------------------------------------------------------------------------------------
+</TABLE>
+
+* Commencing on billing term start date. Base minimum commitment Microsoft
+agrees to maintain with Akamai is [**] mbps over the life of the contract.
+
+Microsoft has the discretion to increase CIR at any time but cannot decrease
+below its monthly CIR.
+
+Akamai account management and Microsoft contract administrator will reconcile
+the billing on a monthly and quarterly basis.
+
+Customer's bill will be reviewed monthly in arrears and if customer exceeds this
+bandwidth threshold in any given month, Customer's bill will be reconciled in
+accordance with the actual usage based on the payment schedule set forth in
+Schedule B1 and credited for the difference.
+
+<TABLE>
+<CAPTION>
+Committed Inf      $ mbps
+<S>                <C>
+  [**]              [**]
+  [**]              [**]
+  [**]              [**]
+  [**]              [**]
+  [**]              [**]
+  [**]              [**]
+</TABLE>
+
+Microsoft Pricing Schedule B1, based on aggregate demand
+
+<TABLE>
+<S>         <C>       <C>       <C>       <C>      <C>       <C>       <C>
+-------------------------------------------------------------------------------
+[**]
+
+                           Monthly Commitment [xx] Rate (CIR)
+-------------------------------------------------------------------------------
+            [**]      [**]      [**]      [**]     [**]      [**]      [**]
+</TABLE>
+
+Monthly Commitment Information Rate (CIR)
+
+Schedule B1 prices are set at mbps increments. If actual usage exceeds the
+increments based on the 95th percentile method sustained bandwidth, Customer
+will qualify for the next level of pricing.
+
+Akamai Technologies, Inc. - Confidential
+
+                                      -19-
+<PAGE>
+
+Akamai [**] Feature Pricing
+
+For each calendar quarter, Customer in its sole discretion shall elect to have
+the Akamai [**] Feature billed at either (i) $[**] per mbps served per month or
+(ii) at flat fee per month of $[**] per Data Center. For each calendar quarter,
+customer must notify Akamai of the pricing terms it elects prior to the first
+day of such calendar quarter. The elected pricing feature shall remain in effect
+for the remainder of the calendar quarter. If customer fails to elect pricing
+feature prior to the first day of a calendar quarter, the pricing feature for
+the applicable calendar quarter will default to the pricing for the previous
+quarter.
+
+Akamai Technologies, Inc. - Confidential
+
+                                      -20-
+
+</TEXT>
+</DOCUMENT>

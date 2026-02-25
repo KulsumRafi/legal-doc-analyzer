@@ -1,0 +1,1003 @@
+<DOCUMENT>
+<TYPE>EX-10.25
+<SEQUENCE>12
+<FILENAME>y84689exv10w25.txt
+<DESCRIPTION>GLOBAL SOLUTIONS AGREEMENT
+<TEXT>
+<PAGE>
+
+                                                                   EXHIBIT 10.25
+
+                                                                    CONFIDENTIAL
+
+[REUTERS LOGO]
+
+CONTRACT NO.
+CLIENT NO.      Instinet
+
+                           GLOBAL SOLUTIONS AGREEMENT
+
+
+REUTERS LIMITED (REUTERS)               CLIENT:          :        Instinet Group
+                                                          (CLIENT)
+
+PRINCIPAL OFFICE:  85 Fleet Street,     PRINCIPAL OFFICE: 3 Times Square,
+                   London, EC4P 4AJ                       New York, NY 10036
+
+INCORPORATION:     England              INCORPORATION:   Delaware
+
+REGISTERED NUMBER: 145516               REGISTERED NUMBER:  N/A
+
+
+This Global Solutions Agreement consists of the attached Master Terms and
+Conditions and any Addenda and/or Statements of Work. Together, these documents
+are referred to as the AGREEMENT.
+
+By signing below, each party agrees that it has read the Agreement and will be
+bound by it with effect from [enter date the Agreement takes effect]. This date
+is referred to as the EFFECTIVE DATE.
+
+REUTERS LIMITED                         INSTINET GROUP [CLIENT]
+
+SIGNED BY: /s/ Devin Wenig              SIGNED BY: /s/ Jean-Marc Bouhelier
+
+PRINT NAME: Devin Wenig                 PRINT NAME: Jean-Marc Bouhelier
+
+TITLE:                                  TITLE: Executive Vice President
+
+DATE OF SIGNATURE: March 14, 2003       DATE OF SIGNATURE: March 14, 2003
+
+<PAGE>
+                                                                    Confidential
+
+[REUTERS LOGO]
+
+                           MASTER TERMS AND CONDITIONS
+
+Reuters and Client agree as follows:
+
+1. DEFINITIONS AND SCOPE OF THE AGREEMENT
+
+1.1 Definitions
+
+ACCEPTANCE PERIOD is defined in Clause 4.3.
+
+ADDENDUM means any written document signed by both parties containing terms
+regarding tasks to be performed and/or items to be delivered under this
+Agreement. If the terms of this Agreement and any Addendum conflict, the terms
+of the relevant Addendum will prevail solely as it relates to the subject matter
+of the Addendum.
+
+AGREED LEVEL means, as at the date of Reuters notice referred to in Clause 2.3,
+the most recently published OECD All Items Rate of Change Index percentage for
+the relevant 12 month period.
+
+AUTHORISED LOCATIONS means the locations set out in the Software License
+Addendum.
+
+AUTHORISED POSITIONS means the authorised number and type of positions or
+devices for an item of Software as set out in the relevant Software License
+Addendum. A position or device may be defined in the relevant Software License
+Addendum as a single computer (workstation, terminal, pager, cellular phone or
+digital assistant), server, router or any similar device or a user. Unless
+otherwise specified in such Software License Addendum, each processor in each
+such device constitutes a separate Authorised Position.
+
+CHARGES means the Fees plus any related charges specified in Clause 2.2.
+
+CLAIM is defined in Clause 10.5.
+
+CLIENT means Instinet Group (as identified herein) or where in the Agreement the
+context requires, the company to which the rights and obligations of Instinet
+are transferred under Clause 1.2.
+
+CLIENT PRODUCTS means the computer software programs developed by or on behalf
+of Client (except where developed by Reuters on behalf of Client in which
+instance all issues related to ownership shall be detailed elsewhere in the
+Agreement or in a separate agreement between the parties) using the Development
+Software and which incorporate some or all of the Embedded Software as an
+embedded or packaged component, and which add significant and primary
+functionality to the Embedded Software. Client Products are further defined in
+the relevant Software License Addendum.
+
+CONFIDENTIAL INFORMATION means information in any form (including, but not
+limited to, models, software and computer outputs) which is not excluded under
+Clause 13, whether written or oral, of a business, financial or technical nature
+which is marked or otherwise indicated as being or is, or ought reasonably to
+be, known to be confidential and which is disclosed by Reuters or Client (the
+Disclosing Party) or any member of the Disclosing Party's Group to the other
+(the Receiving Party) or any member of its Group through their dealings with
+each other. In this definition and for the purposes of Clause 13, "Group" means,
+with respect to Reuters, Reuters Group and its advisers, agents and
+representatives and, with respect to Client, Client itself, its holding
+companies and subsidiaries, subsidiaries of such holding companies from time to
+time and its advisers, agents and representatives.
+
+CONSULTING FEES is defined in Clause 2.1.
+
+CONSULTING SERVICES means any consulting services as described in any Statement
+of Work.
+
+CONSULTING SERVICES ADDENDUM means any Addendum under which Consulting Services
+are provided to Client.
+
+CUSTOMIZED SOFTWARE means the object code version of the proprietary software
+products (and any associated Documentation, Updates and Upgrades) developed by
+or on behalf of a member of the Reuters Group and identified as such in any
+Software License Addendum.
+
+DEVELOPMENT SOFTWARE means the object code version of the proprietary
+development tools, application program interfaces (APIS), library files and
+other proprietary software components (and any associated Documentation, Updates
+and Upgrades) identified as such in the relevant Software License Addendum.
+
+DOCUMENTATION means the standard written material in machine readable or printed
+form that describes the design, functions, operation or use of the Software.
+
+EMBEDDED SOFTWARE means those elements of the Development Software which are
+intended for redistribution to End Users.
+
+END USER means any employee or independent contractor of Client acting under
+Client's direction in the ordinary course of Client's business. To the extent
+any sublicensing rights are identified in the relevant Software License
+Addendum, the term End User also includes any entity or person to which such
+Software may be sublicensed as set out in the relevant Software License
+Addendum.
+
+FEES means, collectively, the License Fees, Maintenance Fees, Support Fees and
+Consulting Fees, as applicable.
+
+INSTALLATION DATE means, where Reuters is responsible for installing the
+Software under a Consulting Services Addendum, the date on which Reuters
+certifies that the relevant Software has been successfully installed.
+
+LICENSE FEES is defined in Clause 2.1 and includes any runtime license feesas
+required by Clause 6.2.
+
+MAINTENANCE has the meaning given to it in Clause 7.1.
+
+MAINTENANCE FEES is defined in Clause 2.1.
+
+REUTERS means Reuters Limited or, where in the Agreement the context requires,
+the company to which the rights and obligations of Reuters Limited are
+transferred under Clause 1.2.
+
+REUTERS GROUP means Reuters Group PLC and its direct and indirect subsidiaries.
+
+SOFTWARE means Standard Software, Customized Software, Embedded Software and
+Development Software and any Third Party Software delivered with the foregoing
+but
+
+
+                                       2
+<PAGE>
+
+excludes (other than the Embedded Software components) the Client Products.
+
+SOFTWARE LICENSE ADDENDUM means any Addendum to this Agreement under which
+Software is provided to Client.
+
+SOFTWARE SUPPORT ADDENDUM means any Addendum to this Agreement under which
+Software Support is provided to Client.
+
+SOFTWARE SUPPORT is defined in the relevant Software Support Addendum.
+
+SPECIFICATIONS means any technical specifications for the Customized Software
+set out in the relevant Consulting Services Addendum or in any related Statement
+of Work.
+
+STANDARD SOFTWARE means the object code version of the proprietary software
+products (and any associated Documentation, Updates and Upgrades) identified as
+such in the relevant Software License Addendum.
+
+STATEMENT OF WORK means any written document signed by both parties regarding
+tasks to be performed and/or items to be delivered under a Consulting Services
+Addendum. If the terms of an Addendum and any Statement of Work conflict, the
+terms of the Statement of Work will prevail with regard to the subject matter
+thereof.
+
+SUBSIDIARY means a company in which another company owns directly or indirectly
+more than 50% of the issued share capital and over which it exercises effective
+control.
+
+SUPPORT FEES is defined in Clause 2.1.
+
+THIRD PARTY SOFTWARE means any computer program owned by a third party other
+than a Reuters Group member and made available to Client under this Agreement as
+detailed in the Software License Addendum.
+
+UPDATES means any bug fixes to the Standard Software released in object code
+format from time to time by Reuters in its sole discretion.
+
+UPGRADE means a periodic release of the Software and/or related Documentation
+which may include new features and additional functionality.
+
+VIRUS means any code or device which is designed or intended to impair the
+operation of any computer or database, prevents or hinders access to or the
+operation of any program or data (whether by altering, erasing, duplicating or
+rearranging within the computer or any storage medium or device, the program or
+data in whole or part, or otherwise), including computer viruses, worms, trojan
+horses and other similar things.
+
+WARRANTY PERIOD is defined in Clause 8.2.
+
+1.2 Scope of Agreement
+
+a) The Software and Services will be provided either by Reuters Limited or,
+where they are provided by a Subsidiary of Reuters Limited in certain countries,
+by that Subsidiary. Client agrees that Reuters rights and obligations under the
+Agreement with respect to the supply of Software and Services in any such
+country are transferred to that Subsidiary from the Effective Date or, where
+appropriate, from the later date on which such Software and Services are first
+supplied. Reuters will ensure that such Subsidiaries are aware of and comply
+with the terms of the Agreement.
+
+b) The Software and Services will be provided either to Instinet Group or, where
+they are provided to a Subsidiary of Instinet Group in certain countries, to
+that Subsidiary. Reuters agrees that Client's rights and obligations under the
+Agreement with respect to the supply of Software and Services in any such
+country are transferred to that Subsidiary from the Effective date or, where
+appropriate, from the later date on which such Software and Services are first
+supplied. Client will ensure that such Subsidiaries are aware of and comply with
+the terms of the Agreement.
+
+2. PAYMENTS AND CHARGES
+
+2.1 Fees. On the payment dates specified in the relevant Addendum and/or
+Statement of Work, Client will pay to Reuters the applicable fees for:
+
+a) the Software (the LICENSE FEES);
+
+b) Maintenance (the MAINTENANCE FEES);
+
+c) Software Support  (the SUPPORT FEES)
+each as set out in the relevant Software License Addendum; and
+
+d) any requested Consulting Services, (the CONSULTING FEES) as set out in the
+relevant Statement of Work.
+
+2.2 In addition to the Fees, Client will also pay any installation, project
+management, integration charges, training or other charges (the CHARGES) set out
+on the relevant Software License Addendum at the same time as the Fees to which
+they relate.
+
+2.3 Provided Reuters gives Client at least 3 months' written notice, Reuters may
+increase the Maintenance Fees, Support Fees, and any Fees for runtime licenses
+once each year by not more than the Agreed Level, unless agreed with Client.
+
+2.4 Payment of Invoices. All undisputed Fees are (unless otherwise indicated on
+the relevant Addendum and/or Statement of Work) payable 45 days after the date
+of the relevant invoice. A service charge of 1.5% per month or the highest
+lawful interest rate, whichever is lower, will be applied to all undisputed (so
+long as the dispute is in good faith) amounts not paid due within thirty (30)
+days after an overdue notice is sent to the Client. Client will, within 15
+business days of receipt of any invoice, provide written notice to Reuters of
+any dispute setting out in reasonable detail the reason for such dispute.
+
+2.5 Licensing Reports. If Client is to pay on-going usage-based Fees, Client
+will provide Reuters summarized electronic quarterly reports relating to such
+Fees (in detail and computer format as reasonably required by Reuters). Reports
+covering the prior calendar quarter will be provided to Reuters within 15 days
+following the end of that quarter, along with any Fees due to Reuters.
+
+2.6 Audit Rights. Client will, for a minimum of 3 years or the minimum retention
+period required for applicable tax purposes (if longer), maintain for each
+Authorised Position in relation to which Software has been used, installed or
+decommissioned in the previous 30 days, a complete and accurate record of such
+Authorised Position, its location, type, the related Software (including version
+number) and all Fees paid or payable in respect of such Software. Such records
+will be maintained in accordance with good business and licensing practices in
+the computer industry. Reuters will have the right, at its expense (using its
+agents and
+
+
+                                       3
+<PAGE>
+
+representatives where appropriate) to audit Client (including, but not limited
+to such records of Client and the related Authorised Positions and usage) for
+the sole purpose of verifying compliance with this Agreement and to ascertain
+any unlicensed use of Reuters software; provided that (i) Client is given at
+least 10 business days' advance notice of Reuters intention to audit and (ii)
+the audit is conducted during normal business hours and in the presence of an
+authorized representative of Client (so long as the Client acts reasonably in
+making its representatives available for such purposes). Reuters may not
+exercise such audit rights more than once in any 12 month period; provided that
+if a discrepancy of 10% or more is revealed in an audit, Reuters has the right
+to conduct a re-audit within 6 months. In addition, if the audit reveals that
+the amount which should have been paid to Reuters is 10% or more than the amount
+paid by Client, Client will pay the reasonable costs of the audit incurred by
+Reuters in addition to the unpaid amounts.
+
+2.7 Verification Statement. Client will, on Reuters request, certify to Reuters
+that Client is in compliance with this Agreement.
+
+3. TAXES
+
+In addition to the Charges, Client will pay to Reuters or to the relevant taxing
+authority, as appropriate, any applicable taxes or duties (including withholding
+tax), but excluding taxes on Reuters' gross income, payable under this
+Agreement, so that after payment of such taxes and duties the amount received by
+Reuters is not less than the applicable Charges. Reuters shall supply
+appropriate documentation evidencing the applicability of a tax within a
+reasonable time after receipt of a request for such evidence from Client.
+
+4. SOFTWARE DELIVERY, TESTING AND ACCEPTANCE
+
+4.1 Delivery. Reuters will deliver the Software to the delivery address
+specified on the relevant Software License Addendum.
+
+4.2 Acceptance. Subject to Clause 4.4, the relevant Software License Addendum
+will specify whether the Software will be accepted either (a) on delivery, (b)
+within the Acceptance Period (in which case such acceptance will take place in
+accordance with Clause 4.3). Option (b) is only relevant where Reuters is
+responsible for installing the Software, or (c) within the time specified on the
+relevant Software License Addendum. Option (c) is only relevant where the
+Software is not to be accepted on delivery and Reuters is not responsible for
+installing the Software.
+
+4.3 Acceptance Period. Where the applicable Software License Addendum specifies
+that Reuters is responsible for installing the relevant Software, Client will,
+subject to Clause 4.4, have 30 days from the Installation Date (the ACCEPTANCE
+PERIOD) to confirm that the Software substantially conforms to the then current
+applicable Documentation (if any) or Specification. At any time during an
+Acceptance Period, Client may (a) accept the Software; (b) report to Reuters any
+material, and reproducible and documented failure of the Software to conform
+substantially to the then current applicable Documentation (if any) or
+Specifications; or (c) reject any Customized Software due to its material and
+reproducible failure to conform substantially to the relevant Specification. In
+the event of such rejection or report, Client will provide written notice to
+Reuters which will set out its reasons for rejection or the nature of such
+failure in reasonable detail. Reuters will use all reasonable efforts to correct
+any non-conformities and resubmit such Software to Client in a commercially
+reasonable time frame. A new Acceptance Period as described above will commence
+on the date of any such re-delivery If the Software fails to pass any repeated
+acceptance test, Client shall have the option of immediately terminating the
+Software License Addendum with respect to the failing Software, without
+obligation, liability or penalty of any kind, and receive a refund of any monies
+theretofore paid to Reuters by Client, if any, or of repeating the acceptance
+test once Reuters has corrected any deficiencies.
+
+4.4 Deemed Acceptance. Unless otherwise agreed in an appropriate Software
+License Addendum or Statement of Work, Client will be deemed to have accepted
+Software if, and on the date when, Client (a) deploys such Software to a third
+party and/or End User; (b) uses the Software commercially or (c) does not
+affirmatively reject such Software during the Acceptance Period. This Clause
+shall not be deemed to imply that Client has any greater right to use or
+distribute the Software in excess of the rights granted herein. If such Software
+is in use at multiple sites, acceptance of such Software or any part of it at
+the first such site will constitute acceptance at all subsequent sites.
+
+4.5 Certificates. If requested by Reuters, Client will sign a certificate
+confirming acceptance, delivery and/or installation of any Software.
+
+4.6 Installation of Software, Updates and Upgrades. Unless specified on the
+relevant Software License Addendum, Client is responsible for the timely
+installation of the Software. Duplication, distribution and installation of
+Updates and/or Upgrades are also the responsibility of Client, unless otherwise
+specified in a Software License Addendum. However, Client may request Reuters to
+provide assistance in the installation of Software, Updates and/or Upgrades as
+indicated on, and for the fee specified in, a Software License Addendum or
+Consulting Services Addendum.
+
+4.7 Client Tasks. Even where Reuters is responsible for installation of
+Software, Updates or Upgrades, Client will, in a timely manner, perform such
+Client Tasks as specified in the relevant Software License Addendum, at Client's
+own expense.
+
+4.8 Security Administration. Client is responsible for security of the
+environment in which the Software operates (including any password management
+system not explicitly controlled by Reuters). Client will permit Reuters
+personnel prompt and reasonable access to the Software to enable Reuters to
+provide Software Support and/or Maintenance. If Client does not provide such
+prompt and reasonable access, Reuters will not be liable for any loss or damage
+Client suffers from any failure by Reuters to provide Software Support and/or
+Maintenance.
+
+5. TITLE
+
+
+                                       4
+<PAGE>
+
+5.1 Reuters Property. Except in relation to Client Products (excluding any
+Embedded Software components), Client acknowledges that the only rights it has
+to the Software or to any other deliverables under this Agreement are
+non-exclusive rights under licence.
+
+5.2 Client agrees not to use the Software or other deliverables (as specified in
+a Software License Addendum or Statement of Work) other than as licensed under
+this Agreement.
+
+5.3 The parties acknowledge that performance of this Agreement may result in the
+development by Reuters of new concepts, software, methods, techniques,
+processes, adaptations and ideas, in addition to Reuters prior technology, which
+may be embodied in Reuters deliverables (as specified in a Software License
+Addendum or Statement of Work). The parties agree that the same, other than any
+Client confidential and proprietary materials, will belong to Reuters
+exclusively.
+
+6. LICENSES
+
+6.1 Subject to Clauses 6.4, 9 and 16.1, Reuters grants to Client a
+non-transferable, non-assignable, non-exclusive license for the duration of the
+Agreement to use and install:
+
+a) the Standard Software and any Customized Software solely for Client's own
+internal business purposes;
+
+b) the Development Software solely for Client's internal use, for the purpose of
+integrating the Embedded Software into a Client Product;
+
+c) the Embedded Software to (i) link, embed and package the Embedded Software
+exactly in the form provided to Client by Reuters in or with the Client
+Products, and (ii) reproduce and distribute the Embedded Software to End Users
+solely in conjunction with Client Products; provided, that Client will, to the
+extent technically feasible, ensure that the Embedded Software is embedded in
+the Client Products in such a manner that the End User cannot directly link to
+or use the Embedded Software other than as part of and solely in connection with
+the use of a Client Product and will in any event contractually prohibit any
+such linking or use. In addition, Reuters grants to Client the right to use,
+copy and distribute Documentation intended for distribution to End Users in
+connection with its distribution of the Embedded Software; provided, that such
+Documentation may only be distributed together with Client Products.
+
+6.2 Runtime Licenses. Where Client integrates Embedded Software into a Client
+Product, Client may be required to pay a runtime license fee, as set out in the
+relevant Software License Addendum and which Reuters will notify to Client in
+advance of such integration. Client will ensure that the appropriate payments
+are made to Reuters for each copy of the Client Products containing Embedded
+Software. If Client wishes to resell or redistribute any applications that
+incorporate Development Software to third parties, Client must enter into a
+separate agreement with Reuters, provided that Client may provide access to the
+Development Software to its consultants to enable such consultants to assist in
+the integration of the Embedded Software into a Client Product, so long as such
+consultants have signed an agreement with Client which requires the consultant
+to maintain the confidentiality of any materials disclosed to the consultant.
+
+6.3 Sublicense Rights. Client will have the right to sublicense the Software
+identified on the relevant Software License Addendum as sub-licensable to End
+Users; provided that Client enters into a written agreement with each such
+sub-licensee that (i) is at least as protective of Reuters intellectual property
+and other rights as is this Agreement and (ii) provides payment, record-keeping,
+reporting obligations and audit rights as least as protective as to those set
+out in this Agreement. Client agrees to exercise its audit and other rights in,
+and to enforce such sub-licensee agreements, as reasonably requested by Reuters
+or as otherwise necessary to protect Reuters rights under this Agreement. Client
+Products will not be marketed under any brand name other than Client's brand
+name.
+
+6.4 License Limitations. The licenses granted under this Clause 6 will be
+subject to the following limitations:
+
+a) Client will only install the number of Authorised Positions of the Software,
+for use only in the specified operating environment and will install and use
+such Software only at the Authorised Locations (all of which are set out on the
+relevant Software License Addendum). Software may be transferred to other
+locations maintained by Client if Client provides Reuters with 30 days' prior
+written notice of such transfer and, after such transfer, the number of
+Authorised Locations and number and type of Authorised Positions does not exceed
+that permitted in the relevant Software License Addendum;
+
+b) Client will not reverse engineer, disassemble or decompile any Software
+except to the extent permitted by law;
+
+c) Client will not use or allow the use of the Software: (i) unless otherwise
+specified on the relevant Software License Addendum, for rental or in the
+operation of a service bureau, hosting or ASP (Application Service Provider)
+model; (ii) by any persons other than End Users (iii) to disclose results of any
+performance tests of the Software to any third party, provided that Client may
+provide access to the Software to its consultants to enable such consultants to
+assist in the integration of the Embedded Software into a Client Product, so
+long as such consultants have signed an agreement with Client which requires the
+consultant to maintain the confidentiality of any materials disclosed to the
+consultant;
+
+d) Client will have the right to make 2 backup copies of the Software at each of
+the Authorised Locations. Client agrees to reproduce and include all copyright,
+trademark and other proprietary rights notices on any copy of the Software made
+by Client. Client further agrees not to remove or obliterate any copyright,
+trademark or proprietary rights notices on any such copies or which is displayed
+by the Software; and
+
+e) each copy of a Client Product or the Software which may be sublicensed will
+display the logo and attribution tag provided by Reuters and the copyright
+notice prominently and in a format which will be mutually agreed to by the
+parties in writing prior to deployment of such software to any End Users.
+Reuters and Client agree to use their reasonable
+
+
+                                       5
+<PAGE>
+
+efforts to conclude such agreement in a prompt and expeditious manner.
+
+7. MAINTENANCE, SUPPORT, UPGRADES AND OBSOLESCENCE.
+
+7.1. Maintenance. Subject to Sections 7.2 and 7.3, following expiry of the
+Warranty Period, Reuters will, for a period of 1 year (and thereafter for
+successive 1 year periods unless either party gives at least 90 days' written
+notice of cancellation prior to the end of the term) provide Maintenance to
+Client, upon request. MAINTENANCE consists of providing Client with product
+documentation and any Updates to the Software promptly after they become
+generally available. Software Support is provided to Client under a relevant
+Software Support Addendum.
+
+7.2 Upgrades. Reuters may periodically make Upgrades generally available as part
+of an Update. Reuters may, however, at its discretion, periodically make
+Upgrades available at Reuters then current list price. Reuters will notify
+Client of the nature and availability of an Upgrade, which Client may then
+obtain from Reuters at such list price upon written request. If an Update or
+Upgrade is provided to Client, Maintenance Fees and Support Fees will be payable
+for such Software from acceptance.
+
+7.3 Obsolescence. Reuters reserves the right to obsolete: (i) a prior Update
+and/or Upgrade of Software 6 months following the general availability of the
+then current release of the Update and/or Upgrade; and (ii) any Software product
+on at least 24 months' prior written notice. Reuters will have no obligation to
+provide Maintenance for any such obsolete Updates, Upgrades or Software at the
+end of such periods of time. Reuters obligations to provide Software Support for
+the same are set out in the relevant Software Support Addendum.
+
+8. BETA TESTING AND TRIALS OF SOFTWARE.
+
+8.1 Where Client agrees to participate in beta testing of Software, Client will
+evaluate the Software for the beta test period specified in the relevant
+Software License Addendum. Client will document and report any difficulties in
+beta testing such Software in accordance with reasonable instructions received
+in writing from Reuters. Reuters reserves the right to make changes to the
+design, specification or documentation of such Software during the beta test
+period without prior notice to Client. Client agrees that such Software is a
+test facility and should not be used in a live environment. If Client does so,
+such action is at Client's sole risk.
+
+8.2 Reuters or Client may terminate any beta testing of Software by giving 7
+days' written notice to the other. Within 10 days of termination of the beta
+testing, if Client does not choose to continue to use the Software, Client will
+return the Software to Reuters and, upon request, will certify to Reuters that
+all copies of the Software in any form have been removed from the Authorised
+Locations. If neither party terminates such beta testing and Reuters officially
+launches such Software, Client will continue to use the Software subject to the
+terms of the Agreement, including (but not limited to) payment of fees (at
+Reuters then list price) for such Software commencing upon the conclusion of
+beta test period.
+
+8.3 Where Reuters agrees that Client may use Software on a trial basis (either
+paid or unpaid) Client will use such Software subject to the terms of this
+Agreement. Even where Client is permitted to use Software on a trial basis,
+Client will be responsible for any installation, third party charges and any
+taxes payable with respect to such use except for taxes on Reuters gross income.
+
+9. TERMINATION
+
+9.1 Term. This Agreement and the licenses granted under it will remain in effect
+unless terminated in accordance with Clause 10.2(b), 10.5(b) or this Clause 9.
+
+9.2 Termination. Either party may terminate this Agreement or any individual
+Addendum and/or Statement of Work (within the timescales set out below) if the
+other party:
+
+a) commits a material breach of this Agreement which is incapable of remedy.
+Such termination will be effective immediately on giving notice;
+
+b) commits a material breach of this Agreement, which remains unremedied 30 days
+after giving written notice. Such termination will be effective at the end of
+the 30 day notice period. However, if the breach is capable of remedy but cannot
+reasonably be cured within such 30 day period, termination will not be effective
+if the party in default commences cure of the breach within 30 days and
+thereafter diligently pursues such cure to completion within 60 days of such
+notice of breach; or
+
+c) makes an assignment for the benefit of its creditors, files or has filed
+against it a petition under any bankruptcy, insolvency, reorganization or
+similar law, appoints or has appointed against it a trustee or receiver for any
+of its property or commences or has commenced against it (by resolution or
+otherwise) the liquidation or winding-up of its affairs, which termination will
+be effective immediately upon giving notice.
+
+9.3 Termination for License Breach. Notwithstanding Clause 9.2(a) and (b),
+Reuters may terminate this Agreement (or any Addendum, Statement of Work or
+license granted under any of them) with immediate effect if Client commits a
+material breach of Clause 6 and such breach remains unremedied 72 hours after
+receipt of written notice of the breach provided that such written notice of the
+material breach contains a detailed description of the breach with Reuters
+requirements for cure. If a material breach of Section 6 cannot be cured within
+72 hours after Client's receipt of written notice, but Client has taken all
+appropriate steps to begin the cure, Reuters shall work with Client to allow
+extra time to cure the breach for a time period to be determined by Reuters in
+its discretion.
+
+9.4 Addenda. The parties' termination for any reason of any individual Addendum
+and/or Statement of Work will not result in a termination of this Agreement but
+will result in only the termination of the relevant Addendum and/or Statement of
+Work. The provisions of this Agreement relating to the effects of termination
+will apply to each Addendum and/or Statement of Work as an independent contract.
+
+
+                                       6
+<PAGE>
+9.5 Obligations upon Termination. If Client's breach of Clauses 6.1 to 6.4
+(inclusive) is not cured and Reuters terminates this Agreement for such breach,
+Client will, as promptly as possible, remove or procure the removal of all
+Client Products developed using the Embedded Software and supplied to any End
+Users and delete or destroy any Software, as Reuters directs.
+
+9.6 Survival. The respective rights and obligations of the parties under Clauses
+2.5, 2.6, 5, 9.6, 10, 11, 13, 15 and 16 will survive any termination of this
+Agreement.
+
+10. WARRANTIES AND INDEMNITIES
+
+10.1 Mutual Warranties. Each party warrants that: (i) it has full power to enter
+into and perform its obligations under this Agreement; (ii) it has obtained all
+necessary corporate approvals to enter into and execute this Agreement; and
+(iii) its performance under this Agreement does not or will not conflict with
+any other material agreement or obligation to which it is a party or by which it
+is bound.
+
+10.2 Software Warranty.
+
+a) Reuters warrants to Client that: (i) for a period of 90 days from the date of
+acceptance, (the WARRANTY PERIOD) the Software will perform substantially in
+accordance with the applicable Documentation (if any) and any applicable
+Specifications. This warranty does not apply to Updates and Upgrades; (ii) any
+services performed by Reuters under this Agreement will be of a professional
+quality conforming to generally accepted industry standards and practices; and
+(iii) Reuters will use all reasonable commercial efforts to ensure that the
+Software has been scanned for Viruses utilizing the most recent version of
+generally available anti-virus protection and to prevent shipment to Client of
+any Software that fails this Virus scan.
+
+b) As Client's exclusive remedy and Reuters entire liability for breach of
+Clause 10.2(a), Reuters will use reasonable efforts to correct the problem
+giving rise to such breach in a commercially reasonable time and manner;
+provided, that if Reuters is unable to provide a repair, replacement or
+workaround for any reported defect or error within a reasonable period of time,
+Reuters will refund the applicable Fee. If License Fees are refunded, the
+relevant licenses granted will immediately terminate and the applicable Software
+will be returned to Reuters or deleted from Client's systems as Reuters directs.
+
+c) Other than Reuters obligations under Clause 7.1 and any Software Support
+Addendum, Reuters is not responsible for any defect or error in the Software not
+reported during the Warranty Period. In any event, Reuters is not responsible
+for any defect or error in the Software caused by (i) use of the Software not
+materially in accordance with the Documentation; (ii) Client's negligence, or
+any misuse (not caused by Reuters), unauthorised modification, failure of
+electrical power supply, or improper environment or (iii) modification by anyone
+other than Reuters or its nominated contractor.
+
+10.3 DISCLAIMER OF WARRANTIES. EXCEPT AS EXPRESSLY SET OUT IN THIS CLAUSE 10,
+THERE ARE NO OTHER WARRANTIES WITH RESPECT TO THE SOFTWARE OR SERVICES PROVIDED
+UNDER THIS AGREEMENT. REUTERS AND ITS SUPPLIERS MAKE NO WARRANTY OR
+REPRESENTATION THAT THE SOFTWARE WILL MEET CLIENT'S REQUIREMENTS OR THAT THE
+SOFTWARE WILL BE ERROR FREE OR RUN WITHOUT INTERRUPTION. REUTERS AND ITS
+SUPPLIERS MAKE AND CLIENT RECEIVES NO OTHER WARRANTIES WHETHER EXPRESS, IMPLIED,
+STATUTORY, OR OTHERWISE ARISING FROM COURSE OF DEALING OR USAGE OF TRADE, AND
+REUTERS EXPRESSLY DISCLAIMS ALL OTHER WARRANTIES, INCLUDING THE IMPLIED
+WARRANTIES OF MERCHANTABILITY, NON-INFRINGEMENT AND FITNESS FOR A PARTICULAR
+PURPOSE.
+
+10.4 Intellectual Property Warranty. Reuters warrants to Client that the
+Software owned by the Reuters Group does not infringe (i) any valid patent that,
+as of the date of this Agreement, is duly issued by the United States, Canada,
+any European Union country, Switzerland, Japan, Singapore, Australia or New
+Zealand (each a "Named Country") or that, as of the date of this Agreement, is
+duly issued in any other country that is a member of the Patent Cooperation
+Treaty (each a "Treaty Country") provided that the Treaty Country patent is a
+counterpart (i.e. foreign-filed equivalent) of a Named Country patent or (ii)
+any valid copyright, trade mark or other intellectual property right of any
+third party.
+
+10.5 Intellectual Property Indemnification. a) Subject to Clause 10.10, Reuters
+will defend, indemnify and hold harmless Client (and its officers, directors,
+agents and employees) from and against any claim, demand, cause of action, debt
+or liability, (collectively, CLAIM), the extent that such Claim, if true, would
+constitute a breach of the warranty set out in Clause 10.4; provided that
+Reuters is promptly notified in writing of such Claim, is given the exclusive
+right to control such defense and/or settlement and Client provides reasonable
+assistance (at Reuters expense and request) in the defense and/or settlement of
+such Claim. Client will not settle any Claim, lawsuit or proceeding or make any
+admission or provide to any person any information that may prejudice or
+otherwise affect Reuters position without Reuters prior written approval. This
+indemnity will not extend to any Claim of infringement or alleged infringement
+to the extent that such Claim arises out of or is related to: (i) use of a
+version of the Software other than the most current version made available to
+Client, if infringement would have been avoided by the use of the current
+version of the Software that had previously been made available to Client; (ii)
+a modification of the Software by anyone other than Reuters or its nominated
+contractor where the infringement would have been avoided except for the
+modification; (iii) the combination, operation or use of the Software with any
+third party software, hardware or other materials not provided or approved in
+writing by Reuters, including without limitation, Client Products, to the extent
+the combination, operation or use causes such infringement; or (iv) to the
+extent that the Claim arises out of or relates to information, technology or
+materials provided by Client or )
+
+                                       7
+<PAGE>
+
+to the extent that the Claim arises out of or relates to conformance with
+Specifications provided by Client.
+
+b) Upon notice of an infringement Claim arising from the Software or if in
+Reuters reasonable opinion such a Claim is likely, Reuters will have the right,
+at its option, to (i) obtain for Client the right to continue use of the
+Software; (ii) substitute other software with substantially similar operating
+capabilities or (iii) modify the Software so it is no longer infringing. If
+Reuters determines that none of the foregoing remedies are reasonably available,
+Reuters may terminate Client's right to the allegedly infringing Software and
+refund to Client the amount which Client has paid for such Software, depreciated
+on a straight-line basis over a four year period, in which event, Client and End
+Users will immediately cease use of the Software.
+
+c) THIS CLAUSE 10.5 STATES THE ENTIRE LIABILITY OF REUTERS AND THE EXCLUSIVE
+REMEDIES OF CLIENT WITH RESPECT TO THE INFRINGEMENT OF ANY PROPRIETARY RIGHTS BY
+THE SOFTWARE.
+
+10.6 Client Intellectual Property Indemnification. Subject to Clause 10.10,
+Client will defend, indemnify and hold harmless Reuters (and its officers,
+directors, agents, employees and the relevant members of the Reuters Group) from
+and against any infringement or alleged infringement by any Client Product
+(excluding, for these purposes, claims to the extent related to the Software
+provided by Reuters, if any, in the Client Product) developed by or on behalf of
+Client of any patent, copyright, or trade mark of a third party. THIS CLAUSE
+10.6 STATES THE ENTIRE LIABILITY OF CLIENT AND THE EXCLUSIVE REMEDIES OF REUTERS
+WITH RESPECT TO THE INFRINGEMENT OF ANY PROPRIETARY RIGHTS BY CLIENT PRODUCTS.
+
+10.7 Client General Indemnification. Subject to Clause 10.10, Client will
+defend, indemnify and hold harmless Reuters (and its officers, directors,
+agents, employees and the Relevant Group Member) from and against any claim
+which arises or results from: (i) the Client Products, including, without
+limitation, any representations made by Client or a sub-licensee inconsistent
+with the terms and conditions of this Agreement (excluding, for these purposes,
+claims to the extent related to the Software provided by Reuters, if any, in the
+Client Product); (ii) any representations or warranties granted in excess of
+those made by Reuters in Clause 10.2; (iii) any claim brought by a third party
+against Reuters to the extent related to or arising out inadequate installation,
+maintenance or support by Client of Client Products or other Software which
+Client has sublicensed to a third party; or (iv) any claim (other than claims
+for which Reuters indemnifies Client under Clause 10.5) brought by a third party
+against Reuters to the extent related to or arising out of Client's use of the
+Software, unless such claim is caused by Reuters gross negligence, fraud or
+willful misconduct. Client will only be required to indemnify Reuters under this
+Clause 10.7 and/or Clause 10.6 above if Client is promptly notified in writing
+of such claim and Client is granted exclusive right to control such defense
+and/or settlement, and Reuters provides reasonable assistance (at Client's
+expense and request) in the defence and/or settlement of the same. Reuters will
+not settle any claim, lawsuit or proceeding or make any admission or provide any
+information to any person that may prejudice or otherwise affect Client's
+position without Client's prior written approval.
+
+10.8 Death and Personal Injury. Nothing in this Agreement limits or restricts
+either party's liability to the other for death or personal injury caused by its
+negligence.
+
+10.9 Property Damage. Reuters and Client each accept liability for direct
+physical loss or damage to tangible property (it being agreed that the loss of
+data or computer files or programs does not constitute loss or damage to
+tangible property) caused by its gross negligence and/or willful act or
+omission.
+
+10.10 EXCLUSION OF SPECIAL DAMAGES. NEITHER PARTY NOR ITS SUPPLIERS WILL BE
+LIABLE FOR ANY INDIRECT, SPECIAL, INCIDENTAL, PUNITIVE, OR CONSEQUENTIAL
+DAMAGES, LOSS OF PROFITS, ECONOMIC LOSS, LOSS OF BUSINESS, OR LOSS OF DATA OR
+COMPUTER FILES OR PROGRAMS, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES,
+PROVIDED, HOWEVER, THAT THE ABOVE EXCLUSION OF DAMAGES SHALL NOT APPLY TO EACH
+PARTY'S OBLIGATION TO INDEMNIFY THE OTHER PURSUANT TO THIS AGREEMENT. THE
+FOREGOING WILL APPLY REGARDLESS OF WHETHER SUCH LIABILITY IS BASED IN CONTRACT,
+TORT, (INCLUDING BUT NOT LIMITED TO NEGLIGENCE) AND STRICT LIABILITY OR ANY
+OTHER THEORY OF LEGAL LIABILITY.
+
+10.11 Limitation of Liability. Except for damages caused by acts of gross
+negligence and willful misconduct, and except as set out in (i) Clause 10.5
+regarding Reuters liability; and (ii) Clauses 2.1, 2.5, 5.2, 6, 9.5, 10.1, 10.6,
+10.7 and 16.5 regarding Client's liability, each party's liability to the other
+is limited with respect to:
+
+a) any Software, to the License Fees paid for such Software under the relevant
+Software License Addendum;
+
+b) any Software Support, the Support Fees paid by Client to Reuters in the
+previous six months under the applicable Software Support Addendum;
+
+c) any Consulting Services Addendum and/or Statement of Work, the amount having
+then been paid by Client to Reuters under such Consulting Services Addendum
+and/or Statement of Work; and
+
+d) any other liability arising out of or in connection with this Agreement, to
+the total amount having then been paid by Client to Reuters at the relevant
+Authorised Location.
+
+10.12 Warranties for Beta Software. Notwithstanding anything to the contrary in
+this Agreement, Software provided to Client for beta testing is done so on an
+"AS - IS" basis without warranty of any kind whether express or implied, in law
+or in fact, oral or in writing. Clauses 10.2 10.4 and 10.5 do not apply to such
+Software.
+
+10.13 Third Party Software. Notwithstanding anything to the contrary in this
+Agreement, Reuters makes no representations or warranties with regard to Third
+Party
+
+
+                                       8
+<PAGE>
+
+Software. If Client has any claim with respect to Third Party Software, Reuters
+will indemnify Client to the extent Reuters is indemnified under the relevant
+Third Party Software license agreement for Client's claim. Reuters may transfer
+its exclusive rights under Clause 10.5 above to control the defence or
+settlement of such claim to the relevant Third Party Software owner or licensor,
+provided that such transferee assumes all Reuters' obligations to Client
+thereunder.
+
+10.14 Third Party Software Agreements. In order to use certain Third Party
+Software, Client may be required to enter into an agreement with the relevant
+Third Party Software licensor. Reuters shall notify Client of any such
+requirement in advance of delivery of any Third Party Software to Client, and
+Client will not use any Third Party Software until it meets such requirement.
+
+11. GOVERNING LAW AND JURISDICTION
+
+11.1 This Agreement is governed by English Law. Both parties consent to the
+non-exclusive jurisdiction of the English Courts.
+
+12. THIRD PARTY RIGHTS
+
+a) Members of the Reuters Group and Subsidiaries of Instinet Group have the
+right under the Contracts (Rights of Third Parties) Act 1999 (the ACT) to
+enforce and/or rely on the terms of the Agreement. In addition, Reuters third
+party suppliers (THIRD Parties) have the right to enforce and/or rely on Clauses
+5.2, 6, 10.10, 10.11, 10.12 and 10.13.
+
+b) The Act will not affect any right or remedy available to any Third Party or
+members of the Reuters Group or Subsidiary of Instinet Group apart from that
+Act.
+
+c) Notwithstanding sub-clause 12.2(a), the Agreement may be terminated or varied
+in accordance with its terms without the consent of any Third Party.
+
+13 CONFIDENTIALITY
+
+13.1 Reuters and Client each agree:
+
+a) to hold the Confidential Information in confidence and, not without the
+Disclosing Party's prior written consent, to disclose any part of it to any
+person other than those directly concerned with Reuters and Client's dealings
+with each other and whose knowledge of such Confidential Information is
+essential for such dealings. The Receiving Party will ensure that those persons
+comply with the obligations imposed on the Receiving Party under this clause.
+The Receiving Party will be liable for such person's default;
+
+b) not, without the Disclosing Party's prior written consent, to use the
+Confidential Information for any purpose other than in their dealings with each
+other;
+
+c) to delete from any device containing any Confidential Information and/or
+return to the Disclosing Party upon demand or termination of the Agreement, the
+Confidential Information except for one copy of such Confidential Information as
+is required to be retained by law, regulation, professional standards or
+reasonable business practice by a member of the Receiving Party's Group; and
+
+d) to use reasonable endeavours to provide the Disclosing Party with prompt
+notice if any member of the Receiving Party's Group becomes legally compelled to
+disclose any of the Confidential Information, so that the Disclosing Party may
+seek a protective order or other appropriate remedy. If such order or remedy is
+not available in time, the obligation of confidentiality will be waived to the
+extent necessary to comply with the law.
+
+13.2 This obligation of confidentiality is made by each of Reuters and Client on
+their own behalf and as agent for each member of their respective Groups.
+
+13.3 This obligation of confidentiality will not apply to information which (a)
+is, at the time of the disclosure, or subsequently through no act or omission of
+the Receiving Party's Group, becomes generally available to the public; (b)
+becomes rightfully known to the Receiving Party's Group through a third party
+with no obligation of confidentiality; (c) the Receiving Party is able to prove
+was lawfully in the possession of the Receiving Party's Group prior to such
+disclosure; or (d) is independently developed by the Receiving Party's Group
+without use of or reference to any Confidential Information.
+
+13.4 This undertaking will be binding for as long as such Confidential
+Information retains commercial value.
+
+14. INJUNCTIVE RELIEF
+
+Reuters and Client agree that financial remedies may be inadequate remedies for
+breaches of Clauses 6 or 11. Accordingly, Reuters and Client agree that Reuters
+and/or Client may be entitled to seek injunctive or other equitable relief.
+
+15. NOTICES
+
+a) Subject to sub-clauses (b) and (d), all notices under the Agreement will be
+sent in writing by registered mail, courier, fax or email or delivered in
+person: (i) from Reuters to Client at the address set out in the relevant
+Software License Addendum or to a specified email address provided by Client,
+with a copy to Office of the General Counsel, Instinet Corporation, 3 Times
+Square, 10th Floor, New York, New York 10036; and (ii) from Client to Reuters at
+the address set out in the relevant Software License Addendum or email address
+for notices provided by Reuters.
+
+b) Reuters and Client will only send notices relating to breach or termination
+of the Agreement or cancellation of Services by registered mail, courier or fax
+or delivered in person at the address set out in sub-clause (a).
+
+c) Notices will be deemed to be received 3 business days after being sent or on
+proof of delivery, if earlier.
+
+d) Communications sent by email via any of Reuters online administration
+services, will be subject to certain administrative procedures which Reuters
+will notify to Client prior to or contemporaneous with such communications.
+
+16. GENERAL
+
+16.1 Assignment. Subject to Clause 1.2, neither party may transfer any of its
+rights or obligations under this Agreement without the prior written consent of
+the other party, which consent will not be unreasonably withheld or delayed.
+However, the Parties agree that each may transfer any or all of its rights or
+obligations under this Agreement to a member of the Reuters Group or Client
+Group, respectively, by providing written notice to Client. This Clause 16.1
+will not be construed as limiting Reuters right to use subcontractors
+
+
+                                       9
+<PAGE>
+
+to carry out any of its obligations under this Agreement. Reuters will remain
+liable for any such services provided by a subcontractor. Any assignment not in
+conformity with this Clause 16.1 is void.
+
+16.2 Entire Agreement; Amendment. This Agreement constitutes the entire
+understanding between the parties solely regarding its subject matter and
+supersedes all proposals and other representations, statements, negotiations and
+undertakings, in each case, verbal or written, relating to such subject matter.
+In entering this Agreement, neither party has relied on, and will have no remedy
+in respect of, any statement, warranty or representation (except in the case of
+fraud) made by the other save as set out in this Agreement. No change in,
+addition to, or waiver of any provision of this Agreement will be binding upon
+either party unless in writing signed by an authorised representative of such
+party.
+
+16.3 Severability. If any provision of this Agreement is held by a court of
+competent jurisdiction to be invalid, illegal or unenforceable, the remainder of
+this Agreement will remain in effect and this Agreement will be read as though
+the offending provision had not been written.
+
+16.4 Waiver. If either party delays or fails to exercise any right or remedy
+under the Agreement, that party will not have waived that right or remedy or any
+other right or remedy on any other occasion.
+
+16.5 Export Compliance. Client agrees to comply with all relevant export laws
+and regulations of the United States and other countries (collectively, EXPORT
+LAWS) to ensure that no Software or any portion of it is exported, directly or
+indirectly, in violation of Export Laws. Reuters will not be liable for
+reasonable default or delay caused by Reuters efforts to comply with Export
+Laws. If Export Laws change after the execution of this Agreement and such
+changes materially inhibit or prohibit Reuters from performing under this
+Agreement, Reuters will not be liable for its non-performance and Reuters and
+Client will have the right to terminate this Agreement and the licenses granted
+under it.
+
+16.6 Force Majeure. Neither party will be held liable for any loss or failure to
+perform any obligation (other than a payment obligation for that portion of the
+services provided where Client is still receiving all or part of any the
+services provided under this Agreement), due to circumstances beyond its
+reasonable control. Should such circumstances continue for more than 3 months,
+either party may cancel any affected service immediately by notice in writing.
+
+16.7 Privacy. Subject to Reuters confidentiality obligations, Client consents to
+the collection and processing of information by the Reuters Group about (a)
+users of the Software and (b) individuals the Reuters Group deals with in its
+day-to-day business, for the purposes set out in the privacy section at
+www.reuters.com Client also agrees, as a condition of this Agreement, to procure
+such consent from users of the Software.
+
+16.8 Announcements. Notwithstanding Clause 13, Client agrees that Reuters may
+refer to Client in any marketing materials that Reuters produces in connection
+with the Software and or the Consulting Services only with the prior written
+consent of Client.
+
+
+                                       10
+
+</TEXT>
+</DOCUMENT>

@@ -1,0 +1,3280 @@
+<DOCUMENT>
+<TYPE>EX-2
+<SEQUENCE>4
+<FILENAME>w83751exv2.txt
+<DESCRIPTION>SERVICES AGREEMENT
+<TEXT>
+<PAGE>
+
+Services Agreement for Switched Voice Miscellaneous Services
+
+
+
+
+
+
+
+                               SERVICES AGREEMENT
+
+                                   RELATING TO
+
+                      SWITCHED VOICE MISCELLANEOUS SERVICES
+
+                                     BETWEEN
+
+                               FRANCE TELECOM S.A.
+
+                                       AND
+
+                                   EQUANT N.V.
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                       1
+
+<PAGE>
+
+Services Agreement for Switched Voice Miscellaneous Services
+
+
+                                TABLE OF CONTENTS
+
+1.       DEFINITIONS AND INTERPRETATION......................................3
+2.       PURPOSE AND SCOPE...................................................6
+3.       TERM................................................................6
+4.       SERVICE ORDERS......................................................7
+5.       FT'S OBLIGATIONS....................................................7
+6.       EQUANTS OBLIGATIONS ................................................8
+7.       FEES................................................................8
+8.       PAYMENT TERMS, TAXES...............................................10
+9.       TERMINATION........................................................11
+10.      RELATIONSHIP MANAGEMENT AND DISPUTE RESOLUTION.....................11
+11.      CONFIDENTIALITY, PUBLIC ANNOUNCEMENTS..............................12
+12.      LIABILITY..........................................................13
+13.      INDEMNIFICATION....................................................14
+14.      FORCE MAJEURE......................................................14
+15.      INSURANCE..........................................................15
+16.      CHANGE OF CONTROL..................................................15
+17.      NOTICES............................................................15
+18.      CHANGE CONTROL PROCEDURE...........................................15
+19.      MISCELLANEOUS......................................................16
+APPENDIX 1 - DESCRIPTION OF THE SERVICES....................................19
+1.       GENERAL REQUIREMENTS...............................................19
+2.       HOUSING OF EQUIPMENT...............................................19
+3.       SUPPORT TO SERVICE IMPLEMENTATION..................................20
+4.       OPERATIONS.........................................................23
+APPENDIX 2 - QUALITY AND PERFORMANCE MANAGEMENT.............................28
+1.       KEY PERFORMANCE INDICATORS (KPIS)..................................28
+2.       HOUSING KPIS.......................................................28
+3.       SERVICES IMPLEMENTATION KPIS.......................................28
+4.       VOICE OPERATIONS KPIS..............................................28
+5.       BCR................................................................28
+6.       CREDIT.............................................................29
+7.       MEASUREMENTS.......................................................29
+8.       REPORTING..........................................................29
+9.       PERFORMANCE REVIEW.................................................30
+10.      SERVICE IMPROVEMENT PLANS (SIPS)...................................31
+APPENDIX 3 - EQUANT EQUIPMENT...............................................32
+APPENDIX 4 - KPIS AND FEE CREDITS...........................................33
+APPENDIX 5 - SERVICE ORDER FORM.............................................36
+APPENDIX 6 - EQUANT AND FT - FAULT MNGT ESCALATION LISTS....................39
+APPENDIX 7 - REPORTING POINT OF CONTACT LIST................................41
+APPENDIX 8 - MINIMUM INVOICE DETAIL REQUIREMENTS ...........................42
+
+
+                                       2
+
+<PAGE>
+
+Services Agreement for Switched Voice Miscellaneous Services
+
+
+This Agreement is made as of the Effective Date between:
+
+(1)  FRANCE TELECOM S.A., a French company having its registered office at 6,
+     place d'Alleray, 75015 Paris, France, hereinafter referred to as "FT"; and
+
+(2)  EQUANT N.V. a company organised under the laws of the Netherlands, with its
+     principal office at Gatwickstraat 21-23, 1043 GL Amsterdam-Sloterdijk,
+     hereinafter referred to as "Equant";
+
+
+RECITALS:
+
+(A)  The Parties each provide Switched Voice Services on their respective voice
+     networks.
+
+(B)  The Parties desire that as of the Effective Date, FT will have full
+     responsibility for the definition of its requirements with respect to the
+     operations and management guidelines for the switched voice services on the
+     Network for the benefit of both FT and Equant, including with respect to
+     the supply of the switched voice service from Equant to FT as further
+     described herein.
+
+(C)  FT has requested and Equant has agreed, that Equant provide certain
+     operational services to FT relating to switched voice services.
+
+NOW, THEREFORE, in consideration of the mutual promises set forth below, the
+Parties hereby agree as follows:
+
+1.   DEFINITIONS AND INTERPRETATION
+
+1.1  In this Agreement, words with initial capitals have the meaning set out in
+     below:
+
+<TABLE>
+<CAPTION>
+
+<S>                                 <C>
+     "Affiliate"                     means,  with  respect to any Person,  any other Person  controlled  by,
+                                     under common control with, or controlling such Person. For the purposes
+                                     of this Agreement: (a) the term "control" means a Person's (1) ownership,
+                                     directly or indirectly, of equity securities entitling it to exercise in
+                                     the aggregate at least 50% of the voting power of the entity in question;
+                                     or (2) possession directly or indirectly, of the power to direct or cause
+                                     the direction of the management and policies of or with respect to the
+                                     entity in question, whether through ownership of securities, by contract
+                                     or otherwise; (b) any reference to an Affiliate of FT means any Affiliate
+                                     excluding Equant and its Subsidiaries; and (c) any reference to an
+                                     Affiliate of Equant means a Subsidiary of Equant;
+
+     "Agreement"                     means this Agreement, its Appendices, and Service Orders;
+
+     "Carriers"                      means (a) public telecommunications operators; (b) wholesale
+                                     providers of bandwidth, Internet connectivity, signalling and/or
+                                     switched voice products; and (c) mobile operators;
+
+     "Change Control Procedure"      means the procedure governing all changes to this Agreement and any
+                                     Service Order as set out in Section 18;
+
+     "Confidential Information"      means any matters confidential or secret information or data that is
+                                     of value to the Party disclosing such information, including
+                                     confidential or secret (a) scientific or technical information; (b)
+                                     information relative to the current or proposed business, sales, and
+                                     marketing plans of the Party disclosing such information and financial
+                                     information related thereto; (c) drawings, designs, computer programs
+                                     and software devices; (d) costs and pricing information, and (e) the
+                                     contents of this Agreement, provided, however, the term "Confidential
+
+</TABLE>
+
+
+                                       3
+
+<PAGE>
+
+
+Services Agreement for Switched Voice Miscellaneous Services
+
+<TABLE>
+
+<S>                                 <C>
+                                     Information" shall not include any information that (i) is now in or
+                                     subsequently enters the public domain through means other than direct or
+                                     indirect disclosure by either Party in violation of the terms of this
+                                     Agreement; (ii) is already in the possession of the Party receiving such
+                                     information free of any known confidential obligation to any other
+                                     party; or (iii) is lawfully communicated to the Party receiving the
+                                     information by a third party, free of any known confidential obligation,
+                                     subsequent to the time of communication thereof by, through or on behalf
+                                     of the other Party;
+
+     "Contribution Agreement"        means the agreement of that name, dated 19 November 2000 between
+                                     France Telecom, Atlas Telecommunications S.A and Equant;
+
+     "Costs"                         means Equant's actual total costs (direct and indirect) incurred by
+                                     Equant in providing (directly or indirectly) the Services;
+
+     "Credits"                       means the rebates available to FT in the event that Equant fails to
+                                     comply with the service levels suggested in Appendix 2 and 4
+
+     "Data Protection Directives"    means the European Union Directive entitled "Directive 95/46/EC of
+                                     the European Parliament and of the Council of 24 October 1995 on the
+                                     protection of individuals with regard to the processing of personal data
+                                     and on the free movement of such data" and the European Union Directive
+                                     entitled "Directive 97/66/EC concerning the processing of personal data
+                                     and the protection of privacy in the telecommunications sector" and any
+                                     future European Union directives relating to data protection;
+
+     "Effective Date"                means the date of Closing of the Contribution Agreement (as such term
+                                     and process is defined therein);
+
+     "Equant"                        means Equant N.V. and its Affiliates existing immediately prior to
+                                     the Effective Date;
+
+     "Equant Equipment"              means Equipment owned or leased by Equant or any of its Affiliates
+                                     and installed at a Site listed in Appendix 3, as updated from time to
+                                     time;
+
+     "Equipment"                     means voice switches, related Software, circuits, systems and other
+                                     telecommunications equipment, to be used by Equant in providing Services
+                                     or support for Services to FT, and reference thereto shall mean both FT
+                                     Equipment or Equant Equipment as applicable;
+
+     "Fees"                          means Equant's fees for providing the Services under this Agreement;
+
+     "Force Majeure"                 means events outside the reasonable control of the Parties, including
+                                     acts of God, fire, flood, or other natural catastrophes; any law, order,
+                                     regulation or request of governmental authorities of competent
+                                     jurisdiction, national emergencies, insurrections, riots, wars, or
+                                     strikes, lock-outs, work stoppages or other labour difficulties (except
+                                     with respect to employees of the Parties and their respective
+                                     Affiliates), power failures, or severe weather conditions;
+
+     "FT Equipment"                  means Equipment owned or leased by FT or its Affiliates and installed
+                                     at a Site listed in Appendix 3, as updated from time to time;
+
+     "Global One"                    means Global One Communications World Holding B.V. and Global One
+                                     Communications Holding B.V. and their affiliated companies immediately
+                                     prior to the Effective Date;
+
+</TABLE>
+
+                                       4
+
+<PAGE>
+
+Services Agreement for Switched Voice Miscellaneous Services
+
+<TABLE>
+
+<S>                                 <C>
+     "Initial Term"                  means the minimum term of a Service Order as set out in the Service
+                                     Order Form;
+
+     "Intellectual Property Rights"  means any letters patent, patented articles, patent applications,
+                                     designs, trade marks, service marks, trade or business names, domain
+                                     names, copyrights, database rights, inventions whether or not capable of
+                                     protection by patent or registration and know-how, whether registered or
+                                     unregistered and including applications for the grant of any such rights
+                                     of the foregoing descriptions and all rights or forms of protection
+                                     having equivalent or similar effect anywhere in the world;
+
+     "Mark Up"                       "Material Default" means (a) a Party's breach of any of the
+                                     material terms or conditions of an Agreement including the failure to
+                                     make any payment when due; (b) insolvency, bankruptcy, receivership or
+                                     dissolution or any similar proceedings initiated by or against a Party or
+                                     a material portion of its assets, in any jurisdiction; or (c) the
+                                     execution by a Party of an assignment for the benefit of creditors or any
+                                     other transfer or assignment of a similar nature (it being understood
+                                     that the execution of any third party financing agreement(s) shall not
+                                     constitute a Material Default);
+
+     "Network"                       means the Global One originated voice switches and related switched
+                                     voice equipment, excluding such switches and equipment located in Russia;
+
+     "Person"                        means any individual, corporation, joint venture, unincorporated
+                                     syndicate, unincorporated organisation, trust, trustee, executor,
+                                     administrator or other legal representative;
+
+     "Personal Data"                 means all data and other information constituting personal data in
+                                     respect of which employees or customers of a Party are data subjects
+                                     which are processed by the other Party in connection with this Agreement
+                                     and which is not processed by such Party as a result of an agreement
+                                     directly between itself and the other Party's employee or customer,
+                                     whether that data or information is in oral, visual or written form or is
+                                     recorded in any other medium. For the purposes of this definition, "data
+                                     subject" and "processing" have the meaning given to those terms by the
+                                     Data Protection Legislation and "processed" will have a corresponding
+                                     meaning;
+
+     "Services"                      means the switched voice services, operational and support services
+                                     as more fully described in Section 7.1 and Appendix 1 excluding access
+                                     and termination as described in Section 7.1.5. and Section 4.4.6 of
+                                     Appendix 1, which are provided by Equant to FT in the countries listed in
+                                     Appendix 3;
+
+     "Service Order"                 means an order for Services placed with Equant in the format as
+                                     substantially as set out in Appendix 5;
+
+     "Sites"                         means premises owned, under the control of or leased by Equant and
+                                     its Affiliates and listed in Appendix 3;
+
+     "Subsidiary"                    means, with respect to any Person, any other Person controlled by
+                                     such Person;
+
+     "Sub-Contractor"                means a Person to whom any products or services may be sub-contracted
+                                     pursuant to any Agreement, being either (a) any Affiliate of Party; or
+                                     (b) any other third party agreed from time to time by a Party, such
+                                     agreement not be unreasonably withheld or delayed; or (d) any
+                                     sub-contractor of any of the Persons specified in (a) to (b) above;
+
+</TABLE>
+
+
+                                       5
+
+<PAGE>
+
+Services Agreement for Switched Voice Miscellaneous Services
+
+<TABLE>
+
+<S>                                 <C>
+
+     "Working Day"                   means local business days 8.30 am to 6.30 pm local time excluding
+                                     bank and public holidays in the countries in which the relevant Sites are
+                                     located.
+
+</TABLE>
+
+1.2  The terms defined above include the plural as well as the singular. Unless
+     otherwise expressly stated, the words "herein", "hereof", and "hereunder"
+     and other words of similar import refer to the relevant Agreement as a
+     whole and not to any particular Article, Section, provision or paragraph.
+     "Article", "Section" and "Annex" references refer to articles and sections
+     of, and annexes to, this Agreement. The words "include" and "including"
+     shall not be construed as terms of limitation. The words "day", "month",
+     and "year" mean, respectively, calendar day, calendar month and calendar
+     year, and the words "writing" or "written" mean preserved or presented in
+     retrievable or reproducible form, whether electronic (except for voice
+     mail) or hard copy, unless otherwise stated herein. The word "or" shall
+     mean "and/or" unless the context specifically requires otherwise. Any
+     amounts expressed in dollars or preceded by "$" shall refer to United
+     States dollars, unless specified otherwise. The headings used in this
+     Agreement are included for convenience only and are not to be used in
+     construing or interpreting this Agreement.
+
+1.3  References to "Parties" in this Agreement means FT, Equant and each of such
+     Party's Affiliates which will either be supplying products or services
+     under any Agreement and references to a "Party" means either (a) FT or the
+     relevant FT Affiliate; or (b) Equant or the relevant Equant Affiliate, as
+     the context requires, and such terms as "each", "either", "both", "the" or
+     "neither" prefacing the use of the words "Party" or "Parties" shall be
+     construed accordingly.
+
+1.4  References to "FT" and "Equant" mean respectively France Telecom S.A. and
+     Equant N.V. except (a) where the reference is in the context of the supply
+     of any product or service where the reference will be to the relevant
+     Affiliate; or (b) where the reference is to the granting of any
+     Intellectual Property Right where the reference is to the Affiliate owning
+     such rights or having contractual rights to licence same.
+
+1.5  Execution of this Agreement is subject to Equant's Independent Directors,
+     in accordance with Equant's Articles of Association and the Contribution
+     Agreement.
+
+2.   PURPOSE AND SCOPE
+
+2.1  This Agreement sets out the terms and conditions for the following Services
+     to be supplied by Equant to FT (pursuant to duly completed Service Orders),
+     all as more fully described in Appendix 1 at the locations set forth in
+     Appendix 3:
+
+     (a)  Services including associated manpower services;
+
+     (b)  supply of Equipment to support the Services ;
+
+     (c)  Equipment maintenance;
+
+     (d)  Equipment housing; and
+
+     (e)  switched voice access and termination in support of the Services.
+
+2.2  This Agreement does not cover any services or support on Equant networks or
+     related to Equant products and services unless otherwise expressly set out
+     in this Agreement.
+
+3.   TERM
+
+3.1  This Agreement shall be effective as from the Effective Date and will
+     continue for an initial term of 36 months ("Initial Term"), unless
+     terminated earlier pursuant to Section 9.
+
+
+                                                6
+
+
+<PAGE>
+
+
+Services Agreement for Switched Voice Miscellaneous Services
+
+
+3.2  Following this 36-month period, this Agreement will be automatically
+     extended for 6-month terms unless either Party provides the other with 3
+     months notice of its intention to terminate this Agreement.
+
+3.3  The Parties will enter into annual good-faith discussions to review the
+     terms of this Agreement.
+
+3.4  Notwithstanding Section 3.1, this Agreement will continue in full force and
+     effect until the date of expiry of all Service Orders.
+
+4.   SERVICE ORDERS
+
+4.1  Services shall be provided pursuant to a Service Order agreed between the
+     Parties.
+
+4.2  Each Service Order duly completed in accordance with the Service Order Form
+     shall come into force on its date of signature by both Parties.
+
+4.3  Each Service Order shall state on the Service Order Form the Initial Term
+     for which the Services shall be provided. This Initial Term shall start as
+     from the Service Order Acceptance Date.
+
+4.4  All Service Orders, as per Appendix 5, shall be completed based on
+     forecasts provided by FT 30 Working Days prior to the end of each quarter.
+     Equant shall have 8 Working Days from the Service Order date in which to
+     provide any queries, which it may have with respect to the forecast. FT
+     shall have 5 Working Days in which to respond to the queries.
+
+     For all Service Orders for which either: there is no query, or the query
+     has been responded to by FT, Equant shall provide a fee forecast (a "Fee
+     Forecast") for the Services within 10 Working Days based on the following
+     joint process:
+
+          (a)  FT will provide to Equant the forecast by activity and a detailed
+               project plan of centralization/optimization of voice operations;
+          (b)  Equant shall use the index set forth in Appendix 5 to measure the
+               scope of activity requested by FT;
+          (c)  The Fee Forecast shall be based on such index;
+          (d)  Equant shall factor the impact of the project plan into the Fee
+               Forecasts;
+          (e)  Equant shall show clearly in the Fee Forecast any cost
+               reductions, which result from a centralization of activities.
+
+     Within 5 Working Days, FT will accept or decline the Fee Forecast as
+     appropriate. If FT declines the Fee Forecast, then a maximum of 2 working
+     days will be allocated for resolution. In the event that the Parties cannot
+     resolve the matter within 2 Working Days, the procedure defined in Section
+     7.1.6 shall apply. If the procedure set forth in Section 7.1.6 does not
+     work, the matter shall be referred to the Steering Committee such as
+     described in Section 10 (a). If FT accepts the Fee Forecast, it shall place
+     the Service Order and this shall constitute the Service Order Acceptance
+     Date.
+
+     Until the end of the Transition Period defined in Section 7.1, there shall
+     be a reconciliation at the end of each quarter to confirm that all
+     applicable costs were in fact covered. Equant is responsible to put in
+     place the necessary resources to meet the requirements set forth in the
+     Service Orders. The Service Order may be updated during the quarter by an
+     appendix to the Service Order, which reflects ad hoc requirements, which
+     may arise.
+
+4.5  Each Party shall be entitled to cancel or amend a Service Order subject to
+     the Change Control Procedure as per Section 18.
+
+
+5.   FT'S OBLIGATIONS
+
+     FT agrees:
+
+
+                                       7
+
+
+<PAGE>
+
+Services Agreement for Switched Voice Miscellaneous Services
+
+
+       (a)  to pay Equant the Fees provided for in this Agreement in accordance
+            with the provisions of Section 7;
+
+       (b)  to provide Equant with all reasonable assistance to enable Equant to
+            carry out its obligations under this Agreement and the Service
+            Orders;
+
+       (c)  to comply with all other of its obligations specified in this
+            Agreement and in the applicable Service Orders;
+
+       (d)  to comply with all relevant local, national and supranational laws
+            in each jurisdiction where the Services are rendered;
+
+       (e)  to provide the activity forecasts as further described in Section 4
+            and in accordance with the form attached as Appendix 5.
+
+6.     EQUANT'S OBLIGATIONS
+
+       Equant agrees:
+
+       (a)  to provide FT with Services in accordance with the provisions of
+            this Agreement and the Service Orders, in particular Appendix 1;
+
+       (b)  to comply with all relevant local, national and supranational laws
+            in each jurisdiction in which it provides Services to FT;
+
+       (c)  to meet monthly KPIs and provide KPIs reports and fee credit reports
+            as per Appendix 4;
+
+       (d)  to comply with all other of its obligations specified in this
+            Agreement and in the applicable Service Orders.
+
+
+7.     FEES
+
+7.1    Services
+
+7.1.5  The invoice for the Services will include Fees for each Service described
+       in 7.1 and supporting documentation where applicable.  The level of
+       invoice detail is defined in Appendix 8.
+
+7.2    Termination from a Third Party:
+
+7.2.3  Equant shall make monthly adjustments to the fees by reference to what
+       was invoiced by the third party in m+1 against what was actually paid by
+       Equant to the third party in m+2. The adjustment will be applied to the
+       next month's invoice.
+
+7.2.4  FT shall provide instructions to Equant if it desires Equant to dispute
+       any third party invoice. Unless Equant receives instructions not to pay,
+       Equant shall pay the full invoice to the third party. FT shall make
+       payment to Equant corresponding to the amount that it instructs Equant
+       to pay to any third party provider for access and termination. When the
+       dispute is resolved t FT's satisfaction, FT shall make the necessary
+       adjustments, if any, to Equant.
+
+7.2.5  A review by the Parties of the total outgoings and receipts related to
+       voice termination shall take place every quarter to ensure the positive
+       cash position of Equant.
+
+7.2.6  In case of termination of the Agreement, FT shall be liable for voice
+       termination costs up to the date of termination of the voice termination
+       contract with the third party provider.
+
+7.3    Equant shall put in place a process to collect Services activity data
+       starting in January 2002. FT and Equant agree that they shall share
+       responsibility for the voice operations cost optimisation and they will
+       set up common objectives to achieve such cost optimisation.
+
+7.4    All internal sign-offs for expenditure under this Agreement shall follow
+       the Parties' approved financial processes.
+
+
+
+
+
+                                       8
+
+<PAGE>
+
+
+Services Agreement for Switched Voice Miscellaneous Services
+
+<TABLE>
+<CAPTION>
+
+----------------------------------------------------------------------------------------------------------
+                                                                                                 Equant
+    Period     Main steps (rolling-over month-after-month)                       Invoice flow   Cash Flow
+----------------------------------------------------------------------------------------------------------
+<S>           <C>                                                                     <C>        <C>
+  Feb   M-3    Activity generated in M-3
+----------------------------------------------------------------------------------------------------------
+  Mar   M-2
+----------------------------------------------------------------------------------------------------------
+  Apr   M-1    End-of-month: EQ bills (M) monthly advance based-on M-3 activity        x
+               (payable in 60 days)
+----------------------------------------------------------------------------------------------------------
+  May   M
+----------------------------------------------------------------------------------------------------------
+  Jun   M+1    Mid-month: EQ receives carrier invoices for M activities               x
+               (payable in 30 days)
+               End-of-month: FT pays EQ of the month M advance                                    +
+----------------------------------------------------------------------------------------------------------
+  Jul   M+2    Mid-month: EQ pays carrier invoices for the month M activities                     -
+----------------------------------------------------------------------------------------------------------
+  Aug   M+3
+----------------------------------------------------------------------------------------------------------
+
+</TABLE>
+
+8. PAYMENT TERMS, TAXES
+
+8.1  All Fees relating to Services shall be invoiced and paid in Euros.
+
+8.2  All Fees shall be payable within 60 days of the date of the invoice to
+     which the payment relates, subject to Section 7, unless otherwise expressly
+     stated in this Agreement.
+
+8.3  Any credits or debits, to be paid by Equant to FT, will be applied on the
+     next invoice issued by Equant to FT following the month in which the credit
+     or debit is due. For third party credits or debits, Equant shall apply such
+     credit or debit in the month following receipt by Equant.
+
+8.4  All Fees have been quoted exclusive of any taxes, levies, duties,
+     withholding taxes or similar charges, direct or indirect, which could be
+     levied as a result of the execution of this Agreement.
+
+     All VAT, other transfer, other excise and similar taxes applicable to the
+     provision of Services shall be payable by FT except (i) taxes that, by
+     applicable law, are the primary liability of Equant such as tax on Equant's
+     income and (ii) to the extent otherwise agreed by Equant and FT.
+
+     Unless otherwise stated, if any payment under this Agreement is subject to
+     any deduction or withholding on account of gross-basis income taxes imposed
+     by the jurisdiction in which FT is a resident, FT shall pay such additional
+     amounts as may be necessary, such that Equant receives the amount it would
+     have received had no such deduction or withholding been imposed. FT and
+     Equant shall negotiate in good faith in any such instance regarding the
+     possible reimbursement of FT to the extent that Equant receives a credit
+     for such taxes.
+
+
+                                       9
+<PAGE>
+
+
+Services Agreement for Switched Voice Miscellaneous Services
+
+
+8.5  FT shall be entitled on reasonable grounds to dispute any Fee invoiced. In
+     such case, FT shall give Equant notice within 30 Working Days of receipt of
+     the disputed invoice, specifying the disputed amount, together with such
+     supporting documentation as shall be necessary to substantiate its claim.
+     The Parties shall co-operate to resolve the dispute in an expeditious
+     manner and in any event within 45 Working Days of the date of notification.
+     No claims shall be valid if such notice and documentation is not delivered
+     within such 30 Working Day period. In no event shall either Party withhold
+     any part of any invoice, which is not the subject of a bona fide dispute.
+     If the dispute is not resolved within the above-prescribed period, it shall
+     be referred to the Steering Committee. Disputed invoices shall be reviewed
+     at least quarterly by the Steering Committee and the Parties shall make
+     their best efforts to settle all disputes before year-end.
+
+8.6  All amounts due hereunder that are not paid when due, including any amount
+     disputed by FT which is subsequently determined to be due to Equant, shall
+     accrue extended payment interest at the rate per annum of 2% above the
+     3-month Euribor rate in effect from time to time calculated on a daily
+     basis from the date on which payment became due to the date such payment is
+     received by Equant or the highest rate applicable by law, whichever is the
+     lesser.
+
+9.   TERMINATION
+
+9.1  Either Party shall be entitled to terminate this Agreement or any Service
+     Order in accordance with Sections 16 or 19.8.
+
+9.2  In the event of a termination of this Agreement pursuant to Sections 16
+     and/or 19.8, the Parties shall agree on a transition plan (the duration of
+     which shall be no less than required for FT to continue to provide Services
+     under outstanding Service Orders). The Parties shall continue to co-operate
+     at all times during the transition period and agree that the terms and
+     conditions of this Agreement shall continue to govern such co-operation, as
+     applicable.
+
+10.  RELATIONSHIP MANAGEMENT AND DISPUTE RESOLUTION
+
+(a)  Steering Committee
+
+     The Parties agree to set up a steering committee ("Steering Committee") in
+     charge of the execution of this Agreement and to act in the event of a
+     disagreement on the execution or the interpretation of this Agreement. Each
+     Party shall appoint a senior representative to the Steering Committee
+     having sufficient authority and powers to bind the Parties in relation to
+     such disputes. Each Party shall appoint operational representatives who
+     will act as the sole day to day contact points for each Party. The Steering
+     Committee shall meet each time one of the Parties so requires and in
+     addition at least twice a year (whether in person or otherwise). The
+     minutes of the Steering Committee shall be drafted by the Parties as soon
+     as practicable but not later than 14 days after the date of any meeting and
+     be amended and finally approved by exchange of e-mails.
+
+(b)  Annual Review
+
+     Through the Steering Committee, the Parties shall conduct a formal review
+     of the performance of this Agreement once in each 12 month period. Such
+     review shall include services, support, pricing, and customer issues.
+
+(c)  Dispute Resolution
+
+     (i)  If a Party ("the Disputing Party") wishes to invoke the dispute
+          procedure specified in this Section 10 it shall as soon as reasonably
+          practicable notify its representatives of the Steering Committee of
+          such dispute. The Disputing Party shall include with such notice all
+          relevant details including the nature and extent of the dispute;
+
+     (ii) following a notification under the Section 10(c)(I), the
+          representatives shall convene the Steering Committee which, in good
+          faith shall use all reasonable endeavours to resolve the dispute. If
+          no agreement is reached at the level of the Steering Committee,
+
+
+                                       10
+
+
+<PAGE>
+
+
+Services Agreement for Switched Voice Miscellaneous Services
+
+
+          the dispute may be escalated by any of the Parties to the level of the
+          Executive Boards of the Parties. If a Party escalates a dispute, it
+          shall record for the benefit of the next level all relevant details
+          including what is agreed and what is not agreed concerning the
+          dispute;
+
+    (iii) no change to a representative shall be effective until it has been
+          notified to the other Party;
+
+    (iv)  the above procedures are without prejudice to any other rights and
+          remedies that may be available in respect of any breach of any
+          provision of this Agreement;
+
+    (v)   all disputes arising under or in connection with this Agreement which
+          cannot be settled through the dispute resolution procedure set forth
+          herein shall be finally settled by a board of 3 arbitrators in
+          accordance with the Rules of Conciliation and Arbitration of the
+          International Chamber of Commerce. The arbitration shall take place in
+          the Netherlands and all proceedings shall be in the English language.
+          The decision reached by the arbitrators shall be final and either
+          Party may seek to have the arbitral award enforced by any court of
+          competent jurisdiction;
+
+    (vi)  each Party shall have the right to seek injunctive relief from any
+          court of competent jurisdiction pending the establishment of the
+          arbitral tribunal, injunctive relief in aid of arbitration or to
+          protect the rights of such Party. Any request for such interim relief
+          by a Party shall not be deemed incompatible with, or a waiver of, this
+          agreement to arbitrate.
+
+11. CONFIDENTIALITY, PUBLIC ANNOUNCEMENTS
+
+11.1 All Confidential Information shall be deemed the proprietary and
+     confidential information of the disclosing Party and shall be used by the
+     other Party only in accordance with this Agreement. Each Party shall be
+     responsible for the performance by its respective Affiliates of the
+     obligations under this Section 11 with respect to Confidential Information.
+
+11.2 With respect to all such Confidential Information, the receiving Party
+     shall:
+
+    (i)   receive and hold such Confidential Information in confidence and in
+          the same manner the receiving Party treats its own proprietary or
+          confidential information;
+
+    (ii)  restrict disclosure of such Confidential Information solely to those
+          employees, advisers and consultants with a need to know in connection
+          with the performance of this Agreement or the business of the Parties
+          and not make any further use or disclosure without the prior written
+          permission of the disclosing Party;
+
+    (iii) advise those employees, advisers and consultants, given access to
+          such Confidential Information of their obligations with respect to
+          such information; and
+
+    (iv)  not copy or reproduce any of such Confidential Information except to
+          the extent necessary to perform this Agreement.
+
+11.2 If either Party becomes subject to a mandatory requirement of any judicial,
+     governmental or regulatory authority having jurisdiction over such Party to
+     disclose Confidential Information, such Party shall give the Party which
+     disclosed such Confidential Information notice as soon as practicable of
+     such disclosure obligation and shall take any reasonable and lawful steps
+     to limit the amount of Confidential Information to be disclosed.
+
+11.3 All such Confidential Information disclosed by any Party to the other in
+     tangible form shall, upon the request of the disclosing Party, and in any
+     event upon termination of this Agreement, be returned to it or destroyed.
+
+11.4 Neither Party shall be liable to the other in damages for inadvertent,
+     accidental, unauthorised, or mistaken disclosure by its employees of
+     Confidential Information obtained pursuant to this Agreement.
+
+
+                                              11
+
+<PAGE>
+
+Services Agreement for Switched Voice Miscellaneous Services
+
+
+11.5     The provisions of this Section 11 shall survive the termination or
+         expiration of this Agreement for a period of 5 years following such
+         termination or expiration.
+
+11.6     No Party shall make any public announcement with respect to any
+         Agreement, without the prior written consent of FT and Equant.
+
+
+12.      LIABILITY
+
+12.1     Neither Party shall be liable to the other for consequential, indirect,
+         exemplary or special damages, including damages for lost profits,
+         revenue, opportunity, damage to or loss of data or other economic loss,
+         regardless of the form of action whether in contract, indemnity,
+         warranty, strict liability, or tort, including negligence, with regard
+         to their performance or non-performance under this Agreement, or the
+         provision of any products, services or other conduct under this
+         Agreement.
+
+12.2     Each Party providing products, services or support under this Agreement
+         shall use reasonable efforts to provide its products, services or
+         support in accordance with the terms and conditions of this Agreement.
+         However, except in respect to any service level arrangements that may
+         be agreed, neither Party shall guarantee to the other that the products
+         or services provided by such Party shall not be affected by any delay,
+         interruption, breakdown or failure or by any failure in or breakdown of
+         such Party's transmission facilities associated with such Products or
+         services, provided that in each case, such event was not caused by a
+         Material Default of such Party in the execution of its contractual
+         obligations and that the providing Party shall exert all efforts to the
+         best of its abilities, to mitigate the consequences of such event for
+         the other Party.
+
+12.3     Notwithstanding anything in this Agreement, neither Party shall be
+         liable to the other for any claims arising out of a breach in the
+         privacy or security of communications transmitted over such Party's
+         facilities, unless such breach in the privacy or security of such
+         communications is a result of the willful misconduct of such Party.
+
+12.4     Except for (a) claims arising from death or personal injury (for which
+         no limit applies); (b) claims arising from breach of third party
+         Intellectual Property Rights; (c) unpaid invoices; (d) credits under
+         any service level agreements; or (e) claims arising from breach of
+         confidentiality, the Parties cumulative liability for damages under
+         this Agreement, for any cause whatsoever, and regardless of the form of
+         action, whether in tort or contract, shall be limited to the lesser of
+         Euros 7,500,000 per event, or series of connected events, or the amount
+         invoiced for the purchase of the products or services to which the
+         claim relates, by either Party during the 12 month period immediately
+         prior to the occurrence of the event that gave rise to the cause of
+         action.
+
+13.      INDEMNIFICATION
+
+13.1     Except as otherwise provided herein, Equant and France Telecom S.A. (on
+         behalf of themselves and their respective Affiliates) (each an
+         "Indemnifying Party") hereby agree to defend, indemnify and hold the
+         other Party, its Affiliates and their respective directors, officers,
+         employees, and/or subcontractors harmless from and against any and all
+         claims, actions or demands against the other Party, its Affiliates and
+         their respective directors, officers, employees and/or subcontractors
+         and from and against any and all damages, liabilities and expenses,
+         including defence costs and legal fees, for injury to or death of any
+         person and for loss of or damage to any and all real or personal
+         property, whether tangible or intangible, arising out of the willful
+         misconduct or negligent acts or omissions of the Indemnifying Party or
+         its appointed agents, distributors and representatives, related to the
+         Indemnifying Party's performance or non-performance of its obligations
+         under this Agreement, including the Indemnifying Party's sale of
+         products, or performance of services, dealings with customers, or any
+         representation, act or omission made by the Indemnifying Party.
+
+13.2     If notified in writing of any action brought against the Indemnified
+         Party based on a claim that the Software or any equipment provided by
+         the Indemnifying Party to the Indemnified Party as
+
+
+                                       12
+
+
+<PAGE>
+
+Services Agreement for Switched Voice Miscellaneous Services
+
+
+         an integral part of any product or service infringes any Intellectual
+         Property Right, the Indemnifying Party shall defend any such action at
+         its expense and shall pay any and all fees, costs or damages that may
+         be finally awarded in such action and/or settlement thereof, provided
+         that the Indemnified Party gives the Indemnifying Party reasonable
+         assistance to defend and/or settle such claim. In the event that an
+         injunction, whether temporary or permanent, is obtained against the
+         Indemnified Party prohibiting use of the Software or equipment provided
+         to the Indemnified Party as an integral part of any product or service,
+         or any part thereof, by reason of such infringement, the Indemnifying
+         Party shall, at its option, either: (a) at the Indemnifying Party's
+         expense, procure the right for the Indemnified Party to continue using
+         the product or service; or (b) replace or modify such product or
+         service so that it is non-infringing; or (c) if the foregoing
+         alternatives are not feasible, the Indemnified Party shall, upon notice
+         from the Indemnifying Party, cease to use such product or service.
+
+13.3     Notwithstanding Section 13.2, the Indemnifying Party shall have no
+         obligation to defend the Indemnified Party or to pay costs, damages, or
+         legal fees for any claim based upon (a) use of other than a current
+         unaltered release of the Software which is provided as part of the
+         product or service, if such infringement would have been avoided by the
+         use of a current unaltered release of such Software (subject to its
+         provisioning by the Indemnifying Party); (b) the combination,
+         operations or use of any Software furnished under this Agreement with
+         Software or products not supplied by the Indemnifying Party, if such
+         infringement would have been avoided by not combining, operating or
+         using such Software with other programs or data; or (c) use of such
+         Software other than with any equipment, products or services provided
+         under this Agreement.
+
+14.      FORCE MAJEURE
+
+14.1     Neither Party shall be liable for failure to perform its obligations
+         hereunder due to Force Majeure.
+
+14.2     In the event that either Party is unable to perform any of its
+         obligations under this Agreement due to Force Majeure, the
+         non-performing Party shall immediately give notice to the other Party
+         and do everything reasonably possible to remedy the condition and
+         resume performance as soon as possible.
+
+14.3     Upon receipt of such notice, the obligations under this Agreement which
+         the affected Party is unable to perform because of such condition shall
+         be suspended for so long as such condition exists and the relevant cure
+         periods hereunder shall be extended for the period of time that such
+         condition exists. Such affected Party will use all commercially
+         reasonable efforts, including the use of alternative sources,
+         work-around plans or other means, to overcome such event of Force
+         Majeure as quickly as possible, and will keep the other Party informed
+         of the results of such efforts on a regular basis. Such Party shall
+         promptly notify the other of the termination of the event of Force
+         Majeure, and when performance by such Party of the obligation excused
+         by such event of Force Majeure will recommence.
+
+14.4     Notwithstanding Section 14.3, either Party shall be entitled to
+         terminate any Service Order if the Services under such Service Order
+         are not performed in full for 30 consecutive days due to an event of
+         Force Majeure.
+
+15.      INSURANCE
+
+15.1     Each Party shall maintain throughout the term of this Agreement at
+         least the following insurance coverage for itself, its officers,
+         employees and any contractors and subcontractors, agents and
+         representatives permitted to perform services on behalf of that Party
+         in accordance with this Agreement: (i) all insurance coverage not
+         specifically listed below that are required by the law of the local
+         jurisdiction of any location to conduct business lawfully within the
+         jurisdiction; (ii) general liability insurance of not less than
+         Euros10,000,000 per occurrence covering property damage, bodily injury
+         and death, and including coverage for loss from products, completed
+         operations and contractual liability; and (iii) commercial automobile
+         liability insurance with limits of not less than Euros10,000,000.
+
+
+                                       13
+
+
+<PAGE>
+
+Services Agreement for Switched Voice Miscellaneous Services
+
+
+16.      CHANGE OF CONTROL
+
+16.1     Either Party shall be entitled to terminate this Agreement at its
+         discretion on 60 days prior notice to the other Party, if France
+         Telecom's interest in the voting stock of Equant falls below 34%.
+
+17.      NOTICES
+
+         All notices, demands, or requests which may be given by any Party to
+         the other Party shall be in writing in the English language and shall
+         be deemed to have been duly given (a) on the date of dispatch when
+         delivered in person; (b) one day after dispatch when sent by overnight
+         courier, maintaining records of receipt; and (c) on the date of
+         dispatch when sent by registered mail or facsimile during normal
+         business hours with telephone confirmation of receipt and addressed as
+         follows:
+
+         If to Equant:
+         Attention: Executive
+         With a copy to:
+         The General Counsel or his appointed delegate (as notified to FT)
+
+         If to FT:
+         Attention: [ ]
+         With a copy to:
+         Legal Department
+
+         The address to which such notices, demands, request, elections, or
+         other communications given by either Party may be changed by written
+         notice given by such Party to the other Party pursuant to this Article.
+
+18.      CHANGE CONTROL PROCEDURE
+
+         The Parties recognise that this Agreement may need to be varied on a
+         regular basis. Accordingly the Parties agree to the following change
+         control procedure:
+
+         (a)      for operational changes to any Service performed, the terms of
+                  the relevant Service Order will apply;
+
+         (b)      for all other changes, the Parties shall effect such changes
+                  by entering into supplemental agreements to this Agreement
+                  which shall only be effective upon signature by authorised
+                  signatories of the Parties.
+
+19.      MISCELLANEOUS
+
+19.1     Governing Law
+
+         The construction, performance, validity and remedies for breach of this
+         Agreement shall be governed by English law.
+
+19.2     Relationship of the Parties
+
+         This Agreement is made between independent contractors and are not
+         intended to create, nor shall they be construed to be, a partnership,
+         franchise, or other form of business relationship, except as otherwise
+         provided herein. No Party shall have, nor hold itself out as having,
+         any right, power or authority to assume, create, or incur any expenses,
+         liability, or obligation on behalf of another Party, except as
+         expressly provided in this Agreement.
+
+19.3     Successors
+
+                                       14
+
+
+<PAGE>
+
+Services Agreement for Switched Voice Miscellaneous Services
+
+
+         This Agreement shall be binding upon the Parties and their respective
+         permitted successors and assigns.
+
+19.4     Assignment, Sub-Contractors
+
+         Neither this Agreement, nor the rights, obligations or duties of either
+         Party under this Agreement may be assigned or delegated to any other
+         Person without the prior consent of Equant N.V or France Telecom S.A
+         (as the case may be), provided, however, that a Party may, without the
+         other Party's consent, but with notice, assign or delegate all or part
+         of its right and obligations under this Agreement, to an Affiliate of
+         such Party, providing that the assigning Party shall continue to be
+         liable for the performance of its obligations hereunder. Equant shall
+         be entitled to subcontract any of its obligations to Sub-Contractors,
+         provided that Equant shall accept liability for the acts and omissions
+         of any Sub-Contractor.
+
+19.5     No Waivers
+
+         No waiver of any provisions of this Agreement and no consent to any
+         default under this Agreement shall be effective unless the same shall
+         be in writing and signed by or on behalf of the Party against whom such
+         waiver or consent is claimed. No failure of either Party to strictly
+         enforce any term, right, or conditions of this Agreement shall be
+         construed as a waiver of such term, right or condition.
+
+19.6     No Licences
+
+         Except as expressly set forth in this Agreement, no licenses or other
+         rights of use of any patents, copyrights, trade secrets, trade names,
+         trademarks, service marks or other proprietary rights are granted by
+         this Agreement.
+
+19.7     Warranties
+
+         Each Party represents and warrants that:
+
+         (a)      it has the full authority to perform its obligations under
+                  this Agreement and that the person executing this Agreement on
+                  behalf of such Party has the authority to bind it;
+
+         (b)      it shall comply with all applicable laws, licences and
+                  regulations in carrying out its obligations under this
+                  Agreement and shall conduct its business and represent the
+                  other Party in a professional, ethical, legal and businesslike
+                  manner, and shall commit no act which would reflect
+                  unfavourably on the other.
+
+19.8     Material Defaults
+
+         Either Party may terminate this Agreement in the event of a Material
+         Default by the other Party, provided that:
+
+         (a)      the non-defaulting Party gives the defaulting Party at least
+                  60 days prior written notice of the alleged Material Default
+                  and of the notifying Party's intention to terminate, or 30
+                  days prior written notice in the case of the defaulting
+                  party's failure to make any payment when due; and
+
+         (b)      for events of Material Default that are capable of being
+                  remedied within the relevant period specified above, the
+                  defaulting Party has not remedied the alleged Material Default
+                  within that period.
+
+19.9     Regulatory
+
+         The performance of this Agreement by the Parties is subject to all
+         applicable existing and future laws, rules, and regulations of any duly
+         constituted governmental authority having jurisdiction, and is
+         contingent upon the obtaining and continuance of such approvals,
+         consents, governmental authorisation, licences and permits as may be
+         required or deemed necessary for this Agreement by the Parties.
+
+
+                                       15
+
+
+<PAGE>
+
+Services Agreement for Switched Voice Miscellaneous Services
+
+
+19.10    Data Protection
+
+         In performing its obligations under this Agreement, the Parties shall
+         comply with the Data Protection Legislation and in particular shall (a)
+         take appropriate technical and organisational measures against the
+         unauthorised or unlawful processing of Personal Data and against actual
+         loss or destruction of, or damage to, the Personal Data, having regard
+         to the state of technological development and the cost of implementing
+         any measures, the measures must ensure a level of security appropriate
+         to the harm that might result from unauthorised or unlawful processing
+         or accidental loss, destruction or damage and the nature of the
+         Personal Data; and (b) not export from any country within the European
+         Economic Area any Personal Data to any country outside of the European
+         Economic Area without the other Party's prior consent.
+
+19.11    Severability
+
+         In the event a court or other lawful authority of competent
+         jurisdiction declares that any one or more of the provisions contained
+         herein to be invalid, illegal or unenforceable in any respect, such
+         declaration shall not affect the validity or enforceability of any
+         other provision of this Agreement, provided that if necessary to
+         maintain the intent of the Parties, the Parties shall negotiate in good
+         faith to amend this Agreement to replace the invalid, illegal or
+         unenforceable provision with an enforceable provision which reflects
+         such intent as closely as possible.
+
+19.12    Third Party Beneficiaries
+
+         Except as otherwise expressly stated herein, nothing in this Agreement
+         shall be construed as conferring any rights or benefits upon any Person
+         who or which is not a Party to this Agreement. The Contracts (Rights of
+         Third Parties) Act 1999 and any other legislation in any jurisdiction
+         applicable to this Agreement that confers contractual rights on third
+         parties, is hereby excluded to the fullest extent permitted by law.
+
+19.13    Entire Agreement
+
+         This Agreement, including its Appendices, and the Service Orders
+         together constitute the entire agreement between the Parties with
+         respect to the subject matter dealt with in this Agreement and
+         supersede all prior oral or written agreements, representations
+         (innocent or negligent), statements, negotiations, understandings,
+         proposals relating to such subject matter between the Parties.
+
+19.14    Priority of Documents
+
+         If there is any inconsistency between any of the provisions of the body
+         of this Agreement and any Appendix or Service Order, the body of this
+         Agreement shall prevail, unless otherwise expressly stated in the body
+         of this Agreement.
+
+19.15    Audit
+
+         Each Party shall have the right, through an independent auditor
+         retained by it, to inspect records of the other Party for the sole
+         purpose of verifying the accuracy of the invoices and statements
+         exchanged between the Parties for payment, provided that each Party
+         shall be subject to no more than one such audit per year. Audits shall
+         be allowed only after the giving of reasonable notice and only where an
+         audit is conducted at a reasonable time. Any agent who may conduct an
+         audit on behalf of a Party shall execute a confidentiality undertaking
+         if required by the party whose records are being audited.
+
+19.16    Survival of Terms
+
+         The following Sections of this Agreement will survive its termination
+or expiry:
+
+         Section 10(c) (Dispute Resolution);
+         Section 11 (Confidentiality of Agreement, Public Announcements);
+         Section 12 (Liability);
+
+
+                                       16
+
+
+<PAGE>
+
+Services Agreement for Switched Voice Miscellaneous Services
+
+
+         Section 13 (Indemnification);
+         Section 19.2 (Relationship of Parties);
+         Section 19.5 (No Waivers);
+         Section 19.11 (Severability);
+         Section 19.12 (Third Party Beneficiaries);
+         Section 19.14 (Priority of Documents);
+         Section 19.16 (Survival of Terms).
+
+IN WITNESS WHEREOF, the Parties have caused this Agreement to be duly executed
+as of the Effective Date.
+
+
+
+                                       17
+
+
+<PAGE>
+
+Services Agreement for Switched Voice Miscellaneous Services
+
+
+                    APPENDIX 1 - DESCRIPTION OF THE SERVICES
+
+1.       GENERAL REQUIREMENTS
+
+         The working language will be English for both written and oral
+         communications.
+
+         FT may request all below listed Services to Equant on a per Site basis.
+         Equant shall provide the Services as further described below and shall
+         make appropriate resources, including manpower available in order to
+         fulfill all below listed Services. However, Equant shall not
+         subcontract any of its obligations under this Agreement without the
+         prior written consent of FT. All subcontractors as of the Effective
+         Date are hereby approved by FT. Equant shall diligently follow all FT
+         instructions, and shall be liable for any negligent non-compliance
+         therewith However this responsibility does not apply to employees
+         dedicated to FT under the HR Services Agreement with Equant.
+
+         Subject to FT's agreement, FT shall provide technical support and
+         training for the Services on a jointly defined case-by-case basis.
+
+         Equant shall dedicate a Customer Operation Manager (COM) who shall
+         interface with FT for day to day operational aspects and performance
+         reviews on all Services provided under this Agreement.
+
+         Equant and FT shall agree on how to communicate electronically and
+         interface with each other selected IS systems. This shall be done with
+         one or a combination of the items described in the Services Agreement
+         relating to Information System Services.
+
+         Technical and Management Escalation path and up-to-date contacts have
+         to be defined by Equant and FT for all Services.
+
+2.       HOUSING OF EQUIPMENT
+
+2.1      Housing Requirements
+
+         -    Management and maintenance of local facilities (HVAC, power,
+              security, etc.)
+         -    99.97 % of availability with AC and/or DC power supply 7 x 24
+              with UPS and generator support.
+         -    HVAC average equipment room temperature 22(degree)C +/-
+              2(degree)C
+         -    Relative Humidity of 50 % +/- 10 %
+         -    Secure operational environment
+         -    Access to premises for FT or any FT direct or indirect
+              subcontractor: following access procedures to be defined per
+              country/POP:
+         -    Phone and access to remote dial-up facilities
+         -    When requested, on-site escort in the case when the installation
+              is entrusted to a third party
+         -    Site documentation update
+         -    Rack space with front and rear access
+         -    Planning. Implementation and maintenance of Equant technical
+              facilities to meet engineering requirements
+         -    Notify FT of local operating procedures for operating and
+              maintaining of Equant technical facilities
+         -    Planning and build out of infrastructure for access and backbone
+              -    Access from alternate vendors into facilities
+              -    Planning of internal transmission and cross connections
+              -    Connections of Equipment and subcontractor's equipment
+              -    Floor space planning
+
+         Non Equant POPS: Equant will handle the contractual relationship with
+         the provider of housing facilities.
+
+
+
+                                       18
+
+
+<PAGE>
+
+Services Agreement for Switched Voice Miscellaneous Services
+
+
+         Equant will be responsible for providing to FT a feasibility study for
+         each of the above within 10 Working Days of FT's written request.
+
+2.1      Housing of FT Equipment
+
+         Equant shall install FT Equipment at the agreed Site in accordance with
+         FT's guidelines provided on a case by case and under FT supervision.
+
+         Equant will be responsible for the management and maintenance of the
+         Site including all related facilities (HVAC, power, security, etc.)
+
+         FT or its subcontractors will be granted physical and remote access to
+         the Sites, including but not limited to, for the purposes of testing
+         etc., subject to procedures to be defined per country/POP and which
+         will be reflected in Service Orders. Where access is physical, it shall
+         be limited to authorized personnel of FT or their authorised agents.
+         Equant will provide a formal access procedure by May 31st, 2002.
+
+         All relocations of Equipment within the Network are to be agreed by the
+         Parties.
+
+         The costs associated with any relocation shall be allocated in
+         accordance with the principles set forth in the MOU.
+
+         Equant will be responsible for providing to FT a feasibility study for
+         each proposed relocation within 15 Working Days of FT's written
+         request.
+
+2.3      Housing of Equipment
+
+         For Equipment and related systems located at a Site for the purpose of
+         providing Services to FT, FT shall specify:
+
+                -   The type of Equipment to be installed or decommissioned
+                -   The relevant technical environmental specifications
+                -   The Site (with additional details if required) where the
+                    Equipment is going to be installed
+
+         Equant will be responsible for providing to FT a feasibility study for
+         each of the above within 10 Working Days of FT's written request.
+
+         All relocations of Equipment for the purpose of providing Services to
+         FT are to be agreed by the Parties.
+
+3.       SUPPORT TO CUSTOMER SERVICE IMPLEMENTATION
+
+         All Service implementation activities will be under FT's project
+         management authority except for service to MNC customers. FT will own
+         the interface with Carrier customers.
+
+3.1      Equipment and Systems Implementation
+
+         Any Equipment installation will be completed within the standard
+         implementation intervals as defined by FT and agreed by both Parties.
+         FT shall have the authority to manage the projects, and therefore FT
+         shall provide a specific engineering plan. Further, FT expects to
+         receive status reports from Equant, on a weekly basis unless otherwise
+         agreed by the Parties.
+
+3.2      Equipment Purchasing
+
+         FT shall advise Equant which, Equipment and related systems, Equant
+         should procure for the purpose of supplying the Services. Equant shall
+         advise FT within 10 Working Days if such proposed procurement is
+         feasible.
+
+3.3      Equipment Implementation Logistics
+
+         Equant will be responsible for:
+
+
+                                       19
+
+
+<PAGE>
+
+Services Agreement for Switched Voice Miscellaneous Services
+
+
+         -    Import and export of Equipment as necessary including payment of
+              any applicable fees or taxes for Equipment release;
+         -    Support in tracking Equipment delivered in country, but not
+              delivered to the Site;
+         -    Inventory of all Equipment delivered; the inventory shall include
+              the state of the Equipment after its delivery.
+
+3.4      Equipment Installation
+
+         This Section relates to the installation, or the removal, of Equipment.
+         It includes all activities necessary for Equant to perform these
+         functions. FT's project management shall oversee the Equipment
+         installations, or removals. FT shall provide a specific engineering
+         plan for both types of activities.
+
+         3.4.1    The Equipment specifications are defined and provided by FT
+                  whether the installation is done by Equant, or by a third
+                  party.
+
+                  Should the installation be entrusted to a third party, Equant
+                  will provide:
+
+                  -     Access to the Sites according to access procedures per
+                        Site defined in Section 2.2 of Appendix 1
+                  -     Local support (e.g., information to a technician about
+                        energy connections);
+                  -     Weekly reporting for on-going installations unless
+                        otherwise agreed. After the installation is completed,
+                        Equant shall provide FT will a final report that shall
+                        address the completion of the Equipment installation,
+                        delivery of spare parts, and when the Equipment or the
+                        system was brought into service;
+
+                  Should the installation be entrusted to Equant, Equant is
+                  responsible for, but not limited to, the connection, the
+                  turning on of, and bringing into service of the Equipment,
+                  within the required time interval, and with weekly reporting
+                  to FT unless otherwise agreed;
+
+         3.4.2    Upon acceptance of the installation, Equant shall submit a
+                  final report to FT. The report shall include the final
+                  description of the installation. The final report should also
+                  include the description of spare part and additional Equipment
+                  deliveries during the installation;
+
+                  Equant shall also have the responsibility for maintaining and
+                  updating appropriate site document.
+
+         3.4.3    Acceptance Process: All Services relating to FT Equipment
+                  located at the Sites shall be accepted by FT pursuant to a
+                  mutually agreed acceptance process to be defined by the
+                  Parties.
+
+         3.4.4    Hand-over Process: The following requirements shall be
+                  followed for Equipment or upgrades thereto:
+
+                  -     All projects are reviewed with FT;
+
+                  -     All documentation related to the project shall be made
+                        available to FT;
+
+                  The required monitoring and surveillance Equipment shall be
+                  installed and tested following the guidelines provided by FT
+                  as part of the installation project. FT has the full
+                  responsibility of confirming the proper operations of the
+                  voice monitoring and surveillance Equipment.
+
+                  In this Section, project means all voice platform
+                  installations and platform expansions; all voice platform
+                  feature software upgrades or enhancements; and any voice
+                  platform hardware upgrades (processor, memory expansion, etc.)
+                  with the exception of port expansions.
+
+3.5      Testing and Quality checks
+
+
+                                       20
+
+
+<PAGE>
+
+Services Agreement for Switched Voice Miscellaneous Services
+
+
+         FT has the full responsibility to ensure that each voice platform
+         installation or upgrade, covered by this Agreement, has been fully
+         tested and complies with the Test Specifications defined by FT's Voice
+         Engineering department and agreed by both Parties. Equant will assist
+         with the testing and will validate (by formal acceptance) that the
+         testing meets the specifications given by FT.
+
+3.6      Other Activities
+
+         Support from Equant may be required for other activities including
+         call-through testing and trouble-shooting on existing billing
+         equipment, associated router/servers and cabling and any billing
+         activities related to the Services.
+
+3.7      Carrier Customers and Service Implementation
+
+         For the installation of new Carrier customers, Equant will perform the
+         local operation activities described below. FT shall provide to Equant
+         a process for provisioning by May 31st, 2002. FT's project management
+         shall be responsible for overseeing said installations. Equant will
+         provide a SPOC function to assist FT in this coordination.
+
+         a) Order entry interface
+               -    (e.g. access circuit ordering)
+
+         b) Carrier customer
+               -    Access and other equipment [and/or CPE] installation
+               -    Access circuit installation
+               -    Equipment installation
+               -    Testing
+               -    Acceptance
+               -    Wiring
+
+         c) Upon FT's request
+               -    Switch configuration
+               -    Optioning, testing
+               -    Table building & Translation (where not centralized within
+                    FT)
+               -    CDR generation and content checking under the supervision
+                    of FT.
+
+         d) Billing mediation system update
+               FT will request that Equant ensure that any Carrier customer
+               mediation billing setup is performed in order to allow proper
+               Carrier customer invoicing. FT and Equant will clarify this
+               process and responsibilities by May 31st, 2002.
+
+         e) Carrier Customer hand-over
+               FT will request that Equant ensure that Carrier customer
+               hand-over are performed in accordance with specifications defined
+               by FT and agreed by both Parties. FT and Equant will clarify this
+               process and responsibilities by May 31st, 2002.
+
+3.8      MNC Customer and Service Implementation
+
+         For the installation of new MNC customers and former Equant MNC
+         customers migrated onto the Network in accordance to MoU. Equant will
+         perform the following local operation activities:
+
+         a) Customer access:
+               -    Access circuit installation (from the distribution frame to
+                    the switch port)
+               -    Equipment installation
+               -    Wiring
+               -    Testing
+               -    Acceptance
+
+         b) and where requested by FT:
+               -    Switch configuration:
+               -    testing
+               -    Table building & translation (where not centralized by FT)
+
+
+                                       21
+
+
+<PAGE>
+
+Services Agreement for Switched Voice Miscellaneous Services
+
+
+               -    CDR generation and content checking under the supervision
+                    of FT.
+
+4.       OPERATIONS
+
+4.1.     Maintenance
+
+         FT will define the maintenance best practices by May 31st, 2002. FT may
+         request Equant to perform local support for maintenance activities
+         following the pre-defined maintenance guidelines. These activities
+         shall include:
+
+               -    Preventive maintenance inspections
+               -    Scheduled maintenance
+               -    Switch configuration (table updates, port configuration,
+                    trunk configuration)
+               -    Vendor repair and return process
+               -    First level/local maintenance of the data network for remote
+                    operations, monitoring, and maintenance
+               -    Central data base maintenance support
+
+4.2.     Change Management
+
+         FT will request Equant to perform local support for change management
+         activities. These activities shall include:
+               -    Equipment extension
+               -    Hardware modifications
+               -    Software upgrades
+               -    Systems modifications (monitoring platform, billing system)
+
+4.3.     Fault Management
+
+         Equant shall provide fault management services to FT, 24 hours a day, 7
+         days a week, covering all Equipment, for all of the countries where
+         Equant provides the Services. These fault management services include:
+
+               -    Call management: 24x7 contact(s) is available to FT for any
+                    troubleshooting request made to Equant. Only P1 tickets will
+                    be handled on a 24x7 basis, subject to PTT and/or vendor
+                    contracts SLAs. All other cases will be put on hold until
+                    the next business day.
+               -    Access and escort will be provided to the sub-contracted
+                    third party whenever, and wherever, the troubleshooting
+                    requires specific on-site intervention or expertise. Only P1
+                    tickets will be handled on a 24x7 basis, subject to PTT
+                    and/or vendor contract SLAs. All other cases will be dealt
+                    with during local business hours.
+               -    Customer coordinated troubleshooting of circuits and
+                    equipment. Only P1 tickets will be handled on a 24x7 basis,
+                    subject to PTT and/or vendor contract SLAs. All other cases
+                    will be put on hold until the next business day.
+               -    Performing and/or coordination of corrective actions for the
+                    technical environment (Power/UPS, air conditioning, fire
+                    protection, alarms management).
+               -    Implementation of repair SLAs with all responsible PTOs and
+                    local capacity providers
+               -    Implementation of repair SLAs with sub-contracted and 3rd
+                    party vendors (when applicable)
+               -    Trouble Ticket Management (from initiation to closure)
+               -    Real time telephone reporting to FT on trouble tickets.
+               -    A field technician can be dispatched to the relevant Site on
+                    a 24x7 basis for P1 tickets only. Exceptions can be made at
+                    a cost to FTLD. The response time and any equipment
+                    necessary to the field technician shall be defined in the
+                    Process Performance Measurement, which is defined and agreed
+                    by both Parties.
+
+         FT may either determine that a P1 classification is appropriate, or
+         reclassify the TT as required to meet its business needs. This incident
+         is considered minimal but on occasions may be necessary to ensure the
+         integrity of the network.
+
+
+                                       22
+
+
+<PAGE>
+
+Services Agreement for Switched Voice Miscellaneous Services
+
+
+         In the countries where FT does not rely on Equant for trouble shooting,
+         Equant shall only provide 24 x 7 Site access and premises escort to the
+         sub-contracted third parties.
+
+         For the purpose of satisfying FT's current in-house reporting needs,
+         full read only real time access to the relevant CTTS voice trouble
+         ticket information data source will be provided to FT by Equant.
+
+         Equant and FT Fault Management Escalation lists are attached in
+         Appendix 6.
+
+4.4.     Local Capacity Management
+
+         Equant will provide local support, where required, to manage voice
+         circuits, switch ports, signaling links, and any and all network
+         facilities required to establish end-to-end circuit connectivity for
+         customers of Services.
+
+4.4.1    Route Management
+
+                  FT will ensure adequate circuit capacity to handle all planned
+                  traffic. FT will provide a methodology for managing unexpected
+                  surges in demand, or emergencies to ensure the quality of the
+                  Services is not degraded.
+
+4.4.2    Voice and Signaling Circuit Capacity Management
+
+                  Equant is responsible for maintaining the accuracy of the
+                  existing local circuit data base until migration to a new
+                  central database.
+
+                  FT and Equant shall work together to create a common database
+                  for circuit inventory / information and migrate all local
+                  information into this database.
+
+                  Equant will be responsible for maintaining the accuracy of the
+                  local country circuit inventory in this database.
+
+                  Equant shall provide an inventory report in electronic format
+                  upon FT's request to Equant.
+
+                  The required circuit information will include:
+
+                  -    Baseline circuit quantity (for example how many)
+                  -    Circuit connectivity (for example to and from which
+                       locations)
+                  -    Circuit Capacity (for example E1 , T1)
+                  -    Name of Carrier o Circuit ID
+
+
+                                       23
+<PAGE>
+Services Agreement for Switched Voice Miscellaneous Services
+
+
+4.4.3    Switch Ports
+
+                  Equant is responsible for maintaining the accuracy of the
+                  existing local port data bases until migration to a new
+                  central database.
+
+                  Upon FT's request, Equant will work with FT to populate a
+                  central database of all switch ports covered by this
+                  Agreement. Equant shall provide an inventory report in
+                  electronic format upon FT's request to Equant.
+
+                  The required switch port information includes:
+
+                  -    Wired Ports
+                  -    Installed Ports
+                  -    Assigned Ports
+
+4.4.4    Support for Quality Management
+
+         When requested by FT, Equant shall provide support for measuring voice
+         quality parameters:
+
+         -    Call completion rate (NER-Network Efficiency Ratio or ASR-Answer
+              Seizure Ratio)
+         -    Post dial delay
+         -    Call clarity (measures echo, clipping, static, noise, speech
+              delay, etc.)
+         -    Total traffic volume
+
+4.4.5    Best Choice Routing (BCR)
+
+         Upon FT's request Equant shall perform voice routing implementation and
+         maintenance activities.
+
+         The following activities are fully under FT's responsibility and Equant
+         will provide the required local services / resources to support this
+         function where required as forecasted by FT.
+
+         The activities shall include:
+
+
+                                       24
+
+<PAGE>
+Services Agreement for Switched Voice Miscellaneous Services
+
+
+         -    Implement into the switches routing tables provided by FT.
+         -    Maintain switch-dialing plan as created and requested by FT.
+         -    Perform carrier destination quality pre-certification testing.
+              A test list shall be provided periodically by FT.
+         -    Participate in the weekly trouble tickets and non-BCR review
+              meeting held by BCR team.
+         -    Participate in the FT's biweekly conference call, or meeting, to
+              coordinate routing, quality, and emergency procedures.
+         -    Maintain FT's BCR Support System (BCRSS) database maintenance and
+              data entry for all the information regarding switch and trunk
+              configuration. Where this function is not centralized.
+         -    Implement exception routing whenever requested by FT and provide
+              notification upon action completion where this function is not
+              centralized.
+         -    Maintain and distribute weekly a file of all exception routings
+              initiated at both FT's request or as an emergency action
+              resulting from the trouble ticket handling process.
+         -    Provide website based weekly trouble ticket reports.
+
+4.4.6    Relationships with Local Telecom Providers
+
+         Equant shall contract with the local telecom providers in order to
+         supply the Services and switched access as applicable, in order to meet
+         FT's requirements. For further clarity this obligation only applies in
+         countries where this activity is not already being performed by FT or
+         employees under the HR Services Agreement. Equant shall
+
+         -    Obtain final rate information, and enter into contracts and SLAs,
+              where applicable, which meet FT's requirements, after
+              consultation with FT
+         -    Issue request for quotation for carrier customer access
+         -    Provide access to its premises and supply of technical
+              environment information, if required
+         -    Enforce the performance standards with the telecom provider
+              (performance review, operational procedures, resolution of
+              disputes) in accordance with the standards set forth in the SLA.
+              If no SLA is available, Equant shall manage the telecom provider
+              to provide an acceptable level of service ) Equant shall review
+              such activity with FT.
+         -    Follow-up on day-to-day working relationship issues
+         -    Provide escalation contacts for the local telecom providers
+         -    Provide Initial escalation contact point - Make payment to the
+              telecom provider for services received, unless instructed by FT
+              not to do so, and perform invoice verification and approval under
+              FT's control. Equant shall consult with FT to confirm receipt of
+              service.
+         -    Review each invoice against the Enhanced Voice Offnet Cost Report
+              (Control Sheet) for the prior month, which FT shall provide to
+              Equant on a monthly basis;
+         -    Provide FT with the Summary Report (Control Sheet) within 3 days
+              of receipt of the Enhanced Voice Offnet Cost Report from FT, and
+              discuss with FT any material rate/minute differences.
+         -    Manage circuit and contract termination pursuant to instructions
+              from FT
+         -    Communicate information to FT that may impact the business within
+              the country
+
+         In order for Equant to complete the above activities FT will provide to
+         Equant overall circuit coordination for international circuit orders
+
+Responsibilities with respect to voice access and termination:
+
+FT is responsible for the management of voice termination including:
+
+i)    defining the terms for voice termination contracts and rates with
+      suppliers;
+ii)   validating voice termination invoices based on actual minute volume; and
+iii)  decison-making and management of voice termination invoice disputes with
+      suppliers.
+
+Equant is responsible for the following:
+
+
+                                       25
+
+<PAGE>
+Services Agreement for Switched Voice Miscellaneous Services
+
+
+i)   following FT's instructions in the negotiation of voice termination
+     contracts;
+ii)  following FT's instructions in the validation of voice termination invoices
+     by:
+
+
+4.4.7    Regulatory Authority
+
+         Equant shall obtain the appropriate regulatory authority to enable it
+         to provide the Services. Equant shall provide to FT all relevant
+         information with respect to relevant regulations and compliance
+         obligations associated with the Network. FT may instruct Equant to
+         lobby local regulatory authorities with respect to issues of importance
+         to FT. The coordination of the following activities is under FT's
+         responsibility; Equant will provide the necessary local resources and
+         activities to support this function. FT will provide a SPOC, which will
+         coordinate the activities across the regions.
+
+         Such Equant local resources and activities, may include for example:
+
+         -    Provide a list of the regulatory requirements for doing business
+              in the country o Provide copies of any voice licenses
+              documentation
+         -    Local legal and regulatory requirements for storage of customer
+              information that must be complied with
+         -    On demand, provide copies of local regulations and specific
+              agreements concerning the general obligations in the area of
+              national security, law enforcement and public safety
+         -    Comply with local regulations and agreements as regards the area
+              of national security, law enforcement, public safety and
+              protection of personal data
+
+4.4.8    Relationships with Third Party Vendors to Support the Supply of
+         Services
+
+         As applicable, and subject to agreement with FT, Equant may enter into
+         local agreements with third party vendors as necessary to support the
+         Services. This may include some or all of the following:
+
+         -    Obtain rate information and enter into contracts and SLAs (after
+              formal approval with FT)
+         -    Provide access to premises and supply of technical environment,
+              if required
+         -    Place the order and contract with the third party and manage
+              delivery of the product according to the terms of the contracts
+              signed with such third party vendors FT is responsible for vendor
+              selection. FT may choose to use Equant's standard supplier.
+         -    Monitor day-to-day working relationship, escalation paths
+         -    Perform invoice verification, approval, and payment to the third
+              party under FT's control and instruction
+         -    Terminate contract or service orders as instructed by FT
+
+         As applicable, Equant shall enter into contracts or continue existing
+         contracts between Equant and third party providers of software licenses
+         & maintenance and equipment maintenance services related to the
+         Equipment.
+
+4.4.9    Planned Outages
+
+When Equant performs maintenance on and upgrades to the Network, or its network
+or equipment, or anything which could impact the Services, and if these planned
+works (hereinafter referred to as "Planned Work") may affect the provision of
+the Services (hereinafter referred to as "Planned Outage"), Equant shall give FT
+advance notice as follows and shall give FT an opportunity to provide an input
+and comment on the work plan.
+
+The notification of this Planned Work shall be given in writing and as many days
+prior to the commencement of said Planned Work as is reasonably possible, but in
+any event, not less than 20 Working Days prior to such commencement. This
+notification shall detail the duration and planning of the Planned Work. Equant
+shall make its best efforts to limit the number of Planned Outages.
+
+To the extent it is possible to do so, all Planned Work shall be scheduled for
+and conducted during the pre approved maintenance window as agreed between
+Equant and FT.
+
+
+                                       26
+
+<PAGE>
+Services Agreement for Switched Voice Miscellaneous Services
+
+
+The Parties shall agree on the procedure and process for conducting Planned
+Work.
+
+Planned Work shall not be considered as a fault and therefore shall not be taken
+into account when calculating availability in accordance with Appendix 2, 4 or
+5. In the event of failure by Equant to follow the process for Planned Outage,
+this shall be considered as a fault and the maintenance time shall be taken into
+account when calculating the availability.
+
+In the event that emergency maintenance is required, FT will be notified as soon
+as is reasonably practicable given the circumstances, in accordance with the
+agreed procedure.
+
+
+
+
+
+
+
+
+
+
+
+                                       27
+
+<PAGE>
+Services Agreement for Switched Voice Miscellaneous Services
+
+
+
+                 APPENDIX 2 - QUALITY AND PERFORMANCE MANAGEMENT
+
+1.       KEY PERFORMANCE INDICATORS (KPIs)
+
+         PURPOSE
+
+         KPIs are used to measure Equant's performance and quality of service
+         when providing FT with the Services. The following KPIs are designed to
+         allow performance follow up and improvements to the Services. KPIs
+         shall be applied on a global basis. KPIs shall be measured on a country
+         by country basis. Determination of what credits are due shall be made
+         on a country by country basis.
+
+         Performance targets and attached Fee credits are defined in Appendix 4.
+         The Parties have agreed that both the performance targets and the Fee
+         credits will be reviewed by May 31, 2002 and the Parties will replace
+         Appendix 4 at the end of such period. Until that date, no Fee credits
+         will be payable by Equant.
+
+         The Parties agree that where a performance indicator exceeds the KPI
+         threshold due to FT negligence, Equant shall not be responsible for
+         paying a Fee credit such as defined in Appendix 4.
+
+         The Parties will review this Appendix at least once every 12 months, as
+         well as Appendix 4 on a quarterly basis, if they agree, they will make
+         any necessary changes to any KPI and KPI targets.
+
+2.       HOUSING KPIs
+
+         The Housing KPIs are:
+
+         Number of events caused by technical environmental reasons that had a
+         detrimental effect on the Services such that the Services cannot be
+         provided, and for which specified performance targets were not met.
+
+         Availability of Housing for Equipment (expressed as a percentage of
+         total hours and measured monthly).
+
+3.       SERVICES IMPLEMENTATION KPIs
+
+         The Services Implementation KPIs are:
+
+         Percentage of Equipment installed on time as per the Service Order.
+
+         Percentage of circuits (local) installed on time as per the Service
+         Order.
+
+4.       VOICE OPERATIONS KPIs
+
+         The Services Operations KPIs are:
+
+         Handle-Time-to-Restore (HTTR): the total time comprised from fault
+         notice from FT to Equant until the Service is restored.
+
+         Mean Response Time (MRT) period of time (measured in hours) beginning
+         from the failure notice by FT to Equant field services until the Equant
+         field technician's arrival on site (calculated as the average value of
+         all response times recorded on a monthly basis).
+
+5.       BCR
+
+         This KPI will remain valid till the BCR centralization is completed by
+         FT. Once completed, this KPI will no longer be applicable.
+
+         The measurement of this KPI shall be the responsibility of FT.
+
+
+
+                                       28
+<PAGE>
+Services Agreement for Switched Voice Miscellaneous Services
+
+
+         The BCR KPIs are
+
+         -    Implementation lead time of Routing Tables into the switches
+         -    Lead time to perform carrier destination quality
+              pre-certification testing
+         -    Implementation lead time of exception routing. Exception routing
+              requires pre-defined routing instruction. Equant will not be
+              liable where the decision to implement exception routing is
+              confirmed in writing by FT prior to the exception routing
+              implemented into the switch. Where no instruction is forth coming
+              no exception routing must be implemented otherwise Equant will be
+              liable to meet the cost differential.
+
+         Where "lead time" is: the total time from the confirmed reception by
+         Equant of the request until completion of the task.
+
+
+6.       KPI REPORT
+
+         Equant shall provide a report measuring its performance in producing
+         the reports set forth in Section 9 of this Appendix 2. Equant shall
+         produce such report on a quarterly basis.
+
+7.       CREDIT
+
+         A credit mechanism is applied for the KPIs indicated above.
+
+         If one of the KPI credit quarterly threshold is met within the quarter,
+         and if this situation is confirmed by both Parties, the Fee credit will
+         be equal to:
+
+                  $100 X number of Working Days within a quarter where the KPI
+                  credit threshold is exceeded.
+
+         Penalty only applicable to the number of days outside the KPI.
+
+         If the threshold for the KPI exceeds 15 consecutive days, the above
+         credit allowance will be increased to $200 per Working Day for each day
+         past the initial 15 day period.
+
+         No Credit shall be granted if the malfunction of the Service is due to:
+
+                (i)    An outage due to Force Majeure.
+                (ii)   An outage imputed to FT, its employees, or its
+                       Sub-Contractors.
+
+         For the purpose of this Agreement, Equant, its employees and its
+         Affiliates or its Affiliates employees or Equant sub-contractors shall
+         not be considered as Sub-Contractors.
+
+8.       MEASUREMENTS
+
+          Equant will be responsible for measurement of the KPI performance
+         using its tools and systems excluding the BCR measurement defined in
+         Section 6 of this Appendix.
+
+9.       REPORTING
+
+         All reports shall be generated by Equant and provided to FT on a
+         monthly basis. Points of contact (POC) are provided in Appendix 8.
+
+         On-line Reporting
+
+         By the 15th of each month, the most current KPI report shall be posted
+         on an Intranet WEB site, accessible only to authorized employees of FT
+         and Equant. The reports should be in standard format and easily
+         downloaded from the website. The timeline upon which the reports will
+         be posted will be agreed between the Parties.
+
+
+                                       29
+
+<PAGE>
+Services Agreement for Switched Voice Miscellaneous Services
+
+
+         KPI Review
+
+         FT and Equant shall jointly review the results reported in the monthly,
+         quarterly, and annual KPI reports.
+
+         Disputed KPI Results
+
+         The Parties will discuss within 10 Working Days of the posting , any
+         issues or disputes concerning the monthly, quarterly, or annual KPI
+         reports. Each Party shall provide the other with reasons and back-up
+         information. The other Party shall have 5 Working Days from receipt
+         notification of the dispute to provide an answer or explanation in
+         writing. If there is a mistake or omission in the original KPI report,
+         the report owner shall provide a corrected version of the report within
+         5 Working Days of dispute resolution. If the disputed item is not
+         resolved by the Parties, either Party may refer the matter to disputes
+         in accordance with Section 10 of the Agreement.
+
+         Timing of Reports
+
+         Equant shall monitor its performance under all KPI reports as per the
+         below:
+
+         Monthly KPI Reports
+
+         Equant shall prepare the preceding month's KPIs for the monthly KPI
+         report. Equant shall post the most current KPI report by the 15th of
+         the following month on an Intranet WEB site, accessible only to
+         authorized employees of FT and Equant. The previous thirteen months of
+         reports shall be archived on the same website.
+
+         Quarterly KPI Reports
+
+         Equant will assemble the KPI information for the entire quarter and
+         will provide the information displayed both as monthly data and for the
+         cumulative quarter. The quarterly report will be provided on the 15th
+         of the first month of the following quarter.
+
+         Annual KPI Reports
+
+         Equant will assemble the KPI information for the entire year and will
+         provide the information displayed both as monthly data, cumulative by
+         quarter, and for the year. The annual report will be provided by the
+         20th of January of the following year.
+
+10.      PERFORMANCE REVIEW
+
+         Monthly Performance Review
+
+         The management teams responsible for the KPIs shall review the monthly
+         performance review. There should not be a need for a face-to-face
+         meeting unless the results are below expectation, and it is determined
+         a Service Improvement Plan (SIP) must be implemented. Designated
+         management and executive management representatives for FT and Equant
+         shall attend such meetings, if required.
+
+         Quarterly Performance Reviews
+
+         Quarterly performance reviews shall be formal meetings held within 4
+         weeks of the end of the quarter unless otherwise agreed unnecessary by
+         both Parties. Equant shall present the results for the entire quarter.
+         Designated management and executive management representatives of FT
+         and Equant shall attend the meetings. Equant and FT will agree on the
+         meeting agenda at least one week before the meeting and shall be
+         responsible for taking and distributing the meeting minutes within 5
+         Working Days after the review.
+
+         Annual Performance Review
+
+
+                                       30
+<PAGE>
+Services Agreement for Switched Voice Miscellaneous Services
+
+
+         The meeting shall be formal and shall be held within 4 weeks of the
+         year end. It shall be attended by FT's and Equant's executive
+         management, or their designated representatives. Equant shall prepare a
+         presentation of the results for the year. Equant and FT will agree on
+         the meeting agenda at least two weeks before the review and shall be
+         responsible for taking and distributing the meeting minutes within 5
+         Working Days after the review. FT shall present the forecast of voice
+         network requirements for the coming year.
+
+11.      SERVICE IMPROVEMENT PLANS (SIPS)
+
+         The Service Improvement Plan (SIP) shall ensure that service failures
+         are identified, documented, assigned, and corrected within a committed
+         timeframe. The SIP shall also be used after FT has determined that
+         Equant has not met their required service performance, or when Equant
+         is not following the required contract specifications, processes, and
+         procedures.
+
+         The need for service improvement shall be determined during the monthly
+         and quarterly performance review meetings unless otherwise requested by
+         one of the Parties. If it is determined during the monthly or quarterly
+         performance meetings that the SIP process must be implemented, a
+         problem statement shall be sent to Equant for implementation. Equant
+         shall respond to FT with a proposed action plan and timetable within 10
+         Working Days. Upon FT's approval, and response to Equant, the SIP shall
+         be implemented.
+
+
+
+
+
+
+
+                                       31
+
+<PAGE>
+
+Services Agreement for Switched Voice Miscellaneous Services
+
+
+                    APPENDIX 3 - EQUANT EQUIPMENT / LOCATION
+
+Equant Equipment managed by FT and used by Equant to provide the Services to FT
+
+<TABLE>
+<CAPTION>
+-----------------------------------------------------------------------------------------------------------------------------------
+                                                                                              TEST
+                                                                                            EQUIPMENT     TOTAL # OF
+                                                                                               LIST       RACKS FOR THE
+                                 SWITCH    # OF DCME         # OF DCME     # OF ECHO CANS  (# AND MODEL)  SWITCHED VOICE
+COUNTRY       SWITCH SITE         TYPE    TERMINALS 240X   TERMINALS 360X   E1/T1 PORTS     EX: 1 X MPA      EQUIPMENTS    COMMENTS
+-----------------------------------------------------------------------------------------------------------------------------------
+<S>           <C>                <C>       <C>              <C>             <C>             <C>           <C>              <C>
+Australia     Melbourne          DMS GSP
+-----------------------------------------------------------------------------------------------------------------------------------
+Australia     Sydney             DMS GSP
+-----------------------------------------------------------------------------------------------------------------------------------
+Austria       Vienna             DMS GSP
+-----------------------------------------------------------------------------------------------------------------------------------
+Belgium       Brussels           DMS GSP
+-----------------------------------------------------------------------------------------------------------------------------------
+Belgium       Brussels1            M1
+-----------------------------------------------------------------------------------------------------------------------------------
+Brazil        Sao Paulo           AEX10
+-----------------------------------------------------------------------------------------------------------------------------------
+Canada        Toronto             AXE10
+-----------------------------------------------------------------------------------------------------------------------------------
+China         Hong Kong          DMS GSP
+-----------------------------------------------------------------------------------------------------------------------------------
+Denmark       Copenhagen          AXE10
+-----------------------------------------------------------------------------------------------------------------------------------
+Denmark       Copenhagen           ANS
+-----------------------------------------------------------------------------------------------------------------------------------
+Finland       Helsinki            AXE10
+-----------------------------------------------------------------------------------------------------------------------------------
+France        Paris               AXE10
+-----------------------------------------------------------------------------------------------------------------------------------
+France        Paris                BMX
+-----------------------------------------------------------------------------------------------------------------------------------
+Germany       Frankfurt          DMS GSP
+-----------------------------------------------------------------------------------------------------------------------------------
+Italy         Milan              DMS GSP
+-----------------------------------------------------------------------------------------------------------------------------------
+                                   MMCS
+                                Merdidian
+                               Opt.61 (DMS
+                              front end for
+                               analogic or
+                                   CAS
+Italy         Milan1           connections)
+-----------------------------------------------------------------------------------------------------------------------------------
+Japan         Tokyo              DMS GSP
+-----------------------------------------------------------------------------------------------------------------------------------
+Luxembourg    Luxembourg          AXE10
+-----------------------------------------------------------------------------------------------------------------------------------
+Netherlands   Amsterdam          DMS GSP
+-----------------------------------------------------------------------------------------------------------------------------------
+</TABLE>
+
+                                       32
+
+
+<PAGE>
+
+Services Agreement for Switched Voice Miscellaneous Services
+
+<TABLE>
+<CAPTION>
+-----------------------------------------------------------------------------------------------------------------------------------
+<S>           <C>             <C>
+                                  MMCS
+                               * Switch is
+                               not in use
+                               anymore, no
+                                   new
+                               destination
+Netherlands   Amsterdam2       yet defined
+-----------------------------------------------------------------------------------------------------------------------------------
+New Zealand   Auckland            AXE10
+-----------------------------------------------------------------------------------------------------------------------------------
+Norway        Oslo                AXE10
+-----------------------------------------------------------------------------------------------------------------------------------
+Portugal      Lisbon             MMCS/C7
+-----------------------------------------------------------------------------------------------------------------------------------
+Singapore     Singapore           AXE10
+-----------------------------------------------------------------------------------------------------------------------------------
+Singapore     Singapore           AXE10
+-----------------------------------------------------------------------------------------------------------------------------------
+Spain         Madrid             DMS GSP
+-----------------------------------------------------------------------------------------------------------------------------------
+Spain         Barcelona           MMCS
+-----------------------------------------------------------------------------------------------------------------------------------
+Sweden        Stockholm           AXE10
+-----------------------------------------------------------------------------------------------------------------------------------
+Switzerland   Geneva              AXE10
+-----------------------------------------------------------------------------------------------------------------------------------
+Switzerland   Zurich              MMCS
+-----------------------------------------------------------------------------------------------------------------------------------
+Taiwan        Taipei             DMS GSP
+-----------------------------------------------------------------------------------------------------------------------------------
+UK            Telehouse          DMS100E
+-----------------------------------------------------------------------------------------------------------------------------------
+UK            Archway House      DMS GSP
+-----------------------------------------------------------------------------------------------------------------------------------
+UK            Manchester         DMS100E
+-----------------------------------------------------------------------------------------------------------------------------------
+USA           Oak Hill           DMS GSP
+-----------------------------------------------------------------------------------------------------------------------------------
+                                                                                                              TOTAL #
+                                                                                                           OF RACKS = 0
+</TABLE>
+
+                                       33
+<PAGE>
+
+Services Agreement for Switched Voice Miscellaneous Services
+
+
+                        APPENDIX 4 - KPIS AND FEE CREDITS
+
+KPIs related to Service Implementation (Section 3 of Appendix 1)
+<TABLE>
+<CAPTION>
+
+----------------------------------------------------------------------------------------------------------------------------------
+<S>                  <C>                                                       <C>                     <C>
+                     KPI                                                       Target                  Credit
+----------------------------------------------------------------------------------------------------------------------------------
+Housing KPIs         Number of events due to technical
+                     environment failures                                      0                       No applicable
+----------------------------------------------------------------------------------------------------------------------------------
+                     % Availability of Housing service                         100 %                   Application of Section 6
+                                                                                                       (Appendix2)
+----------------------------------------------------------------------------------------------------------------------------------
+Service Order        Card changing =                                           2 working days          Application of Section 6
+Implementation:                                                                                        (Appendix2
+                     Within agreed upon maintenance window
+----------------------------------------------------------------------------------------------------------------------------------
+                     Other service order implementation =                      90%                     Application of Section 6
+                     % target committed date met, as per defined                                       (Appendix2)
+                     in the Service Order
+----------------------------------------------------------------------------------------------------------------------------------
+</TABLE>
+
+
+
+
+                                       34
+<PAGE>
+
+Services Agreement for Switched Voice Miscellaneous Services
+
+
+KPIs related to Operations (Section 4 of Appendix 1)
+<TABLE>
+<CAPTION>
+----------------------------------------------------------------------------------------------------------------------------------
+<S>                  <C>                                                       <C>                     <C>
+Fault Management     HTTR - P1                                                 P1 [less than] 3h       Application of Section 6
+                                                                                                       (Appendix2)
+----------------------------------------------------------------------------------------------------------------------------------
+                     HTTR - P2                                                 P2 [less than] 6h       Application of Section 6
+                                                                                                       (Appendix2)
+----------------------------------------------------------------------------------------------------------------------------------
+                     MRT                                                       P1 [less than]          Application of Section 6
+                     Local business hours in all countries                     30 minutes              (Appendix2)
+                     of the perimeter
+----------------------------------------------------------------------------------------------------------------------------------
+                     MRT                                                       P1 [less than]          Application of Section 6
+                     Out of local business hours UK, Spain,                    2 hours                (Appendix2)
+                     Italy and Finland
+----------------------------------------------------------------------------------------------------------------------------------
+                     MRT                                                       P1 [less than]          Application of Section 6
+                     Out of business hours all other countries                 1.25 hour               (Appendix2)
+                     of the perimeter
+----------------------------------------------------------------------------------------------------------------------------------
+                     MRT                                                       P2 [less than]          Application of Section 6
+                     Local business hours only                                 1 hour                  (Appendix2)
+----------------------------------------------------------------------------------------------------------------------------------
+BCR                  Implementation of Routing Tables into the                 2 days                  Application of Section 6
+                     Switches                                                                          (Appendix2)
+----------------------------------------------------------------------------------------------------------------------------------
+                     Carrier destination quality pre-certification             2 days                  Application of Section 6
+                                                                                                       (Appendix2)
+----------------------------------------------------------------------------------------------------------------------------------
+                     Implementation of exception routing                       1h                      Application of Section 6
+                                                                                                       (Appendix2)
+----------------------------------------------------------------------------------------------------------------------------------
+</TABLE>
+
+
+Where P1, P2, P3 and P4 mean:
+
+     -    P1 - Equant total voice access trunk outage without alternate routes,
+          or total failure of calls to all destinations.
+     -    P2 - Partial voice access trunk outage, or total failure of calls to
+          multiple destinations, or degraded quality to all destinations.
+     -    P3 - Degraded quality on calls to one or multiple destinations (each
+          destination should have a separate ticket).
+     -    P4 - No customer impact or Monitoring or Documentation or Cards on
+          backup or Chronic ticket.
+
+
+
+                                       35
+<PAGE>
+
+
+SERVICES AGREEMENT FOR SWITCHED VOICE MISCELLANEOUS SERVICES
+
+                        APPENDIX 5 - SERVICE ORDER FORM
+
+           SERVICE AGREEMENT FOR SWITCH VOICE MISCELLANEOUS SERVICES
+                        APPENDIX 5 - SERVICE ORDER FORM
+
+1. Service order to be provided each quarter as a forecast for services. This
+   should be provided one month prior to the ned of the forecast period
+
+2. Each Service Order will be compiled at a site level.
+
+3. Additional services can be requested during a quarter but will be appendixes
+   to the pertaining Service Order Form
+
+4. Equant estimate the man hours of service requested. Within 10 working days
+   (FTE* = Full Time Equivalent)
+
+5. The service Order Form is to be operated in accordance with section 4 of the
+   Service Agreement relating to Switched Voice Miscellaneous Services between
+   FRANCE TELECOM S.A. and EQUANT N.V.
+
+Accordingly the Parties agree as of the Effective Date:-
+
+For FT:-                                For Equant:-
+Name:                                   Name:
+Title:                                  Title:
+Date:                                   Date:
+
+NB. This Service Order (SO) cab be superseded at anytime by a new SO agreed by
+both parties in accordance with section 18 of the Service Agreement.
+
+<TABLE>
+<CAPTION>
+==============================================================================================================
+CONTRACTUAL CONTRACT                                    TECHNICAL CONTACT
+==============================================================================================================
+FTLD                    EQUANT                          FTLD                    EQUANT
+--------------------------------------------------------------------------------------------------------------
+<S>                     <C>                             <C>                     <C>
+Name                    Name                            Name                    Name
+--------------------------------------------------------------------------------------------------------------
+Telephon                Telephone                       Telephone               Telephone
+--------------------------------------------------------------------------------------------------------------
+Fax                     Fax                             Fax                     Fax
+--------------------------------------------------------------------------------------------------------------
+e-Mail                  e-Mail                          e-Mail                  e-Mail
+==============================================================================================================
+</TABLE>
+
+===================================
+Quarter
+-----------------------------------
+SO Starting Date
+-----------------------------------
+SO Terminating Date
+===================================
+
+<TABLE>
+<CAPTION>
+=======================================================================================================================
+                                                COUNTRIES/VOLUME
+=======================================================================================================================
+OPS SERVICES REQUESTS            AMSTERDAM       AUCKLAND        BRUSSELS        COPENHAGEN      FRANKFURT       GENEVA
+=======================================================================================================================
+<S>                              <C>             <C>             <C>             <C>             <C>             <C>
+Trouble Tickets in Business Hr
+-----------------------------------------------------------------------------------------------------------------------
+Trouble Tickets Outside Bus Hr
+-----------------------------------------------------------------------------------------------------------------------
+Trouble Tickets handled Total
+-----------------------------------------------------------------------------------------------------------------------
+Daily Switch Log Checks
+-----------------------------------------------------------------------------------------------------------------------
+Daily ASR Checks
+-----------------------------------------------------------------------------------------------------------------------
+BCR Loads
+-----------------------------------------------------------------------------------------------------------------------
+FTLD Network Implementations
+-----------------------------------------------------------------------------------------------------------------------
+FTLD Customer Implementation
+-----------------------------------------------------------------------------------------------------------------------
+CLI Implementation
+-----------------------------------------------------------------------------------------------------------------------
+Carrier Testing Assistance
+-----------------------------------------------------------------------------------------------------------------------
+Preventative Maintenance
+-----------------------------------------------------------------------------------------------------------------------
+Billing Checks
+-----------------------------------------------------------------------------------------------------------------------
+Site Admin
+-----------------------------------------------------------------------------------------------------------------------
+
+=======================================================================================================================
+TOTAL ESTIMATED MANPOWER
+=======================================================================================================================
+</TABLE>
+
+<TABLE>
+<CAPTION>
+====================================================================================================================================
+                                                          COUNTRIES VOLUME
+====================================================================================================================================
+OPS SERVICES REQUESTS            HELSINKI      HONG KONG     LONDON    LISBON    LUXEMB    MADRID    BARCELONA     FTE*  PRICE TOTAL
+====================================================================================================================================
+<S>                              <C>           <C>           <C>       <C>       <C>       <C>       <C>           <C>   <C>
+                                                                                                                                  $0
+------------------------------------------------------------------------------------------------------------------------------------
+Trouble Tickets in Business Hr
+------------------------------------------------------------------------------------------------------------------------------------
+Trouble Tickets Outside Bus Hr
+------------------------------------------------------------------------------------------------------------------------------------
+Trouble Tickets handled                                                                                                           $0
+------------------------------------------------------------------------------------------------------------------------------------
+Daily Switch Log Checks
+------------------------------------------------------------------------------------------------------------------------------------
+Daily ASR Checks
+------------------------------------------------------------------------------------------------------------------------------------
+BCR Loads                                                                                                                         $0
+------------------------------------------------------------------------------------------------------------------------------------
+FTLD Network Implementations                                                                                                      $0
+------------------------------------------------------------------------------------------------------------------------------------
+FTLD Customer Implementation                                                                                                      $0
+------------------------------------------------------------------------------------------------------------------------------------
+CLI Implementation
+------------------------------------------------------------------------------------------------------------------------------------
+Carrier Testing Assistance                                                                                                        $0
+------------------------------------------------------------------------------------------------------------------------------------
+Preventative Maintenance                                                                                                          $0
+------------------------------------------------------------------------------------------------------------------------------------
+Billing Checks
+------------------------------------------------------------------------------------------------------------------------------------
+Site Admin                                                                                                                        $0
+------------------------------------------------------------------------------------------------------------------------------------
+                                                                                                                                  $0
+====================================================================================================================================
+TOTAL ESTIMATED MANPOWER                                                                                             X            $0
+====================================================================================================================================
+</TABLE>
+
+<TABLE>
+<CAPTION>
+====================================================================================================================================
+                                                          COUNTRIES/VOLUME
+====================================================================================================================================
+OPS SERVICES REQUESTS            MANCHESTER      MILAN     OAK HILL     OSLO     SAO PAOLO    SINGAPORE      STOCKHOLM       SYDNEY
+====================================================================================================================================
+<S>                              <C>             <C>       <C>          <C>      <C>          <C>            <C>             <C>
+------------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------------
+Trouble Tickets in Business Hr
+------------------------------------------------------------------------------------------------------------------------------------
+Trouble Tickets Outside Bus Hr
+------------------------------------------------------------------------------------------------------------------------------------
+Trouble Tickets handled
+------------------------------------------------------------------------------------------------------------------------------------
+Daily Switch Log Checks
+------------------------------------------------------------------------------------------------------------------------------------
+Daily ASR Checks
+------------------------------------------------------------------------------------------------------------------------------------
+BCR Loads
+------------------------------------------------------------------------------------------------------------------------------------
+FTLD Network Implementations
+------------------------------------------------------------------------------------------------------------------------------------
+FTLD Customer Implementation
+------------------------------------------------------------------------------------------------------------------------------------
+CLI Implementation
+------------------------------------------------------------------------------------------------------------------------------------
+Career Testing Assistance
+------------------------------------------------------------------------------------------------------------------------------------
+Preventative Maintenance
+------------------------------------------------------------------------------------------------------------------------------------
+Billing Checks
+------------------------------------------------------------------------------------------------------------------------------------
+Site Admin
+------------------------------------------------------------------------------------------------------------------------------------
+
+====================================================================================================================================
+TOTAL ESTIMATED MANPOWER
+====================================================================================================================================
+</TABLE>
+
+<TABLE>
+<CAPTION>
+====================================================================================================================
+                                                   COUNTRIES/VOLUME
+====================================================================================================================
+OPS SERVICES REQUESTS            TAIPEI       TOKYO       TORONTO      VIENNA       ZURICH      FTE*     PRICE TOTAL
+====================================================================================================================
+<S>                              <C>          <C>         <C>          <C>          <C>         <C>      <C>
+                                                                                                                  $0
+--------------------------------------------------------------------------------------------------------------------
+Trouble Tickets in Business Hr
+--------------------------------------------------------------------------------------------------------------------
+Trouble Tickets Outside Bus Hr
+--------------------------------------------------------------------------------------------------------------------
+Trouble Tickets handled                                                                                           $0
+--------------------------------------------------------------------------------------------------------------------
+Daily Switch Log Checks
+--------------------------------------------------------------------------------------------------------------------
+Daily ASR Checks
+--------------------------------------------------------------------------------------------------------------------
+BCR Loads                                                                                                         $0
+--------------------------------------------------------------------------------------------------------------------
+FTLD Network Implementations                                                                                      $0
+--------------------------------------------------------------------------------------------------------------------
+FTLD Customer Implementation                                                                                      $0
+--------------------------------------------------------------------------------------------------------------------
+CLI Implementation
+--------------------------------------------------------------------------------------------------------------------
+Career Testing Assistance                                                                                         $0
+--------------------------------------------------------------------------------------------------------------------
+Preventative Maintenance                                                                                          $0
+--------------------------------------------------------------------------------------------------------------------
+Billing Checks
+--------------------------------------------------------------------------------------------------------------------
+Site Admin                                                                                                        $0
+--------------------------------------------------------------------------------------------------------------------
+                                                                                                                  $0
+====================================================================================================================
+TOTAL ESTIMATED MANPOWER                                                                          X               $0
+====================================================================================================================
+</TABLE>
+
+
+<TABLE>
+<CAPTION>
+=======================================================================================================================
+                                                          COUNTRIES (YES/NO)
+=======================================================================================================================
+OTHER MISC. SERVICE REQUESTS     AMSTERDAM       AUCKLAND        BRUSSELS        COPENHAGEN      FRANKFURT       GENEVA
+=======================================================================================================================
+<S>                              <C>             <C>             <C>             <C>             <C>             <C>
+
+-----------------------------------------------------------------------------------------------------------------------
+PTT Account Management
+-----------------------------------------------------------------------------------------------------------------------
+Regulatory Management
+-----------------------------------------------------------------------------------------------------------------------
+
+=======================================================================================================================
+TOTAL
+=======================================================================================================================
+</TABLE>
+
+<TABLE>
+<CAPTION>
+====================================================================================================================================
+                                                          COUNTRIES (YES/NO)
+====================================================================================================================================
+OTHER MISC. SERVICE REQUESTS     HELSINKI      HONG KONG     LONDON    LISBON    LUXEMB    MADRID    BARCELONA     FTE*  PRICE TOTAL
+====================================================================================================================================
+<S>                              <C>           <C>           <C>       <C>       <C>       <C>       <C>           <C>   <C>
+                                                                                                                                  $0
+------------------------------------------------------------------------------------------------------------------------------------
+PTT Account Management                                                                                                            $0
+------------------------------------------------------------------------------------------------------------------------------------
+Regulatory Management                                                                                                             $0
+------------------------------------------------------------------------------------------------------------------------------------
+                                                                                                                                  $0
+====================================================================================================================================
+TOTAL                                                                                                                X            $0
+====================================================================================================================================
+</TABLE>
+
+<TABLE>
+<CAPTION>
+====================================================================================================================================
+                                                          COUNTRIES (YES/NO)
+====================================================================================================================================
+OTHER MISC. SERVICE REQUESTS     MANCHESTER      MILAN     OAK HILL     OSLO     SAO PAOLO    SINGAPORE      STOCKHOLM       SYDNEY
+====================================================================================================================================
+<S>                              <C>             <C>       <C>          <C>      <C>          <C>            <C>             <C>
+
+------------------------------------------------------------------------------------------------------------------------------------
+PTT Account Management
+------------------------------------------------------------------------------------------------------------------------------------
+Regulatory Management
+------------------------------------------------------------------------------------------------------------------------------------
+
+====================================================================================================================================
+TOTAL
+====================================================================================================================================
+</TABLE>
+
+<TABLE>
+<CAPTION>
+====================================================================================================================
+                                             COUNTRIES (YES/NO)
+====================================================================================================================
+OPS SERVICES REQUESTS            TAIPEI       TOKYO       TORONTO      VIENNA       ZURICH      FTE*     PRICE TOTAL
+====================================================================================================================
+<S>                              <C>          <C>         <C>          <C>          <C>         <C>      <C>
+                                                                                                                  $0
+--------------------------------------------------------------------------------------------------------------------
+PTT Account Management                                                                                            $0
+--------------------------------------------------------------------------------------------------------------------
+Regulatory Management                                                                                             $0
+--------------------------------------------------------------------------------------------------------------------
+                                                                                                                  $0
+====================================================================================================================
+TOTAL                                                                                             X               $0
+====================================================================================================================
+</TABLE>
+
+<TABLE>
+<CAPTION>
+===================================================================================================================
+AD-HOC/PROJECT REQUEST                                                                                     COST ($)
+===================================================================================================================
+<S>                                                                                                       <C>
+Country                                                                                                       X
+-------------------------------------------------------------------------------------------------------------------
+Request (Include Plan No.)                                                                                    X
+-------------------------------------------------------------------------------------------------------------------
+                                                                                                              X
+-------------------------------------------------------------------------------------------------------------------
+Equant comments/Date                                                                                          X
+===================================================================================================================
+TOTAL
+===================================================================================================================
+</TABLE>
+
+
+                                    Page 38
+
+<PAGE>
+
+Services Agreement for Switched Voice Miscellaneous Services
+
+                              VOICE SERVICE INDEX
+
+ALL NON DAILY SERVICES WILL BE TRACKED BY CTTS FOR REPORTING AND MONITORING,
+THIS WILL BE ACTIVATED DURING Q2 2002
+
+<TABLE>
+<CAPTION>
+------------------------------------------------------------------------------------------------------------------------------------
+SERVICES                        MAN HOURS EFFORT        COMMENTS
+------------------------------------------------------------------------------------------------------------------------------------
+<S>                             <C>                     <C>
+                                                        Definition of services
+                                                        Localisation of cct problems (applying Loops / Dis)
+                                                        Applying Tester to cct, BERT or voice Signalling tracting Correcting Local
+                                                        wiring problems (jumpers on DDF)
+Trouble Tickets                                         Arranging access for vendor on site
+                                                        Hardware swap of voice equipment
+                                                        Booking cct out to PTT
+                                                        Managing ticket with PTT updates and escalations as per ticket
+                                                        excellence in CTTS
+------------------------------------------------------------------------------------------------------------------------------------
+                                                        Definition of services
+Daily Switch Log Check                                  Each business day mroning review switch log's for underlining issues
+                                                        Raise any issues for resolution
+------------------------------------------------------------------------------------------------------------------------------------
+                                                        Definition of Service
+Daily ASR Checks                                        Each business day morning review carrier ASR or degradation of service
+                                                        including trombones
+                                                        Raise any issues to FTLD for Resolution via FTLD Process
+------------------------------------------------------------------------------------------------------------------------------------
+                                                        Definition of service Running
+FTLD Network Implementation                             Jumpers and termination BERT cct testing on turn up
+2M/bit & FTLD Customer                                  Accepting cct from provider Updating database
+Implementation                                          Update Aravis System for FTLD Customers
+                                                        As per FTLD Process
+------------------------------------------------------------------------------------------------------------------------------------
+                                                        Definition of Service
+CLI Implementation                                      Ensure correct loading of Local CLI's for indirect access customers
+------------------------------------------------------------------------------------------------------------------------------------
+Carrier Customer Testing                                Definition of Service
+Assistance                                              Local Technical Language Support during call testing
+------------------------------------------------------------------------------------------------------------------------------------
+                                                        Definition of Service
+                                                        Perform Preventive mantenance as per FTLD Process
+Preventive Maintenance                                  Examples
+                                                        Filter changes on a rack
+                                                        Backup Tape Changes
+------------------------------------------------------------------------------------------------------------------------------------
+                                                        Definition of Service
+                                                        Checking trouble tickets of open BCR issues
+BCR Loading                                             Loading BCR
+                                                        As per FTLD defined Process
+------------------------------------------------------------------------------------------------------------------------------------
+                                                        Definition of Service
+Billing Admin                                           Perform Daily checks on Aravis system
+------------------------------------------------------------------------------------------------------------------------------------
+                                                        Definition of Service
+                                                        Voice site inspection - Area clean & tidy
+Site Admin Task                                         No Facilities issues to endanger voice equipment
+                                                        Visual check on batteries if supplied etc
+                                                        Voice DDF is tidy
+------------------------------------------------------------------------------------------------------------------------------------
+                                                        Definition of Service
+                                                        Tasks which have not been catered for in the above.
+Voice Projects                                          This include switch upgrades ONP's
+                                                        Amount of hours to be agreed depending on the project.
+                                                        Ad Hoc Service request section to be filled in for the project
+------------------------------------------------------------------------------------------------------------------------------------
+                                                        Definition of Service
+Carrier Account Management                              Account Management for a carrier
+------------------------------------------------------------------------------------------------------------------------------------
+                                                        Definition of Service
+Regulatory Management                                   Management of Licence and Interconnect agreements incountry
+                                                        against current contract.
+------------------------------------------------------------------------------------------------------------------------------------
+</TABLE>
+
+
+
+
+
+                                    Page 39
+
+
+
+<PAGE>
+Services Agreement for Switched Voice Miscellaneous Services
+
+
+
+            APPENDIX 6 - EQUANT AND FT - FAULT MNGT ESCALATION LISTS
+
+
+<TABLE>
+<CAPTION>
+
+                        FTLD FAULT MNGT ESCALATION LIST
+
+====================================================================================================================================
+CTTS GROUPNAME                  ESCALATION_LEVEL              HOURS                      CONTACT                   TITLE
+====================================================================================================================================
+<S>                               <C>            <C>                              <C>                        <C>
+GLOBAL VOICE 1ST LEVEL SUPPORT          I              08:00-18:00 Mon-Fri             Glyn Prowse              Team Leader
+------------------------------------------------------------------------------------------------------------------------------------
+GLOBAL VOICE 1ST LEVEL SUPPORT          II        P1, 24 hr P2,3,4-7hrs by 5days       Evan Clarke                Manager
+------------------------------------------------------------------------------------------------------------------------------------
+GLOBAL VOICE 1ST LEVEL SUPPORT         III        P1, 24 hr P2,3,4-7hrs by 5days       Evan Clarke                Manager
+------------------------------------------------------------------------------------------------------------------------------------
+GLOBAL VOICE 1ST LEVEL SUPPORT          IV        P1, 24 hr P2,3,4-7hrs by 5days       John Gross                 Director
+====================================================================================================================================
+GLOBAL VOICE 2ND LEVEL SUPPORT          I                00:00-12:00 EST              VTAC Frankfurt           Senior Engineer
+------------------------------------------------------------------------------------------------------------------------------------
+GLOBAL VOICE 2ND LEVEL SUPPORT          I                12:00-23:59 EST                 VTAC USA              Senior Engineer
+------------------------------------------------------------------------------------------------------------------------------------
+GLOBAL VOICE 2ND LEVEL SUPPORT          II               00:00-12:00 EST           Alexander Evstafyev          VTAC Manager
+------------------------------------------------------------------------------------------------------------------------------------
+GLOBAL VOICE 2ND LEVEL SUPPORT          II               12:01-23:59 EST             Joe San-Nicolas            VTAC Manager
+------------------------------------------------------------------------------------------------------------------------------------
+GLOBAL VOICE 2ND LEVEL SUPPORT         III                    All                     Gary Cottage             Group Manager
+------------------------------------------------------------------------------------------------------------------------------------
+GLOBAL VOICE 2ND LEVEL SUPPORT          IV                    All                      John Gross                 Director
+====================================================================================================================================
+GLOBAL VOICE NMC                        I                     All                  Voice NMC Engineer            Engineer
+------------------------------------------------------------------------------------------------------------------------------------
+GLOBAL VOICE NMC                        II                5am-5pm GMT               Manfred Donack                Manager
+------------------------------------------------------------------------------------------------------------------------------------
+GLOBAL VOICE NMC                        II                5pm-5am GMT               Thomas Herbig                 Manager
+------------------------------------------------------------------------------------------------------------------------------------
+GLOBAL VOICE NMC                       III                    All                   Richard Ramharak           Group Manager
+------------------------------------------------------------------------------------------------------------------------------------
+GLOBAL VOICE NMC                        IV                    All                      John Gross                  Director
+====================================================================================================================================
+GLOBAL VOICE TAC VENDOR                 I                00:00-12:00 EST            VTAC Frankfurt             Senior Engineer
+------------------------------------------------------------------------------------------------------------------------------------
+GLOBAL VOICE TAC VENDOR                 I                12:00-23:59 EST              VTAC USA                 Senior Engineer
+------------------------------------------------------------------------------------------------------------------------------------
+GLOBAL VOICE TAC VENDOR                 II               00:00-12:00 EST           Alexander Evstafyev          VTAC Manager
+------------------------------------------------------------------------------------------------------------------------------------
+GLOBAL VOICE TAC VENDOR                 II               12:01-23:59 EST             Joe San-Nicolas            VTAC Manager
+------------------------------------------------------------------------------------------------------------------------------------
+GLOBAL VOICE TAC VENDOR                III                    All                     Gary Cottage             Group Manager
+------------------------------------------------------------------------------------------------------------------------------------
+GLOBAL VOICE TAC VENDOR                 IV                    All                      John Gross                 Director
+====================================================================================================================================
+GLOBAL VOICE TRANSLATIONS               I                     All                 Voice Translations On Call      On Call
+------------------------------------------------------------------------------------------------------------------------------------
+GLOBAL VOICE TRANSLATIONS               II                    All                     holger loeffert             Manager
+------------------------------------------------------------------------------------------------------------------------------------
+GLOBAL VOICE TRANSLATIONS              III                    All                      John Calder                Manager
+------------------------------------------------------------------------------------------------------------------------------------
+GLOBAL VOICE TRANSLATIONS               IV                    All                      John Calder                Manager
+====================================================================================================================================
+Fifth Level for all Groups               V                    All                       Ian Speed              Vice President
+====================================================================================================================================
+</TABLE>
+
+
+
+
+                        FTLD FAULT MNGT ESCALATION LIST
+
+================================================================================
+CTTS GROUPNAME                              MOBILE
+================================================================================
+GLOBAL VOICE 1ST LEVEL SUPPORT        +44(0)7836-727-298
+--------------------------------------------------------------------------------
+GLOBAL VOICE 1ST LEVEL SUPPORT        +44(0)7768-991-668
+--------------------------------------------------------------------------------
+GLOBAL VOICE 1ST LEVEL SUPPORT        +44(0)7768-991-668
+--------------------------------------------------------------------------------
+GLOBAL VOICE 1ST LEVEL SUPPORT          +1703-328-1909
+================================================================================
+GLOBAL VOICE 2ND LEVEL SUPPORT        +49 69 92901 540
+--------------------------------------------------------------------------------
+GLOBAL VOICE 2ND LEVEL SUPPORT        +49 69 92901 540
+--------------------------------------------------------------------------------
+GLOBAL VOICE 2ND LEVEL SUPPORT        +49 171 226 4951
+--------------------------------------------------------------------------------
+GLOBAL VOICE 2ND LEVEL SUPPORT         +1 703-216-4519
+--------------------------------------------------------------------------------
+GLOBAL VOICE 2ND LEVEL SUPPORT         +1703-201-8661
+--------------------------------------------------------------------------------
+GLOBAL VOICE 2ND LEVEL SUPPORT         +1703-328-1908
+================================================================================
+GLOBAL VOICE NMC                             N/A
+--------------------------------------------------------------------------------
+GLOBAL VOICE NMC                      +49-160-741 5746
+--------------------------------------------------------------------------------
+GLOBAL VOICE NMC                      +1 703 981 0826
+--------------------------------------------------------------------------------
+GLOBAL VOICE NMC                      +49 171 2264952
+--------------------------------------------------------------------------------
+GLOBAL VOICE NMC                      +1703-328-1908
+================================================================================
+GLOBAL VOICE TAC VENDOR               +49 69 92901 540
+--------------------------------------------------------------------------------
+GLOBAL VOICE TAC VENDOR               +49 69 92901 540
+--------------------------------------------------------------------------------
+GLOBAL VOICE TAC VENDOR               +49 171 226 4951
+--------------------------------------------------------------------------------
+GLOBAL VOICE TAC VENDOR                +1 703-216-4519
+--------------------------------------------------------------------------------
+GLOBAL VOICE TAC VENDOR                +1703-201-8661
+--------------------------------------------------------------------------------
+GLOBAL VOICE TAC VENDOR                +1703-328-1809
+================================================================================
+GLOBAL VOICE TRANSLATIONS           +49-69-9290-1655 24 hrs
+--------------------------------------------------------------------------------
+GLOBAL VOICE TRANSLATIONS               +49-171-8665438
+--------------------------------------------------------------------------------
+GLOBAL VOICE TRANSLATIONS               +1-571-277-2139
+--------------------------------------------------------------------------------
+GLOBAL VOICE TRANSLATIONS               +1-571-277-2139
+================================================================================
+Fifth Level for all Groups            +44(-0)-777-047-5451
+================================================================================
+
+
+                                    Page 41
+<PAGE>
+
+Services Agreement for Switched Voice Miscellaneous Services
+
+                     EQUANT/GCSC FAULT MNGT ECALATION LIST
+<TABLE>
+<S>                      <C>                      <C>                  <C>                    <C>                  <C>
+------------------------------------------------------------------------------------------------------------------------------------
+NORTH AMERICA - ATLANTA
+------------------------------------------------------------------------------------------------------------------------------------
+Level 1 Escalation       Group Leader - Mids      Steve Nurmi                Oak Hill         1-703-471-2670       1-703-447-8113
+------------------------------------------------------------------------------------------------------------------------------------
+Level 1 Escalation       Group Leader - Days      Mauricio Lainez            Oak Hill         1-703-689-6300
+------------------------------------------------------------------------------------------------------------------------------------
+Level 1 Escalation       Group Leader - Swings    Azim Jaghoori              Oak Hill         1-703-375-8327       1-703-966-0419
+------------------------------------------------------------------------------------------------------------------------------------
+Level 2 Escalation       Supervisor - Mids        Steve Nurmi                Oak Hill         1-703-471-2670       1-703-447-8113
+------------------------------------------------------------------------------------------------------------------------------------
+Level 2 Escalation       Supervisor - Days        Veronic Polk               Oak Hill         1-703-689-6300       1-703-966-0796
+------------------------------------------------------------------------------------------------------------------------------------
+Level 2 Escalation       Supervisor - Swings      Azim Jaghoori              Oak Hill         1-703-375-8327       1-703-966-0419
+------------------------------------------------------------------------------------------------------------------------------------
+Level 3 Escalation       Operating Manager        Mike Kimiecik              Oak Hill         1-703-471-2613       1-703-217-2877
+------------------------------------------------------------------------------------------------------------------------------------
+Level 4 Escalation       Head of CSC              Tim Anderson              Clearwater        1-727-533-3684       1-727-224-4994
+------------------------------------------------------------------------------------------------------------------------------------
+Level 5 Escalation       CSO Regional Head        Jim Macchiarola           Clearwater        1-727-533-3646       1-727-421-3666
+------------------------------------------------------------------------------------------------------------------------------------
+Level 6 Escalation       Head of CSO              Steve Fiveash               France          33 1 46 41 93 59     1 404 966 3027
+------------------------------------------------------------------------------------------------------------------------------------
+Level 7 Escalation       Head of CS&N             Jack Norris                 France          33 1 46 41 92 39     33 6 8532 6341
+------------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------------
+APA - SYDNEY
+------------------------------------------------------------------------------------------------------------------------------------
+Level 1 Escalation       Group Leader-            Se Jin Sohn                 Sydney          61-2-8220-959
+------------------------------------------------------------------------------------------------------------------------------------
+Level 1 Escalation       Group Leader-            Gina Renzi                  Sydney          61-2-8220-958
+------------------------------------------------------------------------------------------------------------------------------------
+Level 2 Escalation       Supervisor               Carol Lee                   Sydney          61-2-8220-1879       61-416-072-988
+------------------------------------------------------------------------------------------------------------------------------------
+Level 3 Escalation       Operating Manager        Greg Berry                  Sydney          61-2-8220-1876       61-407-805-060
+------------------------------------------------------------------------------------------------------------------------------------
+Level 4 Escalation       Head of CSC              Marion Oezmert              Sydney          61-2-9290-1532       61-4-3867-8547
+------------------------------------------------------------------------------------------------------------------------------------
+Level 5 Escalation       CSO Regional Head        Chee Beng Tan              Singapore        65-2-548-2551        65-9-664-4218
+------------------------------------------------------------------------------------------------------------------------------------
+Level 6 Escalation       Head of CSO              Steve Fiveash               France          33-1-46-41-93-59     1-404-966-3027
+------------------------------------------------------------------------------------------------------------------------------------
+Level 7 Escalation       Head of CS&N             Jack Norris                 France          33-1-46-41-92-39     33-6-8532-6341
+------------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------------
+EUMA - LONDON
+------------------------------------------------------------------------------------------------------------------------------------
+Level 1 Escalation       Group Leader             Duty Manager                Archway         44 207 512 6818
+------------------------------------------------------------------------------------------------------------------------------------
+Level 2 Escalation       Supervisor               Bill Crisman         Archway/Capital Place  44 207 512 6044      44 788 155 0615
+------------------------------------------------------------------------------------------------------------------------------------
+Level 3 Escalation       Operating Manager        Pierre Marmion              France          44 208 564 5090      33 6 75 24 7274
+------------------------------------------------------------------------------------------------------------------------------------
+Level 4 Escalation       Head of CSC              Didier Bessard                UK            44 208 730 1335      33 6 82 56 2858
+------------------------------------------------------------------------------------------------------------------------------------
+Level 5 Escalation       CSO Regional Head        Patricia Lindsay              UK            44 207 512 6085      44 777 595 1514
+------------------------------------------------------------------------------------------------------------------------------------
+Level 6 Escalation       Head of CSO              Steve Fiveash               France          33 1 46 41 93 59     1 404 966 3027
+------------------------------------------------------------------------------------------------------------------------------------
+Level 7 Escalation       Head of CS&N             Jack Norris                 France          33 1 46 41 92 39     33 6 8532 6341
+------------------------------------------------------------------------------------------------------------------------------------
+</TABLE>
+
+
+
+
+
+
+                                     Page 42
+
+
+<PAGE>
+
+Services Agreement for Switched Voice Miscellaneous Services
+
+
+
+                  APPENDIX 7 - REPORTING POINT OF CONTACT LIST
+
+<TABLE>
+<S>                        <C>                       <C>
+Housing KPI Reporting      John Gross                FT Global Voice Operations
+
+Service Implementation
+
+KPI  Reporting             Dirar Abu Saymeh          FT Capacity Management & Implementation
+
+Voice Operations
+
+KPI Reporting              John Gross                FT  Global Voice Operations
+
+BCR KPI Reporting          Dirar Abu Saymeh          FT Capacity Management & Implementation
+
+Finance Reporting          Pierre Chaunard           FT Voice Business Planning
+                           Chris Edwards             FT VMP OPW Projects & Finance
+
+Online Reporting           Charles Egzibo            FT Global Voice Operations
+</TABLE>
+
+
+                                              40
+
+<PAGE>
+Services Agreement for Switched Voice Miscellaneous Services
+
+
+                APPENDIX 8 : MINIMUM INVOICE DETAIL REQUIREMENTS
+
+This appendix details the minimum supporting information that must be sent with
+each invoice to enable the invoice to be validated and approved / disputed. This
+information shall be provided according to a time schedule to be agreed between
+the Parties. The Minimum information is as follows:
+
+VOICE TERMINATION
+
+Cost Centre (e.g. 2A3376)
+Carrier Name
+Carrier invoice Number and date
+Total Invoice cost ($) must be broken down by destination, rate and number of
+minutes during specified period.
+Comments
+
+Payment of termination will be in accordance with the Termination Payment
+Process to be finalised by 30th May 2002.
+
+CALLING - CALLING LINK OCR
+
+Wholesale Carrier circuits only.
+
+Cost centre (e.g. 2A3376)
+Country
+A end Address
+B end Address
+Carrier Name
+Cost in $
+Type
+Category
+Account No
+
+VOICE DOMESTIC TRANSMISSION
+
+Circuits used for the sole purpose of interconnecting Voice switches within a
+country i.e. Manchester to Telehouse voice switches.
+
+Cost centre (e.g. 2A3376)
+Country
+A end Address
+B end Address
+Carrier Name
+Cost in $
+Type
+Category
+Account No
+
+VOICE INTERNAL TRANSMISSION & VOICE OWNED LINES
+
+GO ID
+Country From
+Country To
+City From
+City To
+POP From
+POP To
+
+
+                                       41
+
+<PAGE>
+Services Agreement for Switched Voice Miscellaneous Services
+
+
+Line Speed
+Segment Name
+Status
+Acquisition Date
+Termination Date
+Carrier name
+Bearer ID
+Term equip
+Cost in $
+
+Standard information currently provided today
+
+VOICE NETWORK MAINTENANCE
+
+Details of equipment that makes up EACH line item of invoice where the costs is
+greater $500.
+Name of Supplier of maintenance agreement e.g. Nortel
+Invoice Number
+Contract e.g. Ref abc123
+Country e.g. (UK)
+Location Address of equipment e.g. Archway
+Equipment / Service Description (DMS GSP Switch, Replace power supply)
+Cost code 2AXXXX (if possible)
+If test equipment serial number or some reference to identify kit
+Owner of equipment or leased if not owned
+Time of maintenance period
+Cost in $
+
+VOICE IRU DEPRECIATION
+
+GO ID
+Country From
+Country To
+City From
+City To
+POP From
+POP To
+Line Speed
+Segment Name
+Status
+Acquisition Date
+Termination Date
+Carrier name
+Bearer ID
+Term equip
+Cost in $
+
+Standard information currently provided today
+
+VOICE TRANSMISSION ON NGEN
+
+Cost centre
+Country
+From
+TO
+Bandwidth
+Channel ID
+Cost ($/Mbps)
+Cost ($)
+
+
+                                       42
+
+<PAGE>
+Services Agreement for Switched Voice Miscellaneous Services
+
+
+Standard information currently provided today
+
+VOICE EQUIPMENT DEPRECIATION
+
+Each line item must provide adequate description of asset. minimum information
+as follows:-
+
+Asset No
+Address
+Description of Asset
+Manufacturer of asset
+Model No
+Serial Number
+Original cost
+Asset Cost Code
+Asset Number
+Country
+Cat Description
+Currency
+Date in Service
+Depreciation Term
+Cost in $
+
+VOICE LEASED EQUIPMENT ( WHERE APPLICABLE)
+
+List / description equipment that makes up line item.
+Supplier of equipment
+Address of equipment
+If test equipment serial number or some reference to identify kit
+Owner of equipment
+lease start date
+period of lease
+Cost in $. Breakdown of any individual component costs > $500 If applicable
+copy of invoice.
+
+5.   VOICE HOSTING SERVICES
+
+Number of Racks
+Location (Site & Country)
+Cost in $ / Country
+
+VOICE PERIOD EXPENSES.
+
+Manpower based Services will be provided for within the full time equivalent
+rate by country. This rate shall include all manpower related costs such as
+facilities, trainings, overhead, salaries, ...
+
+Details by country of any ad hoc costs for FT requested purchases shall be
+provided upon request.
+
+The level of detail supporting the Service Fee invoice must be sufficient to be
+able to validate the invoice and based on the requirement detailed in Appendix 5
+and any additional Service Order Forms. As appropriate details required as
+follows:-
+
+Number of Trouble Tickets per month
+Number of switch log checks
+Number of ASR Checks
+Number of BCR Loads
+
+
+
+                                       43
+
+<PAGE>
+Services Agreement for Switched Voice Miscellaneous Services
+
+
+Number of Network Implementations
+Number of FTLD Customer Implementations
+Number of CLI Implementations
+Number of Preventative Maintenance activities completed per month
+Number of days spent working on regulatory issues (State what FTLD specific
+related activities is undertaken)
+Number of days spent working PTT issues (State what FTLD specific related
+activities is undertaken)
+Number of man hours providing support for termination vendor invoice processing
+Number of Vendor invoice processed
+Number of Vendor invoice disputes
+Number of man hours supporting Global Calling billing activities
+Number of customers billed
+Number of Ad-Hoc / Project requests - Itemised project descriptions and man
+hours worked
+Number of man hours proving procurement support
+Number of man hours providing logistics support
+
+
+
+
+
+
+                                       44
+
+
+</TEXT>
+</DOCUMENT>

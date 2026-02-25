@@ -1,0 +1,2498 @@
+<DOCUMENT>
+<TYPE>EX-10.71
+<SEQUENCE>5
+<FILENAME>dex1071.txt
+<DESCRIPTION>DISTRIBUTION AND DEVELOPMENT
+<TEXT>
+<PAGE>
+
+          Confidential Materials omitted and filed separately with the
+        Securities and Exchange Commission. Asterisks denote omissions.
+
+                                                                   Exhibit 10.71
+
+                     DISTRIBUTION AND DEVELOPMENT AGREEMENT
+
+          THIS AGREEMENT (this "Agreement") is made and entered into as of
+November 15, 2000 (the "Effective Date") by and between STENTOR, INC., a
+Delaware corporation ("Stentor") and IDX SYSTEMS CORPORATION, a Vermont
+corporation ("IDX").
+
+                               W I T N E S S E T H
+
+          WHEREAS, Stentor is in the business of developing and marketing
+products and services to automate the viewing and archiving of medical images;
+and
+
+          WHEREAS, IDX, through its Radiology and Imaging Systems Division, has
+developed products and services to automate the management of radiology
+practices and departments; and
+
+          WHEREAS, IDX and Stentor desire to develop integration between their
+current products and services and certain future products and services to be
+developed by Stentor and IDX to create a comprehensive, state-of-the-art medical
+image management system, initially applicable to radiology practices, but
+possibly extended to cardiology, pathology, opthamology, orthopedics, emergency
+departments and other similar practices that could make use of the system;
+
+          NOW, THEREFORE, in consideration of these premises, the mutual
+covenants and agreements contained herein, and for other good and valuable
+consideration, the receipt and sufficiency of which are hereby acknowledged, the
+parties agree as follows:
+
+1.        DEFINITIONS
+
+          Capitalized terms used in this Agreement, unless otherwise defined in
+this Agreement, shall have the meanings ascribed to them on Schedule 1 attached
+hereto.
+
+2.        TERM AND TERMINATION
+
+          2.1  Term. This Agreement shall be in effect for an initial term of
+               five (5) years (the "Initial Term") and shall automatically renew
+               for additional, successive two (2) year terms unless earlier
+               terminated by either of IDX or Stentor by giving written notice
+               of such party's election not to renew this Agreement not later
+               than one (1) year prior to the expiration of the Initial Term or
+               six (6) months prior to the expiration of any then current
+               successive term.
+
+          2.2  Termination. Notwithstanding the provisions of Section 2.1, this
+               Agreement may be terminated:
+
+               2.2.1   by Stentor if IDX shall have defaulted under or breached
+                       any material term of this Agreement and shall not have
+                       cured such breach within one hundred twenty (120) days
+                       after receiving written notice from Stentor specifying
+                       the nature of such default or breach; or
+
+<PAGE>
+
+               2.2.2   by IDX if Stentor shall have defaulted under or breached
+                       any material term of this Agreement and shall not have
+                       cured such breach within one hundred twenty (120) days
+                       after receiving written notice from IDX specifying the
+                       nature of such default or breach; or
+
+               2.2.3   by either party upon receipt of a notice from the other
+                       party that such other party requires a composition or
+                       other similar arrangement with creditors, files for
+                       bankruptcy or is declared bankrupt.
+
+          2.3  Termination of Restrictions.
+
+               2.3.1   Stentor may elect to terminate Section 6.1.1, as its sole
+                       and exclusive remedy in lieu of any damages under this
+                       Agreement, if:
+
+                       2.3.1.1   a Material Adverse Change occurs with respect
+                                 to IDX; or
+
+                       2.3.1.2   IDX fails, for any two (2) consecutive calendar
+                                 years, to meet the minimum sales goals of sales
+                                 of the MIMS System to IDXrad Customers or
+                                 LastWord Customers set forth in Exhibit C and
+                                 as may be agreed to and set forth in the
+                                 Marketing Plan.
+
+               2.3.2   If IDX fails after March 31, 2002, to meet the mutually
+                       agreed to goals of sales of the MIMS System to IDXrad
+                       Customers for a calendar quarter as set forth in the
+                       Marketing Plan and does not cure such failure by the end
+                       of the next calendar quarter by licensing a MIMS System
+                       to that number of IDXrad Customers equal to the sum of
+                       the number of IDXrad Customers by which IDX missed the
+                       goal plus the goal for the subsequent calendar quarter,
+                       then Stentor may elect to terminate Section 6.1.1(ii), as
+                       its sole and exclusive remedy in lieu of any damages
+                       under this Agreement
+
+               2.3.3   If any of [**] is acquired, becomes Controlled by,
+                       obtains Control of, or becomes under common Control with
+                       a Person that is or becomes authorized to be a
+                       distributor of the MIMS System by Stentor as permitted
+                       under this Agreement, and such company demonstrates its
+                       intention to permanently cease doing business under or
+                       market its products under a name or mark similar to
+                       "[**]", as applicable, then Stentor may terminate Section
+                       6.1.1(ii) only with respect to [**], as applicable.
+
+               2.3.4   IDX may elect to terminate Section 6.1.2, as its sole and
+                       exclusive remedy in lieu of any damages under this
+                       Agreement, if:
+
+                       2.3.4.1   a Material Adverse Change occurs with respect
+                                 to Stentor; or
+
+                       2.3.4.2   IDX fails, for any two (2) consecutive calendar
+                                 years, to meet the minimum sales goals of sales
+                                 of the MIMS System to IDXrad Customers or
+                                 LastWord Customers set forth in the Exhibit C
+                                 and as may be agreed to and set forth in the
+                                 Marketing Plan.
+
+November 15, 2000
+
+                                        2
+
+<PAGE>
+
+          2.4  Change of Control. If Stentor shall sell all or substantially all
+               of its assets or IDX shall sell all or substantially all of the
+               assets of its Radiology Information Systems Division business,
+               then upon the election of the other party, the party selling its
+               assets shall be obligated to assign this Agreement to the
+               successor to its assets and to cause such successor to assume its
+               performance under this Agreement. Regardless of whether this
+               Agreement is assigned, the party not selling its assets may elect
+               to terminate the Agreement upon not less than eighteen (18)
+               months prior written notice.
+
+          2.5  Effect of Termination; Survival. In the event that this Agreement
+               is validly terminated as provided herein, then each of the
+               parties shall be relieved of their duties and obligations arising
+               under this Agreement after the date of such termination, except
+               for their respective obligations to provide support services to
+               existing customers under Section 8.1, and such termination shall
+               be without liability to the terminating party; provided, however,
+               that the obligations of the parties set forth in Sections 8.1,
+               9.1, 9.2, 10.1 - 10.21 hereof shall survive any such termination
+               and shall be enforceable hereunder; provided, further, however,
+               that nothing in this Section 2.5 shall relieve Stentor or IDX of
+               any liability for a breach of this Agreement. Furthermore,
+               termination of this Agreement shall not affect i) any license or
+               subscription rights granted by either party prior to such
+               termination or ii) a party's right to continue providing services
+               pursuant to customer agreements entered into prior to such
+               termination, provided, however, that each party shall continue to
+               make payments pursuant to Section 7.
+
+          2.6  Intellectual Property. All rights and licenses granted under or
+               pursuant to this Agreement are, and shall otherwise be deemed to
+               be, for purposes of Section 365(n) of the United States
+               Bankruptcy Code (the "Code"), licenses to rights to "intellectual
+               property" as defined in the Code. A party receiving such rights
+               under this Agreement shall retain and may fully exercise all of
+               its rights and elections under the Code. The parties further
+               agree that, in the event of the commencement of a bankruptcy
+               proceeding by or against a party under the Code, the other party
+               shall be entitled to retain all of its rights under this
+               Agreement.
+
+3.        OPERATIONAL MANAGEMENT
+
+          Stentor and IDX shall each appoint an executive with the title of vice
+president or higher to oversee performance under this Agreement. These two
+executives shall meet not less frequently than once each calendar quarter during
+the Initial Term (and more frequently as needed) and shall produce not later
+than five (5) business days after the end of each such calendar quarter a
+written report to the boards of directors of IDX and Stentor setting forth in
+detail:
+
+          3.1  the accomplishments of Stentor and IDX during the preceding
+               calendar quarter in performing this Agreement;
+
+          3.2  plans for managing the relationship between IDX and Stentor
+               during the next calendar quarter;
+
+November 15, 2000
+
+                                        3
+
+<PAGE>
+
+          3.3  any items of dispute or disagreement between IDX and Stentor;
+
+          3.4  plans for resolving any dispute or disagreement between IDX and
+               Stentor;
+
+          3.5  any changes proposed to be made to the Marketing Plan or
+               Development Plan; and
+
+          3.6  such other items as may be deemed appropriate by such executives.
+
+4.        PRODUCT DEVELOPMENT
+
+          4.1  Product Development.
+
+               4.1.1   Development of the MIMS System. It is the goal of this
+                       Agreement that the parties shall use their commercially
+                       reasonable efforts to develop a comprehensive,
+                       state-of-the-art medical image management system for
+                       radiology practices and departments with functionality
+                       and features substantially equivalent or superior to any
+                       competitive medical image management system available
+                       during the term of this Agreement. To accomplish that
+                       goal, Stentor and IDX shall carry out their obligations
+                       to develop the MIMS System pursuant to the Development
+                       Plan. A party's material failure to deliver a minimum
+                       development requirement (as set forth on Exhibit A) by a
+                       milestone set forth in the Development Plan shall
+                       constitute a material breach of this Agreement.
+
+               4.1.2   Joint Testing. The parties shall cooperate to jointly
+                       test any software used in connection with the MIMS System
+                       to ensure the functionality of such software prior to
+                       distribution thereof to any customer.
+
+               4.1.3   Development Plan. Within thirty (30) days of the
+                       Effective Date, IDX and Stentor shall mutually develop
+                       the Development Plan, which shall contain minimum
+                       development requirements described on the Development
+                       Plan Outline, attached hereto as Exhibit A. IDX and
+                       Stentor shall update the Development Plan every calendar
+                       quarter during the term of this Agreement unless earlier
+                       updated as necessary to maintain the commercial
+                       reasonableness thereof. The Development Plan, as updated
+                       from time to time, shall describe activities and
+                       responsibilities for one-year periods initially
+                       commencing on the Effective Date. Not later than three
+                       (3) months prior to the expiration of the initial
+                       one-year term of the Development Plan, and thereafter not
+                       later than three (3) months prior to the expiration of
+                       each successive one-year period, the parties shall
+                       commence work on a revised Development Plan for the
+                       following one-year period. The Development Plan, as
+                       updated from time to time, including updating of the
+                       minimum development requirements, shall be executed by
+                       the parties and shall become subject to this Agreement.
+                       Should the parties have failed to agree upon and execute
+                       a revised or updated Development Plan at the time of the
+                       expiration of the then current
+
+November 15, 2000
+
+                                        4
+
+<PAGE>
+
+                       Development Plan, the parties shall continue to perform
+                       under the terms of the then current Development Plan
+                       until such time as the parties shall agree upon a revised
+                       Development Plan. Notwithstanding anything contained
+                       herein or in any Development Plan to the contrary, at all
+                       times during the Term, Stentor shall continue to fund the
+                       development and support of the iSite Viewer, iDiagnostic
+                       Viewer and iVault products as provided in the Development
+                       Plan as initially adopted, and IDX shall continue to
+                       develop and support Imaging Suite, ConnectR, and the
+                       Imaging Suite Lite Version as provided in the Development
+                       Plan as initially adopted.
+
+               4.1.4   Early Releases and Testing. IDX and Stentor shall deliver
+                       to each other for testing, development and integration
+                       purposes only, copies of the earliest test releases of
+                       all development deliverables provided for in the
+                       Development Plan prior to delivery thereof to any other
+                       customers or Distribution Partners.
+
+               4.1.5   Demonstration Products. Each party shall develop
+                       demonstration versions of its products for use in selling
+                       its products to the other party's customers and
+                       prospects.
+
+               4.1.6   Resolution of Programming Errors. Stentor shall be
+                       responsible for correcting all programming errors in
+                       Stentor Products, and IDX shall be responsible for
+                       correcting all programming errors in IDX Products. The
+                       Development Plan shall designate Stentor and IDX
+                       personnel to coordinate the resolution of any programming
+                       errors. To accomplish this goal, Stentor and IDX agree to
+                       resolve programming errors as follows:
+
+                       Category 1 Programming Error: A Category 1 Programming
+                       Error is an error that causes the software to fail to
+                       operate. If a category 1 programming error occurs in the
+                       MIMS System software, IDX and Stentor agree to conduct a
+                       conference call in an effort to resolve the error as soon
+                       as possible but no later than one business day.
+
+                       Category 2 Programming Error: A Category 2 Programming
+                       Error is an error that substantially affects the proper
+                       operation of the main functions of the MIMS System
+                       software but does not cause the software to fail to
+                       operate. If a Category 2 Programming Error occurs, IDX
+                       and Stentor agree to conduct a conference call in an
+                       effort to resolve the error as soon as possible but no
+                       later than one week.
+
+                       Category 3 Programming Error: A Category 3 Programming
+                       Error causes the software to function incorrectly under a
+                       particular set of circumstances, although the error does
+                       not substantially affect the proper operation of the main
+                       functions of the MIMS System. If a Category 3 Programming
+                       error occurs, the party responsible for the programming
+
+November 15, 2000
+
+                                        5
+
+<PAGE>
+
+                       error agrees to eliminate the programming error in the
+                       next software update of the MIMS System.
+
+5.        LICENSES AND OWNERSHIP
+
+          5.1  Ownership; In General. Except for the rights expressly granted
+               herein to Stentor, IDX reserves and retains all right, title and
+               interest (including without limitation patents, trade secrets and
+               copyrights) in the IDX Products, and all customizations,
+               additions, modifications, changes, enhancements, improvements,
+               and derivative works thereof made by IDX or on behalf of IDX, and
+               all rights therein and copies thereof. Except for the rights
+               expressly granted herein to IDX, Stentor reserves and retains all
+               right, title and interest (including without limitation patents,
+               trade secrets and copyrights) in the Stentor Products, and all
+               customizations, additions, modifications, changes, enhancements,
+               improvements, and derivative works thereof made by Stentor, or on
+               behalf of Stentor, and all rights therein and copies thereof
+
+          5.2  Ownership to works created under the Development Plan. Any
+               Intellectual Property developed by Stentor and any derivative
+               works of Stentor Products, whether developed by Stentor, IDX or a
+               contractor of either party, pursuant to the Development Plan
+               shall be owned by Stentor. Any Intellectual Property developed by
+               IDX and any derivative works of IDX Products, whether developed
+               by Stentor, IDX or a contractor of either party, pursuant to the
+               Development Plan shall be owned by IDX. Any Intellectual Property
+               jointly developed by IDX and Stentor pursuant to the Development
+               Plan shall be jointly owned by IDX and Stentor and each of IDX
+               and Stentor shall be free to use such Intellectual Property
+               without interference from the other party and without any
+               obligation to pay any royalties or account for any profits,
+               except as otherwise provided for in this Agreement.
+               Notwithstanding the foregoing, the parties shall jointly own any
+               and all patent rights to any work created pursuant to the
+               Development Plan that combines at least one component of the IDX
+               Products and one component of the Stentor Products and shall
+               cooperate in the filing of any application(s) related to such
+               rights, including, without limitation, the choice of counsel to
+               prosecute such application(s). Nothing in this Agreement shall
+               require either party to create any Intellectual Property not a
+               part of the MIMS System. If either party creates any Intellectual
+               Property that is not a part of the MIMS System, but may be used
+               in connection with the MIMS System without the material
+               assistance of the other party, the creating party shall own any
+               and all patent rights to the combination of such Intellectual
+               Property and the MIMS System, and such patent rights shall not be
+               licensed to the other party under this Agreement except by
+               written amendment hereto executed by both parties; provided that
+               each party hereby agrees that if it offers to license the right
+               to resell or sublicense any such Intellectual Property and the
+               patent rights, if any, thereto, to any Person, it shall offer to
+               license the right to resell or sublicense such Intellectual
+               Property and patent rights, if any, to the other party on the
+               most favorable terms offered to any other Person.
+
+November 15, 2000
+
+                                        6
+
+<PAGE>
+
+          5.3  IDX Products.
+
+               5.3.1   IDX hereby grants to Stentor a non-exclusive,
+                       non-transferable (except as provided in Sections 2.4 and
+                       10.14) term license to market and sublicense, and in
+                       connection therewith to sell, offer for sale, copy, use,
+                       distribute, perform, display, modify, make derivative
+                       works of and Merge, the IDX Products, in whole or in
+                       part, only as they may be Merged into the MIMS System,
+                       and only to Persons that are not Stentor License
+                       Exclusion Customers. Stentor License Exclusion Customers
+                       include all IDXrad Customers and LastWord Customers
+                       except: (i) any IDXrad Customer or LastWord Customer that
+                       is a Pre-existing Stentor Customer; (ii) any IDXrad
+                       Customer or LastWord Customer that does not use IDXrad or
+                       LastWord as their primary radiology information system or
+                       primary clinical information system, respectively; and
+                       (iii) any IDXrad Customer or LastWord Customer that
+                       becomes a Stentor Customer prior to becoming an IDXrad
+                       Customer or LastWord Customer. Notwithstanding the
+                       limited scope of this license, Stentor may communicate
+                       with, and demonstrate, perform and display the MIMS
+                       System to, Stentor License Exclusion Customers to make
+                       them aware of the availability of the MIMS System from
+                       IDX and to provide information to Stentor License
+                       Exclusion Customers regarding the MIMS System. Stentor
+                       License Exclusion Customers that exist as of the
+                       Effective Date are listed on the initial Stentor License
+                       Exclusion Customer List, attached hereto as Exhibit B.
+                       IDX shall provide an updated Stentor License Exclusion
+                       Customer List to Stentor within fifteen (15) days of the
+                       end of each calendar quarter. If the parties determine
+                       that any customers not listed on the initial Stentor
+                       License Exclusion Customer List meet the definition of a
+                       Stentor License Exclusion Customer, then any such
+                       customers shall be added to the Stentor License Exclusion
+                       Customer List, or if the parties determine that any
+                       customers listed on the initial Stentor License Exclusion
+                       Customer List do not meet the definition of a Stentor
+                       License Exclusion Customer, then any such customers shall
+                       be removed from the Stentor License Exclusion List.
+
+               5.3.2   IDX also hereby grants to Stentor a non-exclusive,
+                       non-transferable (except as provided in Sections 2.4 and
+                       10.14) term license to sublicense one or more
+                       Distribution Partners to market and sublicense, and in
+                       connection therewith to sell, offer for sale, copy, use,
+                       distribute, perform, and display, the IDX Products, in
+                       whole or in part, only as they may be Merged into the
+                       MIMS System, to any Person, including Stentor License
+                       Exclusion Customers.
+
+          5.4  Stentor Products. Stentor hereby grants to IDX a non-exclusive,
+               non-transferable (except as provided in Sections 2.4 and 10.14)
+               term license to market and sublicense (including through one or
+               more Distribution Partners acceptable to Stentor), and in
+               connection therewith to sell, offer for sale, copy, use,
+               distribute,
+
+November 15, 2000
+
+                                        7
+
+<PAGE>
+
+               perform, display, modify, make derivative works of and Merge, the
+               Stentor Products, in whole or in part, only as they may be Merged
+               into the MIMS System. From the Effective Date until December 31,
+               2001, Stentor's license granted to IDX in Section 5.4 only
+               extends to IDXrad Customers and LastWord Customers. IDXrad
+               Customers and LastWord Customers that exist as of the Effective
+               Date are listed on the initial IDXrad and LastWord Customer List,
+               attached hereto as Exhibit B. Any Person that becomes an IDXrad
+               Customer or LastWord Customer during the Term shall be added to
+               the IDXrad and LastWord Customer List. After December 31, 2001,
+               Stentor's license granted to IDX in Section 5.4 extends to any
+               Person. IDX shall provide an updated IDXrad and LastWord Customer
+               List to Stentor within fifteen (15) days of the end of each
+               calendar quarter. If the parties determine that any customers
+               listed on the initial IDXrad and LastWord Customer List fail to
+               meet the definition of an IDXrad Customer or LastWord Customer,
+               then such customers shall be removed from the IDXrad and LastWord
+               Customer List, or if any customers not listed on the initial
+               IDXrad and LastWord Customer List do meet the definition of an
+               IDXrad Customer or LastWord Customer, then such customers shall
+               be added to the IDXrad and LastWord Customer List.
+
+          5.5  Territory. This Agreement and the licenses granted hereunder
+               shall apply to the parties only in the [**] (the "Territory");
+               provided that, notwithstanding any restriction to the contrary in
+               this Agreement, Stentor may enter into an Agreement with another
+               Person to Provide a medical imaging management system for
+               radiology practices and departments (that is not the MIMS System)
+               in the [**] if (i) it is necessary for Stentor to do so in order
+               for Stentor to enter into an agreement encompassing other [**]
+               countries that are not at that time included in the Territory and
+               (ii) Stentor offers IDX the same terms offered any other Person
+               in the [**] if such terms are more favorable than the terms
+               offered hereunder. Neither party may distribute or sell the MIMS
+               System in any country not included in the Territory without the
+               written consent of the other, which shall not be unreasonably
+               withheld. If a party desires to extend the Territory to another
+               country, it shall give the other party written notice of its
+               request to do so. The party requested to extend the Territory to
+               another country shall have one month from the date of its receipt
+               of such written notice to elect to extend its performance and six
+               months from such election to implement any development or
+               business requirements necessary to extend its performance under
+               this Agreement to such country. If a party withholds its consent,
+               then the other party may enter into an agreement with any other
+               Person with respect to the development and distribution and sale
+               of a system similar to the MIMS System in such country; provided
+               that this Agreement shall remain in full force and effect in the
+               Territory.
+
+          5.6  Expansion of Licenses.
+
+               5.6.1   If Stentor notifies IDX that a Stentor License Exclusion
+                       Customer is interested in licensing a MIMS System, but
+                       not from IDX, then a representative of Stentor's senior
+                       management who is at least a Vice
+
+November 15, 2000
+
+                                        8
+
+<PAGE>
+
+                       President and a representative of IDX's senior management
+                       who is at least a Vice President shall jointly contact
+                       that Stentor License Exclusion Customer in regard to
+                       licensing a MIMS System. If the Stentor License Exclusion
+                       Customer does not express an interest in licensing a MIMS
+                       System from IDX within thirty (30) days of such joint
+                       contact, as determined by a subsequent joint contact by
+                       the Stentor and IDX representatives, then such customer
+                       shall not be considered an Stentor License Exclusion
+                       Customer for purposes of the limitation on the license
+                       granted to Stentor in Section 5.3.1 of this Agreement.
+
+               5.6.2   If at the end of any calendar year the number of IDXrad
+                       Customers that became IDXrad Customers in that year that
+                       have also licensed a MIMS System is less than [**]
+                       percent ([**] %) of the total number of IDXrad Customers
+                       that became IDXrad Customers in that year, then the new
+                       IDXrad Customers that have not also licensed a MIMS
+                       System shall not be considered Stentor License Exclusion
+                       Customers for purposes of the limitation on the license
+                       granted to Stentor in Section 5.3.1 of this Agreement.
+
+               5.6.3   If, prior to December 31, 2001, IDX notifies Stentor that
+                       a Person that is neither an IDXrad Customer or LastWord
+                       Customer is interested in licensing a MIMS System, but
+                       not from Stentor, then a representative of Stentor's
+                       senior management who is at least a Vice President and a
+                       representative of IDX's senior management who is at least
+                       a Vice President shall jointly contact that prospect in
+                       regard to licensing a MIMS System. If the prospect does
+                       not express an interest in licensing a MIMS System from
+                       Stentor within thirty (30) days of such joint contact, as
+                       determined by a subsequent joint contact by the Stentor
+                       and IDX representatives, then the license granted to IDX
+                       pursuant to Section 5.4 shall extend to such prospect
+
+6.       MARKETING OF THE MIMS SYSTEM
+
+          6.1  Certain Restrictions on Marketing Rights.
+
+
+               6.1.1   Restrictions on Stentor. Stentor shall not (i) Provide to
+                       any Person located in the Territory a medical imaging
+                       management system for radiology practices or departments
+                       other than the MIMS System; or (ii) authorize or license
+                       [**], or the successor of any of them, to Provide the
+                       MIMS System or the Stentor Products in the Territory. If
+                       in a particular instance, the use of ConnectR in the MIMS
+                       System as a means to provide data exchange between the
+                       MIMS System and a non-IDX system would be technologically
+                       impractical, then Stentor may modify the MIMS System in
+                       such instance to use a component other than ConnectR as a
+                       means to provide such data exchange. The restriction set
+                       forth in this Section 6.1.1(i) shall not apply to (a)
+                       Stentor's sale or license of the
+
+November 15, 2000
+
+                                        9
+
+<PAGE>
+
+                       Stentor Component Technology to the extent that the
+                       Stentor Component Technology is not used in a medical
+                       imaging management system that includes substantially
+                       similar functionality to the MIMS System or (b) Stentor's
+                       sale or license to non-IDXrad Customers and non-LastWord
+                       Customers of a version of iSite that contains only the
+                       workflow, worklist and API functionality of the current
+                       iSite version 1.1.1 offering (i.e. it shall contain no
+                       third party vendor workflow or reconciliation built into
+                       iSite), and that cannot be used by a third party to build
+                       functionality competitive to the MIMS System other than
+                       the functionality substantially similar to that contained
+                       in the current iSite version 1.1.1.
+
+               6.1.2   Restrictions on IDX. IDX shall not (i) Provide to any
+                       Person located in the Territory a medical imaging
+                       management system for radiology practices or departments
+                       other than the MIMS System, except that this restriction
+                       shall not prohibit IDX from cooperating with any Person
+                       that Provides products and services similar to the
+                       Stentor Products for the purpose of deploying such
+                       products and services to implement a medical imaging
+                       management system, on a case-by-case basis to any IDXrad
+                       Customer or LastWord Customer, including without
+                       limitation by development of data exchange or interfaces,
+                       if such IDXrad Customer or LastWord Customer requests IDX
+                       to do so; (ii) Provide Imaging Suite to any Person in the
+                       Territory except (A) IDXrad Customers or LastWord
+                       Customers and (B) IDX Customers other than IDXrad
+                       Customers and LastWord Customers to enable other IDX
+                       products to distribute medical images, if only a subset
+                       of the components of Imaging Suite is used and the subset
+                       of components operates as a background service, such that
+                       there is no display of the Imaging Suite brand to the
+                       customer; or (iii) market the MIMS System except through
+                       IDX's RISD sales organization or with the active
+                       involvement of a member of IDX's RISD sales organization
+                       in any creation of a sales quote, configuration, or sales
+                       demonstration.
+
+               6.1.3   Imaging Suite Workflow Engine. The restrictions contained
+                       in Section 6.1.2 shall not apply to the "workflow engine"
+                       component of the Imaging Suite when used or licensed by
+                       IDX separate from the other components of Imaging Suite
+                       as Merged with any other IDX application and without the
+                       display of the Imaging Suite brand.
+
+          6.2  Marketing Plan; Joint Marketing Duties.
+
+               6.2.1   Marketing Plan. Within thirty (30) days of the Effective
+                       Date, IDX and Stentor shall mutually develop and, during
+                       the Term, shall regularly update a marketing plan for
+                       marketing the MIMS System in general (the "Marketing
+                       Plan"). The Marketing Plan shall obligate IDX to make
+                       commercially reasonable efforts to make presentations
+                       about the MIMS System to appropriate representatives of
+                       all of IDX's IDXrad Customers and LastWord Customers
+                       before December 31, 2001, and shall describe
+
+November 15, 2000
+
+                                       10
+
+<PAGE>
+
+                       detailed activities and responsibilities (including
+                       without limitation, with respect to implementation) and
+                       sales forecasts over the initial two-year period of this
+                       Agreement, but shall be updated not less frequently than
+                       every three (3) months. Not less than three (3) months
+                       prior to the expiration of the initial two-year period,
+                       and thereafter three (3) months prior to the expiration
+                       of each successive two-year period of the Initial Term,
+                       the parties shall commence work on a revised Marketing
+                       Plan for the following two-year sales forecast period.
+                       The initial and each revised two-year Marketing Plan
+                       shall be executed by the parties and shall be subject to
+                       the terms of this Agreement. Should the parties have
+                       failed to agree upon and execute a revised Marketing Plan
+                       at the time of the expiration of the then current
+                       Marketing Plan, the parties shall continue to perform
+                       under the terms of the then current Marketing Plan until
+                       such time as the parties shall agree upon a revised
+                       Marketing Plan. When marketing the MIMS System to IDXrad
+                       Customers and LastWord Customers, IDX shall be
+                       responsible for hardware used during any pilot period
+                       offered by IDX. The Marketing Plan shall include sales
+                       goals for sales of the MIMS System to IDXrad Customers as
+                       set forth on Exhibit C.
+
+               6.2.2   Joint Marketing Materials. At their joint expense, shared
+                       equally, Stentor and IDX shall develop and produce
+                       product marketing documentation and materials similar in
+                       kind and quality to that currently provided by Stentor
+                       and IDX to their respective sales prospects for the
+                       purpose of promoting and marketing the MIMS System.
+
+               6.2.3   User Groups and Trade Shows. Stentor shall provide for
+                       featured participation by IDX at Stentor's user group
+                       meetings involving the Stentor Products, and IDX shall
+                       provide for featured participation by Stentor at IDX's
+                       user group meetings involving the IDXrad and LastWord
+                       products. In accordance with the Marketing Plan, Stentor
+                       and IDX shall publicize the alliance created hereby at
+                       appropriate trade shows.
+
+               6.2.4   Non-revenue Arrangements. IDX and Stentor shall each
+                       cooperate with the other on any non-revenue generating
+                       implementations of the MIMS System for public relations
+                       or research purposes, provided that neither party shall
+                       be obligated to provide any implementation or support
+                       services for a non-revenue generating implementation
+                       initiated by the other party.
+
+          6.3  Use of Stentor Names and Marks. IDX may use the following names
+               and marks in all customer communications pertaining to the
+               marketing, support and distribution of the MIMS System and in
+               accordance with Stentor's reasonable branding standards in effect
+               from time to time: Stentor, iSite, iSyntax, and DTS. IDX shall
+               use the mark "Stentor" and applicable Stentor Product marks,
+               without alteration of the graphical representation of such marks
+               specified by Stentor, in connection with all sales of the MIMS
+               System containing any Stentor Products in addition to any other
+               marks or tradenames that IDX chooses to use in connection
+
+November 15, 2000
+
+                                       11
+
+<PAGE>
+
+               with the MIMS System. Stentor shall provide to IDX, for IDX's use
+               in accordance with this Section, additional proprietary
+               trademarks, as developed, for the Stentor Products.
+
+          6.4  Use of IDX Names and Marks. Stentor may use the following names
+               and marks in all customer communications pertaining to the
+               marketing, support and distribution of the MIMS System and in
+               accordance with IDX's reasonable branding standards in effect
+               from time to time: Imaging Suite and ConnectR. Stentor shall use
+               the mark "Imaging Suite", without alteration of the graphical
+               representation of such mark specified by IDX, in connection with
+               all sales of the MIMS System and Stentor Products containing the
+               Imaging Suite in addition to any other marks or tradenames that
+               Stentor chooses to use in connection with the MIMS System and
+               Stentor Products. IDX shall provide to Stentor, for Stentor's use
+               in accordance with this Section, additional proprietary
+               trademarks, as developed, for the IDX Products.
+
+          6.5  License Terms. Each party shall have the authority, to the extent
+               expressly provided in this Agreement, to market, sell, resell and
+               distribute the MIMS System pursuant to its own terms and
+               conditions so long as such terms and conditions contain
+               provisions as protective of the other party as those set out in
+               Exhibit D. Each party shall obligate its Distribution Partners to
+               license the MIMS System under terms that are protective as those
+               set forth in Exhibit D.
+
+7.        COMPENSATION
+
+          7.1  Compensation; Payment. IDX and Stentor shall be entitled to
+               compensation for their respective licensing to the other of their
+               respective rights and technology incorporated into the MIMS
+               System as set forth in Exhibit E. The Royalties set forth in
+               Exhibit E only apply to the MIMS System. Stentor hereby warrants
+               that the compensation retained by or paid to any Person
+               authorized by Stentor to distribute the MIMS System shall not
+               exceed [**] % of Net Revenue for an existing customer of the
+               Person and [**] % of Net Revenue for other customers.
+
+          7.2  Payments. Any payment to be made by a party pursuant to this
+               Agreement shall be made no later than sixty (60) days after
+               payment is due from the customer on which the payment is based,
+               and shall be made by delivery of a check, payable to the order of
+               the party entitled to payment or by wire transfer of immediately
+               available funds to an account designated by such party.
+
+          7.3  Late Fees. Each party agrees to pay late fees equal to one and
+               one-half percent (1 1/2%) per month on all amounts due but not
+               paid within the time provided in Section 7.2.
+
+          7.4  Certification; Independent Auditor. Not later than the fifteenth
+               (15th) day after the end of each calendar quarter, each party
+               shall deliver to the other a statement setting forth the
+               customers to which the MIMS System was licensed in such quarter
+               and the calculation of the payments due for the previous quarter,
+               or if
+
+November 15, 2000
+
+                                       12
+
+<PAGE>
+
+               none so stating, and signed by an executive officer of the party
+               furnishing the statement. Stentor and IDX agree to permit the
+               other party, annually at its own expense, to engage a mutually
+               acceptable independent auditor to confirm the accuracy of any
+               payments made under this Agreement. Stentor and IDX each agree to
+               maintain books and records of its sales required to conduct such
+               audit and to cooperate with the independent auditor in auditing
+               such books and records.
+
+8.        SERVICES
+
+          8.1  Customer Implementation and Support Services. Each of IDX and
+               Stentor shall implement the MIMS System for their respective
+               customers without the assistance of the other. Stentor and IDX
+               shall each provide to the other party reasonable assistance in
+               the distribution of hardware from those hardware manufacturers
+               with which they each have reseller or distributor relationships
+               so long as doing so does not violate the applicable reseller or
+               distributor agreement or applicable law. IDX shall provide the
+               first line of support for all customers to which IDX has sold the
+               MIMS System, provided that Stentor shall provide the second line
+               of support for any issue requiring access to or modification of
+               the Source Code to any Stentor Product. Stentor shall provide the
+               first line of support for all customers to which Stentor has sold
+               the MIMS System, provided that IDX shall provide the second line
+               of support for any issue requiring access to or modification of
+               the Source Code to any IDX Product. Stentor and IDX shall each
+               comply with the other party's implementation requirements with
+               respect to the other party's products and each shall use
+               commercially reasonable efforts to provide support for its
+               products in accordance with its internal support procedures. IDX
+               and Stentor shall each provide the other sufficient training to
+               ensure proper implementation of each party's component portions
+               of the MIMS System.
+
+          8.2  Service Quality. All support services provided by either party
+               shall be performed in a good and workmanlike manner and
+               consistent with standards generally applicable in the healthcare
+               clinical information systems industry and consistent with the
+               reasonable and customary support standards maintained in the
+               healthcare clinical information systems industry.
+
+          8.3  Uptime Performance Guarantee.
+
+               8.3.1   Stentor Uptime Performance Guarantee. After March 31,
+                       2001, if Stentor elects to offer an "uptime performance
+                       guarantee" and a defect in an IDX Product is the sole
+                       cause of "unscheduled downtime" (as defined in the
+                       Stentor Uptime Performance Guarantee attached hereto as
+                       Exhibit F), then IDX shall use its commercially
+                       reasonable efforts to cure such defect. IDX's obligation
+                       to use its commercially reasonable efforts to cure such
+                       defect shall be Stentor's sole and exclusive remedy, in
+                       lieu of any damages that might be caused by breach of
+                       this Agreement arising from or related to unscheduled
+                       downtime caused by a defect in an IDX Product.
+
+November 15, 2000
+
+                                       13
+
+<PAGE>
+
+               8.3.2   IDX Uptime Performance Guarantee. If IDX elects to offer
+                       an "uptime performance guarantee" substantially
+                       equivalent to the Stentor Uptime Performance Guarantee,
+                       and a defect in a Stentor Product is the sole cause of
+                       "unscheduled downtime" (as defined in the IDX uptime
+                       performance guarantee), then Stentor shall use its
+                       commercially reasonable efforts to cure such defect.
+                       Stentor's obligation to use its commercially reasonable
+                       efforts to cure such defect shall be Stentor's sole and
+                       exclusive remedy, in lieu of any damages that might be
+                       caused by breach of this Agreement arising from or
+                       related to unscheduled downtime caused by a defect in an
+                       Stentor Product.
+
+          8.4  Reference Sites. IDX agrees to introduce Stentor to Stentor
+               License Exclusion Customers reasonably acceptable to both IDX and
+               Stentor so that Stentor may request that such customers act as
+               reference sites for the MIMS System for potential Stentor MIMS
+               System prospects.
+
+9.        WARRANTIES
+
+          THE PARTIES MAKE THE FOLLOWING REPRESENTATIONS AND WARRANTIES, ALL OF
+WHICH SHALL BE FOR AND COMPLETE AS OF THE EFFECTIVE DATE AND THE DATE OF ANY AND
+ALL DELIVERIES HEREIN. EXCEPT FOR THE EXPLICIT WARRANTIES MADE IN THIS
+AGREEMENT, THERE ARE NO WARRANTIES MADE BY EITHER PARTY IN CONNECTION WITH THE
+SUBJECT MATTER OF THIS AGREEMENT AND EACH PARTY SPECIFICALLY DISCLAIMS ANY
+IMPLIED WARRANTIES, INCLUDING WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND TITLE.
+
+          9.1  IDX Warranties.
+
+               9.1.1   Encumbrances. The IDX Products shall be free and clear of
+                       all liens, restrictions, claims, charges, security
+                       interests, or other encumbrances of any nature whatsoever
+                       which might affect or adversely impact on Stentor's use
+                       of the IDX Products as permitted under this Agreement.
+
+               9.1.2   Ownership; Right to License. IDX owns or otherwise has
+                       adequate rights to make the grants of the licenses to the
+                       IDX Products to Stentor hereunder and possesses all
+                       rights and interests in the IDX Products necessary to
+                       enter into this Agreement; provided that Stentor
+                       acknowledges that licenses to certain products of
+                       Microsoft, Oracle and Amzi used with the IDX Products
+                       must be obtained directly by Stentor or customers to
+                       which Stentor sells the MIMS System.
+
+               9.1.3   No Infringement. IDX Products and all components thereof
+                       do not infringe upon the intellectual property rights,
+                       including without limitation the patent, copyright,
+                       trademark or trade secret rights, of any third parties.
+
+November 15, 2000
+
+                                       14
+
+<PAGE>
+
+                       The sole and exclusive remedy for breach of this warranty
+                       shall be as set forth in Section 10.6.
+
+               9.1.4   Functional Performance. The IDX Products shall perform
+                       substantially as described in their documentation.
+
+               9.1.5   Anti-Virus Testing. IDX represents and warrants that the
+                       IDX Products will be tested prior to shipping for known
+                       computer viruses in accordance with commercially
+                       reasonable industry standards, including the use of
+                       industry standard anti-virus detection software, and IDX
+                       represents and warrants that the IDX Products shall be
+                       free of viruses.
+
+          9.2  Stentor Warranties.
+
+               9.2.1   Encumbrances. The Stentor Products shall be free and
+                       clear of all liens, restrictions, claims, charges,
+                       security interests, or other encumbrances of any nature
+                       whatsoever which might affect or adversely impact on
+                       IDX's use of the Stentor Products as permitted under this
+                       Agreement.
+
+               9.2.2   Ownership; Right to License. Stentor owns or otherwise
+                       has adequate rights to make the grants of the licenses to
+                       the Stentor Products to IDX hereunder and possesses all
+                       rights and interests in the Stentor Products necessary to
+                       enter into this Agreement.
+
+               9.2.3   No Infringement. Stentor Products and all components
+                       thereof do not infringe upon the intellectual property
+                       rights, including without limitation the patent,
+                       copyright, trademark or trade secret rights, of any third
+                       parties. The sole and exclusive remedy for breach of this
+                       warranty shall be as set forth in Section 10.6.
+
+               9.2.4   Functional Performance. The Stentor Products shall
+                       perform substantially as described in their
+                       documentation.
+
+               9.2.5   Anti-Virus Testing. Stentor represents and warrants that
+                       the Stentor Products will be tested prior to shipping for
+                       known computer viruses in accordance with commercially
+                       reasonable industry standards, including the use of
+                       industry standard anti-virus detection software, and
+                       Stentor represents and warrants that the Stentor Products
+                       shall be free of viruses.
+
+10.       MISCELLANEOUS
+
+          10.1 Confidentiality.
+
+               10.1.1  Confidential Information. Each of IDX and Stentor will
+                       receive or learn from, information, both orally and in
+                       writing, concerning the business of Stentor or IDX,
+                       respectively, including, without limitation, financial,
+                       technical and marketing information, data, and
+                       information related to the
+
+November 15, 2000
+
+                                       15
+
+<PAGE>
+
+                       development of technology and services relating to
+                       business plans, customers, and markets, which information
+                       is deemed, in the case of Stentor, proprietary to Stentor
+                       and, in the case of IDX, proprietary to IDX. Both parties
+                       hereby agree, as set forth below, to protect such
+                       information, whether furnished before, on or after the
+                       date of this Agreement, as it protects its own similar
+                       confidential information, but never less than by
+                       commercially reasonable efforts, and not to disclose such
+                       information to anyone except as otherwise provided for in
+                       this Agreement. Such information, in whole or in part,
+                       together with analyses, compilations, programs, reports,
+                       proposals, studies or any other documentation prepared by
+                       the parties, as the case may be, which contain or
+                       otherwise reflect or make reference to such information,
+                       is hereinafter referred to as "Confidential Information".
+                       Each party hereby agrees that the Confidential
+                       Information will be used solely for the purpose of this
+                       Agreement and not for any other purpose. Each party
+                       further agrees that any Confidential Information
+                       pertaining to the other party is the sole and exclusive
+                       property of such other party, and that the receiving
+                       party shall not have any right, title, or interest in or
+                       to such Confidential Information except as expressly
+                       provided in this Agreement. Each party further agrees to
+                       protect and not to disclose to anyone (except as provided
+                       in this Agreement) for any reason Confidential
+                       Information pertaining to the other party; provided,
+                       however, that: (a) such Confidential Information may be
+                       disclosed to the receiving party's respective officers,
+                       directors, employees, agents, or representatives
+                       (collectively, "Representatives") on a "need to know"
+                       basis for the purpose of this Agreement on the condition
+                       that (i) each of such Representatives will be informed by
+                       the receiving party of the confidential nature of such
+                       Confidential Information and will agree to be bound by
+                       the terms of this Agreement and not to disclose the
+                       Confidential Information to any other person and (ii)
+                       each party agrees to accept full responsibility for any
+                       breach of this Section 10.1.1 by its respective
+                       Representatives; and (b) Confidential Information
+                       pertaining to the other party may be disclosed upon the
+                       prior written consent of the other party. Each party
+                       hereby agrees, upon the request of the other party, to
+                       promptly deliver to the other party at the other party's
+                       cost the Confidential Information pertaining to such
+                       other party, without retaining any copies thereof.
+                       Specifically and without limitation, each party agrees to
+                       notify the other party promptly in writing upon any
+                       officer or director learning of any unauthorized
+                       disclosure or use of the Confidential Information.
+
+               10.1.2  Non-Confidential Information. The term" Confidential
+                       Information" shall not include any information: (i) which
+                       at the time of disclosure or thereafter is generally
+                       available to or known by the public (other than as a
+                       result of a disclosure directly or indirectly by the
+                       receiving party); (ii) is independently developed by the
+                       receiving party, without reference to or use of, the
+                       Confidential Information of the other party; (iii) was
+                       known by
+
+November 15, 2000
+
+                                       16
+
+<PAGE>
+
+                       the receiving party as of the time of disclosure without
+                       a breach of confidentiality; (iv) is lawfully learned
+                       from a third party not under obligation to the disclosing
+                       party; or (v) is required to be disclosed pursuant to a
+                       subpoena, court order or other legal process, whereupon
+                       the receiving party shall provide prompt written notice
+                       to the other party prior to such disclosure.
+
+          10.2 No-Solicitation. During the first year of the term of this
+               Agreement, neither party, nor any Affiliate within its Control,
+               shall solicit to hire any individual who had been in the employ
+               of the other party or any of the other party's Affiliates until
+               such time as one (1) year has passed since such individual was in
+               the employ of the other party.
+
+          10.3 Regulatory Matters. Each party shall adopt, implement, and
+               maintain appropriate and compliant policies, procedures, and
+               practices necessary to comply with laws and regulations
+               (including without limitation the Health Insurance Portability
+               and Accountability Act of 1996 ("HIPAA") and the Federal Food,
+               Drug and Cosmetic Act (the "FDA Act")) applicable to it in its
+               business and applicable to it as a business partner of a customer
+               of the other to whom products or services are provided under this
+               Agreement. The parties agree to amend this Agreement to contain
+               any provisions necessary to be included as a result of such
+               business partner status. Each party agrees to timely develop and
+               include in its respective products covered by this Agreement the
+               functionality required to support the minimum necessary standards
+               applicable users of its products as required by HIPAA.
+
+          10.4 No Consequential Damages. In no event shall either party or any
+               Affiliate of either party be liable hereunder for any
+               consequential, special, incidental, punitive or indirect damages
+               (including without limitation loss of profit, revenue, business
+               opportunity or business advantage), whether based upon a claim or
+               action of tort, contract, warranty, negligence, strict liability,
+               breach of statutory duty, or any other legal theory or cause of
+               action, even if advised of the possibility of such damages.
+
+          10.5 Limitation of Liability. Neither party shall be liable to the
+               other for damages or costs under this Agreement in excess of
+               payments received from the other under this Agreement; provided
+               that this limitation shall not apply to either party's
+               indemnification obligation pursuant to Section 10.6(iii), and
+               further provided that the limitation of liability applicable to
+               either party's indemnification obligation pursuant to Section
+               10.6(i) shall be an aggregate of Ten Million Dollars
+               ($10,000,000) and each party shall carry liability insurance
+               against all risks sufficient to cover such indemnification
+               obligation. Each party must provide certificates of such
+               insurance coverage upon request of the other and shall not change
+               or alter such coverage without notice to the other party.
+
+November 15, 2000
+
+                                       17
+
+<PAGE>
+
+          10.6 Indemnification. Each party (an "Indemnifying Party") will
+               indemnify the other party, its officers, employees, and agents
+               (each an "Indemnified Party" and, collectively, the "Indemnified
+               Parties") against, and hold each Indemnified Party harmless from,
+               all claims, suits, judgments, losses, damages, fines or costs
+               (including reasonable legal fees and expenses) ("Losses")
+               resulting from any claim, suit, or demand by any third party
+               ("Third Party Claim") for injuries to or deaths of persons or
+               loss of or damage to property arising out of: (i) the
+               Indemnifying Party's products or services as marketed by the
+               Indemnified Parties, unless the Indemnified Parties shall have
+               acted outside the scope of their rights under this Agreement;
+               (ii) the Indemnifying Party's performance or willful misconduct
+               of the Indemnifying Party, its employees, officers, or agents in
+               connection with the Indemnifying Party's performance, of this
+               Agreement, except to the extent caused by the negligence of any
+               Indemnified Party, and (iii) that the Indemnifying Party's
+               products, or any component thereof, whether used alone or in
+               combination with any other item as intended, designed, suggested
+               or induced by the Indemnifying Party or its agents, infringes or
+               violates any patents, copyrights, trademarks, trade secrets,
+               licenses, or other proprietary rights of any third party.
+
+               10.6.1  The Indemnifying Party's obligations under this Section
+                       10.6 will survive the termination of this Agreement.
+
+               10.6.2  Each Indemnified Party shall give an Indemnifying Party
+                       prompt written notice of any Third Party Claim of which
+                       such Indemnified Party has knowledge concerning any
+                       Losses as to which such Indemnified Party may request
+                       indemnification hereunder. If the Indemnifying Party
+                       acknowledges in writing its obligation to indemnify the
+                       Indemnified Party hereunder against any Losses that may
+                       result from such Third Party Claim, then the Indemnifying
+                       Party shall be entitled to assume and control the defense
+                       of such Third Party Claim at its expense and through
+                       counsel of its choice if it gives notice of its intention
+                       to do so to the Indemnified Party within five (5) days of
+                       the receipt of such notice from the Indemnified Party;
+                       provided, however, that if there exists or is reasonably
+                       likely to exist a conflict of interest that would make it
+                       inappropriate in the judgment of the Indemnified Party,
+                       in its sole and absolute discretion, for the same counsel
+                       to represent both the Indemnified Party and the
+                       Indemnifying Party, then the Indemnified Party shall be
+                       entitled to retain its own counsel, at the expense of the
+                       Indemnifying Party. In the event the Indemnifying Party
+                       exercises the right to undertake any such defense against
+                       any such Third Party Claim as provided above, the
+                       Indemnified Party shall cooperate with the Indemnifying
+                       Party in such defense and make available to the
+                       Indemnifying Party, at the Indemnifying Party's expense,
+                       all witnesses, pertinent records, materials and
+                       information in the Indemnified Party's possession or
+                       under the Indemnified Party's control relating thereto as
+                       is reasonably required by the Indemnifying Party.
+                       Similarly, in the event the Indemnified Party is,
+                       directly or indirectly,
+
+November 15, 2000
+
+                                       18
+
+<PAGE>
+
+                       conducting the defense against any such Third Party
+                       Claim, the Indemnifying Party shall cooperate with the
+                       Indemnified Party in such defense and make available to
+                       the Indemnified Party, at the Indemnified Party's
+                       expense, all such witnesses, records, materials and
+                       information in the Indemnifying Party's possession or
+                       under the Indemnifying Party's control relating thereto
+                       as is reasonably required by the Indemnified Party. No
+                       such Third Party Claim may be settled by the Indemnifying
+                       Party without the prior written consent of the
+                       Indemnified Party.
+
+               10.6.3  In no event shall the Indemnifying Party be liable to an
+                       Indemnified Party for any indirect, incidental, special,
+                       punitive, exemplary or consequential damages arising out
+                       of or otherwise relating to this Agreement, even if the
+                       Indemnifying Party has been advised of the possibility or
+                       likelihood of such damages.
+
+               10.6.4  The Indemnifying Party's obligations to indemnify as set
+                       forth in Section 10.6(iii) shall not apply to any claim
+                       to the extent that it arises from (i) any modifications,
+                       changes, additions, or enhancements to the Indemnifying
+                       Party's products that have not been made directly by the
+                       Indemnifying Party or have not been made at its express
+                       direction or under its direct oversight, control or
+                       supervision, (ii) any such modifications made by the
+                       Indemnifying Party at the request or to the specification
+                       of the Indemnified Party, the Indemnified Party's
+                       Customers, or any of their agents.
+
+          10.7 Expenses. Except as otherwise specified in this Agreement, all
+               costs and expenses, including, without limitation, fees and
+               disbursements of counsel, financial advisors and accountants,
+               incurred in connection with this Agreement and the transactions
+               contemplated hereby shall be paid by the party incurring such
+               costs and expenses.
+
+          10.8 Further Assurances and Documents. IDX and Stentor shall take all
+               actions and do all things, including without limitation the
+               execution and delivery of instruments and documents, necessary to
+               effectuate the purposes and intent of this Agreement.
+
+          10.9 Notices. All notices, requests, claims, demands and other
+               communications hereunder shall be in writing and shall be given
+               or made (and shall be deemed to have been duly given or made upon
+               receipt) by delivery in person, by courier service, by telecopy
+               or by registered or certified mail (postage prepaid, return
+               receipt requested) to the respective parties at the following
+               addresses (or at such other address for a party as shall be
+               specified in a notice given in accordance with this Section
+               10.9):
+
+November 15, 2000
+
+                                       19
+
+<PAGE>
+
+                           (a)      if to Stentor:
+
+                                    Stentor, Inc.
+                                    385 Oyster Point Boulevard, Suite 8B
+                                    South San Francisco, CA 94080
+                                    Attention: Oran Muduroglu
+                                    Facsimile: 650-866-4197
+
+                           (b)      if to IDX:
+
+                                    IDX Systems Corporation
+                                    1400 Shelburne Road
+                                    South Burlington, VT 05403
+                                    Attention: Walt Marti
+                                    Facsimile: 802-865-3489
+
+                                    With a copy to: General Counsel at the same
+                                    address
+
+          10.10 Public Announcements. Except as required by law, governmental
+                regulation or by the requirements of any securities exchange on
+                which the securities of a party hereto are listed, no party to
+                this Agreement shall make, or cause to be made, any press
+                release or public announcement, not including routine
+                advertisements subsequent to an initial joint announcement, in
+                respect of this Agreement or the transactions contemplated
+                hereby or otherwise communicate with any news media without the
+                prior written consent of the other party, consent which shall
+                not be unreasonably withheld, and the parties shall cooperate as
+                to the timing and contents of any such press release or public
+                announcement.
+
+          10.11 Headings. The descriptive headings contained in this Agreement
+                are for convenience of reference only and shall not affect in
+                any way the meaning or interpretation of this Agreement.
+
+          10.12 Severability. If any term or other provision of this Agreement
+                is invalid, illegal or incapable of being enforced by any law,
+                governmental regulation or public policy, all other terms and
+                provisions of this Agreement shall nevertheless remain in full
+                force and effect so long as the economic or legal substance of
+                the transactions contemplated hereby is not affected in any
+                manner materially adverse to any party. Upon such determination
+                that any term or other provision is invalid, illegal or
+                incapable of being enforced, the parties hereto shall negotiate
+                in good faith to modify this Agreement so as to effect the
+                original intent of the parties as closely as possible in an
+                acceptable manner in order that the transactions contemplated
+                hereby are consummated as originally contemplated to the
+                greatest extent possible.
+
+November 15, 2000
+
+                                       20
+
+<PAGE>
+
+          10.13 Entire Agreement. This Agreement constitutes the entire
+                agreement of the parties hereto with respect to the subject
+                matter hereof and supersede all prior agreements and
+                undertakings, both written and oral, with respect to the subject
+                matter hereof.
+
+          10.14 Assignment. This Agreement shall be binding upon the parties and
+                their respective successors, representatives and permitted
+                assigns and their Affiliates Controlled by them, respectively.
+                Except as provided in Section 2.4, neither party may assign this
+                Agreement without the prior written consent of the other party,
+                except that either party hereto may assign its rights hereunder
+                to an Affiliate of such party and IDX may assign this Agreement
+                to any Person that acquires all or substantially all of the
+                assets of IDX's Radiology Information Systems Division and IDX
+                shall be relieved of any obligation or liability hereunder. If
+                IDX shall sell or transfer any of its assets, other than the
+                assets of IDX's Radiology Information Systems Division, to a
+                Person that is not an Affiliate of IDX, then such Person shall
+                not have any obligations or liabilities under this Agreement and
+                the assets transferred shall not be encumbered by or subject to
+                this Agreement in any way.
+
+          10.15 No Third Party Beneficiaries. This Agreement shall be binding
+                upon and inure solely to the benefit of the parties hereto and
+                their permitted assigns and successors and nothing herein,
+                express or implied, is intended to or shall confer upon any
+                other person or entity, any legal or equitable right, benefit or
+                remedy of any nature whatsoever under or by reason of this
+                Agreement.
+
+          10.16 Amendment. This Agreement may not be amended or modified except
+                by an instrument in writing signed by, or on behalf of, each of
+                the parties.
+
+          10.17 Governing Law. This Agreement shall be governed by the laws of
+                the State of California without regard to its conflict of laws
+                provisions.
+
+          10.18 Counterparts. This Agreement may be executed in one or more
+                counterparts, and by the different parties hereto in separate
+                counterparts, each of which when executed shall be deemed to be
+                an original but all of which taken together shall constitute one
+                and the same agreement.
+
+          10.19 Dispute Resolution If a dispute, controversy, or claim arising
+                out of or related to this Agreement or with the relationship of
+                the parties arises, then the parties shall attempt to resolve
+                the dispute by means of the procedure set forth in this Section.
+                The party believing itself aggrieved (the "Requesting Party")
+                will call for progressive management involvement in the
+                negotiation of the dispute by notice to the other party. Such a
+                notice will be without prejudice to the Requesting Party's right
+                to any other remedy permitted by this Agreement. The parties
+                will use their best efforts to arrange personal meetings or
+                telephone conferences as needed, at mutually convenient times
+                and places, between negotiators for the parties at the following
+                successive management levels, each of which will have a period
+                of allotted time as specified below in which to attempt to
+                resolve the dispute:
+
+November 15, 2000
+
+                                       21
+
+<PAGE>
+
+<TABLE>
+<CAPTION>
+                 Level            Stentor             IDX                                Allotted Time
+                 --------------   -----------------   --------------------------------   ----------------
+                 <S>              <C>                 <C>                                <C>
+                 First            Stentor Vice        Vice President of Development      10 Business Days
+                                   President           for RISD
+
+                 Second           CEO                 General Manager of RISD            10 Business Days
+
+                 Third            CEO                 President                          30 Days
+</TABLE>
+
+                The allotted time for the first-level negotiators will begin on
+                the effective date of the Requesting Party's notice. If a
+                resolution is not achieved by negotiators at any given
+                management level at the end of their allotted time, then the
+                allotted time for the negotiators at the next management level,
+                if any, will begin immediately. If a resolution is not achieved
+                by negotiators at the final management level within their
+                allotted time, then the parties' CEO's shall engage in a
+                mediation session using one or more third-party mediators
+                mutually acceptable to the parties within thirty (30) days. The
+                dispute resolution requirements set forth in this Section 10.19
+                shall not apply to claims arising out of or related to: (a) any
+                infringement or misappropriation of Stentor's or IDX's
+                Intellectual Property, and (b) any violation of the
+                confidentiality obligations set forth in Section 10.1.
+
+          10.20 Waiver of Jury Trial. Each of the parties hereto irrevocably and
+                unconditionally waives trial by jury in any legal action or
+                proceeding relating to this Agreement or the transactions
+                contemplated hereby and for any counterclaim therein.
+
+          10.21 No Joint Venturer Status. None of the provisions of this
+                Agreement is intended to create, nor shall any provision in this
+                Agreement be deemed or construed to create, any relationship
+                between Stentor and IDX other than that of independent entities
+                contracting with each other under this Agreement solely for the
+                purpose of effecting the provisions of this Agreement. Neither
+                of the parties, nor any of their employees, shall be construed
+                to be the partner, joint venturer, agent, employer or
+                representative of the other
+
+          IN WITNESS WHEREOF, the parties hereto have caused this Agreement to
+be duly executed by their respective authorized signatories thereunto duly
+authorized as of the day and year first above written.
+
+
+IDX SYSTEMS CORPORATION                     STENTOR, INC.
+
+
+By:  /s/ Robert W. Baker, Jr.               By:  /s/ Oran Muduroglu
+     -----------------------------------         -------------------------------
+     [Signature of Authorized Agent]             [Signature of Authorized Agent]
+
+Print Name and Title:                       Print Name and Title:
+
+Robert W. Baker, Jr., Vice President        Oran Muduroglu, President & CEO
+
+November 15, 2000
+
+                                       22
+
+<PAGE>
+
+                                   SCHEDULE 1
+
+                                       TO
+
+                     DEVELOPMENT AND DISTRIBUTION AGREEMENT
+
+                                   DEFINITIONS
+
+"Affiliate" means, with respect to any specified Person, any other Person that
+directly, or indirectly through one or more intermediaries, Controls, is
+Controlled by, or is under common Control with, such specified Person.
+
+"Change of Control" means any event, transaction or occurrence, with the
+exception of an initial public offering, as a result of which either of IDX or
+Stentor (i) shall cease to own or control, directly or indirectly through any of
+its respective Affiliates, a majority of the voting rights associated with
+ownership of its respective voting stock or (ii) shall cease to have the
+ability, directly or indirectly, through one or more of its Affiliates, to elect
+a majority of its respective board of directors.
+
+"ConnectR" means the product currently marketed by IDX under the trademark
+"ConnectR."
+
+"Control" including the terms "Controlling," "Controlled by," and "under common
+Control with," means the possession, direct or indirect, of the power to direct
+or cause the direction of the management and policies of a Person, whether
+through the ownership of voting securities, by contract, or otherwise, with the
+exception of an initial public offering.
+
+"Development Plan" means the Development Plan to be created pursuant to the
+Development and Distribution Agreement.
+
+"iDiagnostic Viewer" means the product to be developed under the Development
+Plan and currently referred to as iDiagnostic Viewer.
+
+"Distribution Partner" means any Person that has the right to market,
+cooperatively market, distribute, resell, sublicense, license, sell or otherwise
+provide a party's products or services, including by way of example and not in
+limitation, any reseller, distributor, licensee, customer, contractor, service
+provider, co-marketer, outsourcing vendor, or other information technology
+company.
+
+"Dynamic Transfer Syntax" or "DTS" means the product currently marketed by
+Stentor under the marks Dynamic Transfer Syntax or DTS.
+
+"IDX" means IDX Systems Corporation, IDX Information Systems Corporation, IDX
+Investment Corporation, and their present and future Affiliates.
+
+"IDX Customer" means any customer of IDX that is licensed to use any product
+sold by IDX and any and all entities that have access to such product through
+such customer, including without limitation IDXrad Customers and LastWord
+Customers.
+
+<PAGE>
+
+"IDX Drivers" means the IDX modality drivers for downloading demographics and
+exam information to the imaging scanners in accordance with DICOM Modality
+Worklist standard, and the uploading of study specific information from the
+imaging scanner to the Imaging Suite in accordance with the DICOM Perform
+Procedure Step standard.
+
+"IDX Products" means the products currently marketed as Imaging Suite and
+ConnectR, the IDX Drivers, and any derivative works or future versions thereof.
+
+"IDXrad" means the products currently marketed by IDX under the mark IDXrad and
+future versions thereof containing substantially similar functions.
+
+"IDXrad Customer" means (i) any customer of IDX that is licensed to use IDXrad
+and (ii) any and all entities that have access to IDXrad databases through such
+customer.
+
+"Imaging Suite" means the product currently marketed by IDX under the mark
+Imaging Suite.
+
+"Imaging Suite Lite Version" means a version of Imaging Suite for installation
+by Stentor at a non-IDXrad or LastWord site that does not require the
+installation and configuration of the IDXrad system, but that can be operated in
+concert with a pre-existing non-IDX radiology information system or healthcare
+information system.
+
+"iSite" means the product currently marketed by Stentor under the mark iSite.
+
+"iSyntax Server" means the product currently marketed by Stentor under the mark
+iSyntax Server.
+
+"iVault" means the product to be developed under the Development Plan and
+currenty referred to as the iVault.
+
+"Intellectual Property" means, without limitation, know-how, trade secrets,
+inventions (whether or not patentable), ideas, materials, discoveries,
+techniques, plans, designs, formulas, processes, invention disclosures,
+technology, data or information, software and documentation therefor, hardware,
+source code (including all programmers' notes), procedures, methods, works and
+other documentation and information and the right to sue and recover damages for
+past, present and future infringement of such intellectual property.
+
+"LastWord" means the product currently marketed by IDX under the trademark
+LastWord and future versions thereof containing substantially similar functions.
+
+"LastWord Customer" means (i) any customer of IDX that is licensed to use
+LastWord and (ii) any and all entities that have access to LastWord databases
+through such customer.
+
+"Material Adverse Change" means any material adverse change in the business,
+properties, results of operations, condition (financial or otherwise) of an
+applicable Person (other than changes that are the result of economic factors
+affecting the economy as a whole or changes that are the result of factors
+generally affecting the specific industry or markets in which a party competes).
+
+                                        2
+
+<PAGE>
+
+"Merge" means the process of merging all or a portion of existing software or
+documentation into other software or documentation or adding to existing
+software or documentation, including without limitation by application program
+interfaces, so that the resulting software or documentation contains
+functionality that is substantially more or different from that of the existing
+software or documentation.
+
+"MIMS System" means the medical imaging management system consisting of the
+combination of both Imaging Suite and ConnectR and at least one of the Stentor
+Products, as described in the Development Plan and on the diagram attached to
+the Agreement as Exhibit G. The MIMS System shall not include any products,
+features or functionality not described in either the Development Plan or the
+diagram attached as Exhibit G.
+
+"Person" means any individual, partnership, firm, corporation, association,
+trust, limited liability company, limited liability partnership, unincorporated
+organization or other entity, as well as any syndicate or group that would be
+deemed to be a person under Section 13(d)(3) of the Securities Exchange Act of
+1934, as amended.
+
+"Pre-existing Stentor Customer" means any Stentor Customer that existed as of
+the Effective Date of this Agreement.
+
+"Provide" means to market, sell, license, cooperatively market, or otherwise
+distribute, including through one or more Distribution Partners.
+
+"Regulatory Requirements" means all federal and state laws and regulatory
+requirements applicable to the use by IDX, IDX Customers, Stentor, and Stentor
+Customers of the MIMS System from time to time during the term of the
+Development and Distribution Agreement, including without limitation those
+applicable to billing and claims submittal, managed care, data transmission,
+security and privacy, and program requirements generally applicable to
+healthcare organizations, such as those involving accreditation.
+
+"Stentor Component Technology" means Stentor's proprietary technology to
+distribute data and images, including enhancements and improvements thereto,
+including, but not limited to, technology used in iSyntax to distribute
+image(s), or portions thereof, by transforming the image(s) into a flexible
+hierarchical representation and by distributing, to a client, only the transform
+data necessary to reconstruct the portion(s) of the image(s) desired at the
+client.
+
+"Stentor Customer" means any customer of Stentor that is licensed to use any
+product sold by Stentor and any and all entities that have access to such
+product through such customer, but shall not include any customer that is in an
+evaluation period and not obligated to pay fees to Stentor for the Stentor
+Product.
+
+"Stentor License Exclusion Customer" means all IDXrad Customers and LastWord
+Customers except: (i) any IDXrad Customer or LastWord Customer that is a
+Pre-existing Stentor Customer; (ii) any IDXrad Customer or LastWord Customer
+that does not use IDXrad or LastWord as their primary radiology information
+system or primary clinical information system, respectively; (iii) any IDXrad
+Customer or LastWord Customer that becomes a Stentor Customer prior to becoming
+an IDXrad Customer or LastWord Customer; or (iv) any IDXrad Customer or
+
+                                        3
+
+<PAGE>
+
+LastWord Customer that ceases to remain a Stentor License Exclusion Customer
+pursuant to Section 5.6.
+
+"Stentor Products" means the products marketed by Stentor and currently known as
+the iDiagnostic Viewer, DTS, iSite Viewer, iSyntax Server, iVault, any future
+versions thereof, and any derivative works or future versions thereof.
+
+                                        4
+
+<PAGE>
+
+                                    EXHIBIT A
+
+MINIMUM DEVELOPMENT REQUIREMENTS
+
+[**]
+
+November 15, 2000
+
+<PAGE>
+
+EXHIBIT B
+
+IDX CONFIDENTIAL AND PROPRIETARY
+IDXrad and LastWord Customer List
+
+IDX HOUSE ACCOUNTS LISTING                                   STATE
+
+          IDXrad Customers
+
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+
+IDX SYSTEMS CORPORATION CONFIDENTIAL            11/21/00
+
+                                                                          Page 1
+
+<PAGE>
+
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+
+IDX SYSTEMS CORPORATION CONFIDENTIAL            11/21/00
+
+                                                                          Page 2
+
+<PAGE>
+
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+
+IDX SYSTEMS CORPORATION CONFIDENTIAL            11/21/00
+
+                                                                          Page 3
+
+<PAGE>
+
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+
+LASTWORD CUSTOMERS
+
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+
+IDX SYSTEMS CORPORATION CONFIDENTIAL            11/21/00
+
+                                                                          Page 4
+
+<PAGE>
+
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+[**]                                                         [**]
+
+IDX SYSTEMS CORPORATION CONFIDENTIAL            11/21/00
+
+                                                                          Page 5
+
+<PAGE>
+
+                                    EXHIBIT C
+
+                               Minimum Sales Goals
+
+The Marketing Plan shall include the following minimum sales goals:
+
+Sale of the MIMS System, or any component thereof, by either party to IDXrad
+Customers or LastWord Customers as follows:
+
+[**]                                 [**]
+[**]                                 [**]
+[**]                                 [**]
+[**]                                 [**]
+[**]                                 [**]
+[**]                                 [**]
+[**]                                 [**]
+[**]                                 [**]
+[**]                                 [**]
+[**]                                 [**]
+[**]                                 [**]
+[**]                                 [**]
+[**]                                 [**]
+
+These sales goals assume that Stentor has developed iSite Version 2.0 as
+described in the Development Plan and that it is available for general release
+no later than March 31, 2001. The timing of these sales goals shall be delayed
+by one month for each month or portion of a month that the general release of
+iSite Version 2.0 is delayed beyond March 31, 2001.
+
+November 15, 2000
+
+<PAGE>
+
+                                    EXHIBIT D
+
+                     REQUIRED END USER AGREEMENT PROVISIONS
+
+End user agreements shall contain provisions as protective of the parties as the
+following provisions:
+
+1.   IN NO EVENT SHALL [IDX's/Stentor's] SUPPLIERS AND LICENSORS BE LIABLE FOR
+ANY DAMAGES OF ANY KIND OR NATURE, INCLUDING DIRECT, INDIRECT, INCIDENTAL,
+SPECIAL, PUNITIVE, EXEMPLARY OR CONSEQUENTIAL, ARISING OUT OF THE USE OF ANY
+SOFTWARE SUPPLIED BY COMPANY, ITS SUPPLIERS OR LICENSORS. THE LICENSEE
+UNDERSTANDS AND AGREES THAT THE SOFTWARE PROVIDED BY [IDX/Stentor] TO LICENSEE
+CONTAINS SOFTWARE THAT IS THE COPYRIGHTED PRODUCT AND A TRADE SECRET OF
+[IDX/Stentor] OR ITS SUPPLIERS AND LICENSORS, AND THAT LICENSEE WILL NOT USE ANY
+SUCH SOFTWARE IN VIOLATION OF THE RESTRICTIONS CONTAINED IN THIS AGREEMENT AND
+WILL NOT DISCLOSE THE SOFTWARE TO ANYONE OTHER THAN ITS EMPLOYEES OR AGENTS AS
+REASONABLY NECESSARY FOR THE PURPOSE OF THIS AGREEMENT AND ON THE CONDITION THAT
+IT ACCEPTS FULL RESPONSIBILITY FOR ANY BREACH HEREOF BY ANY SUCH INDIVIDUAL. THE
+FOREGOING AGREEMENTS ARE FOR THE EXPRESS BENEFIT OF [IDX/Stentor], ITS SUPPLIERS
+AND LICENSORS, AND MAY BE ENFORCED BY [IDX/Stentor], AND ITS SUPPLIERS AND
+LICENSORS.
+
+2.   QUALIFIED MODALITY
+[IDX/STENTOR] shall provide Customer a list of medical imaging equipment or
+modalities ("Qualified Modalities") for Customer's use with the MIMS System
+Software/Services. Customer shall contact [IDX/Stentor] immediately if any
+additional modalities are added or a modification to an existing Qualified
+Modality occurs. A modification to a Qualified Modality includes any type of
+change, enhancement or upgrade to that modality, including software upgrades or
+revisions. Customer accepts full responsibility for any failure or any other
+adverse consequences that may occur if Customer uses MIMS System Software with
+any modality other than a Qualified Modality.
+
+3.   SERVICE EQUIPMENT
+Service Equipment: shall mean all equipment supplied to or used by Customer in
+conjunction with the MIMS System Software/Services.
+
+Access To Service Equipment: Customer shall provide remote network access to the
+Service Equipment and MIMS System Software, including providing to [IDX/Stentor]
+the necessary security information to access the Service Equipment over a
+network. In addition, Customer shall provide to [IDX/Stentor] personnel physical
+access to all Service Equipment and MIMS System Software subsequent to receipt
+of reasonable notice by [IDX/Stentor].
+
+E-Mail Services: The Customer shall allow outgoing e-mail from Service Equipment
+either through the customers SMTP e-mail services or shall allow service
+equipment to access the [IDX/Stentor] SMTP e-mail service.
+
+November 15, 2000
+
+<PAGE>
+
+No Modification to Service Equipment: Customer agrees not to modify, in any way,
+or tamper with the Service Equipment and any software operating on the Service
+Equipment. Customer may access Service Equipment during installation, in
+accordance with specific instructions from [IDX/Stentor] personnel. In addition,
+Customer may access Service Equipment for system administration of MIMS System
+Software to assign user identifications and grant user passwords. Customer
+agrees not to load any additional software on Service Equipment.
+
+4.        PROPRIATARY RIGHTS AND CONFIDENTIALITY
+Ownership: Customer acknowledges and agrees that Stentor-IDX owns the sole and
+exclusive worldwide right, title and interest in and to the MIMS System
+Software/Services, and MIMS Documentation as well as all worldwide intellectual
+property rights therein and all copies thereof, in whole and in part, subject
+only to Customer's limited licensed rights to receive and use such MIMS System
+Software/Services, and MIMS Documentation as permitted by this Agreement.
+
+Duty of Confidentiality: To protect [IDX/Stentor] Proprietary Information,
+Customer agrees that Customer will not decompile, reverse engineer, disassemble
+or otherwise reduce the MIMS System Software/Services to a human perceivable
+form or permit any other party to do so. Customer may not modify, adapt,
+translate, rent, lease, sell, sublicense, loan, resell for profit, distribute,
+time-share [except as either IDX or Stentor specifically allows customer to
+allow access to third parties] or create any derivative works based upon, the
+MIMS System Software/Services, and otherwise any and all information, regardless
+of form, that is confidential, proprietary and/or a trade secret of
+[IDX/Stentor] ("[IDX/Stentor] Proprietary Information") or any portion thereof
+or permit any other party to do so.
+
+Customer shall limit disclosure of [IDX/Stentor] Proprietary Information to its
+employees who have a need to know the information in connection with the receipt
+of the MIMS System Software/Services. Customer may permit members of its medical
+community to observe operation of the MIMS System Software/Services on a limited
+basis if they have a need to do so. In no event and under no circumstances shall
+Customer reproduce, in any form, MIMS System Software and Documentation. In
+addition, Customer shall not reproduce computer screen displays generated by the
+iSite(TM) client software. Customer shall not disclose [IDX/Stentor] Proprietary
+Information to other parties (except members of its medical community as
+described above) or use [IDX/Stentor] Proprietary Information for purposes other
+than use of the MIMS System Software/Services, except that it may disclose or
+use:
+
+          a)    any information that [IDX/Stentor] expressly authorizes it, in
+                writing, to disclose;
+
+          b)    any information that is, through no breach of this or any other
+                agreement with [IDX/Stentor], in the public domain; and any
+                information that it is required by law to disclose.
+
+Customer agrees to take appropriate action to bind all employees and consultants
+regarding their obligations under this Agreement with respect to use, copying,
+modification, confidentiality, protection and security of the [IDX/Stentor]
+Proprietary Information. Customer agrees that any use or attempted use of
+[IDX/Stentor] Proprietary Information in violation of the restrictions of this
+Agreement is a material breach of the Agreement which will cause irreparable
+harm to [IDX/Stentor], entitling [IDX/Stentor] to injunctive relief in addition
+to all legal remedies. The
+
+November 15, 2000
+
+<PAGE>
+
+duty of confidentiality set forth in this Section shall survive three (3) years
+subsequent to termination the agreement.
+
+5.   WARRANTY DISCLAIMER:
+EXCEPT FOR THE FOREGOING EXPRESS WARRANTIES (IF ANY), [IDX/STENTOR] MAKES NO
+WARRANTIES, EITHER EXPRESS OR IMPLIED, UNDER THIS AGREEMENT AND HEREBY DISCLAIMS
+ALL IMPLIED WARRANTIES, INCLUDING ANY WARRANTIES REGARDING MERCHANTABILITY,
+FITNESS FOR PURPOSE OR CORRESPONDENCE WITH DESCRIPTION. THERE IS NO WARRANTY
+THAT THE [IDX/STENTOR] PROPRIETARY SOFTWARE IS FREE FROM PROGRAMMING ERRORS.
+
+[IDX/Stentor] shall have no liability and responsibility under the [express
+warranties] if:
+
+     a)   The MIMS Licensed Software/Service has been altered or damaged by
+          accident, neglect, misuse or other abuse;
+     b)   Customer has failed to provide an operating environment (e.g., air
+          temperature, electrical surge protection, etc.) for the computer
+          equipment operating the MIMS System that complies with general
+          industry standards for the safe operation of computer equipment;
+     c)   Customer has loaded unauthorized software onto the computer equipment
+          operating the MIMS System;
+     d)   The MIMS Licensed Software/Service is operating in conjunction with a
+          modality that is not a Qualified Modality;
+     e)   The MIMS Licensed Software/Service is not the latest update released
+          to Customer; or
+     f)   The Customer has failed to notify [IDX/Stentor] in writing, during the
+          License Term, of any defect Customer contends is a breach of warranty.
+
+6.   LIMITED LIABILITY:
+IN NO EVENT SHALL EITHER PARTY BE LIABLE TO THE OTHER FOR ANY LOST PROFITS, LOSS
+OF BUSINESS OR FOR INDIRECT, INCIDENTAL, EXEMPLARY, CONSEQUENTIAL, PUNITIVE OR
+SPECIAL DAMAGES SUFFERED BY CUSTOMER, IT'S CUSTOMERS, EMPLOYESS AND PATIENTS OR
+OTHERS ARISING OUT OF OR RELATED TO THIS AGREEMENT, THE MIMS SYSTEM SOFTWARE /
+SERVICES, DOCUMENTATION OR ANY OTHER STENTOR PRODUCTS OR SERVICES, FOR ALL
+CAUSES OF ACTION OF ANY KIND (INCLUDING BUT NOT LIMITED TO TORT, CONTRACT,
+NEGLIGENCE, STRICT PRODUCT LIABILITY AND BREACH OF WARRANTY) EVEN IF SUCH PARTY
+HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. STENTOR'S LIABILITY WILL IN
+NO EVENT EXCEED THE TOTAL DOLLARS PAID BY CUSTOMER FOR MIMS SYSTEM
+SOFTWARE/SERVICES.
+
+November 15, 2000
+
+<PAGE>
+
+CONFIDENTIAL                                                              Page 1
+
+                                    EXHIBIT E
+
+        To Distribution and Development Agreement by and between Stentor,
+                        Inc. and IDX Systems Corporation
+
+                               COMPENSATION TERMS
+
+1.   Stentor shall pay Royalties to IDX on sale of MIMS Systems by Stentor or a
+     Stentor Distribution Partner, as follows:
+
+     A.   If Stentor Provides a MIMS System to any End User, Stentor shall pay
+          IDX an amount equal to [**] % of the greater of (i) [**] for such MIMS
+          System and (ii) [**]; provided that if after the Effective Date but
+          prior to December 31, 2001, IDX Provides IDXrad or LastWord to the
+          same customer after Stentor Provides a MIMS System to that customer,
+          Stentor shall pay IDX an amount equal to [**] % of the greater of (i)
+          [**] for such MIMS System or (ii) [**] to such customer.
+
+     B.   If a Stentor Distribution Partner Provides a MIMS System to an IDXrad
+          Customer or a LastWord Customer that is a Stentor License Exclusion
+          Customer, Stentor shall pay IDX an amount equal to [**] % of the
+          greater of (i) [**] for such MIMS System or (ii) [**].
+
+     C.   If a Stentor Distribution Partner Provides a MIMS System to any person
+          who (i) is not an IDXrad Customer or a LastWord or (ii) an IDXrad or
+          LastWord Customer that is not a Stentor License Exclusion Customer,
+          Stentor shall pay IDX an amount equal to [**] % of the greater of (i)
+          [**] for such MIMS System, or (ii) [**].
+
+2.   IDX shall pay Royalties to Stentor on sale of MIMS Systems by IDX or an IDX
+     Distribution Partner, as follows:
+
+          A.   If IDX Provides a MIMS System to an IDXrad Customer or LastWord
+               Customer, IDX shall pay Stentor an amount equal to [**] % of the
+               greater of (i) [**] for such MIMS System or (ii) [**].
+
+          B.   If IDX or an IDX Distribution Partner Provides a MIMS System to
+               any person who is not an IDXrad Customer or LastWord Customer,
+               IDX shall pay Stentor an amount equal to [**] % of the greater of
+               (i) [**] for such MIMS System or (ii) [**].
+
+3.   Stentor in its discretion shall determine its own List Price for a MIMS
+     System not later than December 31 of each Calendar year during the term of
+     this Agreement. This Stentor List Price will be used to calculate the [**]
+     as set forth below. The sole effect of the Stentor List Price on IDX will
+     be to make this royalty calculation. IDX retains complete discretion over
+     prices relating to the MIMS System licensed by IDX.
+
+4.   For the purposes of this Exhibit E the defined terms set forth below shall
+     apply. In the case of any conflict or inconsistency between the defined
+     terms in this Exhibit and those defined in the Agreement, those set forth
+     in this Exhibit shall govern and control with respect to this Exhibit, and
+     those set forth in the Agreement shall govern and control with respect to
+     the Agreement.
+
+ The following table is provided for convenience in applying the above payment
+     obligations and is intended to be duplicative. If there is any conflict
+     between the above rules and this table, the above rules shall govern and
+     control.
+
+<TABLE>
+<CAPTION>
+
+               END USER                            SOLD BY                ROYALTY PAID TO   ROYALTY
+   --------------------------------------------------------------------------------------------------------------------------------
+   <S>                                             <C>                    <C>               <C>
+   IDXrad Customer or LastWord Customer            IDX                    Stentor           [**] % of the greater of [**] OR [**]
+   --------------------------------------------------------------------------------------------------------------------------------
+   IDXrad Customer or LastWord Customer that is    Stentor                IDX               [**] % of the greater of [**] OR [**]
+   a Stentor License Exclusion Customer            Distribution Partner
+   --------------------------------------------------------------------------------------------------------------------------------
+   Any End User (but see the last row in this      Stentor                IDX               [**] % of the greater of [**] OR [**]
+   table if such customer subsequently becomes
+   an IDXrad
+</TABLE>
+
+<PAGE>
+
+CONFIDENTIAL                                                              Page 2
+
+<TABLE>
+   <S>                                             <C>                    <C>               <C>
+   Customer or LastWord Customer between the
+   Effective Date and December 31, 2001)
+   --------------------------------------------------------------------------------------------------------------------------------
+   Not an IDXrad Customer or LastWord Customer     IDX                    Stentor           [**] % of the greater of [**] OR [**]
+   --------------------------------------------------------------------------------------------------------------------------------
+   Not an IDXrad Customer or LastWord Customer     Stentor                IDX               [**] % of the greater of [**] OR [**]
+   or an IDXrad Customer or LastWord Customer      Distribution Partner
+   that is not a Stentor License Exclusion
+   Customer
+   --------------------------------------------------------------------------------------------------------------------------------
+   Pre-existing Stentor Customer who becomes an    IDX                    Stentor           [**] % of the greater of [**] OR [**]
+   IDXrad Customer or LastWord Customer and
+   subsequently or concurrently buys all or
+   part of a MIMS System
+   --------------------------------------------------------------------------------------------------------------------------------
+   Stentor Customer who becomes an IDXrad          Stentor                IDX               [**]% of the greater of [**]or [**]paid
+   Customer or LastWord Customer after the                                                  for all MIMS System components
+   Effective Date but prior to December 31, 2001                                            (regardless of their date of sale) and
+                                                                                            payments aremade from the date the
+                                                                                            customer becomes an IDX Customer
+   --------------------------------------------------------------------------------------------------------------------------------
+</TABLE>
+
+5.   Stentor shall pay a royalty to IDX for each IDX Driver licensed to an End
+     User by either Stentor or a Stentor Distribution Partner equal to the
+     greater of (i) [**]% of [**] or (ii) $[**] for each imaging device to which
+     such IDX Driver(s) is connected. IDX in its discretion shall set the [**]
+     not later than December 31 of each Calendar year during the term of this
+     Agreement provided that the [**] shall not be increased by more than the
+     annual increase in the Consumer Price Index, all items, all urban
+     consumers, U.S. city average for such year + [**]%.
+
+                                  DEFINED TERMS
+
+          Exhibit E to Distribution and Development Agreement by
+          and between Stentor, Inc. and IDX Systems Corporation
+
+"Agreement" means the Development and Distribution Agreement between IDX and
+     Stentor of which this Exhibit E is a part.
+
+"Authorized Licensor" means a Party or a Distribution Partner of a Party
+     authorized pursuant to the Agreement.
+
+"Control"(including similar terms such as "Controlling," "Controlled by") shall
+     have the meaning set forth in Rule 12b-2 promulgated under the Securities
+     and Exchange Act of 1934.
+
+"Distribution Partner" means a person authorized by a Party to distribute the
+     MIMS System pursuant to the Agreement.
+
+"End User" means a person to whom an Authorized Licensor Provides a MIMS System.
+
+"Gross Revenue" means [**] charged by an Authorized Licensor to an End User for
+     [**]. "Revenue" does not include [**] charged by an Authorized Licensor to
+     an End User for [**]. "IDXrad Customer" means (i) any customer of IDX that
+     is licensed to use IDXrad and (ii) any and all entities that have access to
+     IDXrad databases through such customer.
+
+"LastWord Customer" means (i) any customer of IDX that is licensed to use
+     LastWord and (ii) any and all entities that have access to LastWord
+     databases through such customer.
+
+"IDX Driver" shall have the meaning set forth in the Agreement.
+
+<PAGE>
+
+CONFIDENTIAL                                                              Page 3
+
+"Maintaining" means error correction, updates, and new versions of the MIMS
+     System and its components.
+
+"MIMS System" means a system consisting of the MIMS System (as defined in the
+     Agreement), plus all other component items Provided by an Authorized
+     Licensor in connection therewith, such as equipment, software, and services
+     obtained from a Third Party.
+
+"Minimum Royalty Base" in connection with [**] such MIMS System [**].
+
+"Net Revenue" [**].
+
+"Party" means IDX Systems Corporation or Stentor Incorporated.
+
+"Pre-existing Stentor Customer" means any Stentor Customer that existed as of
+     the Effective Date of this Agreement.
+
+"Provide" (and similar terms such as "Providing") shall have the meaning set
+     forth in the Agreement.
+
+"Royalty" means the fee to be paid to a Party by a Party when such Party
+     Provides a MIMS System under the Agreement.
+
+"Stentor Customer" means any customer of Stentor that is licensed to use any
+     product sold by Stentor and any and all entities that have access to such
+     product through such customer, but shall not include any customer that is
+     in an evaluation period and not obligated to pay fees to Stentor for the
+     Stentor Product
+
+"Stentor License Exclusion Customer" means all IDXrad Customers and LastWord
+     Customers except (i) any IDXrad Customer or LastWord Customer that is a
+     Pre-existing Stentor Customer; (ii) any IDXrad Customer or LastWord
+     Customer that does not use IDXrad or LastWord as their primary radiology
+     information system or primary clinical information system, respectively;
+     (iii) any IDXrad Customer or LastWord Customer that becomes a Stentor
+     Customer prior to becoming an IDXrad Customer or LastWord Customer; or (iv)
+     any IDXrad Customer or LastWord Customer that ceases to remain a Stentor
+     License Exclusion Customer pursuant to Section 5.6.
+
+"Stentor List Price" means the price that Stentor lists for retail sale of a
+     MIMS System as set pursuant to this Exhibit E.
+
+"Third Party", when referred to in the context of a discussion of a particular
+     Authorized Licensor, means any person not Controlled by, Controlling, or
+     under common Control with such Authorized Licensor, as the context
+     requires.
+
+"Third Party Costs" means all of the actual costs of any good or services of a
+     MIMS System Provided by an Authorized Licensor, if such costs are payable
+     to a Third Party, but does not include royalties paid to IDX or Stentor.
+
+<PAGE>
+
+                                    EXHIBIT F
+
+          STENTOR UPTIME PERFORMANCE, GUARANTEE
+
+As an Application Service Provider (ASP), Stentor, Inc. provides image
+distribution on a per-use basis. The ASP model insulates the institution from
+hardware and software obsolescence and enables Stentor to guarantee [**]% uptime
+performance for iSite.
+
+In the event that Stentor is unable to meet our [**]% uptime performance
+guarantee per month, we will discount that month's fee as follows:
+
+          UPTIME PERFORMANCE                            DISCOUNT
+--------------------------------------------------------------------------------
+[**]                                        [**]
+--------------------------------------------------------------------------------
+[**]                                        [**]
+--------------------------------------------------------------------------------
+[**]                                        [**]
+--------------------------------------------------------------------------------
+[**]                                        [**]
+--------------------------------------------------------------------------------
+[**]                                        [**]
+--------------------------------------------------------------------------------
+[**]                                        [**]
+--------------------------------------------------------------------------------
+[**]                                        [**]
+--------------------------------------------------------------------------------
+[**]                                        [**]
+--------------------------------------------------------------------------------
+[**]                                        [**]
+--------------------------------------------------------------------------------
+[**]                                        [**]
+--------------------------------------------------------------------------------
+[**]                                        [**]
+--------------------------------------------------------------------------------
+[**]                                        [**]
+--------------------------------------------------------------------------------
+[**]                                        [**]
+--------------------------------------------------------------------------------
+[**]                                        [**]
+--------------------------------------------------------------------------------
+[**]                                        [**]
+--------------------------------------------------------------------------------
+[**]                                        [**]
+--------------------------------------------------------------------------------
+[**]                                        [**]
+
+1)        Every [**]% deviation will provide a [**]% discount for that month's
+          fee
+
+2)        Uptime performance less than [**]% will provide [**]
+
+System Uptime Terms and Definitions
+
+     .    STENTOR guarantees it's authorized and licensed users of iSite server
+          that the product is [**]% available per month as defined in the
+          following terms and conditions.
+
+     .    All time is measured in an increment of one-hour units. Fractions are
+          truncated.
+
+     .    One month is defined as a calendar month. For example, April has 30
+          days but May has 31 days, therefore, actual required time for this
+          guarantee will be variable.
+
+     .    Customer supplied equipment refers to any devices that STENTOR did not
+          supply directly to customers (network cables, fibers, hubs, hospital
+          network, telephone lines etc.)
+
+Stentor Uptime Performance Guarantee-Confidential - 9/18/2000
+November 15, 2000
+
+<PAGE>
+
+     .    Stentor customer support representatives are anyone who is authorized
+          to respond to customer outage situations (e.g., This can include third
+          party agents who are authorized to perform the response tasks).
+
+     .    [**]% Uptime means the Stentor iSite system is functionally accessible
+          by all authorized users for [**]% of the time when an access is
+          requested by the devices that are connected to the server.
+          Availability is measured at the standard point of demarcation (SPOD),
+          and outside of the scheduled and external downtime periods as defined
+          in this document.
+
+     .    Customer's Designated Contact is a contact person at the customer site
+          that shall judge STENTOR's uptime claims.
+
+     .    The Standard Point of Demarcation (SPOD) is defined at the network
+          connection interface installed at the iSite server computer hardware.
+          For example if 100 Base T network hardware is being used, the Ethernet
+          contact pins on the Ethernet card installed on the iSite server shall
+          be "our" uptime responsibility. The pins on the connector and beyond
+          are customer's uptime domains. This is the demarcation point that QA
+          procedure uses.
+
+     .    Downtime shall be categorized into three modes: Unscheduled Downtime,
+          Scheduled Downtime, and External Downtime.
+
+     .    Unscheduled downtime shall begin upon notification of Stentor by an
+          authorized customer representative that the iSite server could not be
+          accessed beyond the SPOD. This instance of unscheduled downtime shall
+          be predicated on the fact that there was no advance notification by
+          STENTOR in the 24-hour period prior to the outage. The cause of outage
+          must be originated within the STENTOR supplied equipment and software.
+          The unscheduled downtime shall commence upon the first response by a
+          STENTOR customer service representative to the notification from the
+          authorized customer representative regarding the down system issue and
+          a trouble ticket has been logged
+
+     .    Scheduled downtime shall be defined as the period that iSite servers
+          are inaccessible due to scheduled system maintenance. Scheduled
+          downtime shall be scheduled at STENTOR's discretion with notification
+          to the customer's designated contact. Typical scheduled downtime
+          includes preventative maintenance and system upgrades. Automatic and
+          scheduled re-boot and restart shall be categorized under the scheduled
+          down time so long as the frequency and time of occurrence has been
+          communicated to the customer's designated contact. The scheduled
+          downtime shall begin when access to the iSite server is completely
+          impaired, and does not include the duration of notification period.
+
+     .    External downtime shall be defined as when iSite servers are
+          inaccessible due to events that are not in STENTOR's control. These
+          events shall include, but are not limited to, events due to natural
+          causes such as prolonged power failures, electrical surges due to
+          lightening, flood, fire, and manual shutdowns at the sole discretion
+          of the customer without prior notification to Stentor, Inc. Note,
+          however, that any failure in the iSite server computer that STENTOR
+          supplies is subject to Unscheduled Downtime measurement.
+
+     .    STENTOR shall express uptime and downtime metrics based on a
+          percentage number based on hourly increments through one calendar
+          month.
+
+     .    All downtime ends when a STENTOR customer support representative has
+          confirmed and recorded the resumption time of the availability and/or
+          received one heartbeat report
+
+Stentor Uptime Performance Guarantee - Confidential - 9/18/2000
+November 15, 2000
+
+<PAGE>
+
+          back from the server, provided there are not external problems beyond
+          the SPOD which prevent the heartbeat report from reaching STENTOR.
+
+     .    Uptime metrics shall be measured in "total round-trip" manner. A
+          system is considered "up" if an image can be "pushed" to the iSite
+          server and the same image can be accessible within 30 minutes of the
+          initial "push". If there is criteria is not met than the system shall
+          be considered down.
+     .    Uptime percentage (measured in hours) = (Unscheduled Downtime
+          hours)/(Number of hours in a given month) * 100.
+
+Informational: Aggregate Uptime Table
+
+ANNUAL                                       ... AND IN ONE CALENDAR MONTH, WE
+UPTIME   APPROXIMATE DURATION THAT CAN BE    CAN AFFORD TO GO DOWN APPROXIMATELY
+RATE     DOWN PER ASTRONOMICAL YEAR.         THIS LONG.
+--------------------------------------------------------------------------------
+[**]%    [**]                                [**] down.
+--------------------------------------------------------------------------------
+[**]%    [**]                                [**] down.
+--------------------------------------------------------------------------------
+[**]%    [**]                                [**] down.
+--------------------------------------------------------------------------------
+[**]%    [**]                                [**] down.
+--------------------------------------------------------------------------------
+[**]%    [**]                                [**] down.
+--------------------------------------------------------------------------------
+[**]%    [**]                                [**] down.
+--------------------------------------------------------------------------------
+[**]%    [**]                                Down [**]
+--------------------------------------------------------------------------------
+
+ASSUMPTIONS
+
+The following assumptions are being made:
+
+     .    There is a way to continuously measure and monitor the uptime in a
+          round-trip manner. The proposal for this is included in my
+          "Heart-Beat" monitor definitions.
+
+     .    We assume that hardware is sufficiently reliable and do not perform
+          hardware specific tests other than setting up an acceptable selection
+          criteria. The computer hardware we have chosen has a minimum MTBF
+          value of 45,000 hours or greater (approximately 5 years). The system
+          MTBF for the purpose of uptime guarantee shall be based on the minimum
+          MTBF component installed on the entire system. For example, if an
+          Ethernet card has a MTBF of 20,000 hours but the rest of the systems
+          have a MTBF of 100,000 hours then the entire system is deem to fail
+          within 20,000 hours, and we shall reject a choice of such hardware.
+          Under these selection criteria, this author assumes that more than
+          99.99% of the hardware in the field shall operate continuously.
+
+     .    If a recoverable failure occurs on a redundant component, this event
+          shall not be considered a downtime. For example, if a one of the
+          RAID-5 volume goes down, but the system is available, then that is not
+          considered as a system failure so long as we are meeting the Uptime
+          criteria, and we can recover from this condition during the Scheduled
+          downtime. Likewise, if we supply a cluster of redundant servers and
+          one of the server goes down, that is not considered as a downtime so
+          long as the user can access the active server transparently.
+
+Setentor Uptime Performance Guarantee - Confidential - 9/18/2000
+November 15, 2000
+
+<PAGE>
+
+     .    All iSite Server hardware is supplied to the customer as part of the
+          Stentor Service Agreement. The supplied hardware is covered under
+          Stentor's Service Agreement with [**].
+
+          .    Only Stentor approved software may be resident on the iSite
+               Server. The presence of non Stentor approved software residing on
+               the iSite Server will invalidate the [**]% uptime guarantee.
+
+          .    If the customer is supplying their own hardware for the iSite
+               Server, that hardware must be purchased to Stentor's
+               specification, only Stentor approved software applications may
+               reside on said server, and the customer must provide a [**]
+               service agreement equivalent to Stentor's service agreement with
+               [**].
+
+Setentor Uptime Performance Guarantee - Confidential - 9/18/2000
+November 15, 2000
+
+<PAGE>
+
+                                    EXHIBIT G
+
+            COMPONENTS OF THE IDX/STENTOR INTEGRATED PRODUCT OFFERING
+
+                                      [**]
+
+IDX Confidential                                                        11/21/00
+
+                                     Page 1
+
+</TEXT>
+</DOCUMENT>

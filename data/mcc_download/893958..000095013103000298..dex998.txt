@@ -1,0 +1,381 @@
+<DOCUMENT>
+<TYPE>EX-99.8
+<SEQUENCE>12
+<FILENAME>dex998.txt
+<DESCRIPTION>TRIPARTY CONTINGENT ASSIGNMENT AGREEMENT-1/15/03
+<TEXT>
+<PAGE>
+
+                                                                    Exhibit 99.8
+
+         TRIPARTY CONTINGENT ASSIGNMENT AGREEMENT dated as of January 15, 2003
+(the "Agreement"), among Capital Auto Receivables Asset Trust 2003-1, a Delaware
+statutory trust (the "Trust"), General Motors Acceptance Corporation , a
+Delaware corporation ("GMAC"), and Morgan Stanley Capital Services Inc., a
+Delaware corporation (the "Primary Swap Counterparty").
+
+         WHEREAS, the Trust and the Primary Swap Counterparty have entered into
+the Primary Swap Agreement (hereinafter defined);
+
+         WHEREAS, GMAC and the Primary Swap Counterparty have entered into the
+Back-to-Back Swap Agreement (hereinafter defined);
+
+         NOW, THEREFORE, the parties hereto hereby agree as follows:
+
+                                    ARTICLE I
+
+                                   DEFINITIONS
+
+         Section 1.01 The following terms shall have the meanings set forth
+below:
+
+         "Additional Contingent Counterparty" means a Person with the Requisite
+Rating entering into an agreement substantially similar to this Agreement
+pursuant to Section 2.02.
+
+         "Assignment Currency" means United States Dollars.
+
+         "Assignment Currency Equivalent" has the same meaning as the term
+"Termination Currency Equivalent" as defined in the Primary Swap Agreement,
+except that any reference to the term "Termination" or "Early Termination Date"
+therein is deemed to be "Assignment" or "Assignment Date," respectively.
+
+         "Assignment Date" means the date upon which GMAC receives notice from
+the Trust of the occurrence of a Designated Event, or if such date is not a
+Business Day, the next succeeding Business Day.
+
+         "Back-to-Back Confirmations" means the (i) Confirmation of Back-to-Back
+Swap Transaction relating to the Class A-1b Notes, (ii) Confirmation of
+Back-to-Back Swap Transaction relating to the Class A-2b Notes, (iii)
+Confirmation of Back-to-Back Swap Transaction relating to the Class A-3b Notes
+and (iv) Confirmation of Back-to-Back Swap Transaction relating to Class A-4b
+Notes, in each case, dated as of January 15, 2003, between GMAC and the Primary
+Swap Counterparty, which have been entered into pursuant to the ISDA Master
+Agreement (including the Schedule thereto), dated as of January 15, 1998,
+between GMAC and the Primary Swap Counterparty.
+
+         "Back-to-Back Swap Agreement" means the ISDA Master Agreement
+(including the Schedule thereto), dated as of January 15, 1998, between the
+Primary Swap Counterparty and GMAC, and the Back-to-Back Swap Confirmations.
+
+<PAGE>
+
+         "Back-to-Back Swap Transactions" means the transactions described in
+the Back-to-Back Confirmations.
+
+         "Delinquent Payments" means any payments owed to the Trust as a result
+of liabilities, obligations and duties of the Primary Swap Counterparty pursuant
+to the Primary Swap Agreement accruing prior to the Assignment Date that have
+not been made by the Primary Swap Counterparty.
+
+         A "Designated Event" shall occur (a) if one or more Events of Default
+occurs under the Primary Swap Agreement with the Primary Swap Counterparty as
+the Defaulting Party and the Trust notifies the Primary Swap Counterparty that
+it is declaring a Designated Event to have occurred, (b) upon the occurrence of
+any applicable Termination Event under the Primary Swap Agreement in which the
+Primary Swap Counterparty is an Affected Party, if no transfer is effected under
+Part 1(f)(v) of the Schedule to the Primary Swap Agreement (or in the case of a
+credit downgrade which results in GMAC having a higher credit rating than the
+Primary Swap Counterparty, no appropriate arrangements pursuant to the Primary
+Confirmation's credit downgrade provisions are made within thirty (30) days of
+receipt of notice of such reduction unless, within thirty (30) days after such
+reduction, the applicable Rating Agency has reconfirmed the rating of the
+Reference Notes that was in effect immediately prior to such reduction) with
+respect to such event and an assignment pursuant to Section 2.01 would result in
+the non-occurrence of such event as it pertains to the Primary Swap Counterparty
+or (c) if the Trust receives a notice from Primary Swap Counterparty pursuant to
+the provisions of Section 2.03 herein.
+
+         "Fallback Confirmation" means the (i) Confirmation of Fallback Swap
+Transaction relating to the Class A-1b Notes, (ii) Confirmation of Fallback Swap
+Transaction relating to the Class A-2b Notes, (iii) Confirmation of Fallback
+Swap Transaction relating to the Class A-3b Notes and (iv) Confirmation of
+Fallback Swap Transaction relating to Class A-4b Notes, in each case, between
+GMAC and the Trust, which have been entered into pursuant to the ISDA Master
+Agreement (including the Schedule thereto), dated as of January 15, 2003 between
+GMAC and the Trust.
+
+         "Fallback Swap Agreement" means the ISDA Master Agreement (including
+the Schedule thereto), dated as of January 15, 2003 between GMAC and the Trust,
+and the Fallback Confirmations.
+
+         "Fallback Swap Transactions" means the transactions described in the
+Fallback Confirmations.
+
+         "Joint Probability" has the meaning given in the Primary Confirmations.
+
+         "Moody's" means Moody's Investors Service.
+
+         "Operative Swap Agreements" means (i) prior to the Assignment Date, the
+Primary Swap Agreement and (ii) on and after the Assignment Date, the Fallback
+Swap Agreement.
+
+         "Operative Swap Transactions" means (i) prior to the Assignment Date,
+the Primary Swap Transactions and (ii) on and after the Assignment Date, the
+Fallback Swap Transactions.
+
+                                       2
+
+<PAGE>
+
+         "Primary Confirmations" means the (i) Confirmation of Primary Swap
+Transaction relating to the Class A-1b Notes, (ii) Confirmation of Primary Swap
+Transaction relating to the Class A-2b Notes, (iii) Confirmation of Primary Swap
+Transaction relating to the Class A-3b Notes and (iv) Confirmation of Primary
+Swap Transaction relating to Class A-4b Notes, in each case, between the Primary
+Swap Counterparty and the Trust, which have been entered into pursuant to the
+ISDA Master Agreement (including the Schedule thereto), dated as of January 15,
+2003 between the Primary Swap Counterparty and the Trust.
+
+         "Primary Swap Agreement" means the ISDA Master Agreement (including the
+Schedule thereto), dated as of January 15, 2003, between the Primary Swap
+Counterparty and the Trust, and the Primary Confirmations.
+
+         "Primary Swap Transactions" means the transactions described in the
+Primary Confirmations.
+
+         "Requisite Rating" means a long-term, unsecured and unsubordinated debt
+rating from S&P or Moody's which, when considered together with the long-term,
+unsecured and unsubordinated debt rating of GMAC, would result in a Joint
+Probability of at least AA- in the case of S&P, or Aa3 in the case of Moody's.
+
+         "Settlement Amount" has the same meaning as such term defined in the
+Primary Swap Agreement, except that any reference to the term "Termination" or
+"Terminated" therein is deemed to be "Assignment" or "Assigned," respectively.
+
+         "Servicer" means GMAC or its successor as servicer pursuant to the
+Trust Sale and Servicing Agreement.
+
+         "S&P" means Standard and Poor's Ratings Services, a Division of the
+McGraw-Hill Companies and any successor.
+
+         "Unpaid Amounts" has the same meaning as such term defined in the
+Primary Swap Agreement, except that any reference to the term "Early Termination
+Date," "Termination," or "Terminated" therein is deemed to be "Assignment Date,"
+"Assignment," or "Assigned," respectively.
+
+         Definitions. Capitalized terms used in this Agreement and not otherwise
+defined herein shall have the meanings specified for such terms (i) in the
+Primary Swap Agreement or the Back-to-Back Swap Agreement, as dictated by its
+context or (ii) if not defined therein, in Appendix A to the Trust Sale and
+Servicing Agreement, dated as of the date hereof between the Trust, the Seller
+and the Servicer (the "Trust Sale and Servicing Agreement"). The rules of
+construction specified in Part II of such Appendix A shall apply to this
+Agreement.
+
+                                   ARTICLE II
+
+                        ASSIGNMENT UPON DESIGNATED EVENT
+
+         Section 2.01 Assignment. In the event that a Designated Event shall
+have occurred and is then continuing and the Trust has notified GMAC in writing
+of such occurrence and
+
+                                       3
+
+<PAGE>
+
+continuance and has provided evidence reasonably satisfactory to GMAC that a
+Designated Event has occurred and is then continuing, each of the following
+shall automatically occur on the Assignment Date:
+
+          (a) GMAC shall accede to rights and obligations equivalent to those of
+     the Primary Swap Counterparty under each of the Primary Swap Transactions
+     in accordance with the terms of the Fallback Swap Agreement (including
+     rights, title and interests and liabilities, obligations and duties
+     accruing prior to the Assignment Date). In connection with the foregoing,
+     in the event that there are Delinquent Payments under any Primary Swap
+     Transaction, GMAC shall promptly (and in any event no later than the next
+     Business Day) make the full amount of such Delinquent Payments to the Trust
+     (but only to the extent that GMAC has not made a corresponding payment
+     under the Fallback Swap Agreement).
+
+          (b) In connection with the assignment of the Primary Swap Agreement to
+     GMAC pursuant to Section 2.01(a) above, a payment (the "Assignment
+     Payment") shall be due, either to the Primary Swap Counterparty by GMAC or
+     to GMAC by the Primary Swap Counterparty, which payment shall equal (A) the
+     sum of the Settlement Amount (as determined by GMAC (on behalf of the
+     Trust)) in respect of all of the Primary Swap Transactions and the
+     Assignment Currency Equivalent of the Unpaid Amounts owing to Trust by the
+     Primary Swap Counterparty (without giving effect to any Delinquent Payments
+     made by GMAC) less (B) the Assignment Currency Equivalent of the Unpaid
+     Amounts owing by the Trust to the Primary Swap Counterparty. If that amount
+     is a positive number, the Primary Swap Counterparty will pay it to GMAC; if
+     it is a negative number, GMAC will pay the absolute value of that amount to
+     the Primary Swap Counterparty. The amount of the Assignment Payment
+     determined as being due as a result of the assignment shall be payable
+     within five Business Days following the Assignment Date.
+
+          (c) Except as expressly provided in paragraphs (a) and (b) above, on
+     and at all times following the Assignment Date, the Primary Swap
+     Counterparty shall have no liabilities, obligations and duties, including
+     payment obligations of any kind, under the Primary Swap Agreement. As of
+     the Assignment Date, the Primary Swap Transaction shall be governed by the
+     terms of the Fallback Swap Agreement, and the Primary Swap Agreement shall
+     no longer govern the Primary Swap Transaction (except with respect to
+     rights, liabilities, obligations and duties accrued prior to the Assignment
+     Date).
+
+          (d) Subject to paragraphs (a) and (b) above, the Back-to-Back Swap
+     Transaction shall be terminated on and as of the Assignment Date. For the
+     purposes thereof, the Assignment Date shall be deemed to be an Early
+     Termination Date for the Back-to-Back Swap Transaction and `the Primary
+     Swap Counterparty shall be deemed to be the Affected Party. If, on or after
+     the Assignment Date, GMAC has made payments to the Primary Swap
+     Counterparty under the Back-to-Back Swap Agreement, `the Primary Swap
+     Counterparty agrees to reimburse GMAC in an amount equal to the full amount
+     of any such payments. If, prior to the Assignment Date, GMAC has not made
+     all or any part of payments required under the Back-to-Back Swap Agreement,
+     GMAC agrees to pay, without duplication of any termination payment that may
+     become due to `the Primary
+
+                                       4
+
+<PAGE>
+
+     Swap Counterparty as of the Assignment Date, `the Primary Swap Counterparty
+     in an amount equal to the full amount of any such payments.
+
+          (e) Upon (i) the effectiveness of the Fallback Swap Agreement and (ii)
+     the payment by GMAC to the Trust in a timely fashion of all Delinquent
+     Payments, if any, (x) the Event of Default or Termination Event under the
+     Primary Swap Agreement constituting such Designated Event, if any, shall be
+     deemed to be cured on and as of the Assignment Date, and (y) no Early
+     Termination Date (as defined in the Primary Swap Agreement) may be
+     designated as a result of such Designated Event.
+
+     Section 2.02 Additional Contingent Counterparty. If GMAC has acceded to the
+rights and obligations of the Primary Swap Counterparty under the Primary Swap
+Agreement in accordance with the provisions of this Article II, GMAC shall have
+the option to find a Person with the Requisite Rating that will either (i) enter
+into an assignment agreement that is substantially similar to this Agreement
+pursuant to which such Person will become the Additional Contingent Counterparty
+or (ii) enter into a swap transaction substantially similar to the Primary Swap
+Transaction and a contingent assignment agreement that is substantially similar
+to this Agreement under which such Person would accede to the rights and
+obligations of GMAC under the Primary Swap Agreement and GMAC will become the
+Additional Contingent Counterparty. The Primary Swap Counterparty shall
+reimburse GMAC for any reasonable out-of-pocket costs associated with finding a
+party to serve as the Additional Contingent Counterparty. Any delay or inability
+in finding a party to serve as the Additional Contingent Counterparty will not
+result in the occurrence of a Termination Event, an Event of Default or
+otherwise lead to the designation of an Early Termination Date under the
+Operative Swap Agreement.
+
+     Section 2.03 Notice. The Primary Swap Counterparty agrees that, to the
+extent that it has actual knowledge that it will be unable to make a payment or
+delivery on a scheduled payment date under the Primary Swap Agreement, it shall
+provide notice to the Trust of such inability at least two Business Days prior
+to such scheduled payment date. This Section 2.03 shall not be construed to
+obligate the Primary Swap Counterparty to undertake any affirmative action or
+inquiry to ascertain whether it will be able to make any such payment or
+delivery. Any failure by the Primary Swap Counterparty to provide notice to the
+Trust of such inability shall be without prejudice to the Primary Swap
+Counterparty's rights under this Agreement and the Primary Swap Agreement.
+
+                                   ARTICLE III
+
+                                  MISCELLANEOUS
+
+     Section 3.01 Miscellaneous.
+
+          (a) Entire Agreement. This Agreement, the Primary Swap Agreement and
+     the Back-to-Back Swap Agreement constitute the entire agreement and
+     understanding of the parties with respect to the subject matter thereof and
+     supersede all oral communications and prior writings (except as otherwise
+     provided therein) with respect thereto.
+
+                                       5
+
+<PAGE>
+
+          (b) Counterparts. This Agreement may be executed and delivered in
+     counterparts (including by facsimile transmission) each of which will be
+     deemed an original.
+
+          (c) Headings. The headings used in this agreement are for convenience
+     of reference only and are not to affect the construction of or to be taken
+     into consideration in interpreting this Agreement.
+
+          (d) GOVERNING LAW. THIS AGREEMENT WILL BE GOVERNED BY AND CONSTRUED IN
+     ACCORDANCE WITH THE LAWS OF THE STATE OF NEW YORK WITHOUT REFERENCE TO
+     CHOICE OF LAW DOCTRINE BUT WITHOUT PREJUDICE TO THE PROVISIONS OF SECTION
+     5-1401 OF ITS GENERAL OBLIGATIONS LAW.
+
+          (e) Notices. All demands, specifications and notices to a party hereto
+     under this Agreement will be made pursuant to the provisions of the Primary
+     Swap Agreement or the Back-to-Back Swap Agreement, as applicable.
+
+          (f) No Waiver. Notwithstanding any other provision in this Agreement
+     to the contrary, no full or partial failure to exercise and no delay in
+     exercising, on the part of any party hereto, any right, remedy, power or
+     privilege under this Agreement, regardless of the frequency or constancy of
+     such failure or delay, shall operate in any way as a waiver thereof by such
+     party.
+
+          (g) Inconsistencies. Except as expressly provided herein, the Primary
+     Swap Agreement shall not be deemed to be amended hereby in any respect. In
+     the event of any inconsistencies between the provisions of this Agreement
+     and those of the Primary Swap Agreement or the Back-to-Back Swap Agreement,
+     the provisions hereof shall prevail.
+
+          (h) Amendments. This Agreement may not be amended except by the
+     execution of a written instrument by all parties hereto.
+
+          (i) Limitation of Liability. It is expressly understood and agreed by
+     the parties hereto that (a) this Agreement is executed and delivered by
+     Deutsche Bank Trust Company Delaware, not in its individual capacity but
+     solely as Owner Trustee of Capital Auto Receivables Asset Trust 2003-1 in
+     the exercise of the powers and authority conferred and vested in it, (b)
+     each of the representations, undertakings and agreements herein made on the
+     part of the Trust is made and intended not as personal representations,
+     undertakings and agreements by Deutsche Bank Trust Company Delaware but is
+     made and intended for the purpose for binding only the Trust, (c) nothing
+     herein contained shall be construed as creating any liability on Deutsche
+     Bank Trust Company Delaware in its individual, corporate capacity, to
+     perform any covenant either expressed or implied contained herein, all such
+     liability, if any, being expressly waived by the parties hereto and by any
+     Person claiming by, through or under the parties hereto and (d) under no
+     circumstances shall Deutsche Bank Trust Company Delaware be personally
+     liable for the payment of any indebtedness or expenses of the Trust or be
+     liable for the breach or failure of any obligation, representation,
+     warranty or covenant made or undertaken by the Trust under this Agreement
+     or any other related documents.
+
+                                       6
+
+<PAGE>
+
+         IN WITNESS WHEREOF, the parties have executed this agreement by their
+duly authorized officers as of the date hereof.
+
+                                            CAPITAL AUTO RECEIVABLES ASSET TRUST
+                                            2003-1
+
+                                            By:  DEUTSCHE BANK TRUST COMPANY
+                                                 DELAWARE, not in its individual
+                                                 capacity but solely as Owner
+                                                 Trustee
+
+
+                                            By:  _______________________________
+                                            Name:
+                                            Title:
+
+
+                                            GENERAL MOTORS ACCEPTANCE
+                                            CORPORATION
+
+                                            By:  _______________________________
+                                            Name:
+                                            Title:
+
+
+                                            MORGAN STANLEY CAPITAL SERVICES INC.
+
+                                            By:  _______________________________
+                                            Name:
+                                            Title:
+
+</TEXT>
+</DOCUMENT>

@@ -1,0 +1,759 @@
+<DOCUMENT>
+<TYPE>EX-10.17
+<SEQUENCE>4
+<FILENAME>b45690rsexv10w17.txt
+<DESCRIPTION>EX-10.17 8TH AMENDMENT TO PARTNER AGREEMENT
+<TEXT>
+<PAGE>
+
+                                                                   Exhibit 10.17
+
+          Confidential Materials omitted and filed separately with the
+         Securities and Exchange Commission. Asterisks denote omissions.
+
+       EIGHTH AMENDMENT TO PROGRESS SOFTWARE APPLICATION PARTNER AGREEMENT
+
+EIGHTH AMENDMENT to the Progress Software Corporation Application Partner
+Agreement is effective as of the 27th day of November, 2002 ("Effective Date"),
+by and between Progress Software Corporation, a Massachusetts corporation with
+its principal place of business at 14 Oak Park, Bedford, Massachusetts 01730
+("PSC") and RSA Security Inc. (formerly known as Security Dynamics Inc.), a
+Delaware corporation with its principal place of business at 174 Middlesex
+Turnpike, Bedford, Massachusetts 01730 ("RSA").
+
+         WHEREAS, PSC and RSA entered into a Progress Software Application
+Partner Agreement effective as of December 5, 1994 (the "Agreement"); and
+
+         WHEREAS, PSC and RSA previously amended the Agreement by entering into
+the Progress Software Application Partner Agreement Addendum effective as of
+December 5, 1994 (the "Addendum") and a subsequent amendment to the Agreement
+dated as of October 19, 1995 (the "Amendment");
+
+         WHEREAS, PSC and RSA entered into a Second Amendment to the Agreement
+dated as of November 29, 1995 (the "Second Amendment") which completely
+superseded the terms and conditions of the earlier Addendum and Amendment and
+specified new special pricing and distribution terms and conditions in an
+Attachment A relating to certain PSC products distributed by RSA or RSA's
+distributors in conjunction with RSA's PROGRESS(R)-based applications; and
+
+         WHEREAS, PSC and RSA entered into a Third Amendment to the Agreement
+dated as of November 15, 1996 (the "Third Amendment") specifying certain
+additional modifications to the terms and conditions of the Agreement and
+replacing the Attachment A incorporated by reference into the Second Amendment
+with a new Attachment A including modified special pricing and distribution
+terms and conditions relating to certain PSC products distributed by RSA or
+RSA's distributors in conjunction with RSA's PROGRESS(R)-based applications; and
+
+         WHEREAS, PSC and RSA entered into a Fourth Amendment to the Agreement
+dated as of April 1, 1998 (the "Fourth Amendment") identifying the PSC products
+that RSA has the right to distribute to accomplish the RSA customer
+configuration for RSA's PROGRESS(R)-based application and specifying additional
+modifications to the special pricing and distribution terms and conditions set
+forth in Attachment A to the Third Amendment; and
+
+         WHEREAS, PSC and RSA entered into a Fifth Amendment to the Agreement
+dated as of February 18, 1999 (the "Fifth Amendment") whereby PSC granted, and
+RSA accepted, a license to use, distribute, OEM and sub-license the Progress
+Database in RSA's Public Key Infrastructure ("PKI") Products; and
+
+         WHEREAS, PSC and RSA entered into a Sixth Amendment to the Agreement
+dated as of October 26, 1999 (the "Sixth Amendment") that specified certain
+additional terms and conditions pertaining to RSA's ordering of additional
+quantities of PSC products, and RSA's use and distribution of said PSC products;
+and
+
+         WHEREAS, PSC and RSA entered into a Seventh Amendment to the Agreement
+dated as of November 28, 2001 (the "Seventh Amendment") that specified certain
+additional terms and conditions pertaining to RSA's ordering of additional
+quantities of PSC products, and RSA's use and distribution of said PSC products;
+and
+
+<PAGE>
+
+         WHEREAS, PSC and RSA desire to further amend the terms and conditions
+of the Agreement and the prior Amendments to specify certain additional terms
+and conditions pertaining to RSA's ordering of additional quantities of PSC
+products, and RSA's use and distribution of said PSC products,
+
+         NOW, THEREFORE, for good and valuable consideration, the receipt and
+adequacy of which is hereby acknowledged, the parties hereto agree as follows:
+
+1.       Subject to the existing requirements as set forth in the previous
+         Amendments and the Agreement and in consideration for RSA paying to
+         PSC, according to the payment terms as further specified herein, the
+         non-refundable sum of [**] dollars ($[**]) in pre-paid royalties, PSC
+         agrees to provide RSA with a $[**] allowance against license and
+         maintenance fees for deployment licenses, on any PSC supported
+         platform, for the following Progress product configuration:
+
+         Progress ProVISION (up to 16 users)
+         Progress Enterprise Database
+         Progress Client Networking
+         Progress Server Networking
+         Progress E/SQL
+         Progress 4GL (1 user)
+         DBE Supplement
+
+         Except for Progress ProVISION, RSA's distribution of such PSC products
+         shall not be limited to any certain number of users, provided that, for
+         each deployment of the above-mentioned Progress product configuration,
+         or portion thereof, to an RSA customer in conjunction with the RSA
+         Progress-based applications described herein, the number of users
+         authorized to use such PSC products shall not exceed the number of
+         users authorized to use RSA's Progress-based application(s).
+
+         Payment schedule shall be as follows:
+
+         40% due by January 2, 2003
+         20% due by February 15, 2003
+         20% due by April 15, 2003
+         20% due by June 15, 2003
+
+         RSA shall have the right to distribute all or part of the above
+         Progress products for each RSA customer license for use solely with
+         RSA's Progress-based application currently identified as follows:
+
+                           RSA ACE/Server
+
+2.       Provided RSA is current in its payment obligations to PSC, PSC agrees
+         to provide RSA with technical support for Progress version 8.3b and
+         above and for the specific platforms listed in the attached Exhibit A,
+         for a period of forty-two (42) months from the Effective Date, at the
+         same level as PSC makes generally available to its customers for its
+         active, functionally stable products, including access to PSC's
+         escalation process as further defined at:
+         http://www.progress.com/support/escalation.htm. Such support shall
+         include at a minimum bug fixes and help-desk support, with security bug
+         fixes being provided on an expedited basis.
+
+3.       RSA will provide to PSC quarterly deployment reports detailing the
+         number of licenses sold and maintenance dates as required under the
+         previous Amendments and the Agreement. Such reports to be provided to
+         PSC by the last business day of January, April, July and October. RSA's
+         reports shall include, at a minimum, the following information:
+         customer name; PSC royalty amount totals for license, new and renewal
+         maintenance; and maintenance dates. PSC agrees to treat all such
+         information as confidential. PSC will continue to accrue against RSA's
+         pre-paid royalties upon receipt of such reports at a product royalty
+         rate of [**] percent ([**]%) and a maintenance royalty rate of [**]
+         percent ([**]%). Once RSA's pre-paid royalties are depleted, RSA will
+         pay to PSC the royalties set forth in the preceding sentence on a
+         quarterly basis, and the royalties accrued
+
+<PAGE>
+
+         during each such quarter shall be due and payable on the due date for
+         the deployment report for the applicable quarter.
+
+         RSA agrees not to disproportionately charge more for non-license or
+         maintenance fees and less for royalty generating license and
+         maintenance fees, thus resulting in lower royalties to PSC than would
+         otherwise customarily be due. At the end of each annual term, if RSA's
+         average discount materially changes from the previous year, the parties
+         agree to negotiate in good faith the appropriate royalty percentages
+         due PSC for the following year. RSA shall inform PSC in writing of
+         RSA's average discount on or before the 15th day after the Effective
+         Date. RSA's price list is attached hereto as Exhibit B.
+
+4.       The parties agree that, upon the earlier of the depletion of this
+         initial $[**] allowance or November 27, 2003, and prior to each annual
+         renewal term or depletion thereafter, the parties will negotiate in
+         good faith the amount of the additional non-refundable prepayment
+         applicable for each subsequent annual term. Payment schedule for such
+         additional pre-payments shall be in accordance with the payment model
+         specified in section 1 above. Notwithstanding the foregoing, prior to
+         the termination of this Eighth Amendment, the parties agree to
+         negotiate in good faith the terms and conditions that will govern a new
+         agreement for any subsequent term.
+
+5.       The parties agree to establish and attend executive management meetings
+         on at least a semi-annual basis to review the current and future
+         strategic relationship of the parties.
+
+6.       The parties agree that the end user license agreement attached to the
+         Third Amendment is hereby replaced with RSA's current End User Product
+         License Agreement attached hereto as Exhibit C. RSA agrees to enter
+         into license agreements with its customers that contain terms and
+         conditions substantially in accordance with those contained in such
+         agreement. However, RSA acknowledges that Progress versions 9.0 and
+         above may contain third party technology that requires additional terms
+         in the end user license agreement. PSC shall make such additional terms
+         available to RSA, and RSA shall incorporate substantially similar terms
+         into its end user license agreement for its Progress-based
+         applications.
+
+7.       Upon execution of this Eighth Amendment, the Seventh Amendment shall be
+         terminated in its entirety and superseded with this Eighth Amendment.
+         The term of this Eighth Amendment shall commence as of the Effective
+         Date defined above, and shall continue in force for a period of four
+         (4) years.
+
+8.       Except as specifically modified or amended by this Eighth Amendment,
+         the terms and conditions of the Agreement (as previously amended by the
+         Seventh, Sixth, Fifth, Fourth, Third and Second Amendments thereto)
+         shall remain in full force and effect until the termination of the
+         Agreement. No other modifications or additions are made to the
+         Agreement. The Agreement, Eighth, Seventh Sixth, Fifth, Fourth, Third,
+         Second and First Amendments constitutes the entire agreement between
+         the parties with respect to the subject matter hereof. In the event of
+         any conflict among the terms and conditions of the Agreement, the
+         Second Amendment, Third Amendment, Fourth Amendment, Fifth Amendment,
+         Sixth Amendment, Seventh Amendment or this Eighth Amendment, the order
+         of precedence shall be: first, this Eighth Amendment, second the
+         Seventh Amendment, third the Sixth Amendment, fourth the Fifth
+         Amendment, fifth the Fourth Amendment, sixth, the Third Amendment,
+         seventh, the Second Amendment (which completely supersedes the earlier
+         Addendum and Amendment) and eighth and finally, the Agreement.
+
+<PAGE>
+
+         IN WITNESS WHEREOF, this Eighth Amendment has been executed under seal
+for and on behalf of each of the parties hereto by their duly authorized
+representative as of the date first set forth above.
+
+         RSA SECURITY INC.                     PROGRESS SOFTWARE CORPORATION
+
+         By: /s/ William McQuaide              By: /s/ Justin P. Wright
+             -------------------------------       -----------------------------
+
+         Name: William McQuaide                Name: Justin P. Wright
+
+         Title: SVP, Authentication Products   Title: VP, NA Operations
+
+                                                    This document has been
+                                                    reviewed & approved by
+                                                    the PSC Legal Dept.
+                                                    /s/ DLK Initials
+
+<PAGE>
+
+                                    EXHIBIT A
+
+PROGRESS RELEASE: 8.3b
+RSA ACESERVER VERSION: 5.0
+DATE OF INITIAL SHIPMENT: 6/2001
+PLATFORMS:
+Microsoft Windows NT, 2000 Server and Advanced Server
+Sun Solaris 2.6, 7, 8
+HP UX 10.20, 11.0
+IBM AIX 4.3.3
+REMOTE ADMIN REQUIRED FOR:
+Microsoft Windows 98, NT 4.0, 2000 Pro, 2000 Server, 2000 Advanced Server
+
+PROGRESS: 8.3d
+RSA ACESERVER VERSION:
+DATE OF INITIAL SHIPMENT: 1/2003 (ESTIMATED)
+PLATFORMS:
+Microsoft Windows NT 4.0 Server or Workstation
+Microsoft Windows 2000 Server, 2000 Advanced Server, .Net Server
+Sun Solaris 8, 9(32 bit and 64 bit)
+HP UX 11.0, 11i(32 bit and 64 bit)
+IBM AIX 4.3.3, 5Lv5.1(32 bit and 64 bit), 5Lv5.2(32 bit and 64 bit)
+REMOTE ADMIN REQUIRED FOR:
+Microsoft Windows 98, NT 4.0, 2000 Pro, 2000 Server, 2000 Advanced Server,
+XP Pro, .Net Server
+
+PROGRESS: 9.1d
+RSA ACESERVER VERSION:
+SUPPORTED REQUIRED THROUGH: Q1 2007
+Server on
+Microsoft Windows 2000 Server, 2000 Advanced Server, .Net Server
+Sun Solaris 8, 9(32 bit and 64 bit)
+HP UX 11i (32 bit and 64 bit)
+IBM AIX 5Lv5.1(32 bit and 64 bit), 5Lv5.2(32 bit and 64 bit)
+REMOTE ADMIN REQUIRED FOR:
+Microsoft Windows 2000 Pro, 2000 Server, 2000 Advanced Server, XP Pro, .Net
+Server
+
+<PAGE>
+
+                                    EXHIBIT B
+
+                    RSA SECURITY INCORPORATED U.S. PRICE LIST
+
+Effective July 2002
+
+         RSA ACE SERVER                        MAINTENANCE
+         Model Number # ACE SERVER             Maintenance Mode # ACESERVER Main
+
+         ORDERING OPTIONS:                     Billing Cycle: [**]
+
+         PLATFORM: (Identify platform) IBM AIX
+                                       Sun Solaris
+                                       HP UNIX
+                                       Windows NT
+                                       Windows 2000
+
+License Type Selection: (Identify license type) Basic License
+                                                Advanced License
+
+Evaluation Licenses (Optional) [**]
+
+Base License
+
+<TABLE>
+<CAPTION>
+User Level     SKU NUMBER     US PRICE LIST     SKU NUMBER   SecurCare     SKU NUMBER     SecurCare Extended
+----------     ----------     -------------     ----------   ---------     ----------     ------------------
+<S>            <C>            <C>               <C>          <C>           <C>            <C>
+[**]              [**]             [**]            [**]      [**]             [**]                [**]
+[**]              [**]             [**]            [**]      [**]             [**]                [**]
+[**]              [**]             [**]            [**]      [**]             [**]                [**]
+[**]              [**]             [**]            [**]      [**]             [**]                [**]
+[**]              [**]             [**]            [**]      [**]             [**]                [**]
+[**]              [**]             [**]            [**]      [**]             [**]                [**]
+</TABLE>
+
+<PAGE>
+
+                    RSA SECURITY INCORPORATED U.S. PRICE LIST
+
+Effective July 2002
+
+         RSA ACE SERVER Continued                             MAINTENANCE
+
+         Advanced License
+
+<TABLE>
+<CAPTION>
+User Level     SKU NUMBER     US PRICE LIST     SKU NUMBER   SecurCare     SKU NUMBER     SecurCare Extended
+----------     ----------     -------------     ----------   ---------     ----------     ------------------
+<S>            <C>            <C>               <C>          <C>           <C>            <C>
+[**]              [**]              [**]          [**]       [**]             [**]               [**]
+[**]              [**]              [**]          [**]       [**]             [**]               [**]
+[**]              [**]              [**]          [**]       [**]             [**]               [**]
+[**]              [**]              [**]          [**]       [**]             [**]               [**]
+[**]              [**]              [**]          [**]       [**]             [**]               [**]
+[**]              [**]              [**]          [**]       [**]             [**]               [**]
+</TABLE>
+
+<PAGE>
+
+                   RSA SECURITY INCORPORATED EXPORT PRICE LIST
+
+Effective July 2002
+
+         RSA ACE SERVER                        MAINTENANCE
+         Model Number # ACE SERVER             Maintenance Mode # ACESERVER Main
+
+         ORDERING OPTIONS:                     Billing Cycle: [**]
+
+PLATFORM: (Identify platform) IBM AIX
+                              Sun Solaris
+                              HP UNIX
+                              Windows NT
+                              Windows 2000
+
+License Type Selection: (Identify license type) Basic License
+                                                Advanced License
+
+Evaluation Licenses (Optional) [**]
+
+Base License
+
+<TABLE>
+<CAPTION>
+User Level     SKU NUMBER     US PRICE LIST     SKU NUMBER   SecurCare     SKU NUMBER     SecurCare Extended
+----------     ----------     -------------     ----------   ---------     ----------     ------------------
+<S>            <C>            <C>               <C>          <C>           <C>            <C>
+[**]              [**]              [**]          [**]       [**]             [**]               [**]
+[**]              [**]              [**]          [**]       [**]             [**]               [**]
+[**]              [**]              [**]          [**]       [**]             [**]               [**]
+[**]              [**]              [**]          [**]       [**]             [**]               [**]
+[**]              [**]              [**]          [**]       [**]             [**]               [**]
+[**]              [**]              [**]          [**]       [**]             [**]               [**]
+</TABLE>
+
+<PAGE>
+
+                   RSA SECURITY INCORPORATED EXPORT PRICE LIST
+
+Effective July 2002
+
+RSA ACE SERVER Continued                       MAINTENANCE
+
+Advanced License
+
+<TABLE>
+<CAPTION>
+User Level     SKU NUMBER     US PRICE LIST     SKU NUMBER   SecurCare     SKU NUMBER     SecurCare Extended
+----------     ----------     -------------     ----------   ---------     ----------     ------------------
+<S>            <C>            <C>               <C>          <C>           <C>            <C>
+[**]              [**]              [**]           [**]      [**]             [**]              [**]
+[**]              [**]              [**]           [**]      [**]             [**]              [**]
+[**]              [**]              [**]           [**]      [**]             [**]              [**]
+[**]              [**]              [**]           [**]      [**]             [**]              [**]
+[**]              [**]              [**]           [**]      [**]             [**]              [**]
+[**]              [**]              [**]           [**]      [**]             [**]              [**]
+</TABLE>
+
+<PAGE>
+
+                                    EXHIBIT C
+
+RSA LICENSE AGREEMENT
+
+                                LICENSE AGREEMENT
+
+                                *** IMPORTANT ***
+
+PLEASE READ CAREFULLY BEFORE OPENING THE ENCLOSED DISK CASE.
+
+DO NOT OPEN THE DISK CASE UNTIL YOU HAVE READ THIS AGREEMENT. BY OPENING THE
+SEALED DISK CASE, YOU ACKNOWLEDGE THAT YOU HAVE READ ALL OF THE TERMS AND
+CONDITIONS OF THIS AGREEMENT, UNDERSTAND THEM, AND AGREE TO BE BOUND BY THEM.
+
+If YOU do not agree to the terms of this Agreement, promptly return the entire
+Package, including the unopened Disk case and the Documentation, to the place
+YOU obtained them from, for a full refund.
+
+This is a legal agreement ("the Agreement") between the end user ("You") and RSA
+Security Inc. ("RSA"). This Agreement may be superseded by any written agreement
+signed by both You and RSA. This Agreement is part of a package (the "Package")
+that also includes a sealed CD-ROM disk or sealed diskettes (collectively, the
+"Disk") and certain Documentation.
+
+1.       DEFINITIONS:
+
+"DOCUMENTATION" means the manuals, handbooks, and other written materials
+related to the use of the RSA Products, whether in hard copy or soft copy form,
+that are provided by RSA and that customarily accompany the RSA Products.
+
+"LICENSED PRODUCT(S)" means one or more of Your products or product groups,
+identified in a separately prepared "License/Product Schedule", that has/have
+been or will be developed by You and that incorporates in any manner any portion
+of the RSA BSAFE(R) Software. A Licensed Product (i) must represent a
+significant functional and value enhancement to the RSA BSAFE Software, and (ii)
+shall not expose or, directly or indirectly, pass through any APIs.
+
+"RSA BSAFE(R) SOFTWARE" means RSA's proprietary encryption software identified
+on a separately prepared License/Product Schedule and currently known as an RSA
+BSAFE(R) software product, consisting of a series of instructions or statements
+in machine-readable, object code form only, and all modifications made thereto
+by RSA.
+
+"RSA ENTERPRISE SOFTWARE" means RSA's proprietary software identified as either
+an RSA Mobile(R), ACE/Server(R), SecurID(R), ClearTrust(R) or Keon(R) software
+product, including firmware incorporated in RSA SecurID Tokens, consisting of a
+series of instructions or statements in machine-readable, object code form only,
+and all modifications made thereto by RSA.
+
+"RSA PRODUCTS" mean the RSA Software, Documentation and RSA SecurID Tokens
+provided under this Agreement.
+
+"RSA SOFTWARE" means collectively the RSA BSAFE Software and/or RSA Enterprise
+Software licensed by RSA hereunder.
+
+"RSA SECURID TOKENS" mean the hardware cards and/or tokens (SD200, SD520, and
+SD600) used by You to authenticate into certain RSA Software.
+
+2.       GRANT OF LICENSE.
+
+(A) GRANT OF LICENSE FOR RSA ENTERPRISE SOFTWARE. RSA hereby grants, and You
+hereby accept, a perpetual (unless terminated as set forth in Section 6),
+non-exclusive, non-transferable license to use the RSA Enterprise Software, in
+accordance with the instructions contained in the Documentation, limited to the
+number of users, servers and/or functionality options specified in Your written
+order for such RSA Enterprise Software and, where applicable, the corresponding
+RSA or RSA-authorized sales quotation. With specific regard to the instance
+where You are using the RSA Keon Certificate Authority ("KCA") software as
+bundled with the RSA ClearTrust software, You may use the KCA software solely
+for the purpose of further enabling inter-component security in the RSA
+ClearTrust environment. More specifically, You shall only use the KCA software
+to issue and manage certificates between the server components within the
+ClearTrust
+
+<PAGE>
+
+environment to provide authenticated SSL communications among such components.
+You must purchase a separate license for the KCA software if you wish to use it
+for any other purpose. You may make copies of the RSA Enterprise Software for
+backup, testing, disaster recovery or archival purposes only and may make a
+reasonable number of copies of the Documentation for Your internal use only,
+provided that You also reproduce on such copies any copyright, trademark or
+other proprietary markings and notices contained on the RSA Enterprise Software
+and Documentation and do not remove any such marks from the original.
+
+(B) LIMITATIONS ON LICENSE GRANT FOR RSA ENTERPRISE SOFTWARE. You shall not
+cause or permit (i) access (except to Your employees, agents and consultants
+with a "need to know" who are bound, in writing, by obligations of
+non-disclosure suitable to protect RSA's interests in the RSA Enterprise
+Software but no less restrictive than Your obligations herein), (ii) copying
+(except as set forth in Section 2(A) herein), (iii) sublicensing or other
+dissemination of the RSA Enterprise Software, in whole or in part, to any third
+party without the prior written consent of RSA. You may not use any third-party
+software embedded in or bundled with the RSA Enterprise Software as a standalone
+program or in any way independently from the RSA Enterprise Software provided by
+RSA to You. To the extent that the RSA Enterprise Software contains or is
+bundled with third party software or other proprietary RSA software, You may use
+such third party software and/or other proprietary RSA software solely for the
+purpose such software is included with the RSA Enterprise Software and only for
+use with the particular RSA Enterprise Software that You have licensed from RSA
+as set forth in the applicable Documentation. You shall not modify, enhance,
+translate, supplement, create derivative works from, reverse engineer, reverse
+compile or otherwise reduce the RSA Enterprise Software to human readable form
+without the prior written consent of RSA.
+
+(C) LICENSE GRANT FOR RSA BSAFE(R) SOFTWARE. During the term and within the
+Field of Use limitation specified in a separately prepared License/Product
+Schedule, RSA hereby grants, and You hereby accept, a non-exclusive,
+non-transferable license to:
+
+    (1)  incorporate the RSA BSAFE Software in object or byte code format into
+         Licensed Product(s) for use by Your employees for internal business
+         purposes only; and
+
+    (2)  copy, use, modify, incorporate, and distribute the Documentation, or
+         portions thereof, to support users of the Licensed Product(s), provided
+         that You also reproduce on such copies any copyright, trademark or
+         other proprietary markings and notices contained on the Documentation
+         and do not remove them from the original.
+
+IN THE EVENT A SEPARATELY PREPARED LICENSE/PRODUCT SCHEDULE IS NOT COMPLETED
+PRIOR TO THE USE OF THE RSA BSAFE SOFTWARE, THE LICENSE GRANT CONTAINED IN THIS
+SECTION 2(C) SHALL BE NULL AND VOID; AND ANY USE OF THE RSA BESAFE SOFTWARE WILL
+BE DEEMED A MATERIAL BREACH OF THIS AGREEMENT.
+
+(D) LIMITATIONS ON LICENSE GRANT FOR RSA BSAFE SOFTWARE. Notwithstanding the
+generality of the foregoing, You may not in any way sell, lease, rent, license,
+sublicense or otherwise distribute the RSA BSAFE Software (whether or not
+incorporated in a Licensed Product) to any third party. You shall not use the
+Licensed Product to operate a service bureau where such revenue-generating
+business is dependent on the use of the Licensed Product. The RSA BSAFE Software
+may only be accessed by the functionality of the Licensed Product in which it is
+included, and a Licensed Product shall not make the RSA BSAFE Software directly
+accessible to users or to products other than the Licensed Product, or otherwise
+expose an API. Nothing in this Agreement grants You any rights, license or
+interest with respect to source code of the RSA BSAFE Software. You shall not
+modify, enhance, supplement, translate, reverse engineer, decompile or
+disassemble the RSA BSAFE Software or any part thereof or otherwise attempt to
+derive source code or create derivative works therefrom without the prior
+written consent of RSA.
+
+(E) RESTRICTION ON USE OF RSA SECURID TOKENS. Your may only use the RSA SecurID
+Tokens to authenticate to RSA Enterprise Software. You shall not use any
+hardware cards, tokens or other devices not provided by RSA to authenticate to
+the RSA Enterprise Software, unless otherwise authorized by RSA in writing.
+
+3.       OWNERSHIP AND COPYRIGHT. RSA or its suppliers own the RSA Software and
+Documentation. All RSA Software and Documentation (including revisions,
+modifications and enhancements thereto) and any other specifications,
+documentation, ideas, know-how, techniques, processes, inventions or other
+intellectual property that may be developed, conceived and/or delivered by RSA
+under this Agreement, including all patents, copyrights and other intellectual
+property rights thereto,
+
+<PAGE>
+
+(collectively "RSA Property") shall be the sole and exclusive property of RSA or
+its suppliers, as applicable, and shall only be used by You as authorized
+herein. Such RSA Property is protected by patent and copyright laws and
+international treaty provisions and RSA intends that You will use such RSA
+Property only in accordance with the terms and conditions of this Agreement.
+
+You shall acquire no rights of any kind in or to any RSA trademark, service
+mark, trade name, logo or product designation under which the RSA Products were
+or are marketed and shall not make any use of the same for any reason except as
+expressly authorized by this Agreement or otherwise authorized in writing by
+RSA. You shall cease to use the markings, or any similar markings, in any manner
+on the expiration or termination of this Agreement.
+
+4.       LIMITED WARRANTY.
+
+(A) RSA Software Warranty. RSA warrants that the RSA Software will operate in
+material conformance to RSA's published specifications for such RSA Software
+during the first 90 days following Your initial receipt of the RSA Software (the
+"Warranty Period"). RSA does not warrant, however, that the RSA Software or any
+portion thereof is error-free. If You discover a non-conformity in the RSA
+Software during the Warranty Period, You shall submit to RSA (or the Reseller
+from which the license was purchased) a written report describing the
+non-conformity in sufficient detail to enable RSA to reproduce such
+non-conformity. Upon confirmation that the reported non-conformity has been
+reproduced and confirmed to be such, RSA will use reasonable efforts to, at its
+option, (i) correct the non-conformity; (ii) provide a work around or software
+patch (collectively "Fixes"); or (iii) replace the Software. If RSA determines
+that none of these alternatives is reasonably available, upon Your request RSA
+shall refund any pre-payments made by You for the affected RSA Software and
+accept its return. All Fixes provided by RSA shall constitute either RSA BSAFE
+or Enterprise Software hereunder, as applicable, and shall be governed by the
+terms hereof. This warranty shall not apply to any non-conformity caused by any
+unauthorized modification to the RSA Software or by Your failure to incorporate
+any Fixes provided or made available by RSA. This warranty applies only to the
+initial delivery of the RSA Software. Fixes are provided with a limited warranty
+of 30 days from receipt of such Fix or for the remainder of the initial Warranty
+Period, whichever is greater.
+
+(B) RSA SecurID Token Warranty. RSA SecurID Tokens are guaranteed for the
+token's purchased life to perform in material conformance to RSA's published
+specifications for such tokens.
+
+(C) Limitations of Warranty. The foregoing warranties shall not apply if (i)
+repair or replacement is required as a result of causes other than normal use,
+including, without limitation, repair, maintenance or modification of the RSA
+Products by persons other than RSA-authorized personnel; Your accident, fault or
+negligence; operator error; use of the RSA Products other than as set forth in
+the Documentation; or causes external to the RSA Products such as, but not
+limited to, failure of electrical power or fire or water damage; or (ii) the RSA
+Products are used with software or equipment other than that for which they were
+designed as set forth in the Documentation.
+
+(D) WARRANTY DISCLAIMER. THE FOREGOING EXPRESS WARRANTIES ARE IN LIEU OF ALL
+LIABILITIES OR OBLIGATIONS ON THE PART OF RSA. OTHER THAN THE EXPRESS WARRANTIES
+MADE BY RSA AS SET FORTH IN THIS SECTION 4, RSA AND ITS SUPPLIERS DISCLAIM ALL
+WARRANTIES AS TO ANY MATTER WHATSOEVER, EITHER EXPRESS OR IMPLIED, (INCLUDING,
+WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A
+PARTICULAR PURPOSE). YOUR SOLE REMEDY FOR BREACH OF SUCH EXPRESS LIMITED
+WARRANTIES SHALL BE A CORRECTION, FIX OR REFUND AS SET FORTH IN THIS SECTION 4.
+
+This warranty gives You specific legal rights. As some jurisdictions do not
+allow the exclusion of implied conditions or warranties, statutory or otherwise,
+the above exclusion may not apply to you and, as such, You may also have other
+rights that vary from jurisdiction to jurisdiction.
+
+Any and all related warranty issues and subsequent support issues shall be
+directed to the party that You purchased this license from, unless, in the case
+of support matters, You have entered into a separate support service contract
+directly with RSA.
+
+YOU UNDERSTAND THAT, IF YOU PURCHASED THis PACKAGE FROM AN AUTHORIZED RESELLER
+OF RSA, SUCH RESELLER IS NOT RSA'S AGENT AND IS NOT AUTHORIZED TO MAKE ANY
+REPRESENTATIONS, CONDITIONS OR WARRANTIES, STATUTORY OR OTHERWISE, ON RSA'S
+BEHALF NOR TO VARY ANY OF THE TERMS OR CONDITIONS OF THIS AGREEMENT. IN
+ADDITION, YOU ACKNOWLEDGE THAT, UNLESS OTHERWISE AGREED BY SUCH RESELLER IN
+WRITING OR IF PROHIBITED BY LAW, THE LIMITATIONS OF CONDITIONS AND WARRANTIES,
+STATUTORY OR
+
+<PAGE>
+
+OTHERWISE, AND LIABILITY SET FORTH IN THIS AGREEMENT ALSO APPLY TO AND BENEFIT
+THAT RESELLER.
+
+5.       LIMITATION OF LIABILITY. EXCEPT AS PROVIDED IN THIS SECTION 5, RSA'S
+AND ITS SUPPLIERS' LIABILITY WILL BE LIMITED IN ANY EVENT TO ACTUAL DIRECT
+DAMAGES TO THE EXTENT CAUSED SOLELY BY THE ACTS OR OMISSIONS OF RSA SUBJECT TO A
+MAXIMUM LIABILITY OF THE AMOUNT PAID FOR THE SPECIFIC RSA PRODUCT THAT DIRECTLY
+CAUSED SUCH DAMAGE. IN NO EVENT SHALL RSA OR ITS SUPPLIERS BE LIABLE FOR
+INCIDENTAL, CONSEQUENTIAL, SPECIAL OR INDIRECT DAMAGES, LOST BUSINESS PROFITS,
+OR LOSS, DAMAGE OR DESTRUCTION OF DATA, REGARDLESS OF THE FORM OF ACTION,
+WHETHER IN CONTRACT, TORT (INCLUDING NEGLIGENCE), BREACH OF WARRANTY OR
+OTHERWISE, EVEN IF RSA AND ITS SUPPLIERS HAVE BEEN ADVISED OF THE POSSIBILITY OF
+THE SAME. RSA EXPRESSLY DISCLAIMS ANY AND ALL LIABILITY ASSOCIATED WITH ANY
+THIRD PARTY OPEN SOURCE CODE INCLUDED IN THE RSA PRODUCTS. NO LIMITATION AS TO
+DAMAGES FOR DEATH OR PERSONAL INJURY IS HEREBY INTENDED. No action, whether in
+contract or tort, including negligence, arising out of or in connection with
+this Agreement may be brought by either party more than two years after the
+cause of action has accrued. Some jurisdictions do not allow the exclusion or
+limitation of special, indirect, consequential, exemplary or incidental damages
+or the limitation of liability to specified amounts; as such, You may have other
+rights in this matter that vary from jurisdiction to jurisdiction.
+
+6.       TERMINATION. This Agreement shall terminate the earliest of: (1) 30
+days after written notice from one party to the other of the defaulting party's
+failure to perform according to its obligations hereunder, which failure is not
+cured within 30 days of receipt of notice of such failure to perform; (2)
+immediately upon notice to You of a material breach of the applicable License
+Grant set forth in this Agreement or (3) immediately upon written notice by
+either party hereto if the other party (a) becomes insolvent; (b) files a
+petition, or has a petition filed against it, under any laws relating to
+insolvency, and the related insolvency proceedings are not dismissed within 60
+days after the filing of such petition; (c) enters into any voluntary
+arrangement for the benefit of its creditors; (d) appoints, or has appointed on
+its behalf, a receiver, liquidator, examiner or trustee of any of such party's
+property or assets; or (e) ceases to carry on business in the ordinary course.
+
+Within 10 days after any termination of this Agreement or the License Grant
+contained in this Agreement, You shall return to RSA or RSA's authorized
+reseller (or at RSA'S option, destroy and certify in writing to RSA that You
+have destroyed), the original and all copies, in whole or in part, in any form,
+including partial copies, of the affected RSA Software and Documentation.
+
+7.       GENERAL. This Agreement constitutes the entire understanding between
+RSA and You with respect to the subject matter hereof. Any change to this
+Agreement must be in writing and signed by RSA and You. Terms and conditions as
+set forth in any purchase order which differ from, conflict with, or are not
+included in this Agreement, shall not become part of this Agreement unless
+specifically accepted by RSA in writing. You shall be responsible for and shall
+pay, and shall reimburse RSA on request if RSA is required to pay, any sales,
+use, value added (VAT), consumption or other tax (excluding any tax that is
+based on RSA's net income), assessment, duty, tariff, or other fee or charge of
+any kind or nature that is levied or imposed by any governmental authority on
+the RSA Products. If any provision of this Agreement shall be held to be void or
+unenforceable in whole or in part, such provision, to the extent that it is held
+to be void or unenforceable, shall be deemed not to form part of this Agreement
+and the enforceability, legality and validity of the remainder of this Agreement
+will not be affected.
+
+8.       ASSIGNMENT. The licenses granted under this Agreement are
+non-transferable. Accordingly, You may not assign this Agreement, or any of Your
+rights or obligations hereunder, without the written consent of RSA, which
+consent shall not be unreasonably withheld.
+
+9.       U.S. GOVERNMENT RESTRICTED RIGHTS LEGEND. The RSA Software is a
+"commercial item" as defined in 48 C.F.R. 2.101 (JAN 1998), consisting of
+"commercial computer software" and "commercial computer software documentation"
+as such terms are used in 48 C.F.R. 12.212 (SEPT 1995), and is provided to the
+U.S. Government only as a commercial end item. Government end users acquire the
+rights set out in this Agreement for the Software consistent with: (i) for
+acquisition by or on behalf of civilian agencies, the terms set forth in 48
+C.F.R. 12.212 (SEPT 1995); or (ii) for acquisition by or on behalf of units of
+the Department of Defense, the terms set forth in 48 C.F.R. 227.7202. The
+contractor/manufacturer is RSA SECURITY INC., Bedford, Massachusetts 01730,
+U.S.A.
+
+10.      EXPORT AND IMPORT COMPLIANCE The RSA Software licensed under this
+Agreement, whether or not incorporated into Licensed Products, is subject to (1)
+United States export control laws and
+
+<PAGE>
+
+regulations that may restrict exports, re-exports and disclosures to foreign
+persons of cryptographic items, and (2) certain foreign laws that may restrict
+the export, re-export, import and/or use of such items. Performance of this
+Agreement is expressly made subject to any export laws, regulations, orders or
+other restrictions imposed by the United States of America or any other
+applicable country or governmental entity on the RSA Software, Licensed Products
+or information relating to either of them. Notwithstanding any other provision
+of this Agreement to the contrary, You shall not directly or indirectly import,
+export or re-export any RSA Software, Licensed Products or information
+pertaining thereto to any country or foreign person to which such import, export
+or re-export is restricted or prohibited without first securing, if applicable,
+an appropriate export license or other governmental approval at the time of
+import, export or re-export. You unconditionally accept full responsibility for
+compliance with these requirements.
+
+11.      FORCE MAJEURE. Neither party shall be held responsible for any delay or
+failure in performance of its obligations hereunder to the extent such delay or
+failure is caused by fire, flood, strike, civil, governmental or military
+authority, act of terrorism or war, act of God, or other similar causes beyond
+its reasonable control and without the fault or negligence of the delayed or
+non-performing party.
+
+12.      GOVERNING LAW; ARBITRATION. This Agreement shall be governed by, and
+any arbitration hereunder shall apply, the laws of the Commonwealth of
+Massachusetts, U.S.A., excluding (a) its conflicts of laws principles; (b) the
+United Nations Convention on Contracts for the International Sale of Goods; (c)
+the 1974 Convention on the Limitation Period in the International Sale of Goods;
+and (d) the Protocol amending the 1974 Convention, done at Vienna April 11,
+1980. Any dispute, controversy or claim arising out of or relating to this
+Agreement or to a breach hereof, including its interpretation, performance or
+termination, shall be finally resolved by arbitration. The arbitration shall be
+conducted by three (3) arbitrators, one to be appointed by RSA, one to be
+appointed by You and a third being nominated by the two arbitrators so selected
+or, if they cannot agree on a third arbitrator, by the President of the American
+Arbitration Association ("AAA"). The arbitration shall be conducted in English
+and in accordance with the commercial arbitration rules of the AAA, which shall
+administer the arbitration and act as appointing authority. The arbitration,
+including the rendering of the award, shall take place in Boston, Massachusetts,
+and shall be the exclusive forum for resolving such dispute, controversy or
+claim. The decision of the arbitrators shall be binding upon the parties hereto,
+and the expense of the arbitration (including without limitation the award of
+attorneys' fees to the prevailing party) shall be paid as the arbitrators
+determine. The decision of the arbitrators shall be executory and judgment
+thereon may be entered by any court of competent jurisdiction. Notwithstanding
+anything contained in this Paragraph 12 to the contrary, RSA shall have the
+right to institute judicial proceedings against You or anyone acting by, through
+or under You, in order to enforce RSA's rights hereunder through reformation of
+contract, specific performance, injunction or similar equitable relief.
+
+</TEXT>
+</DOCUMENT>

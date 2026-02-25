@@ -1,0 +1,1044 @@
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>11
+<FILENAME>f10k_02quality.txt
+<DESCRIPTION>EXHIBIT 10.50 QUALITY AGREEMENT LAUREATE PHARMA
+<TEXT>
+                                                                   EXHIBIT 10.50
+
+
+          Confidential Materials omitted and filed separately with the
+        Securities and Exchange Commission. Asterisks denote omissions.
+
+
+                                                           [LAUREATEPHARMA LOGO]
+                                                             [GRAPHIC OMITTED]
+
+
+
+
+
+
+
+
+                                     QUALITY
+                                    AGREEMENT
+
+
+                               Laureate Pharma, LP
+
+                                       And
+
+                               Cytogen Corporation
+
+                 For the manufacture, conjugation and packaging
+
+                                       Of
+
+                                   ProstaScint
+
+
+
+
+
+
+
+
+
+
+                                  Page 1 of 17
+<PAGE>
+
+                           Standard Quality Agreement
+                           --------------------------
+
+
+This Quality Agreement is a required and integral part of the Contract
+Manufacturing Agreement between Cytogen Corporation and Laureate Pharma, LP,
+dated January 15, 2003 ("Agreement"). The parties hereto have each caused this
+Quality Agreement to be executed by their duly authorized representatives on the
+date indicated below. This Agreement will be in effect during the term of the
+Contract Manufacturing Agreement. Renewal of the Quality Agreement will require
+re-approval of this document.
+
+
+
+
+
+   Cytogen Approval                                 Laureate Pharma, LP Approval
+   ----------------                                 ----------------------------
+
+
+
+By: /s/ William F. Goeckeler                      By: /s/ Robert J. Broeze
+    --------------------------------                  --------------------------
+             (Signature)                                   (Signature)
+
+
+
+By:  William F. Goeckeler, Ph.D.                  By: Robert J. Broeze, Ph.D.
+    --------------------------------                  --------------------------
+               (Print)                                           (Print)
+
+
+
+Title:  Vice President Research and Development   Title: President
+        ---------------------------------------          -----------------------
+                      (Print)                                    (Print)
+
+
+
+Date:  January 15, 2003                           Date:  January 15, 2003
+      ------------------------------                    ------------------------
+
+
+                                  Page 2 of 17
+<PAGE>
+
+
+Matrix of Responsibilities Index
+
+<TABLE>
+<CAPTION>
+
+                                                                             Responsibility
+
+--------- --------------------------------------------- ---------------- --------------- --------------- ---------
+  No.     Subject                                         Applicable        Cytogen         Laureate       Page
+--------- --------------------------------------------- ---------------- --------------- --------------- ---------
+
+<S>       <C>                                           <C>              <C>             <C>                <C>
+--------- --------------------------------------------- ---------------- --------------- --------------- ---------
+   1      Annual Product Reviews                        X                X                                  7
+--------- --------------------------------------------- ---------------- --------------- --------------- ---------
+
+   2      Annual Reports                                X                X                                  7
+--------- --------------------------------------------- ---------------- --------------- --------------- ---------
+
+   3      Drug Master Files                             NA                                                  7
+--------- --------------------------------------------- ---------------- --------------- --------------- ---------
+
+   4      New Submissions                               X                X                                  7
+--------- --------------------------------------------- ---------------- --------------- --------------- ---------
+
+   5      Deficiency Letters                            X                X                                  8
+--------- --------------------------------------------- ---------------- --------------- --------------- ---------
+
+   6      Audits and Re-inspections                     X                X                                  8
+--------- --------------------------------------------- ---------------- --------------- --------------- ---------
+
+   7      Regulatory Authority Inspections              X                X               X                  9
+--------- --------------------------------------------- ---------------- --------------- --------------- ---------
+
+   8      Certificates of Analysis                      X                X               X                  9
+--------- --------------------------------------------- ---------------- --------------- --------------- ---------
+
+   9      Product Dating                                X                X                                  10
+--------- --------------------------------------------- ---------------- --------------- --------------- ---------
+
+   10     Stability Testing                             X                X                                  10
+--------- --------------------------------------------- ---------------- --------------- --------------- ---------
+
+   11     Reserve Samples                               X                X               X                  10
+--------- --------------------------------------------- ---------------- --------------- --------------- ---------
+
+   12     Change Control                                X                X*              X                  11
+--------- --------------------------------------------- ---------------- --------------- --------------- ---------
+
+   13     Equipment, Calibration and Preventative       X                                X                  11
+          Maintenance
+--------- --------------------------------------------- ---------------- --------------- --------------- ---------
+
+   14     Process Validation and Qualification          X                X               X                  12
+--------- --------------------------------------------- ---------------- --------------- --------------- ---------
+
+   15     Computer Systems and Software                 NA                                                  13
+--------- --------------------------------------------- ---------------- --------------- --------------- ---------
+
+   17     Components and Packaging Commodity Vendors    X                X                                  13
+--------- --------------------------------------------- ---------------- --------------- --------------- ---------
+
+   18     Labeling                                      X                X               X                  13
+--------- --------------------------------------------- ---------------- --------------- --------------- ---------
+
+   19     Manufacturing Process                         X                X               X                  14
+--------- --------------------------------------------- ---------------- --------------- --------------- ---------
+
+   20     Batch Size                                    X                X                                  14
+--------- --------------------------------------------- ---------------- --------------- --------------- ---------
+
+   21     Deviations, Incidents and Investigations      X                X               X                  14
+--------- --------------------------------------------- ---------------- --------------- --------------- ---------
+
+   23     Batch Records                                 X                X                                  15
+--------- --------------------------------------------- ---------------- --------------- --------------- ---------
+
+   24     Product Testing and Lot Release               X                X               X                  15
+--------- --------------------------------------------- ---------------- --------------- --------------- ---------
+
+   25     Contract Laboratories                         X                X               X                  15
+--------- --------------------------------------------- ---------------- --------------- --------------- ---------
+
+   26     Product Storage and Transportation            X                X               X                  16
+--------- --------------------------------------------- ---------------- --------------- --------------- ---------
+
+   27     Record Retention                              X                X               X                  16
+--------- --------------------------------------------- ---------------- --------------- --------------- ---------
+
+   28     Product Complaints                            X                X                                  16
+--------- --------------------------------------------- ---------------- --------------- --------------- ---------
+
+   29     Returned Goods                                X                X                                  17
+--------- --------------------------------------------- ---------------- --------------- --------------- ---------
+
+   30     Field Alerts and Recalls                      X                X                                  17
+--------- --------------------------------------------- ---------------- --------------- --------------- ---------
+</TABLE>
+
+X = applicable
+* Only as applicable to Cytogen product N/A = not applicable A.
+
+                                  Page 3 of 17
+<PAGE>
+
+
+Quality Agreement
+
+A.1      Provisions
+
+         This agreement outlines the responsibilities of Cytogen Corporation
+         (Cytogen) and Laureate Pharma L.P. (Laureate) with respect to the
+         quality assurance of Product referenced in the Agreement. Laureate
+         agrees to manufacture Cytogen's Product to cGMPs. Laureate agrees not
+         to subcontract any of the manufacturing, packaging, labeling, testing,
+         release and/or handling of Cytogen's Product unless prior written
+         authorization is obtained from Cytogen. If subcontracting is necessary,
+         the vendor must be qualified to perform the required work. Cytogen must
+         approve all subcontractors.
+
+         The `Matrix of Responsibilities' listed on page 3 of this document
+         delineates the primary party responsible for the various aspects of the
+         Quality Agreement.
+
+         The Quality Agreement is effective upon final signature approvals, will
+         be updated as needed and will terminate on the expiration date of the
+         last batch produced for commercial distribution. In the event that the
+         Supply Agreement with Cytogen is terminated for any reason, the Quality
+         Agreement shall also immediately terminate. In addition all stability
+         samples, studies, storage and holding of bulk, finished or in process
+         intermediates, if applicable, will be immediately returned to Cytogen.
+
+
+A.2      Approvals
+
+         The Quality Agreement will be approved by the Heads (i.e., Vice
+         President or Director) of Quality Assurance for Cytogen and Laureate
+         and the duly authorized Officers of each company.
+
+A.3      Procedures for Revision
+
+         If revisions to this Quality Agreement are required, Laureate Quality
+         Assurance Department will circulate the revised document to Heads of
+         Quality Assurance at Cytogen and Laureate for approval. If Cytogen
+         identifies a necessary change, a written description of the change will
+         be provided to Laureate QA for processing.
+
+A.4      Abbreviations
+
+         Certificate of Analysis:  COA
+         current Good Manufacturing Practices:  cGMP's
+         Standard Operating Procedures:  SOPs
+
+
+
+                                  Page 4 of 17
+
+<PAGE>
+
+
+A.5      Definitions of Terms
+
+         All defined terms unless otherwise set forth below, have the meaning
+         set forth in the Agreement.
+
+         Product
+         -------
+         The term "Product" hereby refers to the manufacturing, conjugation and
+         filling of ProstaScint; CYT-351, CYT-356 and Sodium Acetate solution
+
+         Contractor, Sub-Contractor
+         --------------------------
+         Any manufacturer, packager, analytical laboratory or other Product
+         support service provider who performs processing, testing and/or
+         packaging of a Product or any intermediate step of manufacture, or
+         other Product support service, is a contractor, sub-contractor.
+
+         Batch Record
+         ------------
+         The batch record consists of the master manufacturing formula,
+         appropriate bills of material, equipment, components, packaging and
+         shipping instructions, and exception documentation, such as,
+         deviations, incidents and investigation reports, and additional
+         documentation which may have been generated as part of the production
+         record of the batch. The Master Batch Record will remain the property
+         of Cytogen and will be issues to Laureate when requested. The Cytogen
+         lot-numbering system will be used to identify the lot of Product,
+         following Cytogen's SOP.
+
+         Deviation Report
+         ----------------
+         This document is used to obtain approvals to temporarily modify or to
+         document excursions from operating, manufacturing, testing
+         instructions, target/informational test results, or procedures. The
+         deviation does not permanently change existing instructions/SOP's or
+         procedures; it is intended to be a specific or one time use document
+         for a specific lot of Product.
+
+         Formal Investigation
+         --------------------
+         Formal Investigations: Written reports detailing the specifics of an
+         investigation resulting from an exceptional event. The investigation
+         includes a description of the incident, investigation, conclusions and
+         corrective action or action plan, if applicable. Laureate Pharma will
+         provide notification to Cytogen prior to commencing an investigation.
+         The final report will be approved by Laureate's and Cytogen's Quality
+         Departments.
+
+         Lot Number
+         ----------
+         A Lot Number is used to identify a specific lot or batch of
+         manufactured material. Note:  This definition may be elaborated upon
+         to include Part Number or other additional supporting information.
+
+         Material
+         --------
+         All raw materials, components, printed or unprinted commodities that
+         are used during the manufacturing or finishing process for Product.
+
+         Re-inspection
+         -------------
+         A visual or mechanical evaluation performed to remove or correct
+         defective units for which the process is not expected to have an
+         adverse effect on Product quality. Re-inspection should involve the use
+         of a deviation, or investigation, except where standard procedure
+         allows for such routine activity in the course of normal processing.
+
+
+                                  Page 5 of 17
+<PAGE>
+
+         Proprietary Information
+         -----------------------
+
+         Information owned by Cytogen or Laureate as defined in the Contract
+         Manufacturing Agreement.
+
+A.6      Documents
+
+         Product Requirements
+         --------------------
+         Manufacturing and Product testing requirements utilized to release
+         Product to Cytogen These requirements have been approved in the Cytogen
+         BLA and will be adhered to in the manufacture, conjugation and filling
+         of the Product. Cytogen will provide the current, approved versions of
+         the test methods, SOPs, and specifications to Laureate prior to the
+         commencement of manufacturing or testing.
+
+         Product Specifications
+         ----------------------
+         The chemical, physical, microbiological and biological test methods and
+         specifications required for the release of Product by Cytogen. These
+         specifications have been approved in Cytogen's BLA and will be provided
+         to Laureate by Cytogen prior to the commencement of manufacturing or
+         testing.
+
+         Commodity Specifications
+         ------------------------
+         A composite of the specifications and testing instructions for raw
+         materials. It describes the chemical, physical, microbiological and
+         biological requirements of the raw materials. It also contains testing
+         instructions that are used to test the raw materials.
+
+         Summary of Specifications
+         -------------------------
+         A summary of specifications pertinent to the manufacturing, packaging,
+         labeling, testing and release of Product. Only Cytogen approved
+         specifications will be used.
+
+         Standard Test Method
+         --------------------
+         Describes uniform chemical testing procedures and equipment within
+         Laureate's laboratories. Only Cytogen approved methods will be used.
+
+         Printed Material Authorization to Label Documents
+         -------------------------------------------------
+         A summary of approved controlled labeling and stencil copy along with
+         implementation instructions for the manufacturing plant including an
+         Authorization to Label document signed by Cytogen prior to the
+         initiation of labeling activities. Only Cytogen approved labeling will
+         be used.
+
+
+
+                                  Page 6 of 17
+<PAGE>
+
+
+B.       Key Contacts
+
+<TABLE>
+<CAPTION>
+
+              Cytogen*                                    Laureate
+              --------                                    --------
+              Quality Assurance                           Quality Assurance
+              -----------------                           -----------------
+
+<S>           <C>                                         <C>
+Name          John L. Tedesco  78                           Mary Joan Hampson-Carlin
+
+Title         Director, Quality and Operations            Executive Director, Quality Systems
+
+Phone         609- 750- 8271                              609 919 3375
+
+Fax           609- 452- 2363                              609 452 7653
+
+E-mail        jtedesco@cyctogen.com                       Mary.Hampson-carlin@laureatepharma.com
+
+
+              Product Complaints                          Product Complaints
+              ------------------                          ------------------
+
+Name          Maria P. Cimarusti                          Michiel Ultee, Ph. D.
+
+Title         Manager, Regulatory Affairs and Quality     Sr. Director, Manufacturing
+              Assurance
+
+Phone         609- 750-8288                               609 919 3390
+
+Fax           609- 452- 2363
+
+E-mail        mcimarusti@cytogen.com                      Michiel.ultee@laureatepharma.com
+
+
+              Commercial Manager, Labeling                Commercial Manager, Labeling
+              ----------------------------                ----------------------------
+
+Name          Maria P. Cimarusti                          Keith Smith
+
+Title         Manager, Regulatory Affairs and Quality     Manager, Manufacturing
+              Assurance
+
+Phone         609- 750-8288                                  609 919 3405
+
+Fax           609- 452- 2363                                 609 452 7653
+
+E-mail        mcimarusti@cytogen.com                         Keith.smith@laureatepharma.com
+</TABLE>
+
+ *Either Cytogen contact may be used
+
+
+1.       Annual Product Reviews
+
+         Cytogen will handle annual Product Reviews. Laureate Pharma, when
+         requested, in writing will provide necessary information.
+
+2.       Annual Reports
+
+         Cytogen will handle Annual Reports. Laureate Pharma when requested in
+         writing will provide necessary information.
+
+3.       Drug Master Files
+         Laureate Pharma does not have a Drug Master File for its facility
+
+4.       New Submissions
+         Cytogen and Laureate will handle any new submissions under a separate
+         document.
+
+                                  Page 7 of 17
+<PAGE>
+
+5.       Deficiency Letters
+
+         Cytogen shall notify Laureate within 2 working days of receipt of any
+         deficiency letter that contains observations pertaining to Laureate
+         Pharma's manufacturing operations as they relate to Product, or in the
+         case of an investigation, within 2 working days of a determinant cause
+         involving Laureate's facility or operations. Cytogen shall provide a
+         copy of the deficiency letter to Laureate, redacted to exclude any
+         information proprietary to Cytogen. Cytogen shall submit a written
+         response to each minor observation to Laureate within 10 working days
+         of notification. Timing of responses to major observations will be
+         negotiated between Laureate and Cytogen on a case-by-case basis.
+         Laureate is only obligated to provide regulatory support in regard to
+         the systems and facilities at the Laureate site specifically used for
+         the manufacture of the Cytogen Product.
+
+6.       Audits and Re-Inspections
+
+         Cytogen may audit Laureate's facilities and systems one time each year,
+         such time being scheduled at least 2 weeks in advance and agreed upon
+         by both parties and such audit not to exceed 3 days in length, as they
+         relate to the manufacture of Product, with the exception of information
+         and operations regarded by Laureate Pharma as Proprietary Information.
+         Proprietary Information may include, but is not limited to, information
+         pertaining to proprietary products and/or processes developed and/or
+         owned by Laureate Pharma, and products and/or processes developed
+         and/or owned by other third party companies (client companies of
+         Laureate). Cytogen's Quality and Regulatory personnel may schedule a
+         visit and/or request Product specific documents (as defined by the
+         appropriate specification) for review to assure continued adherence to
+         the agreed upon manufacturing process, cGMPs and other applicable
+         requirements. Written communication will be used to document audit
+         observations and to resolve specific issues. Access to Laureate's
+         facilities for Product specific audits will be granted subject to
+         facility availability - for example, Regulatory Authority inspections
+         take the highest priority, and therefore the facility may not be
+         accessible at a given time for an audit by Cytogen
+
+         To assure adequate time and resources are provided for an audit, an
+         audit plan and audit duration must be agreed upon by the Quality
+         Assurance representatives of Laureate Pharma and Cytogen prior to
+         initiation of the audit. Where there is a periodic
+         re-certification/approval process, the requirements of the program must
+         be outlined herein. Cytogen will retain possession of all batch record
+         and ancillary documentation for each Product or subpart thereof. Audits
+         will therefore be limited to the Laureate Pharma facilities and process
+         systems only as they affect the Product.
+
+         Manufacturer Confidentiality
+         ----------------------------
+         Laureate Pharma will maintain manufacturer confidentiality in all
+         audits, visits or reviews. All documentation reviewed remains the
+         property of Cytogen and is not for communication outside Cytogen and
+         Laureate unless otherwise agreed to in writing or required by law or
+         regulation. When utilizing a third-party consultant for periodic
+         audits, all confidentiality agreements must cover Laureate. Specific
+         confidentiality provisions are set forth in the Supply Agreement.
+
+
+         Resolution of Findings
+         ----------------------
+         Cytogen will issue Laureate a confidential audit report summarizing any
+         and all audit observations. Laureate will issue responses to all
+         observations in writing to Cytogen Quality Assurance within 30 calendar
+         days of receipt, unless an alternate agreement is reached. Cytogen will
+
+
+                                  Page 8 of 17
+<PAGE>
+
+         be responsible for audit findings associated with the documentation
+         they retain. Laureate will be responsible for the facilities, personnel
+         and systems. Responses that are deemed not acceptable or incomplete or
+         inadequate, and impact either Laureate or Cytogen quality systems will
+         be reviewed with the respective Quality Assurance management and
+         commercial business representatives from both companies for resolution.
+
+7.       Regulatory Authority Inspections
+
+         Cytogen shall inform Laureate of any communication or action (e.g.,
+         telephone call, record or sample request, pre-approval inspection,
+         recall, etc.) initiated by a pharmaceutical Regulatory Authority (US or
+         international) as it pertains to the manufacturing of Cytogen's Product
+         at Laureate's facility within 1 working day of the occurrence.
+
+         Cytogen shall provide a copy of the Regulatory Authority inspection
+         report, deficiency letter, or regulatory compliance observations
+         redacted to exclude any Proprietary Information to Cytogen within 5
+         days of receipt. Laureate will be allowed to review and comment on
+         Product deficiency letter responses prior to Cytogen submission to the
+         Regulatory Authority.
+
+8.       Certificates of Analysis
+
+         A Certificate of Analysis (COA) will be generated for each batch of
+         Product manufactured for Cytogen. The COA will certify that Product was
+         manufactured in a cGMP compliant facility and was tested in accordance
+         with the batch record and associated specifications. COA's for Product
+         will contain the following information:
+
+         -   Part number
+         -   Lot number (as provided by Cytogen)
+         -   Name of Product
+         -   Name(s) of the test (s)
+         -   Specification limit (s)
+         -   Test result (s) as a numerical value unless designated Pass/Fail in
+             the specification limit (s)
+         -   Signature indicting review by Laureate Quality Assurance and date
+         -   Date of manufacture
+         -   Expiration Date (as provided by Cytogen)
+
+
+
+9.       Product Dating
+
+         Laureate is responsible for labeling the primary package for Product
+         with dating information. Cytogen agrees that the following Product
+         dating information (to be completed as available) will appear on the
+         primary package:
+
+
+                                  Page 9 of 17
+<PAGE>
+
+         Country #1:  United States
+         -   Product Name:
+         -   Expiration Date: (date format)
+                              -------------
+         -   Manufacturing Date:  (date format)
+                                  -------------
+         -   Lot Number:  (number format)
+                          ---------------
+         -   Storage Conditions
+
+         Cytogen is responsible for labeling the final product vials with
+         approved labels for the market. Such labels will include expiry-dating
+         information as determined by Cytogen.
+
+         Cytogen is responsible for obtaining approval to extend the expiration
+         dating of Product. If extension of the expiration dating is approved,
+         Cytogen will provide Laureate with a copy of the approval letter from
+         the respective Regulatory Authority. Laureate will then update Product
+         dating documents appropriately.
+
+
+10.      Stability Testing
+
+         Cytogen will be responsible for stability testing of raw materials,
+         intermediates and Product. Laureate will assume no responsibility for
+         any missed time points. Laureate will assume no responsibility for the
+         Regulatory Actions that may occur as a result of missed or failing
+         stability points.
+
+         In the event that Cytogen, through an amendment to the Contract
+         Manufacturing Supply Agreement or a separate agreement, contracts with
+         Laureate to perform stability testing, this Quality Agreement will be
+         amended accordingly and attached to that agreement and a specific
+         stability protocol will be established and approved by Cytogen and
+         Laureate.
+
+11.      Reserve Samples
+
+         Laureate shall maintain reserve samples of Product, under appropriate
+         environmental conditions, in concurrence with Product labeling if so
+         provided in the Supply Agreement. The number of reserve samples shall
+         be sufficient to perform all release tests twice except for sterility,
+         BET and the identification of objectionable microorganisms. The numbers
+         of reserve samples per batch shall be specified in the manufacturing
+         batch record. Reserve samples will be held for a minimum of one year
+         after Product expiration date provided the terms of the Supply
+         Agreement continue to be honored. Upon completion of the terms of the
+         Agreement, Laureate will aid Cytogen in the transfer of reserve
+         samples.
+
+         Reserve samples of the active and inactive ingredients used in the
+         manufacture of Product will be maintained in quantities similar to that
+         for Product. Active ingredients will be held for a minimum of three
+         years after receipt, or as specified above. Inactive ingredients will
+         be held a minimum of two years after receipt. If any ingredient is
+         retested (to extend expiration past one year) a new reserve sample will
+         be pulled and held with written approval from both companies.
+
+         Solvents, which do not appear in the final formula, compressed gases
+         and water, are not retained.
+
+
+                                 Page 10 of 17
+<PAGE>
+
+         All reserve samples will be inspected visually on an annual basis
+         provided the terms of the Supply Agreement are in effect.
+
+
+12.      Change Control
+
+         Laureate utilizes a documented Change Control procedure for the control
+         of changes to manufacturing components, packaging materials, labeling,
+         and the method of manufacturing, Product Specifications, and commodity
+         vendors. Any changes that affect the Cytogen specific materials must be
+         reviewed and approved by Cytogen and Laureate prior to implementation
+         and use.
+
+         When a change is known to require or has the potential to require a
+         regulatory submission Cytogen will develop a strategy to secure the
+         appropriate regulatory approval(s) in sufficient time for the change to
+         be implemented. The change may be approved and secured in Laureate's
+         documentation system prior to regulatory approval.
+
+         Batch record change control is governed by the guidelines and
+         procedures of Cytogen. Cytogen maintains the Master Batch Record,
+         issues Batch Records and is responsible for any changes to the Master
+         Batch Record. Cytogen will maintain original, executed batch records.
+
+13.      Equipment, Calibration and Preventive Maintenance
+
+         Laureate is responsible for calibration (where applicable), balance
+         verification, and maintenance of equipment utilized in the manufacture,
+         testing and release of Product.
+
+
+         IQ, OQ, PQ
+         ----------
+         Laureate will perform appropriate installation qualification (IQ),
+         operational qualification (OQ), and/or performance qualification (PQ)
+         for the required classes of utilities and services used for the
+         production and control of Product. Periodic re-evaluation and/or
+         re-validation of equipment specific to Cytogen's Product (the [**]
+         purification unit only) are the responsibility of Cytogen and will be
+         conducted in conjunction with Laureate under a separate written
+         Agreement and in accordance with appropriate specifications/procedures.
+         Cytogen will be responsible for protocol and final report approval.
+
+         Documentation of such activities and/or schedule of revalidation shall
+         be the responsibility of Laureate. Documentation shall be reviewed and
+         approved by Cytogen for the [**] purification unit. Copies of Product
+         specific documentation will be made available at the request of
+         Cytogen. All other documentation, if so agreed to be provided, is
+         considered Confidential Information of Laureate and is not to be
+         divulged outside of Cytogen's control without prior written permission
+         by Laureate. Such document might include the annual re-certification of
+         the aseptic area, validation protocols for facilities and systems
+         common to the Product and other products, etc. These documents must not
+         to be used for submission or inspection purposes without the prior
+         written agreement of Laureate.
+
+
+                                 Page 11 of 17
+<PAGE>
+
+         Calibration & Preventative Maintenance - Commitment to Execute Program
+         ----------------------------------------------------------------------
+         Laureate will maintain a calibration, preventative maintenance and user
+         standardization programs to support the manufacture and validation of
+         Product. Manufacturing and laboratory equipment calibration data will
+         be documented and made available upon request by Cytogen or a
+         Regulatory Authority. All equipment will be tagged, as appropriate, so
+         that the operating personnel are aware of the calibration status of all
+         equipment. Product specific documentation will be made available at the
+         request of Cytogen. All other documentation, if agreed to be provided,
+         is considered Confidential Information of Laureate and is not to be
+         divulged outside of Cytogen's control without prior written permission
+         by Laureate. These documents must not to be used for Submission or
+         Inspection purposes without the prior written agreement of Laureate.
+
+         Customer Notification of Significant Equipment Changes
+         ------------------------------------------------------
+         Laureate will notify Cytogen of any significant reportable changes to
+         utilities, systems and equipment (e.g., HEPA filters, WFI systems,
+         autoclaves, etc.), including location of the equipment if different
+         from the location in the regulatory filing used for manufacture of
+         Product that may result in a change to the regulatory application,
+         prior to implementation.
+
+14.      Process Validation and Qualification
+
+                                New Products Only
+         The process, manufacturing and control procedures (including cleaning
+         procedures, hold times, mixing studies, sterilization, etc.) shall be
+         validated and qualified by Laureate utilizing equipment and personnel
+         in the facility intended for manufacture of new products for Cytogen,
+         or changes to Product. This will be accomplished under a separate
+         Agreement.
+
+         For Validation of equipment or procedures requested by Cytogen,
+         Laureate will draft a Validation Protocol containing all required
+         activities, acceptance criteria and documentation and will submit the
+         protocol to Cytogen for review and approval. The Validation Protocol
+         will be executed on at least three (3) batches of new product or
+         changes to Product, unless otherwise agreed upon between Cytogen and
+         Laureate. Exceptions encountered during the execution of the Validation
+         Protocol will be documented and communicated within 30 days to Cytogen.
+         Exceptions that cannot be resolved may require the Validation Protocol
+         to be repeated on additional batches until at least three (3)
+         consecutive batches meet all specification requirements. Laureate must
+         document any exceptions encountered during the execution of the
+         Validation Protocol.
+
+         All related validation/qualification documents would be assembled in a
+         validation summary report and provided to Cytogen for review and
+         approval. Laureate would retain the original of the approved protocol
+         and final report.
+
+         Additional test methods may be developed and/or portions of validation
+         testing may be performed by Laureate and included in the Validation
+         Protocol. These commitments shall be detailed in the Validation
+         Protocol.
+
+         All validation work performed by Laureate in support of any new Cytogen
+         Product will be handled in a separate Supply Agreement. Any additional
+         validation work performed by Laureate in support of the current Product
+         will be handled in an amendment to the current supply agreement.
+
+
+                                 Page 12 of 17
+<PAGE>
+
+
+15.      Computer Systems and Software
+
+         Laureate shall use commercially reasonable efforts to validate computer
+         systems and associated software if used in the manufacturing,
+         packaging, storage or controls of Product. Revisions to computer
+         hardware systems and software packages shall be validated and recorded
+         in a revision history summary. All computer and software validation
+         packages, if used in the production of the Product, will be made
+         available upon request to Cytogen or a Regulatory Authority. Laureate
+         has a "Part 11 Compliance Plan" in place and is using its commercially
+         reasonable efforts to complete this program. Cytogen Corporation
+         acknowledges that the [**] purification unit that is used to purify
+         CYT-351 does not currently meet the requirements set forth in 21 CFR,
+         Part 11. Laureate presently does not intend to use the unit for
+         manufacture of any commercial products other than the purification of
+         ProstaScint for Cytogen.
+
+16.      Irradiation Facilities  (not-applicable)
+
+17.      Components and Packaging Commodity Vendors
+
+         Cytogen  Corp must approve components and packaging commodity vendors
+         used by Laureate in the manufacture of Product for Cytogen in
+         accordance with existing governmental regulations and Cytogen policies.
+
+18.      Labeling
+
+         Shipment of Unlabeled Product for Commercial Supply
+         ---------------------------------------------------
+         Laureate will not ship Product without Cytogen's written authorization.
+         Shipment of trays of unlabeled Product vials will be performed
+         according to approved Cytogen procedures. The tray label will contain
+         Product-specific information (e.g., lot number, part number, etc.).
+         Laureate will perform a 100% verification of all containers prior to
+         packaging. Cytogen will perform a 100% verification upon delivery to
+         insure that each container bears the correct label prior to application
+         of the final labeling. Approved Cytogen procedures will be used for the
+         investigation of containers that do not pass 100% verification and for
+         the establishment and review of corrective actions.
+
+         Note:  It is recognized that clinical materials could have different
+         specific labeling requirements.
+
+19.      Manufacturing Process
+
+         Laureate will manufacture Product in accordance with approved Cytogen
+         procedures. Excursions from such procedures will be documented by a
+         Deviation Report following Laureate's procedures and included in the
+
+                                 Page 13 of 17
+<PAGE>
+
+         batch record. Cytogen must approve the exception document prior to
+         final release of Product to the market (See section 21).
+
+         Laureate shall notify Cytogen of environmental action level outages
+         that negatively impact the manufacture of Product. Such outages will be
+         included in an investigation and an exception document within the batch
+         record that will require Cytogen approval prior to Product release.
+
+20.      Batch Size
+
+         Batch size is based on cell culture out put and has been consistent.
+         This topic is addressed in the supply agreement.
+
+21.      Deviations and Investigations
+
+         Laureate will utilize a documented exception reporting procedure (e.g.,
+         SOPs) for the identification and disposition of nonconforming materials
+         and/or processes used in the manufacture of Product. The procedure will
+         include processes for batch specific corrective actions and for
+         long-term preventive actions. The procedure will also include provision
+         and process for assuring the performance of adequate and appropriate
+         failure investigations.
+
+         Cytogen shall approve all deviations or investigations issued for a
+         specific batch or during the manufacture of Product. Product will not
+         be released to Cytogen until all Product related deviations and
+         incidents have been approved and closed. Investigations that are part
+         of the facilities and systems of Laureate will be shared with Cytogen
+         and will be closed prior to the release of a batch of Product. Laureate
+         will approve any facilities related deviations or incidents. Laureate
+         shall also approve all deviations and incidents and supply a copy with
+         each batch record.
+
+
+
+22. Batch Adjustments and Re-inspection
+
+         Approval Requirement
+         --------------------
+         Cytogen and Laureate must have prior agreement on the execution of
+         batch adjustments.
+
+         Batch Adjustments
+         -----------------
+         Batch adjustments (e.g., pH) may be performed to adjust the bulk
+         Product solution within the range of an in-process control point.
+         Manufacturing directions must be established to define the process
+         criteria and adjustment prior to execution. Batch adjustments require a
+         documented deviation, and Product samples should be placed on stability
+         when appropriate.
+
+
+         Re-inspection
+         -------------
+         Re-inspection is performed when Product quality requires
+         re-verification. The re-inspection work shall be approved by both
+         Laureate and Cytogen and performed by Laureate according to established
+         procedures. A documented reason, justification and the results of the
+         re-inspection must be filed in the batch records.
+
+23.      Batch Records
+
+         A summary of all Product testing, lot release data and exception
+         documents (e.g., deviations) will be documented in the batch record.
+         The original batch records will be maintained in accordance with
+
+
+                                 Page 14 of 17
+<PAGE>
+
+         Cytogen retention requirements. Cytogen will retain all original batch
+         documentation.
+
+         Laureate will review and approve all batch records for Product prior to
+         release to Cytogen. Batch records are considered Confidential
+         Information for use by Cytogen and are not to be divulged to a third
+         party without prior written permission.
+
+
+24.      Product Testing and Lot Release
+
+         Final Product testing will be performed per the current version of the
+         Cytogen test methods and specifications in the Cytogen BLA.
+
+         Responsibility for Release of Product
+         -------------------------------------
+         Laureate is responsible for the Quality Assurance and technical review
+         of batch documentation for accuracy and completeness. Release of
+         Product for commercial or clinical use is the responsibility of
+         Cytogen. Laureate will not ship Product to any destination without the
+         prior written authorization of Cytogen.
+
+         In situations where Product is required to support a clinical study,
+         Laureate will implement sufficient controls such that clinical supplies
+         are accounted for and maintained at its facility until Cytogen
+         completes final Product release. Cytogen may distribute no clinical
+         supplies beyond Laureate's immediate facility/control until final
+         Product release.
+
+         Shipping & Receiving
+         --------------------
+         All units of manufactured Product will be accounted for prior to
+         shipping. All shipping quantities will be verified and signed at the
+         time of loading. The documentation of the shipping amounts will be
+         forwarded to Cytogen
+
+         Cytogen will verify received quantities, via a signature receipt and
+         adequate procedures, to ensure control of shipped material. A copy
+         confirming the receiving quantities will be forwarded to Laureate
+         Materials Management. Cytogen assumes responsibility for control of
+         Product once it leaves Laureate Pharma's facility.
+         Laureate assumes responsibility for proper packing and loading and will
+         provide an inspection of the shipment prior to release of the shipment
+         from its dock.
+
+25.      Contract Laboratories
+
+         Laureate maintains a comprehensive listing of approved third party
+         contractors who may be contracted to perform analytical services.
+         Laureate requires all contract laboratories to operate in compliance
+         with cGMP/GLP, compendia requirements and any other applicable
+         regulations. Under no circumstances will a contract laboratory
+         subcontract services to another laboratory without prior written
+         approval from Cytogen
+
+26.      Product Storage and Transportation
+
+         Product will be stored under conditions specified in Product labeling
+         and in a controlled area. If special storage conditions are agreed to
+         as part of the Supply Agreement, Laureate shall use commercially
+         reasonable efforts to maintain such conditions. Laureate shall be
+         responsible for establishment and maintenance of an environmental
+         monitoring program to document such specified storage conditions.
+
+
+                                 Page 15 of 17
+<PAGE>
+
+         In the event of an environmental condition that may impact the Product,
+         Laureate may move the Product to another suitable storage area.
+         Laureate shall notify Cytogen of the situation within one business day
+         of becoming aware of the event. Documentation of the event and
+         subsequent investigation will be performed in conjunction with
+         Cytogen's Quality Assurance Department upon their request.
+
+27.      Record Retention
+
+         Cytogen shall retain records pertaining to the manufacture of Product
+         according to their record retention program. Records retained by
+         Cytogen will include manufacturing batch record data, incoming,
+         in-process and final test data, stability records, customer complaints
+         and, customer, vendor and Regulatory Authority audits. Records of
+         Laureate Pharma's labeling, equipment and use logs, equipment and
+         process validation, software validation, preventative maintenance that
+         support the Cytogen Product must be retained permanently by Laureate
+         and shall not be destroyed.
+
+28.      Product Complaints
+
+         Cytogen will notify Laureate within 5 working days of verification of a
+         determinant cause of any product complaints that implicate Cytogen's
+         processes (e.g., manufacturing, filling, packaging and/or
+         distribution). Laureate Pharma, as requested by Cytogen, will conduct
+         internal investigations to determine the validity of the complaint.
+         Laureate will use commercially reasonable efforts to report the
+         findings of the investigation to Cytogen within 10 working days of
+         notification. Cytogen will be responsible for customer response
+         communications and for following their approved procedures for handling
+         product complaints. Medical Adverse Event Reports will be reported to
+         Laureate if a Product quality record review or analysis of a sample is
+         required, or if the Adverse Event is related to the manufacture of the
+         Product. Medical Adverse Event Reports are the responsibility of
+         Cytogen.
+
+         Any complaint received by Laureate for Product will be forwarded to
+         Cytogen within 2 business days via phone or written communication. This
+         communication will be directed to those specified in Section B
+         "Contacts" of this document.
+
+
+29.      Returned Goods
+
+         Handled through a distributor.
+
+30.      Field Alerts and Recalls
+
+         Cytogen and Laureate must notify each other within 2 working days of
+         confirmation of the event, by telephone or other rapid communication
+         means, when there is information concerning any Product issues that may
+         impact the quality, purity, safety and effectiveness of Product in the
+         field. Examples of such information include any bacterial
+         contamination, stability failure, certain confirmed Product complaints
+         or any significant chemical, physical or other change or deterioration
+         in the distributed Product.
+
+
+                                 Page 16 of 17
+<PAGE>
+
+         In the case where a Field Alert or Recall is deemed necessary, Cytogen
+         will develop the strategy. Cytogen will be responsible for the
+         initiation, implementation and support of the recall.
+
+         In the event that inventory of the subject material remains at the
+         Laureate facility, Laureate is responsible for providing to Cytogen a
+         comprehensive list of the remaining quantities on a monthly basis and
+         for placement of the Product in quarantine if so requested by Cytogen.
+
+
+
+                                 Page 17 of 17
+
+</TEXT>
+</DOCUMENT>

@@ -1,0 +1,574 @@
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>3
+<FILENAME>westbancexhbt1012.txt
+<TEXT>
+                                                                   Exhibit 10.12
+
+
+                           AMENDMENT TO THE AGREEMENT
+                                     BETWEEN
+
+                             Fiserv Solutions, Inc.
+                             d/b/a Fiserv-Des Moines
+                              4400 Westown Parkway
+                                 Regency West 7
+                         West Des Moines, IA 50266-6751
+
+                                       AND
+
+                           West Des Moines State Bank
+                                1601 22nd Street
+                            West Des Moines, IA 50265
+
+
+
+Firserv  and  Client  hereby  agree to this  Amendment  to the  Data  Processing
+Services Agreement, dated March 17, 1997, as follows:
+
+Initial  term of  agreement  is extended 6 years and shall end 12 years from the
+Agreement's  commencement date (August 1, 1997), with the new expiration date of
+initial term equal to August 01, 2009). Renewal terms remain unchanged.
+
+Existing  Exhibit  B-1 - Item  Processing  Services  of the  Agreement  will  be
+replaced by the attached  Exhibit B-1 Item  Processing  Description of Services.
+This exhibit shall become effective 11/01/02.
+
+Exhibit B-3 Item  Processing  Performance  Standards a new document  attached to
+this  amendment  will be  incorporated  into the Agreement and become  effective
+11/01/02.
+
+All other terms and conditions remain the same.
+
+West Des Moines State Bank                  Fiserv Solutions, Inc.
+                                            d/b/a Fiserv-Des Moines
+
+By: /s/ Timothy J. Byrnes                   By: /s/ Craig Marvin
+    -------------------------------             --------------------------------
+
+Name: Timothy J. Byrnes                     Name: Craig Marvin
+      -----------------------------               ------------------------------
+
+Title: Vice President/Cashier               Title:  President
+       ----------------------------                 ----------------------------
+
+Date:  10/24/02                             Date:  10/25/02
+       ----------------------------                -----------------------------
+
+All pricing set forth under this amendment  will expire unless  executed by both
+parties to the agreement by October 31, 2002.
+
+
+
+                                       1
+<PAGE>
+
+Item Processing Description of Services
+
+1.   Proof: On each business day (excluding  Saturdays,  Sundays, and holidays),
+     Client will  deliver to Fiserv  Processing  Center,  checks and other items
+     deposited to accounts with Client.  Client will provide extra deliveries in
+     support of proof operations for peak day processing. Peak day processing is
+     defined  as any day when  Client's  volume is  expected  to  exceed  twenty
+     percent of daily average  volume of the previous  months volume  divided by
+     the number of business days in the previous month.
+
+     a.   Client  will  contract  with  and  pay for a  courier,  to pick up and
+          deliver  all work  between  Client  and  Fiserv.  Both  parties  will
+          mutually  agree upon the times of pick-up  and  delivery.  Fiserv will
+          contact  Client's  after-hours  primary bank contact(s) and apprise of
+          the  situation(s)  where Fiserv has not received the items from Client
+          locations by the agreed upon delivery  times.  Contact with one of the
+          four  primary bank  contacts is to be made prior to Fiserv  exercising
+          its discretion,  to delay,  without liability,  the processing of such
+          items  until  the  next  businesss  day.   Client  agrees  to  provide
+          after-hours primary bank contact(s), as well as contacts for each bank
+          office  location.  Client  agrees to update  Fiserv of any  changes in
+          Client contact personnel.
+
+     b.   Client  agrees to MICR encode  documents  to meet Fiserv  requirements
+          (ABA and Account Numbers and Tran-codes).
+
+     c.   Client is responsible for microfilming all items submitted to Fiserv.
+
+     d.   Client agrees that all transactional entries,  involving tellers' cash
+          tickets,  general ledger entries, or loan entries shall be in balance,
+          and that Fiserv may return to Client,  unprocessed,  any transactional
+          entries that are not in balance.
+
+     e.   Client agrees to segregate all over-the-counter items into batches not
+          to exceed three  inches (3") in depth and to identify  each such batch
+          with an  appropriate  batch  header,  which  batch  header  shall meet
+          written  requirements  provided by Fiserv.  Client  further  agrees to
+          segregate  all  items by type  (i.e.,  single  deposit  items  will be
+          batched separately from multiple deposit items).
+
+     f.   Client  agrees  to  include  a  batch  manifest  for each  bag of work
+          submitted to Fiserv.
+
+     g.   From the items submitted to Fiserv, Fiserv shall retrieve such "on-us"
+          information as may be necessary for the proper accounting of the items
+          and shall transmit this  information,  through  telephone  lines or by
+          such other means as Fiserv may, from time to time, deem appropriate to
+          Client's data processor for data processing.
+
+     h.   Client authorizes  Fiserv to create ledger holdover  entries,  deposit
+          corrections, or such other entries to balance transactions, except for
+          those transactions outlined in Section 1.d. above, as may be necessary
+          to the efficient processing of the items.
+
+     i.   After Fiserv has completed the process of retrieving and  transmitting
+          to  Client's  data  processor  the  information   necessary  for  data
+          processing,  all over-the-counter items not drawn against Client shall
+          be forwarded for collection to such correspondent  banks as Client may
+          designate from time to time in writing to Fiserv.
+
+     j.   All items drawn against  Client and those items  internally  generated
+          shall be  returned  to Client or held by  Fiserv  in  accordance  with
+          Client's written instructions.
+
+                                       2
+<PAGE>
+
+2.   Encoding:  Fiserv  will  encode  the  dollar  amount on all  items  needing
+     encoding and  presented to Fiserv as part of the Proof  function  described
+     above.  Fiserv  may encode  additional  fields,  such as  account  numbers,
+     deposit  ticket  totals,  or other items as specified  by Client.  Any such
+     encoding  will be according to terms agreed to by Fiserv.  In no event will
+     Fiserv be liable for losses to Client due to encoding  errors if Client has
+     not satisfied all of its obligations  set forth in Section 1 above.  Should
+     Fiserv's encoding services fail to meet the performance  standard for proof
+     of deposit set forth in Exhibit B-3, and Client incurs a potential loss due
+     to an  encoding  error,  Client  shall use its best  efforts to collect the
+     amount  in  question  from  its  customer  (including  without  limitation,
+     commencing  legal action  against the customer,  obtaining a judgment,  and
+     attempting collection efforts based on said judgment) prior to submitting a
+     claim  for  damages  to  Fiserv.  Prior to  expending  significant  time or
+     incurring out of pocket  expenses in the collection  process.  Client shall
+     consult  with  and  obtain  the   authorization  of  Fiserv  for  any  such
+     expenditure,  and the  parties  shall give  consideration  to the amount of
+     potential loss and the likelihood of collection.
+
+3.   Exception Item Processing: Fiserv will either reject or pay items listed on
+     the  appropriate  report,  in  accordance  with  written  instructions,  by
+     Client's  authorized  officer or employee.  The name of Client's officer or
+     employee  giving  such  instruction  shall  be noted on the item or on such
+     other  record as Fiserv  may  establish,  together  with the  nature of the
+     instruction.  If Client has not instructed Fiserv regarding the disposition
+     of any  exception  item drawn  against  Client by the agreed upon time each
+     day,  then  Fiserv  shall  return it through the  presentment  chain to the
+     depository  bank or  institution.  Instructions to Fiserv on disposition of
+     items that are received  after the agreed upon  deadline or are changed can
+     result in a late charge.  Should Fiserv's exception item processing fail to
+     meet the  performance  standard for exception item  processing set forth in
+     Exhibit B-3,  and Client  incurs a potential  loss due to an error,  Client
+     shall use its best  efforts to  collect  the  amount in  question  from its
+     customer (including without limitation, commencing legal action against the
+     customer,  obtaining a judgment, and attempting collection efforts based on
+     said judgment) prior to submitting a claim for damages to Fiserv.  Prior to
+     expending  significant  time or  incurring  out of pocket  expenses  in the
+     collection process,  Client shall consult with and obtain the authorization
+     of  Fiserv  for  any  such   expenditure,   and  the  parties   shall  give
+     consideration  to the  amount  of  potential  loss  and the  likelihood  of
+     collection.
+
+4.   Statement Rendition:  All checks,  drafts, and other orders for the payment
+     of money drawn against accounts at Client which are to be stored by Fiserv,
+     will be retained by Fiserv until the end of each Client's  checking account
+     cycle.  The items will be sorted,  filed with the  monthly  statement,  and
+     mailed to the depositor. Client agrees to have statements printed according
+     to predefined cycles and print classes.  Statement enclosure counts will be
+     accurately  and  clearly  reported  in the top  fold of the  statement.  If
+     required,  Client agrees to expedite the return of any paid exception items
+     to Fiserv in order to facilitate timely statement  processing.  Fiserv will
+     apply proper postage, which will be pre- paid monthly (or as agreed upon by
+     Client and Fiserv) on an estimated basis by Client.
+
+5.   Inclearinqs: Client authorizes Fiserv to receive its inclearing items daily
+     from the Federal Reserve Bank.  Fiserv will balance the inclearing items to
+     their cash letters, capture the items on magnetic media, microfilm or image
+     scan and  transmit  the account  information  to Client's  data  processor.
+     Fiserv will also pull out for further  handling the  appropriate  items for
+     exception  handling  or  scrutinizing,  and  deliver the items to bulk file
+     storage or to Client for further processing.
+
+6.   Courier Service:  The parties hereto  acknowledge that it will be necessary
+     to make  arrangements for the transport of items,  records,  and other data
+     from  Client to Fiserv.  After  Fiserv  has  provided  the Item  Processing
+     Services, selected items, records, and data must be transported from Fiserv
+     to  Client.  The  parties  further   acknowledge  that  the  cost  of  such
+     transportation  shall be the  sole  responsibility  of  Client.  Fiserv  is
+     responsible  for the cost to transport items and records from Fiserv to the
+     Federal   Reserve  Bank.  The  Federal  Reserve  Bank  is  responsible  for
+     transporting items to Fiserv.
+
+     a.   a. Client has the right to make provision for its own courier  service
+          to provide the needed  transportation  as set forth in subsection 1.a.
+          above.  Should Client not make provision for such courier service,  or
+          should Client request that Fiserv make  arrangements  for such courier
+          service,   then  Fiserv,  for  the  benefit  of  Client,   shall  make
+          arrangements for such a courier service.  Client must notify Fiserv to
+          provide  such  courier  service no less than thirty (30) days prior to
+          the date that Fiserv is to begin providing Item Processing Services.
+
+                                       3
+<PAGE>
+
+     b.   Client  shall pay Fiserv for any and all charges,  expenses,  or costs
+          incurred by Fiserv in contracting for said courier service.
+
+     c.   It is understood and agreed that Fiserv shall not have, or assume, any
+          liability or  responsibility  for such items,  records,  or data until
+          they  have  reached   Fiserv   premises  and  shall  have  no  further
+          responsibility or liability for them after they leave Fiserv premises.
+
+     d.   The courier  service  shall at all times be deemed the  independent
+          contractor  of  Client,  and  shall  not,  at any  time or  under  any
+          circumstances,  be deemed the agent or employee of Fiserv,  regardless
+          of whether said courier  service,  at any  pertinent  time herein,  is
+          affiliated with or employed by Fiserv.
+
+     e.   Fiserv will monitor and track deliveries for Client. Should a delivery
+          be missing,  Fiserv will notify Client through  appropriate  channels.
+          Should there be any dispute as to the proper  delivery of any records,
+          Fiserv's records of delivery will be accepted as the undisputed record
+          of  delivery.
+
+     f.   In the event  that a  client's  cash  letter is late in arrival to the
+          Federal Reserve Bank due to Fiserv error, Fiserv will reimburse Client
+          for the amount of lost interest credit or revenue.  The  reimbursement
+          will be  calculated  based on rate paid on Fed Funds during the period
+          of time  this  error  occurred.  Fiserv  will not be  responsible  for
+          reimbursements  due to  circumstances  beyond Fiserv's control such as
+          weather  and acts of God or due to work  delivered  to  Fiserv  beyond
+          mutually agreed upon deadline.
+
+7.   Conversion  Services:  Fiserv will provide conversion services based on the
+     information provided by Client during the due diligence process.  Following
+     Client's  initial  conversion to Fiserv Services,  any additional  requests
+     will be  submitted  to  Fiserv  at  least  90 days  prior  to the  required
+     implementation  date. An estimate for the  additional  conversion  services
+     will be  provided.  The  implementation  time  for the  conversion  will be
+     delayed if Client  requires  more than three days to approve or decline the
+     conversion estimate.  Client also acknowledges that Fiserv must approve any
+     changes to the MICR line and/or Account  Number  structure for Client prior
+     to proceeding with a conversion.  Fiserv will make every reasonable attempt
+     to convert new MICR line and/or Account Number structures. Client agrees to
+     eliminate any  non-standard  MICR line and/or Account  number  structure as
+     identified  during the due diligence process from its daily capture service
+     within 120 days after the initial conversion date. Client acknowledges that
+     Fiserv may elect to charge a fee such as the Special  Statements  Fee,  for
+     all non-standard items processed in the service.  Client  acknowledges that
+     Fiserv may not be able to achieve the stated  service  level  agreements on
+     accounts,  transactions,  or  services  involving  non-standard  MICR lines
+     and/or  Account  Number  structures.  In the event that the Account  Number
+     appearing on the  statement  does not equal the Account  Number on the MICR
+     line,  Fiserv  will not be  responsible  for any service  level  agreements
+     relating to statement preparation and rendition.
+
+     Initial Client  conversion is based on the results  obtained during the due
+     diligence  process.  This work would include an  inclearings,  POD and bulk
+     file sort  pattern.  In  addition,  it would  include  a single  extraction
+     program to support the transmission of a daily  inclearings and POD file to
+     a host  site for  processing.  Sort  specifications  will be  developed  in
+     support  of  statement  rendition  services.  Standard  reporting  will  be
+     provided  to  Client  to  include  a daily  transaction  report  sorted  in
+     transaction and account order,  recaps of  transmissions  and cash letters,
+     and a daily cash report if required.
+
+8.   Research Services: Fiserv will provide research and photocopy services upon
+     request by Client.  Upon receipt from Client of a request for subpoena work
+     or other  significant or voluminous  research work,  Fiserv will attempt to
+     provide Client with an estimate of the time required and corresponding cost
+     to complete the request prior to commencing the research services,
+
+9.   Data Transmission:  Client and Fiserv acknowledge and agree that Client has
+     separately   contracted  with  Client's  data  processor  to  provide  data
+     processing services for Client and that Fiserv shall have no responsibility
+     for the  timeliness  or quality of the service  provided  by Client's  data
+     processor.  Clients data  processor  shall  deliver  directly to Client all
+     reports generated from the data transmitted by Fiserv. Fiserv shall have no
+     responsibility  for the  timeliness of such delivery or for the adequacy or
+     accuracy of the reports  supplied by Client's  data  processor,  except for
+     errors caused by Fiserv failure to transmit information.
+
+                                       4
+<PAGE>
+
+Item Processing Performance Standards
+
+1.   Client preparation and presentation of work for Fiserv proof department
+
+     a.   SUBJECT: Presentation and Delivery of Work
+
+     b.   DESCRIPTION:
+
+          o    Credits come before debits
+          o    Customer deposit is the first credit
+          o    Items are encoded with route/transit  number,  account number and
+               proper transaction code
+          o    If multiple amounts,  the correct total amount is circled
+
+     c.   PROCEDURE:  Fiserv  will  notify  Client of  specific  non-performance
+          issues as required.
+
+2.   Client preparation and presentation of work for Fiserv proof department
+
+     a.   SUBJECT: Categories
+
+     b.   DESCRIPTION:
+
+          o    Single items (one-on-ones) batched
+          o    Multiple item transactions batched
+
+     c.   PROCEDURE:  Fiserv will notify Client of specific  non-performance  as
+          required.
+
+3.   Client preparation and presentation of work for Fiserv proof department
+
+     a.   SUBJECT: Batches and Control Tickets
+
+     b.   DESCRIPTION:
+
+          o    All Tickets are teller stamped
+          o    All items are  properly  logged and recorded for filming and then
+               microfilmed
+          o    Bundles  are  limited  to 3" or 250  items,  whichever  limit  is
+               reached first.
+          o    Tape listings accompany multiples
+          o    Single item deposits have headers preceding them.
+
+     c.   PROCEDURE:  Fiserv  will  notify  Client of  specific  non-performance
+          issues as required.
+
+4.   Client preparation and presentation of work for Fiserv proof department
+
+     a.   SUBJECT: Work Shipment
+
+     b.   DESCRIPTION:
+
+          o    All work for proof is in a mutually agreed upon container.
+          o    Correspondent  bank  correspondence  in a  mutually  agreed  upon
+               container.
+          o    Other correspondence in a mutually agreed upon container.
+
+     c.   PROCEDURE:  Fiserv  will  notify  Client of  specific  non-performance
+          issues as required.
+
+5.   Fiserv proof and balancing of work received from Client for processing
+
+     a.   SUBJECT: Proof of Deposit for dollar amount encoding
+
+     b.   DESCRIPTION:
+
+          o    Dollar encoding  errors to meet service goals
+          o    Corrections  made with accepted medium
+          o    Customer Corrections are legible and complete
+          o    Customer Corrections have the correct reason listed
+          o    All  Customer  Corrections  equal to or greater  than  $10.00 are
+               documented with accompanying copies as required.
+          o    Items  are  endorsed   with  the  proper  bank  stamp  in  proper
+               Regulation CC position
+          o    Transaction  Corrections using DDA debits and credits contain the
+               correct information
+          o    Suspense documentation is legible and complete
+          o    Items placed into holdovers by Fiserv will be documented
+          o    Differences of under $10.00 will be charged to a DDA account
+
+                                       5
+<PAGE>
+
+     c.   SERVICE GOAL: 99.997 %
+
+
+     d.   PROCEDURE:
+
+          o    Client will notify Fiserv of specific  non-performance  issues by
+               submitting  a service  incident  report in the form  approved  by
+               Fiserv with accompanying documentation to Client Services.
+
+     e.   MEASUREMENT: Percent of Proof Encoding Volume
+
+6.   Fiserv modification of MICR rejects
+
+     a.   SUBJECT: Reject Re-entry/Reconciling or Balancing
+
+
+     b.   DESCRIPTION:
+
+          o    Modified MICR reject errors to meet service goals
+          o    Transaction  Corrections using G/L debits and credits contain the
+               correct  information
+          o    Suspense  documentation  is  legible  and complete
+          o    Items placed into suspense by Fiserv will be documented
+          o    Differences  of under $10.00 will be charged to a General  Ledger
+               account
+
+     c.   SERVICE GOAL: 99.7%
+
+
+     d.   PROCEDURE:
+
+          o    Client will notify Fiserv of specific  non-performance  issues by
+               submitting  a service  incident  report in the form  approved  by
+               Fiserv with accompanying documentation to Client Services.
+
+     e.   MEASUREMENT: Percent of Volume (Based on total rejects)
+
+7.   Fiserv preparation of outgoing transit items
+
+     a.   SUBJECT: Transit Cash Letter Processing
+
+     b.   DESCRIPTION:
+
+          o    Cash Letters are sent out with correct total(s)
+          o    Cash Letters are sent with complete bundle count(s)
+          o    Cash Letter differences are explained
+          o    Cash Letters for proper bank are used
+          o    Cash Letters for the correct correspondent are used
+          o    Cash Letters sent out in timely manner
+          o    Low speed cash letters will be sent out within 24 hours of stated
+               deadlines
+          o    On-us items will not be sent out in transit cash letters
+
+     c.   SERVICE GOAL: Zero errors per cash letter endpoint per month
+
+          o    Cash Letters Items sent out 100% of the time on time
+
+     d.   PROCEDURE:
+
+          o    Client will notify Fiserv of specific  non-performance  issues by
+               submitting  a service  incident  report in the form  approved  by
+               Fiserv with appropriate documentation to Client Services.
+
+     e.   MEASUREMENT: Record of Occurrence based on cash letter endpoints
+
+                                       6
+<PAGE>
+
+8.   Fiserv capture and transmission of work from proof department.
+
+     a.   SUBJECT: Second Shift Transmissions
+
+     b.   DESCRIPTION:
+
+          o    All transmissions are sent in the approved Fiserv format
+          o    All  transmissions are sent to Fiserv in such time to insure that
+               posting can be completed timely.
+          o    Transmission  deadlines  will not be earlier than 11:00 p.m. Mon.
+               -Thurs. or 12:00 a.m. Friday
+
+
+     c.   SERVICE GOAL:  Transmission errors or delays are not to exceed two per
+          month that are within Fiserv's control.
+
+
+     d.   PROCEDURE:
+
+          o    Client will notify Fiserv of specific  non-performance  issues by
+               submitting  a service  incident  report in the form  approved  by
+               Fiserv with accompanying documentation to Client Services.
+
+     e.   MEASUREMENTS: Record of Occurrences
+
+9.   Fiserv  processing of exception items  (Outgoing  Return Items) when Client
+     has submitted final return decisions by 2:00 p.m. daily
+
+     a.   SUBJECT: Qualified Returned Items
+
+     b.   DESCRIPTION:
+
+          o    The correct items will be returned
+          o    All returned items are stamped with the correct return reason
+          o    The items Client wants  returned are returned on the day they are
+               listed as exceptions
+          o    G/L entries made for all check reversals
+          o    Rejected debit totals balance
+          o    Client will do notification of large items
+          o    Items  are  returned   within   specified   Regulation  CC.  time
+               requirements
+          o    Items are paid using correct account number and trancode
+          o    Proper bank's forms are used
+
+     c.   SERVICE GOAL: 99.94% (6 errors per 10,000 return items)
+
+     d.   PROCEDURE:
+
+          o    Client will notify Fiserv of specific  non-performance  issues by
+               submitting  a service  incident  report in the form  approved  by
+               Fiserv with accompanying documentation to Client Services.
+
+     e.   MEASUREMENT: Percent of Total Qualified Return Items
+
+10.  Fiserv research of items, photocopy production
+
+     a.   SUBJECT: Research
+
+     b.   DESCRIPTION:
+
+          o    The turn-around time for a research request will be 48 hours from
+               the time of receipt (unless Fiserv otherwise  notifies Client, as
+               in  the  case  of  subpoena  research  or  other  significant  or
+               voluminous  research  requests).  Best  effort  will  be  made to
+               provide photocopy requests within 24-hours of request.
+          o    For subpoena research or other significant or voluminous research
+               requests, Fiserv will provide a completion commitment estimate to
+               Client within 48 hours of receipt.
+          o    Best effort will be made to produce quality photocopies
+          o    Trace reports will be delivered to Client within 2 business days
+
+     c.   SERVICE GOAL: 99.0% (1 error per 100 requests)
+
+     d.   PROCEDURE:
+
+          o    Client will notify Fiserv of specific  non-performance  issues by
+               submitting  a service  incident  report in the form  approved  by
+               Fiserv with accompanying documentation to Client Services.
+
+     e.   MEASUREMENT: Percent of Total Research Request and Photocopies Service
+
+                                       7
+<PAGE>
+
+11.  Fiserv preparation of statements and check filing requirements
+
+     a.   SUBJECT: Statement Preparation
+
+     b.   DESCRIPTION:
+
+          o    Client and Fiserv will mutually agree upon  acceptable  standards
+               for  turnaround  time  of end  of  month  and  non-end  of  month
+               statements  as well as hold  and  multiple  statement  processing
+               standards.
+          o    Snag statements will be mailed out within two additional days.
+          o    The correct customer's checks will accompany the statement.
+          o    Hold statements that are properly  labeled will be sent to Client
+               for handling.
+          o    The correct number of statement pages is in the envelope.
+          o    Client will submit statement  stuffers to center with appropriate
+               instructions noted on the Stuffer Instruction Form. Stuffers must
+               arrive two days prior to cycle date to insure proper handling.
+          o    The  correct  statement   stuffer(s)  will  be  included  in  the
+               statement.
+          o    Notice of missing  item(s)  will be included in the  statement if
+               the statement is missing 3 or fewer enclosures.
+          o    Fiserv will  monitor and report  delays for receipt of  statement
+               print to Client within 24 hours of the expected time of receipt.
+
+     c.   SERVICE GOAL: 99.9% (10 errors per 10,000 Statements)
+
+
+     d.   PROCEDURE:
+
+          o    Client will notify Fiserv of specific  non-performance  issues by
+               submitting  a service  incident  report in the form  approved  by
+               Fiserv with accompanying documentation to Client Services.
+
+     e.   MEASUREMENT: Percent of Total Statements Rendered
+
+
+
+                                       8
+
+</TEXT>
+</DOCUMENT>

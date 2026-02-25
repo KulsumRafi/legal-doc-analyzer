@@ -1,0 +1,2158 @@
+<DOCUMENT>
+<TYPE>EX-10.1
+<SEQUENCE>4
+<FILENAME>a87954exv10w1.txt
+<DESCRIPTION>EXHIBIT 10.1
+<TEXT>
+<PAGE>
+
+                                                                    EXHIBIT 10.1
+
+                       LOAN AND SECURITY AGREEMENT
+
+                                       BY
+
+                                   AND BETWEEN
+
+                             COMPUTER MOTION, INC.,
+
+                                       AND
+
+                              AGILITY CAPITAL, LLC
+
+                          DATED AS OF FEBRUARY 13, 2003
+<PAGE>
+                                TABLE OF CONTENTS
+
+<TABLE>
+<CAPTION>
+                                                                                         Page
+                                                                                         ----
+<S>          <C>                                                                         <C>
+SECTION 1.   DEFINITIONS...............................................................   1
+    1.1      DEFINED TERMS.............................................................   1
+    1.2      OTHER DEFINITIONAL PROVISIONS.............................................   7
+
+SECTION 2.   AMOUNT OF LOAN............................................................   8
+    2.1      LOAN......................................................................   8
+    2.2      NOTES.....................................................................   8
+    2.3      MAKING OF LOAN............................................................   8
+    2.4      REPAYMENT OF LOAN.........................................................   8
+    2.5      COLLATERAL................................................................   8
+
+SECTION 3.   GENERAL PROVISIONS APPLICABLE TO LOAN.....................................   9
+    3.1      INTEREST RATE AND PAYMENTS................................................   9
+    3.2      PREPAYMENT................................................................   9
+    3.3      ISSUANCE OF WARRANT.......................................................  10
+
+SECTION 4.   COMPANY REPRESENTATIONS, WARRANTIES AND COVENANTS.........................  10
+    4.1      EXISTENCE.................................................................  10
+    4.2      POWER; AUTHORIZATION; ENFORCEABLE OBLIGATIONS.............................  10
+    4.3      NO LEGAL BAR..............................................................  11
+    4.4      SUBSIDIARIES..............................................................  11
+    4.5      CAPITALIZATION............................................................  11
+    4.6      MATERIAL ADVERSE FACTS....................................................  11
+    4.7      PURPOSE OF LOAN...........................................................  12
+    4.8      LIABILITIES...............................................................  12
+    4.9      TITLE TO PROPERTY AND ASSETS..............................................  12
+    4.10     INTELLECTUAL PROPERTY.....................................................  12
+    4.11     ERISA.....................................................................  12
+    4.12     BROKERS...................................................................  13
+    4.13     USE OF CREDIT.............................................................  13
+    4.14     INDEBTEDNESS..............................................................  13
+    4.15     LITIGATION................................................................  13
+    4.16     FINANCIAL CONDITION; UNKNOWN LIABILITIES..................................  13
+    4.17     TAXES.....................................................................  14
+    4.18     CERTAIN REGULATIONS.......................................................  14
+    4.19     ENVIRONMENTAL MATTERS.....................................................  14
+    4.20     ACCOUNTS RECEIVABLE.......................................................  14
+    4.21     SEC DOCUMENTS; FINANCIAL STATEMENTS AND NO MATERIAL CHANGES...............  14
+    4.22     OWNERSHIP OF CMI.HERMES, INC..............................................  15
+    4.23     DISCLOSURE................................................................  15
+</TABLE>
+
+                                        i
+<PAGE>
+<TABLE>
+<S>          <C>                                                                         <C>
+SECTION 5.   CONDITIONS OF LENDING.....................................................  16
+    5.1      LOAN DOCUMENTS............................................................  16
+    5.2      PROCEEDINGS...............................................................  16
+    5.3      INCUMBENCY CERTIFICATES...................................................  16
+    5.4      ORGANIZATION DOCUMENTS....................................................  16
+    5.5      REPRESENTATIONS AND WARRANTIES; NO DEFAULT................................  16
+    5.6      SECURITY INTEREST.........................................................  17
+    5.7      INTELLECTUAL PROPERTY SECURITY INTEREST...................................  17
+    5.8      DUE DILIGENCE.............................................................  17
+    5.9      LOCK BOX AGREEMENT........................................................  17
+    5.10     DEPOSIT ACCOUNT CONTROL AGREEMENTS........................................  17
+    5.11     ISSUANCE OF WARRANT.......................................................  17
+
+SECTION 6.   AFFIRMATIVE COVENANTS.....................................................  17
+    6.1      PAYMENT OF OBLIGATIONS....................................................  17
+    6.2      MAINTENANCE OF ACCOUNTS RECEIVABLE........................................  18
+    6.3      CONDUCT OF BUSINESS; MAINTENANCE OF EXISTENCE; AND COMPLIANCE WITH LAWS...  18
+    6.4      MAINTENANCE OF INSURANCE..................................................  18
+    6.5      TAXES.....................................................................  18
+    6.6      MAINTENANCE OF PROPERTIES.................................................  18
+    6.7      INFORMATION RIGHTS........................................................  18
+    6.8      BOARD OBSERVATION RIGHTS..................................................  19
+    6.9      EVENT OF PREPAYMENT.......................................................  19
+    6.10     LOCK BOX INSTRUCTIONS.....................................................  19
+
+SECTION 7.   NEGATIVE COVENANTS........................................................  20
+    7.1      LIMITATION ON INDEBTEDNESS................................................  20
+    7.2      LIMITATION ON LIENS.......................................................  21
+    7.3      LIMITATIONS ON TRANSACTIONS WITH AFFILIATES...............................  21
+    7.4      RESTRICTIONS ON TRANSACTIONS AND FUNDAMENTAL CHANGES......................  22
+    7.5      SALE OF ASSETS; TRANSFER TO SUBSIDIARY....................................  22
+    7.6      REPURCHASE OF SECURITIES..................................................  22
+    7.7      CORPORATE GOVERNANCE......................................................  23
+    7.8      BANK ACCOUNTS.............................................................  23
+
+SECTION 8.   EVENTS OF DEFAULT.........................................................  23
+    8.1      EVENT OF DEFAULT..........................................................  23
+    8.2      USE OF COLLATERAL.........................................................  25
+    8.3      CREDIT PARTIES TO HOLD IN TRUST...........................................  25
+    8.4      COLLECTIONS, ETC..........................................................  25
+    8.5      POSSESSION, SALE OF COLLATERAL, ETC.......................................  26
+    8.6      APPLICATION OF PROCEEDS ON DEFAULT........................................  27
+    8.7      POWER OF ATTORNEY.........................................................  27
+    8.8      TERMINATION AND RELEASE...................................................  28
+    8.9      REMEDIES NOT EXCLUSIVE....................................................  28
+</TABLE>
+
+                                       ii
+<PAGE>
+<TABLE>
+<S>          <C>                                                                         <C>
+SECTION 9.   MISCELLANEOUS.............................................................  28
+    9.1      PROMOTIONAL MATERIALS.....................................................  28
+    9.2      INDEMNIFICATION...........................................................  28
+    9.3      ENTIRE AGREEMENT; AMENDMENTS..............................................  29
+    9.4      WAIVERS...................................................................  29
+    9.5      NOTICES...................................................................  29
+    9.6      SUCCESSORS AND ASSIGNS....................................................  30
+    9.7      INTEREST DEFICIT..........................................................  30
+    9.8      CONFIDENTIALITY...........................................................  30
+    9.9      PAYMENT OF EXPENSES.......................................................  31
+    9.10     CAPTIONS..................................................................  31
+    9.11     COUNTERPARTS..............................................................  31
+    9.12     SEVERABILITY; REFORMATION.................................................  31
+    9.13     WAIVER OF JURY TRIAL......................................................  31
+    9.14     GOVERNING LAW.............................................................  32
+</TABLE>
+
+<TABLE>
+<CAPTION>
+SCHEDULES
+---------
+<S>                   <C>
+Schedule 4.1          State of Incorporation
+Schedule 4.4          Subsidiaries
+Schedule 4.5          Capitalization
+Schedule 4.10         Intellectual Property
+Schedule 4.15         Litigation
+Schedule 4.16         Financial Statements
+Schedule 7.1(b)       Limitation on Indebtedness
+Schedule 7.2(f)       Limitation on Liens
+Schedule 7.8          Bank Accounts
+</TABLE>
+
+<TABLE>
+<CAPTION>
+EXHIBITS
+--------
+<S>                   <C>
+Exhibit A             Description of Collateral
+Exhibit B             Form of Intellectual Property Security Agreement
+Exhibit C             Form of Note
+Exhibit D             Form of Warrant
+Exhibit E             Form of Accounts Receivable Certificate
+</TABLE>
+
+                                       iii
+<PAGE>
+         LOAN AND SECURITY AGREEMENT, dated as of February 13, 2003, by and
+between Computer Motion, Inc., a Delaware corporation (the "Borrower") and
+Agility Capital, LLC, a California limited liability company (the "Lender").
+
+         WHEREAS, the Borrower has requested a short-term secured bridge loan
+from the Lender in an aggregate principal amount not to exceed $2,300,000;
+
+         WHEREAS, the Borrower has agreed to issue to the Lender a warrant to
+acquire shares of Stock (as defined below); and
+
+         WHEREAS, the Lender is willing to make such loan to the Borrower upon
+the terms and subject to the conditions hereinafter set forth;
+
+         NOW, THEREFORE, in consideration of the premises and the mutual
+agreements contained herein and for other good and valuable consideration the
+receipt and sufficiency of which is hereby acknowledged, the parties hereto
+agree as follows:
+
+                             SECTION 1. DEFINITIONS
+
+         1.1      Defined Terms. As used in this Agreement, the following terms
+shall have the following meanings:
+
+                  "Acceptable Accounts" shall mean accounts receivable of the
+         Borrower that originate in the United States or Canada: (i) which
+         constitute legal, valid and binding obligations arising from bona fide
+         transactions in the ordinary course of business consistent with past
+         practices of the Borrower, (ii) against which there are no contests,
+         claims, counterclaims, defenses, contra accounts or other rights of
+         set-off, other than returns in the ordinary course consistent with past
+         practices of the Borrower, (iii) not to exceed one hundred twenty (120)
+         days in age from the applicable invoice date, and (iv) with
+         creditworthiness acceptable to Lender in its discretion.
+         Creditworthiness may include, without limitation, the following
+         factors: customer creditworthiness, credit concentrations, credit
+         cross-agings, contra accounts and dilution. Accounts receivable that
+         originate outside of the United States or Canada may be considered
+         Acceptable Accounts as determined on a case-by-case basis by Lender in
+         its sole discretion.
+
+                  "Affiliate" shall mean any other Person controlling or
+         controlled by or under common control with such specified Person.
+
+                  "Agreement" shall mean this Loan and Security Agreement, as
+         amended, supplemented, waived or otherwise modified from time to time
+         pursuant to the terms hereof.
+
+                  "Borrower" shall have the meaning set forth in the preamble
+         hereto.
+
+                  "Business Day" shall mean a day other than a Saturday, Sunday
+         or other day on which commercial banks in Santa Barbara, California are
+         authorized or required by law to close.
+<PAGE>
+                  "Closing Date" shall mean the date on which all the conditions
+         precedent set forth in Section 5 shall be satisfied or waived pursuant
+         to the terms hereof. The original Closing Date shall occur on such
+         date, on or prior to February 13, 2003, as the Borrower and the Lender
+         agree, failing which this Agreement shall be of no further force or
+         effect.
+
+                  "Collateral" shall have the meaning set forth in Exhibit A
+         hereto.
+
+                  "Common Stock" shall mean shares of the Borrower's common
+         stock, par value $0.001 per share.
+
+                  "Contractual Obligation" shall mean, as to any Person, any
+         provision of any security issued by such Person or of any agreement,
+         instrument, document or other undertaking to which such Person is a
+         party or by which it or any of its property is bound.
+
+                  "Control" (including, with correlative meaning, the terms
+         "controlling", "controlled by," "under common control with" and similar
+         phrases) shall mean with respect to any Person, the possession,
+         directly or indirectly, of the power to direct, or cause the direction
+         of, the management or policies of a Person, whether through the
+         ownership of voting securities, by contract or otherwise.
+
+                  "Default" shall mean any event, act or condition which with or
+         without notice or lapse of time, or both, could constitute an Event of
+         Default.
+
+                  "Deposit Account Control Agreements" shall mean deposit
+         account control agreements on commercially reasonable terms and
+         conditions in which all of the Borrower's accounts with any financial
+         institution shall be subject to Lender's right upon the occurrence and
+         during the continuance of an Event of Default to restrict the use of
+         such accounts and to turn over the proceeds from such accounts to
+         Lender, in form and substance reasonably satisfactory to the Lender;
+         provided that the Borrower shall be required to enter into a Deposit
+         Account Control Agreement with respect to accounts maintained at
+         Salomon Smith Barney but such agreement shall not be implemented unless
+         and until there has occurred an Event of Default.
+
+                  "Exchange Act" shall mean the Securities Exchange Act of 1934,
+         as amended, or any successor or similar statute and the rules and
+         regulations of the SEC promulgated thereunder as in effect from time to
+         time.
+
+                  "Event of Default" shall mean the occurrence of any of the
+         events specified in Section 8.
+
+                  "Event of Prepayment" shall mean (i) the sale, lease, license,
+         exchange, transfer or similar transaction involving all or
+         substantially all of the assets of the Borrower, other than inventory
+         in the ordinary course of business, in one or more transactions after
+         the Closing Date; (ii) the closing date of a recapitalization,
+         reorganization, merger, consolidation or other transaction or
+         transactions (whether
+
+                                        2
+<PAGE>
+         by sale, gift or other transfer or disposition), which transaction or
+         transactions result in the transfer of control of the Borrower
+         excluding any securities under any option plan of the Borrower (which
+         plan, type of securities and amount of securities are approved by
+         Lender in writing) which have not been granted, or which have been
+         granted but have not yet vested, in each case on or prior to the date
+         in question) on a fully-diluted basis; (iii) any action (voluntary or
+         involuntary) to liquidate, dissolve and/or wind down the Business of
+         the Borrower, (iv) the sale, lease, license, exchange, transfer or
+         similar transaction of any division or business of the Borrower in one
+         or more transactions after the Closing Date in which the aggregate
+         gross proceeds to the Borrower in connection with such transactions
+         are at least $2,500,000 (or, in the event of a transaction in which
+         the Borrower receives or is deemed to receive consideration other than
+         cash, the Borrower receives, or is deemed to have received, value (as
+         determined by the Lender) in the form of cash, marketable securities,
+         assets, contract rights, otherwise or a combination thereof of at
+         least $2,500,000) or (v) the sale, issuance, exchange, Transfer or
+         similar transaction involving any debt (other than Subordinated Debt
+         otherwise permitted in accordance with Section 7.1(f)) and the
+         securitization of receivables in one or more transactions in which the
+         aggregate gross proceeds received by the Borrower in connection with
+         such transaction are at least $2,500,000 (or, in the event of a
+         transaction in which the Borrower receives or is deemed to receive
+         consideration other than cash, the Borrower receives, or is deemed to
+         have received, value (as determined by the Lender) in the form of
+         cash, marketable securities, assets, contract rights, otherwise or a
+         combination thereof of at least $2,500,000). Notwithstanding anything
+         to the contrary in the foregoing, in the event the Borrower sells or
+         otherwise disposes of its "Hermes" line of business in one or more
+         transactions, Borrower shall pay to Lender: (i) in the event the
+         proceeds (whether cash or other consideration) of such sale or other
+         disposition are $2,500,000 or less, 100% of such proceeds (up to the
+         amount of the Secured Obligations), (ii) in the event the proceeds
+         (whether cash or other consideration) of such sale or other
+         disposition are greater than $2,500,000 but less that $6,000,000, 50%
+         of such proceeds (up to the amount of the Secured Obligations) and
+         (iii) in the event the proceeds (whether cash or other consideration)
+         of such sale or other disposition are greater than $6,000,000, 15% of
+         such proceeds (up to the amount of the Secured Obligations).
+
+                  "GAAP" shall mean the generally accepted accounting principles
+         in the United States of America in effect from time to time.
+
+                  "Governmental Authority" shall mean any nation or government,
+         any state or other political subdivision thereof and any Person
+         exercising executive, legislative, judicial, regulatory or
+         administrative functions of or pertaining to government.
+
+                  "Indebtedness" shall mean (without double counting), at any
+         time and with respect to any Person, (i) indebtedness of such Person
+         for borrowed money (whether by loan or the issuance and sale of debt
+         securities) or for the deferred purchase price of property or services
+         purchased (other than amounts constituting
+
+                                        3
+<PAGE>
+         trade payables (payable within 45 days) arising in the ordinary course
+         of business); (ii) obligations of such Person in respect of letters of
+         credit, acceptance facilities, or drafts or similar instruments issued
+         or accepted by banks and other financial institutions for the account
+         of such Person; (iii) obligations of such Person under capital leases
+         and any financing lease involving substantially the same economic
+         effect; (iv) deferred payment obligations of such Person resulting
+         from the adjudication or settlement of any litigation or claim to the
+         extent not already reflected as a current liability on the balance
+         sheet of such Person; (v) trade debt not incurred in the ordinary
+         course of business or trade debt in excess of $150,000 as to any
+         single creditor or in excess of $150,000 in the aggregate; or (vi)
+         indebtedness of others of the type described in clauses (i) through
+         (v) which such Person has (a) directly or indirectly assumed or
+         guaranteed in connection with a guaranty, or (b) secured by a Lien on
+         any of the assets of such Person whether or not such Person has
+         assumed or guaranteed such indebtedness.
+
+                  "Intellectual Property" shall have the meaning set forth in
+         Section 4.10.
+
+                  "Intellectual Property Security Agreement" shall mean the
+         Intellectual Property Security Agreement, dated as of the date hereof,
+         by and between the Lender and the Borrower, in substantially the form
+         attached hereto as Exhibit B.
+
+                  "Interest Rate" shall have the meaning set forth in Section
+         3.1.
+
+                  "Interest Deficit" shall have the meaning set forth in Section
+         9.7.
+
+                  "Lender" shall have the meaning set forth in the preamble
+         hereto.
+
+                  "Lien" shall mean any mortgage, deed of trust, pledge,
+         security interest, hypothecation, assignment, encroachment, lien
+         (statutory or otherwise), claim, option, reservation, priority,
+         preferential arrangement, easement or other encumbrance of any kind.
+
+                  "Loan" or "Loans" shall have the meaning set forth in Section
+         2.1.
+
+                  "Loan Availability" shall mean $2,300,000, fully available
+         upon Closing.
+
+                  "Loan Documents" shall mean this Agreement, the Note, the
+         Intellectual Property Security Agreement, the Warrant, the Deposit
+         Account Control Agreement and any and all other agreements,
+         certificates, instruments or documents made, given or delivered in
+         connection with the consummation of any transaction contemplated by a
+         Loan Document.
+
+                  "Lock Box Account" shall mean any checking or other demand
+         depository account maintained by the Borrower into which the contents
+         of any other checking, demand or other depository account of the
+         Borrower is transferred pursuant to the applicable Lock Box Agreement.
+
+                                        4
+<PAGE>
+                  "Lock Box Agreements" shall mean each of the Lock Box
+         Agreements on commercially reasonable terms and conditions, by and
+         among the Lender, the Borrower and the applicable financial institution
+         that recognizes the Lender's security interest in the contents of the
+         checking, demand or other depository account which is the subject of
+         such agreement and provides that such contents shall be transferred
+         only to the applicable Lock Box Account or as otherwise instructed by
+         Lender.
+
+                  "Material Adverse Change" shall mean an event, act, condition
+         or change which had, has or could have a material adverse effect on (a)
+         the business, operations, results of operations, properties, assets,
+         condition (financial or otherwise) or prospects of the Borrower or (b)
+         any right or remedy of the Lender under any Loan Document.
+
+                  "Maturity Date" shall mean November 12, 2003.
+
+                  "Note" shall have the meaning set forth in Section 2.2.
+
+                  "Person" shall mean an individual, partnership, corporation,
+         limited liability company, business trust, joint stock company, trust,
+         unincorporated association, joint venture, Governmental Authority or
+         other entity of whatever nature.
+
+                  "Proceeds" shall mean whatever is received when Collateral or
+         Proceeds are sold, exchanged, collected or otherwise disposed of, both
+         cash and non-cash, including the proceeds of insurance payable by
+         reason of loss of or damage to Collateral or Proceeds and any license
+         fees, royalties and other similar items received in connection with
+         Collateral.
+
+                  "Requirement of Law" shall mean as to any Person, the articles
+         or certificate of incorporation and by-laws or other organizational or
+         governing documents of such Person, and any law, statute, treaty,
+         ordinance, rule or regulation or determination of an arbitrator or a
+         court or other Governmental Authority, in each case applicable to or
+         binding upon such Person or any of its property or to which such Person
+         or any of its property is subject.
+
+                  "SEC" shall mean the Securities and Exchange Commission or any
+         successor thereto.
+
+                  "Secured Obligations" shall mean all money, debts, obligations
+         and liabilities which now are or have been or at any time hereafter may
+         be or become due, owing or incurred by the Borrower to the Lender,
+         whether direct or indirect, absolute or contingent, due or to become
+         due, or now existing or hereafter incurred, which may arise under, out
+         of, or in connection with any Loan Document or any transaction
+         contemplated by any Loan Document, whether on account of principal,
+         interest (including, without limitation, interest accruing after the
+         Maturity Date on the Note and interest accruing after the filing of any
+         petition in bankruptcy, or the commencement of any insolvency,
+         reorganization or like
+
+                                        5
+<PAGE>
+         proceeding, relating to the Borrower, whether or not a claim for
+         post-filing or post-petition interest is allowed in such proceeding),
+         royalties, reimbursement obligations, fees, indemnities, costs,
+         expenses or otherwise.
+
+                  "Securities Act" shall mean the Securities Act of 1933, as
+         amended, or any successor or similar statute and the rules and
+         regulations of the SEC promulgated thereunder as in effect from time to
+         time.
+
+                  "Stock" shall mean shares of Common Stock.
+
+                  "Subordinated Debt" shall mean unsecured Indebtedness
+         subordinated to the Loan on terms and conditions satisfactory to
+         lender, evidenced by a subordination agreement in form and substance
+         satisfactory to lender which by its terms does not permit the payment
+         of all or any portion of any principal, interest or any other amounts
+         until the indefeasible payment in full of all Secured Obligations.
+
+                  "Subsidiary" shall have the meaning set forth in Section 4.4.
+
+                  "Tax Return" shall mean any return, declaration, report, claim
+         for refund, information return or statement, estimated return or
+         statement or other document (including, without limitation, any related
+         or supporting estimates, elections, schedules, statements or
+         information) filed or required to be filed in connection with the
+         determination, assessment or collection of any Tax or the
+         administration of any laws, statutes, treaties, regulations or
+         administrative requirements relating to any Tax.
+
+                  "Tax" or "Taxes" shall mean (i) any and all taxes (whether
+         federal, state and local, domestic or foreign) including, without
+         limitation, income, gross receipts, profits, property, sales, use,
+         capital stock, net worth, occupation, value added, ad valorem,
+         transfer, franchise, recapture, excise, windfall, withholding, payroll,
+         social security, workers' compensation, unemployment compensation or
+         employment taxes, tariffs, imposts, duties, levies, fees or
+         governmental charges of any nature whatsoever, together with any
+         interest, penalties or additions to tax imposed with respect to any of
+         the foregoing, and (ii) any obligations under any agreements or
+         arrangements with respect to any tax or taxes described in clause (i)
+         above.
+
+                  "UCC" shall mean the Uniform Commercial Code of the State of
+         California as in effect on the date hereof and as amended from time to
+         time hereafter or, when used in relation to a specific filing or
+         termination, the Uniform Commercial Code of the State wherein such
+         filing or termination statement is made.
+
+                  "Warrant" shall have the meaning set forth in Section 3.3 (a).
+
+                  "Warrant Shares" shall have the meaning set forth in Section
+         3.3 (b).
+
+                                        6
+<PAGE>
+         1.2      Other Definitional Provisions.
+
+                  (a)      Unless otherwise specified therein, all terms defined
+in this Agreement shall have the defined meanings when used in the Note or any
+agreement, instrument, certificate or other document made, given or delivered
+pursuant hereto.
+
+                  (b)      Unless the context of this Agreement clearly requires
+otherwise, references to the plural include the singular, references to the
+singular include the plural, the part includes the whole, the terms "include"
+and "including" are not limiting, and the term "or" has the inclusive meaning
+represented by the phrase "and/or."
+
+                  (c)      The words "hereof," "herein" and "hereunder" and
+words of similar import when used in this Agreement shall refer to this
+Agreement as a whole and not to any particular provision of this Agreement, and
+Section, subsection, Exhibit and Schedule references are to this Agreement
+unless otherwise specified.
+
+                  (d)      The meanings given to terms defined herein shall be
+equally applicable to both the singular and plural forms of such terms.
+
+                  (e)      Any reference in this Agreement to any of the Loan
+Documents includes any and all alterations, amendments, extensions,
+modifications, renewals, restatements, or supplements thereto or thereof, as
+applicable.
+
+                  (f)      Neither this Agreement nor any uncertainty or
+ambiguity herein shall be construed or resolved against the Lender or the
+Borrower, whether under any rule of construction or otherwise. On the contrary,
+this Agreement has been reviewed by the Borrower, the Lender, and their
+respective counsel, and shall be construed and interpreted according to the
+ordinary meaning of the words used so as to fairly accomplish the purposes and
+intentions of the Lender and the Borrower.
+
+                           SECTION 2. AMOUNT OF LOAN
+
+         2.1      Loan. Subject to the terms and conditions hereof, the Lender
+agrees to make a Loan to the Borrower in a single draw on the Closing Date in an
+aggregate principal amount which shall not exceed the Loan Availability.
+Concurrently with the Closing, the Borrower shall pay to Lender the Loan fee of
+$46,000 plus an amount (provided by Lender to Borrower as soon as reasonably
+practicable before the Closing) sufficient to pay costs, fees and expenses
+(including, without limitation, legal fees and expenses) of the Lender. As used
+herein, the term "Loan" shall mean the loan made by the Lender in accordance
+with this Section 2.1.
+
+         2.2      Notes. In order to evidence the Loan, the Borrower will
+execute and deliver to the Lender on the initial Closing Date a secured
+promissory note substantially in the form of Exhibit C attached hereto, payable
+to the order of the Lender and in a principal amount equal to $2,300,000. The
+Note: (a) shall be dated the Closing Date; (b) shall be payable as provided in
+Section 2.4; (c) shall provide for the payment of interest in accordance with
+Section 3.1; and (d) shall be subject to mandatory prepayment in accordance with
+Section 3.2(b).
+
+                                        7
+<PAGE>
+         2.3      Making of Loan. The Lender shall have no obligation to make
+the Loan hereunder unless the Lender, in its sole discretion, determines that
+the Loan Documents are in full force and effect, and the Borrower is in full
+compliance with all the terms of this Agreement, the Note, the Intellectual
+Property Security Agreement and the other Loan Documents.
+
+         2.4      Repayment of Loan.
+
+                  (a)      Except as set forth below, the aggregate amount of
+the Loan shall be payable, together with all accrued and unpaid interest thereon
+and all other Secured Obligations, on the Maturity Date.
+
+                  (b)      The Borrower shall not be obligated to make any
+principal payments on the Loan other than upon the Maturity Date or as otherwise
+required pursuant to the provisions of Section 3.2(b).
+
+         2.5      Collateral.
+
+                  (a)      Security Interest. This Agreement constitutes a
+"security agreement" within the meaning of the UCC. In order to secure payment
+and performance of all present and future Secured Obligations, the Borrower
+hereby grants, assigns, transfers, pledges, and sets over to the Lender a
+first-priority security interest in and Lien on all of the Collateral (subject
+to Liens expressly permitted under Sections 7.2(a) and (e) hereof and those
+other Liens set forth in Section 7.2 required as a matter of law to have
+priority over the Secured Obligations; provided that, with respect to such other
+security interests and other Liens, such security interests and Liens shall not
+be with respect to claimed amounts in excess of $100,000 in the aggregate).
+Lender agrees to execute and deliver to the Borrower, at the sole cost of the
+Borrower, from time to time such Lien releases as the Borrower may reasonably
+request and as are necessary to give to other lenders which finance equipment
+for the Borrower a first priority security interest in the equipment financed so
+long as the Indebtedness and Liens incurred with respect to such equipment
+financing are expressly permitted under Sections 7.1(d) and (e) and 7.2(a) and
+(e) hereto, respectively.
+
+                  (b)      Further Assurances. The Borrower agrees that at any
+time and from time to time, at its expense, the Borrower will promptly execute
+and deliver all further agreements, certificates, instruments and documents
+(including, without limitation, financing statements and continuation
+statements), and take all further action that the Lender may reasonably request
+(including obtaining any control agreements or bailee acknowledgments required
+by Lender), in order to perfect and protect the security interests granted or
+purported to be granted hereby and to enable the Lender to exercise and enforce
+its rights and remedies hereunder with respect to any Collateral. The Borrower
+agrees that it will not take any action intended or reasonably likely to
+negatively impact or question the security interest granted herein. Without
+limiting any rights of the Lender under the UCC, the Borrower authorizes the
+Lender to file UCC financing statements with any filing office deemed
+appropriate by the Lender designating the Collateral as "all present and future
+assets" of the Borrower.
+
+                                        8
+<PAGE>
+                SECTION 3. GENERAL PROVISIONS APPLICABLE TO LOAN
+
+         3.1      Interest Rate and Payments. The outstanding principal of the
+Loan shall accrue interest from the date such Loan is disbursed pursuant to the
+terms hereunder until and including the date paid in full at a rate per annum
+(computed on the basis of a 360-day year of twelve 30-day months, provided,
+however, that per diem interest shall be calculated on the basis of the actual
+number of days elapsed over a year of 365 days) of nine percent (9%) per annum
+(the "Interest Rate"). Interest on the Loan shall be payable monthly in arrears
+on the first day of each calendar month following the Closing Date, with all
+interest due and payable on the Maturity Date or such earlier date upon which
+the Loan shall be due and payable in accordance with the terms hereof, in each
+case with interest to accrue and be due and payable through and including the
+applicable date of payment. Without duplication of any interest payable under
+this Section 3.1, the Borrower hereby unconditionally promises to pay to the
+Lender interest on any Secured Obligations payable by the Borrower under any
+Loan Document that shall not be paid in full when due (whether at stated
+maturity, by acceleration or otherwise), for the period from and including the
+due date of such payment to and including the date the same is paid in full, at
+a rate per annum equal to the Interest Rate plus 600 basis points, which
+interest shall be payable from time to time on demand of the Lender.
+
+         3.2      Prepayment.
+
+                  (a)      Optional. The Borrower shall be permitted to prepay
+the Loan, or any portion thereof, at any time without penalty or premium; in
+each case all payments shall be applied first against any Secured Obligation
+(other than interest and principal), then against accrued and unpaid interest
+through and including the date of payment and then against principal.
+
+                  (b)      Mandatory. Upon an Event of Prepayment all Secured
+Obligations (or the portion thereof described in the definition of "Event of
+Prepayment" contained in Section 1.1 hereof) shall immediately become due and
+payable; provided that upon a sale, lease, license, exchange, transfer or other
+disposition of the Borrower's Hermes line of business such mandatory prepayment
+shall be at Lender's sole discretion.
+
+         3.3      Issuance of Warrant.
+
+         As part of execution of this Agreement by the Borrower, the Borrower
+shall issue and deliver to the Lender a duly and validly issued, fully paid and
+nonassessable warrant to purchase Stock in substantially the form attached
+hereto as Exhibit D (the "Warrant").
+
+          SECTION 4. COMPANY REPRESENTATIONS, WARRANTIES AND COVENANTS
+
+         The Borrower represents, warrants and covenants, as of the Closing
+Date, that:
+
+         4.1      Existence. The Borrower (a) is duly organized and validly
+existing under the laws of the State of Delaware, (b) is duly qualified to do
+business and is in good standing in all other jurisdictions in which the nature
+of its business or the ownership or leasing of its properties makes such
+authorization or qualification necessary except for such jurisdictions where the
+failure to be so authorized or qualified could not result in a Material Adverse
+Change and (c) has
+
+                                        9
+<PAGE>
+the power and authority, and the legal right, to own and operate its property,
+to lease the property it operates as lessee or lessor and to conduct the
+business in which it is presently engaged and presently proposes to engage.
+
+         4.2      Power; Authorization; Enforceable Obligations. The Borrower
+has the power and authority, and the legal right, to make, execute, deliver and
+perform the Loan Documents, borrow the Loan hereunder, and to issue and deliver
+the Warrant and the Warrant Shares, and to consummate the transactions
+contemplated hereby and thereby and the Borrower has taken all necessary action
+to authorize the execution, delivery and performance of the Loan Documents, the
+borrowing of the Loan on the terms and conditions of this Agreement, and the
+issuance and delivery of the Warrant and the reservation for issuance, issuance
+and delivery of the Warrant Shares, and the consummation of the transactions
+contemplated hereby and thereby. No consent or authorization of, filing with,
+notice to or other similar act by or in respect of, any Governmental Authority
+or any other Person is required to be obtained or made by or on behalf of the
+Borrower in connection with the execution, delivery, performance, validity or
+enforceability of the Loan Documents to which it is a party, the borrowing of
+the Loan hereunder, the issuance and delivery of the Warrant, the reservation
+for issuance and the issuance and delivery of the Warrant Shares, or the
+consummation of the transactions contemplated hereby and thereby. Each of the
+Loan Documents has been duly executed and delivered by the Borrower. Each of the
+Loan Documents constitutes a legal, valid and binding obligation of the Borrower
+enforceable against the Borrower in accordance with its respective terms.
+
+         4.3      No Legal Bar. The execution, delivery and performance of the
+Loan Documents by the Borrower, the borrowing of the Loan hereunder, the use of
+the proceeds thereof, and the issuance and delivery of the Warrant and the
+reservation for issuance, issuance and delivery of the Warrant Shares, (a) will
+not violate any Requirement of Law, which violation could result in a Material
+Adverse Change, or Contractual Obligation of the Borrower and (b) will not
+result in, or require, the creation or imposition of any Lien on any of its
+properties, assets or revenues pursuant to any such Requirement of Law, which
+violation could result in a Material Adverse Change or the default or breach of
+any Contractual Obligation.
+
+         4.4      Subsidiaries. Except as set forth on Schedule 4.4 hereto, the
+Borrower has no, and never has had any, Subsidiaries. For purposes hereof,
+"Subsidiary" shall mean, for any Person, any corporation, partnership, limited
+liability company or other entity of which at least a majority of the securities
+or other ownership interests having by their terms ordinary voting power (or
+otherwise) to elect a majority of the board of directors or other Persons
+performing similar functions of such corporation, partnership, limited liability
+company or other entity (irrespective of whether or not at the time securities
+or other ownership interests of any other class or classes of such corporation,
+partnership, limited liability company or other entity shall have or might have
+voting power by reason of the happening of any contingency) are at the time
+directly or indirectly owned or controlled by such Person or one or more
+Subsidiaries of such Person.
+
+         4.5      Capitalization. The authorized capital stock of the Borrower
+is as set forth on Schedule 4.5 hereto: All such issued and outstanding shares
+and warrants have been duly authorized and validly issued, are fully paid and
+nonassessable and were issued in compliance with all applicable state and
+federal laws concerning issuance of securities. Other than as set
+
+                                       10
+<PAGE>
+forth on Schedule 4.5(a) hereto, there are no other rights, plans, options,
+warrants, agreements or other rights of any Person to purchase or acquire from
+the Borrower or any owner of any such item any shares of its capital stock. The
+Borrower has no obligation to repurchase, redeem or otherwise acquire any
+security or other right of the Borrower. The Warrant and the Warrant Shares will
+be, when issued in accordance with the terms and conditions hereof and the
+Warrant, duly and validly issued, fully paid and nonassessable and free and
+clear from all Liens, stock purchase rights and preemptive rights.
+
+         4.6      Material Adverse Facts. The Borrower has no knowledge of any
+fact that could materially adversely affect the ability of the Borrower to
+perform its obligations under this Agreement, the Note or the other Loan
+Documents or which could result in a Material Adverse Change.
+
+         4.7      Purpose of Loan. The proceeds of the Loan shall be used by the
+Borrower to provide funds for the issuance of a letter of credit to support the
+issuance of a bond as required by the court order described on Schedule 4.15
+hereto.
+
+         4.8      Liabilities. Other than with respect to the Loan and
+Indebtedness expressly permitted under Section 7.1 and described in Schedule
+7.1(b) hereto, the Borrower does not have any Indebtedness in excess of $50,000
+in the aggregate that the Borrower has directly or indirectly created, incurred,
+assumed, or guaranteed, or with respect to which the Borrower has otherwise
+become directly or indirectly liable. Schedule 7.1(b) sets forth a true,
+complete and correct description of all Indebtedness of the Borrower on the
+Closing Date.
+
+         4.9      Title to Property and Assets. The Borrower has good and
+marketable title to, or a valid leasehold in, all of the Borrower's tangible and
+intangible properties and assets (including, without limitation, Intellectual
+Property), in each case free and clear of all Liens other than (a) Liens for
+taxes not yet due or other statutory liens relating to obligations to any
+Governmental Authority which are not yet due, (b) statutory Liens arising in the
+ordinary course of business, in each case, which do not interfere with the use
+of the properties and assets to which they relate for the purposes for which
+those properties and assets were acquired and (c) Liens in favor of the Lender
+and other Liens expressly permitted under Section 7.2 hereof. Schedule 7.2(f)
+sets forth a true, complete and correct description of all Liens on the Borrower
+or its properties or assets on the Closing Date.
+
+         4.10     Intellectual Property. The Borrower possesses all licenses,
+permits, franchises, authorizations, patents, copyrights, trademarks, trade
+secrets and trade names and any other tangible, intangible or intellectual
+property rights, or rights thereto, required to conduct its business as
+presently conducted and as presently proposed to be conducted, without any known
+conflict with the rights of others. A true, correct and complete list of the
+Borrower's licenses, permits, franchises, authorizations, patents, copyrights,
+trademarks, trade secrets, trade names, inventions, discoveries, designs,
+patentable technology and art, methodologies, trade secrets, know how, service
+marks, Internet domain names and any other tangible, intangible or intellectual
+property rights (the "Intellectual Property") is attached as Schedule 4.10
+hereto. No claim of infringement has been made or threatened in writing or
+otherwise with respect to any such Intellectual Property. Except as set forth on
+Schedule 4.15, the Borrower has not directly or indirectly created, incurred,
+assumed or permitted to exist any Lien on any such Intellectual
+
+                                       11
+<PAGE>
+Property, other than Liens granted to the Lender to secure the Secured
+Obligations and liens expressly permitted under Section 7.2 hereof.
+
+         4.11     ERISA. No employee benefit plan established or maintained by
+the Borrower or to which the Borrower has made contributions or is liable is
+subject to Part 3 of Subtitle B of Title 1 of the Employee Retirement Income
+Security Act of 1974, as amended, or Section 412 of the Internal Revenue Code of
+1954, as amended.
+
+         4.12     Brokers. No broker or finder has acted for the Borrower in
+connection with the Loan Documents or the transactions contemplated hereby or
+thereby, and no broker finder or other Person is entitled to any brokerage or
+finder's fees or other commission or payment in respect of such transaction
+based in any way on agreements, arrangements or understandings made by or on
+behalf of the Borrower.
+
+         4.13     Use of Credit. No part of the proceeds from the Loan extended
+hereunder will be used, directly or indirectly, for the purpose of buying or
+carrying any "margin stock" within the meaning of Regulation G of the Board of
+Governors of the Federal Reserve System (12 CFR 207), or for the purpose of
+buying or carrying or trading in any securities under such circumstances as to
+involve the Borrower in a violation of Regulation X of said Board (12 CFR 224)
+or to involve any broker or dealer in a violation of Regulation T of said Board
+(12 CFR 220). The assets of the Borrower do not include any margin stock, and
+the Borrower does not have any present intention of acquiring any margin stock.
+
+         4.14     Indebtedness. The Note will be the senior obligation of the
+Borrower, and will be secured by first priority liens on all of the Collateral
+subject to Liens expressly permitted under Sections 7.2(a) and (e) hereof and
+those other Liens set forth in Section 7.2 required as a matter of law to have
+priority over the Secured Obligations; provided that, with respect to such other
+security interests and other Liens, such security interests and Liens shall not
+be with respect to claimed amounts in excess of $100,000 in the aggregate.
+
+         4.15     Litigation. Except as set forth on Schedule 4.15 hereto, there
+are no (i) actions, suits or legal, equitable, arbitrative or administrative
+proceedings pending, or, to the best knowledge of the Borrower after reasonable
+review and due inquiry, threatened against the Borrower or any of its properties
+or assets or (ii) judgments, injunctions, writs, rulings or orders by any
+Governmental Authority against the Borrower or applicable to any of its
+properties or assets.
+
+         4.16     Financial Condition; Unknown Liabilities. The Borrower has
+previously furnished to the Lender the unaudited pro forma balance sheet of the
+Borrower as of the Closing Date and the related unaudited financial statements
+for the period from the date of the Borrower's audited financial statements for
+the fiscal year ended December 31, 2001 attached hereto as Schedule 4.16. There
+are no liabilities, obligations or commitments of any nature (whether accrued,
+absolute, contingent or otherwise) matured or unmatured of the Borrower, except
+as provided for in unaudited proforma the balance sheet referred to above as of
+the Closing Date. Since January 1, 2002, there has been no Material Adverse
+Change as to the Borrower.
+
+                                       12
+<PAGE>
+         4.17     Taxes. The Borrower has filed all federal, state and local,
+domestic or foreign Tax Returns and all other Tax Returns that are required to
+be filed by it and it has paid all Taxes due pursuant to such returns or
+pursuant to any deficiency, notice of proposed assessment, audit, assessment or
+other similar notice received by it in writing other than those being contested
+in good faith in appropriate proceedings and for which reserves have been
+established in the financial statements described in Section 4.16. There are no
+audits, assessments or claim for assessments, and no basis upon which such a
+claim can be made to the best knowledge of the Borrower after reasonable review
+and due inquiry. The charges, accrual and reserves on its books and records in
+respect of Taxes are adequate. The Borrower has not given or been requested to
+give a waiver of the statute of limitations relating to the payment of Federal
+or other taxes or the audit of any tax period.
+
+         4.18     Certain Regulations. The Borrower is not (a) an "investment
+company," or a company "controlled" by an "investment company," within the
+meaning of the Investment Company Act of 1940; (b) a "holding company," or an
+"affiliate" of a "holding company" or a "Subsidiary company" of a "holding
+company," within the meaning of the Public Utility Holding Company Act of 1935;
+or (c) to the knowledge of the Borrower, subject to any other Requirement of
+Law, restricting its ability to incur debt or to grant Liens.
+
+         4.19     Environmental Matters. The Borrower has obtained all approvals
+required by any Governmental Authority to carry on its business as presently
+being conducted or as presently proposed to be conducted. Each of such approvals
+is in full force and effect and the Borrower is in compliance in all respects
+with the terms and conditions of such approvals, and is also in compliance in
+all respects with all other provisions of any applicable environmental law, rule
+or regulation.
+
+         4.20     Accounts Receivable. The accounts receivable set forth in the
+unaudited balance sheet delivered to the Lender pursuant to Section 4.16 and set
+forth in reasonable detail on Schedule 4.20, net of applicable reserves set
+forth in such unaudited balance sheet and on such schedule, are collectible in
+the amounts shown therein. All such accounts receivable represent legal, valid
+and binding obligations arising from bona fide business transactions in the
+ordinary course of business consistent with past practices of the Borrower.
+There is no contest, claim, counterclaim, defense, contra account or other right
+of set-off, other than returns in the ordinary course consistent with the past
+practices of the Borrower.
+
+         4.21     SEC Documents; Financial Statements and No Material Changes.
+Borrower has made available to Lender through the SEC's EDGAR database ("EDGAR")
+a true, complete and correct copy of each publicly available statement, report,
+registration statement (with the prospectus in the form filed pursuant to Rule
+424(b) of the Securities Act), definitive proxy statement, and other filing
+filed with the SEC by Borrower since December 31, 2001, and, prior to the
+Closing Date, Borrower will have made available to Lender true, complete and
+correct copies of any additional publicly available documents filed with the SEC
+by Borrower after the date hereof but prior to the Closing Date (collectively,
+the "Borrower SEC Documents"). All documents required to be filed as exhibits to
+the Borrower SEC Documents have been so filed, and all Borrower Material
+Contracts (as defined below) so filed as exhibits are in full force and effect
+as of the date hereof, except those that have expired in accordance with their
+terms and those that failure to be in full force and effect would not have a
+Material Adverse Change. As
+
+                                       13
+<PAGE>
+used in this Agreement, "Borrower Material Contracts" means all contracts
+required to be filed as exhibits to the Borrower SEC Documents pursuant to Item
+601 of Regulation S-K. As of their respective filing dates, the Borrower SEC
+Documents complied in all material respects with the applicable requirements of
+the Exchange Act and the Securities Act, and none of the Borrower SEC Documents
+contained any untrue statement of a material fact or omitted to state a material
+fact required to be stated therein, in light of the circumstance under which
+they were made or necessary to make the statements made therein not misleading,
+except to the extent corrected by a subsequently filed Borrower SEC Document.
+The consolidated financial statements of Borrower, including the notes thereto,
+included in the Borrower SEC Documents (the "Borrower SEC Financial Statements")
+fairly present (or will fairly present) the consolidated financial condition and
+the related consolidated statements of operations, of stockholder's equity, and
+of cash flows of Borrower at the dates and during the periods indicated therein
+in accordance with GAAP (subject, in the case of unaudited statements, to
+normal, recurring year-end adjustments), complied (or will comply) as to form in
+all material respects with applicable accounting requirements and with the
+published rules and regulations of the SEC with respect thereto as of their
+respective dates, and have been prepared (or will be prepared) in accordance
+with generally accepted accounting principles applied on a basis consistent
+throughout the periods indicated and consistent with each other (except as may
+be expressly indicated in the notes thereto or, in the case of unaudited
+statements included in Quarterly Reports on Forms 10-Q, as permitted by Form
+10-Q of the SEC).
+
+         4.22     Ownership of CMI.HERMES, Inc. CMI.HERMES, Inc. was formed
+solely for the purpose of engaging in the transactions contemplated by Schedule
+4.4. CMI.HERMES, Inc. (i) has not conducted, and will not prior to the date
+thereof conduct, any business and (ii) has no, and prior to the date thereof
+will have no, assets or liabilities. As of the date hereof, only shares of
+CMI.HERMES, Inc. common stock will be issued and outstanding and all of such
+shares shall be owned directly by Borrower.
+
+         4.23     Disclosure. No representation or warranty by the Borrower in
+this Agreement or any of the other Loan Documents contains or will contain any
+untrue statement of a material fact or omits or will omit to state any material
+fact required to be stated therein or necessary in order to make the statements
+therein, in light of the circumstances in which they are made, not misleading.
+If, prior to the Closing Date, the Borrower becomes aware of any fact or
+circumstance that could change a representation or warranty of the Borrower in
+this Agreement, then the Borrower shall immediately give notice of such fact or
+circumstance to the Lender.
+
+                        SECTION 5. CONDITIONS OF LENDING
+
+         The obligation of the Lender to make the Loan hereunder is subject to
+the following conditions precedent:
+
+         5.1      Loan Documents. Lender shall have received (a) this Agreement,
+(b) the Note, (c) the Intellectual Property Security Agreement, (d) the Warrant,
+(e) the Lock Box Agreement, the Deposit Account Control Agreements and (f) each
+of the other Loan Documents to which the Borrower is a party, in each case
+executed and delivered by duly authorized officers of the Borrower.
+
+                                       14
+<PAGE>
+         5.2      Proceedings. The Lender shall have received a copy of the
+resolutions, in form and substance reasonably satisfactory to it, of the board
+of directors of the Borrower authorizing (i) the execution, delivery and
+performance of this Agreement and the other Loan Documents, (ii) the Loan
+contemplated hereunder, (iii) the issuance and delivery of the Warrant, and the
+reservation for issuance, issuance and delivery of the Warrant Shares and (iv)
+the other transactions contemplated hereby and thereby, certified by the
+Secretary or an Assistant Secretary of the Borrower as of the Closing Date,
+which certificate shall be in form and substance reasonably satisfactory to the
+Lender and shall state that the resolutions thereby certified have not been
+amended, modified, revoked or rescinded and are in full force and effect.
+
+         5.3      Incumbency Certificates. The Lender shall have received a
+certificate of the Borrower, dated the Closing Date, as to the incumbency and
+signature of the officers of the Borrower executing any Loan Document,
+reasonably satisfactory in form and substance to the Lender, executed by the
+Secretary or any Assistant Secretary of the Borrower.
+
+         5.4      Organization Documents. The Lender shall have received copies
+of the articles of incorporation and bylaws of the Borrower, certified as of the
+Closing Date as true, complete and correct copies thereof by the Secretary or an
+Assistant Secretary of the Borrower.
+
+         5.5      Representations and Warranties; No Default. Each of the
+representations and warranties made by the Borrower pursuant to this Agreement
+or any other Loan Document (or in any amendment, modification or supplement
+hereto or thereto) and each of the representations and warranties contained in
+any certificate or statement furnished at any time by or on behalf of the
+Borrower pursuant to this Agreement or any other Loan Document or certificate or
+other document delivered herewith or therewith, shall, except to the extent that
+they relate to a particular date, be true, complete and correct in all respects
+on and as of the date it was made and on and as of such date as if made on and
+as of such date. The Borrower shall have complied with each and every covenant
+and agreement contained herein, no Default or Event of Default shall have
+occurred and be continuing on such date or after giving effect to the Loan, and
+no Material Adverse Change shall have occurred. The Borrower shall have
+delivered a certificate of the Chief Executive Officer or President of the
+Borrower, dated as of the applicable Closing Date hereunder, to the foregoing
+effect.
+
+         5.6      Security Interest. The Lender shall have received evidence
+satisfactory to it of a valid and perfected first priority Lien and security
+interest in the Collateral and no other Liens on the Collateral exist, except as
+expressly permitted hereunder.
+
+         5.7      Intellectual Property Security Interest. The Lender shall have
+received evidence satisfactory to it of a valid and perfected first priority
+Lien and security interest in the Intellectual Property.
+
+         5.8      Due Diligence. With respect to the Closing Date only, the
+Lender shall have completed a due diligence investigation of the Borrower
+satisfactory to the Lender.
+
+         5.9      Lock Box Agreement. The Lender shall have received
+satisfactory evidence that the Lock Box Agreement is in full force and effect.
+
+                                       15
+<PAGE>
+         5.10     Deposit Account Control Agreements. The Lender shall have
+received satisfactory evidence that each Deposit Account Control Agreement is in
+full force and effect.
+
+         5.11     Issuance of Warrant. The Lender shall have received the
+Warrant in accordance with the provisions of Section 3.3.
+
+                        SECTION 6. AFFIRMATIVE COVENANTS
+
+         The Borrower hereby agrees that, from and after the original Closing
+Date and through the indefeasible payment in full of the Loan and the Secured
+Obligations then due and owing to the Lender hereunder, the Borrower shall:
+
+         6.1      Payment of Obligations. Pay, discharge or otherwise satisfy at
+or before maturity or before they become delinquent, as the case may be, all its
+obligations of whatever nature, except where the amount or validity thereof is
+currently being contested in good faith by appropriate proceedings diligently
+conducted and which are reserved against on the Borrower's books and records.
+
+         6.2      Maintenance of Accounts Receivable. The Borrower shall
+maintain at least $3,500,000 of Acceptable Accounts, net of any applicable
+reserves and net of the amount of any Subordinated Debt, all of which Acceptable
+Accounts shall be timely paid in accordance with their respective terms.
+
+         6.3      Conduct of Business; Maintenance of Existence; and Compliance
+with Laws. Continue to engage in business of the same general type as conducted
+by the Borrower on the Closing Date, and preserve, renew and keep in full force
+and effect its corporate existence and take all reasonable action to maintain
+all rights, privileges and franchises necessary or desirable in the normal
+conduct of the business of the Borrower. The Borrower shall do or cause to be
+done all things necessary to ensure compliance by the Borrower in all material
+respects with all Requirements of Law and all applicable restrictions imposed by
+any Governmental Authority.
+
+         6.4      Maintenance of Insurance. Maintain insurance with responsible
+and reputable insurance companies or associations in such amounts and covering
+such risks as is usually carried by companies of similar size engaged in similar
+businesses and owning similar properties and assets in the same general areas in
+which the Borrower operates and reasonably acceptable to the Lender, including,
+without limitation, primary, all risk, physical damage, property damage, and
+bodily injury with appropriate loss payee and additional insured endorsements in
+favor of the Lender.
+
+         6.5      Taxes. Timely pay all Taxes except Taxes being contested in
+good faith by appropriate proceedings (which shall be reserved against on the
+Borrower's books and records); provided that it shall pay any contested Taxes
+upon commencement of proceedings to foreclose upon any property or assets of the
+Borrower to pay such Taxes.
+
+         6.6      Maintenance of Properties. Maintain, preserve, protect and
+keep its properties in good repair, working order and condition (ordinary wear
+and tear excepted), and make reasonable, necessary and proper repairs, renewals
+and replacements so that its business carried
+
+                                       16
+<PAGE>
+on in connection therewith may be properly conducted at all times consistent
+with past practices of the Borrower.
+
+         6.7      Information Rights. The Borrower shall deliver the following
+to the Lender:
+
+                  (a)      as soon as practicable, but in any event within
+ninety (90) days after the end of each calendar year (i) consolidated income
+statement and statement of cash flows for such year and a balance sheet as of
+the end of such year, prepared in accordance with GAAP, and audited and
+certified by independent public accountants of nationally recognized standing
+selected by the Borrower and reasonably acceptable to the Lender and (ii) annual
+sales forecasts and budgets for the then next two years in form and substance
+reasonably satisfactory to the Lender;
+
+                  (b)      as soon as practicable, (i) but in any event within
+thirty (30) days after the end of each calendar month an unaudited income
+statement and statement of cash flows for such month and an unaudited balance
+sheet as of the end of such month, (ii) but in any event within thirty (30) days
+after the end of each calendar month, monthly sales forecasts, (iii) but in any
+event within fifteen (15) days of the end of such month, accounts payable and
+accounts receivable agings together with an Accounts Receivable Certificate in
+substantially the form of Exhibit E hereto signed by the Borrower's Chief
+Financing Officer, and (iv) but in any event within thirty (30) days, monthly,
+quarterly and annual budgets (including variance reports) in form and substance
+reasonably satisfactory to the Lender; and
+
+                  (c)      as soon as reasonably practicable after requested by
+Lender, such other reports as Lender may request in connection with the
+Borrower.
+
+         6.8      Board Observation Rights. Until the later of such time as all
+Secured Obligations are indefeasibly repaid in full and the Commitment
+Termination Date, the Lender shall have the right to have a representative
+attend all meetings of the Borrower's Board of Directors or any such committee
+thereof, in a nonvoting, observer capacity, the cost of which attendance shall
+be paid by the Borrower, including travel and related costs and expenses. The
+Borrower shall provide the Lender notice of such meetings at the same time and
+in the same manner as such notice is provided to the Board of Directors and the
+Borrower shall provide the Lender copies of all minutes, consents, and other
+materials the Borrower provides to its directors in conjunction with said
+meetings.
+
+         6.9      Event of Prepayment. Except as otherwise provided in the
+definition of "Event of Prepayment," upon any Event of Prepayment of the
+Borrower, then in connection therewith, the Lender shall be entitled to one
+hundred percent (100%) of the proceeds from the sale of the Borrower and/or its
+assets in an orderly liquidation (after deducting the reasonable, non-operating
+out-of-pocket costs of sale paid to an independent third Person) until such time
+as all Secured Obligations are repaid indefeasibly in full, including, without
+limitation, the Loan, all accrued interest due thereon, fees and other costs.
+
+         6.10     Lock Box Instructions. Upon the occurrence of an Event of
+Default, permit Lender, in Lender's sole discretion, to instruct each of the
+Borrower's customers and any other
+
+                                       17
+<PAGE>
+Persons with amounts owing to the Borrower to send all future payments to a
+designated Lock Box Account pursuant to instructions determined by the Lender in
+its sole discretion.
+
+                         SECTION 7. NEGATIVE COVENANTS
+
+         The Borrower hereby agrees that, from and after the original Closing
+Date and thereafter until payment in full of all Secured Obligations, the
+Borrower shall not, without the Lender's prior written consent:
+
+         7.1      Limitation on Indebtedness. Create, incur, assume or suffer to
+exist any Indebtedness, except:
+
+                  (a)      Indebtedness of the Borrower under this Agreement;
+
+                  (b)      other Indebtedness (including accrued interest
+thereon) outstanding on the original Closing Date and listed on Schedule 7.1(b)
+(none of which is secured) and any refinancings, refundings, renewals or
+extensions thereof, provided that the amount of such Indebtedness is not
+increased at the time of such refinancing, refunding, renewal or extension over
+the amount thereof outstanding on the original Closing Date and the due date of
+such Indebtedness is not shortened;
+
+                  (c)      unsecured Indebtedness of any Person acquired by the
+Borrower after the date hereof, provided that such Indebtedness was not incurred
+in contemplation of such acquisition and provided that, at the time of such
+acquisition, the aggregate amount of such Indebtedness does not exceed the fair
+market value of the assets of such Person, and any refinancings, refundings,
+renewals or extensions thereof, provided that the amount of such Indebtedness is
+not increased at the time of such refinancing, refunding, renewal or extension
+over the amount thereof outstanding at the time of such acquisition and the due
+date of such Indebtedness is not shortened;
+
+                  (d)      Indebtedness of up to $100,000 in the aggregate
+(including all Indebtedness incurred under Section 7.1(e) below) in respect of
+any lease of any property by the Borrower as lessee which, in accordance with
+GAAP, is accounted for as a capital lease on the Borrower's balance sheet,
+provided that, at the time of the inception of such lease, the aggregate amount
+of such Indebtedness does not exceed the fair market value of such property;
+
+                  (e)      Indebtedness of up to $100,000 in the aggregate
+(including all Indebtedness incurred under Section 7.1(d) above) in respect of
+purchase money financing, provided that, at the time the Borrower becomes
+obligated with respect to such financing, the aggregate amount of such
+Indebtedness does not exceed the fair market value of the property financed with
+such Indebtedness; and
+
+                  (f)      Subordinated Debt on terms and conditions
+substantially similar to those that the Borrower would have received in an
+"arm's length" transaction with an independent third party, in an aggregate
+amount not to exceed $2,500,000 in the aggregate; provided that prior to or
+concurrently with the Borrower incurring such indebtedness, the Person providing
+or issuing such Indebtedness to the Borrower shall enter into a subordination
+agreement satisfactory
+
+                                       18
+<PAGE>
+in form and substance to the Lender, an executed copy of which shall be
+delivered to the Lender at such time.
+
+         7.2      Limitation on Liens. Create, incur, assume or suffer to exist
+any Liens on any properties or assets of the Borrower other than:
+
+                  (a)      Liens incurred in connection with Indebtedness
+permitted to be incurred or permitted to exist pursuant to Section 7.1(a), (d)
+or (e); provided that, with respect to Indebtedness permitted under Sections
+7.1(d) or (e), the Liens cover only the assets of the property leased or
+purchased (including proceeds thereof and accessions thereto), as applicable;
+
+                  (b)      deposits under worker's compensation, unemployment
+insurance and Social Security laws or to secure statutory obligations or surety
+or appeal bonds or performance or other similar bonds in the ordinary course of
+business consistent with past practice;
+
+                  (c)      Liens for taxes, assessments or other governmental
+charges or levies due and payable, the validity or amount of which is currently
+being contested in good faith by appropriate proceedings and which have been
+reserved for on the Borrower's books and records;
+
+                  (d)      Except as set forth on Schedule 4.15, Liens arising
+out of attachments, judgments or awards as to which an appeal or other
+appropriate proceedings for contest or review are promptly commenced (and as to
+which foreclosure and other enforcement proceedings shall not have been
+commenced (unless fully bonded or otherwise effectively stayed)) and as to which
+reserves have been established, provided that the assets or property subject to
+such lien do not have a value in the aggregate greater than $50,000; or
+
+                  (e)      Liens upon property, which property was acquired
+after the Closing Date (by purchase or otherwise) by the Borrower, each of which
+Liens existed on such property before the time of its acquisition and was not
+created in anticipation thereof; provided, however, that no such Lien shall
+extend to or cover any property of the Borrower other than the respective
+property so acquired.
+
+                  (f)      Liens existing on the Closing Date and described on
+Schedule 7.2(f);
+
+                  (g)      Easements, reservations, rights-of-way, restrictions,
+minor defects or irregularities in title and other similar charges or
+encumbrances affecting real property not constituting, or not possible of
+resulting in, a Material Adverse Change;
+
+                  (h)      Liens incurred in connection with the extension,
+renewal or refinancing of the Indebtedness secured by Liens permitted pursuant
+to clauses (a) through (g) above, provided that any extension, renewal or
+replacement Lien shall be limited to the property encumbered by the Lien prior
+to such extension, renewal or refinancing and the Indebtedness being extended,
+renewed or refinanced is permitted pursuant to Section 7.1.
+
+         7.3      Limitations on Transactions with Affiliates. Make any payment
+to or investment in, or enter into any transaction with, any Affiliate,
+including, without limitation, the purchase, sale or exchange of property or
+assets or the rendering of any service, except transactions entered into with
+Affiliates (a) in the ordinary course of business consistent with past practice,
+(b) on
+
+                                       19
+<PAGE>
+terms and conditions substantially similar to those that the Borrower
+would have received in an "arm's length" transaction with an independent third
+party and (c) related to the Borrower's principal activities; provided, however,
+that no payments shall be made (i) to pay any deferred compensation to any
+officer, director, employee, insider or Affiliate or (ii) to reduce, retire or
+otherwise repay any note, Indebtedness or other debt or obligation of any
+officer, director, employee, insider or Affiliate (including, without
+limitation, any Subordinated Debt) or (iii) to reduce any single account payable
+of the Borrower by more than $50,000 or more than $150,000 in the aggregate, in
+each case, without the prior written approval of the Lender.
+
+         7.4      Restrictions on Transactions and Fundamental Changes. Alter
+the Borrower's capital or legal structure, or enter into any transaction of
+merger, recapitalization, restructuring, consolidation or similar transaction,
+or liquidate, wind-up or dissolve the Borrower (or suffer any liquidation or
+dissolution), or convey, sell, lease, sub-lease, license, transfer or otherwise
+dispose of, in one transaction or a series of transactions, all or any part of
+the Borrower's business, property or assets, whether now owned or hereafter
+acquired, or enter into any management contract permitting third-party
+management rights with respect to the Borrower's business, or declare or pay any
+dividends or make any other distribution to its shareholders, or make any
+investments, or make any loans, advances or other extensions of credit to any
+Person; provided, that (i) the Borrower may declare and make any dividend
+payment or other distribution payable in its equity securities; and (ii) the
+Borrower may make travel advances in the ordinary course of business consistent
+with past practice in an aggregate amount of up to $25,000 per month, with an
+aggregate amount per employee of up to $3,000 per month.
+
+         7.5      Sale of Assets; Transfer to Subsidiary. Sell, lease,
+sub-lease, license, transfer or otherwise dispose of any of the Borrower's
+interest in its respective properties or assets, whether real, personal or
+mixed, or tangible or intangible, other than inventory in the ordinary course of
+business consistent with past practice. Borrower shall not sell, lease,
+sublease, license, transfer or otherwise dispose of any properties or assets to
+any subsidiary, including, without limitation, the sale, lease, sublease,
+license, transfer or other disposition of the Hermes line to CMI.HERMES, Inc.
+without Lender's prior written consent, which consent shall not be unreasonably
+withheld in the event that Lender has a first priority security interest in all
+such properties and assets and such transaction is undertaken as part of the
+closing of a sale of the Hermes line. Borrower shall, however, have the right to
+sell its Hermes line of business; provided that the proceeds of any such sale
+are applied in accordance with the definition of "Event of Prepayment" contained
+in Section 1.1 hereof; provided further that Borrower complies with the
+immediately preceding sentence.
+
+         7.6      Repurchase of Securities. Repurchase, redeem or otherwise
+acquire or retire any of the Borrower's securities or obligation evidencing the
+right of any holder thereof to purchase any of the Borrower's securities without
+the prior written consent of the Lender, other than under the terms and
+conditions of stock option, stock purchase, profit sharing or similar plans
+approved by the Borrower's Board of Directors; provided that: (i) the shares of
+common stock or other securities of the Borrower issued or issuable pursuant
+thereto do not constitute in the aggregate more than ten percent (10%) of the
+Borrower's total outstanding capital stock on a fully diluted basis; (ii) in no
+event shall the Borrower repurchase, redeem or otherwise acquire or retire
+shares that constitute in the aggregate more than (A) ten percent (10%) of the
+Borrower's total outstanding capital stock on a fully diluted basis or (B) more
+than two percent (2%) of the
+
+                                       20
+<PAGE>
+Borrower's total outstanding capital stock on a fully diluted basis from any
+Person or their respective Affiliates (the securities of which Affiliates shall
+be deemed aggregated with such Person for such purpose); and (iii) any
+repurchase, redemption or other acquisition or retirement by the Borrower of
+securities acquired by an employee pursuant to any such plan shall be at a price
+not greater than the actual, cash price that such employee paid to acquire such
+securities.
+
+         7.7      Corporate Governance. Enter into one or more mortgage,
+indenture, agreement, contract, commitment, lease, plan, or other instrument,
+document or understanding, oral or written, with any Person in which (i) the
+Borrower is obligated to pay in excess of $50,000 in the aggregate within 12
+months of the date hereof without obtaining the approval of the Board of
+Directors of the Borrower, and (ii) the Lender does not have a first-priority
+security interest as to payment or liquidation or otherwise.
+
+         7.8      Bank Accounts. Attached hereto as Schedule 7.8 is a list of
+all of the Borrower's present accounts at any bank or other financial
+institution which includes, (i) the name and address of the applicable bank or
+financial institution, (ii) the account number and (iii) a contact person at
+such bank or financial institution responsible for the operation of such account
+(collectively, the "Bank Accounts"). The Borrower shall not establish any
+accounts other than the Bank Accounts, except upon not less than fifteen (15)
+days' prior written notice to Lender and delivery to Lender of an appropriate
+deposit account control agreement in form and substance satisfactory to the
+Lender. The borrower shall not maintain or permit to exist any deposits or other
+funds of whatever nature outside of Montecito Bank & Trust in excess of the
+amounts and in the Bank Accounts set forth on Schedule 7.8.
+
+                          SECTION 8. EVENTS OF DEFAULT
+
+         8.1      Event of Default. If any of the following events shall occur
+and be continuing:
+
+                  (a)      the Borrower shall fail to pay any principal of or
+any interest on the Loan or any other amount payable hereunder when due in
+accordance with the terms hereof; or
+
+                  (b)      the Borrower shall default in the observance or
+performance of any covenant, agreement or other obligation contained in this
+Agreement or any other Loan Document, and such default continues for five (5)
+Business Days; or
+
+                  (c)      default shall be made with respect to any payment of
+any Indebtedness of the Borrower in excess of $25,000 when due or the
+performance of any covenant, agreement or other obligation incurred in
+connection with any such Indebtedness, if the effect of such default is to
+permit the acceleration of the maturity of such Indebtedness and such default
+shall not be remedied, cured, waived or consented to by the holder of such
+Indebtedness within the applicable grace period, or any other circumstance arise
+(other than the mere passage of time) by reason of which the Borrower is
+required to repurchase or offer to holders of Indebtedness of any such Person,
+the opportunity to have purchased, any such Indebtedness; or
+
+                  (d)      (i) the Borrower shall commence any case, proceeding
+or other action (A) under any existing or future law or statute of any
+jurisdiction, domestic or foreign, relating to bankruptcy, insolvency,
+reorganization or relief of debtors, seeking to have an order for relief entered
+with respect to it, or seeking to adjudicate it a bankrupt or insolvent, or
+seeking
+
+                                       21
+<PAGE>
+reorganization, arrangement, adjustment, winding-up, liquidation, dissolution,
+composition or other relief with respect to it or its debts, or (B) seeking
+appointment of a receiver, trustee, custodian, conservator or other similar
+official for it or for all or any substantial part of its assets, or the
+Borrower shall make a general assignment for the benefit of its creditors; (ii)
+there shall be commenced against the Borrower any case, proceeding or other
+action of a nature referred to in clause (i) above which (A) results in the
+entry of an order for relief or any such adjudication or appointment or (B)
+remains undismissed, undischarged, unstayed or unbonded for a period of 30 days;
+(iii) there shall be commenced against the Borrower any case, proceeding or
+other action seeking issuance of a warrant or writ of attachment, execution,
+distraint or similar process against all or any substantial part of its assets
+which results in the entry of an order for such relief which shall not have been
+vacated, discharged, stayed or bonded pending appeal within 30 days from the
+entry thereof; (iv) the Borrower shall take any corporate action in furtherance
+of, or indicating its consent to, approval of or acquiescence in, any of the
+acts set forth in clause (i), (ii), or (iii) above; or (v) the Borrower shall be
+generally unable to, or shall admit its general inability to, pay its debts as
+they become due; or
+
+                  (e)      final judgment for the payment of money shall be
+rendered by a court of competent jurisdiction against the Borrower and the
+Borrower shall not discharge the same or provide for its discharge in accordance
+with its terms, or procure a stay of execution thereof within ten (10) calendar
+days from the date of entry thereof and within a period of thirty (30) days, or
+such longer period during which execution of such judgment shall have been
+stayed, appeal therefrom and cause the execution thereof to be stayed during
+such appeal, and such judgment together with all other such judgments of the
+Borrower shall exceed in the aggregate $50,000; or
+
+                  (f)      any representation or warranty made by the Borrower
+in this Agreement, or any other Loan Document shall be false or incorrect on any
+date on which such representation or warranty was made; or
+
+                  (g)      any Loan Document shall cease for any reason to be in
+full force and effect (other than pursuant to the express terms hereof or
+thereof), the Loan Documents shall, for any reason, not give or shall cease to
+give the Lender a perfected Lien in all of the Collateral with the priority
+contemplated by such Loan Documents and subject to no other Liens (except to the
+extent expressly permitted herein or therein) other than by actions of the
+Lender, or the Borrower shall so assert; or
+
+                  (h)      any Material Adverse Change shall have occurred; or
+
+                  (i)      at any time there shall fail to be a current and
+effective registration statement in accordance with the provisions of Section 6
+of the Warrant with respect to all of the Registrable Securities (as defined in
+the Warrant);
+
+then, and in each such event, (A) if such event is an Event of Default specified
+in clauses (i) or (ii) of paragraph (d) above with respect to the Borrower
+automatically the Loan hereunder (with accrued interest thereon) and all other
+Secured Obligations shall immediately become due and payable, and (B) if such
+event is any other Event of Default, the Lender may, by notice to the Borrower,
+declare the Loan hereunder (with accrued but unpaid interest thereon including
+such
+
+                                       22
+<PAGE>
+interest accruing at the Default Rate) and all other Secured Obligations to be
+due and payable forthwith, whereupon the same shall immediately become due and
+payable.
+
+         8.2      Use of Collateral. So long as no Event of Default shall have
+occurred and be continuing, and subject to the various provisions of this
+Agreement and the other Loan Documents, the Borrower may use the Collateral in
+any lawful manner except as otherwise prohibited hereunder or thereunder.
+
+         8.3      Credit Parties to Hold in Trust. Upon the occurrence and
+during the continuance of an Event of Default, the Borrower will, upon receipt
+by it of any revenue, income, profits or other sums in which a security interest
+is granted hereunder, payable pursuant to any agreement or otherwise, or of any
+check, draft, note, trade acceptance or other instrument evidencing an
+obligation to pay any such sum, hold the sum or instrument in trust for the
+Lender, segregate such sum or instrument from their own assets and forthwith,
+without any notice, demand or other action whatsoever (all notices, demands, or
+other actions on the part of the Lender being expressly waived), endorse,
+transfer and deliver any such sums or instruments or both, to the Lender to be
+applied to the repayment of the Loan in accordance with the provisions of this
+Agreement.
+
+         8.4      Collections, etc. Upon the occurrence and during the
+continuance of an Event of Default, the Lender may, in its sole discretion, sue
+for, collect or receive any money or property at any time payable or receivable
+on account of or in exchange for, or make any commercially reasonable compromise
+or settlement deemed desirable with respect to, any of the Collateral, but shall
+be under no obligation so to do, or the Lender may extend the time of payment,
+arrange for payment in installments, or otherwise modify the terms of, or
+release, any of the Collateral, without thereby incurring responsibility to, or
+discharging or otherwise affecting any liability of the Borrower. The Lender
+will not be required to take any steps to preserve any rights against prior
+parties to the Collateral. If the Borrower fails to make any payment or take any
+action required hereunder, the Lender may make such payments and take all such
+actions as the Lender reasonably deems necessary to protect the Lender's
+security interests in the Collateral and/or the value thereof, and the Lender is
+hereby authorized (without limiting the general nature of the authority
+hereinabove conferred) to pay, purchase, contest and/or compromise any Liens
+that in the judgment of the Lender appear to be equal to, prior to or superior
+to the security interests of the Lender in the Collateral (other than those
+permitted hereunder) and any Liens not expressly permitted by this Agreement.
+
+         8.5      Possession, Sale of Collateral, etc. Upon the occurrence and
+during the continuance of an Event of Default, the Lender may enter upon the
+premises of the Borrower or wherever the Collateral may be, and take possession
+of the Collateral, and may demand and receive such possession from any Person
+who has possession thereof, and the Lender may take such measures as it deems
+necessary or proper for the care or protection thereof, including the right to
+remove all or any portion of the Collateral, and with or without taking such
+possession may sell or cause to be sold, whenever the Lender shall decide, in
+one or more sales or parcels, at such prices as the Lender may deem appropriate,
+and for cash or on credit or for future delivery, without assumption of any
+credit risk, all or any portion of the Collateral, at any broker's board or at
+public or private sale, without demand of performance but within 10 days'
+written notice to the Borrower of the time and place of any such public sale or
+sales (which notice the Borrower
+
+                                       23
+<PAGE>
+hereby agrees is reasonable) and with such other notices as may be required by
+applicable law and cannot be waived, and the Lender shall have no liability
+should the proceeds resulting from a private sale be less than the proceeds
+realizable from a public sale, and the Lender or any other Person may be the
+purchaser of all or any portion of the Collateral so sold and thereafter hold
+the same absolutely, free (to the fullest extent permitted by applicable law)
+from any claim or right of whatever kind, including any equity of redemption, of
+the Borrower, any such demand, notice, claim, right or equity being hereby
+expressly waived and released by the Borrower. At any sale or sales made
+pursuant to this Section 8, the Lender may bid for or purchase, free (to the
+fullest extent permitted by applicable law) from any claim or right of whatever
+kind, including any equity of redemption, without demand therefore or notice to
+the Borrower, any such demand, notice, claim, right or equity being hereby
+expressly waived and released, any part of or all of the Collateral offered for
+sale, and may make any payment on account thereof by using any claim for moneys
+then due and payable to the Lender by the Borrower hereunder as a credit against
+the purchase price. The Lender shall in any such sale make no representations or
+warranties with respect to the Collateral or any part thereof, and the Lender
+shall not be chargeable with any of the obligations or liabilities of the
+Borrower. The Borrower hereby agrees (i) that it will indemnify and hold the
+Lender harmless from and against any and all claims with respect to the
+Collateral asserted before the taking of actual possession or control of the
+relevant Collateral by the Lender pursuant to this Section 8, or arising out of
+any act of, or omission to act on the part of, any Person prior to such taking
+of actual possession or control by the Lender (whether asserted before or after
+such taking of possession or control), or arising out of any act on the part of
+the Borrower or its Affiliates or agents before or after the commencement of
+such actual possession or control by the Lender, but excluding therefrom all
+claims with respect to the Collateral resulting from the gross negligence or
+willful misconduct of the Lender; and (ii) the Lender shall not have liability
+or obligation to the Borrower arising out of any such claim except for acts of
+gross negligence or willful misconduct of the Lender. Subject only to the lawful
+rights of third parties, any Person that has possession of any of the Collateral
+is hereby constituted and appointed by the Borrower as pledgeholder for the
+Lender and, upon the occurrence of an Event of Default, each such pledgeholder
+is hereby authorized (to the fullest extent permitted by applicable law) to sell
+all or any portion of the Collateral upon the order and direction of the Lender,
+and the Borrower hereby waives any and all claims, for damages or otherwise, for
+any action taken by such pledgeholder in accordance with the terms of the UCC
+not otherwise waived hereunder. In any action hereunder, the Lender shall be
+entitled, if permitted by applicable law, to the appointment of a receiver
+without notice, to take possession of all or any portion of the Collateral and
+to exercise such powers as the court shall confer upon the receiver.
+Notwithstanding the foregoing, upon the occurrence of an Event of Default, and
+during the continuation of such Event of Default, the Lender shall be entitled
+to apply, without prior notice to the Borrower, any cash or cash items
+constituting Collateral in the possession of the Lender to payment of the
+Secured Obligations.
+
+         8.6      Application of Proceeds on Default. Upon the occurrence and
+during the continuance of an Event of Default, the balances in any account of
+the Borrower which constitutes part of the Collateral, all other income on the
+Collateral, and all proceeds from any sale of the Collateral pursuant hereto
+shall be applied first toward payment of the costs and expenses paid or incurred
+by the Lender in enforcing this Agreement, in realizing on or protecting any
+Collateral and in enforcing or collecting any Secured Obligations, including,
+without limitation, court costs and the attorney's fees and expenses incurred by
+the Lender, then
+
+                                       24
+<PAGE>
+to satisfy or provide cash Collateral for all obligations relating to Secured
+Obligations, and then the indefeasible payment in full of the Secured
+Obligations in accordance with this Agreement. Any amounts remaining after such
+indefeasible payment in full shall be remitted to the Borrower or as a court of
+competent jurisdiction may otherwise direct.
+
+         8.7      Power of Attorney. Upon the occurrence and during the
+continuance of an Event of Default which is not waived in writing by the Lender,
+(a) the Borrower does hereby irrevocably make, constitute and appoint the Lender
+or any of its officers or designees the Borrower's true and lawful
+attorney-in-fact with full power in the name of the Lender or such other Person
+to receive, open and dispose of all mail addressed to the Borrower, and to
+endorse any notes, checks, drafts, money orders or other evidences of payment
+relating to the Collateral that may come into the possession of the Lender with
+full power and right to cause the mail of such Persons to be transferred to the
+Lender's own offices or otherwise, and to do any and all other acts necessary or
+proper to carry out the intent of this Agreement and the grant of the security
+interests hereunder and under the Loan Documents, and the Borrower hereby
+ratifies and confirms all that the Lender or its substitutes shall properly do
+by virtue hereof; (b) the Borrower does hereby further irrevocably make,
+constitute and appoint the Lender or any of its officers or designees its true
+and lawful attorney-in-fact in the name of the Lender or the Borrower (i) to
+enforce all of the Borrower's rights under and pursuant to all agreements with
+respect to the Collateral, all for the sole benefit of the Lender and to enter
+into such other agreements (as may be lawful and without breach of contract) as
+may be necessary, desirable or appropriate in the judgment of the Lender to
+complete the production, distribution or exploitation of any Collateral, (ii) to
+enter into and perform such agreements as may be necessary, desirable or
+appropriate in the judgment of the Lender in order to carry out the terms,
+covenants and conditions of the Loan Documents that are required to be observed
+or performed by the Borrower, (iii) to execute such other and further mortgages,
+pledges and assignments of the Collateral, and related instruments or
+agreements, as the Lender may reasonably require for the purpose of perfecting,
+protecting, maintaining or enforcing the security interests granted to the
+Lender hereunder, and under the other Loan Documents, and (iv) to do any and all
+other things necessary, desirable or appropriate in the judgment of the Lender
+to carry out the intention of this Agreement and the grant of the security
+interests hereunder and under the other Loan Documents. The Borrower hereby
+ratifies and confirms in advance all that the Lender as such attorney-in-fact or
+its substitutes shall properly do by virtue of this power of attorney.
+
+         8.8      Termination and Release. The security interests granted under
+this Agreement shall terminate when all the Secured Obligations have been
+indefeasibly paid in full and performed and the commitments pursuant to this
+Agreement shall have terminated. Upon request by the Borrower (and at the sole
+expense of the Borrower) after such termination, the Lender will take all
+reasonable action and do all things reasonably necessary, including executing
+UCC termination statements, termination letters to account debtors and copyright
+and trademark releases, to terminate the security interest granted to it
+hereunder.
+
+         8.9      Remedies Not Exclusive. The remedies conferred upon or
+reserved to the Lender in this Section 8 are intended to be in addition to, and
+not in limitation of, any other remedy or remedies available to the Lender.
+Without limiting the generality of the foregoing, the Lender shall have all
+rights and remedies of a secured creditor under Article 9 of the UCC and other
+applicable law.
+
+                                       25
+<PAGE>
+                            SECTION 9. MISCELLANEOUS
+
+         9.1      Promotional Materials. The Borrower agrees to provide
+camera-ready artwork of its typestyles and logos for use in promotional material
+by the Lender, which use shall be subject to the Borrower's prior approval, not
+to be unreasonably withheld or delayed.
+
+         9.2      Indemnification. The Borrower agrees to indemnify, defend and
+hold harmless the Lender and each of its successors, assigns, heirs,
+Subsidiaries, Affiliates and all of the officers, directors, employees,
+partners, members, representatives, advisors and agents (including, without
+limitation, attorneys and accountants) of each of the aforementioned Persons,
+and each of them, from and against any and all losses, claims, damages,
+liabilities, expenses, demands, causes of action, suits, debts, obligations,
+rights, promises, acts, agreements and damages of any kind or nature whatsoever,
+whether at law or in equity, whether known or unknown, foreseen or unforeseen,
+heretofore or hereafter arising out of, relating to, connected with or
+incidental to the failure of any representation or warranty made by the Borrower
+in this Agreement, the other Loan Documents or in any other documents or
+agreements contemplated hereby or thereby or the failure of the Borrower to
+comply with the covenants, agreements or other obligations contained in this
+Agreement or the other Loan Documents (but excluding (i) any such losses,
+claims, damages, liabilities, expenses, demands, causes of action, suits, debts,
+obligations, rights, promises, acts, agreements and damages of the Lender to the
+extent incurred solely by reason of the gross negligence or willful misconduct
+of the Lender or (ii) litigation solely between the Borrower, on the one hand,
+and the Lender, on the other hand, in connection with this Agreement or the
+other Loan Documents or relating to the transactions contemplated hereby or
+thereby if, after final non-appealable judgment, the Lender is not the
+prevailing party in such litigation). The agreements in this Section 9.2 shall
+survive the execution and delivery of this Agreement and the other Loan
+Documents and the consummation of the transactions contemplated hereby or
+thereby.
+
+         9.3      Entire Agreement; Amendments. This Agreement and the other
+Loan Documents constitute the entire agreement between the Lender and the
+Borrower pertaining to the subject matter contained herein and therein. Neither
+this Agreement nor any other Loan Document, nor any terms hereof or thereof, may
+be amended, supplemented or modified, nor may the obligations of the parties
+hereto or thereto be waived, except pursuant to a writing signed by both the
+Lender and the Borrower.
+
+         9.4      Waivers. The Lender shall not be deemed, by any act or
+omission, to have waived any of its rights or remedies hereunder unless such
+waiver is in writing and signed by the Lender and then only to the extent
+specifically set forth in such writing. A waiver with reference to one event
+shall not be construed as continuing or as a bar to or waiver of any right or
+remedy as to a subsequent event. No delay or omission of the Lender to exercise
+any right, whether before or after a default hereunder, shall impair any such
+right or shall be construed to be a waiver of any right or default, and the
+acceptance at any time by the Lender of any past-due amount shall not be deemed
+to be a waiver of the right to require prompt payment when due of any other
+amounts then or thereafter due and payable.
+
+         9.5      Notices. All notices, requests and demands to or upon the
+respective parties hereto to be effective shall be in writing (including by
+telecopy), and, unless otherwise expressly
+
+                                       26
+<PAGE>
+provided herein, shall be deemed to have been duly given or made when delivered
+by hand, or three days after being deposited in the mail, postage prepaid, or,
+in the case of a telecopy notice, when received (provided an original copy of
+such notice is mailed, postage pre-paid within the next business day after such
+notice is sent by telecopy), or, in the case of delivery by a nationally
+recognized overnight courier, when received, addressed as follows, or to such
+other address as may be hereafter notified by the respective parties hereto:
+
+         The Borrower:         Computer Motion, Inc.
+                               130-B Cremona Drive
+                               Santa Barbara, California  93117
+                               Attn: Robert Duggan, Chief Executive Officer
+                               Fax: (805) 968-4920
+
+         with a copy to:       Stradling, Yocca, Carlson & Rauth
+                               302 Olive Street
+                               Santa Barbara, California  93101
+                               Attn: David Lafitte, Esq.
+                               Fax: (805) 564-1044
+
+         The Lender:           Agility Capital, LLC
+                               226 East Canon Perdido, Suite F
+                               Santa Barbara, California  93101
+                               Attn: Robert L. Skinner, Esq. and Jeffrey Carmody
+                               Fax: (805) 568-0427
+
+         with a copy to:       Kaye Scholer LLP
+                               1999 Avenue of the Stars, Suite 1700
+                               Los Angeles, California  90067
+                               Attn: Russ A. Cashdan, Esq.
+                               Fax: (310) 788-1200
+
+         9.6      Successors and Assigns. The Borrower may not assign its rights
+or obligations under this Agreement or the Note without the written consent of
+the Lender. This Agreement shall be binding upon and inure to the benefit of the
+Borrower and the Lender and their respective successors and permitted assigns.
+
+         9.7      Interest Deficit. If the provisions of this Agreement or the
+Note would at any time require payment by the Borrower to the Lender of any
+amount of interest in excess of the maximum amount then permitted by applicable
+law, the interest payments to the Lender shall be reduced but only to the extent
+necessary so that the Lender shall not receive interest in excess of such
+maximum amount. If, as a result of the foregoing, the Lender shall receive
+interest payments under the Note in an amount less than the amount otherwise
+provided hereunder, such deficit (hereinafter called the "Interest Deficit")
+will, to the fullest extent permitted by applicable law, cumulate and will be
+carried forward (without interest) until the payment in full of the Note or such
+earlier time as it may be paid. Interest otherwise payable to the Lender for any
+subsequent period shall be increased by the maximum amount of the Interest
+Deficit that may be so added without causing the Lender to receive interest in
+excess of the maximum amount then
+
+                                       27
+<PAGE>
+permitted by the law applicable thereto. The amount of any Interest Deficit
+shall be treated as a prepayment penalty and shall, to the fullest extent
+permitted by applicable law, be paid in full at the time of any prepayment by
+the Borrower to the Lender. The amount of any Interest Deficit at the time of
+any complete payment of the Loan (if any) (other than an optional prepayment
+thereof) shall, except to the full extent then permitted to be paid under
+applicable law, be canceled and not paid.
+
+         9.8      Confidentiality. In handling any confidential information of
+the Borrower, the Lender shall exercise the same degree of care that it
+exercises with respect to its own proprietary information of the same types to
+maintain the confidentiality of any non-public information thereby received or
+received pursuant to this Agreement, except that disclosure of such information
+may be made (i) to the Subsidiaries or Affiliates of the Lender in connection
+with their present or prospective business relations with the Borrower, (ii) to
+prospective transferees or purchasers of any interest in the Loan, provided that
+they have entered into a comparable confidentiality agreement in favor of the
+Borrower and have delivered a copy to the Borrower, (iii) under any Requirement
+of Law, (iv) as may be required in connection with the examination, audit or
+similar investigation of the Lender, and (v) as the Lender may deem appropriate
+in connection with the exercise of any remedies hereunder. Confidential
+information hereunder shall not include information that either (a) is in the
+public domain or in the knowledge or possession of the Lender when disclosed to
+the Lender by the Borrower, or becomes part of the public domain after
+disclosure to the Lender through no fault of the Lender; or (b) is disclosed to
+the Lender by a third party, provided the Lender does not have actual knowledge
+that such third party is prohibited from disclosing such information.
+
+         9.9      Payment of Expenses. The Borrower agrees to pay or reimburse
+the Lender for all of its out-of-pocket costs and expenses incurred in
+connection with its due diligence with respect to the Loan, the preparation,
+execution, delivery and performance of this Agreement and the other Loan
+Documents, the consummation of the transactions contemplated hereby and thereby
+and the enforcement of its rights hereunder or thereunder, including, without
+limitation, the fees and disbursements of Kaye Scholer LLP.
+
+         9.10     Captions. The captions of the Sections of this Agreement have
+been inserted for convenience only and shall have no substantive effect.
+
+         9.11     Counterparts. This Agreement may be executed in any number of
+counterparts (including by telecopy), each of which when so executed shall be
+deemed to be an original and all of which counterparts together shall constitute
+one and the same instrument. A set of the copies of this Agreement signed by all
+the parties shall be delivered to the Borrower and the Lender.
+
+         9.12     Severability; Reformation. In case any provision of this
+Agreement shall be held to be invalid, illegal or unenforceable, it shall, to
+the extent possible, be modified in such manner as to be valid, legal and
+enforceable but so as to most nearly retain the intent of the parties, and if
+such modification is not possible, such provision shall be severed from this
+Agreement, and in either case the validity, legality and enforceability of the
+remaining provisions of this Agreement and the future application of such
+provision shall not in any way be affected or impaired thereby.
+
+                                       28
+<PAGE>
+         9.13     WAIVER OF JURY TRIAL. TO THE EXTENT NOT PROHIBITED BY
+APPLICABLE LAW WHICH CANNOT BE WAIVED, EACH OF THE BORROWER AND THE LENDER
+HEREBY WAIVES, AND COVENANTS THAT IT WILL NOT ASSERT (WHETHER AS PLAINTIFF,
+DEFENDANT OR OTHERWISE), ANY RIGHT TO TRIAL BY JURY IN ANY FORUM IN RESPECT OF
+ANY ISSUE, CLAIM, DEMAND, ACTION, OR CAUSE OF ACTION ARISING OUT OF OR BASED
+UPON THIS AGREEMENT, THE SUBJECT MATTER HEREOF, ANY OTHER LOAN DOCUMENT OR THE
+SUBJECT MATTER THEREOF, IN EACH CASE WHETHER NOW EXISTING OR HEREAFTER ARISING
+AND WHETHER IN CONTRACT OR TORT OR OTHERWISE. EACH OF THE BORROWER AND THE
+LENDER ACKNOWLEDGES THAT IT HAS BEEN INFORMED BY THE OTHER PARTY HERETO THAT THE
+PROVISIONS OF THIS SECTION CONSTITUTE A MATERIAL INDUCEMENT UPON WHICH SUCH
+OTHER PARTY HAS RELIED, IS RELYING AND WILL RELY IN ENTERING INTO THIS AGREEMENT
+AND THE OTHER LOAN DOCUMENTS. ANY PARTY MAY FILE AN ORIGINAL COUNTERPART OR A
+COPY OF THIS SECTION 9.13 WITH ANY COURT AS WRITTEN EVIDENCE OF THE CONSENT OF
+THE COMPANY AND THE LENDER TO THE WAIVER OF ITS RIGHTS TO TRIAL BY JURY.
+
+         9.14     GOVERNING LAW. THIS AGREEMENT AND THE OTHER LOAN DOCUMENTS AND
+THE RIGHTS AND OBLIGATIONS OF THE PARTIES UNDER THIS AGREEMENT AND THE OTHER
+LOAN DOCUMENTS SHALL BE GOVERNED BY, AND CONSTRUED AND INTERPRETED IN ACCORDANCE
+WITH, THE INTERNAL LAWS OF THE STATE OF CALIFORNIA WITHOUT GIVING EFFECT TO ANY
+CONFLICT OF LAW PROVISIONS.
+
+                  REMAINDER OF PAGE INTENTIONALLY LEFT BLANK
+
+                                       29
+<PAGE>
+         IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be
+duly executed and delivered on their behalf as of the date first above written.
+
+                                          COMPUTER MOTION, INC.
+
+                                          By:
+                                             -----------------------------------
+                                             Name:    Robert W. Duggan
+                                             Title:   Chief Executive Officer
+
+                                          AGILITY CAPITAL, LLC
+
+                                          By:
+                                             -----------------------------------
+                                             Name:    Robert L. Skinner
+                                             Title:   Chief Executive Officer
+
+                                       30
+<PAGE>
+                                  SCHEDULE 4.1
+
+                             STATE OF INCORPORATION
+
+                                  See Attached.
+<PAGE>
+                                  SCHEDULE 4.4
+
+                                  SUBSIDIARIES
+
+                                  See Attached.
+<PAGE>
+                                  SCHEDULE 4.5
+
+                                 CAPITALIZATION
+
+                                  See Attached.
+<PAGE>
+                                 SCHEDULE 4.5(a)
+
+                         RIGHTS TO ACQUIRE CAPITAL STOCK
+
+                                  See Attached.
+<PAGE>
+                                  SCHEDULE 4.10
+
+                              INTELLECTUAL PROPERTY
+
+                                  See Attached.
+<PAGE>
+                                  SCHEDULE 4.15
+
+                                   LITIGATION
+
+                                  See Attached.
+<PAGE>
+                                  SCHEDULE 4.16
+
+                              FINANCIAL STATEMENTS
+
+                                  See Attached.
+<PAGE>
+                                 SCHEDULE 7.1(b)
+
+                           LIMITATION ON INDEBTEDNESS
+
+                                  See Attached.
+<PAGE>
+                                 SCHEDULE 7.2(f)
+
+                               LIMITATION ON LIENS
+
+                                  See Attached.
+<PAGE>
+                                  SCHEDULE 7.8
+
+                                  BANK ACCOUNTS
+
+                                  See Attached.
+
+                                        1
+<PAGE>
+                                    EXHIBIT A
+                             COLLATERAL OF BORROWER
+
+The Collateral shall consist of all right, title and interest of Borrower in and
+to the following, in each case whether now owned or hereafter acquired by
+Borrower:
+
+         (a)      All present and future accounts, general intangibles and other
+         rights of Borrower to the payment of money no matter how evidenced, all
+         chattel paper, instruments and other writings evidencing any such
+         right, and all goods repossessed or returned in connection therewith;
+
+         (b)      All inventory of Borrower, now owned or hereafter acquired,
+         and all raw materials, work in process, materials used or consumed in
+         Borrower's business and finished goods, together with all additions and
+         accessions thereto and replacements therefor, and products thereof;
+
+         (c)      All equipment of Borrower, now owned or hereafter acquired,
+         including, without limitation, all vehicles (including motor vehicles
+         and trailers) machinery, tools, dies, blueprints, catalogues, computer
+         hardware and software, furniture, furnishings and fixtures and all
+         attachments, accessories, replacements, substitutions, additions, and
+         improvements to any of the foregoing;
+
+         (d)      All documents, letters of credit and rights to proceeds of
+         letters of credit, instruments and investment property of Borrower, now
+         owned or hereafter acquired, and all new, substituted and additional
+         documents, securities and instruments issued with respect thereto, all
+         voting or other rights now or hereafter exercisable and all cash and
+         noncash dividends, interest and other property now or hereafter
+         receivable with respect to any of the foregoing, whether such
+         certificates, documents and instruments are in the possession of
+         Borrower or a financial intermediary on behalf of Borrower;
+
+         (e)      All patents and patent applications of Borrower and all rights
+         corresponding thereto throughout the world, and all unpatented or
+         unpatentable developments and inventions and all license fees,
+         royalties and other similar items received in connection therewith;
+
+         (f)      All trademarks, service marks and logos of Borrower, and all
+         United States, state and/or foreign applications for registration
+         thereof, all trade names, trade styles, designs, and the like, all
+         elements of package or trade dress of goods, the goodwill of Borrower's
+         business connected with the use of, and symbolized by any of the above,
+         and all property of Borrower necessary to produce any products sold
+         under any of the above;
+
+         (g)      All copyrights and copyrighted works in which Borrower has any
+         right, title, or interest throughout the world, all derivative works
+         thereof, all copyright registrations and all applications therefor, and
+         United States and/or foreign applications for registration and
+         registrations thereof, and all accounts, accounts receivable and
+         contracts receivable generated by such copyrights;
+
+                                      A-1
+<PAGE>
+         (h)      All computer software programs developed or to be developed by
+         Borrower or in which Borrower asserts or could assert a proprietary
+         interest; all personal property, including but not limited to source
+         codes, object codes or similar information, which is necessary to the
+         practical utilization of such programs; and all tangible property of
+         Borrower embodying or incorporating any such programs;
+
+         (i)      All trade secrets, proprietary information, customer lists,
+         instructional materials, working drawings, manufacturing techniques,
+         process technology documentation, and product formulations of Borrower
+         and all property and assets of Borrower, whether tangible or
+         intangible, which are or a person may deem to be intellectual property
+         of Borrower;
+
+         (j)      All rights under any agreement granting any right to use any
+         patent, trademark, copyright, computer software program or any other
+         property or right to property specified in paragraphs (e), (f), (g),
+         (h) or (i) above, whether Borrower is the grantor or the grantee under
+         such agreement;
+
+         (k)      All rights to damages or profits due or accrued arising out of
+         past, present or future infringement of the Collateral or injury to
+         Borrower's good will connected with the use of the Collateral and the
+         right to sue therefor;
+
+         (l)      All renewals, modifications, amendments, re-issues, divisions,
+         continuations in whole or part, and extensions of any Collateral;
+
+         (m)      All right, title and interest of Borrower in, to and under
+         each contract entered into or to be entered into by Borrower, together
+         with any purchase orders or other supplements thereto, as any such
+         contract may be modified, amended or restated from time to time, and
+         all right, title and interest of Borrower in and to all moneys and
+         claims for moneys due or to become due to Borrower under or arising out
+         of any such contract;
+
+         (n)      All now existing and hereafter acquired books and records
+         relating to the foregoing Collateral and all equipment containing such
+         books and records; and
+
+         (o)      All Proceeds of the foregoing Collateral; and
+
+         (p)      Any and all claims, rights and interests in any of the
+         foregoing of the above and all substitutions for, additions and
+         accessions to and proceeds thereof.
+
+                                      A-2
+<PAGE>
+                                    EXHIBIT B
+                FORM OF INTELLECTUAL PROPERTY SECURITY AGREEMENT
+
+                                      B-1
+<PAGE>
+                                    EXHIBIT C
+                                  FORM OF NOTE
+
+THIS NOTE HAS NOT BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933, AS AMENDED,
+OR WITH THE SECURITIES COMMISSION OF ANY APPLICABLE STATE UNDER SUCH STATE'S
+SECURITIES OR BLUE SKY LAWS, AND MAY NOT BE TRANSFERRED OR RESOLD EXCEPT AS
+PERMITTED UNDER SUCH SECURITIES ACT AND THE APPLICABLE STATE SECURITIES OR BLUE
+SKY LAWS, PURSUANT TO REGISTRATION OR AN EXEMPTION FROM THE REGISTRATION
+REQUIREMENTS OF THOSE LAWS.
+
+$2,300,000                                                     February 13, 2003
+
+                  Computer Motion, Inc., a Delaware corporation ("Borrower"),
+         for value received, hereby promises to pay to the order of Agility
+         Capital, LLC (the "Lender"), the aggregate principal amount of Two
+         Million Three Hundred Thousand Dollars ($2,300,000), or the aggregate
+         outstanding principal amount of all Loan made by the Lender to Borrower
+         pursuant to the Loan and Security Agreement (as defined below),
+         whichever is less (the "Principal Amount"), together with accrued and
+         unpaid interest on the Principal Amount, on Maturity Date, in such coin
+         or currency of the United States of America as at the time of payment
+         shall be legal tender therein for the payment of public and private
+         debts. Capitalized terms used herein and not otherwise defined shall
+         have the meanings given to such terms in that certain Loan and Security
+         Agreement of even date herewith, between Borrower and the Lender (the
+         "Loan Agreement").
+
+                  This Note shall accrue interest at a fixed rate per annum of
+         nine percent (9%) (the "Interest Rate") with respect to the outstanding
+         unpaid Principal Amount plus any accrued but unpaid interest thereon
+         and on any other Secured Obligations compounding annually (the
+         "Interest") until and including the date the Principal Amount, such
+         interest and the other Secured Obligations are paid in full. Such
+         Interest shall accrue and be payable monthly in arrears, with all
+         accrued and unpaid interest due and payable, together with all
+         outstanding Principal Amount, on the Maturity Date (or such earlier
+         date as required under the Loan Agreement), in each case with interest
+         to accrue and be due and payable through and including the applicable
+         payment date. Interest shall be calculated on the basis of a 360-day
+         year of twelve 30-day months, provided, however, that per diem interest
+         shall be calculated on the basis of the actual number of days elapsed
+         over a year of 365 days. The Secured Obligations under this Note are
+         secured by the Collateral of Borrower pursuant to the Loan and Security
+         Agreement. Without duplication of any interest payable hereunder,
+         Borrower hereby unconditionally promises to pay to the Lender interest
+         on any principal, interest and any other Secured Obligations payable by
+         Borrower under this Loan that shall not be paid in full when due
+         (whether at the Maturity Date, by acceleration or otherwise), for the
+         period from and including the due date of such payment to and including
+         the date the same is paid in full, at a rate per annum equal to the
+         Interest Rate plus 600 basis points, which interest shall be payable
+         from time to time on demand of the Lender.
+
+                                      C-1
+<PAGE>
+                  Borrower hereby waives presentment, demand, protest, notice of
+         dishonor, diligence and all other notices, any release or discharge
+         arising from any extension of time, discharge of a prior party, release
+         of any or all of any security given from time to time for this Note, or
+         other cause of release or discharge other than actual payment in full
+         hereof.
+
+                  The Lender may, but is not obligated to, enter the amount of
+         each Loan and the amount of each payment or prepayment of principal or
+         interest thereon on the appropriate spaces on the last page of this
+         Note; provided, however, that the failure of the Lender to set forth
+         such Loan, principal payments, interest payments or other information
+         shall not in any manner affect the obligations of Borrower to repay
+         such Loan or any Secured Obligations.
+
+                  The Lender shall not be deemed, by any act or omission, to
+         have waived any of its rights or remedies hereunder unless such waiver
+         is in writing and signed by the Lender and then only to the extent
+         specifically set forth in such writing. A waiver with reference to one
+         event shall not be construed as continuing or as a bar to or waiver of
+         any right or remedy as to a subsequent event. No delay or omission of
+         the Lender to exercise any right, whether before or after a default
+         hereunder, shall impair any such right or shall be construed to be a
+         waiver of any right or default, and the acceptance at any time by the
+         Lender of any past-due amount shall not be deemed to be a waiver of the
+         right to require prompt payment when due of any other amounts then or
+         thereafter due and payable.
+
+                  Time is of the essence hereof. Upon any default hereunder, the
+         Lender may exercise all rights and remedies provided for herein and by
+         law or equity, including, without limitation, the right to immediate
+         payment in full of this Note.
+
+                  The remedies of the Lender as provided herein or in law or in
+         equity, or any one or more of them, shall be cumulative and concurrent,
+         and may be pursued singularly, successively or together at Lender's
+         sole discretion, and may be exercised as often as occasion therefor
+         shall occur.
+
+                  It is expressly agreed that if this Note is referred to an
+         attorney or if suit is brought to collect or interpret this Note or any
+         part hereof or to enforce or protect any rights conferred upon the
+         Lender by this Note or any other Document, then Borrower promises and
+         agrees to pay all costs, including, without limitation, attorneys'
+         fees, incurred by the Lender.
+
+                  This Note and the rights and obligations of the parties
+         hereunder shall be governed by, and construed and interpreted in
+         accordance with, the internal laws of the State of California without
+         giving effect to any conflict of law provisions.
+
+                  This is the Note referred to in the Loan and Security
+         Agreement and is subject to and entitled to the benefits of said
+         agreement, including, without limitation, acceleration and the right in
+         certain circumstances to require that this Note be prepaid prior to the
+         Maturity Date.
+
+                                      C-2
+<PAGE>
+         IN WITNESS WHEREOF, Borrower has duly executed and delivered this Note
+as of the date first written above.
+
+                                    COMPUTER MOTION, INC.
+
+                                    By:___________________________________
+                                       Name:
+                                       Title:
+
+                                      C-3
+<PAGE>
+                                LAST PAGE OF NOTE
+
+                                    Payments
+<TABLE>
+<CAPTION>
+         Amount                                  Unpaid Principal      Name of Person
+Date    of Loan     Principal     Interest       Balance of Note       Making Notation
+----    -------     ---------     --------       ---------------       ---------------
+<S>     <C>         <C>           <C>            <C>                   <C>
+</TABLE>
+
+                                      C-4
+<PAGE>
+                                    EXHIBIT D
+                                 FORM OF WARRANT
+
+                                      D-1
+
+</TEXT>
+</DOCUMENT>

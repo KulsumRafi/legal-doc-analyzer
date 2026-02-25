@@ -1,0 +1,1107 @@
+<DOCUMENT>
+<TYPE>EX-10.29
+<SEQUENCE>8
+<FILENAME>dex1029.txt
+<DESCRIPTION>AMENDMENT TO MASTER PROFESSIONAL SERVICES AGREEMENT DATED 05/20/2002
+<TEXT>
+<PAGE>
+                                                                   EXHIBIT 10.29
+
+[LOGO OF INVISIBLE IT]
+
+                                    AMENDMENT
+         COMPREHENSIVE IT INFRASTRUCTURE SUPPORT SERVICES IN COSTA RICA
+
+This Amendment is made pursuant to the Master Professional Services Agreement,
+dated May 20, 2002, by and between Invisible IT Inc. ("INVISIBLE IT") and Align
+Technology, Inc. ("ALIGN").
+
+A.      DESCRIPTION OF SERVICES AND SPECIFICATIONS
+
+        i.      INVISIBLE IT shall provide support for computer and network
+            hardware, software, operation and maintenance and related
+            operational services at ALIGN's Costa Rica facility. There will
+            intensive initial effort for three months to bring the Costa Rica IT
+            operation to stability. This effort is documented in Attachment A,
+            "Invisible IT Action Plan to Operate IT for Align Costa Rica." At
+            the conclusion of the first 3 months, INVISIBLE IT will operate the
+            IT department in a "steady state" environment. Support shall be
+            provided as needed during normal business hours with critical
+            component support provided after hours 7 days per week, 24 hours per
+            day basis.
+
+        ii.     The primary purpose of support consists of the physical care and
+            maintenance of ALIGN's desktops, servers, disk arrays and network
+            equipment located within the Costa Rica facility and data center
+            operations including but not limited to disk data backups, firmware
+            and software upgrades, and other mutually agreed-upon operational
+            support activities. Physical care and maintenance shall include the
+            repair or replacement and scheduled upgrades (e.g. processors,
+            memory, disks, etc.) of hardware and/or other components furnished
+            by ALIGN.
+
+        iii.    This agreement covers the support and maintenance of the
+            following ALIGN Information Technology (IT) infrastructure
+            components.
+
+        .   Network
+                .   Internet Connectivity
+                .   LAN
+                .   WAN Connectivity
+        .   Web Infrastructure
+                .   Bandwidth
+                .   Operations
+        .   Desktop Support & Architecture
+                .   Standardization
+        .   Services
+                .   Email
+                .   File storage
+                .   Naming Services (DNS, ADS, etc.)
+                .   Backups
+                .   Imaging
+        .   Security
+                .   Desktop
+                .   Servers
+                .   Network (LAN, WAN & web)
+        .   Help desk
+                .   Triage & dispatch
+        .   Telephony
+                .   PBX & stations
+
+Amendment
+
+                                   Page 1 of 6
+
+<PAGE>
+
+
+[LOGO OF INVISIBLE IT]
+
+                .   Voice mail
+                .   Telco/circuits
+                .   Customer service queues - call center
+        .   MIS computers/infrastructure
+                .   HW & OS
+        .   Monitoring & Reports
+                .   Real-time metrics
+                .   Network
+                .   Server data
+                .   Failures & downtime
+        .   Status Reporting
+                .   INVISIBLE IT shall provide written reports to ALIGN weekly
+                    that summarize IT projects in both Costa Rica and Santa
+                    Clara.
+        .   INVISIBLE IT will develop a Managed Hardware Operation (MHO). MHO is
+            the proactive management of parts and components required for the
+            efficient operation of ALIGN's Costa Rica facility. INVISIBLE IT
+            will develop, maintain and manage an inventory list of recommended
+            spare parts and accessories to be kept on hand in the facility.
+            INVISIBLE IT will assist in the procurement of or act as a vendor
+            for the purchase of equipment as recommended and needed for the Data
+            Center operation.
+        .   Similar to the Managed Hardware Operation, on an ongoing basis
+            INVISIBLE IT will recommend to ALIGN improvements that will result
+            in enhanced reliability and productivity of the ALIGN facility and
+            IT infrastructure.
+
+        iv.     The IT Support service of hardware does not include:
+
+            (a)     Purchase of equipment of any nature. ALIGN is responsible
+                    for the cost related to purchase equipment and accessories
+                    under this support agreement.
+            (b)     Software maintenance will be provided by ALIGN.
+            (c)     Special projects except those that are mutually agreed and
+                    can be accomplished within the Level of Service stipulated
+                    below.
+            (d)     Major upgrade or plant retrofitting.
+            (e)     Facility moves.
+            (f)     Diagnosing and repairing application issues.
+            (g)     Support of software development or testing environments.
+            (h)     Hardware repairs - utilize hardware vendor maintenance
+                    agreements.
+            (i)     Support for cell phones.
+
+B.      LEVEL OF SERVICE.
+
+INVISIBLE IT will provide skills and experience in the following areas. Initial
+service to be provided will be equivalent to or exceed service levels and
+content of those provided by ALIGN internal IT services. INVISIBLE IT will
+manage the definition and migration to standard supported services in all the
+following areas:
+
+        1)  PC Desktop Admin (Includes standard Microsoft productivity
+            applications, specifically Office, Word, Excel, Visio & etc.)
+        2)  Peripherals (pda's, blackberry's, etc. as approved by ALIGN and
+            INVISIBLE IT)
+        3)  Printers and Print Servers
+        4)  Desktop Admin
+        5)  Remote User support (migration to standard configurations)
+        6)  LAN Admin
+        7)  WAN Admin
+
+Amendment
+
+                                   Page 2 of 6
+
+<PAGE>
+
+[LOGO OF INVISIBLE IT]
+
+        8)  Windows and Unix Server Admin
+        9)  Production Servers
+        10) Security (Desktop, Server, Network)
+        11) Asset and license management (migration)
+
+C.      RESPONSE TIME.
+
+INVISIBLE IT will provide best efforts to respond to emergency service requests
+from valid ALIGN members employees or alarms from hardware failures by having
+personnel on site at the ALIGN Costa Rica facility to begin repair within one
+(1) hour of request/alarm between the standard production hours of 7 AM and 7 PM
+daily and within no more than two (2) hours for requests/alarms received during
+other hours.
+
+D.      TERM.
+
+This Schedule, services and fees are to be in effect beginning November 11, 2002
+through February 10, 2003. Services and fees described herein are subject to
+quarterly review by both parties to determine if adjustments are appropriate and
+to amend this schedule if appropriate. Any such amendment shall be by mutual
+written consent only.
+
+E.      HIRING OF FORMER ALIGN EMPLOYEES.
+
+This Schedule modifies the mutual "no-hire" clause in the Agreement for those
+employees that became INVISIBLE IT employees as part of the outsourcing
+transition agreement. INVISIBLE IT grants ALIGN an option to rehire said
+employees without any liability to INVISIBLE IT in the event that the Agreement
+is terminated, for any reason.
+
+F.      PAYMENT AND DELIVERY.
+
+The services provided under this schedule are fixed fee to be remitted as
+follows:
+
+            (i)     INVISIBLE IT shall provide the services listed above for a
+                    fixed monthly fee of $100,000 for the first 3 months. Within
+                    60 days of executing this amendment, INVISIBLE IT and ALIGN
+                    will agree on an ongoing monthly fee to manage the ALIGN
+                    Costa Rica IT environment as specified above. INVISIBLE IT
+                    will utilize the first two months to validate what resources
+                    will be required to achieve a "steady state" IT environment
+                    in Costa Rica.
+            (ii)    The first month's payment of $100,000 to INVISIBLE IT is due
+                    upon signature date of the contract. ALIGN will remit to
+                    INVISIBLE IT monthly fees of $100,000 in advance of each
+                    subsequent month's service (i.e. December 11, 2002 and
+                    January 11, 2003).
+
+ALIGN agrees to reimburse INVISIBLE IT for all travel related expenses incurred
+by INVISIBLE IT employees when required to travel in support of providing the
+above services. Travel to/from Costa Rica and living expenses in Costa Rica by
+INVISIBLE IT staff during the initial 90 day period will be the responsibility
+of INVISIBLE IT. INVISIBLE IT must obtain written approval from ALIGN for any
+additional travel on ALIGN's behalf.
+
+ALIGN agrees to reimburse INVISIBLE IT for incidental expenses incurred in the
+normal course of business (e.g. obtaining replacement part at nearby electronics
+store, etc.), provided that ALIGN views the expenses as reasonable.
+
+Amendment
+
+                                   Page 3 of 6
+
+<PAGE>
+
+[LOGO OF INVISIBLE IT]
+
+G.      SERVICE GUARANTEE AND DISENGAGEMENT POLICY.
+
+INVISIBLE IT will adhere to all service levels agreed to by both parties. If
+ALIGN is dissatisfied with the service provided by INVISIBLE IT, the agreement
+may be terminated with 30 days written notice.
+
+During this time, INVISIBLE IT will provide uninterrupted service and guarantee
+a smooth transition of the IT Department back to ALIGN or another third party
+designate. INVISIBLE IT will provide ALIGN all relevant documentation and will
+assist in the recruitment of new staff if requested.
+
+IN WITNESS WHEREOF, this Agreement has been duly executed as of the day and year
+first written above.
+
+
+ALIGN TECHNOLOGY, INC.                      INVISIBLE IT, INC.
+
+
+/s/ Jon Fjeld                               /s/ Chris Moore
+------------------------------------        ------------------------------------
+By (Sign)                                   By (Sign)
+
+
+Jon Fjeld, Ph.D.                            Chris Moore
+Vice President of Technology                Chief Executive Officer
+
+   11/7/02                                     11/2/02
+------------------------------------        ------------------------------------
+Date                                        Date
+
+                                            EIN: 01-0670993
+
+Amendment
+
+                                  Page 4 of 6
+
+<PAGE>
+
+[LOGO OF INVISIBLE IT]
+
+                                  ATTACHMENT A
+                   INVISIBLE IT ACTION PLAN TO OPERATE IT FOR
+                                ALIGN COSTA RICA
+
+The following action plan outlines Invisible IT's approach to managing Align
+Technology's IT infrastructure in Costa Rica. Based on our initial assessment,
+we believe that the transition involves three phases lasting approximately 3
+months: Phase I should be completed in approximately 30 days from agreed upon
+start date; Phase II should be completed within approximately 60 days; Phase III
+should be completed in about 90 days. After we perform the on site assessment in
+Costa Rica, Invisible IT may determine that the timing will need to be adjusted.
+
+PHASE I:
+
+Place Expert IIT and other personnel to execute plan in Costa Rica
+        1.  Resolve internal network speeds
+        2.  Resolve case transfer speeds (install transfer servers)
+        3.  Phone System
+                a.  Install Call Manager
+                b.  Configure and install Cisco IP phones
+        4.  Implement ADS
+        5.  Evaluate existing staff
+        6.  Recruit local staff
+        7.  Stabilize critical systems
+        8.  Establish Costa Rica/Santa Clara IT management reporting
+
+PHASE II:
+
+        1.  Email - Migrate to Exchange 2000
+        2.  Back-ups
+                a.  Install, configure and implement
+                b.  High level of urgency (very complex)
+        3.  Implement Infonet WAN link for voice
+        4.  Rationalize LAN
+                a.  Software version
+                b.  Hardware configuration
+                c.  VLAN configuration
+                d.  QoS
+        5.  Implement monitoring
+        6.  Hire local staff
+        7.  Evaluate and make recommendation regarding storage requirements
+        8.  Evaluate cable and data center infrastructure
+
+PHASE III:
+
+        1.  Telecom/networking optimization
+                a.  Determine adequate number of PRI lines for growing office
+                b.  Assess current agreements with RACSA
+                c.  Packet shaper analysis - traffic prioritization
+
+Amendment
+
+                                   Page 5 of 6
+
+<PAGE>
+
+[LOGO OF INVISIBLE IT]
+
+        2.  Desktop level set
+                a.  Standardization for resilient desktop environment
+                b.  Establish standard for efficient means of installing and
+                    maintaining identical machines - install RIS
+        3.  Establish Help Desk for Costa Rica
+                a.  Bi-lingual required
+                b.  Implement trouble ticketing system
+        4.  Implement redundancy of video/data networking between CR and SC --
+            Infonet
+        5.  Establish Call Center functionality
+        6.  Complete hiring of local team
+                a.  Continued evaluation of existing staff
+        7.  Evaluate available equipment (computers, networking gear, etc.)
+                a.  Identify and procure spares
+        8.  Establish local remote access capabilities - VPN
+        9.  Identify satellite back-up options - moving case data
+        10. Record asset management information with help of Finance
+        11. Confirm agreements with vendors for maintenance, service, etc.
+            Document.
+                a.  HP/Compaq
+                b.  Microsoft
+                c.  Cisco
+                d.  Infonet
+                e.  RACSA
+                f.  Checkpoint firewall (Nokia appliance)
+                g.  Other - VARs, Storage, etc.
+        12. Procurement - Ensure efficiency; save money
+
+Amendment
+
+                                  Page 6 of 6
+
+<PAGE>
+
+[LOGO OF INVISIBLE IT]
+
+                                  SCHEDULE A-1
+                    BASIC IT INFRASTRUCTURE SUPPORT SERVICES
+
+        This Schedule is made pursuant to the Master Professional Services
+Agreement (the "Agreement"), dated 5/20/02, by and between Invisible IT Inc.
+("INVISIBLE IT") and Align Technology, Inc. ("ALIGN").
+
+A.      DESCRIPTION OF SERVICES AND SPECIFICATIONS
+
+        i.       INVISIBLE IT shall provide support for computer and network
+             hardware, software, operation and maintenance and related
+             operational services at ALIGN's 851 Martin Avenue campus facility.
+             Support shall be provided as needed during normal business hours
+             with critical component support via pager on a 7 days per week, 24
+             hours per day basis.
+
+        ii.      The primary purpose of support consists of the physical care
+             and  maintenance  of ALIGN's  desktops,  servers,  disk arrays and
+             network equipment located within the Martin Avenue campus and data
+             center operations  including but not limited to disk data backups,
+             firmware and software  upgrades,  and other  mutually  agreed-upon
+             operational  support  activities.  Physical  care and  maintenance
+             shall include the repair or  replacement  and  scheduled  upgrades
+             (e.g.  processors,  memory,  disks, etc.) of hardware and/or other
+             components furnished by ALIGN.
+
+        iii.    This agreement covers the support and maintenance of the
+             following ALIGN information technology (IT) infrastructure
+             components.
+
+        .    Network
+                .   Internet Connectivity
+                .   LAN (Santa Clara)
+                .   WAN Connectivity (up to routers in remote sites)
+        .    Web Infrastructure
+                .   Hosting (Web servers)
+                .   Bandwidth
+                .   Operations
+        .    Desktop Support & Architecture
+                .   Santa Clara (all)
+                .   World wide (if standard)
+        .    Services
+                .   Email
+                .   File storage
+                .   DNS
+                .   Backups (Santa Clara & remote)
+                .   Database
+                .   Imagining
+        .    Security
+                .   Desktop
+                .   Servers
+                .   Network (LAN, WAN & web)
+        .    Help desk
+                .   Triage & dispatch
+
+Master Services Agreement- Schedule A-1
+
+                                   Page 1 of 4
+
+<PAGE>
+
+[LOGO OF INVISIBLE IT]
+
+        .   Telephony
+                .   PBX & stations
+                .   Voice mail
+                .   Customer service queues
+                .   Telco/circuits
+                .   VoIP
+        .   Mfg & JDE computers/infrastructure
+                .   HW & OS
+                .   Worldwide (if standard)
+        .   Monitoring & Reports
+                .   Real-time metrics
+                .   Network
+                .   Server data
+                .   Failures & downtime
+                .   Application (minimal go, no-go monitors)
+
+INVISIBLE IT shall provide written reports to ALIGN that documents any and all
+equipment replaced and/or repaired by INVISIBLE IT.
+
+In addition, the IT Support team will develop a Managed Hardware Operation when
+resources permit. MHO is the proactive management of parts and components
+required for the efficient operation of ALIGN's Martin Avenue campus. INVISIBLE
+IT will develop, maintain and manage an inventory list of recommended spare
+parts and accessories to be kept on hand in the facility. INVISIBLE IT will
+assist in the procurement of or act as a vendor for the purchase of equipment as
+recommended and needed for the Data Center operation.
+
+Similar to the Managed Hardware Operation, through the use of excess resources,
+INVISIBLE IT will recommend to ALIGN improvements that will result in enhanced
+reliability and productivity of the ALIGN facility and IT infrastructure.
+
+        iv.     The IT Support service of hardware does not include:
+
+            (a)   Purchase of equipment of any nature. ALIGN is responsible for
+                  the cost related to purchase equipment and accessories under
+                  this support agreement.
+            (b)   Software maintenance will be provided by ALIGN.
+            (c)   Special projects except those that are mutually agreed and can
+                  be accomplished within the Level of Service stipulated below.
+            (d)   Major upgrade or plant retrofitting.
+
+B.      LEVEL OF SERVICE.
+
+INVISIBLE IT will provide a leveraged staff that will cover then following skill
+areas and experience levels. Initial service to be provided will be equivalent
+to or exceed service levels and content of those provided by ALIGN internal IT
+services. INVISIBLE IT will manage the definition and migration to standard
+supported services in all the following areas:
+
+        1)  Account Mgr
+        2)  PC Desktop Admin (Includes all standard productivity applications
+            e.g. Word, Excel, Visio & etc.
+        3)  Peripherals (pda's, blackberry's, cell phones, etc.)
+        4)  Printers and Print Servers
+        5)  Desktop Admin (Phone)
+        6)  Remote User support (migration to standard configurations)
+
+Master Services Agreement- Schedule A-1
+
+                                   Page 2 of 4
+
+<PAGE>
+
+[LOGO OF INVISIBLE IT]
+
+        7)  LAN Admin
+        8)  WAN Admin
+        9)  NT Server Admin (+Unix)
+        10) Production Unix Servers
+        11) Security (Desktop, Server, Network)
+        12) DBA
+        13) Asset and license management (migration)
+
+C.      RESPONSE TIME.
+
+INVISIBLE IT will respond to emergency service requests from valid Align
+Technology members employees or alarms from hardware failures by having
+personnel on site at the ALIGN Santa Clara, CA campus to begin repair within one
+(1) hour of request/alarm between the hours of 7 AM and 7 PM daily and within no
+more than two (2) hours for requests/alarms received during other hours.
+
+D.      TERM.
+
+This Schedule, services and fees are to be in effect beginning May, 2002,
+through May 31, 2003. Services and fees described herein are subject to
+quarterly review by both parties to determine if adjustments are appropriate and
+to amend this schedule if appropriate.
+
+E.      HIRING OF FORMER ALIGN EMPLOYEES.
+
+This Schedule modifies the mutual "no-hire" clause in the Agreement for those
+employees that became INVISIBLE IT employees as part of the outsourcing
+transition agreement. INVISIBLE IT grants ALIGN an option to rehire said
+employees without any liability to INVISIBLE IT in the event that the Agreement
+is terminated, for any reason.
+
+F.      PAYMENT AND DELIVERY.
+
+The services provided under this schedule are fixed fee to be remitted as
+follows:
+
+            (i)   INVISIBLE IT shall provide the services listed above for a
+                  fixed monthly fee of $175,000 per month.
+            (ii)  At the signing of this Schedule, ALIGN will remit to INVISIBLE
+                  IT an initial deposit of $175,000 (one month's fee).
+            (iii) The first month's payment of $175,000 is due upon signature
+                  date of the contract, will be remitted by ALIGN to INVISIBLE
+                  IT in advance of services rendered and such payment will be
+                  credited against the final month's service.
+
+ALIGN agrees to reimburse INVISIBLE IT for all travel related expenses incurred
+by INVISIBLE IT employees when required to travel in support of providing the
+above services. INVISIBLE IT must obtain written approval from ALIGN prior to
+any travel on ALIGN's behalf.
+
+This Schedule shall be attached to and incorporated into the Agreement, and is
+subject to all the terms and conditions of the Agreement.
+
+Master Services Agreement- Schedule A-1
+
+                                   Page 3 of 4
+
+<PAGE>
+
+[LOGO OF INVISIBLE IT]
+
+IN WITNESS WHEREOF, this Agreement has been duly executed as of the day and year
+first written above.
+
+ALIGN TECHNOLOGY, INC.                            INVISIBLE IT, INC.
+
+
+/s/ Jon Fjeld                                     /s/ Donald C. "Smokey" Wallace
+--------------------------                        ------------------------------
+By (Sign)                                         By (Sign)
+
+
+Jon Fjeld Ph.D.                                   Donald C. "Smokey" Wallace
+Sr. Vice President of Engineering                 Sr. Vice President
+
+    5/20/02                                           5/20/02
+--------------------------                        ------------------------------
+Date                                              Date
+
+                                                  EIN: 01-0670993
+
+Master Services Agreement- Schedule A-1
+
+                                   Page 4 of 4
+
+<PAGE>
+
+[LOGO OF INVISIBLE IT]
+
+                     MASTER PROFESSIONAL SERVICES AGREEMENT
+                              INIVISIBLE IT, INC.
+
+This Master Software Professional Services Agreement (the "Agreement") is made
+and entered into as of May 20, 2002 (the "Effective Date"), by and between
+INVISIBLE IT, INC., a Delaware corporation ("INVISIBLE IT"), and ALIGN
+TECHNOLOGY, INC., a Delaware corporation ("ALIGN").
+
+In consideration of the covenants and conditions hereinafter set forth, ALIGN
+and INVISIBLE IT agree as follows:
+
+1.      Services. INVISIBLE IT shall perform services to be assigned to ALIGN as
+        per Section 4 of this Agreement that are described on the Schedules as
+        may be attached hereto from time to time by mutual written agreement of
+        the parties (the "WORK") in accordance with the terms and conditions of
+        this Agreement, and on the price, delivery dates and specifications
+        described in the applicable Schedule for the WORK. The Schedules shall
+        be in the form attached hereto and shall be signed by both parties,
+        consecutively numbered (i.e., Schedule A-1, A-2, A-3, etc.), and
+        attached to this Agreement. INVISIBLE IT is not obligated to perform any
+        WORK hereunder and ALIGN has not contracted for any WORK unless and
+        until a Schedule is executed by both parties and attached hereto.
+
+2.      Payment. ALIGN shall pay INVISIBLE IT for the WORK as described on the
+        applicable Schedule for such WORK. For fixed fee WORK ALIGN agrees to
+        remit payment in advance of the performance of such WORK or on other
+        terms agreeable to both parties. For hourly WORK, VISIBLE IT agrees to
+        submit to ALIGN, invoices with a brief description of the WORK
+        performed, total time expended and amounts due to INVISIBLE IT on
+        bi-weekly intervals and ALIGN agrees to remit payment to INVISIBLE IT
+        within thirty (30) days of receipt of a INVISIBLE IT invoice for hourly
+        WORK.
+
+3.      Non-Disclosure. Each party expressly undertakes to retain in confidence
+        all information and know-how transmitted by the disclosing party to the
+        receiving party and that has been designated as proprietary and/or
+        confidential or that, by the nature of the circumstances surrounding the
+        disclosure, ought in good faith to be treated as proprietary and/or
+        confidential ("Confidential Information"), and the receiving party will
+        make no use of such information and know-how except under the terms and
+        during the existence of this Agreement. Each party's obligation under
+        this Section 3 with respect to any particular information shall extend
+        to the earlier of such time as such information is publicly available
+        through no fault of the receiving party for five (5) year following
+        termination of this Agreement. INVISIBLE IT certifies that it will
+        comply with all applicable provisions of Insurance Portability and
+        Accountability Act (HIPAA).
+
+4.      Ownership of WORK; Assignment of Rights to ALIGN.
+
+        (a) ALIGN agrees that all systems, programs, INVISIBLE IT specifications
+            and other materials and hardware, and all intellectual property
+            incorporated therein (collectively referred to as "INVISIBLE IT
+            Information") owned by INVISIBLE IT or licensed to INVISIBLE IT by
+            third parties prior to the execution of this Agreement and used in
+            conjunction with the Services for ALIGN shall continue to belong to
+            INVISIBLE IT or their third party licensors. To the extent that such
+            INVISIBLE IT Information is incorporated into any work product or
+            deliverable developed by INVISIBLE IT hereunder, INVISIBLE IT hereby
+            grants to ALIGN a perpetual, irrevocable, nonexclusive worldwide
+            royalty-free right to use, execute, reproduce, display, perform,
+            distribute, modify, and prepare derivative works (collectively,
+            "Distribute") and have Distributed, to and by third parties, such
+            INVISIBLE IT Information in conjunction with such work product or
+            deliverable, and modified version thereof.
+
+        (b) INVISIBLE IT retains the rights of ownership of any system
+            administration utilities developed for ALIGN to be used or granted
+            to any other INVISIBLE IT client or customer provided they: (i) do
+
+Master Services Agreement
+
+                                   Page 1 of 8
+
+<PAGE>
+
+[LOGO OF INVISIBLE IT]
+
+            not divulge any Confidential Information of ALIGN; and (ii) will not
+            be granted or issued or used by any direct competitor of ALIGN
+            (listed on Schedule B hereto and includes any orthodontic or dental
+            companies, as updated from time to time by mutual written consent)
+            during the term of this Agreement. Such system administration
+            utilities be considered INVISIBLE IT Information and licensed to
+            ALIGN as set forth in Section 4(a).
+
+        (c) If INVISIBLE IT agrees in writing as to a particular deliverable for
+            WORK for ALIGN, then such WORK shall be deemed specially ordered and
+            commissioned by ALIGN and may be incorporated in existing ALIGN
+            works as a compilation or collective work. In that case, INVISIBLE
+            IT agrees that all copyrights in the WORK shall be owned by ALIGN
+            and the WORK shall be a "work made for hire" for copyright purposes
+            (the "ASSIGNED WORK").
+
+        (d) INVISIBLE IT hereby assigns to ALIGN, its successors and assigns,
+            all rights, title and interest in and to the ASSIGNED WORK
+            including, without limitation, the following:
+
+            (i)   any U.S. copyrights that INVISIBLE IT may possess or acquire
+                  in the ASSIGNED WORK and all copyrights and equivalent rights
+                  in the ASSIGNED WORK throughout the world, including all
+                  renewals and extensions of such rights that may be secured
+                  under the laws now or hereafter in force and effect in the
+                  United States of America or in any other country or countries;
+
+            (ii)  all rights in and to any inventions, ideas, designs, concepts,
+                  techniques, discoveries, or improvements, whether or not
+                  patentable, embodied in the ASSIGNED WORK or developed in the
+                  course of INVISIBLE IT's creation of the ASSIGNED WORK,
+                  including but not limited to all trade secrets, utility and
+                  design patent rights and equivalent rights in and to such
+                  inventions and designs throughout the world regardless of
+                  whether or not legal protection for the ASSIGNED WORK is
+                  sought;
+
+            (iii) any documents, magnetically or optically encoded media, or
+                  other materials created by INVISIBLE IT as part of the
+                  ASSIGNED WORK under this Agreement; and
+
+            (iv)  the right to sue for infringements which may occur before the
+                  date of this Agreement, and to collect and retain damages from
+                  any such infringements from the ASSIGNED WORK.
+
+        (e) At ALIGN's expense, INVISIBLE IT shall execute and deliver such
+            instruments and take such other action as may be requested by ALIGN
+            to perfect or protect ALIGN's rights in the ASSIGNED WORK and to
+            carry out the assignments contemplated in subparagraph (b) of this
+            section. In this regard, INVISIBLE IT agrees to cooperate with ALIGN
+            in the filing and prosecution of any copyright or patent
+            applications that ALIGN may elect to file on the ASSIGNED WORK or
+            inventions and designs relating to the ASSIGNED WORK. ALIGN
+            acknowledges that INVISIBLE IT has taken no action to assist in the
+            registration of the copyrights or the ASSIGNED WORK and will do so
+            only as and when requested by ALIGN.
+
+5.      INVISIBLE IT Warranties. INVISIBLE IT warrants as follows:
+
+        (a)    To the best of its knowledge, the ASSIGNED WORK as delivered to
+               ALIGN does not infringe any copyright, patent, trade secret, or
+               other proprietary right held by any third party;
+
+        (b)    The ASSIGNED WORK will meet the specifications listed in the
+               applicable Schedule;
+
+        (c)    The ASSIGNED WORK will be created by employees of INVISIBLE IT
+               within the scope of their employment and under obligation to
+               assign inventions to INVISIBLE IT, or by independent contractors
+               under written obligations to assign all rights in the ASSIGNED
+               WORK to INVISIBLE IT;
+
+        (d)    The services provided by INVISIBLE IT shall be performed in a
+               professional manner and shall be of a high grade, nature, and
+               quality; and
+
+        (e)    To the best of its knowledge, the WORK and the ASSIGNED WORK
+               performed by INVISIBLE IT under this Agreement will be in
+               compliance with all applicable U.S. laws and regulations.
+
+Master Services Agreement
+
+                                   Page 2 of 8
+
+<PAGE>
+
+[LOGO OF INVISIBLE IT]
+
+        (f)    No other warranty or representation, either express or implied,
+               is included or intended in INVISIBLE IT proposals, agreements or
+               reports.
+
+        (g)    Disclaimer of Warranties. INVISIBLE IT HEREBY DISCLAIMS ALL
+               IMPLIED WARRANTIES INCLUDING WITHOUT LIMITATION ALL IMPLIED
+               WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR
+               PURPOSE. ALIGN SHALL HAVE SOLE RESPONSIBILITY FOR THE TESTING,
+               QUALITY ASSURANCE, AND USE OF ALL WORK, ALL DELIVERABLES, IF ANY,
+               AND ALL OTHER WORK PRODUCT PROVIDED UNDER THIS AGREEMENT.
+
+        (h)    Limitation of Liability. IN NO EVENT SHALL INVISIBLE IT OR ALIGN
+               BE LIABLE FOR ANY INDIRECT, INCIDENTAL OR CONSEQUENTIAL DAMAGES,
+               WHETHER ARISING IN CONTRACT OR IN TORT OR OTHERWISE (INCLUDING
+               WITHOUT LIMITATION NEGLIGENCE OR OTHER LIABILITY). INVISIBLE IT'S
+               LIABILITY FOR DAMAGES RESULTING FROM ANY BREACH OF ITS
+               OBLIGATIONS UNDER THIS AGREEMENT OR OTHERWISE ARISING FROM ITS
+               SERVICES IN CONNECTION HEREWITH SHALL NOT EXCEED, AND ARE
+               EXPRESSLY LIMITED TO, THE LESSER OF (i) THE AMOUNT OF COVERAGE,
+               IF ANY, PROVIDED BY THE INSURANCE COVERAGE EXTENDED BY INVISIBLE
+               IT TO ALIGN AS AN ADDITIONALLY INSURED AND (ii) THE AGGREGATE
+               AMOUNT PAID BY ALIGN UNDER THIS AGREEMENT. ALIGN'S LIABILITY FOR
+               DAMAGES RESULTING FROM ANY BREACH OF ITS OBLIGATIONS UNDER THIS
+               AGREEMENT OR OTHERWISE ARISING UNDER THIS AGREEMENT SHALL NOT
+               EXCEED (i) FOR BREACHES OF PAYMENT OBLIGATIONS, THE ACTUAL AMOUNT
+               OWED BY ALIGN PLUS ANY REASONABLE INTEREST ON LATE PAYMENTS OR
+               (ii) FOR BREACHES OF OTHER OBLIGATIONS, AN AMOUNT NO GREATER THAN
+               THE TOTAL AMOUNT PAID BY ALIGN UNDER THIS AGREEMENT OR THE THE
+               AMOUNT OF COVERAGE, IF ANY, PROVIDED BY THE INSURANCE COVERAGE
+               EXTENDED BY INVISIBLE IT TO ALIGN AS AN ADDITIONALLY INSURED,
+               WHICHEVER IS LESS.
+
+               IN NO EVENT WILL ANY PARTICULAR CLAIM EXCEED THE LIMITS OF
+               INVISIBLE IT'S INSURANCE AND IN NO EVENT WILL THE CUMULATIVE
+               LIABILITY FOR ALL CLAIMS EXCEED THE LIMITS OF INVISIBLE IT'S
+               INSURANCE LIMIT.
+
+6.      Indemnity.
+
+6.1     INVISIBLE IT.
+
+        INVISIBLE IT agrees to indemnify, pay the defense costs of, and hold
+        ALIGN and its successors, officers, directors and employees harmless
+        from any and all actions, causes of action, claims, demands, costs,
+        liabilities, expenses and damages (including attorneys' fees) arising
+        out of, or in conjunction with (i) any claim for bodily injury, death,
+        or property damage to the extent caused by INVISIBLE IT in connection
+        with the WORK, (ii) any claim that the WORK infringes any copyright,
+        patent, trade secret, trademark, or other legal right of any third
+        party, or (iii) any other claim that, if true, would constitute a breach
+        of INVISIBLE IT's warranties set forth in Section 5 above (collectively,
+        INVISIBLE IT Claims").
+
+6.2     ALIGN.
+
+        ALIGN agrees to indemnify, pay the defense costs of, and hold INVISIBLE
+        IT and its successors, officers, directors and employees harmless from
+        any and all actions, causes of action, claims, demands, costs,
+        liabilities, expenses and damages (including attorneys' fees) arising
+        out of, or in conjunction with (i) any claim for bodily injury, death,
+        or property damage to the extent caused by ALIGN in connection with this
+        Agreement, or (ii) any claim that the ALIGN-contributed intellectual
+        property to the WORK infringes any copyright, patent, trade secret,
+        trademark, or other legal right of any third party (collectively "ALIGN
+        Claims").
+
+Master Services Agreement
+
+                                   Page 3 of 8
+
+<PAGE>
+
+[LOGO OF INVISIBLE IT]
+
+6.3     Process.
+
+        (a)    If any action shall be brought against ALIGN or INVISIBLE IT for
+               a INVISIBLE IT Claim or a ALIGN Claim, respectively, the
+               indemnified party shall promptly notify the indemnifying party in
+               writing, specifying the nature of the action and the total
+               monetary amount sought or other such relief as is sought therein.
+               The indemnified party shall cooperate with the indemnifying party
+               at the indemnifying party's expense in all reasonable respects in
+               connection with the defense of any such action. The indemnifying
+               party may upon written notice thereof to the indemnified party
+               undertake to conduct all proceedings or negotiations in
+               connection therewith, assume the defense thereof, and if it so
+               undertakes, it shall also undertake all other required steps or
+               proceedings to settle or defend any such action, including the
+               employment of counsel which shall be satisfactory to the
+               indemnified party, and payment of all expenses. The indemnified
+               party shall have the right to employ separate counsel and
+               participate in the defense thereof. The indemnifying party shall
+               reimburse the indemnified party upon demand for any payments made
+               or loss suffered by it at any time after the date hereof, based
+               upon the judgment of any court of competent jurisdiction or
+               pursuant to a bona fide compromise or settlement of claims,
+               demands, or actions, in respect to any damages to which the
+               foregoing relates.
+
+        (b)    If any WORK OR ASSIGNED WORK furnished hereunder is in any action
+               held to constitute an infringement and its use is enjoined,
+               INVISIBLE IT shall immediately and at its expense:
+
+               (i)   procure for ALIGN the right to continue use, sale, and
+                     marketing of the WORK or the ASSIGNED WORK; or
+
+               (ii)  replace or modify the WORK or the ASSIGNED WORK with a
+                     version of the WORK or the ASSIGNED WORK that is
+                     non-infringing.
+
+        If (i) or (ii) are not available to INVISIBLE IT, INVISIBLE IT shall
+        refund to ALIGN all amounts paid to INVISIBLE IT by ALIGN hereunder for
+        the particular WORK and/or for the particular ASSIGNED WORK.
+
+6.4     Survival.
+
+        The foregoing indemnity provision of this Section 6 shall survive any
+        termination or expiration of this Agreement for a period of three (3)
+        years.
+
+7.      Termination.
+
+        (a)    This Agreement shall commence as of the Effective Date and shall
+               remain in force in perpetuity unless earlier terminated as set
+               forth in Section 7(b).
+
+        (b)    Termination for Cause. Either party may suspend performance
+               and/or terminate (A) this Agreement or (B) a particular Schedule
+               under this Agreement immediately upon written notice at any time
+               if:
+
+               (i)   The other party is in material breach of any material
+                     warranty, term, condition or covenant of this Agreement,
+                     other than those contained in Section 3, and fails to cure
+                     that breach within thirty (30) days after written notice
+                     thereof; or
+
+               (ii)  The other party is in material breach of Section 3.
+
+        (c)    ALIGN shall have the right to cancel any Schedule pursuant to the
+               terms of such Schedule. Such terms may include cancellation fees,
+               as the parties may agree, for a termination without cause. In the
+               event ALIGN cancels a Schedule, ALIGN will provide INVISIBLE IT
+               written notice of such cancellation. Upon receipt of such notice,
+               INVISIBLE IT will discontinue all work thereunder. Except in
+               cases of cancellation for cause as specified in Section 7(b) of
+               this Agreement, ALIGN will pay for all work performed by
+               INVISIBLE IT up until the date of receipt of the cancellation
+               notice and cancellation fees, if any, specified in such Schedule.
+               In the event of cancellation of a Schedule, upon request by
+               ALIGN, INVISIBLE IT agrees to turn over to ALIGN all Assigned
+               Work with respect to such Schedule within ten (10) days of
+               payment of all outstanding amounts.
+
+Master Services Agreement
+
+                                   Page 4 of 8
+
+<PAGE>
+
+[LOGO OF INVISIBLE IT]
+
+        (d)    In the event of termination or expiration of this Agreement for
+               any reason, Sections 3, 4, 5, 6 (as specified 6.4), 9, and 10
+               shall survive termination.
+
+8.      Notices.
+
+        All notices and requests in connection with this Agreement shall be
+        deemed given as of the day they are received either by messenger,
+        delivery service, or in the United States of America mails, postage
+        prepaid, certified or registered, return receipt requested, and
+        addressed as follows:
+
+NOTICES TO INVISIBLE IT:
+
+            INVISIBLE IT, INC.
+            850 Center Drive
+            Palo Alto, CA 94301
+            Attn: Christopher W Moore, CEO & President
+
+            Copy to:
+            John Sellers
+            Venture Law Group
+            2775 Sand Hill Road
+            Menlo Park, CA 94025
+            (650) 854-4488 Fax:(650) 233-8386
+
+NOTICES TO ALIGN:
+
+            ALIGN TECHNOLOGY, INC.
+            851 Martin Avenue
+            Santa Clara, CA 95050
+            Attn: Stephen J. Bonelli, CFO & VP Finance
+
+        or to such other address as the party to receive the notice or request
+        so designates by written notice to the other.
+
+ 9.     Arbitration.
+
+        (a)    Except for injunctive relief sought pursuant to Section 3(c), all
+               disputes arising out of or in connection with this Agreement,
+               including any questions regarding its existence, validity, breach
+               or termination, shall be finally settled by binding arbitration
+               under the CPR Non-Administered Arbitration Rules ("Rules") of the
+               CPR Institute for Dispute Resolution ("CPR") by a sole arbitrator
+               in accordance with said Rules. The arbitration shall be governed
+               by the United States Arbitration Act, 9 U.S.C. Section 1-16.
+
+        (b)    Both parties shall agree on a sole arbitrator within 30 days.
+               Should the two parties fail, within the above time-limit, to
+               reach agreement on the arbitrator, the arbitrator shall be
+               appointed by CPR under the applicable Rules ("Appointing
+               Authority"). If there are two or more defendants, any nomination
+               of an arbitrator by or on behalf of such defendants must be by
+               joint agreement between them. If such defendants fail, within the
+               time-limit fixed by the Appointing Authority, to agree on such
+               joint nomination, the proceedings against each of them must be
+               separated. The arbitrator must have sufficient experience in the
+               software industry and in international business transactions.
+
+        (c)    Notwithstanding the Rules, the parties (i) shall submit their
+               dispute to the arbitrator within 2 months following their
+               decision that they could not resolve their dispute, (ii) each
+               party shall have no more than 2 days to present its case and
+               (iii) the arbitrator shall be instructed to render its decision
+               within 30 days following the conclusion of each party's
+               presentation.
+
+        (d)    The arbitrator shall specify the basis for its decision. The
+               arbitrator shall not award any punitive damages. The decision of
+               the arbitrator shall be considered as a final and binding
+               resolution of the
+
+Master Services Agreement
+
+                                   Page 5 of 8
+
+<PAGE>
+
+[LOGO OF INVISIBLE IT]
+
+               dispute,  shall not be  subject to appeal and may be entered as a
+               judgment in any court of competent jurisdiction.
+
+        (e)    The seat of arbitration shall be Santa Clara, California. The
+               procedural law of this place shall apply where the Rules are
+               silent, however no jury trial shall be allowed in the arbitration
+               proceedings and discovery shall be limited as set forth in the
+               Rules.
+
+        (f)    The whole arbitration procedure shall be executed pursuant to a
+               strict non disclosure agreement signed by the parties and the
+               arbitrators agreeing to conduct such proceedings and maintaining
+               in confidence all confidential information or trade secrets
+               disclosed or produced in the course thereof. All press releases
+               or public statements regarding the status of such proceedings
+               shall be prepared jointly and only by the parties.
+
+10.     Miscellaneous.
+
+        (a)    INVISIBLE IT is an independent contractor for ALIGN, and nothing
+               in this Agreement shall be construed as creating an
+               employer-employee relationship, a partnership, or a joint venture
+               between the parties.
+
+        (b)    In the event taxes are required to be withheld on payments made
+               hereunder by any U.S. (state or federal) or foreign government,
+               ALIGN may deduct such taxes from the amount owed INVISIBLE IT and
+               pay them to the appropriate taxing authority. ALIGN shall in turn
+               promptly secure and deliver to INVISIBLE IT an official receipt
+               for any taxes withheld. ALIGN will use reasonable efforts to
+               minimize such taxes to the extent permissible under applicable
+               law.
+
+        (c)    This Agreement shall be construed and controlled by the laws of
+               the State of California, Northern District. The federal and state
+               courts within the State of California, Northern District, shall
+               have exclusive jurisdiction to adjudicate any dispute arising
+               with this Agreement and INVISIBLE IT hereby consents to such
+               jurisdiction. In any action or suit to enforce any right or
+               remedy under this Agreement or to interpret any provision of this
+               Agreement, the prevailing party shall be entitled to recover its
+               costs, including reasonable attorneys' fees.
+
+        (d)    This Agreement does not constitute an offer by ALIGN and it shall
+               not be effective until signed by both parties. This Agreement
+               constitutes the entire agreement between the parties with respect
+               to the WORK and all other subject matter hereof and merges all
+               prior and contemporaneous communications. It shall not be
+               modified except by a written agreement dated subsequent to the
+               date of this Agreement and signed on behalf of INVISIBLE IT and
+               ALIGN by their respective duly authorized representatives. Any
+               Schedules attached to this Agreement must be signed on behalf of
+               INVISIBLE IT and ALIGN by their respective duly authorized
+               representatives. Schedules shall not act to amend this Agreement.
+               The terms and conditions of this Agreement shall take precedence
+               over any conflicting terms and conditions in any Schedule;
+               provided, however, to the extent the terms and conditions of a
+               particular Schedule so conflict with the terms and conditions of
+               this Agreement, the terms and conditions of the Schedule shall
+               take precedence only with respect to the Services under that
+               Schedule.
+
+        (e)    This Agreement may be assigned by ALIGN or by INVISIBLE IT with
+               mutual prior written approval. Except as otherwise provided, this
+               Agreement shall be binding upon and inure to the benefit of the
+               parties' successors and lawful assigns.
+
+        (f)    ALIGN and INVISIBLE IT mutually agree that they will use
+               reasonable commercial efforts to not recruit and hire employees
+               of the other party, assigned to work under this Agreement during
+               their assignment under the applicable Schedule of this Agreement.
+               Should either party solicit and hire an employee form the other,
+               The hiring party shall pay a one-time, liquidated damage fee
+               equal to fifty-five percent (55%) of such employee's offered
+               annual salary. Each party agrees to pay any such employment fee
+               within ten (10) days following the employee's commencement of
+               employment.
+
+        (g)    A service charge of one percent (1%) per month or the highest
+               rate allowed by law shall apply to all overdue amounts owed to
+               Supplier. ALIGN acknowledges that unpaid invoices may result in
+               the interruption of services provided.
+
+Master Services Agreement
+
+                                   Page 6 of 8
+
+<PAGE>
+
+[LOGO OF INVISIBLE IT]
+
+IN WITNESS WHEREOF, the parties have entered into this Agreement as of the
+Effective Date written above.
+
+ALIGN TECHNOLOGY, INC.                          INVISIBLE IT, INC.
+
+
+/s/ Jon Fjeld                                   /s/ Donald C. "Smokey" Wallace
+-----------------------                         --------------------------------
+By (Sign)                                       By (Sign)
+
+
+Jon Fjeld Ph.D.                                 Donald C. "Smokey" Wallace
+Vice President of Technology                    Sr. Vice President
+
+    5/20/02                                         5/20/02
+------------------------                        -------------------------------
+Date                                            Date
+
+                                                EIN: 01-0670993
+
+Master Services Agreement
+
+                                   Page 7 of 8
+
+<PAGE>
+
+[LOGO OF INVISIBLE IT]
+
+                                   SCHEDULE B
+                      (LIST OF DIRECT COMPETITORS OF ALIGN)
+
+If blank, and initialed then none at this time.  ______ALIGN  ______INVISIBLE IT
+
+Any orthodontic and/or dental company
+
+Master Services Agreement            Page 8 of 8
+
+</TEXT>
+</DOCUMENT>

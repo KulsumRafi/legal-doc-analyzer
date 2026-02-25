@@ -1,0 +1,1086 @@
+<DOCUMENT>
+<TYPE>EX-10.66
+<SEQUENCE>21
+<FILENAME>a2106961zex-10_66.txt
+<DESCRIPTION>EXHIBIT 10.66
+<TEXT>
+<Page>
+
+                                                                   EXHIBIT 10.66
+
+                                                                  EXECUTION COPY
+
+================================================================================
+
+                        INTERCREDITOR & AGENCY AGREEMENT
+
+
+                           dated as of March 19, 2003
+
+
+                                  by and among
+
+                                  HSBC BANK USA
+                           as Joint Collateral Agent,
+
+                            FLEET CAPITAL CORPORATION
+                   as Intercreditor Agent and Security Trustee
+
+                            FLEET CAPITAL CORPORATION
+                        as Existing Credit Facility Agent
+
+                WELLS FARGO BANK MINNESOTA, NATIONAL ASSOCIATION
+                                   as Trustee
+
+                                       and
+
+                            ALL OTHER FACILITY AGENTS
+                         FROM TIME TO TIME PARTY HERETO
+
+================================================================================
+
+<Page>
+
+                                TABLE OF CONTENTS
+
+<Table>
+<Caption>
+                                                                                                               Page
+                                                                                                               ----
+<S>                                                                                                              <C>
+ARTICLE 1. DEFINITIONS; PRINCIPLES OF CONSTRUCTION................................................................2
+
+   Section 1.1   Definitions......................................................................................2
+   Section 1.2   Principles of Construction.......................................................................3
+
+ARTICLE 2. INTERCREDITOR RELATIONS................................................................................4
+
+ARTICLE 3. INTERCREDITOR AGENT AND SECURITY TRUSTEE...............................................................4
+
+   Section 3.1   Appointment of Intercreditor Agent and Security Trustee; Powers and Immunities...................4
+   Section 3.2   Recourse of Foreign Subsidiary Equity Secured Parties............................................5
+   Section 3.3   Reliance by Intercreditor Agent and Security Trustee.............................................5
+   Section 3.4   Events of Default; Documents and Communications..................................................6
+   Section 3.5   Actions With Respect to the Collateral...........................................................7
+   Section 3.6   Resignation or Removal of Intercreditor Agent and Security Trustee...............................8
+   Section 3.7   Authorization; Release of Liens; Amendment.......................................................9
+   Section 3.8   Limitations on the Responsibility of Intercreditor Agent and Security Trustee...................10
+   Section 3.9   The Intercreditor Agent and Security Trustee and the Foreign Subsidiary Equity Secured Parties..11
+   Section 3.10  Intercreditor Agent and Security Trustee as a Foreign Subsidiary Equity Secured Party...........12
+   Section 3.11  Expenses and Indemnification by Foreign Subsidiary Equity Secured Parties.......................12
+
+ARTICLE 4. ADMINISTRATION OF THE FOREIGN SUBSIDIARY EQUITY COLLATERAL............................................12
+
+ARTICLE 5. APPLICATION OF PROCEEDS...............................................................................13
+
+ARTICLE 6. JOINDER...............................................................................................14
+
+ARTICLE 7. MISCELLANEOUS.........................................................................................14
+
+   Section 7.1   Successors and Assigns..........................................................................14
+   Section 7.2   Delay and Waiver................................................................................14
+   Section 7.3   Costs and Expenses..............................................................................14
+   Section 7.4   Notices.........................................................................................14
+   Section 7.5   Headings........................................................................................16
+   Section 7.6   Counterparts....................................................................................16
+   Section 7.7   Governing Law...................................................................................16
+   Section 7.8   Consent to Jurisdiction.........................................................................16
+   Section 7.9   Waiver of Jury Trial............................................................................16
+   Section 7.10  Entire Agreement................................................................................16
+   Section 7.11  Severability....................................................................................17
+   Section 7.12  Consent to License Agreement....................................................................17
+   Section 7.13  Qualified Credit Facility.......................................................................17
+</Table>
+
+                                        i
+<Page>
+
+                        INTERCREDITOR & AGENCY AGREEMENT
+
+          This INTERCREDITOR & AGENCY AGREEMENT, dated as of March 19, 2003 (as
+     the same may be amended, modified or supplemented from time to time, this
+     "AGREEMENT"), is by and among: (i) HSBC BANK USA, as Joint Collateral Agent
+     (together with its successors and assigns, the "JOINT COLLATERAL AGENT")
+     under the Collateral Agency Agreement (as defined below), (ii) FLEET
+     CAPITAL CORPORATION, as Intercreditor Agent and Security Trustee (as
+     defined in Section 3.1 below) with respect to the Foreign Subsidiary Equity
+     Collateral (as defined below) and the Intercompany Obligations (as defined
+     below), (iii) FLEET CAPITAL CORPORATION, as Administrative Agent (together
+     with its successors and assigns, the "EXISTING CREDIT FACILITY AGENT")
+     under the Existing Credit Facility (as defined below), (iv) WELLS FARGO
+     BANK MINNESOTA, NATIONAL ASSOCIATION, as Trustee (the "TRUSTEE") and (v)
+     each other Credit Facility Agent (as defined in the Indenture which term
+     shall include the Existing Credit Facility Agent) hereafter arising.
+
+                                    RECITALS
+
+          WHEREAS, pursuant to the Indenture, dated of even date herewith (as
+     the same may be amended, modified or supplemented from time to time, the
+     "INDENTURE"), by and between Hexcel Corporation (the "COMPANY") and Wells
+     Fargo Bank Minnesota, National Association, as Trustee for the benefit of
+     the holders of the Notes under the Indenture, contemporaneously herewith
+     the Company will issue $125,000,000 of it 9.875% Senior Secured Notes due
+     2008;
+
+          WHEREAS, pursuant to the Indenture, the Company may, subject to the
+     requirements thereof, designate additional obligations as Parity Lien Debt
+     (as defined in the Indenture);
+
+          WHEREAS, pursuant to the Collateral Agency Agreement (the "COLLATERAL
+     AGENCY AGREEMENT") of even date herewith among the Joint Collateral Agent,
+     the Company, the Trustee and the representatives of the holders of Parity
+     Lien Debt who become a party thereto (such representatives, the "PARITY
+     LIEN REPRESENTATIVES"), the Joint Collateral Agent has been appointed to
+     act as agent for the Trustee and the Parity Lien Representatives and to
+     enter into this Agreement; and
+
+          WHEREAS, pursuant to the Credit and Guaranty Agreement, dated as of
+     the date hereof (as the same may be amended, modified or supplemented from
+     time to time, the "EXISTING CREDIT FACILITY"), among the Company, the
+     Existing Credit Facility Agent, the other parties listed on the signature
+     pages thereto and the lenders party thereto, the Existing Credit Facility
+     Agent has been appointed to act as agent for the holders of Credit Facility
+     Obligations (as defined in the Indenture) relating to the Existing Credit
+     Facility and as secured party for the benefit of the holders of Credit
+     Facility Obligations;
+
+          WHEREAS, pursuant to the Indenture the Company may become a party to
+     additional Qualified Credit Facilities on the terms and conditions
+     specified in the
+
+<Page>
+
+     Indenture;
+
+          WHEREAS, pursuant to the Indenture and subject to the terms thereof:
+     (i) to the extent (and only to the extent) attaching to Foreign Subsidiary
+     Collateral and proceeds thereof, all valid, enforceable and perfected Note
+     Liens, all valid, enforceable and perfected Parity Liens and all valid,
+     enforceable and perfected Liens securing Obligations under a Qualified
+     Credit Facility, in each case whenever granted, will rank Equally and
+     Ratably (as defined in the Indenture), and (ii) to the extent (and only to
+     the extent attributable to Foreign Subsidiary Collateral or the proceeds
+     thereof), the proceeds of all such valid, enforceable and perfected Note
+     Liens, Parity Liens and Liens securing Obligations under a Qualified Credit
+     Facility upon (and only upon) Foreign Subsidiary Collateral and proceeds
+     thereof shall be allocated and distributed Equally and Ratably (as defined
+     in the Indenture) on account of the Note Obligations, Parity Lien
+     Obligations and Obligations under a Qualified Credit Facility;
+
+          WHEREAS, to comply with certain requirements of foreign law, the Joint
+     Collateral Agent, the Existing Credit Facility Agent and each other Credit
+     Facility Agent desires to appoint Fleet Capital Corporation as
+     Intercreditor Agent and Security Trustee with respect to the Foreign
+     Subsidiary Equity Collateral (and not any other Foreign Subsidiary
+     Collateral or other property) on the terms and conditions set forth herein;
+
+          WHEREAS, the parties herein desire to provide for the Intercreditor
+     Agent and Security Trustee to hold the Pledged Instruments for the purpose
+     of perfecting the security interests of the Foreign Subsidiary Equity
+     Secured Parties;
+
+          NOW THEREFORE, in consideration of the premises, covenants and
+     agreements as herein set forth and for other good and valuable
+     consideration, the receipt and adequacy of which are hereby acknowledged,
+     the parties hereto hereby agree as follows:
+
+                                    AGREEMENT
+
+                                   ARTICLE 1.
+                     DEFINITIONS; PRINCIPLES OF CONSTRUCTION
+
+     Section 1.1   DEFINITIONS. Except as otherwise expressly provided herein,
+capitalized terms used in this Agreement shall have the meanings given in the
+Indenture, in each case in effect on the date hereof. As used herein, the
+following terms shall have the following meanings:
+
+          "Agent" means each of the Joint Collateral Agent, the Trustee, each
+     Parity Lien Representative, the Existing Credit Facility Agent and each
+     other Credit Facility Agent.
+
+          "Credit Documents" means the Indenture, each indenture or other
+     agreement governing any Parity Lien Debt, the Existing Credit Facility, the
+     credit agreement (or similar agreement) governing any other Qualified
+     Credit Facility and shall include all guarantees of any of the foregoing.
+
+          "Default" and "Event of Default" means a "Default" or "Event of
+     Default" under,
+
+                                        2
+<Page>
+
+     and as defined in, any of the Credit Documents.
+
+          "Foreign Security Documents" means this Agreement, the UK Security
+     Trust Deed, the UK Share Charge and the French Share Pledge and any other
+     document or agreement (other than the Pledge and Security Agreement entered
+     into in connection with the Indenture and the Security Agreement entered
+     into in connection with the Existing Credit Facility) pursuant to which any
+     equity interest in a Foreign Subsidiary is pledged for the benefit of any
+     Foreign Subsidiary Equity Secured Party.
+
+          "Foreign Subsidiary Equity Secured Parties" means each Agent and the
+     holders from time to time of any of the Secured Obligations.
+
+          "Foreign Subsidiary Equity Collateral" means equity interests (only)
+     in Foreign Subsidiaries constituting Foreign Subsidiary Collateral.
+
+          "French Share Pledge" means the Pledge Over a Securities Account
+     (COMPTE D'INSTRUMENTS FINANCIERS) dated as of the date hereof among the
+     Company and Fleet Capital Corporation as intercreditor agent.
+
+          "Joinder Agreement" means an agreement in substantially the form of
+     Exhibit A hereto.
+
+          "Pledged Instruments" means any "instruments" (as defined in Article 9
+     of the New York UCC) representing any Foreign Subsidiary Collateral
+     constituting any intercompany loan or other claims against Foreign
+     Subsidiaries owned by the Company or any Domestic Subsidiary.
+
+          "Qualified Credit Facility" means the Existing Credit Facility or any
+     other Credit Facility that refunds, refinances, replaces, renews, repays or
+     extends the Existing Credit Facility in accordance with the terms of the
+     Existing Credit Facility.
+
+          "Secured Obligations" means Note Obligations, any Parity Lien
+     Obligations, all Credit Facility Obligations and all obligations hereunder
+     or under any other Foreign Security Document (including, without
+     limitation, any guarantees of any of the foregoing).
+
+          "UK Share Charge" means the Share Charge dated as of the date hereof
+     among the Company as chargor and Fleet Capital Corporation as security
+     trustee.
+
+          "UK Security Trust Deed" means the Security Trust Deed dated as of the
+     date hereof among the Company, Fleet Capital Corporation as security
+     trustee, HSBC Bank USA as Joint Collateral Agent, Fleet Capital Corporation
+     as existing credit facility agent each other Credit Facility Agent (as
+     defined in the Indenture) thereafter arising.
+
+     Section 1.2   PRINCIPLES OF CONSTRUCTION. Except as otherwise expressly
+provided herein, the principles of construction set forth in Section 1.04 of the
+Indenture shall apply to this Agreement.
+
+                                        3
+<Page>
+
+                                   ARTICLE 2.
+                             INTERCREDITOR RELATIONS
+
+          Each party hereto expressly agrees to be bound by the provisions of
+Article 13 of the Indenture, as in effect on the date hereof, which are
+incorporated herein by reference. The Trusteee represents, warrants,
+acknowledges and agrees on behalf of itself and the noteholders, the Existing
+Credit Facility Agent represents, warrants, acknowledges and agrees on behalf of
+itself and the lenders, each Parity Lien Representative represents, warrants,
+acknowledges and agrees on behalf of itself and the holders of Parity Lien Debt
+and each other Credit Facility Agent represents, warrants, acknowledges and
+agrees on behalf of itself and the holders of Obligations under such Qualified
+Credit Facility (a) that the obligations and responsibilities of each Agent set
+forth in such Article 13 apply to each of the Foreign Subsidiary Equity Secured
+Parties that each such Agent represents to the same extent and with the same
+effect as if each such Foreign Subsidiary Equity Secured Party were the
+applicable Agent thereunder and (b) that each such Agent is authorized to enter
+into this Agreement by, and on behalf of, the Foreign Subsidiary Equity Secured
+Parties that it represents and that this Agreement is binding on each of the
+Foreign Subsidiary Equity Secured Parties. Further, such Article 13 shall be
+enforceable by each Agent hereunder. Notwithstanding the foregoing and subject
+to the provisions of Article 13 of the Indenture, this Agreement shall not
+prevent any Agent hereunder from enforcing its rights under any other documents
+or agreement with respect to any Collateral, other than with respect to any
+Foreign Subsidiary Equity Collateral.
+
+                                   ARTICLE 3.
+                    INTERCREDITOR AGENT AND SECURITY TRUSTEE
+
+     Section 3.1   APPOINTMENT OF INTERCREDITOR AGENT AND SECURITY TRUSTEE;
+POWERS AND IMMUNITIES.
+
+          (a)      Each Agent hereby irrevocably appoints and authorizes Fleet
+Capital Corporation (together with its successors and assigns in such capacity,
+the "INTERCREDITOR AGENT AND SECURITY TRUSTEE") to act as its agent hereunder
+and under the Foreign Security Documents in each case for the benefit of the
+Foreign Subsidiary Equity Secured Parties, with such powers as are expressly
+delegated to the Intercreditor Agent and Security Trustee by the terms of this
+Agreement and the Foreign Security Documents. Without limiting the generality of
+the foregoing, the Intercreditor Agent and Security Trustee shall, subject to
+the terms hereof and of the Foreign Security Documents: (i) execute, deliver and
+perform each of the Foreign Security Documents and receive the grant of the
+security interests under the Foreign Security Documents for the benefit of the
+Foreign Subsidiary Equity Secured Parties, (ii) hold, manage, receive, endorse
+and collect on any Foreign Subsidiary Equity Collateral and Pledged Instruments,
+(iii) take all lawful and commercially reasonable actions that the Intercreditor
+Agent and Security Trustee may deem necessary or advisable to protect or
+preserve the Foreign Subsidiary Equity Collateral, the Pledged Instruments or
+the security interest of the Intercreditor Agent and Security Trustee therein
+for the benefit of the Foreign Subsidiary Equity Secured Parties, (iv) deliver
+and receive notices pursuant to the Foreign Security Documents, (v) sell,
+assign, foreclose on, institute legal proceedings with respect to, or otherwise
+exercise the rights and remedies of a secured party with respect to the Foreign
+Subsidiary Equity Collateral and (vi) release or terminate the security
+interests as provided herein. In addition, for purposes of
+
+                                        4
+<Page>
+
+perfecting their respective security interests in any Pledged Instruments
+granted to each Agent under their respective security documents, each such Agent
+hereby appoints the Intercreditor Agent and Security Trustee to hold such
+Pledged Instruments as its agent hereunder. The execution of this Agreement by
+the Intercreditor Agent and Security Trustee shall be deemed an acceptance by
+the Intercreditor Agent and Security Trustee of the appointments made under this
+SECTION 3.1 and an agreement to act as agent on behalf of each of the Agents.
+The Intercreditor Agent and Security Trustee shall not have any duties or
+responsibilities except those expressly set forth in this Agreement and the
+Foreign Security Documents.
+
+          (b)      Notwithstanding anything to the contrary contained herein,
+the role of the Intercreditor Agent and Security Trustee shall be limited to any
+Foreign Subsidiary Equity Collateral and the Pledged Instruments and shall not
+extend to any other Foreign Subsidiary Collateral or any other property or asset
+of the Company or any other Obligor.
+
+          (c)      Notwithstanding anything to the contrary contained herein,
+the Intercreditor Agent and Security Trustee shall not be required to take any
+action (i) which is contrary to this Agreement or the Foreign Security Documents
+or (ii) which is contrary to applicable law.
+
+     Section 3.2   RECOURSE OF FOREIGN SUBSIDIARY EQUITY SECURED PARTIES. Each
+of the Foreign Subsidiary Equity Secured Parties acknowledges and agrees that
+the Intercreditor Agent and Security Trustee shall have no obligation to take
+any action, or refrain from taking any action, except upon instructions from any
+Agent in accordance with Section 3.3 hereof. Nothing contained herein shall
+restrict the Foreign Subsidiary Equity Secured Parties' rights to pursue
+remedies, by proceedings in law and equity, to collect principal or interest due
+under any of the Credit Documents, as applicable, or to enforce payments under
+and the performance of and provisions of any of the Credit Documents, as
+applicable, to the extent that such remedies do not relate to the Foreign
+Subsidiary Equity Collateral or interfere with the Intercreditor Agent and
+Security Trustee's right to take action hereunder or under the Foreign Security
+Documents.
+
+     Section 3.3   RELIANCE BY INTERCREDITOR AGENT AND SECURITY TRUSTEE. Any
+request, demand, authorization, direction, notice, consent, waiver or other
+action permitted or required by this Agreement to be given or taken by the
+Foreign Subsidiary Equity Secured Parties, may be and, at the request of the
+Intercreditor Agent and Security Trustee, shall be embodied in and evidenced by
+one or more instruments satisfactory in form to the Intercreditor Agent and
+Security Trustee and signed by or on behalf of the Foreign Subsidiary Equity
+Secured Parties and, except as otherwise expressly provided in any such
+instrument, any such action shall become effective when such instrument or
+instruments shall have been delivered to the Intercreditor Agent and Security
+Trustee. The instrument or instruments evidencing any action (and the action
+embodied therein and evidenced thereby) are sometimes referred to herein as an
+"Act" of the persons signing such instrument or instruments. The Intercreditor
+Agent and Security Trustee shall be entitled to rely absolutely upon an Act of
+any of the Foreign Subsidiary Equity Secured Parties if such Act purports to be
+taken by or on behalf of any of the Foreign Subsidiary Equity Secured Parties,
+as applicable (including any cable, telegram, telecopy or telex). Nothing in
+this Section 3.3 or elsewhere in this Agreement shall be construed to require
+the Intercreditor Agent and Security Trustee to demonstrate that it has been
+authorized by the Foreign Subsidiary Equity Secured Parties to take any action
+which it purports to be taking, the
+
+                                        5
+<Page>
+
+Intercreditor Agent and Security Trustee being entitled to rely conclusively,
+and being fully protected in so relying, on any Act of the Foreign Subsidiary
+Equity Secured Parties. Further, the Intercreditor Agent and Security Trustee
+shall be entitled to absolutely rely upon any judicial order or judgment, any
+advice or statements of legal counsel, independent consultants and other experts
+selected by it in good faith and without gross negligence or willful misconduct
+or upon any certification, instruction, notice or other writing delivered to it
+in compliance with the provisions of this Agreement. Nothing in this Section 3.3
+or elsewhere in this Agreement shall be construed to require the Intercreditor
+Agent and Security Trustee to demonstrate that it has been authorized by same to
+take any action which it purports to be taking, the Intercreditor Agent and
+Security Trustee being entitled to rely conclusively, and being fully protected
+in so relying, on such judicial order or judgment, or advice or statements of
+such legal counsel, independent consultants or other experts selected by it in
+good faith and without gross negligence or willful misconduct or upon any
+certification, instruction, notice or other writing delivered to it in
+compliance with the provisions of this Agreement.
+
+     Section 3.4   EVENTS OF DEFAULT; DOCUMENTS AND COMMUNICATIONS.
+
+          (a)      The Intercreditor Agent and Security Trustee shall not be
+deemed to have knowledge or notice of the occurrence of a Default or an Event of
+Default unless (i) the Intercreditor Agent and Security Trustee has received
+notice from an Agent or a Obligor referring to this Agreement, describing such
+Default or Event of Default and stating that such notice is a "Notice of
+Default", or (ii) the Intercreditor Agent and Security Trustee otherwise has
+actual knowledge of the occurrence of a Default or an Event of Default.
+
+          (b)      Each Agent will be bound by the notice provisions of
+Section 13.04 of the Indenture. In addition, in the event of an enforcement
+action, if the Intercreditor Agent and Security Trustee receives notice from an
+Agent or a Obligor of the occurrence of a Default or an Event of Default, the
+Intercreditor Agent and Security Trustee shall give prompt written notice
+thereof to each of the other Agents and the Company (unless such notice is
+delivered by the Company). If the Intercreditor Agent and Security Trustee
+otherwise obtains actual knowledge of the occurrence of a Default or an Event of
+Default in the event of an enforcement action, the Intercreditor Agent and
+Security Trustee shall provide written notice thereof to each of the Agents. The
+Intercreditor Agent and Security Trustee shall also promptly forward to the
+Joint Collateral Agent and each other Credit Facility Agent a copy of each
+document, notice, certificate, instruction or other communication received by
+the Intercreditor Agent and Security Trustee from any Obligor or any other party
+hereto.
+
+          (c)      Any Agent shall have the right to direct the Intercreditor
+Agent and Security Trustee to commence foreclosure actions or otherwise exercise
+remedies available to it with respect to the Foreign Subsidiary Equity
+Collateral if an Event of Default shall have occurred and is then continuing
+with respect to such Agent's Credit Document (such direction a "FORECLOSURE
+DIRECTION"). With respect to the Note Obligations and the Parity Lien
+Obligations this right may be exercised by either the Joint Collateral Agent,
+the Trustee or any Parity Lien Representative. The Intercreditor Agent and
+Security Trustee shall give each Agent and the Company prompt written notice of
+the receipt of any Foreclosure Direction. The Intercreditor Agent and Security
+Trustee will take such action with respect to the Foreign Subsidiary Equity
+Collateral as directed by a vote of a majority of the holders (all voting as a
+single class) of (i) the
+
+                                        6
+<Page>
+
+principal amount of all Indebtedness constituting Credit Facility Obligations,
+Notes and Parity Lien Debt outstanding (the "MAJORITY HOLDERS"). Such Majority
+Holders may direct the time, method and place of conducting any proceeding for
+any right or remedy available to the Intercreditor Agent and Security Trustee,
+or of exercising any trust or power conferred on the Intercreditor Agent and
+Security Trustee, or for the appointment of a receiver, or to direct the taking
+or refraining from taking any action authorized by this Agreement or any Foreign
+Security Document; provided that such direction shall not conflict with any
+provision of law or this Agreement. The Intercreditor Agent and Security Trustee
+shall have the right to decline to follow any such direction if the
+Intercreditor Agent and Security Trustee, being advised by counsel, determines
+that the directed action is not permitted by the terms of this Agreement, the
+Foreign Security Documents or the Credit Documents, may not lawfully be taken or
+would involve it in personal liability, and the Intercreditor Agent and Security
+Trustee shall not be required to take any such action unless any indemnity which
+is required hereunder in respect of such action has been provided. The
+Intercreditor Agent and Security Trustee may rely on any such direction given to
+it by the Majority Holders and shall be fully protected, and shall under no
+circumstances (absent the gross negligence and willful misconduct of the
+Intercreditor Agent and Security Trustee ) be liable to any holder of any
+Secured Obligations or any other Person for taking or refraining from taking
+action in accordance therewith. Absent written instructions from the Majority
+Holders (i) at a time when a direction or notice from any Agent contemplated by
+this Section 3.4 shall be outstanding or (ii) in the case of an emergency in
+order to protect any of the Foreign Subsidiary Equity Collateral, the
+Intercreditor Agent and Security Trustee may take, but shall have no obligation
+to take, any and all such actions under the Foreign Security Documents or any of
+them or otherwise as it shall deem to be in the best interests of the Foreign
+Subsidiary Equity Secured Parties and shall give notice to each of the other
+Agents of any such actions taken.
+
+          (d)      Subject to Article 13 of the Indenture, any Agent may
+independently foreclose on or otherwise exercise its rights and remedies with
+respect to any Pledged Instrument and the Intercreditor Agent and Security
+Trustee shall cooperate with any such foreclosure or exercise of remedies.
+
+     Section 3.5   ACTIONS WITH RESPECT TO THE COLLATERAL. Each of the Foreign
+Subsidiary Equity Secured Parties hereby irrevocably constitutes and appoints
+the Intercreditor Agent and Security Trustee and any officer or agent thereof,
+with full power of substitution, as its true and lawful attorney-in-fact with
+full power and authority in its or his own name, from time to time in the
+Intercreditor Agent and Security Trustee's discretion, subject to Section 3.4(c)
+hereof, so long as any direction or notice contemplated by Section 3.4(c) hereof
+is in effect, to take any and all appropriate action and to execute any and all
+documents and instruments which may be necessary or desirable to carry out the
+terms of this Agreement and the Foreign Security Documents and accomplish the
+purposes hereof and thereof and, without limiting the generality of the
+foregoing, each of the Foreign Subsidiary Equity Secured Parties hereby
+acknowledges that the Intercreditor Agent and Security Trustee shall have all
+powers and remedies set forth in the Foreign Security Documents, subject to
+Section 3.4(c) hereof.
+
+     Section 3.6   RESIGNATION OR REMOVAL OF INTERCREDITOR AGENT AND SECURITY
+TRUSTEE. Subject to the appointment and acceptance of a successor Intercreditor
+Agent and Security Trustee as provided below, (i) the Intercreditor Agent and
+Security Trustee may resign at any
+
+                                        7
+<Page>
+
+time by giving not less than thirty (30) days notice thereof to the Joint
+Collateral Agent, the Company and each other Credit Facility Agent, (ii) if no
+Indebtedness with respect to Credit Facility Obligations remains outstanding,
+the Intercreditor Agent and Security Trustee may be removed at any time with or
+without cause by the Joint Collateral Agent or (iii) the Intercreditor Agent and
+Security Trustee may assign its role as such to any other financial institution
+that becomes the Administrative Agent under the Existing Credit Facility;
+provided, however, that such successor agent expressly agrees to be bound by the
+provisions hereof in a writing delivered to the Joint Collateral Agent, the
+Company and each other Credit Facility Agent. Upon any such resignation or
+removal referred to in clauses (i) and (ii) of the preceding sentence, the Joint
+Collateral Agent shall have the right to appoint a successor Intercreditor Agent
+and Security Trustee, which Intercreditor Agent and Security Trustee shall be
+reasonably acceptable to any other Credit Facility Agents. If no successor
+Intercreditor Agent and Security Trustee shall have been so appointed by the
+Joint Collateral Agent and shall have accepted such appointment within thirty
+(30) days after the retiring Intercreditor Agent and Security Trustee's giving
+of notice of resignation or such removal of the retiring Intercreditor Agent and
+Security Trustee as provided hereunder, then the retiring Intercreditor Agent
+and Security Trustee may, on behalf of the Secured Parties, petition a court of
+competent jurisdiction for a successor or it may appoint a successor
+Intercreditor Agent and Security Trustee, which shall be a bank or trust company
+(a) acceptable to the other Agents, (b) having a combined capital and surplus of
+at least $100,000,000 and (c) having offices in New York, New York. Upon the
+acceptance of any appointment as Intercreditor Agent and Security Trustee
+hereunder by a successor Intercreditor Agent and Security Trustee, (i) such
+successor Intercreditor Agent and Security Trustee shall thereupon succeed to
+and become vested with all the rights, powers, privileges and duties of the
+retiring Intercreditor Agent and Security Trustee, and the retiring
+Intercreditor Agent and Security Trustee shall be discharged from its duties and
+obligations hereunder, and (ii) the retiring Intercreditor Agent and Security
+Trustee shall, at the expense of the Company, promptly transfer all Foreign
+Subsidiary Equity Collateral and any Pledged Instrument within its possession or
+control to the possession or control of the successor Intercreditor Agent and
+Security Trustee and shall execute and deliver such notices, instructions and
+assignments as may be necessary or desirable to transfer the rights of the
+Intercreditor Agent and Security Trustee in respect of the Foreign Subsidiary
+Equity Collateral and any Pledged Instrument to the successor Intercreditor
+Agent and Security Trustee. After any retiring Intercreditor Agent and Security
+Trustee's resignation, removal or replacement hereunder as Intercreditor Agent
+and Security Trustee, the provisions of this ARTICLE 3 shall continue in effect
+for its benefit in respect of any actions taken or omitted to be taken by it
+while it was acting as Intercreditor Agent and Security Trustee. Upon any such
+resignation or removal, the former Intercreditor Agent and Security Trustee
+shall, at the expense of the Company, take all steps necessary to assign the
+Foreign Subsidiary Equity Collateral and any Pledged Instrument to the successor
+Intercreditor Agent and Security Trustee.
+
+     Section 3.7   AUTHORIZATION; RELEASE OF LIENS; AMENDMENT.
+
+          (a)      The Intercreditor Agent and Security Trustee is hereby
+authorized by each of the other parties hereto to execute, deliver and perform
+each of the Foreign Security Documents.
+
+                                        8
+<Page>
+
+          (b)      Without the prior written consent of, or direction from, the
+Joint Collateral Agent and each Credit Facility Agent and any consent required
+under Section 13.09 of the Indenture, the Intercreditor Agent and Security
+Trustee shall not (i) release any Foreign Subsidiary Equity Collateral or
+otherwise terminate any Lien under any Foreign Security Document, provided,
+however, that the Joint Collateral Agent and the Credit Facility Agent shall be
+obligated to notify the Intercreditor Agent and Security Trustee to deliver to
+the Company (or as otherwise directed by the Company) any Collateral (including,
+without limitation, any Foreign Subsidiary Equity Collateral and any Pledged
+Instrument) that is automatically released in accordance with the terms of the
+Credit Documents, (ii) consent to any amendment, modification or supplement of
+this Agreement or any Foreign Security Document (other than as necessary to
+reflect the addition of any new Qualified Credit Facility or Parity Lien Debt
+for which the related Credit Facility Agent or the relevant Parity Lien
+Representative, respectively, shall have executed and delivered a Joinder
+Agreement), (iii) consent to any Lien under any Foreign Security Document to
+which the Intercreditor Agent and Security Trustee (in its capacity as such) is
+a party securing obligations other than the Secured Obligations or consent to
+any modification of, supplement to, or waiver under any of the Foreign Security
+Documents to which the Intercreditor Agent and Security Trustee (in its capacity
+as such) is a party. Notwithstanding the foregoing, (i) if directed by the Joint
+Collateral Agent, the Intercreditor Agent and Security Trustee shall amend the
+Foreign Security Documents and/or take such other action as may be necessary to
+relinquish the security interest with respect to any Note Obligations or Parity
+Lien Obligations specified by the Joint Collateral Agent as being no longer
+secured by the Foreign Subsidiary Equity Collateral and (ii) if directed by any
+Credit Facility Agent the Intercreditor Agent and Security Trustee shall amend
+the Foreign Security Documents and/or take such other action as may be necessary
+to relinquish the security interest with respect to any Credit Facility
+Obligations represented by such Credit Facility Agent specified by such Credit
+Facility Agent as being no longer secured by the Foreign Subsidiary Equity
+Collateral. Except for any release authorized by both the Joint Collateral Agent
+and each Credit Facility Agent, no such release shall affect the security
+interest of any other Foreign Subsidiary Equity Secured Party. In giving any
+such consent, the Joint Collateral Agent shall be subject to the terms of the
+Collateral Agency Agreement and the Indenture and each Credit Facility Agent
+shall be subject to the terms of the Credit Documents to which it is a party.
+Notwithstanding the forgoing, whether or not so instructed by the Joint
+Collateral Agent and each Credit Facility Agent, the Intercreditor Agent and
+Security Trustee may release the security interest with respect to any Foreign
+Subsidiary Equity Collateral and may provide any release, termination statement
+or instrument of subordination required by order of a court of competent
+jurisdiction or otherwise required by applicable law.
+
+          (c)      For the avoidance of doubt, nothing in this SECTION 3.7, or
+elsewhere in this Agreement or in any other Foreign Security Document shall
+limit the obligations of the Obligors under any Foreign Security Document or any
+Credit Document, including, without limitation, any obligation of any of the
+Obligors to obtain any consent or approval of any of the Foreign Subsidiary
+Equity Secured Parties obtained or required to be obtained by the Obligor prior
+to any amendment or modification of, supplement to or waiver under any Foreign
+Security Document or Credit Document.
+
+          (d)      For the avoidance of doubt, nothing in this SECTION 3.5 or
+elsewhere in this Agreement or in any other Foreign Security Document or Credit
+Document shall limit the
+
+                                        9
+<Page>
+
+operation of the collateral release provisions under any Credit Document,
+pursuant to which the lien and security interest thereunder with respect to an
+item of collateral (including, without limitation, the Foreign Subsidiary Equity
+Collateral and any Pledged Instrument) shall be released without the consent of
+any Foreign Subsidiary Equity Secured Party or the Intercreditor Agent and
+Security Trustee to the extent and subject to the conditions, if any, specified
+in any Credit Document.
+
+     Section 3.8   LIMITATIONS ON THE RESPONSIBILITY OF INTERCREDITOR AGENT AND
+SECURITY TRUSTEE. The Intercreditor Agent and Security Trustee shall not be
+responsible in any manner whatsoever for the correctness of any recitals,
+statements, representations or warranties contained herein or in any Foreign
+Security Document, except for those made by it herein. The Intercreditor Agent
+and Security Trustee makes no representation as to the value or condition of the
+Foreign Subsidiary Equity Collateral or any part thereof, or any Pledged
+Instrument, as to the title of the Company to the Foreign Subsidiary Equity
+Collateral, as to the security afforded by this Agreement or any Foreign
+Security Document or, as to the validity, execution, enforceability, legality or
+sufficiency of this Agreement or any Foreign Security Document, and the
+Intercreditor Agent and Security Trustee shall incur no liability or
+responsibility in respect of any such matters. The Intercreditor Agent and
+Security Trustee shall not be responsible for insuring the Foreign Subsidiary
+Equity Collateral or any Pledged Instrument except as provided in the
+immediately following sentence when the Intercreditor Agent and Security Trustee
+has possession of such Foreign Subsidiary Collateral. The Intercreditor Agent
+and Security Trustee shall have no duty to the Company or to the Foreign
+Subsidiary Equity Secured Parties as to any such Foreign Subsidiary Collateral
+in its possession or control or in the possession or control of any agent or
+nominee of the Intercreditor Agent and Security Trustee or any income thereon or
+as to the preservation of rights against prior parties or any other rights
+pertaining thereto, except the duty to accord such of the Foreign Subsidiary
+Equity Collateral and any such Pledged Instruments as may be in its possession
+substantially the same care as it accords its own assets and the duty to account
+for monies received by it. The Intercreditor Agent and Security Trustee shall
+not be required to ascertain or inquire as to the performance by the Company of
+any of the covenants or agreements contained herein or any of the Credit
+Documents. Neither the Intercreditor Agent and Security Trustee nor any officer,
+agent or representative thereof shall be personally liable for any action taken
+or omitted to be taken by any such person in connection with this Agreement or
+any Foreign Security Document except for such person's own gross negligence or
+willful misconduct. Neither the Intercreditor Agent and Security Trustee nor any
+officer, agent or representative thereof shall be personally liable for any
+action taken by any such person in accordance with any notice given pursuant to
+the terms of this Agreement. The Intercreditor Agent and Security Trustee may
+execute any of the powers granted under this Agreement or any of the Security
+Documents and perform any duty hereunder or thereunder either directly or by or
+through agents or attorneys-in-fact, and shall not be responsible for the
+negligence or misconduct of any agents or attorneys-in-fact selected by it in
+good faith and without gross negligence or willful misconduct.
+
+     Section 3.9   THE INTERCREDITOR AGENT AND SECURITY TRUSTEE AND THE FOREIGN
+SUBSIDIARY EQUITY SECURED PARTIES. By countersigning this Agreement, the
+Company agrees to reimburse the Intercreditor Agent and Security Trustee, on
+demand, for any reasonable costs, fees, disbursements, losses and other
+out-of-pocket expenses (including reasonable attorney's and other professionals'
+fees and disbursements and compensation of agents) incurred by the
+
+                                       10
+<Page>
+
+Intercreditor Agent and Security Trustee, arising out of, in any way connected
+with, or as a result of, the execution or delivery of this Agreement or any
+Foreign Security Document or any agreement or instrument contemplated hereby or
+thereby or the performance by the parties hereto or thereto of their respective
+obligations hereunder or thereunder or in connection with the enforcement or
+protection of the rights of the Intercreditor Agent and Security Trustee and/or
+the Foreign Subsidiary Equity Secured Parties hereunder or under the Foreign
+Security Documents, (ii) to indemnify and hold harmless the Intercreditor Agent
+and Security Trustee and its directors, officers, employees and agents, on
+demand, from and against any and all liabilities, obligations, losses, damages,
+penalties, actions, judgments, suits, costs, expenses or disbursements of any
+kind or nature whatsoever which may be imposed on, incurred by or asserted
+against the Intercreditor Agent and Security Trustee in its capacity as the
+Intercreditor Agent and Security Trustee or any of them in any way relating to
+or arising out of this Agreement or any Foreign Security Document or any action
+taken or omitted by them under this Agreement or any Foreign Security Document,
+provided that the Company shall not be liable to the Intercreditor Agent and
+Security Trustee or its directors, officers, employees and agents for any
+portion of such liabilities, obligations, losses, damages, penalties, actions,
+judgments, suits, costs, expenses or disbursements resulting from the gross
+negligence or willful misconduct of the Intercreditor Agent and Security Trustee
+or any of its directors, officers, employees or agents as determined by a final
+non-appealable order of a court of competent jurisdiction; and (iii) to
+indemnify and hold harmless the Intercreditor Agent and Security Trustee, on
+demand, from and against any and all liabilities which may be imposed on or
+incurred by any of the Intercreditor Agent and Security Trustee (in its capacity
+as Intercreditor Agent and Security Trustee) for the net amount of taxes (after
+taking into account any deduction, credit or other tax reduction or benefit
+available by reason of the imposition of any such tax) imposed with respect to
+the Foreign Subsidiary Equity Collateral or any Pledged Instrument in any
+jurisdiction in which the Intercreditor Agent and Security Trustee would not
+otherwise be subject to tax except by reason of its acting under this Agreement
+or the Foreign Security Documents (directly or through agents); provided that
+such indemnification for taxes (A) shall apply only in respect of taxes
+attributable to the performance of the Intercreditor Agent and Security
+Trustee's obligations hereunder imposed with respect to the Foreign Subsidiary
+Equity Collateral or any Pledged Instrument and (B) shall in no event cover any
+federal, state, local or other taxes imposed upon any of the Intercreditor Agent
+and Security Trustee with respect to or measured by its gross or net income or
+profits. A statement by the Intercreditor Agent and Security Trustee that is
+submitted to the Company with respect to the amount of such expenses and
+containing a reasonable description thereof and/or the amount of its
+indemnification obligation shall be prima facie evidence of the amount thereof
+owing to the Intercreditor Agent and Security Trustee.
+
+     Section 3.10  INTERCREDITOR AGENT AND SECURITY TRUSTEE AS A FOREIGN
+SUBSIDIARY EQUITY SECURED PARTY. In its individual capacity and in its capacity
+as an Agent, Fleet Capital Corporation shall have the same obligations and the
+same rights, powers and privileges as it would have had were it not also the
+Intercreditor Agent and Security Trustee.
+
+     Section 3.11  EXPENSES AND INDEMNIFICATION BY FOREIGN SUBSIDIARY EQUITY
+SECURED PARTIES. Each of the Foreign Subsidiary Equity Secured Parties agree (i)
+to reimburse the Intercreditor Agent and Security Trustee, on demand, in the
+amount of its pro rata share, for any costs, fees, disbursements, losses and
+other out of pocket expenses (including reasonable attorney's and other
+professionals' reasonable fees and disbursements and compensation of
+
+                                       11
+<Page>
+
+agents) referred to in Sections 3.6, 3.9 and 5(1) which shall not have been
+reimbursed or paid by the Company or paid from the proceeds of Foreign
+Subsidiary Equity Collateral as provided herein and (ii) to indemnify and hold
+harmless the Intercreditor Agent and Security Trustee and its directors,
+officers, employees and agents, on demand, in the amount of its pro rata share,
+from and against any and all liabilities, obligations, losses, damages,
+penalties, actions, judgments, suits, costs, expenses or disbursements referred
+to in Section 3.9, to the extent the same shall not have been reimbursed by the
+Company or paid from the proceeds of Foreign Subsidiary Equity Collateral as
+provided herein; provided that no Foreign Subsidiary Equity Secured Party shall
+be liable to the Intercreditor Agent and Security Trustee for any portion of
+such liabilities, obligations, losses, damages, penalties, actions, judgments,
+suits, costs, expenses or disbursements resulting from the gross negligence or
+willful misconduct of the Intercreditor Agent and Security Trustee or any of its
+directors, officers, employees or agents as determined by a final non-appealable
+order of a court of competent jurisdiction. Notwithstanding the foregoing, the
+obligation of the Foreign Subsidiary Equity Secured Parties under this Section
+3.11 shall be limited to the any collateral securing any Secured Obligations and
+in no event will any Foreign Subsidiary Equity Secured Party be personally
+liable for any amounts owing under this Section 3.11.
+
+                                   ARTICLE 4.
+           ADMINISTRATION OF THE FOREIGN SUBSIDIARY EQUITY COLLATERAL
+
+          The Intercreditor Agent and Security Trustee shall hold the Foreign
+Subsidiary Equity Collateral and any Lien thereon for the benefit of the Agents
+and the other Foreign Subsidiary Equity Secured Parties pursuant to the terms of
+this Agreement and the Foreign Security Documents. The Intercreditor Agent and
+Security Trustee shall administer, or direct the administration of, the Foreign
+Subsidiary Equity Collateral in the manner contemplated by the Foreign Security
+Documents and herein. The Intercreditor Agent and Security Trustee shall
+exercise such rights and remedies with respect to the Foreign Subsidiary Equity
+Collateral as are granted to it under the Foreign Security Documents and
+applicable law in the manner contemplated herein and therein.
+
+                                   ARTICLE 5.
+                             APPLICATION OF PROCEEDS
+
+          Subject to Article 13.03(3) and (4) of the Indenture, with respect to
+any cash dividends and distributions, following the occurrence of an Event of
+Default the proceeds of any collection, sale or other realization of all or any
+part of the Foreign Subsidiary Equity Collateral pursuant to the Foreign
+Security Documents, and any other cash at the time of such collection, sale or
+other realization held by or on behalf of the Intercreditor Agent and Security
+Trustee under the Foreign Security Documents or this ARTICLE 5, shall be applied
+by the Intercreditor Agent and Security Trustee in the following order or
+priority and, with the exception of CLAUSE (1) below, shall be based upon
+information furnished to the Intercreditor Agent and Security Trustee by the
+appropriate Agent:
+
+          (1)      FIRST, to the payment of (a) all reasonable costs, fees,
+     disbursements and expenses (including attorney's fees and other
+     professional fees) (1) relating to the collection of such proceeds, (2) for
+     the exercise, protection or enforcement by the
+
+                                       12
+<Page>
+
+     Intercreditor Agent and Security Trustee of all or any rights, remedies,
+     powers and privileges of the Intercreditor Agent and Security Trustee under
+     any of the Foreign Security Documents or in respect of the Foreign
+     Subsidiary Equity Collateral or in support of any provision of adequate
+     indemnity to the Intercreditor Agent and Security Trustee against any taxes
+     or liens which by law shall have, or may have, priority over the rights of
+     the Intercreditor Agent and Security Trustee to such proceeds and (3) the
+     collection of all amounts owing hereunder, including attorneys' fees and
+     disbursements and the reasonable compensation of the Intercreditor Agent
+     and Security Trustee for services rendered in connection therewith or in
+     connection with any proceeding to sell if a sale is not completed, in each
+     case, whether arising hereunder or under the Foreign Security Documents,
+     (b) all charges, expenses and advances incurred or made by the
+     Intercreditor Agent and Security Trustee in order to protect the Liens of
+     the Foreign Security Documents or the security afforded thereby, and (c)
+     all liabilities (including those specified in clauses (a) and (b)
+     immediately above) incurred by the Intercreditor Agent and Security Trustee
+     regardless of whether such liabilities arise out of the sale of Foreign
+     Subsidiary Equity Collateral or the collection of amounts owing hereunder;
+
+          (2)      SECOND, Equally and Ratably to the respective Agents as
+     further provided in Section 13 of the Indenture which is incorporated
+     herein by reference; and
+
+          (3)      THIRD, upon payment in full of all Secured Obligations, to
+     the Company or other applicable Obligor, or their successors or assigns, or
+     as a court of competent jurisdiction may direct, of any surplus then
+     remaining.
+
+          As used in this ARTICLE 5, "proceeds" of Foreign Subsidiary Equity
+     Collateral shall mean cash, securities and other property realized in
+     respect of, and distributions in kind of, Foreign Subsidiary Equity
+     Collateral, including, without limitation, any cash, securities and other
+     property received under any reorganization, liquidation or adjustment of
+     indebtedness of the
+
+                                   ARTICLE 6.
+                                     JOINDER
+
+          Each of the parties hereto acknowledges that any Agent for any
+Qualified Credit Facility will execute a Joinder Agreement confirming that it
+and the holders of the Secured Obligations that it represents is bound by the
+provisions hereof and of Article 13 of the Indenture and the Intercreditor Agent
+and Security Trustee shall countersign such Joinder Agreement whereupon such
+Agent on behalf of itself and any holder of any Secured Obligation represented
+thereby shall be entitled to the benefits of this Agreement and the Foreign
+Security Documents. By becoming a party to the Collateral Agency Agreement, the
+Trustee is, and each Parity Lien Representative will become, a third party
+beneficiary hereof and may rely on and enforce the provisions hereof.
+
+                                       13
+<Page>
+
+                                   ARTICLE 7.
+                                  MISCELLANEOUS
+
+     Section 7.1   SUCCESSORS AND ASSIGNS. The provisions of this Agreement
+shall be binding upon, and inure to the benefit of, the parties hereto and their
+respective successors and assigns.
+
+     Section 7.2   DELAY AND WAIVER. No failure on the part of any Agent to
+exercise, and no course of dealing with respect to, and no delay in exercising,
+any right, power or remedy hereunder shall impair any such right, power or
+remedy of the Agents nor shall it operate as a waiver thereof; nor shall any
+single or partial exercise by any Agent or any of its nominees or
+representatives of any right, power or remedy hereunder preclude any other or
+future exercise thereof or the exercise of any other right, power or remedy. The
+remedies herein are cumulative and are not exclusive of any remedies provided by
+law.
+
+     Section 7.3   COSTS AND EXPENSES. Except for reimbursement of the expenses
+specified in Sections 3.6, 3.9 and 5(1) out of the proceeds of any Foreign
+Subsidiary Equity Collateral, the Intercreditor Agent and Security Trustee shall
+receive no payment for its role hereunder and shall not otherwise be entitled to
+any reimbursement of costs and expenses.
+
+     Section 7.4   NOTICES. All notices, requests and demands to or upon the
+respective parties hereto to be effective shall be in writing (including by
+telecopy), and, unless otherwise expressly provided herein, shall be deemed to
+have been duly given or made when delivered, or three (3) Business Days after
+being deposited in the mail, postage prepaid, or, in the case of telecopy
+notice, when received, addressed (a) in the case of parties to this agreement on
+the date hereof, as follows and (b) in the case of any Parity Lien
+Representative, as specified in the related Joinder Agreement.
+
+          If to the Company:
+
+          Hexcel Corporation
+          Two Stamford Plaza
+          281 Tressler Boulevard
+          Stamford, CT 06901
+          203-358-3972
+          Attn: Ira Krakower, General Counsel
+
+          If to the Intercreditor Agent and Security Trustee or the Existing
+          Facility Agent:
+
+          Fleet Capital Corporation
+          North East Loan Administration
+          200 Glastonbury Blvd.
+          Glastonbury, Connecticut  06033
+          Attention: Edgar Ezerins
+
+          With copy to:
+
+                                       14
+<Page>
+
+          Bingham McCutchen LLP
+          150 Federal Street
+          Boston, MA 02110
+          Attention: Matthew F. Furlong
+
+          If to the Joint Collateral Agent:
+
+          HSBC Bank USA
+          452 5th Avenue
+          New York, New York 10018-2706
+          212-525-1398
+          Attn: Deirdre N. Ross, Issuer Services
+
+          If to the Trustee:
+
+          Wells Fargo Bank Minnesota, National Association
+          213 Court Street, Suite 703
+          Middletown, CT 06457
+          860-704-6216
+          Attn: Robert Reynolds, Vice President
+
+          Any party may hereafter notify the other parties hereto of a change in
+     its notice address.
+
+     Section 7.5   HEADINGS. Paragraph headings have been inserted in this
+Agreement as a matter of convenience for reference only and it is agreed that
+such paragraph headings are not part of this Agreement and shall not be used in
+the interpretation of any provision of this Agreement.
+
+     Section 7.6   COUNTERPARTS. This Agreement may be executed in one or more
+duplicate counterparts and when signed by all of the parties listed below shall
+constitute a single binding agreement.
+
+     Section 7.7   GOVERNING LAW. This Agreement shall be governed by the laws
+of the State of New York of the United States of America and shall for all
+purposes be governed by and construed in accordance with the laws of such state
+without regard to the conflict of law rules thereof other than Section 5-1401 of
+the New York General Obligations Law.
+
+     Section 7.8   CONSENT TO JURISDICTION. Any legal action or proceeding by or
+against any party hereto with respect to or arising out of this Agreement may be
+brought in or removed to the courts of the State of New York, in and for the
+County of New York, or of the United States of America for the Southern District
+of New York. By execution and delivery of this Agreement, the Company accepts,
+for itself and in respect of its property, generally and unconditionally, the
+jurisdiction of the aforesaid courts for legal proceedings arising out of or in
+connection with this Agreement and irrevocably consents to receive service of
+process at the address set forth in Section 7.4 herein. Nothing herein shall
+affect the right to serve process in any other manner permitted by law or any
+right to bring legal action or proceedings in any other competent jurisdiction,
+including judicial or non-judicial foreclosure of real property interests which
+are
+
+                                       15
+<Page>
+
+part of the Foreign Subsidiary Equity Collateral. Each party hereto hereby
+waives any right to stay or dismiss any action or proceeding under or in
+connection with this Agreement or any other Security Document brought before the
+foregoing courts on the basis of forum non-conveniens or improper venue.
+
+     Section 7.9   WAIVER OF JURY TRIAL. EACH PARTY HERETO HEREBY KNOWINGLY,
+VOLUNTARILY, AND INTENTIONALLY WAIVES ANY RIGHTS IT MAY HAVE TO A TRIAL BY JURY
+IN RESPECT OF ANY LITIGATION BASED HEREON, OR ARISING OUT OF, UNDER, OR IN
+CONNECTION WITH, THIS AGREEMENT, OR ANY COURSE OF CONDUCT, COURSE OF DEALING,
+STATEMENTS (WHETHER VERBAL OR WRITTEN), OR ACTIONS OF THE OTHER PARTIES HERETO.
+THIS PROVISION IS A MATERIAL INDUCEMENT FOR THE SECURED PARTIES TO ENTER INTO
+THIS AGREEMENT.
+
+     Section 7.10  ENTIRE AGREEMENT. This Agreement and any agreement, document
+or instrument attached hereto or referred to herein integrate all the terms and
+conditions mentioned herein or incidental hereto and supersede all oral
+negotiations and prior writings in respect to the subject matter hereof. In the
+event of any conflict between the terms, conditions and provisions of this
+Agreement and any such agreement, document or instrument, the terms, conditions
+and provisions of this Agreement shall prevail.
+
+     Section 7.11  SEVERABILITY. In case any one or more of the provisions
+contained in this Agreement should be invalid, illegal or unenforceable in any
+respect, the validity, legality and enforceability of the remaining provisions
+shall not in any way be affected or impaired thereby, and the parties hereto
+shall enter into good faith negotiations to replace the invalid, illegal or
+unenforceable provision with a view to obtaining the same commercial effect as
+this Agreement would have had if such provision had been legal, valid and
+enforceable.
+
+     Section 7.12  CONSENT TO LICENSE AGREEMENT. With reference to Section 13.05
+of the Indenture, the Joint Collateral Agent and the Trustee hereby (a) consent
+to the Company, its Domestic Subsidiaries and the Existing Credit Facility Agent
+entering into the License Agreement, dated as the date hereof, pursuant to which
+the Company and its Domestic Subsidiaries have, among other things, granted to
+the Existing Credit Facility Agent a license to use certain intellectual
+property and other rights of the Company and its Domestic Subsidiaries and (b)
+agree that the enforcement by the Joint Collateral Agent of any rights with
+respect to such intellectual property and other rights shall not impair the
+Existing Credit Facility Agent's (or any successor Credit Facility Agent's)
+exercise of its rights under such License Agreement. Notwithstanding the
+foregoing, the consent of the Joint Collateral Agent and the Trustee to such
+License Agreement shall only apply to the extent that such License Agreement
+provides for a non-exclusive royalty-free license to the Credit Facility Agent
+to use certain of the Company's and its Domestic Subsidiaries' inventions and
+the intellectual property rights embodied therein, certain inventions and
+intellectual property licensed to the Company and its Domestic Subsidiaries, in
+connection with the enforcement of its security interest upon any inventory
+constituting collateral of the Existing Credit Facility Agent.
+
+                                       16
+<Page>
+
+     Section 7.13  QUALIFIED CREDIT FACILITY. The parties hereto acknowledge and
+agree that by virtue of duly authorizing, executing and delivering this
+Agreement, the Existing Credit Facility shall constitute a Qualified Credit
+Facility as defined in the Indenture.
+
+                  [REMAINDER OF PAGE INTENTIONALLY LEFT BLANK]
+
+                                       17
+<Page>
+
+          IN WITNESS WHEREOF, the parties hereto have caused this Intercreditor
+& Agency Agreement to be executed by their respective officers or
+representatives hereunto duly authorized as of the day and year first above
+written.
+
+
+                                     HEXCEL CORPORATION
+                                     as Company
+
+
+                                     By:/s/ Stephen C. Forsyth
+                                        ---------------------------------------
+                                        Name: Stephen C. Forsyth
+                                        Title: Executive Vice President
+                                               and Chief Financial Officer
+
+                                     FLEET CAPITAL CORPORATION
+                                     as Intercreditor Agent and Security Trustee
+
+
+                                     By:/s/ Edgar Ezerins
+                                        ---------------------------------------
+                                        Name: Edgar Ezerins
+                                        Title: Senior Vice President
+
+                                     FLEET CAPITAL CORPORATION
+                                     as Existing Facility Agent
+
+
+                                     By:/s/ Edgar Ezerins
+                                        ---------------------------------------
+                                        Name: Edgar Ezerins
+                                        Title: Senior Vice President
+
+
+                                     HSBC BANK USA
+                                     as Joint Collateral Agent
+
+
+                                     By:/s/ Deirdra N. Ross
+                                        ---------------------------------------
+                                        Name: Deirdra N. Ross
+                                        Title: Assistant Vice President
+
+
+                                     WELLS FARGO BANK MINNESOTA, NATIONAL
+                                     ASSOCIATION, as Trustee
+
+
+                                     By:/s/ FRANK MCDONALD
+                                        ---------------------------------------
+                                        Name: Frank McDonald
+                                        Title: Vice President
+
+</TEXT>
+</DOCUMENT>

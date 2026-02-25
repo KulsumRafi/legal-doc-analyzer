@@ -1,0 +1,1392 @@
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>10
+<FILENAME>f10k_02manufacturing.txt
+<DESCRIPTION>EXHIBIT 10.49 MANUFACTURING AGREEMENT LAUREATE
+<TEXT>
+
+                                                                   EXHIBIT 10.49
+
+
+          Confidential Materials omitted and filed separately with the
+       Securities and Exchange Commission. Asterisks denote omissions.
+
+
+
+
+                        CONTRACT MANUFACTURING AGREEMENT
+
+                                 BY AND BETWEEN
+
+                              LAUREATE PHARMA L.P.
+
+                                       AND
+
+                               CYTOGEN CORPORATION
+
+                                      DATED
+
+                                JANUARY 15, 2003
+
+
+
+
+
+<PAGE>
+
+                               TABLE OF CONTENTS
+
+                                                                            Page
+
+1.       Definitions..........................................................1
+
+2.       Commencement; Expiration.............................................6
+
+3.       Consideration........................................................7
+
+4.       Payments.............................................................8
+
+5.       Performance of Services; Other Assistance; FDA Fees.................12
+
+6.       Manufacturing and Testing; Approvals; SOPs..........................13
+
+7.       Materials Delivery; Testing.........................................15
+
+8.       Payment Dates; Late Payments........................................19
+
+9.       Renovation Schedule; Regulatory Matters and Approvals;
+          Order Dates........................................................20
+
+10.      Stability Testing; Shipping.........................................22
+
+11.      Cytogen's Covenants, Representation and Warranties..................23
+
+12.      Laureate's Covenants, Representations and Warranties;
+          Limited Liability..................................................24
+
+13.      Indemnities.........................................................28
+
+14.      Contact Individuals.................................................30
+
+15.      No Biohazards.......................................................30
+
+16.      Termination.........................................................30
+
+17.      Insurance...........................................................32
+
+18.      Confidentiality.....................................................33
+
+19.      Notices.............................................................34
+
+20.      Non-Exclusivity.....................................................35
+
+
+<PAGE>
+
+21.      Entire Agreement....................................................36
+
+22.      Governing Law.......................................................36
+
+23.      Assignment..........................................................36
+
+24.      Independent Contractors.............................................37
+
+25.      No Waiver...........................................................37
+
+26.      Force Majeure.......................................................37
+
+27.      Third Parties.......................................................37
+
+28.      Interpretation......................................................38
+
+29.      Singular Terms......................................................38
+
+30.      Headings............................................................38
+
+31.      Counterparts........................................................38
+
+32.      Severability........................................................39
+
+
+                                       ii
+
+
+<PAGE>
+
+
+                             MANUFACTURING AGREEMENT
+                             -----------------------
+
+              MANUFACTURING AGREEMENT, dated January 15, 2003, by and between
+CYTOGEN CORPORATION, a Delaware corporation ("Cytogen") and LAUREATE PHARMA
+L.P., a Delaware limited partnership ("Laureate").
+
+                              W I T N E S S E T H :
+                              --------------------
+
+              WHEREAS, Cytogen wishes to engage the services of Laureate to
+produce Filled ProstaScint Product and Filled Sodium Acetate Product (each as
+hereinafter defined) in accordance with the provisions hereof.
+
+              NOW, THEREFORE, it is agreed as follows:
+
+     1.  Definitions.  The following terms shall have the meanings  specified in
+this paragraph 1. Other terms are defined in this Agreement and, throughout this
+Agreement, those terms shall have the meanings respectively ascribed to them.
+
+          (a)  "Affiliate"  means,  with respect to a party,  any  individual or
+     entity which  controls,  is controlled  by or is under common  control with
+     such party. For purposes of this  definition,  "control" means an equity or
+     income  interest  of fifty  percent  (50%) or more in,  or the  possession,
+     directly  or  indirectly,  of the  power  to  cause  the  direction  of the
+     management,  activities or policies of such  individual or entity,  whether
+     through the  ownership of voting  securities or other equity  interest,  by
+     contract or otherwise.
+
+<PAGE>
+          (b) "Batch" means (i) with respect to CYT-351,  the specific  quantity
+     of CYT-351  which is  produced as a result of the  performance  of a single
+     [**] hollow-fiber run; (ii) with respect to CYT-356,  the specific quantity
+     of CYT-356 which is produced from the conjugation of a Batch of CYT-351, or
+     the conjugation of a specified  identified  portion of a Batch of CYTll-351
+     or the conjugation of combined  batches of CYT-351;  and (iii) with respect
+     to sodium acetate buffer solution,  the specific quantity of sodium acetate
+     buffer solution produced during the course of a single  manufacturing  run.
+
+
+          (c)  ""Cytogen  SOPs"  means  Cytogen's  written  standard   operating
+     procedures to be utilized in connection  with the  manufacture,  production
+     and in-process release testing of CYT-351,  Filled ProstaScint  Product and
+     Filled  Acetate  Product.
+
+          (d) "Cytogen Supplied Materials" means all ingredients, raw materials,
+     resins,  components  and  supplies,  except for water and facility  derived
+     process  gasses,  required in connection with the production by Laureate of
+     CYT-351,  Filled ProstaScint Product or Filled Sodium Acetate Product.
+
+          (e) "CYT-351" means the monoclonal antibody intermediate product which
+     is  used  in   manufacturing   ProstaScint.
+
+          (f) "CYT-356" means the  immunoconjugated  form of CYT-351  (sometimes
+     referred  to  in  the  course  of  manufacture  and  production  of  Filled
+     ProstaScint  Product as bulk ProstaScint).
+
+                                       2
+<PAGE>
+
+          (g) "Facility"  means  Laureate's  manufacturing  and filling premises
+     located in  Princeton,  New Jersey.
+
+          (h) "Facility Fee" means the fee for facility  access and  utilization
+     provided for in paragraph  3(a).
+
+          (i) "FDA"  means the United  States Food and Drug  Administration  and
+     shall include any division or center  thereof.
+
+          (j) "Filled  Sodium  Acetate  Product"  means vials filled with sodium
+     acetate  solution  from an  identified  Lot which  are in a form  ready for
+     release and shipment from the Facility.
+
+          (k) "Filled  ProstaScint  Product" means the vials filled with CYT-356
+     from an  identified  Lot which are in a form ready for release and shipment
+     from the Facility.
+
+          (l)  "cGMP"  means  current  Good  Manufacturing   Practices  for  the
+     manufacture and testing of  pharmaceutical  materials,  as specified in the
+     Code of Federal Regulations and associated  regulatory agency guidelines as
+     currently  interpreted  and  practiced  by  Laureate at the  Facility.
+
+          (m) "Incoming  Acceptance  Tests" means,  with respect to each Cytogen
+     Supplied Material,  the analysis or testing thereof supplied to Laureate by
+     Cytogen  pursuant to paragraph  6(b) hereof and to be performed by Laureate
+     in order to determine whether or not such Cytogen Supplied Product conforms
+     to the  applicable  approved  Specifications.
+
+
+                                       3
+<PAGE>
+
+          (n)  "Laureate  SOPs"  means  Laureate's  written  standard  operation
+     procedures   utilized  by  Laureate  in  connection  with  its  operational
+     activities  at  the  Facility.
+
+          (o) "Lot" means a Batch or a specific identified portion of a Batch of
+     CYT-356 or sodium acetate,  as applicable,  which is produced in the course
+     of Laureate's  performance of a single  manufacturing  production  run.
+
+          (p)  "Manufacturing  Procedures"  means  the  activities,   processes,
+     procedures  and  instructions  provided to Laureate by Cytogen  pursuant to
+     paragraph  6(a) hereof and to be utilized by Laureate in the  production of
+     CYT-351,  Filled ProstaScint Product and Filled Sodium Acetate Product.
+
+          (q) "On Hand CYT" means the quantity of CYT-351 in the  possession  of
+     Cytogen on the date  hereof and to be  supplied  by Cytogen to  Laureate in
+     connection with Laureate's  performance of the Primary Production Campaign.
+
+
+          (r) "Optional Production Campaign" means Laureate's performance of (i)
+     up to two (2) [**] hollow fiber runs to the end of producing CYT-351,  (ii)
+     against Cytogen's order therefor,  Laureate's  performance of up to two (2)
+     conjugations  of the  quantity  of CYT-351  produced  pursuant  to Laureate
+     performance of the [**] hollow fiber runs  referenced in clause (i) of this
+     definition  to the end of producing  ProstaScint  including all Services to
+     supply Cytogen with Filled ProstaScint  Product and (iii) against Cytogen's
+     order  therefor,  Laureate's  performance  of up to two (2) sodium  acetate
+     fills,  each fill utilizing a volume of sodium  acetate buffer  solution as
+     specified in the Batch  record to the end of supplying  Cytogen with Filled
+     Sodium Acetate Product.
+
+                                       4
+<PAGE>
+
+          (s) "Primary Production Campaign" means Laureate's  performance of (i)
+     two (2) conjugation  runs utilizing the On Hand CYT to the end of producing
+     ProstaScint   including   all  Services  to  supply   Cytogen  with  Filled
+     ProstaScint  Product  and (ii) two (2)  sodium  acetate  fills,  each  fill
+     utilizing a volume of sodium  acetate  buffer  solution as specified in the
+     Batch record  including  all Services to the end of supplying  Cytogen with
+     Filled  Sodium  Acetate  Product.
+
+          (t) "ProstaScint" means the compound capromab pendetide  formulated by
+     conjugating the murine monoclonal  antibody CYT-351 to the  linker-chelator
+     glycl-tyrosyl-(N-diethyltriaminepentaacetic acid)-lysine hydrochloride.
+
+          (u)  "Services"  means the  activities  undertaken  by Laureate in the
+     course of Laureate's performance of the Primary Production Campaign and, if
+     applicable,  the  Optional  Production  Campaign or any part  thereof.
+
+          (v)  "Specifications"  means Cytogen's  approved  specifications  with
+     respect  to  CYT-351,  CYT-356,  the  Cytogen  Supplied  Materials,  Filled
+     ProstaScint  Product and Filled  Sodium  Acetate  Product,  as  applicable,
+     provided to  Laureate.  Specifications  may be amended from time to time by
+     mutual written agreement of Laureate and Cytogen subject to the approval by
+     the FDA of each amendment, if necessary.
+
+
+                                       5
+<PAGE>
+
+     2.  Commencement;  Orders;  Options;  Expiration.  (a) This Agreement shall
+commence on the date hereof.
+
+          (b) Cytogen  hereby orders from  Laureate the Services  required to be
+     performed by Laureate in connection with Laureate's  conduct of the Primary
+     Production  Campaign.
+
+          (c) Cytogen  shall have the option,  such option to be  exercised  not
+     later than March 1, 2003, to order from  Laureate the Services  required to
+     be performed by Laureate in connection with  Laureate's  conduct of one (1)
+     or two (2) hollow fiber runs  identified in clause (i) of the definition of
+     Optional  Production  Campaign,  the number of such hollow fiber runs to be
+     notified  to Laureate  in the event of the  exercise of the option  granted
+     hereby.
+
+          (d) Subject to the provisions  hereof,  this  Agreement,  in the event
+     Cytogen does not exercise the option granted Cytogen  pursuant to paragraph
+     2(c) hereof,  shall expire on such date as Laureate has (i)  completed  the
+     Primary Production Campaign and (ii) the Filled ProstaScint Product and the
+     Sodium  Acetate  Product  resulting  therefrom  have been  shipped from the
+     Facility in accordance  with  paragraph  10(b)  hereof.
+
+          (e) Subject to the provisions  hereof,  in the event Cytogen exercises
+     the option granted Cytogen pursuant to paragraph 2(c) hereof,  Cytogen,  in
+     its  discretion,  may order  from  Laureate  the  Services  required  to be
+     performed by Laureate in connection  with  Laureate's  conduct of either or
+     both of the  conjugation(s) and fill(s) described in clauses (ii) and (iii)
+
+
+                                       6
+<PAGE>
+
+     of the  definition of Optional  Production  Campaign.  In the event Cytogen
+     does not order either of the Services as aforesaid,  on or before September
+     1, 2003 then this Agreement  shall expire ten (10) business days thereafter
+     unless  Cytogen has  notified  Laureate  within such ten (10)  business day
+     period,  that the  CYT-351  produced  by  Laureate  by reason of  Cytogen's
+     exercise of option granted Cytogen pursuant to paragraph 2(c) does not meet
+     Specifications.  Cytogen agrees to take all commercially reasonable actions
+     necessary  that the CYT-351 so produced is shipped  from the  Facility  not
+     later than  fifteen  (15) days  following  the  conclusion  of the ten (10)
+     business day period provided for in this paragraph 2(e).
+
+          (f) Subject to the provisions hereof, in the event that Cytogen places
+     an order with Laureate  pursuant to paragraph  2(e),  this Agreement  shall
+     expire  on  December  31,  2003.
+
+     3.  Consideration.  In consideration of Laureate's  performance of services
+hereunder,  Cytogen agrees to pay Laureate as follows:
+
+          (a) A facility access and  utilization fee in the aggregate  amount of
+     $[**];
+
+          (b) $[**] for each  performance by Laureate of a [**] hollow fiber run
+     to the end of  producing  CYT-351 and the  purification  of the quantity of
+     CYT-351 so  produced;
+
+          (c) $[**] for each  performance  by Laureate of the Services  required
+     with  respect  to  the   conjugation   of  CYT-351   necessary  to  produce
+     ProstaScint,  including the Services to be performed by Laureate to the end
+     of supplying Cytogen with Filled ProstaScint  Product hereunder;
+
+
+                                       7
+<PAGE>
+
+          (d) $[**] for each  performance by Laureate of the Services  necessary
+     to supply Cytogen with vials of Filled Sodium Acetate Product such vials to
+     be filled from a volume of bulk sodium acetate buffer solution as specified
+     in the Batch record.
+
+          (e) $[**] for each  instance in which  Laureate  performs a media fill
+     validation  run in support of the  Services  required  to be  performed  by
+     Laureate to produce  Filled  ProstaScint  Product or Filled Sodium  Acetate
+     Product.
+
+          (f) $[**] such amount being the agreed  monetary  value of  Laureate's
+     performance of the set-up  activities  which the parties have agreed are to
+     be undertaken by Laureate in connection with Laureate's  performance of the
+     Primary Production  Campaign and which are identified as part of Exhibit A.
+
+          (g) $[**] in the event  that  Cytogen  exercises  the  option  granted
+     Cytogen under paragraph 2(c) hereof,  such amount being the agreed monetary
+     value of Laureate's  performance of the set-up activities which the parties
+     have agreed are to be undertaken by Laureate in connection  with Laureate's
+     performance  of the Option  Production  Campaign  and which are included in
+     Exhibit A.
+
+     4. Payments. (a) The amount due under paragraph 3(a) shall be payable $[**]
+on the date hereof,  $[**] on April 1, 2003,  $[**] on July 1, 2003 and $[**] on
+October 1, 2003. The amounts payable to Laureate under this paragraph 4(a) shall
+
+                                       8
+<PAGE>
+
+be due and payable by Cytogen to Laureate  notwithstanding  prior fulfillment by
+Laureate of its obligations hereunder to the end that this Agreement has expired
+in accordance  with the provisions of paragraph  2(d) hereof.
+
+          (b) In  connection  with  Cytogen's  order with respect to the Primary
+     Production  Campaign made hereby  pursuant to paragraph 2(b), the following
+     amounts shall be due and payable:
+
+               (i) $[**] upon the execution and delivery hereof;
+
+               (ii) an amount equal to [**]  percent of the amount  provided for
+          in paragraph  3(c), 3(d) or 3(e) shall be payable on the date Laureate
+          commences the applicable Services part of the Manufacturing Procedures
+          required to be performed in respect of paragraph 3(c),  3(d), or 3(e);
+
+
+               (iii) an amount  equal to [**]  percent  of the  amount due under
+          paragraphs 3(c), 3(d) and 3(e) shall be payable ten (10) business days
+          following the date the Laureate  Contact  Individual,  as  hereinafter
+          defined, notifies Cytogen that the document review to be undertaken by
+          Laureate  with respect to Filled  ProstaScint  Product,  Filled Sodium
+          Acetate Products or the media fill validation run, as applicable,  has
+          been undertaken and such documents have been determined by Laureate to
+          be complete and correct; provided, that, within such ten (10) business
+
+                                       9
+<PAGE>
+
+          day  period,  Cytogen  has  not  notified  Laureate  that  the  Filled
+          ProstaScint  Product,  the Filled Sodium Acetate  Product or the media
+          fill validation run does not meet Specifications.
+
+          (c) In the event of Cytogen's  exercise of the option granted pursuant
+     to paragraph  2(c) with respect to the Optional  Production  Campaign,  the
+     amounts set forth  below  shall be due and  payable as follows:
+
+               (i) On the  date of  Cytogen's  exercise  of the  option  granted
+          Cytogen pursuant to paragraph 2(c), the sum of $[**] in respect of the
+          payment  required under  paragraph 3(g) hereof plus an amount equal to
+          [**] percent of the aggregate  amount due under paragraph 3(b) hereof;
+
+
+               (ii) an amount  equal to [**]  percent  of the  aggregate  amount
+          payable and provided for under  paragraph 3(b) shall be payable on the
+          date that Laureate  commences the  Manufacturing  Procedures which are
+          part of the Services to be  performed  in respect of  paragraph  3(b).
+
+               (iii) an amount equal to [**]  percent of the amount  payable and
+          provided  for in  paragraph  3(b) shall be due and payable on the date
+          that Laureate, in accordance with the Quality Agreement, has completed
+          performance of the  applicable  Manufacturing  Procedures  part of the
+          Services to the end that there has been  produced  CYT-351 ready to be
+          conjugated  to form  ProstaScint.
+
+               (iv) upon a Cytogen order under paragraph 2(e) hereof,  an amount
+          equal to [**] percent of each  aggregate  amount due under  paragraphs
+          3(c),  3(d)  and  3(e),  as  applicable,   such  applicability  to  be
+
+                                       10
+<PAGE>
+
+          determined in with the terms of such order,  if being  understood that
+          in  connection  with  the  fulfillment  of any  such  order it will be
+          necessary for Laureate to perform a media fill identified in paragraph
+          3(e);
+
+               (v) with respect to  Laureate's  performance  of a Cytogen  order
+          under  paragraph  2(e),  an  amount  equal  to  [**]  percent  of each
+          aggregate   amount  due  under  paragraphs  3(c),  3(d)  or  3(e),  as
+          applicable, such applicability to be determined in accordance with the
+          terms of such order,  shall be payable on the date Laureate  commences
+          the  applicable  Manufacturing  Procedures  part of the Services to be
+          performed in respect of paragraph 3(c), 3(d) or 3(e);
+
+               (vi) with respect to  Laureate's  performance  of a Cytogen order
+          under paragraph 2(e), an amount equal to [**] percent of the aggregate
+          amount due under  paragraphs  3(c), 3(d) or 3(e), as applicable,  such
+          applicability  to be determined  in accordance  with the terms of such
+          order,  shall be payable ten (10) business days following the date the
+          Laureate Contact Individual (as hereinafter  defined) notifies Cytogen
+          that the  document  review to be  undertaken  with  respect  to Filled
+          ProstaScint  Product,  Filled  Sodium  Acetate  Product  or media fill
+          validation run, as applicable,  has been undertaken and such documents
+          by Laureate have been determined to be complete and accurate; provided
+
+                                       11
+<PAGE>
+
+          that within such ten (10) business day period Cytogen has not notified
+          Laureate  that the  Filled  ProstaScint  Product,  the  Filled  Sodium
+          Acetate  Product  or the  media  fill  validation  run  does  not meet
+          Specifications.
+
+     5. Performance of Services;  Other  Assistance;  FDA Fees. (a) All Services
+shall be performed by Laureate in accordance with the Quality Agreement.
+
+          (b) Upon  agreement of the parties,  Laureate  will assist  Cytogen in
+     connection with validation  studies,  transfers of data,  methodologies and
+     procedures  to a third  party  retained  by  Cytogen  for the  manufacture,
+     production and in-process and release testing of CYT-351, CYT-356 of Filled
+     ProstaScint   Product  and/or  Filled  Sodium  Acetate  Product,   internal
+     inspections  of plant and  warehouse  premises,  inspections  by the FDA of
+     Cytogen  facilities  and such  other  activities  as may be  agreed  by the
+     parties.
+
+          (c)  Assistance  rendered by Laureate  under  paragraph  5(b) shall be
+     invoiced  to Cytogen in an amount  equal to (a) the product  determined  by
+     multiplying the aggregate hours expended by Laureate personnel in rendering
+     such assistance by $[**] per hour plus (B) out-of-pocket  costs incurred by
+     Laureate that have been approved by Cytogen. Alternatively, the parties may
+     agree on a fixed price for the subject matter or activity in question.
+
+          (d) Any FDA fee with respect to the  licensing of  facilities at which
+     commercial manufacture of Cytogen marketed  pharmaceutical  products occurs
+     shall be borne and paid for by Cytogen ("Establishment Fee"). Laureate will
+     immediately  inform  Cytogen  of any  and  all FDA  approved  and  marketed
+
+                                       12
+<PAGE>
+
+     pharmaceutical  products  manufactured  by Laureate in the  Facility  for a
+     third party in addition to  Laureate's  manufacturing  services  hereunder.
+     Laureate shall have the right to perform  manufacturing  services for third
+     parties at the Facility.
+
+     6.  Manufacturing  and Testing;  Approvals;  SOPs. (a) Cytogen will provide
+Laureate in writing upon the execution hereof with the Manufacturing  Procedures
+which shall  include all requisite  technical  specifications,  manufacture  and
+production process information, instructions and procedures, testing and quality
+control instructions and procedures, formulae, storage instructions with respect
+to the  manufacture of CYT-351,  CYT-356,  Filled  ProstaScint  Product,  Filled
+Sodium  Acetate  Product  or  intermediates  of any  nature  and all such  other
+information,  knowledge,  data  and  know-how  as  would  allow  one  reasonably
+practiced  in the  art to  produce  and  manufacture  CYT-351,  CYT-356,  Filled
+ProstaScint Product and Filled Sodium Acetate Product.
+
+          (b) Cytogen will provide Laureate in writing upon the execution hereof
+     with the  Incoming  Acceptance  Tests  which shall  include  all  requisite
+     analyses  and tests with  respect to each Cytogen  Supplied  Material,  the
+     methodology  of  each  such  analysis  and  test,  the  sample  size of the
+     applicable  Cytogen Supplied Material to be utilized in connection with the
+     performance  of  the  applicable  analyses  and/or  tests  and  the  period
+     following  Laureate's  receipt of such  Cytogen  Supplied  Material  at the
+     Facility during which the applicable analyses or tests are to be conducted.
+
+
+                                       13
+<PAGE>
+
+          (c) Cytogen will provide Laureate in writing upon the execution hereof
+     with the  Specifications for each of CYT-351,  CYT-356,  Filled ProstaScint
+     Product and Filled Sodium Acetate Product.
+
+          (d) Within ten (10) days  after  Laureate's  receipt in writing of the
+     Manufacturing   Procedures,   the  Incoming   Acceptance   Tests,  and  the
+     Specifications,  Laureate  shall notify Cytogen of its ability or inability
+     to  render  Services   hereunder  in  conformance  with  the  Manufacturing
+     Procedures,  to perform the Incoming  Acceptance  Tests and to  manufacture
+     CYT-351,  CYT-356,  Filled  ProstaScint  Product or Filled Acetate  Product
+     conforming to the applicable specifications.
+
+          (e) In the event that Laureate gives notice pursuant to paragraph 6(d)
+     of its inability to provide Services in conformance with the  Manufacturing
+     Procedures,  to perform the  Incoming  Acceptance  Tests or to  manufacture
+     CYT-351,  CYT-356,  Filled  ProstaScint  Product or Filled  Sodium  Acetate
+     Product  conforming  to  the  applicable  Specifications,  the  rights  and
+     obligations of the parties under this Agreement shall be suspended  without
+     liability. Following any such notice, Laureate shall prepare an action plan
+     ("Plan") with respect to enabling  Laureate to provide Services as required
+     herein  for  Cytogen's  approval,  such  approval  not  to be  unreasonably
+     withheld or delayed.  Laureate  agrees to undertake  reasonable  commercial
+     efforts  to  implement  the Plan to the end of  having  the  capability  of
+     rendering Services in conformance with the Manufacturing  Procedures and to
+
+                                       14
+<PAGE>
+
+     perform the Incoming Acceptance Tests and to manufacture CYT-351,  CYT-356,
+     Filled ProstaScint  Product and Filled Sodium Acetate Product conforming to
+     the applicable Specifications.
+
+          (f) Notwithstanding anything in this Agreement to the contrary, in the
+     event the  Laureate  inability  with  respect to which  Laureate  has given
+     notice pursuant to paragraph 6(d) is not resolved by March 1, 2003, Cytogen
+     shall have the option to terminate this Agreement  without penalty.  In the
+     event Cytogen  exercises  such option,  the rights and  obligations  of the
+     parties hereunder shall wholly cease without further or other liability and
+     Laureate  shall  immediately  refund to  Cytogen  any  amount  then paid by
+     Cytogen to Laureate  with  respect to the  Facility  Fee and those fees for
+     Services  or  otherwise  due under  paragraph  5(c) which have not yet been
+     performed  by  Laureate.  Time is of the essence with respect to payment of
+     the refund provided for in this paragraph 6(f).
+
+          (g) Laureate  shall  provide to Cytogen and Cytogen  shall  provide to
+     Laureate the Laureate SOPs and the Cytogen SOPs, as applicable, on the date
+     of execution hereof.
+
+     7. Materials Delivery;  Testing.  (a) Laureate shall prepare for Cytogen on
+Cytogen's forms therefor,  requisition and purchase orders for Cytogen  Supplied
+material to be used in connection  with the  manufacture  of Filled  ProstaScint
+Product and Filled Sodium Acetate  Product.  Following  preparation of the same,
+Laureate  shall  forward to Cytogen each such  requisition  and purchase  order,
+together  with  the  applicable  requisition  and  purchase  order  number,  for
+Cytogen's  review,  approval  and  execution  thereof.  It  shall  be  Cytogen's
+
+
+                                       15
+<PAGE>
+obligation  hereunder to timely place the approved and executed  requisition and
+purchase order with the applicable  vendor for Cytogen's account to the end that
+the Cytogen Supplied Materials  identified therein are delivered or caused to be
+delivered to the Facility at the time provided for in paragraph 7(d).
+
+          (b) All costs and  expenses  of any  nature  or kind  whatsoever  with
+     respect to Cytogen Supplied  Materials or the shipment and delivery thereof
+     to the Facility  shall be borne and paid by Cytogen in accordance  with the
+     terms and conditions  agreed to by Cytogen with the vendor and/or  carrier,
+     as applicable, following receipt of the vendor's or carrier's invoice.
+
+          (c) Title to all Cytogen  Supplied  materials  shall remain in Cytogen
+     notwithstanding  the  storage  and  Laureate's  possession  thereof  at the
+     Facility.
+
+          (d) Within 30 days of Cytogen's order for Filled  ProstaScint  Product
+     and/or  Filled Sodium  Acetate  Product,  Laureate will provide  Cytogen in
+     writing of  Laureate's  intended  dates for the conduct of each  process or
+     activity part of the Manufacturing  Procedures necessary to be performed by
+     Laureate to fill such order.  Unless  otherwise  agreed,  Cytogen agrees to
+     deliver  or cause  to be  delivered  to the  Facility  such of the  Cytogen
+     Supplied  Materials  as are  necessary  to perform or complete a process or
+     activity  part of the  Manufacturing  Procedures  not less than twenty (20)
+     days nor more  than  ninety  (90)  days  prior  to the  date  Laureate  has
+     scheduled the performance of such process or activity.
+
+
+                                       16
+<PAGE>
+
+          (e) Following  receipt of a Cytogen Supplied Material at the Facility,
+     Laureate  shall  perform the  applicable  analysis  thereof or test thereon
+     provided for in the Incoming Acceptance Tests. In the event the performance
+     of an analysis or test determines that the Cytogen  Supplied  Material does
+     not meet  Specifications  or is otherwise  unsuitable for use in connection
+     with the  production of CYT-351,  CYT-356,  Filled  ProstaScint  Product or
+     Filled Sodium Acetate  Product,  Laureate shall promptly notify the Cytogen
+     Contact  Individual (as hereinafter  defined) of such determination and the
+     results of the applicable analyses or tests performed.
+
+          (f) In the event that Laureate  provides  notice under paragraph 7(e),
+     Cytogen shall promptly  inform  Laureate in writing of the action it wishes
+     Laureate to take with respect to the Cytogen Supplied Material in question,
+     including reanalysis,  retesting,  disposal, return or such other action as
+     otherwise  specified  by Cytogen.  Costs  incurred  by Laureate  under this
+     paragraph  7(f) shall be invoiced to Cytogen in accordance  with  paragraph
+     5(c) hereof.
+
+          (g) Cytogen shall use its reasonable  commercial efforts to deliver or
+     cause  to be  delivered  to  the  Facility  Cytogen  Supplied  Material  in
+     replacement  of any  material  which  does  not meet  Specifications  or is
+     otherwise  unsuitable  in  the  production  of  CYT-351,   CYT-356,  Filled
+     ProstaScint  Product or Filled Sodium  Acetate  Product to the end that the
+     date scheduled by Laureate for the use of such Cytogen  Supplied Product in
+     connection with the performance of a Manufacturing Procedure is maintained.
+
+                                       17
+<PAGE>
+          (h)  In  the  event  a  Cytogen   Supplied   Material  fails  to  meet
+     Specifications  and  Cytogen  is unable to  timely  deliver  or cause to be
+     delivered to the  Facility  the  applicable  Cytogen  Supplied  Material in
+     replacement  thereof so as to maintain  the date  scheduled by Laureate (as
+     notified to Cytogen under paragraph 7(d)) for use of such Cytogen  Supplied
+     Product in connection with the  performance of a  Manufacturing  Procedure,
+     then Laureate may, in its discretion and without liability for any delay in
+     the manufacture of CYT-351,  CYT-356, Filled ProstaScint Product and Filled
+     Sodium Acetate Product, revise the schedule provided to Cytogen pursuant to
+     paragraph  7(d) and give notice of such revised  schedule to Cytogen to the
+     end that Laureate may perform any commitment Laureate may have to any third
+     party or Affiliate with respect to  utilization of the Facility;  provided,
+     however,  that Laureate will attempt to negotiate to defer the  performance
+     of any  commitment  to a third party or Affiliate to the end that  Laureate
+     may perform the Services  required with respect to  Laureate's  order under
+     paragraph 2(b) on a priority basis.
+
+          (i)  Notwithstanding  anything  to the  contrary  in  this  Agreement,
+     Laureate  shall not be obligated  to utilize the On-Hand CYT in  connection
+     with any Manufacturing  Procedure until such time as Cytogen has documented
+     to  Laureate's  reasonable  satisfaction  that  the On Hand  CYT  has  been
+     stability  tested as  required  by any  applicable  law or  regulation  and
+     otherwise meets Specifications.
+
+
+                                       18
+
+<PAGE>
+
+          (j) The  applicable  provisions  of the  Quality  Agreement  shall  be
+     complied  with in the event  Laureate  utilizes the services of third party
+     sub-contractors   in  connection  with   Laureate's   performance  of  this
+     Agreement.
+
+     8. Payment Dates;  Late Payments.  (a) Invoices by Laureate with respect to
+amounts due in respect of paragraph  3(a), (b), (c), (d),or (e) shall be payable
+upon Cytogen's receipt thereof.
+
+          (b) Undisputed  invoices by Laureate with respect to amounts due under
+     paragraph 5 five  hereof  shall be payable  within  thirty (30) days of the
+     invoice date.
+
+          (c)  Invoices due for Services  performed in  accordance  with Quality
+     Agreement  due pursuant  hereto and not timely paid shall bear  interest at
+     the rate of one and one half percent (1.5%) per month on the unpaid balance
+     thereof.
+
+          (d) Time is of the essence with request to payments due hereunder.  In
+     the  event  that an  invoice  remains  unpaid  for five (5)  business  days
+     following  written  notice by Laureate  to Cytogen of such  failure to pay,
+     Laureate  may, in addition to its rights  under  paragraph  16 hereof,  (i)
+     suspend the  performance of its  obligations  hereunder with respect to the
+     manufacture of CYT-351,  CYT-356,  Filled ProstaScint Product and/or Filled
+     Acetate Product until such time as payment is made and (ii) in the event of
+     such  suspension,  Laureate  may  exercise  its right,  as provided  for in
+     paragraph  7(h),  to revise the  schedule  provided to Cytogen  pursuant to
+     paragraph 7(d).
+
+                                       19
+<PAGE>
+     9. Regulatory  Matters and Approvals;  Order Dates.  (a) Laureate agrees to
+use  its  reasonable  commercial  efforts  to the  end  that  Laureate  has  the
+capability to perform the Manufacturing  Procedures to be utilized in connection
+with the performance of two conjugation  runs with respect to the On Hand CYT to
+the end of producing  ProstaScint not later than May 31, 2003 and to perform the
+Manufacturing  Procedures to be utilized in connection  with the [**] day hollow
+fiber runs and the purification of the quantity of CYT-351  resulting  therefrom
+beginning on or about July 1, 2003.
+
+          (b)  Cytogen  agrees  that it shall not,  with  respect to an order of
+     Filled ProstaScint Product or Filled Sodium Acetate Product, specify a date
+     for  the  fulfillment  of all or  part  of  such  order  inconsistent  with
+     Laureate's capability to perform at the Facility a Manufacturing  Procedure
+     necessary in  connection  with the  fulfillment  thereof  prior to the date
+     provided for in paragraph 9(a).
+
+          (c) Laureate will timely advise Cytogen of Laureate's renovation plans
+     and renovation work to be undertaken with respect to the Facility.  Cytogen
+     and/or  Laureate  will prepare and timely  submit to the FDA all  necessary
+     documentation  to the  end  that  the FDA  approves  the  Facility  for the
+     manufacture and production of CYT-351,  CYT-356, Filled ProstaScint Product
+     and Filled Sodium Acetate Product.
+
+          (d) Within ten (10) business days following the execution and delivery
+     hereof,  the parties endeavor to prepare a detailed  attachment  specifying
+     the quality and regulatory  procedures and  responsibilities of the parties
+
+                                       20
+<PAGE>
+     hereunder with respect to the production of Filled ProstaScint Products and
+     Filled Sodium Acetate Products ("Quality Agreement"). The Quality Agreement
+     will, inter alia,  provide for Cytogen's  responsibility  for approving the
+     release  from  storage and use of each  Cytogen  Supplied  Raw  Material in
+     connection  with the  production of Filled  ProstaScint  Product and Filled
+     Sodium Acetate Product,  any intermediate  compounds produced in the course
+     of the performance of a Manufacturing  Procedure,  the release for shipping
+     of Filled  ProstaScint  Product and Filled Sodium Acetate  Product from the
+     Facility,  and  Cytogen's  responsibility  for all  regulatory  approval or
+     activities necessary in connection with the Manufacturing  Procedures,  and
+     shall  further  specify  Cytogen's  right  to  inspect  the  Facility,  the
+     obligations  of the parties upon any FDA  inspection of the  Facility,  all
+     records to be maintained by each party with respect to the  manufacture and
+     production  of Filled  ProstaScint  Product  and  Filled  Acetate  Product,
+     including without  limitation,  Batch production  records,  in-process test
+     data,  environmental  monitoring  data,  testing  data  by Lot  for  Filled
+     ProstaScint  Product,  Filled Sodium Acetate Product or  intermediates  and
+     such of the  foregoing as shall  appear on invoices  with respect to Filled
+     ProstaScint  Product or Filled Sodium Acetate Product released for shipment
+     by Cytogen.
+
+          (e) In the event a Quality  Agreement  is not  concluded  on or before
+     March 1, 2003,  either party may elect to terminate  this  Agreement.  Upon
+     such  termination,  the rights and  obligations of the parties shall wholly
+     cease without  further or other  liability and Laureate  shall  immediately
+     refund to Cytogen any amount then paid by Cytogen to Laureate  with respect
+
+                                       21
+<PAGE>
+
+     to the  Facility  Fee and all  payments  received by Laureate  for Services
+     which have not been reasonably accepted by Laureate. Time is of the essence
+     with respect to the payment of the refund  provided  for in this  paragraph
+     9(e).
+
+          (f) Cytogen  acknowledges  that the [**]  Purification  Process ("[**]
+     Process"), as a result of the "predicate clause" part of 21 C.F.R. Part 11,
+     has been "grandfathered" for purposes of compliance with 21 C.F.R. Part 11.
+     Cytogen  acknowledges  that the [**]  Process is the  process  Cytogen  has
+     specified Laureate to perform as part of the Manufacturing Procedures to be
+     supplied by Cytogen to Laureate pursuant to this Agreement.  Laureate shall
+     have no  liability  of any  nature  or kind  whatsoever  by  reason  of its
+     performance of its obligations hereunder which arises from as is the result
+     of Laureate's utilization of the [**] Process as a Manufacturing  Procedure
+     in connection with the manufacture of CYT-351,  CYT-356, Filled ProstaScint
+     Product or Filled Sodium Acetate Product.
+
+     10. Stability Testing; Shipping. (a) Cytogen shall be responsible and shall
+perform  at its  sole  cost and  expense  all  stability  testing  necessary  or
+advisable to be undertaken  with respect to CYT-351,  CYT-356,  the On-Hand CYT,
+Filled  ProstaScint  Product,  Filled Sodium Acetate  Product,  Cytogen Supplied
+Materials  or any  intermediate  formed  in the  course  of  performance  of the
+Manufacturing Procedures.
+
+          (b)  (i)Unless   otherwise   agreed,   Cytogen   agrees  to  take  all
+     commercially   reasonable   actions   necessary  to  the  end  that  Filled
+     ProstaScint  Product and Filled Sodium Acetate Product are shipped from the
+
+                                       22
+<PAGE>
+
+     Facility not later than fifteen (15) days  following the  conclusion of the
+     ten (10) business day period provided for in paragraph 4(b)(iii) hereof.
+
+     11. Cytogen's Covenants,  Representation and Warranties. Cytogen covenants,
+represents and warrants to and with Laureate as follows:
+
+          (a) Cytogen shall use its commercially reasonable efforts to dutifully
+     and  timely  perform  its  obligations  and   responsibilities   hereunder,
+     including,  without limitation,  any obligation or responsibility  provided
+     for in the  Manufacturing  Procedures,  Incoming  Acceptance  Tests and the
+     Quality Agreement.
+
+          (b) Cytogen shall use its reasonable commercial efforts to assure that
+     all Cytogen  Supplied  Materials,  when received at the  Facility,  (i) are
+     approved by Cytogen for use in connection  with the manufacture of CYT-351,
+     CYT-356,  Filled  ProstaScint  Product and Filled Sodium Acetate Product in
+     accordance with cGMP, (ii) meet  Specifications and are suitable for use in
+     the manufacture of CYT-351,  CYT-356,  Filled ProstaScint Product or Filled
+     Sodium Acetate Product,  (iii) comply with Cytogen's  quality standards and
+     (iv) each such Cytogen Supplied Material which is subject to the provisions
+     of the Food,  Drug and  Cosmetics  Act, 21 USCS Section 301, et seq.  ("FDC
+     Act"),  as and  when  received  at the  Facility,  is  not  adulterated  or
+     misbranded within the meaning of the FDC Act or any applicable state law in
+     which the definitions of adulteration of misbranding are  substantially the
+     same as those  contained in the FDC Act, or an article which may not, under
+     the provisions of the FDC Act, be introduced into interstate commerce.
+
+
+                                       23
+<PAGE>
+
+          (c) Cytogen shall not authorize for shipment from the Facility  Filled
+     ProstaScint  Product  or  Filled  Sodium  Acetate  Product  subject  to the
+     provisions of the FDC Act, which is  adulterated  or misbranded  within the
+     meaning of the FDC Act or any applicable state law in which the definitions
+     of  adulteration  and  misbranding  are  substantially  the  same as  those
+     contained in the FDC Act, or an article which may not, under the provisions
+     of the FDC Act, be introduced into interstate commerce.
+
+          (d) To the best of Cytogen's  knowledge,  Laureate's  manufacture  and
+     production  of  CYT-351,  CYT-356,  Filled  ProstaScint  Product  or Filled
+     Acetate Product, including,  without limitation,  Laureate's performance of
+     its Services hereunder in conformity with the Manufacturing Procedures, the
+     Incoming   Acceptance  Tests  and  the  Quality   Agreement  and  Cytogen's
+     marketing,  sale,  distribution and promotion of Filled ProstaScint Product
+     and  Filled  Sodium  Acetate   Product  do  not  infringe  or  violate  the
+     intellectual property rights of any third party.
+
+          (e) Cytogen has all requisite  corporate  power and authority to enter
+     into this  Agreement  and  perform  its  obligations  and  responsibilities
+     hereunder,   including,   without  limitation,  all  such  obligations  and
+     responsibilities  provided for in the  Manufacturing  Procedures,  Incoming
+     Acceptance Tests and the Quality Agreement.
+
+     12.  Laureate's   Covenants,   Representations   and  Warranties;   Limited
+Liability.  (a) Laureate covenants,  represents and warrants to and with Cytogen
+as follows:
+
+                                       24
+<PAGE>
+
+               (i)  Laureate's  maintenance of the Facility or  renovations,  if
+          any,  thereto,  and  performance of  manufacturing  and other services
+          hereunder  shall  conform in all  material  respects  with  applicable
+          cGMPs.
+
+               (ii)  Laureate  shall not ship any  Filled  ProstaScint  Product,
+          Filled Sodium  Acetate  Product or any  intermediate  manufactured  or
+          formed in the course of production of Filled  ProstaScint  Product and
+          Filled  Sodium  Acetate  Product  unless the release for  shipment and
+          subsequent shipment have been authorized in writing by Cytogen.
+
+               (iii) To the best of Laureate's  knowledge,  no process performed
+          by Laureate in the course of manufacturing  Filled ProstaScint Product
+          and/or  Filled  Sodium  Acetate  Product  violates  or  infringes  the
+          intellectual property rights of any third party.
+
+               (iv) Laureate has all requisite power and authority to enter into
+          this  Agreement  and perform  its  obligations  hereunder,  including,
+          without limitation, all such obligations and responsibilities provided
+          for in the Manufacturing Procedures, Incoming Acceptance Tests and the
+          Quality Agreement.
+
+               (v)  Laureate  shall use its  reasonable  commercial  efforts  to
+          dutifully  and timely  perform its  obligations  and  responsibilities
+
+                                       25
+<PAGE>
+
+          hereunder,   including   without   limitation,   any   obligation   or
+          responsibility provided for in the Manufacturing Procedures,  Incoming
+          Acceptance Tests and the Quality Agreement.
+
+          (b) EXCEPT AS PROVIDED IN  PARAGRAPH  12(a),  LAUREATE  MAKES NO OTHER
+     REPRESENTATION  AND  WARRANTY  OF ANY KIND,  EXPRESSED  OR  IMPLIED,  AS TO
+     MERCHANTABILITY,  FITNESS FOR  PARTICULAR  PURPOSE OR ANY OTHER MATTER WITH
+     RESPECT TO FILLED PROSTASCINT  PRODUCT AND/OR FILLED ACETATE PRODUCT OR ANY
+     INTERMEDIATE  FORMED IN THE  COURSE OF  MANUFACTURE  OF FILLED  PROSTASCINT
+     PRODUCT AND/OR FILLED ACETATE PRODUCT,  OR ANY OTHER MATTER WITH RESPECT TO
+     FILLED PROSTASCINT  PRODUCT OR FILLED ACETATE PRODUCT WHETHER USED ALONE OR
+     IN COMBINATION WITH OTHER SUBSTANCES.
+
+          (c) In the event of any failure of  Laureate to perform in  conformity
+     with its  covenants,  representations  and warranties  hereunder,  Laureate
+     shall,  at its sole  cost and  expense,  replace  such  quantity  of Filled
+     ProstaScint Product and/or Filled Sodium Acetate Product which Cytogen does
+     not release for shipment consistent with Cytogen's covenant, representation
+     and  warranty  made in paragraph  11(c)  hereof  because of such failure as
+     promptly as  practicable  after  receiving the Cytogen  Supplied  Materials
+     necessary  to  manufacture  such  replacement  quantity.  The  cost of such
+
+                                       26
+<PAGE>
+
+     Cytogen  Supplied  Materials,  including  the cost and expense of Cytogen's
+     delivering  or causing  the same to be  delivered  to the  Facility  may be
+     deducted by Cytogen  from  amounts due under this  Agreement.  In the event
+     that no amount is then due under this  Agreement  by  Cytogen to  Laureate,
+     then Cytogen may invoice  Laureate  for the cost of such  Cytogen  Supplied
+     Material,  including without limitation, any costs incurred by Cytogen with
+     respect to the shipping and delivery  thereof.  Time is of the essence with
+     respect to Laureate's payment of invoices rendered by Cytogen in accordance
+     with this  paragraph  12(c).  THE  FOREGOING  SHALL BE CYTOGEN'S  EXCLUSIVE
+     REMEDY  HEREUNDER  IN THE EVENT OF ANY  FAILURE BY  LAUREATE  TO PERFORM IN
+     CONFORMITY WITH ITS COVENANTS, REPRESENTATIONS, AND WARRANTIES HEREUNDER.
+
+          (d)   Laureate   shall  not  be  liable  for,   and  Cytogen   assumes
+     responsibility  for, all personal injury and property damage resulting from
+     the handling,  possession or use of Filled  ProstaScint  Product and Filled
+     Sodium Acetate Product following Cytogen's release of same for shipment and
+     Laureate's placement of same with a carrier for shipment. In no event shall
+     either  party be liable  to the other  party  for  special,  incidental  or
+     consequential  damages or loss of profits  whether the claim giving rise to
+     the same is for breach of a  covenant,  warranty or  representation,  is in
+     contract, negligence, strict liability or otherwise.
+
+          (e) It is  understood  and agreed  that  Laureate's  obligations  with
+     respect to performance of any [**] day hollow fiber runs,  purification  of
+     the material so produced,  conjugated and filled (collectively,  "Fiber-Run
+     Procedures") are to perform the same in conformance with the  Manufacturing
+
+                                       27
+<PAGE>
+
+     Procedures and test for  conformance to  Specifications  as provided in the
+     Quality  Agreement.  Laureate  shall  be  liable  for  any  failure  of its
+     performance  of the  Fiber-Run  Procedures to yield CYT-351 of any specific
+     quality  specification,  or a  reasonable  quantity of CYT-351  (defined as
+     approximately  [**]  grams  purified  in a single  purification  from  [**]
+     hollow-fiber  reactor runs) or a reasonable  quantity of Filled ProstaScint
+     Product  (defined  as  approximately  [**] vials from a single  conjugation
+     Batch of CYT-351) only in the event Laureate's performance of the Fiber-Run
+     Procedures was not in conformance  with the  Manufacturing  Procedures.  In
+     such event, the provisions of paragraph 12(c) shall apply.
+
+     13. Indemnities. (a) Cytogen agrees to indemnify and hold Laureate harmless
+from  any  damages,  liabilities,   losses  and  expenses  (including,   without
+limitation,  reasonable attorneys' fees in seeking indemnification  hereunder or
+any claim by a third person) and amounts paid in settlement of any claim or suit
+of any nature or kind whatsoever  which may be sustained or suffered by Laureate
+arising with  respect to paragraph  9(f) hereof or arising out of, based upon or
+by reason of, any Cytogen  supplied  Material not  Conforming  to the  covenant,
+representation  and warranty  made by Cytogen in paragraph  11(b) at the time of
+receipt at the Facility.
+
+          (b)  In  the  event  a  Cytogen   Supplied   Material  does  not  meet
+     Specification  or is otherwise  unsuitable  for use in the  manufacture  of
+     CYT-351, CYT-356, Filled ProstaScint Product or Filled Sodium Acetate after
+     the  receipt  thereof  at the  Facility  by  reason of any  action,  act or
+
+                                       28
+<PAGE>
+
+     activity  by  Laureate  which does not  conform to the  Cytogen  SOPs,  the
+     Laureate SOPs, cGMP, the Manufacturing Procedures,  the Incoming Acceptance
+     Tests or the Quality Agreement (or Laureate's  failure to act in conformity
+     with any of the  foregoing),  Laureate's  obligation  hereunder shall be to
+     indemnify  Cytogen for the actual cost of the Cytogen Supplied  Material in
+     question and all costs, fees and expenses incurred by Cytogen in delivering
+     or causing the delivery of the same to the Facility and for any  additional
+     Establishment Fee in the event such failure requires Laureate to perform an
+     obligation   hereunder  after  December  31,  2003.   Laureate  waives  any
+     additional  Facility  Fee in the event such  failure  requires  Laureate to
+     perform an obligation hereunder after December 31, 2003.
+
+          (c) Cytogen  agrees to defend,  indemnify and hold  Laureate  harmless
+     from any and all claims by third persons or governmental entities, damages,
+     liabilities, losses and expenses (including, without limitation, reasonable
+     attorney's fees in seeking indemnification hereunder or defending any claim
+     by a third person or a governmental  entity) and amounts paid in settlement
+     of any claim or suit of any  nature or kind  whatsoever  which are  founded
+     upon or in any manner involve Filled  ProstaScint  Product or Filled Sodium
+     Acetate  Product and which arise or occur following  Cytogen's  release for
+     shipment  from the Facility of Filled  ProstaScint  Product  and/or  Filled
+     Sodium Acetate Product.
+
+          (d) The obligations of the indemnifying  party under this paragraph 13
+     are  conditioned  upon the delivery of written  notice to the  indemnifying
+     party of any  potential  claim  arising  under this  paragraph 13 ("Claim")
+
+                                       29
+<PAGE>
+
+     promptly  after the  indemnified  party  becomes  aware of such claim.  The
+     indemnifying  party shall  manage and  control,  at its sole  expense,  the
+     defense  of the Claim  and its  settlement.  The  indemnified  party  shall
+     cooperate with the  indemnifying  party and may, at its option and expense,
+     be  represented in any such action or proceeding.  The  indemnifying  party
+     shall not be liable for any  litigation  costs or expenses  incurred by the
+     indemnified party without indemnifying party's prior written authorization.
+     In  addition,  the  indemnifying  party  shall not be  responsible  for any
+     liability  resulting from any  settlement or compromise by the  indemnified
+     party made without the indemnifying party's prior written consent.
+
+     14. Contact  Individuals.  Each of Laureate and Cytogen shall  designate an
+individual  ("Laureate Contact  Individual" or "Cytogen Contact  Individual," as
+applicable)  who shall be responsible  for the day-to-day  contacts  between the
+parties and who shall receive copies of all written correspondence,  notices and
+the  like  with  respect  to  a  party's  performance  of  its  obligations  and
+responsibilities hereunder.
+
+     15. No Biohazards.  The Laureate Contact Individual and the Cytogen Contact
+Individual will establish a standard  operating  procedure to identify materials
+that are or may be biohazardous. Materials so identified may not be brought into
+the Facility and may not be a Cytogen Supplied Material.
+
+     16.  Termination.  (a)  In  addition  to  termination  resulting  from  the
+expiration of this Agreement in accordance  with paragraph 2, this Agreement can
+be  terminated by Laureate for  nonpayment of any sums due hereunder  (remaining
+
+                                       30
+<PAGE>
+
+unpaid for more than ninety (90) days following  receipt by Cytogen of notice by
+Laureate),  or by either  party with at least sixty (60) days,  advance  written
+notice:
+
+                    (i) on account of a serious  violation of this  Agreement by
+               the other party,  unless the offending  party cures the violation
+               before expiration of the notice period; or
+
+                    (ii) when the other party makes a general assignment for the
+               benefit  of  its  creditors,  has a  custodian,  receiver  or any
+               trustee  appointed for it or a substantial  part of its assets or
+               commences any voluntary proceeding under any bankruptcy law; or
+
+                    (iii) when a court having  jurisdiction over the other party
+               shall enter a decree or order for relief in any involuntary  case
+               under  applicable  bankruptcy  law and such decree or order shall
+               continue  unstayed and in effect for a period of ninety (90) days
+               or more.
+
+               (b)  Termination  for any  reason  by  either  party  under  this
+          paragraph 16 will not  prejudice  that party's  remaining  contractual
+          rights,  including,   without  limitation,   rights  to  damages,  nor
+          terminate  the  obligations  set forth in  paragraphs  3, 4, 14 and 18
+          hereof, to the extent such obligations have accrued according to those
+          terms.
+
+                                       31
+<PAGE>
+
+     17.  Insurance.  Throughout the term of this Agreement Cytogen shall obtain
+and maintain in full force and effect product liability  insurance (issued by an
+insurance  company  licensed  to do  business in the State of New Jersey) in the
+amount of $10,000,000 and cause Laureate an additional insured thereon. Laureate
+now  maintains  general  liability   insurance  and  property  damage  liability
+insurance in the amount of $2,000,000 for the Facility. Each party shall, at all
+times during the term of this  Agreement,  maintain in full force and effect and
+on deposit at the office of the other  party,  a  Certificate  of Insurance or a
+duplicate  original  of the  insurance  policy  required  above,  together  with
+evidence of payment of all premiums  therefor.  Each such policy  shall  provide
+that it shall not be cancelable without at least thirty (30) days, prior written
+notice to the other party.
+
+     18.  Confidentiality.  Neither  party shall  disclose  to any third  party,
+except as may be required by law, the substance of this  Agreement.  All written
+information provided by either party to the other hereunder  including,  but not
+limited to, volume  requirements,  pricing,  delivery schedules and process data
+formulae,  regulatory  submissions,  know-how and other  information,  including
+without  limitation,  proprietary  information  and  materials  (whether  or not
+patentable)   regarding  a  party's   technology,   is  the  disclosing  party's
+confidential proprietary information. The receiving party agrees not to disclose
+any such information or use such information  except for purposes of performance
+hereunder,  for a  period  of five  (5)  years  after  the  termination  of this
+Agreement with regard to business related  information,  and for a period of ten
+(10) years with regard to technical  information,  provided  that the  receiving
+
+
+                                       32
+<PAGE>
+
+party may use or disclose any such information  that it can demonstrate  through
+written  records:  (1) is already  known to it at the time of  disclosure to the
+receiving  party;  (2) becomes  publicly known through no fault of the receiving
+party;  or (3) is disclosed to the receiving  party by a third party who is free
+to make  such  disclosure.  The  parties  each  agree  that they  shall  provide
+confidential  information received from the other party only to their respective
+employees,  consultants  and  advisors  who  have a need  to  know  and  have an
+obligation to treat such  information and materials as confidential  under terms
+no  less  restrictive  than  those  set  forth  herein.   All  confidential  and
+proprietary  information  disclosed  hereunder  shall be , at the  option of the
+disclosing  party,  immediately  returned to the disclosing  party, or destroyed
+(and such  destruction  certified by an officer of the receiving party) upon the
+earlier of  termination  of this  Agreement,  or the  request of the  disclosing
+party. Notwithstanding anything set forth herein to the contrary, this paragraph
+18 shall not  prohibit  the  receiving  party from  disclosing  confidential  or
+proprietary information of the disclosing party that is required to be disclosed
+by the  receiving  party to  comply  with  applicable  laws,  including  without
+limitation the rules and regulations promulgated by the United States Securities
+and Exchange Commission,  or to comply with governmental  regulations,  provided
+that the receiving party provides prior written notice of such disclosure to the
+disclosing  party  and takes  reasonable  and  lawful  actions  to avoid  and/or
+minimize the degree of such disclosure.  Any  announcements or similar publicity
+
+                                       33
+<PAGE>
+
+with respect to the execution of this Agreement shall be agreed upon between the
+parties  in  advance  of such  announcement.  The  parties  agree  that any such
+announcement will not contain confidential  business or technical information of
+the other party.  Except as otherwise  expressly  agreed  between the parties in
+writing,  no right is  granted  to a party to use in any  manner the name of the
+other party or any other trade name or trademark of the other party.
+
+     19. Notices. All notices required to be given under this Agreement shall be
+deemed given when delivered personally or when mailed by registered or certified
+mail, return receipt requested, or when sent by Federal Express or an equivalent
+overnight  delivery  service,  addressed  to the  parties  at  their  respective
+addresses set forth below or to such other  addresses at which notice shall have
+been duly  given.  It is  understood  and agreed that this  paragraph  19 is not
+intended to govern the day-to-day business communications  necessary between the
+parties  in  performing  the  duties,  in due  course,  under  the terms of this
+Agreement.
+
+                    If to Cytogen:
+                    William F. Goeckeler
+                    Vice President Research and Development
+                    Cytogen Corporation
+                    650 College Road East
+                    Princeton, NJ 08540
+                    Fax No.: 1-609-452-2317
+
+                                       34
+<PAGE>
+
+
+
+                    With a copy to:
+                    Hale and Dorr LLP
+                    650 College Road East
+                    Princeton, NJ 08540
+                    Fax No.: 1-609-750-7700
+
+
+                    If to Laureate:
+
+                    Robert J. Broeze, Phd.
+                    President
+                    Laureate Pharma L.P.
+                    201 College Road East
+                    Princeton, NJ  08540
+                    Fax No.:  1-609-520-3963
+
+                    With a copy to
+
+                    Chadbourne & Parke LLP
+                    30 Rockefeller Plaza
+                    New York, NY  10112
+                    Attn: Stuart D. Baker
+                    Fax No.:    1-212-541-5369
+
+     20.  Non-Exclusivity.  (a)  Laureate  may  render  manufacturing  and other
+services to any other  party and use the  Facility  and  Laureate  personnel  in
+furtherance  of rendering  such  services  whether or not such third party is in
+competition with Cytogen.  Nothing herein limits or restricts Cytogen from using
+any other party in the  manufacture  and supply of any materials,  including the
+materials to be supplied by Cytogen hereunder.
+
+                                       35
+<PAGE>
+
+          (b) Neither  party  shall,  directly  or through its  representatives,
+     solicit for employment any officer, director, employee or consultant of the
+     other party  during the term of this  Agreement  and for a period of twelve
+     (12) months thereafter.
+
+     21.  Entire  Agreement.  (a) The  Manufacturing  Procedures,  the  Incoming
+Acceptance Tests and the Quality Agreement are deemed to be part this Agreement.
+
+          (b) This  Agreement  constitutes  the  entire  agreement  between  the
+     parties in respect of the subject  matter of this  Agreement and supercedes
+     all  previous  oral  or  written  negotiations,   commitments,  agreements,
+     transactions or  understandings  with respect to the subject matter hereof.
+     No modifications to or supplementation of this Agreement, whether contained
+     in any purchase order, confirmation or otherwise, shall be effective unless
+     made in writing and signed by the party to be charged with modification.
+
+     22.  Governing Law. This Agreement  shall be interpreted in accordance with
+the laws of New Jersey  where it is deemed to have been  executed and where each
+party has a place of business.
+
+     23.  Assignment.  No right or obligation of either party hereunder shall be
+assignable  without the prior written agreement of the other party, which in the
+case of an  assignment  to an  Affiliate  shall  not be  unreasonably  withheld;
+otherwise this  Agreement  shall be binding upon and inure to the benefit of the
+parties hereto and their respective permitted successors and assigns.
+
+                                       36
+<PAGE>
+     24. Independent Contractors.  The parties are independent contractors,  and
+this Agreement shall not be construed to create between Laureate and Cytogen any
+other  relationship such as, by way of example only, that of  employer-employee,
+principal-agent,  joint-venturer,  co-partners or any similar relationship,  the
+existence of which is expressly denied by the parties hereto.
+
+     25. No Waiver.  A party's  failure to require  another party to comply with
+any provision of this  Agreement  shall not be deemed a waiver of such provision
+or any other provision of this Agreement.
+
+     26. Force Majeure.  No party shall be liable for the failure to perform its
+obligations  under this Agreement if such failure is occasioned by a contingency
+beyond such party's reasonable control,  including,  but not limited to, acts of
+terrorism,  strikes or other labor disturbances,  lockouts,  riots, wars, fires,
+floods or  storms.  A party  claiming a right to excuse  performance  under this
+paragraph 26 shall  immediately  notify the other party in writing of the extent
+of its inability to perform,  which notice shall specify the  occurrence  beyond
+its  reasonable  control that prevents such  performance  and an estimate of the
+time that the inability to perform is anticipated to last.
+
+     27. Third Parties. No person not a party to this Agreement not an Affiliate
+of a party to this Agreement  shall have or acquire any rights by reason of this
+Agreement,  nor  shall  any  party  to this  Agreement  have any  obligation  or
+liabilities to such other person by reason of this Agreement.
+
+
+                                       37
+<PAGE>
+
+     28. Interpretation. The parties hereto acknowledge and agree that: (i) each
+party and its counsel have reviewed and  negotiated  the terms and provisions of
+this  Agreement  and  have  contributed  to  its  revision;   (i)  the  rule  of
+construction  to the  effect  that any  ambiguities  are  resolved  against  the
+drafting party shall not be employed in the  interpretation  of this  Agreement;
+and (iii) the terms and provisions of this Agreement  shall be construed  fairly
+as to all parties hereto and not in favor of or against any party, regardless of
+which party was generally responsible for the preparation of this Agreement.
+
+     29. Singular Terms. Except as otherwise expressly provided herein or unless
+the context otherwise requires, all references to the singular shall include the
+plural as well.
+
+     30.  Headings.  The headings herein are inserted as a matter of convenience
+only,  and do not define,  limit or describe the scope of this  Agreement or the
+intent of the  provisions  hereof and shall not be used to interpret or construe
+the terms and provisions of this Agreement.
+
+     31. Counterparts.  This Agreement may be executed  simultaneously in two or
+more counterparts,  each of which shall be deemed an original, and all of which,
+when taken together, shall constitute one and the same instrument. The signature
+of any party to any  counterpart  shall be  deemed a  signature  to,  and may be
+appended to, any other counterpart.
+
+                                       38
+<PAGE>
+     32.  Severability.  This  Agreement  is intended to be valid and  effective
+under any applicable law and, to the extent  permissible  under  applicable law,
+shall be construed in a manner to avoid  violation  of or  invalidity  under any
+applicable  law.  Should any provisions of this Agreement be or become  invalid,
+illegal or unenforceable  under any applicable law, the other provisions of this
+Agreement  shall not be affected  and shall remain in full force and effect and,
+to the extent  permissible  under  applicable law, any such invalid,  illegal or
+unenforceable  provision  shall be deemed  amended  lawfully to conform with the
+intent of the  parties.  Nothing  in this  paragraph  32 shall  preclude a party
+hereto  from  bringing  an action for  failure of  consideration  in the event a
+material  provision  of  this  Agreement  shall  be  held  invalid,  illegal  or
+unenforceable.
+
+
+
+              IN WITNESS WHEREOF, the parties hereto have caused this Agreement
+to be executed by their duly authorized representatives.
+
+
+
+LAUREATE PHARMA L.P.                         CYTOGEN CORPORATION
+
+By: Laureate Pharma Inc., its
+     General Partner
+
+
+
+By /s/ Robert Broeze                         By /s/ William F. Goeckeler
+   ---------------------------------            --------------------------------
+       Robert Broeze, PhD.                          William F. Goeckeler
+       President                                    Vice President Research and
+                                                     Development
+
+
+
+                                       39
+<PAGE>
+
+<TABLE>
+<CAPTION>
+                                    Cytogen Setup Schedule - Exhibit A
+
+Department           Activity        Work      Training      Total   Cum. Hours     Labor   Contractor    Total
+----------           --------        hours     hours         Hours   ----------     Costs       Cost      Cost
+                                     -----     --------      -----                  -----   ----------    -----
+<S>                  <C>             <C>        <C>          <C>        <C>          <C>        <C>        <C>
+Supply Chain         SOPs            4          9            13         13           [**]       [**]       [**]
+
+                     Purchasing      120        0            120        133          [**]       [**]       [**]
+
+Quality Control      Test Methods    102        0            102        102          [**]       [**]       [**]
+
+                     Set-up          112        0            112        214          [**]       [**]       [**]
+
+Quality Assurance    SOPs            64         16           80         80           [**]       [**]       [**]
+
+                     Batch Records   16         0            16         96           [**]       [**]       [**]
+
+                     Records         40         0            40         136          [**]       [**]       [**]
+                     Management
+
+Manufacturing -      Documentation   4          16           20         20           [**]       [**]       [**]
+Conjugation
+                     Preparation     52         0            52         72           [**]       [**]       [**]
+
+Manufacturing -      Documentation   4          16           20         20           [**]       [**]       [**]
+Filling Sodium
+Acetate
+
+                     Preparation     0          0            0          20           [**]       [**]       [**]
+
+-- Filling           Documentation   4          4            8          8            [**]       [**]       [**]
+ProstaScint
+                     Preparation     0          0            0          8            [**]       [**]       [**]
+
+--ProstaScint        Documentation   4          4            8          8            [**]       [**]       [**]
+Media Fill
+                     Preparation     8          0            8          16           [**]       [**]       [**]
+
+--Acetate Media      Documentation   4          0            4          4            [**]       [**]       [**]
+Fill
+
+                     Preparation     0          0            0          4            [**]       [**]       [**]
+
+Manufacturing        SOPs            28         8            36         36           [**]       [**]       [**]
+-Antibody
+Protection
+<PAGE>
+
+                     Batch Records   36         0            36         72           [**]       [**]       [**]
+
+                     Equipment       0          0            0          72           [**]       [**]       [**]
+                     setup
+
+                     Area            56         0            56         128          [**]       [**]       [**]
+                     preparation
+
+Manufacturing        SOPs & MBR's    28         30           58         58           [**]       [**]       [**]
+-Protein
+Purification
+Validation
+                     Equipment       108        0            108        166          [**]       [**]       [**]
+                       setup
+
+                     Equipment       240        0            240        240          [**]       [**]       [**]
+
+Facilities           Revise          56         0            56         56           [**]       [**]       [**]
+                     renovation
+                     plans
+
+                     Relocate        24         0            24         80           [**]       [**]       [**]
+                     equipment
+
+                     Recommission    24         0            24         104          [**]       [**]       [**]
+                       Rad Suite
+
+                     Equipment       40         0            40         144          [**]       [**]       [**]
+                     maint./calibration
+
+                     SOPs/PMs        24         16           40         184          [**]       [**]       [**]
+
+                     As-built        40         0            40         224          [**]       [**]       [**]
+                     updates/documentation
+
+                     Total                                   1361                    [**]       [**]       [**]
+</TABLE>
+
+
+Notes:  1)  Shaded area totals $[**] and represents set up activities outlined
+        in 3(g) of the supply agreement.
+
+        2)  Set up for primary production campaign [3(f)] of $[**] are total of
+        non-shaded areas.
+
+        3)  Primary Production Campaign set up fees payment schedule:  [**]% due
+        upon contract signing; [**] due on date Laureate commences Manufacturing
+        procedures under 4(b)(ii) of the Supply Agreement.
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOCUMENT>

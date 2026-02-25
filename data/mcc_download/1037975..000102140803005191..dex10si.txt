@@ -1,0 +1,1196 @@
+<DOCUMENT>
+<TYPE>EX-10.S(I)
+<SEQUENCE>8
+<FILENAME>dex10si.txt
+<DESCRIPTION>NONQUALIFIED DEFERRED COMPENSATION PLAN OF THE REGISTRANT
+<TEXT>
+<PAGE>
+
+
+
+                                                                 EXHIBIT 10-S(i)
+
+                     NONQUALIFIED DEFERRED COMPENSATION PLAN
+
+                                  PLAN DOCUMENT
+
+<PAGE>
+
+                                                                       JULY 1999
+
+                                TABLE OF CONTENTS
+
+<TABLE>
+<CAPTION>
+
+      PARAGRAPH                                                                      PAGE
+      ---------                                                                      ----
+      PREAMBLE
+
+                                    ARTICLE I
+
+                                   DEFINITIONS
+
+         <S>                                                                            <C>
+         1.1               Account                                                      1
+         1.2               Adoption Agreement                                           1
+         1.3               Beneficiary                                                  1
+         1.4               Cashout Amount                                               1
+         1.5               Change Of Control                                            1
+         1.6               Code                                                         1
+         1.7               Compensation                                                 1
+         1.8               Disability                                                   2
+         1.9               Distribution Date                                            2
+         1.10              Effective Date                                               2
+         1.11              Employee                                                     2
+         1.12              Employer                                                     2
+         1.13              Entry Date                                                   2
+         1.14              ERISA                                                        2
+         1.15              Hour Of Service                                              2
+         1.16              Independent Contractor                                       3
+         1.17              Insolvent                                                    3
+         1.18              Nonqualified Deferred Compensation Plan                      4
+         1.19              Participant                                                  4
+         1.20              Plan                                                         4
+         1.21              Plan Administrator                                           4
+         1.22              Plan Year                                                    4
+         1.23              Retirement Age                                               4
+         1.24              Salary Deferral Agreement                                    4
+         1.25              Salary Deferrals                                             4
+         1.26              Separation From Service                                      4
+         1.27              Spouse                                                       4
+         1.28              Trust                                                        5
+         1.29              Trustee                                                      5
+         1.30              Valuation Date                                               5
+</TABLE>
+
+<PAGE>
+
+<TABLE>
+<CAPTION>
+
+         <S>                                                                           <C>
+         1.31              Year Of Service                                              5
+
+                                   ARTICLE II
+
+                            ELIGIBILITY REQUIREMENTS
+
+         2.1               Participation                                                6
+         2.2               Change In Classification Of Employment                       6
+         2.3               Computation Period                                           6
+         2.4               Service With Controlled Groups                               6
+
+                                   ARTICLE III
+
+                            DEFERRAL OF COMPENSATION
+
+         3.1               Notification                                                 7
+         3.2               Salary Deferral Agreement                                    7
+         3.3               Salary Deferral Procedure                                    7
+         3.4               Amending Salary Deferral Agreements                          7
+         3.5               Termination Of Salary Deferral Agreement                     8
+
+
+                                   ARTICLE IV
+
+                             EMPLOYER CONTRIBUTIONS
+
+         4.1               Employee Salary Deferrals                                    9
+         4.2               Employer Contributions                                       9
+         4.3               Responsibility For Contributions                             9
+
+
+                                    ARTICLE V
+
+                        PARTICIPANT ACCOUNTS AND REPORTS
+
+         5.1               Establishment Of Accounts                                   10
+         5.2               Account Maintenance                                         10
+         5.3               Valuation Of Assets                                         10
+         5.4               Allocation Methods                                          10
+         5.5               Valuation Date                                              11
+         5.6               Participant Statements                                      11
+
+
+                                   ARTICLE VI
+
+                                     VESTING
+
+         6.1               Vesting                                                     12
+         6.2               Change of Control                                           12
+         6.3               Death Or Disability                                         12
+</TABLE>
+
+<PAGE>
+
+<TABLE>
+<CAPTION>
+
+         <S>                                                                           <C>
+         6.4               Insolvency                                                  12
+
+                                   ARTICLE VII
+
+                                    PAYMENTS
+
+         7.1               Benefits                                                    13
+         7.2               Distributable Events                                        13
+         7.3               Form Of Payment                                             13
+         7.4               Payment Medium                                              13
+         7.5               Death Benefits                                              13
+         7.6               Beneficiary Designation                                     14
+         7.7               No Beneficiary                                              14
+         7.8               Claims Procedure                                            14
+         7.9               Unforeseen Emergency                                        15
+
+                                  ARTICLE VIII
+
+                               PLAN ADMINISTRATION
+
+         8.1               Plan Administrator                                          16
+         8.2               Duties Of Plan Administrator                                16
+         8.3               Employer                                                    16
+         8.4               Administrative Fees And Expenses                            17
+         8.5               Plan Administration And Interpretation                      17
+         8.6               Powers, Duties, Procedures                                  17
+         8.7               Information                                                 17
+         8.8               Indemnification Of Plan Administrator                       17
+
+                                   ARTICLE IX
+
+                                   TRUST FUND
+
+         9.1               Trust                                                       18
+         9.2               Unfunded Plan                                               18
+         9.3               Investment Direction                                        18
+         9.4               Assignment And Alienation                                   19
+
+                                    ARTICLE X
+
+                            AMENDMENT AND TERMINATION
+
+         10.1              Amendment                                                   20
+         10.2              Termination                                                 20
+         10.3              Existing Rights                                             20
+</TABLE>
+
+<PAGE>
+
+<TABLE>
+<CAPTION>
+
+         <S>                                                                           <C>
+                                   ARTICLE XI
+
+                                  MISCELLANEOUS
+
+         11.1              Total Agreement                                             21
+         11.2              Employment Rights                                           21
+         11.3              Non-Assignability                                           21
+         11.4              Binding Agreement                                           21
+         11.5              Receipt And Release                                         21
+         11.6              Governing Law                                               21
+         11.7              Heading And Subheadings                                     21
+</TABLE>
+
+                                    PREAMBLE
+
+The Employer, by executing the Adoption Agreement, hereby establishes an
+unfunded Nonqualified Deferred Compensation Plan for a select group of
+management or highly compensated Employees. Under the terms of the Plan, certain
+Employees may elect to defer receipt of their Compensation and to provide a
+means for deferrals of Compensation.
+
+Participants shall have no right, either directly or indirectly, to anticipate,
+sell, assign or otherwise transfer any benefit accrued under the Plan. In
+addition, no Participant shall have any interest in any Employer assets set
+aside as a source of funds to satisfy its benefit obligations under the Plan,
+including the establishment of any trust under the terms of Revenue Procedure
+92-64 or any amendment thereof or successor thereto. Participants shall have the
+status of general unsecured creditors of the Employer and the Plan constitutes
+an unsecured promise by the Employer to make benefit payments in the future.
+
+<PAGE>
+
+The Plan is intended to be "a plan which is unfunded and is maintained by an
+employer primarily for the purpose of providing deferred compensation for a
+select group of management or highly compensated employees" within the meaning
+of Sections 201(2) and 301(a)(3) of the Employee Retirement Income Security Act
+of 1974 ("ERISA"), and shall be interpreted and administered to the extent
+possible in a manner consistent with that intent.
+
+                                    COPYRIGHT
+
+This document is copyrighted under the laws of the United States. Its use,
+duplication or reproduction, including the use of electronic means, is
+prohibited by law without the express consent of the author.
+
+(C)1999 McKay Hochman Co., Inc.
+
+<PAGE>
+
+                                    ARTICLE I
+
+                                   DEFINITIONS
+
+1.1     Account For each Participant, the account established for his or her
+        benefit under Article V.
+
+1.2     Adoption Agreement The written instrument attached to this Plan document
+        by which the Employer establishes a Nonqualified Deferred Compensation
+        Plan for eligible Employees.
+
+1.3     Beneficiary An individual, individuals, trust or other entity designated
+        by the Participant to receive his or her benefit in the event of the
+        Participant's death. If more than one Beneficiary survives the
+        Participant, payments shall be made equally to all such Beneficiaries,
+        unless otherwise provided in the beneficiary designation form. Nothing
+        herein shall prevent the Participant from designating primary and
+        contingent Beneficiaries. Elections made by a Participant as to the
+        timing and method of payment shall be binding on all Beneficiaries named
+        by the Participant in his or her most recently dated beneficiary form.
+
+1.4     Cashout Amount An amount equal to the maximum remaining salary deferrals
+        the Participant would have been permitted to make to a qualified cash or
+        deferred 401(k) plan maintained by the Employer after the completion of
+        all required antidiscrimination and nondiscrimination testing.
+
+1.5     Change Of Control The purchase or other acquisition by any person,
+        entity or group of persons within the meaning of Section 13(d) or 14(d)
+        of the Securities Exchange Act of 1934 ("Act"), (or any comparable
+        successor provisions), of beneficial ownership within the meaning of
+        Rule 13d-3 promulgated under the Act of 30 percent or more of either the
+        outstanding shares of common stock or the combined voting power of the
+        Employer's then outstanding voting securities entitled to vote
+        generally, or the approval by the stockholders of the Employer of a
+        reorganization, merger or consolidation, in each case, with respect to
+        which persons who were stockholders of the Employer immediately prior to
+        such reorganization, merger or consolidation do not, immediately
+        thereafter, own more than 50 percent of the combined voting power
+        entitled to vote generally in the election of directors of the
+        reorganized, merged or consolidated Employer's then outstanding
+        securities, or a liquidation or dissolution of the Employer or of the
+        sale of all or substantially all of the Employer's assets.
+
+1.6     Code The Internal Revenue Code of 1986, as amended from time to time.
+        Reference to any section or subsection of the Code includes reference to
+        any comparable or succeeding provisions of any legislation which amends,
+        supplement or replaces such section or subsection.
+
+<PAGE>
+
+1.7     Compensation Shall have the meaning elected by the Employer in the
+        Adoption Agreement. Compensation shall only include amounts earned while
+        a Participant if Plan Year is chosen as the applicable Compensation
+        computation period.
+
+<PAGE>
+
+1.8     Disability An illness or injury of a potentially permanent nature,
+        expected to last for a continuous period of not less than 12 months,
+        certified by a physician selected by or satisfactory to the Employer,
+        which prevents the Participant from engaging in the Participant's own
+        occupation for wage or profit.
+
+1.9     Distribution Date The date specified in the Adoption Agreement on which
+        a Participant's benefit is payable under the Plan. A Participant shall
+        have no right to receive a payment of his or her benefit until reaching
+        his or her Distribution Date.
+
+1.10    Effective Date The date selected in the Adoption Agreement as of which
+        the Plan first becomes effective.
+
+1.11    Employee Any person employed by the Employer as a common-law employee, a
+        member of the board of directors of the Employer or an Independent
+        Contractor deemed to be an Employee by the company. Individuals who
+        shall be treated as Employees for purposes of the Plan shall be limited
+        to those individuals who are within a select group of management or
+        highly compensated Employees as determined by the Employer in its sole
+        discretion.
+
+1.12    Employer The corporation or business entity which adopts this Plan
+        including any successor to all or a major portion of the Employer's
+        assets or business which assumes the obligations of the Employer and
+        each other entity that is affiliated with the Employer and any member of
+        a controlled group of corporations as defined at Code Section 414(b),
+        all commonly controlled trades or businesses as defined at Code
+        Section 414(c) and any member of an affiliated service group as defined
+        at Code Section 414(m), which may adopt the Plan with the consent of the
+        Employer, provided that the Employer that executes the Adoption
+        Agreement shall have the sole power to amend this Plan and shall be the
+        Plan Administrator if no other person or entity is so serving at any
+        time.
+
+1.13    Entry Date The date on which an Employee commences participation in the
+        Plan as determined by the Employer in the Adoption Agreement.
+
+1.14    ERISA The Employee Retirement Income Security Act of 1974, as amended.
+        Reference to any section or subsection of ERISA includes reference to
+        any comparable or succeeding provisions of any legislation which amends,
+        supplements or replaces such section or subsection.
+
+1.15    Hour Of Service
+
+        (a)     Each hour for which an Employee is paid, or entitled to payment,
+                for the performance of duties for the Employer. These hours
+                shall be credited to the Employee for the computation period in
+                which the duties are performed, and
+
+        (b)     each hour for which an Employee is paid, or entitled to payment,
+                by the Employer on account of a period of time during which no
+                duties are
+
+<PAGE>
+
+                performed (irrespective of whether the employment relationship
+                has terminated) due to vacation, holiday, illness, incapacity
+                (including Disability), layoff, jury duty, military duty or
+                leave of absence. No more than 501 Hours of Service shall be
+                credited under this paragraph for any single continuous period
+                (whether or not such period occurs in a single computation
+                period). Hours under this paragraph shall be calculated and
+                credited pursuant to Section 2530.200b-2 of the Department of
+                Labor Regulations which are incorporated herein by this
+                reference, and
+
+        (c)     each hour for which back pay, irrespective of mitigation of
+                damages, is either awarded or agreed to by the Employer. The
+                same Hours of Service shall not be credited both under paragraph
+                (a) or paragraph (b), as the case may be, and under this
+                paragraph (c). These hours shall be credited to the Employee for
+                the computation period or periods to which the award or
+                agreement pertains rather than the computation period in which
+                the award, agreement or payment is made.
+
+        (d)     Hours of Service shall be credited for employment with the
+                Employer and with other members of an affiliated service group
+                [as defined in Code Section 414(m)], a controlled group of
+                corporations [as defined in Code Section 414(c)] of which the
+                adopting Employer is a member, and any other entity required to
+                be aggregated with the Employer pursuant to Code Section 414(o)
+                and the regulations thereunder. Hours of Service shall also be
+                credited for any individual considered an Employee for purposes
+                of this Plan under Code Section 414(n) or Code Section 414(o)
+                and the regulations thereunder.
+
+        (e)     Solely for purposes of determining whether a Break in Service
+                for participation purposes has occurred in a computation period,
+                an individual who is absent from work for maternity or paternity
+                reasons shall receive credit for the Hours of Service which
+                would otherwise have been credited to such individual but for
+                such absence, or in any case in which such hours cannot be
+                determined, 8 Hours of Service per day of such absence. For
+                purposes of this paragraph, an absence from work for maternity
+                or paternity reasons means an absence by reason of the pregnancy
+                of the individual, by reason of a birth of a child of the
+                individual, by reason of the placement of a child with the
+                individual in connection with the adoption of such child by such
+                individual, or for purposes of caring for such child for a
+                period beginning immediately following such birth or placement.
+                The Hours of Service credited under this paragraph shall be
+                credited in the computation period in which the absence begins
+                if the crediting is necessary to prevent a Break in Service in
+                that period, or in all other cases, in the following computation
+                period. No more than 501 hours will be credited under this
+                paragraph.
+
+        (f)     Hours of Service shall be determined under an hours counting
+                method.
+
+1.16    Independent Contractor Individuals other than partnerships or
+        corporations who perform services on a contractual basis for the
+        Employer. Independent
+
+<PAGE>
+
+        Contractors may be deemed to be Employees for purposes of this Plan if
+        so elected by the Employer. The Employer, in its sole discretion, shall
+        determine whether any Independent Contractor shall be treated as an
+        Employee for purposes of this Plan only.
+
+1.17    Insolvent Means either (i) the Employer is unable to pay its debts as
+        they become due, or (ii) the Employer is subject to a pending proceeding
+        as a debtor under the United States Bankruptcy Code.
+
+<PAGE>
+
+1.18    Nonqualified Deferred Compensation Plan A plan, within the meaning of
+        ERISA Section 201(2), the purpose of which is to permit a select group
+        of management or highly compensated Employees to defer receipt of a
+        portion of their Compensation to a future date.
+
+1.19    Participant An Employee who is eligible to participate in the Plan and
+        who is currently deferring a portion of his or her Compensation under
+        this Plan. An Employee or former Employee who has previously deferred a
+        portion of his or her Compensation under the Plan and who is still
+        entitled to the payment of benefits under the Plan shall also be
+        considered a Participant.
+
+1.20    Plan The Nonqualified Deferred Compensation Plan established by the
+        Employer under the terms of this Plan document and the accompanying
+        Adoption Agreement.
+
+1.21    Plan Administrator The individual or committee appointed by the Employer
+        to administer the Plan as provided herein. If no such appointment is
+        made, the Compensation Committee ("Compensation Committee") of the Board
+        of Directors ("Board") of the Employer shall serve as the Plan
+        Administrator. If a Compensation Committee doesn't exist and no
+        appointment is made by the Board, then the Board shall serve as the Plan
+        Administrator. In no event shall any Participant who sits on the
+        Compensation Committee or Board determine the amount of his or her
+        benefits under this Plan.
+
+1.22    Plan Year The 12-consecutive month period beginning in January to
+        December 31st unless otherwise specified in the Adoption Agreement.
+
+1.23    Retirement Age The age, set by the Employer in the Adoption Agreement,
+        at which a Participant may retire and receive his or her benefits under
+        the Plan.
+
+1.24    Salary Deferral Agreement The written agreement between an eligible
+        Employee and the Employer to defer receipt by the Employee of
+        Compensation not yet earned. Such agreement shall state the deferral
+        amount or percentage of Compensation to be withheld from the Employee's
+        Compensation and shall state the date on which the agreement is
+        effective, as provided at paragraph 3.1.
+
+1.25    Salary Deferrals That portion of an Employee's Compensation which is
+        deferred under the terms of this Nonqualified Deferred Compensation
+        Plan. Such Compensation cannot yet have been earned by the Employee at
+        the time of the Participant's election to defer.
+
+1.26    Separation From Service The severance of an Employee's employment with
+        the Employer for any reason.
+
+1.27    Spouse The individual to whom a Participant is married or was married,
+        or was married in the case of a deceased Participant who was married at
+        the time of his or her death. A former spouse will be treated in the
+        same manner as a Spouse
+
+<PAGE>
+
+        to the extent provided under a Qualified Domestic Relations Order as
+        described in Code Section 414(p).
+
+<PAGE>
+
+1.28    Trust The agreement, written in accordance with Revenue Procedure 92-64,
+        as may be amended or superseded, between the Employer and the Trustee
+        under which any assets delivered by the Employer to the Trustee will be
+        held and managed. Any assets held under the terms of the Trust shall be
+        the exclusive property of the Employer and shall be subject to the
+        creditor claims of the Company. Participants shall have no right,
+        secured or unsecured, to any assets held under the terms of the Trust.
+
+1.29    Trustee The institution named by the Employer in the Trust agreement and
+        any corporation which succeeds the Trustee by merger or by acquisition
+        of assets or operation of law.
+
+1.30    Valuation Date The date on which Participant accounts under this
+        Nonqualified Deferred Compensation Plan are valued.
+
+1.31    Year Of Service A 12-consecutive month period commencing with the
+        Employee's first day of employment or reemployment, and each
+        12-consecutive month period thereafter.
+
+<PAGE>
+
+                                   ARTICLE II
+
+                            ELIGIBILITY REQUIREMENTS
+
+2.1     Participation Employees who meet the eligibility requirements set forth
+        in the Adoption Agreement on the Effective Date of the Plan shall become
+        Participants as of the Effective Date of the Plan. Employees who have
+        not satisfied the eligibility requirements on the Effective Date shall
+        become Participants on the Entry Date immediately following the date on
+        which they meet the eligibility requirements. In the event an Employee
+        who is not a member of the eligible class of Employees becomes a member
+        of the eligible class, such Employee shall be eligible to participate on
+        the Entry Date immediately following the date on which the Employee
+        becomes a member of the eligible class.
+
+2.2     Change In Classification Of Employment In the event a Participant
+        becomes ineligible to participate because he or she is no longer a
+        member of an eligible class of Employees, such Employee shall be
+        eligible to participate on the Entry Date which follows his or her
+        return to an eligible class of Employees.
+
+2.3     Computation Period To determine Years of Service for eligibility
+        purposes, the 12-consecutive month period shall commence on the date on
+        which an Employee first performs an Hour of Service for the Employer and
+        each anniversary thereof, such that the succeeding 12-consecutive month
+        period commences with the Employee's first anniversary of employment. An
+        Hour of Service shall mean each hour for which an Employee is paid, or
+        entitled to payment, for the performance of duties for the Employer.
+
+2.4     Service With Controlled Groups All Years of Service with other members
+        of a controlled group of corporations as defined in Code Section 414(b),
+        trades or businesses under common control as defined in Code
+        Section 414(c), or members of an affiliated service group as defined in
+        Code Section 414(m), if applicable, shall be credited for purposes of
+        determining an Employee's eligibility to participate.
+
+<PAGE>
+
+                                   ARTICLE III
+
+                            DEFERRAL OF COMPENSATION
+
+3.1     Notification The Plan Administrator shall provide written notification
+        to an Employee of his or her eligibility to participate in the
+        Nonqualified Deferred Compensation Plan and to elect to defer
+        Compensation under this Plan, and shall further provide such Employee
+        with a Salary Deferral Agreement. The notification shall describe the
+        requirements and limitations on the Employee's Salary Deferrals, the
+        Plan's distributable events and the optional forms of payment that must
+        be selected by the Participant prior to the period of service for which
+        the deferral is made.
+
+3.2     Salary Deferral Agreement The Participant shall enter into a Salary
+        Deferral Agreement with the Employer authorizing the deferral of all or
+        part of the Participant's Compensation under the Plan earned during the
+        period in which the individual participates in the Plan. The Salary
+        Deferral Agreement shall also specify the commencement date and method
+        of payment with respect to benefits attributable to Salary Deferrals and
+        Employer contributions, if any, for the applicable Plan Year. Employees
+        who are eligible on the date the Nonqualified Deferred Compensation Plan
+        is first effective may make an election to defer Compensation within 30
+        days after the Effective Date for services to be performed after the
+        Entry Date. Notwithstanding the preceding sentence, if the Employer
+        selects the Effective Date as the Entry Date, then the period of service
+        upon which deferrals are based shall commence after the date the
+        Employee elects to defer Compensation. Employees first becoming eligible
+        after the date the Plan is effective may make an election to defer
+        Compensation within 30 days after the Participant's initial eligibility
+        date for services to be performed after the Entry Date. In no event
+        shall a Participant be permitted to defer Compensation for a pay period
+        which has commenced prior to the date on which the Salary Deferral
+        Agreement is signed by the Participant and accepted by the Plan
+        Administrator.
+
+3.3     Salary Deferral Procedure Upon receipt of a properly completed and
+        executed Salary Deferral Agreement the Plan Administrator shall notify
+        the Employer to commence to withhold that portion of the Participant's
+        Compensation specified in the Agreement. In no event will the
+        Participant be permitted to defer more than the amount specified by the
+        Employer in the Adoption Agreement.
+
+3.4     Amending Salary Deferral Agreements A Participant shall be permitted to
+        increase or decrease his or her Salary Deferrals by filing an amended
+        Salary Deferral Agreement, with the Plan Administrator. Such amendment
+        shall be effective on the first day of the first payroll period
+        beginning in the next Plan Year which follows the date on which the
+        amended Salary Deferral Agreement is received by the Plan Administrator.
+
+<PAGE>
+
+3.5     Termination Of Salary Deferral Agreement The Employer shall have the
+        right to terminate a Participant's Salary Deferral Agreement at any time
+        upon written notice to the Participant. Such termination shall be
+        effective on the first day of the next payroll period. In no event shall
+        the Employer have the right to terminate a Salary Deferral Agreement
+        with respect to Compensation already deferred. The Participant shall
+        also have the right to terminate his or her Salary Deferral Agreement
+        upon written notice to the Plan Administrator. Such termination shall be
+        effective on the first day of the first payroll period in the Plan Year
+        following the date on which the termination request is received by the
+        Plan Administrator. The Participant shall not be permitted to reinstate
+        a new Salary Deferral Agreement until the first day of the first payroll
+        period beginning in the Plan Year following the date on which a new
+        Salary Deferral Agreement is received by the Plan Administrator.
+
+<PAGE>
+
+                                   ARTICLE IV
+
+                             EMPLOYER CONTRIBUTIONS
+
+4.1     Employee Salary Deferrals The Employer shall remit to the Trustee all
+        amounts deferred by Participants under the terms of their respective
+        Salary Deferral Agreements. Remittance by the Employer shall be made as
+        soon as administratively feasible following the date amounts were
+        withheld from the Participant's Compensation but not later than 15
+        business days following the end of the month during which they were
+        withheld. Any such Salary Deferrals and earnings held by the Trustee
+        shall remain the property of the Employer and shall be subject to the
+        claims of the Employer's creditors.
+
+4.2     Employer Contributions The Employer may make matching or discretionary
+        contributions under the terms of the Nonqualified Deferred Compensation
+        Plan. The amount of the Employer's discretionary and/or matching
+        contribution and the formula(s) for allocating such contributions will
+        be determined by the Employer in the Adoption Agreement. Any such
+        contributions plus the earnings shall be held by the Trustee but shall
+        remain the property of the Employer and shall be subject to the claims
+        of the Employer's creditors. Any Employer contributions made under the
+        Plan shall be transmitted to the Trustee not less frequently than
+        annually.
+
+4.3     Responsibility For Contributions The Employer has sole responsibility
+        for remitting Employee Salary Deferrals and Employer contributions to
+        the Trustee. The Trustee shall have no duty to determine whether the
+        amounts forwarded by the Employer are the correct amount or that they
+        have been transmitted in a timely manner.
+
+<PAGE>
+
+                                    ARTICLE V
+
+                        PARTICIPANT ACCOUNTS AND REPORTS
+
+5.1     Establishment Of Accounts The Plan Administrator shall establish and
+        maintain individual recordkeeping accounts on behalf of each Participant
+        for purposes of determining each Participant's benefits under the Plan.
+        Separate sub-accounts shall be established for each Participant with
+        respect to each Salary Deferral Agreement for which a different form of
+        payment has been selected.
+
+5.2     Account Maintenance The Plan Administrator shall add to each
+        Participant's account amounts representing:
+
+        (a)     Employee Salary Deferrals,
+
+        (b)     Employer matching or discretionary contributions, if applicable,
+                and
+
+        (c)     investment earnings.
+
+        The Plan Administrator shall deduct from each Participant's account
+        amounts representing:
+
+        (d)     distributions to the Participant or Beneficiary, and
+
+        (e)     investment losses.
+
+5.3     Valuation Of Assets As of each Valuation Date the Plan Administrator
+        shall determine the fair market value of all assets held under the terms
+        of the Nonqualified Deferred Compensation Plan. The valuation of
+        securities traded on a national securities exchange shall be determined
+        on the last business day of the valuation period in accordance with
+        established or recognized industry standards for the valuation of traded
+        securities. The value of any illiquid or thinly traded investment shall
+        be determined by an appraisal prepared by an independent qualified
+        appraiser to appraise the security or other such investment.
+        Notwithstanding the first sentence of this paragraph, an appraisal of
+        non-traded securities shall be prepared as of the last day of each Plan
+        Year and as required with respect to the determination of benefit
+        payments.
+
+5.4     Allocation Methods The Employer's matching and discretionary
+        contributions, if any, shall be allocated to eligible Participants in
+        accordance with the allocation formula selected in the Adoption
+        Agreement. If Employee Salary Deferrals and Employer contributions, if
+        any, are invested in a pooled account arrangement, each Participant's
+        account shall receive a pro-rata share of the investment earnings or
+        losses on all assets held in the pooled account arrangement. Such
+        pro-rata share shall be determined on the basis of the fair market value
+        of each Participant's account at the beginning of the valuation period
+        less distributions made during the valuation period. One-half of the
+        contributions received
+
+<PAGE>
+
+        systematically during the valuation period shall be added to the
+        Participant's beginning account balance for allocation purposes. If
+        contributions are invested in mutual funds or other pooled investment
+        vehicles, the investment earnings allocable to each such Participant
+        shall be determined by reference to the value of the applicable
+        investment.
+
+5.5     Valuation Date Participant accounts shall be valued on the date(s)
+        agreed upon by the Employer and the Trustee provided that accounts shall
+        be valued not less frequently than at the end of each Plan Year and that
+        the value of non-traded securities shall be determined in accordance
+        with paragraph 5.3.
+
+5.6     Participant Statements The Plan Administrator shall provide Participants
+        with a statement of his or her account showing the additions to and
+        deductions from such account during the period from the last statement
+        date. Such statement shall be provided to Participants as soon as
+        administratively feasible following the end of each Plan Year and on
+        such other dates as agreed to by the Employer and the party maintaining
+        Participant records.
+
+<PAGE>
+
+                                   ARTICLE VI
+
+                                     VESTING
+
+6.1     Vesting Subject to the restrictions contained in paragraph 4.1 herein, a
+        Participant shall be immediately vested in (i.e. shall have a
+        nonforfeitable right to) all Salary Deferrals, and to all income and
+        gain attributable thereto, credited to his or her Account. A Participant
+        shall become vested in the portion of his or her Account attributable to
+        discretionary or matching contributions and income and gain attributable
+        thereto upon reaching a Distributable Event as defined in paragraph 7.2,
+        subject to earlier vesting in accordance with paragraphs 6.3, 6.4, and
+        6.5.
+
+6.2     Change Of Control A Participant shall become fully vested in his or her
+        Account immediately prior to a Change of Control of the Employer.
+
+6.3     Death Or Disability A Participant shall become fully vested in his or
+        her Account immediately prior to termination of the Participant's
+        employment, by reason of the Participant's death or total and permanent
+        Disability. Whether a Participant's termination of employment is by
+        reason of the Participant's total and permanent Disability shall be
+        determined by the Plan Administrator in his or her sole discretion.
+
+6.4     Insolvency A Participant shall become fully vested in his or her Account
+        immediately prior to the Employer becoming Insolvent, in which case the
+        Participant shall have the same rights as a general creditor of the
+        Employer with respect to his or her Account balance.
+
+<PAGE>
+
+                                   ARTICLE VII
+
+                                    PAYMENTS
+
+7.1     Benefits A Participant's or Beneficiary's benefit payable under the Plan
+        shall be the value of the Participant's Account at the time of a
+        distributable event occurs under the Plan. Such benefit shall be payable
+        from the general assets of the Employer which includes any assets held
+        in the Trust. In no event will a Participant's right to a benefit under
+        this Plan give such Participant a secured right or claim on any assets
+        held in the Trust.
+
+7.2     Distributable Event A Participant's benefit shall be payable within 30
+        days following the Distribution Date coincident with or first following
+        the earlier of the date on which:
+
+        (a)     the Participant terminates employment with the Company;
+
+        (b)     the Participant dies;
+
+        (c)     the Participant becomes disabled;
+
+        (d)     the Employer undergoes a Change In Control;
+
+        (e)     as otherwise provided in the Adoption Agreement; and
+
+        (f)     termination of the Plan under paragraph 10.2 hereof.
+
+        No Participant shall have any right to receive payment of his or her
+        benefit under the Plan prior to a Distribution Date.
+
+7.3     Form Of Payment A Participant's benefit shall be paid in the form of a
+        lump sum or installments. Pursuant to paragraph 3.1, any election of a
+        form of payment must be made by the Participant prior to the period of
+        service for which the Salary Deferral is made. A different form of
+        payment may be selected with respect to each separate deferral election
+        made by the Participant.
+
+        Notwithstanding the foregoing, if elected by the Employer in the
+        Adoption Agreement, a Participant shall have the right when completing
+        his or her Salary Deferral Agreement to direct that a Cashout Amount be
+        either distributed to the Participant in the form of a lump sum or
+        transferred for credit to his or her account in a qualified cash or
+        deferred 401(k) plan maintained by the Employer. If elected by the
+        Participant, a distribution or transfer shall be completed no later than
+        2-1/2 months after the close of the Plan Year.
+
+7.4     Payment Medium The Employer may elect to pay the Participant's lump sum
+        or installment benefits in the form of cash, securities or any other
+        property acceptable to the Participant and to the Employer.
+
+<PAGE>
+
+7.5     Death Benefits Any benefit to which a deceased Participant is entitled
+        to receive under the Plan shall be paid to such Participant's
+        Beneficiary. Such death benefit shall be paid as a lump sum unless the
+        Participant was receiving payment of his or her benefit in installments
+        at the time of death. In such event, the Participant's Beneficiary shall
+        continue to receive installment payments in the same manner as the
+        Participant.
+
+<PAGE>
+
+7.6     Beneficiary Designation A Participant shall have the right to designate
+        a Beneficiary and to amend or revoke such designation at any time in
+        writing. Such designation, amendment or revocation shall be effective
+        upon receipt by the Plan Administrator. A Participant may not, however,
+        change his or her Beneficiary (during the life of such Beneficiary)
+        after payments have commenced under an installment payment option where
+        the payment period is determined by reference to the life expectancy of
+        the Participant and his or her Beneficiary.
+
+7.7     No Beneficiary If no Beneficiary designation is made, or if the
+        Beneficiary designation is held invalid, or if no Beneficiary survives
+        the Participant and benefits are determined to be payable following the
+        Participant's death, the Plan Administrator shall direct that payment of
+        benefits be made to the person or persons in the first category in which
+        there is a survivor. The categories of successor beneficiaries, in
+        order, are as follows:
+
+        (a)     Participant's Spouse;
+
+        (b)     Participant's descendants, per stirpes (eligible descendants
+                shall be determined by the intestacy laws of the state in which
+                the decedent was domiciled);
+
+        (c)     Participant's parents;
+
+        (d)     Participant's brothers and sisters (including step brothers and
+                step sisters); and
+
+        (e)     Participant's estate.
+
+7.8     Claims Procedure A Participant or authorized representative of a
+        Participant may submit to the Plan Administrator questions regarding
+        Plan benefits or a claim for the payment of benefits. Such question or
+        claim may be submitted at any time. However, benefit payments shall not
+        be payable earlier than permitted by the Plan. The Plan Administrator
+        shall accept, reject, or modify such request and shall send written
+        notification to the Participant setting forth the response of the Plan
+        Administrator and in the case of a denial or modification the Plan
+        Administrator shall:
+
+        (a)     state the specific reason or reasons for the denial,
+
+        (b)     provide specific reference to pertinent Plan provisions on which
+                the denial is based,
+
+        (c)     provide a description of any additional material, data or
+                information necessary for the Participant or his representative
+                to perfect the claim and an explanation of why such material or
+                information is necessary, and
+
+        (d)     explain the Plan's claim review procedure.
+
+<PAGE>
+
+        In the event the request is rejected or modified, the Participant or his
+        representative may appeal within 60 days following receipt by the
+        Participant or representative of such rejection or modification, by
+        submitting a written request for review by the Plan Administrator of its
+        initial decision. Within 60 days following such request for review, the
+        Plan Administrator shall render its final decision in writing to the
+        Participant or representative stating specific reasons for such
+        decision. If the Participant or representative is not satisfied with the
+        Plan Administrator's final decision, the Participant or representative
+        can institute an action in a court of competent jurisdiction.
+
+7.9     Unforeseen Emergency If a Participant suffers an unforeseen emergency,
+        as defined herein, the Plan Administrator, in its sole discretion, may
+        pay to the Participant only that portion of his or her Account, which
+        the Plan Administrator determined is necessary to satisfy the emergency
+        need, including any amount(s) necessary to pay any Federal, state or
+        local income taxes reasonably anticipated to result from the
+        distribution. A Participant requesting an emergency payment shall apply
+        for the payment in writing on a form approved by the Plan Administrator
+        and shall provide such additional information as the Plan Administrator
+        may require. For purposes of this paragraph, "unforeseen emergency"
+        means an immediate and heavy financial need resulting from any of the
+        following:
+
+        (a)     expenses which are not covered by insurance and which the
+                Participant or his or her Spouse or dependent has incurred as a
+                result of, or is required to incur in order to receive, medical
+                care;
+
+        (b)     the need to prevent eviction of a Participant from his or her
+                principal residence or foreclosure on the mortgage of the
+                Participant's principal residence;
+
+        (c)     a loss of the Participant's property due to casualty; or
+
+        (d)     any other circumstance that is determined by the Plan
+                Administrator in its sole discretion to constitute an unforeseen
+                emergency which is not covered by insurance and which cannot be
+                reasonably relieved by the liquidation of the Participant's
+                assets.
+
+<PAGE>
+
+                                  ARTICLE VIII
+
+                               PLAN ADMINISTRATION
+
+8.1     Plan Administrator The Plan shall be administered by the individual(s)
+        selected by the Employer. If no Plan Administrator is named by the
+        Employer or the named Plan Administrator has resigned or otherwise
+        cannot perform the administrative duties under the Plan, the
+        Compensation Committee of the Board of Directors of the Employer shall
+        serve as Plan Administrator. If no Compensation Committee exists, then
+        the Board of Directors of the Employer shall serve as the Plan
+        Administrator. However, in no event shall any Participant who sits on
+        the Compensation Committee or Board determine the amount of his or her
+        benefit under the Plan. The Plan Administrator shall serve at the
+        pleasure of the Employer, who shall have the right to remove the Plan
+        Administrator at any time upon 30 days written notice. The Plan
+        Administrator shall have the right to resign upon 30 days written notice
+        to the Employer.
+
+8.2     Duties Of Plan Administrator The Plan Administrator shall be responsible
+        to perform all administrative functions of the Plan. These duties
+        include but are not limited to:
+
+        (a)     Communicating with Participants in connection with their rights
+                and benefits under the Plan.
+
+        (b)     Reviewing investment direction preferences received from
+                Participants.
+
+        (c)     Arranging for the payment of taxes (including income tax
+                withholding), expenses and benefit payments to Participants
+                under the Plan.
+
+        (d)     Filing any returns and reports due with respect to the Plan.
+
+        (e)     Interpreting and construing Plan provisions and settling claims
+                and domestic relations orders in connection with Plan benefits.
+
+        (f)     Serving as the Plan's designed representative for the service of
+                notices, reports, claims or legal process.
+
+        (g)     Employing any agents such as accountants, auditors, attorneys,
+                actuaries or any other professionals it deems necessary in the
+                performance of any of its duties.
+
+8.3     Employer The Employer has sole responsibility for the establishment and
+        maintenance of the Plan. The Employer through its Board shall have the
+        power and authority to appoint the Plan Administrator, Trustee and any
+        other professionals as may be required for the administration of the
+        Plan or the Trust. The Employer shall also have the right to remove any
+        individual or party appointed to perform administrative, investment,
+        fiduciary or other functions
+
+<PAGE>
+
+        under the Plan. The Employer may delegate any of its powers to the Plan
+        Administrator, Board Member or a Committee of the Board.
+
+<PAGE>
+
+8.4     Administrative Fees And Expenses Except for Trustee fees and expenses,
+        all reasonable costs, charges and expenses incurred by the Plan
+        Administrator or the Trustee in connection with the administration of
+        the Plan or the Trust shall be paid by the Employer. The Trustee shall
+        be specifically authorized to charge its fees and expenses directly to
+        the Trust. If the Trust has insufficient liquid assets to cover the
+        applicable fees, the Trustee shall have the right to liquidate assets
+        held in the Trust to pay any fees or expenses due. Notwithstanding the
+        foregoing, no compensation other than reimbursement for expenses shall
+        be paid to an Plan Administrator who is an Employee of the Employer.
+
+8.5     Plan Administration And Interpretation The Plan Administrator shall have
+        complete control and authority to determine the rights and benefits and
+        all claims, demands and actions arising out of the provisions of the
+        Plan of any Participant, Beneficiary, deceased Participant, or other
+        person having or claiming to have any interest under the Plan. The Plan
+        Administrator shall have complete discretion to interpret the Plan and
+        to decide all matters under the Plan. Such interpretation and decision
+        shall be final, conclusive, and binding on all Participants and any
+        person claiming under or through any Participant, in the absence of
+        clear and convincing evidence that the Plan Administrator acted
+        arbitrarily and capriciously. Any individual(s) serving as Plan
+        Administrator who is a Participant will not vote or act on any matter
+        relating solely to himself or herself. When making a determination or
+        calculation, the Plan Administrator shall be entitled to rely on
+        information furnished by a Participant, a Beneficiary, the Employer, or
+        the Trustee. The Plan Administrator shall have the responsibility for
+        complying with any reporting and disclosure requirements of ERISA.
+
+8.6     Powers, Duties, Procedures The Plan Administrator shall have such powers
+        and duties, may adopt such rules and tables, may act in accordance with
+        such procedures, may appoint such officers or agents, may delegate such
+        powers and duties, may receive such reimbursement and compensation, and
+        shall follow such claims and appeal procedures with respect to the Plan
+        as it may establish.
+
+8.7     Information To enable the Plan Administrator to perform its functions,
+        the Employer shall supply full and timely information to the Plan
+        Administrator on all matters relating to the compensation of
+        Participants, their employment, retirement, death, termination of
+        employment, and such other pertinent facts as the Plan Administrator may
+        require.
+
+8.8     Indemnification Of Plan Administrator The Employer agrees to indemnify
+        and to defend to the fullest extent permitted by law any officer(s) or
+        Employee(s) who serve as Plan Administrator (including any such
+        individual who formerly served as Plan Administrator) against all
+        liabilities, damages, costs and expenses (including attorneys' fees and
+        amounts paid in settlement of any claims approved by the Employer)
+        occasioned by any act or omission to act in connection with the Plan, if
+        such act or omission is in good faith.
+
+<PAGE>
+
+                                   ARTICLE IX
+
+                                   TRUST FUND
+
+9.1     Trust Coincident with the establishment of the Plan, the Employer shall
+        establish a Trust for the purpose of accumulating assets which may, but
+        need not be used, by the Employer to satisfy some or all of its
+        financial obligations to provide benefits to Participants under this
+        Plan. All assets held in the Trust shall remain the exclusive property
+        of the Employer and shall be available to pay creditor claims of the
+        Employer in the event of bankruptcy. The assets held in Trust shall be
+        administered in accordance with the terms of the separate Trust
+        Agreement between the Trustee and the Employer.
+
+9.2     Unfunded Plan In no event will the assets accumulated by the Employer in
+        the Trust be construed as creating a funded Plan under the applicable
+        provisions of the Employee Retirement Income Security Act, as amended,
+        or under the Internal Revenue Code of 1986, as amended, or under the
+        provisions of any other applicable statute or regulation. Any funds set
+        aside by the Employer in trust shall be administered in accordance with
+        the terms of the Trust.
+
+9.3     Investment Direction In the Adoption Agreement the Employer shall elect
+        the method in which the assets in the Trust Fund shall be invested. The
+        Employer may retain the right to direct the investments of the Plan, to
+        allocate investment management authority to the Trustee, to name an
+        individual or entity which is registered as an investment manager under
+        the Investment Advisors Act of 1940 or under applicable state law, be a
+        bank as defined in said Act or an insurance company qualified under the
+        laws of more than one state to perform investment management services.
+
+        A copy of any investment management agreement (and any modifications or
+        termination thereof) must be given to the Trustee. Written notice of
+        each appointment of an investment manager shall be given to the Trustee.
+        Written notice of each appointment of an investment manager shall be
+        given to the Trustee/Custodian in advance of the effective date of the
+        appointment. Such notice shall specify what portion of the Trust Fund
+        will be subject to the investment manager's discretion.
+
+        If permitted by the Employer in the Adoption Agreement, Participants
+        shall have the opportunity to direct the investment of any Salary
+        Deferrals and Employer contributions, if any, made under the terms of
+        the Plan. The Trustee may (but is not required to) consider the
+        Employer's or a Participant's investment directives when investing the
+        assets attributable to a Participant's Account. A Participant's
+        investment direction shall be communicated to the Plan Administrator by
+        notifying the Plan Administrator in accordance with the procedures
+        established by the Plan Administrator. Participants shall indicate their
+        initial investment direction by filing an investment direction form with
+        the Plan Administrator prior to the date on which Salary Deferrals
+        commence under the terms of the Participant's Salary Deferral Agreement.
+        Participants shall have the opportunity
+
+<PAGE>
+
+        to change their investment direction with respect to new Salary
+        Deferrals and/or Employer contributions or with respect to existing
+        balances upon notice to the Plan Administrator. The Plan Administrator
+        shall establish procedures with respect to the implementation of
+        Participant investment directions.
+
+<PAGE>
+
+9.4     Assignment And Alienation No Participant or Beneficiary of a deceased
+        Participant shall have the right to anticipate, assign, transfer, sell,
+        mortgage, pledge or hypothecate any benefit under this Plan. The Plan
+        Administrator shall not recognize any attempt by a third party to
+        attach, garnish or levy upon any benefit under the Plan except as
+        provided by law or under the terms of a domestic relations order as
+        described at Code Section 414(p).
+
+<PAGE>
+
+                                    ARTICLE X
+
+                            AMENDMENT AND TERMINATION
+
+10.1    Amendment The Employer shall have the right to amend this Plan without
+        the consent of any Participant or Beneficiary hereunder, provided that
+        any amendment shall become effective on the first day of the Plan Year
+        following the date on which the amendment is adopted by the Employer and
+        that Participants and Beneficiaries be notified of such amendment not
+        less than 30 days prior to the effective date thereof. The notice shall
+        include an explanation of the amendment and its effects on the
+        Participant's rights and benefits under the Plan. No amendment shall
+        deprive a Participant or Beneficiary of any of the benefits which he or
+        she has accrued under the Plan.
+
+10.2    Termination The Employer has established this Plan with a bona fide
+        intention and expectation to maintain the Plan indefinitely, the
+        Employer may terminate or discontinue the Plan in whole or in part on
+        the earlier of the date on which there is a Change of Control or as of
+        the first business day in the Plan Year following the date on which the
+        Employer elects to terminate.
+
+        Upon Plan termination, no further Salary Deferrals or Employer
+        contributions shall be made except that the Employer shall be
+        responsible to pay any benefit attributable to Salary Deferrals and
+        Employer contributions accrued as of the day preceding the effective
+        date of termination plus investment earnings and less investment losses,
+        taxes and expenses chargeable to the Participant's account up to the
+        Distribution Date. The Plan Administrator shall make distribution of the
+        Participant's benefit as of the next Distribution Date.
+
+10.3    Existing Rights No amendment or termination of the Plan shall adversely
+        affect the rights of any Participant with respect to amounts that have
+        been credited to his or her Account prior to the date of such amendment
+        or termination.
+
+<PAGE>
+
+                                   ARTICLE XI
+
+                                  MISCELLANEOUS
+
+11.1    Total Agreement This Plan and the executed Adoption Agreement, Deferral
+        Agreement, Beneficiary designation and other administration forms shall
+        constitute the total agreement or contract between the Employer and the
+        Participant regarding the Plan. No oral statement regarding the Plan may
+        be relied upon by the Participant.
+
+11.2    Employment Rights Neither the establishment of this Plan nor any
+        modification thereof, nor the creation of any Trust or Account, nor the
+        payment of any benefits, shall be construed as giving a Participant or
+        other person a right to employment with the Employer or any other legal
+        or equitable right against the Employer except as provided in the Plan.
+        In no event shall the terms of employment of any Employee be modified or
+        in any way be affected by the Plan.
+
+11.3    Non-Assignability None of the benefits, payments, proceeds or claims of
+        any Participant or Beneficiary and, in particular, the same shall not be
+        subject to attachment or garnishment or other legal process by any
+        creditor of such Participant or Beneficiary, nor shall any Participant
+        or Beneficiary have the right to alienate, commute, pledge, encumber or
+        assign any other the benefits or payments or proceeds which he or she
+        may expect to receive, contingently or otherwise under the Plan.
+
+11.4    Binding Agreement Any action with respect to the Plan taken by the Plan
+        Administrator or the Employer or the Trustee or any action authorized by
+        or taken at the direction of the Plan Administrator, the Employer or the
+        Trustee shall be conclusive upon all Participants and Beneficiaries
+        entitled to benefits under the Plan.
+
+11.5    Receipt And Release Any payment to any Participant or Beneficiary in
+        accordance with the provisions of the Plan shall, to the extent thereof,
+        be in full satisfaction of all claims against the Employer, the Plan
+        Administrator and the Trustee under the Plan, and the Plan Administrator
+        may require such Participant or Beneficiary, as a condition precedent to
+        such payment, to execute a receipt and release to such effect. If any
+        Participant or Beneficiary is determined by the Plan Administrator to be
+        incompetent by reason of physical or mental disability (including not
+        being the age of majority) to give a valid receipt and release, the Plan
+        Administrator may cause payment or payments becoming due to such person
+        to be made to another person for his or her benefit without
+        responsibility on the part of the Plan Administrator, the Employer or
+        the Trustee to follow the application of such funds.
+
+11.6    Governing Law Construction, validity and administration of this Plan
+        including the accompanying Adoption Agreement and the Trust shall be
+        governed by applicable Federal law and applicable state law in which the
+        principal office of the Employer is located. If any provision shall be
+        held by a court of competent
+
+<PAGE>
+
+        jurisdiction to be invalid or unenforceable, the remaining provisions
+        hereof shall continue to be fully effective.
+
+11.7    Heading And Subheadings Headings and subheadings in this Plan are
+        inserted for convenience only and are not to be considered in the
+        interpretation of the provisions hereof.
+
+</TEXT>
+</DOCUMENT>

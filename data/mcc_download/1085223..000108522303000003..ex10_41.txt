@@ -1,0 +1,1414 @@
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>6
+<FILENAME>ex10_41.txt
+<DESCRIPTION>10.41 CABLE & WIRELESS MASTER SERVICES AGREEMENT
+<TEXT>
+                                                                   Exhibit 10.41
+                                                                   -------------
+
+                     CABLE & WIRELESS INTERNET SERVICES INC.
+
+                            MASTER SERVICES AGREEMENT
+
+THIS MASTER SERVICES AGREEMENT (this "Agreement") between Cable & Wireless
+Internet Services Inc. ("C&W") and Switchboard Incorporated ("Customer") is made
+effective as of the date indicated below the C&W signature on this Agreement
+(the "Effective Date"), provided that, each Order Form submitted by Customer and
+accepted by a C&W Company (as defined in Section 1.1) shall become effective as
+of the date of the C&W Company's signature on the Order Form or upon the initial
+delivery of the ordered product and/or service by such C&W Company, whichever is
+earlier.
+
+1. OVERVIEW.
+
+     1.1 Scope. This Agreement states the terms and conditions by which (i) C&W
+and its Affiliates (hereinafter referred to collectively as the "C&W Companies"
+or each individually as a "C&W Company") will contract with the Customer, from
+time to time, during the term of this Agreement, for the delivery to and receipt
+by the Customer of any or all of the services offered by the C&W Companies, and
+(ii) Customer may purchase products from C&W Companies. The specific services
+and/or products to be provided hereunder are identified in the Order Form(s)
+submitted by Customer. Order Form(s) shall be binding only upon acceptance by
+the C&W Company providing the services and/or products which are described in
+detail in the Specification Sheets and/or Statements of Work attached to each
+Order Form. Each Order Form (with the attached Specification Sheet(s) and
+Statement(s) of Work) submitted, accepted and executed by Customer and a C&W
+Company hereby incorporates by this reference the terms and conditions of this
+Agreement and, for the purposes of each Order Form, all references to C&W in
+this Agreement shall mean the C&W Company which accepts the Order Form. This
+Agreement is intended to cover any and all services and/or products ordered by
+Customer and provided by C&W Companies. If a C&W Company other than Cable &
+Wireless Internet Services Inc., will provide the services and/or products on
+the Order Form submitted by Customer, then the Order Form must be accepted by
+the C&W Company which will provide the services and/or products. Neither Cable &
+Wireless Internet Services Inc. nor any other C&W Company shall have any
+authority (express or implied) to accept an Order Form on behalf of the C&W
+Company which will provide the services and/or products thereunder. In the event
+that any terms set forth herein apply specifically to a service not ordered by
+Customer, such terms shall not apply to Customer, unless and until such service
+is ordered by Customer.
+
+     1.2 Definitions.
+
+          (a) "Affiliate" means a company which directly or indirectly through
+one or more intermediaries, controls, is controlled by or is under common
+control with another company.
+
+          (b) "Customer Area" means that portion(s) of the Internet Data
+Center(s) made available to Customer for the placement of Customer Equipment
+and/or Rental Equipment and use of the Service(s).
+
+          (c) "Customer Equipment" means the Customer's computer hardware, not
+including stored data, and other tangible equipment placed by Customer in the
+Customer Area and identified on C&W's standard customer equipment list completed
+and delivered by Customer to C&W, as amended in writing from time to time by
+Customer.
+
+          (d) "Customer Registration Form" means the list that contains the
+names and contact information (e.g. pager, email and telephone numbers) of the
+individuals authorized by Customer to enter the Internet Data Center(s) and
+Customer Area, as delivered by Customer to C&W and amended in writing from time
+to time by Customer pursuant to C&W's standard operating procedures.
+
+                                       1
+<PAGE>
+
+          (e) "Customer Technology" means Customer's proprietary technology,
+including Customer's Internet operations design, content, software tools,
+hardware designs, algorithms, software (in source and object forms), user
+interface designs, architecture, class libraries, objects and documentation
+(both printed and electronic), know-how, trade secrets and any related
+intellectual property rights throughout the world (whether owned by Customer or
+licensed to Customer from a third party) and also including any derivatives,
+improvements, enhancements or extensions of Customer Technology conceived,
+reduced to practice, or developed during the term of this Agreement by Customer.
+
+          (f) "C&W Marks" means any registered or unregistered names, marks,
+brands, logos, designs, slogans, trademarks, trade dress and any other
+designations the C&W Companies use in connection with their services and
+products.
+
+          (g) "C&W Technology" means the C&W Companies' proprietary technology,
+including C&W services, software tools, hardware designs, algorithms, software
+(in source and object forms), user interface designs, architecture, class
+libraries, objects and documentation (both printed and electronic), network
+designs, know-how, trade secrets and any related intellectual property rights
+throughout the world (whether owned by a C&W Company or licensed to a C&W
+Company from a third party) and also including any derivatives, improvements,
+enhancements or extensions of C&W Technology conceived, reduced to practice, or
+developed during the term of this Agreement by either party that are not
+uniquely applicable to Customer or that have general applicability in the art.
+
+          (h) "Initial Service Term" means the minimum term for which C&W will
+provide the Service(s) to Customer, as indicated on the Order Form(s).
+
+          (i) "Internet Data Center(s)" means any of the facilities used by C&W
+to provide the Service(s).
+
+          (g) "Order Form" means a written order from Customer to C&W for
+Services, in a form designated by and signed by an authorized I representative
+of Customer.
+
+          (k) "Professional Services" means any professional or consulting
+service provided by C&W to Customer as more fully described in a Statement of
+Work or Specification Sheet.
+
+          (l) "Purchased Equipment" means any hardware or other products
+(including, if applicable, associated licensed software) purchased by Customer
+from C&W.
+
+          (m)"Renewal Service Term" means any service term following the Initial
+Service Term, as defined in Section 2.2 (c).
+
+          (n) "Rental Equipment" means the computer hardware, associated
+licensed software and other tangible equipment and intangible computer code
+contained therein provided by C&W for use by Customer for a monthly recurring
+fee as set forth on the Order Form(s).
+
+          (o) "Representatives" mean the individuals identified in writing on
+the Customer Registration Form, as updated by Customer from time to time in
+accordance with C&W's procedures, and authorized by Customer to enter the
+Internet Data Center(s) and the Customer Area.
+
+          (p) "Rules and Regulations" means the C&W general rules and
+regulations governing Customer's use of Service(s) including, but not limited
+to, online conduct, and the obligations of Customer and its Representatives in
+the Internet Data Centers. The current Rules and Regulations are attached hereto
+as Attachment A and are incorporated herein by this reference.
+
+                                       2
+<PAGE>
+
+          (q) "Service(s)" means the specific service(s) provided by C&W to
+Customer as described on the Order Form(s), excluding Supplemental Services.
+
+          (r) "Service Commencement Date" means the date C&W has completed the
+installation for a Service and will begin providing such Service to Customer, as
+set forth in a written notice delivered by C&W to Customer.
+
+          (s) "Service Credit" means a payment credit to be issued by C&W to
+Customer under the terms of the Service Level Agreement.
+
+          (t) "Service Level Agreement" means the service level agreement
+described in Attachment B to this Agreement and incorporated herein by this
+reference.
+
+          (u) "Specification Sheet" means the detailed description for each
+Service, other than Professional Services, ordered by Customer which is attached
+to (an) Order Form(s).
+
+          (v) "Statement of Work" means the detailed description(s) of the
+custom or non- standard Professional Service attached to (an) Order Form(s).
+
+          (w) "Supplemental Services" means the services described in Section
+2.1 (b).
+
+          (x) "Work" means any tangible deliverable provided by C&W to Customer
+as described in the Statement of Work for any Professional Service.
+
+2. DELIVERY OF SERVICES; TERMS; FEES.
+
+     2.1 Delivery of Services.
+
+          (a) General. By submitting an Order Form, Customer agrees to pay for,
+and, by accepting the Order Form, C&W agrees to provide, the ordered Service(s)
+during the Initial Service Term and for any Renewal Service Term, as specified
+in Section 2.2 (c) below. The Customer may order additional bandwidth during the
+Initial Service Term under the terms and condition of this Agreement.
+
+          (b) Delivery of Supplemental Services. The purpose of this provision
+is to enable C&W to provide Customer with certain limited services and equipment
+needed by Customer on an emergency basis ("Supplemental Services") where such
+services are not included within the scope of the Services that Customer has
+purchased. Supplemental Services may include, as an example, a request from
+Customer to C&W via telephone that C&W immediately replace a problem Customer
+server with an C&W server for a temporary period of time. C&W shall obtain
+Customer's approval prior to providing such services. Customer agrees to pay C&W
+the fees charged by C&W for Supplemental Services based on C&W's then current
+rates for time and materials and set forth in the invoice issued following
+delivery of the Supplemental Services. C&W will use commercially reasonable
+efforts to provide Supplemental Services, provided that C&W has no obligation to
+determine the need for or provide Supplemental Services.
+
+     2.2 Term.
+
+          (a) Term of Agreement. This Agreement shall commence on the Effective
+Date and continue thereafter until the expiration or non-renewal of the last
+Service term, unless earlier terminated in accordance with this Agreement.
+
+          (b) Service Term Commencement: The term for each Service, other than
+Professional Services, will commence on the Service Commencement Date. The term
+for Professional Services will commence on the date set forth in the applicable
+Statement of Work or upon the initial delivery of such Professional Services,
+whichever is earlier.
+
+                                       3
+<PAGE>
+
+          (c) Renewal Service Term(s). Each monthly recurring Service, other
+than the provisioning of Rental Equipment, will renew automatically for
+successive 90-day renewal terms following the end of the Initial Service Term
+(each, a "Renewal Service Term") unless (i) Customer notifies C&W in writing at
+least thirty (30) days prior to the end of the Initial Service Term or a Renewal
+Service Term, as applicable, that it has elected to terminate such Service, or
+(ii) C&W notifies Customer in writing at least thirty (30) days prior to the end
+of the Initial Service Term or a Renewal Service Term, as applicable that it has
+discontinued the Service; in either case such Service shall terminate at the end
+of such term subject to Section 10.4. The termination of any Service will not
+affect Customer's obligations to pay for and receive other Service(s).
+
+3. FEES AND PAYMENT TERMS.
+
+     3.1 Fees and Expenses. Customer will pay C&W for all fees according to the
+prices and "terms listed on the Order Form(s). The prices listed on the Order
+Form(s) will remain in effect during the Initial Service Term indicated in the
+Order Form(s) and will continue thereafter, unless modified as provided herein.
+C&W may change or increase the prices it charges Customer for any Service at any
+time after the Initial Service Term effective thirty (30) days after providing
+notice to Customer.
+
+     In the event that such price increase is more than ten percent (10%) for
+any Service or such increase is not the first increase for such Service during a
+specific Renewal Service Term, Customer shall have the right to terminate such
+Service by delivering written notice to C&W within thirty (30) days of the date
+of such notice of the price increase from C&W. Customer also agrees to reimburse
+C&W for reasonable actual out-of-pocket expenses incurred in providing
+Professional Services to Customer; provided, that any such expenses are approved
+in advance by Customer.
+
+     3.2 Payment Terms. Monthly recurring charges will be billed 30 days in
+advance of the provision of Services. Non-recurring charges and all other
+charges for Services received, including, but not limited to, variable usage
+Services, Supplemental Services, and expenses incurred for Professional Services
+during month (e.g., bandwidth usage fees, travel expenses) will be billed in
+arrears. Customer will be invoiced monthly on the first billing cycle after the
+Service Commencement Date. Customer shall pay to C&W the purchase price set
+forth in the applicable Order Form for each item of Purchased Equipment.
+Customer hereby grants and C&W reserves a purchase money security interest in
+the Purchased Equipment and the proceeds thereof as security for its obligations
+hereunder until payment of the full purchase price to C&W. Payment for all fees
+is due within thirty (30) days of the date of Customer's receipt of each C&W
+invoice, provided that C&W has provided the Services covered by that invoice.
+All payments will be made in the United States in U.S. dollars.
+
+     3.3 Late Payments. Customer shall pay the full amount due in the invoices,
+less any amounts legitimately in dispute, within thirty (30) days of the invoice
+date. All invoices shall be deemed final and binding unless Customer notifies
+C&W of any alleged discrepancies no later than sixty (60) days from the invoice
+date. Any payment not received within thirty (30) days of the due date, other
+than the ones in dispute, will accrue interest at a rate of one and one-half
+percent (1 1/2%) per month, or the highest rate allowed by applicable law,
+whichever is lower. If Customer is delinquent in its payments, or if Customer
+does not meet C&W's reasonable credit standards, C&W may, upon written notice to
+Customer, modify the payment terms to require full payment before the provision
+of any or all Services and Purchased Equipment, or require other assurances to
+secure Customer's payment obligations hereunder.
+
+     3.4 Taxes. All fees for Services are exclusive of all taxes and similar
+fees now in force or enacted in the future or imposed on the transaction and/or
+
+
+                                       4
+<PAGE>
+
+the delivery of Services, all of which Customer will be responsible for and will
+pay in full, other than taxes based on C&W's net income. Customer also agrees to
+pay all taxes and other governmental charges assessed in connection with the
+sale, use or possession of the Purchased Equipment including, without
+limitation, any and all sales and/or use taxes and personal property taxes
+(other than taxes based on C&W's net income).
+
+4. CONFIDENTAL INFORMATION; INTELLECTUAL PROPERTY OWNERSHIP; LICENSE GRANTS.
+
+     4.1 Confidential Information.
+
+          (a) Nondisclosure of Confidential Information. C&W and Customer each
+acknowledges that it will have access to certain confidential information of the
+other party concerning the other party's business, plans, customers, technology,
+and products, and other information held in confidence by the other party
+("Confidential Information"). Confidential Information will include all
+information in tangible or intangible form that is marked or designated as
+confidential or that, under the circumstances of its disclosure, should be
+considered confidential. Confidential Information will also include, but not be
+limited to, C&W Technology, Customer Technology, non-public information relating
+to the customers of either party, and the terms and conditions and existence of
+this Agreement. C&W and Customer each agrees that it will not use in any way,
+for its own account or the account of any third party, except as expressly
+permitted by, or required to achieve the purposes of, this Agreement, nor
+disclose to any third party (except as required by law, or to another C&W
+Company, in the case of C&W, or to that party's independent contractors,
+attorneys, accountants and other advisors as reasonably necessary), any of the
+other's Confidential Information and will take reasonable precautions to protect
+the confidentiality of such information, which precautions, in any event, will
+be at least as stringent as it takes to protect its own Confidential
+Information. C&W may require, as a condition of gaining access to any C&W
+facility, that employees and other visitors of Customer seeking such access
+execute a non-disclosure agreement which is consistent with Customer's
+confidentiality obligations under this Section 4.
+
+          (b) Exceptions. Information will not be deemed Confidential
+Information hereunder if such information: (i) is known to the receiving party
+prior to receipt from the disclosing party directly or indirectly from a source
+other than one having an obligation of confidentiality to the disclosing party;
+(ii) becomes known (independently of disclosure by the disclosing party) to the
+receiving party directly or indirectly from a source other than one having an
+obligation of confidentiality to the disclosing party; (iii) becomes publicly
+known or otherwise ceases to be secret or confidential, except through a breach
+of this Agreement by the receiving party; or (iv) is independently developed by
+the receiving party. The receiving party may disclose Confidential Information
+pursuant to the requirements of a governmental agency or by operation of law,
+provided that, unless restricted by order of a governmental agency or otherwise
+restricted by law, the receiving party provides reasonable notice to the other
+party of the required disclosure so as to permit the other party to respond to
+such request for r disclosure.
+
+     4.2 Intellectual Property.
+
+          (a) Ownership. Except for the rights expressly granted herein and the
+assignment expressly made in Section 4.4 (a), this Agreement does not transfer
+to Customer any C&W Technology, and all right, title and interest in and to C&W
+Technology will remain solely with C&W. Except for the rights expressly granted
+herein, this Agreement does not transfer from Customer to the C&W Companies any
+Customer Technology, and all right, title and interest in and to Customer
+Technology will remain solely with Customer. C&W and Customer each agrees that
+it will not, directly or indirectly, reverse engineer, decompile, disassemble or
+
+
+                                       5
+<PAGE>
+
+otherwise attempt to derive source code or other trade secrets from the other
+party.
+
+          (b) General Skills and Knowledge. Notwithstanding anything to the
+contrary in this Agreement, none of the C&W Companies will be prohibited or
+enjoined at any time by Customer from utilizing any skills or knowledge of a
+general nature acquired during the course of providing the Services, including,
+without limitation, information publicly known or available or that could
+reasonably be acquired in similar work performed for another customer of a C&W
+Company.
+
+          (c) Use of C&W Marks. Customer may refer to C&W's products and
+services in writing by the associated C&W Marks, provided (i) Customer has
+obtained C&W's prior written consent to such use, which consent may be withheld
+at C&W's sole discretion; (ii) such reference to C&W and C&W Marks is truthful
+and not misleading; and (iii) such reference complies with the then-current C&W
+Trademark and Logo Policies located at www.exodus.net.
+                                       --------------
+
+     4.3 License Grants.
+
+          (a) By C&W. C&W hereby grants to Customer a nonexclusive, royalty-free
+license, during the Initial Service Term and any renewal Service Term, to use
+the C&W Technology, which Customer gains access to through the provision of the
+Service(s), solely for purposes of using the Service(s) and no other purpose.
+
+          (b) By Customer. Customer agrees that if, in the course of performing
+the Service(s), it is necessary for C&W to enter the Customer Area, access
+Customer Equipment and use Customer Technology, C&W is hereby granted and shall
+have a nonexclusive, royalty-free license, during the Initial Service Term and
+any Renewal Service Term, to enter the Customer Area and use the Customer
+Technology solely for purposes of providing the Service(s) to Customer and no
+other purpose.
+
+     4.4 Professional Services; Assignments and License.
+
+          (a) Assignment of Work. Effective at the time C&W receives full and
+final payment for the Professional Service, C&W assigns to Customer all right,
+title and interest, including all intellectual property rights, in the Work,
+provided, however, that such assignment does not include C&W Technology.
+
+          (b) License Grant. Commencing at the time C&W receives full and final
+payment for the Work, C&W grants to Customer a non-exclusive, non-transferable
+(except as permitted under Section 11.9), royalty free, perpetual license to use
+the C&W Technology incorporated into the Work solely in connection with the use
+of the Work as a whole, subject to Section 4.2 (a). To the extent that Customer
+or its employees or contractors participate in the creation or development of
+C&W Technology, Customer, on behalf of itself and its employees and contractors,
+hereby assigns to C&W all right, title and interest, including all intellectual
+property rights, in and to the C&W Technology.
+
+5. C&W REPRESENTATIONS AND W ARRANTIES.
+
+     5.1 General. C&W represents and warrants that (i) it has the legal right to
+enter into this Agreement and perform its obligations hereunder, and (ii) the
+performance of its obligations and delivery of the Services to Customer will not
+violate any applicable laws or regulations, including U.S. OSHA requirements. In
+the event of a breach of the warranties set forth in this Section 5.1,
+Customer's sole remedies are (i) the right to receive Service Credits under the
+terms of the Service Level Agreement incorporated herein by this reference to
+the extent such breach results in Downtime or Performance Problems as those
+terms are defined in the Service Level Agreement, and (ii) the right to
+
+
+                                       6
+<PAGE>
+
+terminate the Services and this Agreement, including all outstanding Order
+Forms, pursuant to Section 10 of this Agreement.
+
+     5.2 Service Level Agreement. C&W warrants that it will perform the Services
+in a professional and workmanlike manner consistent with industry standards
+reasonably applicable to the performance thereof. In the event that Customer
+experiences any Downtime and/or Performance Problems, as those terms are defined
+in the Service Level Agreement incorporated herein by this reference, as a
+result of C&W's failure to provide the Services or C&W's breach of the
+warranties set forth in this Section 5.2 and the Service Level Agreement,
+Customer may be eligible to receive Service Credits from C&W and terminate the
+Services in accordance with the terms set forth in the Service Level Agreement.
+Customer's rights to receive Service Credits and terminate the Services and/or
+this Agreement and all outstanding Order Forms under the terms of the Service
+Level Agreement are Customer's sole and exclusive remedies for any failure by
+C&W to provide the Services and for C&W's failure to meet any warranty set forth
+in this Section 5.2 and the Service Level Agreement.
+
+     5.3 Selection of Purchased Equipment and Rental Equipment; Manufacturer
+Warranty. Customer acknowledges and agrees that (i) it has selected the
+Purchased Equipment and/or Rental Equipment and has not relied on any statements
+made by C&W, and (ii) Customer's use and possession of the Purchased Equipment
+and Rental Equipment shall be subject to and controlled by the terms of any
+manufacturer's or supplier's warranty, as appropriate, or, the terms of the
+service warranty purchased by Customer from C&W to cover such Purchased or
+Rental Equipment, if any. Subject to the terms of any service warranty purchased
+by Customer from C&W to cover such Purchased or Rental Equipment, Customer
+agrees to look solely to the manufacturer or, if appropriate, supplier with
+respect to all mechanical, service and other claims. The right to enforce all
+warranties made by said manufacturer are hereby, to the extent C&W has the
+right, assigned to Customer, provided such assignment is solely for the Initial
+Service Term and any Renewal Service Term mutually agreed upon in the case of
+Rental Equipment.
+
+     5.4 No Other Warranty. EXCEPT FOR THE EXPRESS WARRANTIES SET FORM IN THIS
+SECTION 5, INCLUDING THE SERVICE LEVEL AGREEMENT, CUSTOMER'S USE OF THE SERVICES
+AND SUPPLEMENTAL SERVICES IS AT ITS OWN RISK. THE C&W COMPANIES, THEIR SUPPLIERS
+AND SUBCONTRACTORS, IF ANY, DO NOT MAKE, AND HEREBY DISCLAIM, ANY AND ALL OTHER
+EXPRESS AND/OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NONINFRINGEMENT AND TITLE,
+AND ANY WARRANTIES ARISING FROM A COURSE OF DEALING, USAGE, OR TRADE PRACTICE.
+THE C&W COMPANIES. THEIR SUPPLIERS AND SUBCONTRACTORS, IF ANY, DO NOT WARRANT
+THAT THE SERVICES OR THE SUPPLEMENTAL SERVICES WILL BE UNINTERRUPTED,
+ERROR-FREE, OR COMPLETELY SECURE.
+
+     5.5 Disclaimer of Actions Caused by and/or Under the Control of Third
+Parties. THE C&W COMPANIES DO NOT AND CANNOT CONTROL THE FLOW OF DATA TO OR FROM
+THE C&W COMPANIES' NETWORK AND OTHER PORTIONS OF THE INTERNET. SUCH FLOW DEPENDS
+IN LARGE PART ON THE PERFORMANCE OF INTERNET SERVICES PROVIDED OR CONTROLLED BY
+THIRD PARTIES. AT TIMES, ACTIONS OR INACTIONS OF SUCH THIRD PARTIES CAN IMPAIR
+OR DISRUPT CUSTOMER'S CONNECTIONS TO THE INTERNET (OR PORTIONS THEREOF). C&W
+CANNOT GUARANTEE THAT SUCH EVENTS WILL NOT OCCUR. ACCORDINGLY, THE C&W
+COMPANIES, THEIR SUPPLIERS AND SUBCONTRACTORS, IF ANY, DISCLAIM ANY AND ALL
+LIABILITY RESULTING FROM OR RELATED TO SUCH EVENTS.
+
+     5.6 Medical Life Support; Aircraft Service and Nuclear Applications. THE
+SERVICES, SUPPLEMENTAL SERVICES, RENTAL EQUIPMENT AND PURCHASED EQUIPMENT
+DELIVERED UNDER THIS AGREEMENT ARE NOT DESIGNED OR INTENDED FOR USE IN MEDICAL
+
+
+                                       7
+<PAGE>
+
+LIFE SUPPORT SYSTEMS AND SERVICES, ON-LINE CONTROL OF AIRCRAFT, AIR TRAFFIC,
+AIRCRAFT NAVIGATION OR AIRCRAFT COMMUNICATIONS; OR IN THE DESIGN, CONSTRUCTION,
+OPERATION OR MAINTENANCE OF ANY NUCLEAR FACILITY. THE C&W COMPANIES, THEIR.
+SUPPLIERS AND SUBCONTRACTORS, IF ANY, DISCLAIM ANY EXPRESS OR IMPLIED WARRANTY
+OF FITNESS FOR SUCH PURPOSE. Customer represents and warrants that it will not
+use the Services, Supplemental Services, Rental Equipment and Purchased
+Equipment for such purposes.
+
+6. CUSTOMER OBLIGATIONS.
+
+     6.1 Warranties of Customer.
+
+          (a) General. Customer represents and warrants that throughout the term
+of this Agreement (i) it will have the legal right and authority to place and
+use any Customer Equipment as contemplated under this Agreement; (ii) the
+performance of its obligations and use of the Services and Supplemental Services
+(by Customer, its customers and users) will not violate any applicable laws,
+regulations, the Rules and Regulations or C&W's operating procedures, or
+unreasonably interfere with other C&W customers' use of C&W services; (iii) all
+equipment, materials and other tangible items placed by Customer at Internet
+Data Centers will be used in compliance with all applicable manufacturer
+specifications and industry standards, including, but not limited to, those
+relating to proper installation and ventilation; and (iv) it will comply with
+the terms and conditions of all licenses for software included in the Rental
+Equipment and Purchased Equipment.
+
+          (b) Breach of Warranties. In the event of any breach of any of the
+foregoing warranties or other representations of Customer set forth herein, in
+addition to any other remedies available at law or in equity, C&W will have the,
+right to suspend immediately any related Services and/or restrict Customer's
+access to the Internet Data Center(s), if deemed reasonably necessary by C&W to
+prevent any harm to C&W, its employees and its business. C&W will, if
+practicable depending on the nature of the breach; and without in any way
+limiting any other rights and remedies it has in law or in equity, provide
+notice and a reasonable opportunity to cure. Once the breach is cured, C&W will
+promptly restore the Service(s), unless C&W has taken action under Section 10.
+If C&W withholds Services from Customer in error under this Section 6.l (b),
+Customer shall be entitled to receive Service Credits, calculated in accordance
+with the SLA, for any downtime thus occasioned.
+
+     6.2 Compliance with Laws and Rules and Regulations. Customer agrees that it
+will use the Services and Supplemental Services only for lawful purposes and in
+accordance with this Agreement. Customer will comply at all times with all
+applicable laws and regulations, C&W operating procedures and the Rules and
+Regulations, as updated by C&W from time to time. C&W may change the Rules and
+Regulations upon fifteen (15) days' prior written notice to Customer from which
+Customer has thirty (30) days to object such change. In such case, the earlier
+Rules & Regulations shall apply for the Customer. Customer agrees to comply with
+the restrictions on Customer's and its users' online conduct contained in the
+Rules and Regulations and, in the event of a failure to comply, in addition to
+any other remedy C&W may have in law or in equity, Customer agrees to pay for
+C&W's administrative costs in accordance with the Rules and Regulations.
+Customer acknowledges that exercises no control whatsoever over the content of
+the information passing through Customer's site(s) or shared or processed on
+equipment under the control of C&W on behalf of Customer, and that it is the
+sole responsibility of Customer to ensure that the information it and its users
+transmit and receive complies with all applicable laws and regulations and the
+Rules and Regulations.
+
+                                       8
+<PAGE>
+
+     6.3 Access and Security. Except with the advance written consent of C&W,
+Customer's access to the Internet Data Centers will be limited solely to the
+Representatives. Representatives may only access the Customer Area and are
+prohibited from accessing other areas of the Internet Data Centers unless
+accompanied by an authorized C&W representative. Customer's access to the
+Internet Data Centers is subject to the security provisions contained in the
+Rules and Regulations and Customer agrees to comply with such security
+requirements.
+
+     6.4 Restrictions on Use of Services. Customer shall not resell the Services
+to any third parties (it being understood and agreed that the hosting of web
+sites for third parties does not constitute reselling the Services, as long as
+Customer provides the hosting services for third parties by adding significant
+value to the hosting services, not just acting as a mere pass through of the
+Services to the third parties.) or connect Customer Equipment directly to
+anything other than the C&W network, equipment and facilities except (i) through
+third party services made available by C&W ; or (ii) with the prior written
+consent of C&W (which may be withheld in its sole discretion). Customer agrees
+that, to the extent it uses the Services to provide services to its customers or
+users, Customer will use reasonable efforts to disclaim in writing any liability
+whatsoever by C&W, its suppliers or subcontractors to Customer's customers or
+users.
+
+     6.5 Relocation of Customer Equipment. In the event that it becomes
+necessary to relocate the Customer Equipment to another Customer Area or
+Internet Data Center operated by C&W within the same geographic area, Customer
+will cooperate in good faith with C&W to facilitate such relocation, provided
+that such relocation is based on reasonable business needs of C&W, the expansion
+of the space requirements of Customer or otherwise. C&W shall be solely
+responsible for any costs and expenses incurred by C&W in connection with any
+such relocation and will use commercially reasonable efforts, in cooperation
+with Customer, to minimize and avoid any interruption to the Services. C&W
+agrees not to relocate Customer Equipment without Customer's prior consent,
+which consent shall not be unreasonably withheld; provided, that Customer shall
+have the absolute right to terminate the applicable Services without penalty
+within 30 days after C&W relocates Customer Equipment without Customer's
+consent, regardless of whether such consent was reasonably withheld.
+
+     6.6 Rental Equipment.
+
+          (a) Delivery and Term. On or prior to the Service Commencement Date,
+C&W shall deliver to Customer, at the designated Internet Data Center, the
+Rental Equipment. Customer shall have the right to use the Rental Equipment for
+the Initial Service Term set forth in the Order Form and any additional period
+agreed to in writing by C&W. Customer shall not remove any Rental Equipment from
+the Customer Area(s) without the prior written consent of C&W.
+
+          (b) Title. The Rental Equipment shall always remain the personal
+property of C&W. Customer shall have no right or interest in or to the Rental
+Equipment except as provided in this Agreement and the applicable Order Form and
+shall hold the Rental Equipment subject and subordinate to the rights of C&W.
+Customer agrees to execute UCC financing statements as and when requested by C&W
+and, in the event such UCC financing statements are not executed by Customer,
+Customer hereby appoints C&W as its attorney-in-fact to execute such financing
+statements on behalf of Customer. Customer will, at its own expense, keep the
+Rental Equipment free and clear from any liens or encumbrances of any kind
+(except any caused by C&W) and will indemnify and hold C&W harmless from and
+against any loss or expense caused by Customer's failure to do so. Customer
+shall give C&W immediate written notice of any attachment or judicial process
+affecting the Rental Equipment or C&W's rights therein. Customer will not
+remove, alter or destroy any labels on the Rental Equipment indicating C&W's
+
+
+                                       9
+<PAGE>
+
+rights and shall allow the inspection of the Rental Equipment by C&W or persons
+authorized by C&W at any time.
+
+          (c) Use, Maintenance and Repair. Customer will, at its own expense,
+keep the Rental Equipment in good repair, appearance and condition, other than
+normal wear and tear, and, if not included in the Services, shall obtain, pay
+for and keep in effect through the Service Term therefor a hardware and software
+support and maintenance agreement with the manufacturer or other party
+acceptable to C&W. All parts and updates furnished in connection with such
+repair and maintenance shall be manufacturer authorized parts and updates and
+shall immediately become components of the Rental Equipment and the property of
+C&W. Customer shall use the Rental Equipment in compliance with the
+manufacturer's or, supplier's suggested guidelines.
+
+          (d) Upgrades and Additions. Customer may affix or install any
+accessory, addition, upgrade, equipment or device onto the Rental Equipment
+("Additions"), provided that, such Additions (i) can be removed without causing
+material damage to the Rental Equipment; (ii) do not materially reduce the value
+of the Rental Equipment; (iii) are obtained from or approved in writing by C&W ;
+and (iv) are not subject to the interest of any third party other than C&W, its
+suppliers or licensors, if any. Any other Additions may not be installed without
+C&W's prior written consent. At the end of the Initial Service Term or
+additional rental period agreed to by C&W, or this Agreement, as applicable,
+Customer shall remove any Additions which were not provided by C&W and are
+readily removable without causing material damage or impairment of the intended
+function, use, or value of the Rental Equipment, and restore the Rental
+Equipment to its original configuration. Any Additions, which are not so
+removable, will become the property of C&W (lien free).
+
+     6.7 Purchased Equipment.
+
+          (a) Risk of Loss; Shipping and Handling. All Purchased Equipment is
+provided FOB equipment manufacturer or supplier facility, as applicable. Risk of
+loss passes to Customer upon delivery of the Purchased Equipment into the
+custody of the carrier or, if there are subsequent carriers, to the first
+carrier, for transportation to the named place of destination. Shipment will be
+made as specified by Customer and Customer is solely responsible for all
+expenses incurred in connection with the delivery of the Purchased Equipment.
+The Purchased Equipment will be deemed accepted by Customer upon shipment.
+
+          (b) Title. Customer shall acquire title to the Purchased Equipment
+upon full payment of the purchase price(s) set forth in the Order Form.
+Notwithstanding the foregoing, C&W and any licensor of rights, as applicable,
+shall retain title to and rights in the intellectual property, software (whether
+or not subject to patent or copyright) and content contained in the Purchased
+Equipment.
+
+7. INSURANCE.
+
+     7.1 Minimum Levels. C&W and Customer shall each keep in full force and
+effect during the term of this Agreement: (i) comprehensive general liability
+insurance in an amount not less than $2 million per occurrence for bodily injury
+and property damage, and (ii) workers' compensation insurance in an amount not
+less than that required by applicable law. C&W and Customer each agrees to
+ensure and be solely responsible for ensuring that its respective contractors,
+agents and subcontractors maintain insurance coverage at levels no less than
+those required by applicable law and customary in C&W's and Customer's
+respective industries, as applicable, and their respective contractors',
+agents', and subcontractors' industries.
+
+     7.2 Certificates of Insurance; Naming C&W as an Additional Insured. Prior
+to installation of any Customer Equipment in the Customer Area, Customer will
+(i) deliver to C&W certificates of insurance which evidence the minimum levels
+of insurance set forth above, and (ii) cause its insurance provider(s) to name
+
+
+                                       10
+<PAGE>
+
+C&W as an additional insured and notify C&W in writing of the effective date
+thereof.
+
+8. LIMITATIONS OF LIABILITY.
+
+     8.1 Personal Injury. EACH REPRESENTATIVE AND ANY OTHER PERSON VISITING AN
+INTERNET DATA CENTER DOES SO AT HIS OR HER OWN RISK. C&W ASSUMES NO LIABILITY
+WHATSOEVER FOR ANY HARM TO SUCH PERSONS RESULTING FROM ANY CAUSE OTHER THAN THE
+NEGLEGENCE OR WILLFUL MISCONDUCT OF C&W.
+
+     8.2 Damage to Customer Equipment. C&W ASSUMES NO LIABILITY FOR ANY DAMAGE
+TO, OR LOSS OF, ANY CUSTOMER EQUIPMENT RESULTING FROM ANY CAUSE OTHER THAN THE
+NEGLEGENCE OR WILLFUL MISCONDUCT OF C&W OR THAT OF ITS EMPLOYEES, AND
+SUBCONTRACTORS; To THE EX1ENT A COMPANY IS LIABLE FOR ANY DAMAGE TO, OR LOSS OF,
+CUSTOMER EQUIPMENT FOR ANY REASON, SUCH LIABILITY WILL BE LIMITED SOLELY TO THE
+THEN-CURRENT REPLACEMENT VALUE OF THE CUSTOMER EQUIPMENT, EXCLUDING LOST DATA,
+SOFTWARE AND FIRMWARE.
+
+     8.3 LIMITATION OF LIABILITY.
+
+          (A) NOTWIHSTANDING ANYTHING ELSE IN THIS AGREEMENT, ALL LIABILTY OF
+THE C&W COMPANIES, THEIR RESPECTIVE EMPLOYEES, SUPPLIERS AND SUBCONTRACTORS
+UNDER THIS AGREEMENT (INCLUDING ALL RELATED ORDER FORMS) OR OTHERWISE SHALL BE
+LIMITED TO THE SUM OF FIVE HUNDRED THOUSAND DOLLARS (US $500,000)
+
+          (B) ALL LIABILITIES OF CUSTOMER UNDER THIS AGREEMENT (INCLUDING ALL
+RELATED ORDER FORM) OR OTHERWISE SHALL BE LIMITED TO THE SUM OF FIVE HUNDRED
+THOUSAND DOLLARS (US $500,000)
+
+          (C) SUCH LIMITATION SHALL NOT APPLY TO THE CONFIDENTIALITY INFORMATION
+(SECTION 4.1) AND INDEMNIFICATION (SECTION 9.1) BELOW.
+
+     8.4 CONSEQUENTIAL DAMAGES WAIVER. EXCEPT FOR A BREACH OF SECTION 4.1
+("CONFIDENTIAL INFORMATION") OF THIS AGREEMENT, IN NO EVENT WILL THE C&W
+COMPANIES OR CUSTOMER BE LIABLE OR RESPONSIBLE TO CUSTOMER, IN THE CASE OF THE
+C&W COMPANIES, AND THE C&W COMPANIES, IN THE CASE OF CUSTOMER, FOR ANY TYPE OF
+INCIDENTAL, PUNITIVE, INDIRECT OR CONSEQUENTIAL DAMAGES, INCLUDING, BUT NOT
+LIMITED TO, LOST REVENUE, LOST PROFITS, REPLACEMENT GOODS, LOSS OF TECHNOLOGY,
+RIGHTS OR SERVICES, LOSS OF DATA, OR INTERRUPTION OR LOSS OF USE OF SERVICE OR
+EQUIPMENT, EVEN IF ADVISED OF THE POSIBILITY OF SUCH DAMAGES, WHETHER ARISING
+UNDER THEORY OF CONTRACT, TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY OR
+OTHERWISE.
+
+     8.5 Basis of the Bargain; Failure of Essential Purpose. The parties
+acknowledge that C&W has set its prices and entered into this Agreement in
+reliance upon the limitations of liability and the disclaimers of warranties and
+damages set forth herein, and that the same form an essential basis of the
+bargain between the parties. The parties agree that the limitations and
+exclusions of liability and disclaimers specified in this Agreement will survive
+and apply even if found to have failed of their essential purpose.
+
+9. INDEMNIFICATION.
+
+     9.1 Indemnification C&W and Customer will each indemnify (the "Indemnifying
+Party"), defend and hold the other (the "Indemnified Party") harmless from and
+against any and all costs, liabilities, losses, and expenses (including, but not
+limited to, reasonable attorneys' fees) (collectively, "Losses") resulting from
+any claim, suit, action, or proceeding (each, an "Action") brought by any third
+party against the Indemnified Party or its affiliates alleging (i) the
+infringement or misappropriation of any intellectual property right relating to
+the delivery or its use of the Service(s) (but excluding any infringement
+contributorily caused by the Indemnified Party); (ii) personal injury caused by
+the negligence or willful misconduct of the other party; and (iii) any violation
+
+
+                                       11
+<PAGE>
+
+of or failure to comply with the Rules and Regulations. Customer will indemnify,
+defend and hold C&W, its affiliates and customers harmless from and against any
+and all Losses resulting from or arising out of (i) any breach by Customer of
+Section 6.4 of this Agreement, and (ii) any damage or destruction to the
+Customer Area, the Internet Data Centers, C&W equipment or other customer
+equipment or business caused by Customer or its Representative(s).
+
+     9.2 Indemnification Notice and Cooperation. Each of C&W's and Customer's
+indemnification obligations hereunder shall be subject to (i) receiving prompt
+written notice of the existence of any Action or Loss; (ii) being able to, at
+its option, control the defense of such Action; (iii) permitting the Indemnified
+Party to participate in the defense of any Action; and (iv) receiving full
+cooperation of the Indemnified Party in the defense thereof.
+
+10. TERMINATION.
+
+     10.1 Termination For Cause. C&W or Customer may terminate this Agreement
+and all outstanding Order Forms if: (i) the other party breaches any material
+term or condition of this Agreement and fails to cure such breach within thirty
+(30) days after receipt of written notice of the same, except in the case of
+failure to pay fees, which must be cured within five (5) days after receipt of
+written notice from C&W ; (ii) the other party becomes the subject of a
+voluntary petition in bankruptcy or any voluntary proceeding relating to
+insolvency, receivership, liquidation, or composition for the benefit of
+creditors; or (iii) the other party becomes the subject of an involuntary
+petition in bankruptcy or any involuntary proceeding relating to insolvency,
+receivership, liquidation, or composition for the benefit of creditors, if such
+petition or proceeding is not dismissed within sixty (60) days of filing.
+Customer and C&W may also terminate this Agreement in accordance with any other
+express terms regarding termination set forth in this Agreement.
+
+     10.2 Early Termination. Customer may terminate this Agreement at any time
+during the Initial Term by giving written notice to C&W and remitting payment of
+50% of the amounts that would have been due for the remainder of the Initial
+Service Term for space & band width Services only.
+
+     10.3 No Liability for Termination. Neither the Companies nor Customer will
+be liable to the other for any termination or expiration of any Service or this
+Agreement in accordance with its terms.
+
+     10.4 Effect of Termination. Upon the effective date of termination of this
+Agreement:
+
+          (a) C&W will immediately cease providing the Service(s) any and all
+payment obligations of Customer under this Agreement for Service(s) provided
+through the date of termination will immediately become due;
+
+          (b) Termination Assistance: Notwithstanding , subsection (a) above,
+upon Customer's specific written request to C&W for assistance in termination
+and its duration being 120 days, Customer will promptly begin taking action to
+relocate its data center operations and discontinue operations at the Internet
+Data Center and will use all commercially reasonable efforts to complete such
+actions as soon as possible. During the 120- day period immediately following
+the effective date of termination, C&W shall continue providing the Services to
+Customer as needed (at the same rates, on the same terms and conditions as
+provided in the Agreement that were in effect immediately prior to the effective
+
+
+                                       12
+<PAGE>
+
+date of termination) and Customer shall continue to pay for such services at the
+rates in effect immediately prior to the effective date of termination
+("Termination Assistance"). C&W shall have no obligation to continue to provide
+Services for longer than 120 days after the effective date of termination.
+
+          (c) within thirty (30) days of such termination or 120 days with
+Termination Assistance, each party will return all, Confidential Information of
+the other party in its possession and will not make or retain any copies of such
+Confidential Information except as required to comply with any applicable legal
+or accounting record keeping requirement; and
+
+          (d) subject to Section 10.4 of this Agreement, within five (5) days of
+such termination, or 120 days with Termination Assistance, Customer shall (i)
+remove from the Internet Data Center(s) all Customer Equipment (excluding any
+Rental Equipment) and any other Customer property; (ii) remove Additions from
+all Rental Equipment in accordance with Section 6.6 (d) and deliver or make
+available all Rental Equipment to an authorized representative of C&W ; and
+(iii) return the Customer Area to C&W in the same condition as it was on the
+Service Commencement Date for the Customer Area, normal wear and tear excepted.
+If Customer does not remove the Customer Equipment and its other property within
+five (5) days of the date of termination or 120 days with Termination
+Assistance, C&W may move any and all such property to storage and charge
+Customer for the cost of such removal and storage. If Customer does not remove
+the Customer Equipment and its other property within thirty (30) days of the
+date of termination or 150 days with Termination Assistance, C&W may liquidate
+the property in any reasonable manner and retain the proceeds.
+
+     10.5 Customer Equipment as Security. In the event that Customer fails to
+pay C&W all amounts owed C&W under this Agreement when due, that is delinquency
+of non-disputed payment greater than 30 days, Customer agrees that, upon
+delivery of written notice to Customer, C&W may (i) restrict Customer's physical
+access to the Customer Area and Equipment; and/or (ii) upon termination of this
+Agreement, take possession of any Customer Equipment and store it, at Customer's
+expense, until taken in full or partial satisfaction of any amounts due C&W, all
+without being liable to prosecution or for damages.
+
+     10.6 Survival. Any provisions in this Agreement which by their nature are
+intended to survive expiration or termination shall survive expiration or
+termination of this Agreement for any reason.
+
+11. MISCELLANEOUS PROVISIONS.
+
+     11.1 Force Majeure. Except for the obligation to make payments for Services
+rendered, neither party will be liable for any failure or delay in its
+performance under this Agreement due to any cause beyond its reasonable control,
+including acts of war, acts of God, earthquake, flood, embargo, riot, sabotage,
+labor shortage or dispute, governmental act or failure of the Internet (not
+resulting from the actions or inactions of C&W), provided that the delayed
+party: (i) gives the other party prompt notice of such cause, and (ii) uses its
+reasonable commercial efforts to promptly correct such failure or delay in
+performance. If C&W is unable to provide Service(s) for a period of thirty (30)
+consecutive days as a result of a continuing force majeure event, Customer may
+cancel the Service(s).
+
+     11.2 No Lease; Agreement Subordinate to Master Lease. This Agreement is a
+services agreement and is not intended to and will not constitute a lease of any
+real property. Customer acknowledges and agrees that (i) it has been granted
+only a license to occupy the Customer Area and use the Internet Data Center(s)
+and any equipment provided by C&W in accordance with this Agreement; (ii)
+Customer has not been granted any real property interest in the Customer Area or
+
+
+                                       13
+<PAGE>
+
+Internet Data Center(s); (iii) Customer has no rights as a tenant or otherwise
+under any real property or landlord/tenant laws, regulations, or ordinances; and
+(iv) this Agreement, to the extent it involves the use of space leased by C&W,
+shall be subordinate to any lease between C&W and its landlord(s). Customer
+hereby waives and releases any claims or rights to make a claim that it may have
+against the landlord(s) under any lease by C&W with respect to any equipment or
+property of Customer located in the premises demised to C&W by such landlord(s).
+
+     11.3 Marketing. Notwithstanding anything contained in Section 4.1, Customer
+agrees that during the term of this Agreement, C&W may publicly refer to
+Customer orally and in writing, as a Customer of the C&W Companies. Any other
+reference to Customer by C&W, including the announcement of the parties'
+relationship via a press release, requires the written consent of Customer.
+
+     11.4 Government Regulations. Customer will not export, re-export, transfer,
+or make available, whether directly or indirectly, any regulated item or
+information to anyone outside the United States in connection with this
+Agreement without first complying with all export control laws and regulations
+which may be imposed by the U.S. Government and any country or organization of
+nations within whose jurisdiction Customer operates or does business.
+
+     11.5 Non-Solicitation. During the Term of this Agreement and continuing
+through the first anniversary of the termination of this Agreement, Customer
+agrees that it will not, and will ensure that its affiliates do not, directly or
+indirectly, solicit or attempt to solicit for employment any persons employed by
+a C&W Company or contracted by a C&W Company to provide Services to Customer.
+
+     11.6 No Third Party Beneficiaries. C&W, and Customer agree that, except as
+otherwise expressly provided in this Agreement, there shall be no third party
+beneficiaries to this Agreement, including but not limited to the insurance
+providers for either party or the customers of Customer.
+
+     11.7 Governing Law; Dispute Resolution. This Agreement is made under and
+will be governed by and construed in accordance with the laws of the State of
+California (except that body of law controlling conflicts of law) and
+specifically excluding from application to this Agreement that law known as the
+United Nations Convention on the International Sale of Goods. The parties will
+endeavor to settle amicably by mutual discussions any disputes, differences, or
+claims whatsoever related to this Agreement. Failing such amicable settlement,
+any controversy, claim, or dispute arising under or relating to this Agreement,
+including the existence, validity, interpretation, performance, termination or
+breach thereof, shall finally be settled by arbitration in accordance with the
+Arbitration Rules (and if Customer is a non-U.S. entity, the International
+Arbitration Rules) of the American Arbitration Association ("AAA "). There will
+be three (3) arbitrators (the "Arbitration Tribunal"), the first of which will
+be appointed by the claimant in its notice of arbitration, the second of which
+will be appointed by the respondent within thirty (30) days of the appointment
+of the first arbitrator and the third of which will be jointly appointed by the
+party-appointed arbitrators within thirty (30) days thereafter. The language of
+the arbitration shall be English. The Arbitration Tribunal will not have the
+authority to award punitive damages to either party. Each party shall bear its
+own expenses, but the parties will share equally the expenses of the Arbitration
+Tribunal and the AAA. This Agreement will be enforceable, and any arbitration
+award will be final, and judgment thereon may be entered in any court of
+competent jurisdiction. The arbitration will be held in San Francisco,
+California, USA if Customer is the party initiating the arbitration, and in
+Boston, Massachusetts, USA if C&W is the party initiating the arbitration.
+Notwithstanding the foregoing, claims for preliminary injunctive relief, other
+pre-judgment remedies, and claims for Customer's failure to pay for Services in
+accordance with this agreement may be brought in a state or federal court in the
+United States with jurisdiction over the subject matter and parties.
+
+                                       14
+<PAGE>
+
+     11.8 Time to Bring Claims. Any initial demand for arbitration pursuant to
+this Agreement, and any legal action arising under this Agreement, must be
+initiated within two years after the cause of action arises.
+
+     11.9 Severability; Waiver. In the event any provision of this Agreement is
+held by a tribunal of competent jurisdiction to be contrary to the law, the
+remaining provisions of this Agreement will remain in full force and effect. The
+waiver of any breach or default of this Agreement will not constitute a waiver
+of any subsequent breach or default, and will not act to amend or negate the
+rights of the waiving party.
+
+     11.10 Assignment. Customer or C&W may assign this Agreement in whole as
+part of a corporate reorganization, consolidation, merger, or sale of
+substantially all of its assets, provided that, in the case of Customer, such
+assignment shall become effective only upon written notice to C&W. Customer may
+not otherwise assign its rights or delegate its duties under this Agreement
+either in whole or in part without the prior written consent of C&W, and any
+attempted assignment or delegation without such consent will be void. C&W may
+assign this Agreement in part and/or delegate the performance of certain
+Services to third parties, provided C&W controls the delivery of such Services
+to Customer and remains responsible to Customer for the delivery of such
+Services.
+
+     11.11 Notice. Any notice or communication required or permitted to be given
+hereunder may be delivered by hand, deposited with an overnight courier, sent by
+email, confirmed facsimile, or mailed by registered or certified mail, return
+receipt requested, postage prepaid, in each case to the address of the receiving
+party as listed below the signature for such party on this Agreement or at such
+other address as may hereafter be furnished in writing by either party to the
+other party. Such notice will be deemed to have been given as of the date it is
+delivered, mailed, emailed, or faxed, whichever is earlier.
+
+     11.12 Relationship of Parties. C&W and Customer are independent contractors
+and this Agreement will not establish any relationship of partnership, joint
+venture, employment, franchise or agency between C&W and Customer. Neither C&W
+nor Customer will have the power to bind the other or incur obligations on the
+other's behalf without the other's prior written consent, except as otherwise
+expressly provided herein.
+
+     11.13 Entire Agreement; Counterparts; Originals. This Agreement, including
+all documents incorporated herein by reference, constitutes the complete and
+exclusive agreement between Customer and C&W with respect to the subject matter
+hereof, and supersedes and replaces any and all prior or contemporaneous
+discussions, negotiations, understandings and agreements, written and oral,
+regarding such subject matter. Any additional or different terms in any purchase
+order or other response by Customer shall be deemed objected to by C&W without
+need of further notice of objection, and shall be of no effect or in any way
+binding upon C&W. This Agreement may be executed in two or more counterparts,
+each of which will be deemed an original, but all of which together shall
+constitute one and the same instrument. Once signed, any reproduction of this
+Agreement made by reliable means (e.g., photocopy, facsimile) is considered an
+original. This Agreement may be changed only by a written document signed by
+authorized representatives of C&W and Customer in accordance with this Section
+11.13. For purposes of this Agreement, the term "written" means anything reduced
+to a tangible form by a party, including a printed or handwritten document,
+e-mail or other electronic format.
+
+     11.14 Interpretation of Conflicting Terms. In the event of a conflict
+between or among the terms in this Agreement, the Order Form(s), the
+Specification Sheet(s), the Service Level Agreement, the Statement(s) of Work,
+
+
+                                       15
+<PAGE>
+
+and any other document made a part hereof, the documents shall control in the
+following order: the Order Form with the latest date, the Rules and Regulations
+with the latest date, the Statement of Work, Specification Sheets, the Service
+Level Agreement, the Agreement and other documents.
+
+                                       16
+<PAGE>
+
+     Authorized representatives of Customer and Cable & Wireless Internet
+Services Inc., have read the foregoing and all documents incorporated therein
+and agree and accept such terms effective as of the Effective Date.
+
+
+
+CUSTOMER                             CABLE & WIRELESS INTERNET SERVICES INC.
+
+Signature: /s/Robert P. Orlando      Signature: /s/Cecilia Chang
+           --------------------                 ----------------
+Print Name: Robert P. Orlando        Print Name: Cecilia Chang
+            -----------------                    -------------
+Title: VP & CFO                      Title: Corporate Counsel
+       --------                            -----------------
+Date: April 30, 2002                 Date: May 13, 2002
+      --------------                       ------------
+
+ADDRESS FOR NOTICE:                 ADDRESS FOR NOTICE:
+120 Flanders Road                   45 Fremont St. #1200
+-----------------                   --------------------
+Westboro, MA  01581                 San Francisco, CA  94105
+-------------------                 ------------------------
+ATTENTION: General Counsel          ATTENTION: General Counsel
+           ---------------                     ---------------
+
+This Agreement incorporates the following documents:
+
+* Order Form(s)
+
+    * Specification Sheet(s)
+
+    * Statement(s) of Work (if applicable)
+
+* Registration Form
+
+* Attachment A     C&W Rules and Regulations
+
+* Attachment B     C&W Service Level Agreement
+
+
+                                       17
+<PAGE>
+
+
+                     ATTACHMENT A C&W RULES AND REGULATIONS
+
+These Rules and Regulations cover (1) C&W's customer's (the "Customer") (and the
+Customer's customers, agents and users) use of and access to C&W's facilities
+(e.g. Internet Data Centers); (2) Customer's (and its customers, agents and
+users) use of the C&W online services; and (3) C&W's maintenance of the services
+it provides to its Customers.
+
+ACCESS TO INTERNET DATA CENTERS
+
+Only those individuals identified in writing by Customer on the Customer
+Registration Form, ("Representatives") may access the Internet Data Centers.
+Customer shall deliver prior written notice to C&W of any changes to the
+Customer Registration Form and the list of Representatives.
+
+Customer and its Representatives shall not allow any unauthorized persons to
+have access to or enter any Internet Data Centers. Customer and its
+Representatives may only access that portion of an Internet Data Center made
+available by C&W to Customer for the placement of Customer's equipment and use
+of the Internet Data Center Services (the "Customer Area"), unless otherwise
+approved and accompanied by an authorized C&W representative.
+
+USE OF INTERNET DATA CENTER FACILITY
+
+Conduct at Internet Data Centers. Customer and its Representatives agree to
+adhere to and abide by all security and safety measures established by C&W and
+set forth in the Customer Guide provided by C&W to Customer. Customer and its
+Representatives shall also not do or participate in any of the following:
+
+misuse or abuse any C&W property or equipment or third party equipment;
+
+make any unauthorized use of or interfere with any property or equipment of any
+other C&W Customer;
+
+harass any individual, including C&W personnel and representatives of other C&W
+Customers; and engage in any activity that is in violation of the law or aids or
+assists any criminal activity while on C&W property or in connection with the
+Internet Data Center Services.
+
+Prohibited Items. Customer and its Representatives shall keep each Customer Area
+clean at all times. It is each Customer's responsibility to keep its area clean
+and free and clear of debris and refuse. Customer shall not, except as otherwise
+agreed to in writing by C&W, (1) place any computer hardware or other equipment
+in the Customer Area that has not been identified in writing to C&W ; (2) store
+any paper products or other combustible materials of any kind in the Customer
+Area (other than equipment manuals); and (3) bring any Prohibited Materials (as
+defined below) into any Internet Data Center. "Prohibited Materials" shall
+include, but are not limited to, the following and any similar items:
+
+   * food and drink;
+
+   * tobacco products;
+
+   * explosives and weapons;
+
+   * hazardous materials;
+
+   * alcohol, illegal drugs and other intoxicants;
+
+   * electro-magnetic devices which could unreasonably interfere with computer
+     and telecommunications equipment;
+
+   * radioactive materials; and
+
+                                       18
+<PAGE>
+
+   * photographic or recording equipment of any kind (other than tape back-up
+     equipment).
+
+EQUIPMENT AND CONNECTIONS
+
+Customer Equipment. Each piece of equipment installed in a Customer Area (the
+"Customer Equipment") must be clearly labeled with Customer's name (or code name
+provided in writing to C&W) and individual component identification. Each
+connection to and from a piece of Customer Equipment shall be clearly labeled
+with Customer's name (or code name provided in writing to C&W) and the starting
+and ending point of the connection. Customer Equipment must be configured and
+run at all times in compliance with the manufacturer's specifications, including
+power outlet, power consumption and clearance requirements. Except in
+emergencies, Customer must use its best efforts to provide C&W with at least 48
+hours prior notice any time it intends to connect or disconnect any Customer
+Equipment or other equipment.
+
+                                       19
+<PAGE>
+
+SCHEDULED MAINTENANCE
+
+C&W will conduct routine scheduled maintenance of its Internet Data Centers and
+Internet Data Center Services according to the maintenance schedule posted on
+the World Wide Web site at http://www.exodus.net. In the event a mission
+                           ---------------------
+critical maintenance situation arises, C&W may be required to perform emergency
+maintenance at any time. During these scheduled and emergency maintenance
+periods, Customer's Equipment may be unable to transmit and receive data, and
+Customer may be unable to access the Customer Equipment. Customer agrees to
+cooperate with C&W during the scheduled and emergency maintenance periods.
+
+ONLINE CONDUCT
+
+Customer Content. Customer acknowledges that C&W exercises no control whatsoever
+over the content of the information passing through Customer's site(s) and that
+it is the sole responsibility of Customer to ensure that the information it and
+its users transmit and receive complies with all applicable laws and regulations
+and these Rules and Regulations.
+
+Prohibited Activities. Customer will not, and will not permit any persons
+("Users") using Customer's online facilities and/or services, including, but not
+limited to, Customer's Web site(s) and transmission capabilities, to do any of
+the following ("Prohibited Activities"):
+
+    * send unsolicited commercial messages or communications in any form to
+      recipients. ("SPAM")
+
+    * engage in any activities or actions that infringe or misappropriate the
+      intellectual property rights of others, including, but not limited to,
+      using third party copyrighted materials without appropriate permission,
+      using third party trademarks without appropriate permission or
+      attribution, and using or distributing third party information protected
+      as a trade secret information in violation of a duty of confidentiality;
+
+    * engage in any activities or actions that would violate the personal
+      privacy rights of others, including, but not limited to, collecting and
+      distributing information about Internet users without their permission,
+      except as permitted by applicable law;
+
+    * send, post or host harassing, abusive, libelous or obscene materials or
+      assist in any similar activities related thereto;
+
+    * intentionally omit, delete, forge or misrepresent transmission
+      information, including headers, return mailing and Internet protocol
+      addresses;
+
+    * engage in any activities or actions intended to withhold or cloak
+      Customer's or its Users' identity or contact information;
+
+    * use the C&W connectivity services for any illegal purposes, in violation
+      of any applicable laws or regulations or in violation of the rules of any
+      other service providers, web sites, chat rooms or the like; and
+
+    * assist or permit any persons in engaging in any of the activities
+      described above.
+
+If Customer becomes aware of any Prohibited Activities, Customer will use best
+efforts to remedy such Prohibited Activities immediately, including, if
+necessary, limiting or terminating User's access to Customer's online
+facilities.
+
+                                       20
+<PAGE>
+
+Third Party Complaint Process. C&W routinely receives (at Abuse@exodus.net)
+                                                          ----------------
+written complaints ("Complaints") from third parties regarding Prohibited
+Activities allegedly being conducted by a Customer or its Users. Due to the
+nature of C&W's business, in C&W's experience, most legitimate complaints and
+actual Prohibited Activity is conducted by Customers and users of C&W's
+Customers, not by C&W's Customers themselves. C&W requires its Customers to use
+policies similar to these Rules and Regulations and will work with its Customers
+to resolve violations. C&W will take the following actions to document and
+resolve each Complaint received by C&W related to a Customer or its Users.
+
+      First Complaint. Upon receipt of the initial complaint from a third party
+      ---------------
+      regarding Prohibited Activity by a Customer or its User, C&W will send a
+      letter (the "First Letter") to the complaining third party that describes
+      C&W's policies related to the Prohibited Activity and lists the contact
+      information for the Customer and encloses a copy of the original Complaint
+      received by C&W. C&W also will deliver notice of the Complaint to the
+      Customer by sending a copy of the same letter to the Customer via e-mail
+      to its abuse address so that Customer can investigate to determine whether
+      the Prohibited Activity occurred and remedy the Prohibited Activity if it
+      is found to have occurred. C&W's goal is to put the complainant directly
+      in touch with the party in the best position to remedy the problem, C&W's
+      Customer who has the relationship with the alleged violator.
+
+      Second Complaint. Upon receipt of a second complaint after the date of the
+      ----------------
+      First Letter related to the same or similar Prohibited Activity of
+      Customer described in the First Letter that clearly indicates that the
+      Prohibited Activity continued after the date of the First Letter, C&W will
+      send a second letter (the "Second Letter") with a copy of the second
+      complaint to the Customer and request that Customer respond in writing to
+      C&W with an explanation and timeline of the actions to be taken by
+      Customer to remedy Prohibited Activity. In the event that Customer does
+      not respond to the C&W's Second Letter and remedy the Prohibited Activity
+      within ten (10) business days, C&W will bill Customer in the following
+      month $500 to cover C&W's administrative costs associated with the
+      Prohibited Activities of Customer.
+
+      Third Complaint. Upon receipt of a third complaint after the date of the
+      ---------------
+      Second Letter related to the same or similar Prohibited Activity of
+      Customer described in the Second Letter that clearly indicates that the
+      Prohibited Activity continued after the date of the First Letter, C&W will
+      send a third and final letter (the "Third Letter") with a copy of the
+      third complaint to the Customer and request again that Customer
+      investigate to determine whether the Prohibited Activity occurred and, if
+      so, cease the Prohibited Activity cease immediately if it is found to have
+      occurred. In the event that the Prohibited Activity does not cease within
+      five (5) business days after it is found to have occurred, C&W will
+      terminate or suspend its connectivity service to its Customer, and will
+      only resume providing service when it receives adequate assurances that
+      such activity will not continue. C&W will also bill its Customer $5,000 to
+      cover C&W's administrative costs associated with the Prohibited
+      Activities. In the case of unfounded complaints of Prohibited Activity,
+      C&W will take no action against Customer.
+
+                                       21
+<PAGE>
+
+Suspension and Termination of Service. C&W reserves the right to suspend and/or
+terminate a Customer's Service at any time for any material failure of Customer,
+its Representatives or its Users to comply with these Rules and Regulations.
+
+SUPPLEMENTAL SERVICES
+
+Subject to the terms and conditions set forth in the Master Services between C&W
+and the Customer, C&W may, from time to time, provide Customer with certain
+limited services and equipment needed and requested by Customer on a "one-off"
+or emergency basis ("Supplemental Services") where such services are not
+included within the scope of the Services purchased by Customer. Customer will
+be charged for all Supplemental Services provided Customer. C&W has no
+obligation to determine the need for or provide Supplemental Services. All
+Supplemental Services are provided on an "as-is" basis and exclude warranties of
+any kind, whether express or implied.
+
+MODIFICATION OF RULES AND REGULATIONS
+
+C&W may change these Rules and Regulations upon fifteen (15) days' notice to
+Customer, which notice shall be provided by posting such new Rules and
+Regulations at the Web site:
+http://www.exodus.net/about_us/rules_and_regulations/
+
+
+                                       22
+<PAGE>
+
+
+                   ATTACHMENTB L C&W SERVICE LEVEL AGREEMENT
+
+1. Service Level Goal; Service Level Agreement. C&W shall use all reasonable
+commercial efforts to ensure that the C&W network is operating and available to
+Customers approximately 99.97% of the time in any calendar month. In the event
+that the C&W network is not available for more than fifteen (15) consecutive
+minutes and/or Customer experiences any of the service performance issues
+defined below due to C&W's failure to provide Services, Customer will be
+eligible to receive the Service Credits described below (the "Service Level
+Agreement").
+
+2. Definitions. The following definitions shall apply to the Service Level
+Agreement.
+
+     2.1 "Downtime" shall mean sustained packet loss in excess of fifty percent
+(50%) within C&W's network for fifteen (15) consecutive minutes due to the
+failure of C&W to provide Service(s) for such period. Downtime shall not include
+any packet loss or network unavailability during C&W's scheduled maintenance of
+the Internet Data Centers, network and service(s), as described in the C&W Rules
+and Regulations.
+
+     2.2 "Excess Latency" shall mean transmission latency (i) in excess of one
+hundred twenty (120) milliseconds round trip time between any two points within
+C&W's U.S. network; (ii) in excess of one hundred twenty (120) milliseconds
+round trip time between any two points within C&W's r Japan network; (iii) in
+excess of one hundred twenty (120) milliseconds round trip time between any two
+points within C&W's Western European network; (iv) in excess of two hundred
+fifty (250) milliseconds round trip time between any two points within C&W's
+U.S. and Japan network, (v) in excess of two hundred fifty (250) milliseconds
+round trip time between any two points within C&W's Western European network and
+C&W's US network; or (vi) in excess of five hundred (500) milliseconds round
+trip time between any two points within C&W's entire network.
+
+     2.3 "Excess Packet Loss" shall mean packet loss in excess of one percent (1
+%) between any two points within C&W's network.
+
+     2.4 "Performance Problem" shall mean Excess Packet Loss and/or Excess
+Latency.
+
+     2.5 "Service Credit" shall mean an amount equal to the pro-rata monthly
+recurring connectivity charges (i.e., all monthly recurring bandwidth-related
+charges) for one (1) day of Service.
+
+3. Downtime Periods. In the event Customer experiences Downtime, Customer shall
+be eligible to receive from C&W a Service Credit for each Downtime period.
+Examples: If Customer experiences one Downtime period, it shall be eligible to
+receive one Service Credit. If Customer experiences two Downtime periods, either
+from a single event or multiple events, it shall be eligible to receive two
+Service Credits.
+
+4. Performance Problems; Packet Loss and Latency. In the event that C&W
+discovers or is notified by Customer that Customer is experiencing a Performance
+Problem, C&W will take all actions necessary to determine the source of the
+Performance Problem.
+
+     4.1 Time to Discover Source of Performance Problem; Notification of
+Customer. Within two (2) hours of discovering or receiving notice of the
+Performance Problem, C&W will determine whether the source of the Performance
+Problem is limited to the Customer Equipment and the C&W equipment connecting
+the Customer Equipment to the C&W LAN. If C&W determines that the Customer
+Equipment and C&W connection are not the source of the Performance Problem, C&W
+will determine the source of the Performance Problem within an additional two
+(2) hour period. In any event, C&W will notify Customer of the source of the
+Performance Problem within sixty (60) minutes of identifying the source.
+
+     4.2 Remedy of Packet Loss and Latency. If the source of the Performance
+Problem is within the sole control of C&W, C&W will remedy the Performance
+Problem within two (2) hours of determining the source of the Performance
+
+
+                                       23
+<PAGE>
+
+Problem. If the source of and remedy to the Performance Problem reside outside
+of the C&W LAN or W AN, C&W will use commercially reasonable efforts to notify
+the party(ies) responsible for the source of the Performance Problem and
+cooperate with such party(ies) to resolve such problem as soon as possible.
+
+     4.3 Failure to Determine Source and/or Remedy. In the event that C&W (i) is
+unable to determine the source of the Performance Problem within the time
+periods described in subsection 4.1 above and/or; (ii) is the sole source of the
+Performance Problem and is unable to remedy such Performance Problem within the
+time period described in subsection 4.2 above, C&W will deliver a Service Credit
+to Customer for each two (2) hour period in excess of the time periods for
+identification and resolution described above.
+
+5. Customer Must Request Service Credit. In order to receive any of the Service
+Credits described above, Customer must notify C&W within seven (7) days from the
+time Customer becomes eligible to receive a Service Credit. Failure to comply
+with this requirement will forfeit Customer's right to receive a Service Credit.
+
+6. Remedies Shall Not Be Cumulative; Maximum Service Credit. The aggregate
+maximum number of Service Credits to be issued by C&W to Customer for any and
+all Downtime periods and Performance Problems that occur in a single calendar
+month shall not exceed seven (7) Service Credits. A Service Credit shall be
+issued in the C&W invoice in the month following the Downtime or Performance
+Problem, unless the Service Credit is due in Customer's final month of Service.
+In such case, a refund for the dollar value of the Service Credit will be mailed
+to Customer. Customer shall also be eligible to receive a pro-rata refund for
+(i) Downtime periods and Performance Problems for which Customer does not
+receive a Service Credit and (ii) any Services C&W does not deliver to Customer
+for which Customer has paid.
+
+7. Termination Option for Chronic Problems. Customer may terminate this
+Agreement for cause and without penalty by notifying C&W within five (5) days
+following the end of a calendar month in the event either of the following
+occurs: (i) Customer experiences more than fifteen (15) Downtime periods
+resulting from three (3) or more nonconsecutive Downtime events during the
+calendar month; or (ii) Customer experiences more than eight (8) consecutive
+hours of Downtime due to any single event. Such termination will be effective
+thirty (30) days after receipt of such notice by C&W, subject to Section 10.4.
+
+8. SERVICE LEVEL EXCLUSIONS. THE SERVICE LEVEL AGREEMENT DOES NOT APPLY TO ANY
+SERVICE(S) THAT EXPRESSLY EXCLUDE THIS SERVICE LEVEL AGREEMENT (AS STATED IN THE
+SPECIFICATION SHEETS FOR SUCH SERVICES) AND ANY PERFORMANCE ISSUES (1) CAUSED BY
+FACTORS OUTSIDE OF C&W'S REASONABLE CONTROL; (II) THAT RESULTED FROM ANY ACTIONS
+OR INACTIONS OF CUSTOMER OR ANY THIRD PARTIES; OR (III) THAT RESULTED FROM
+CUSTOMER'S EQUIPMENT AND/OR THIRD PARTY EQUIPMENT (NOT WITHIN THE PRIMARY
+CONTROL OF C&W). THIS SERVICE LEVEL AGREEMENT STATES CUSTOMER'S SOLE AND
+EXCLUSIVE REMEDY FOR ANY FAILURE BY C&W TO PROVIDE SERVICE(S).
+
+Authorized representatives of Customer and Cable & Wireless Internet Services
+Inc., have read the foregoing and all documents incorporated therein and agree
+and accept such terms effective as of the Effective Date.
+
+
+
+                                       24
+
+</TEXT>
+</DOCUMENT>

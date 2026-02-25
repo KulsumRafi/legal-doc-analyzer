@@ -1,0 +1,939 @@
+<DOCUMENT>
+<TYPE>EX-10.51
+<SEQUENCE>3
+<FILENAME>dex1051.txt
+<DESCRIPTION>NEC 2G PATENT LICENSE AGREEMENT
+<TEXT>
+<PAGE>
+
+                                                                   EXHIBIT 10.51
+
+CONFIDENTIAL PORTIONS OF THIS DOCUMENT HAVE BEEN REDACTED AND SEPARATELY FILED
+WITH THE COMMISSION.
+
+                       INTERDIGITAL TECHNOLOGY CORPORATION
+
+                            PATENT LICENSE AGREEMENT
+
+THIS IS A PATENT LICENSE AGREEMENT (the "Agreement"), dated May 8, 1995, (the
+"Effective Date") between InterDigital Technology Corporation ("ITC"), a
+Delaware corporation with a mailing address of 913 Market Street, Suite 802,
+Wilmington, DE 19801, and NEC Corporation ("Licensee"), a Japanese corporation
+with a mailing address of [**].
+
+                                   BACKGROUND
+
+ITC owns and has the right to license the Licensed Patents (defined below) and
+is willing to grant worldwide, non-exclusive licenses thereunder on the terms
+set forth below. Licensee desires to obtain such a license.
+
+NOW, THEREFORE, in consideration of the mutual promises contained herein, and
+intending to be legally bound, the parties agree as follows:
+
+1    Definitions. As used herein:
+
+(a)  "Affiliate" means IDC, or a corporation or other legal entity fifty percent
+     (50%) or more of the voting stock or control of which is owned, directly or
+     indirectly, by Licensee, IDC, or ITC, as the case may be.
+
+(b)  "Cellular Unit" means a Covered Subscriber Unit other than a PCS/PHS Unit
+     or Wireless Local Loop Subscriber Unit.
+
+(c)  "Covered Infrastructure Unit" means Infrastructure Equipment that is
+     designed to operate in accordance with a Covered Standard.
+
+(d)  "Covered Standards" mean IS-54, IS-136, GSM, DCS-1800/1900, PDC, PHS and
+     additional standards for digital wireless communications products as added
+     pursuant to Paragraph 4, below, and various derivations thereof that do not
+     fundamentally alter the character thereof, where the use and operation of
+     products in conformity with such standards is covered by one or more claims
+     of the Licensed Patents.
+
+(e)  "Covered Subscriber Units" means Subscriber Units that are built to operate
+     in accordance with one or more Covered Standards.
+
+(f)  "DCS 1800/1900" means the compatibility standard developed for personal
+     communications systems based on GSM but intended for use in the 1.8Ghz
+     and/or 1.9 Ghz frequency bands.
+
+       ** Material omitted and filed separately with the Commission.
+
+<PAGE>
+
+(g)  "GSM" means the compatibility standard developed for the 900 MHZ
+     PanEuropean digital TDMA cellular mobile radio communication system,
+     promulgated by the European Telecommunication Standards Institute, as
+     amended from time to time.
+
+(h)  "IDC" means InterDigital Communications Corporation. ITC is a wholly owned
+     subsidiary of InterDigital Patents Corporation which is an Affiliate of
+     IDC.
+
+(i)  "Infrastructure Equipment" means mobile switching centers, base station
+     controllers, base stations, digital transceivers, and similar telephony
+     equipment, which are used to interconnect a Covered Subscriber Unit to the
+     wired telephone network. Switching equipment may be included in the mobile
+     switching center or the base station controller.
+
+(j)  "IS-54" means Cellular Dual Mode Mobile Station - Base Station
+     Compatibility Standards, promulgated by the Electronics Industry
+     Association and the Telecommunications Industry Association, as amended
+     from time to time.
+
+(k)  "IS-136" means an improved version of 15-54 which includes, among other
+     things, a digital control channel.
+
+(l)  "Licensed Patents" means every issued patent derived from a patent
+     application which bears a first effective filing date on or before February
+     28, 2002 and owned at any time by ITC or its Affiliates or for which ITC
+     has the right to grant the licenses conveyed hereunder, (including utility
+     models but excluding design patents and design registrations) in any
+     country of the world, which covers the manufacture, use, sale or lease of
+     Subscriber Units and/or Infrastructure Equipment for use in TDMA based
+     digital wireless telecommunications systems. Licensed Patents shall also
+     include published patent applications which, but only to the extent that
+     ITC would have the right, under the laws of the nation in which said
+     applications are published, to recover damages for infringement of said
+     application during the period of publication. Licensed Patents shall not
+     include patents of an entity that acquires IDC. Appendix B contains a
+     complete listing of the existing patents and patent applications relating
+     to TDMA based digital wireless telecommunications systems owned by ITC
+     (including the expiration date of each such patent). ITC shall update such
+     list annually or as otherwise requested by Licensee during the term of this
+     Agreement to add newly filed or issued patent applications or patents. The
+     identity and contents (if provided) of any patents applications shall be
+     maintained in confidence by Licensee; provided that Licensee shall have no
+     confidentiality obligation with respect to any information which:
+
+     (i)   is already publicly available, or becomes publicly available except
+           by Licensee's breach of the confidentiality obligation herein,
+
+     (ii)  is already known to Licensee at the time of the disclosure,
+
+     (iii) is legitimately obtained by Licensee from a third party without
+           confidentiality obligation, or
+
+     (iv)  is independently developed by Licensee at any time.
+
+                                       2
+
+<PAGE>
+
+(m)  "Licensed PDC Infrastructure Equipment" means PDC Infrastructure Equipment
+     licensed under this Agreement.
+
+(n)  "Licensee" means the company identified as "Licensee" on page 1 of this
+     Agreement, and its Affiliates.
+
+(o)  "Manufacturer's Average Selling Price" means the average price at which a
+     Covered Subscriber Unit is sold by the manufacturer in an arms' length
+     transaction after deducting the following items to the extent actually
+     paid: (i) usual trade discounts, (ii) packing costs, (iii) costs of
+     insurance and transportation, and (iv) import, export, excise, sales and
+     value added taxes and custom duties. The determination of the
+     Manufacturer's Average Selling Price shall be made once each calendar year
+     and shall be based on sales of the applicable model of Covered Subscriber
+     Unit in the immediately preceding calendar quarter.
+
+(p)  "Net Selling Price" means the amount actually invoiced to the customer for
+     a Covered Infrastructure Unit less packing, insurance and shipping costs,
+     applicable import, export and excise duties, returns, trade discounts
+     given, insurance and installation costs, to the extent included in the Net
+     Selling Price, [**]. If base stations or other Infrastructure Equipment
+     contain integrated switching equipment, royalties shall be payable with
+     respect to the entire cost of such base stations or other Infrastructure
+     Equipment, provided, however, [**].
+
+(q)  "PCS Unit" means a Covered Subscriber Unit that (i) complies with DCS
+     1800/1900 and (ii) whose Manufacturer's Average Selling Price is fifty
+     percent (50%) or less of the Manufacturer's Average Selling Price of a
+     typical GSM Subscriber Unit in the country in which such Subscriber Unit is
+     sold. Any DCS 1800/1900 Subscriber Unit that does not satisfy both of the
+     foregoing conditions shall be treated as a Cellular Unit for purposes of
+     this Agreement.
+
+(r)  "PCS/PHS Unit" means a (i) Subscriber Unit that complies with PHS, or (ii)
+     a PCS Unit.
+
+(s)  "PDC" means the RCR STD 27 compatibility standard developed in Japan known
+     as PDC or Personal Digital Cellular or PanAsian Digital Cellular for TDMA
+
+______________
+     ** Material has been omitted and filed separately with the Commission.
+
+                                        3
+
+<PAGE>
+
+     digital wireless mobile radio communication systems, as amended from time
+     to time.
+
+(t)  "PHS" means the RCR STD 28 compatibility standard developed in Japan and
+     known as the Personal Handyphone Standard, as amended from time to time.
+
+(u)  "PDC Infrastructure Equipment" means Infrastructure Equipment designed for
+     use in conjunction with PDC Subscriber Units.
+
+(v)  "PDC Infrastructure Unit" means a PDC base station which is used as the
+     method of tracking the royalties payable for PDC Infrastructure Equipment.
+
+(w)  "Subscriber Unit" means a radiotelephone, whether fixed, mobile,
+     transportable, vehicular, portable or hand-held, adapted for use by a
+     single person. A Subscriber Unit may be a Wireless Local Loop Subscriber
+     Unit.
+
+(x)  [**]
+
+(y)  TDMA" means time division multiple access.
+
+(z)  "Unlicensed Subscriber Unit" means a Subscriber Unit built in accordance
+     with a Covered Standard by a third party that is not licensed under the
+     Licensed Patents for the manufacture, use and sale of such Subscriber Unit.
+
+(aa) "Wireless Local Loop Subscriber Unit" means a Subscriber Unit, other than a
+     PHS Subscriber Unit, used in a digital wireless communication system that
+     is specifically designed for the purpose of providing fixed wireless
+     telephone service.
+
+2    License Grant. ITC hereby grants to Licensee a non-exclusive, worldwide,
+     royalty bearing license under the Licensed Patents to make, have made,
+     import, use, sell, lease and/or otherwise distribute Covered Subscriber
+     Units and Covered Infrastructure Units.
+
+3    Limitations on License Grant.
+
+(a)  Third party purchasers of Covered Subscriber Units or Covered
+     Infrastructure Units purchased directly or indirectly from Licensee shall
+     have the right to use and sell such purchased products for their normal or
+     expected uses without obligation under patents to ITC or its Affiliates.
+
+(b)  Notwithstanding the terms of subparagraph (a), no license is granted by
+     estoppel or implication to any third party customer of Covered Subscriber
+     Units to make, use or sell Infrastructure Equipment, and no license is
+     granted by estoppel or implication to any third party customer of Covered
+     Infrastructure Units to make, use or sell Subscriber Units, and any claims
+     that ITC may have against a third party manufacturer of Unlicensed
+     Subscriber Units that the use of such Unlicensed Subscriber Units with
+     Infrastructure Equipment licensed hereunder
+
+____________
+     ** Material has been omitted and filed separately with the Commission.
+
+                                       4
+
+<PAGE>
+
+     contributorily infringe or induce the infringement of any claims of any of
+     the Licensed Patents are expressly reserved by ITC hereunder.
+
+(c)  Notwithstanding the terms of subparagraph (b), in no event shall Licensee
+     be held liable for contributory infringement or inducing infringement (or
+     under any similar theory of liability), based on the uses made of Covered
+     Subscriber Units or Covered Infrastructure Units by direct or indirect
+     purchasers, regardless of the manner in which such Covered Subscriber Units
+     or Covered Infrastructure Units are sold, marketed or promoted by Licensee.
+
+4    Additional Covered Standards.
+
+(a)  ITC and Licensee shall each have the right to designate additional
+     standards (including, without limitation, Licensee product architectures,
+     even if such architectures are not the subject of an industry standard) as
+     candidates for adoption as Covered Standards, by giving written notice to
+     the other. Any such designation shall include a full description of the
+     standard, and a list of those patent claims which are deemed to cover the
+     use and operation of Licensee's products in conformity with that standard.
+
+(b)  If candidates for adoption as additional Covered Standards are designated
+     by ITC, Licensee shall retain the right to object to such designation on
+     the ground that such candidate is not a Covered Standard. If the parties
+     are unable to reach agreement on this issue, this dispute will be resolved
+     under the dispute resolution provisions of Paragraph 18.
+
+(c)  If a candidate for adoption as an additional Covered Standard is adopted as
+     such, either by agreement of the parties or through the Paragraph 18
+     dispute resolution process, the parties shall enter into good faith
+     negotiations to determine an appropriate royalty applicable to Covered
+     Subscriber Units or Covered Infrastructure Units which comply with such
+     additional Covered Standard. Such negotiations shall take into
+     consideration the Manufacturer's Average Selling Price of such product, the
+     Licensed Patents covering such product and the royalty rates and terms
+     contained herein.
+
+(d)  In the event that an additional Covered Standard is adopted prior to the
+     exhaustion of prepaid royalties, Licensee shall have the option to apply
+     prepaid royalties towards products compliant with such additional Covered
+     Standard. Such prepaid royalties will be applied at a rate consistent with
+     the ratio between the royalty rate applicable to already covered products
+     and the royalty rate applicable to newly covered products. For example, if
+     a 1995 royalty rate of $[**] per unit were applied to a Subscriber Unit
+     covered by an additional Covered Standard, sales of such Subscriber Unit
+     would be applied against the prepaid royalty credit at a rate of two such
+     Subscriber Units for every PCS/PHS unit which would otherwise be applicable
+     against the royalty credit, reflecting the ratio between $[**] and $[**].
+
+(e)  In no event shall the adoption of additional Covered Standards increase the
+     royalty payable on any Covered Infrastructure Unit or Covered Subscriber
+     Unit
+
+____________
+     ** Material has been omitted and filed separately with the Commission.
+
+                                       5
+
+<PAGE>
+
+         which is or would be already subject to payment of royalties hereunder,
+         or affect the allocation of the prepaid royalties to such a product.
+         Thus, if a particular Licensee product is already subject to royalty
+         payments based on the compliance of that product with an existing
+         Covered Standard, the royalty payable on current and future sales of
+         such product will not be affected by the adoption of an additional
+         Covered Standard with which that product is compliant. In addition, if
+         Licensee introduces a product in the future, and if that product is
+         compliant with a Covered Standard listed in the originally executed
+         version of this Agreement, the adoption of an additional Covered
+         Standard with which that product is compliant will not increase the
+         royalties otherwise payable on that product.
+
+5        Payment of License Fees.
+
+(a)      Advance Payment.
+
+   (i)   Licensee shall pay ITC Twenty Three Million, Five Hundred and Thirty
+         One Thousand, Two Hundred and Sixty Six U.S. Dollars ($23,531,266) as
+         the unconditional irrevocable payment in full for the license granted
+         under Paragraph 2 hereof on the sale of the first [**] Cellular Units,
+         net of credits and returns.
+
+   (ii)  Licensee shall pay ITC Three Million, Four Hundred Eight Thousand
+         Fourteen U.S. Dollars ($3,408,014) as the unconditional irrevocable
+         payment in full for the license granted under Paragraph 2 hereof on the
+         anticipated revenue associated with the sale of Covered Infrastructure
+         Units listed in Appendix A, net of credits and returns.
+
+   (iii) Five Million U.S. Dollars ($5,000,000) of the advance payment specified
+         in subparagraphs (i) and (ii) has already been paid by Licensee. The
+         remaining amount of the advance payment specified in subparagraphs (i)
+         and (ii), less any Japanese withholding taxes required to be withheld,
+         will be paid by wire transfer on or before May 25, 1995.
+
+   (iv)  At Licensee's option, advance payments may be applied to any product
+         licensed hereunder.[**] Thus, Licensee shall have the right to apply
+         payments made under subparagraph (i) to Covered Infrastructure Units,
+         and the right to apply payments made under subparagraph (ii) to
+         Cellular Units.
+
+   (v)   The amount of the prepayment made under this subparagraph 5(a) has been
+         determined on the basis of the sales projections set forth on the
+         spreadsheet attached hereto as Appendix A, using the royalty rates set
+         forth in paragraph 5(b) with an interest rate of [**] percent [**]%
+         used to compute present value and with a discount of [**] percent [**]%
+         for economic uncertainty and as consideration for prepayment of
+         royalties. Licensee represents that its sales projections are fair and
+         reasonable, and represent its best current estimates of its sales of
+         Covered Subscriber Units and Covered Infrastructure Units. In the event
+         that the actual number of Covered Subscriber Units or Covered
+         Infrastructure Units sold by Licensee in a given year are more than 25%
+         greater or less than the estimate set out in the Appendix A hereto, the
+         number of such units covered by such prepaid
+
+____________
+        ** Material has been omitted and filed separately with the Commission.
+
+                                       6
+
+<PAGE>
+
+         royalties shall be recalculated to take into account the shorter or
+         longer time for which the [**]% interest rate is being applied. Any
+         dispute regarding any such adjustment shall be resolved under the terms
+         of Paragraph 18.
+
+(b)      Running Royalties.
+
+   (i)   Royalty rate. After exhaustion of the payment under subparagraph 5(a),
+         Licensee shall pay royalties to ITC on each sale (exclusive of returns
+         and credits) of a Covered Subscriber Unit or a Covered Infrastructure
+         Unit as follows:
+
+         Cellular Units:            Sold Prior to December 31, 1995 - $[**]
+                                    Sold Prior to December 31, 1996 - $[**]
+                                    Sold thereafter - $[**]
+
+         PCS/PHS Units:             Sold Prior to December 31, 1995 - $[**]
+                                    Sold Prior to December 31, 1996 - $[**]
+                                    Sold thereafter - $[**]
+
+         Covered Infrastructure
+         Units:                     [**]% of the Net Selling Price of Covered
+                                    Infrastructure Equipment
+
+   (ii)  Cap on royalties.
+
+               (1)  The royalty rates set forth in subparagraph (i) above for
+                    Cellular Units and PCS/PHS Units are not intended to exceed
+                    [**]% of the Manufacturer's Average Selling Price for the
+                    applicable type of Covered Subscriber Units. Accordingly,
+                    once the advance payment is exhausted, Licensee shall have
+                    the option of providing ITC with information sufficient to
+                    determine the Manufacturer's Average Selling Price for each
+                    model of Covered Subscriber Unit. If the royalty provided
+                    for hereunder exceeds [**]% of the Manufacturer's Average
+                    Selling Price for a model of Covered Subscriber Unit, the
+                    royalty associated with such model of Covered Subscriber
+                    Units shall thereafter be reduced to [**]% of the
+                    Manufacturer's Average Selling Price for such Covered
+                    Subscriber Units. In each succeeding year, Licensee shall
+                    provide ITC with sufficient information to determine the
+                    Manufacturer's Average Selling Price of any Covered
+                    Subscriber Units for which the royalty has been reduced as
+                    described in this subparagraph, and the royalty for such
+                    Covered Subscriber Units shall be adjusted to take into
+                    account any subsequent price changes, with such royalty
+                    always to be maintained at the lower of (1) the rate
+                    specified in subparagraph (i), above, or (2) [**]%.
+
+
+               (2)  If required for purposes of subparagraph (ii)(1), above,
+                    Licensee shall make sufficient information available to ITC
+                    to enable it to independently verify the Manufacturer's
+                    Average Selling Price. If such information is not available,
+                    the parties shall jointly determine
+
+____________
+         **  Material has been omitted and filed separately with the Commission.
+
+                                       7
+
+<PAGE>
+
+                    a temporary Manufacturer's Average Selling Price to be used
+                    for one calendar quarter until an actual average
+                    Manufacturer's Average Selling Price can be determined as
+                    provided for in this Paragraph. ITC shall hold in confidence
+                    all Manufacturer's Average Selling Price supporting
+                    information provided hereunder.
+
+(c)      For purposes of this Agreement, the manufacture, sale, lease and/or use
+         of a Covered Subscriber Unit or Covered Infrastructure Equipment shall
+         apply against the applicable prepaid royalty credit of Paragraph 5(a)
+         or the applicable running royalties of Paragraph 5(b), as the case may
+         be, if manufactured, used, sold or leased in (i) the United States,
+         (ii) any country where a valid foreign counterpart of U.S. Patent No.
+         [**] has issued or been published for opposition at the time in
+         question, but only if said counterpart contains claims which do not
+         differ materially from those of the [**] Patent, or (iii) any country
+         where a foreign counterpart application to U.S. Patent No. [**] has
+         been published if, under the law of the applicable country, ITC is or
+         shall be entitled to recover damages based on such publication, but
+         only if said counterpart contains claims which do not differ materially
+         from those of the [**] Patent. At the adjustment meetings provided for
+         in Paragraph 7 hereof, if requested by Licensee, the parties shall
+         consider whether and which Covered Subscriber Units or Covered
+         Infrastructure Equipment of Licensee are within the scope of the issued
+         claims of any non-U.S. patent of the type referred to in subparagraph
+         5(c)(ii) or (iii), above. Nothing herein shall be construed as
+         affecting in any manner the territorial scope of the license set forth
+         in Paragraph 2, above.
+
+(d)      Neither ITC nor its Affiliates currently have any issued Japanese
+         patents or published Japanese patent applications for opposition which
+         relate to TDMA digital wireless communications systems. Nothing herein
+         contained shall be deemed to require that royalties be paid on, or a
+         portion of the prepayment be allocated to, Licensee products
+         manufactured, used and sold in Japan which are compliant with PHS, PCS
+         or PDC, until and unless ITC acquires one or more Licensed Patents in
+         Japan covering these standards.
+
+(e)      Only one royalty shall be payable by Licensee to ITC under this
+         Agreement based on any Covered Subscriber Unit or Covered
+         Infrastructure Unit. If Licensee incorporates into a Covered Subscriber
+         Unit or a Covered Infrastructure Unit apparatus obtained from a third
+         party, for which a license under the Licensed Patents already exist,
+         the value of such apparatus shall be excluded from the royalty base for
+         such product. In the event the relevant product is a Covered Subscriber
+         Unit, such exclusion shall take the form of reducing the unit royalty
+         payment required for such Covered Subscriber Unit.
+
+(f)      Any royalties payable on a published application shall be paid, or
+         amounts subtracted from the prepayment, upon the issuance of the patent
+         corresponding to said application, subject to the provisions of
+         Paragraphs 5(c)(iii) and 7(e)(iii).
+
+6        Wireless Local Loop Subscriber Units.
+
+(a)      If Licensee makes, uses or sells Covered Subscriber Units which are
+         Wireless
+
+____________
+      ** Material has been omitted and filed separately with the Commission.
+
+                                       8
+
+<PAGE>
+
+         Local Loop Subscriber Units, ITC shall have the option of (1) treating
+         such Wireless Local Loop Subscriber Units the same as other Covered
+         Subscriber Units for royalty purposes or (2) imposing a royalty on such
+         Wireless Local Loop Subscriber Units of [**] of the Manufacturer's
+         Average Selling Price for each model of Wireless Local Loop Subscriber
+         Unit.
+
+(b)      In the event that ITC elects to impose a royalty on Wireless Local Loop
+         Subscriber Units which is greater than the royalty which would
+         otherwise be payable on such units as Covered Subscriber Units,
+         Licensee shall have the option of terminating the royalty-free license
+         which is granted pursuant to Paragraph 13 hereof. In such an event, the
+         parties shall negotiate a cross-license, with or without royalties, as
+         appropriate, for Wireless Local Loop Subscriber Units and UltraPhone
+         products. Such cross-license may include a modification of the royalty
+         rate which would be otherwise payable by Licensee on Wireless Local
+         Loop Subscriber Units, and may include the payment of royalties by IDC
+         or its Affiliates on UltraPhone sales. In the event the parties are
+         unable to agree on the terms of such a cross-license, the dispute will
+         be submitted to the dispute resolution process of Paragraph 18.
+
+7        Adjustments to Royalties.
+
+(a)      If requested by either party, the parties shall meet not more than
+         annually during the term of this Agreement to discuss possible downward
+         adjustments to royalties payable hereunder or other adjustments which
+         may be required hereunder. Such adjustments may take the form of
+         credits for additional units under the prepayment, or an adjustment of
+         the running royalty rate, or both.
+
+(b)      Adjustment meetings shall take place during the first calendar quarter
+         of each year and shall alternate between Wilmington, DE and Tokyo,
+         Japan. In the event the parties are unable to agree on adjustments, the
+         dispute shall be submitted to the dispute resolution procedures of
+         Paragraph 18 hereof.
+
+(c)      Any adjustment pursuant to this Paragraph shall be effective on the
+         date of the event giving rise to the right to have such an adjustment.
+
+(d)      If Licensee is entitled to an adjustment of royalties as a result of
+         the operation of this Paragraph, and Licensee has at the time of such
+         entitlement not utilized all of the prepayment, Licensee shall receive
+         a credit of additional Cellular Units and/or Covered Infrastructure
+         Units which shall be determined pursuant to good faith negotiations
+         between the parties, or pursuant to Paragraph 18 if such good faith
+         negotiations are not successful. A credit under the prepayment will not
+         preclude an additional adjustment of the running royalty rate. A credit
+         under the prepayment will take into account a reasonable interest rate
+         under the circumstances used for purposes of computing present value.
+
+(e)      [**]
+
+         [**]
+
+____________
+      ** Material has been omitted and filed separately with the Commission.
+
+                                        9
+
+<PAGE>
+
+         (ii)  The expiration of any Licensed Patent.
+
+   (iii) The failure of any published application which constitutes a Licensed
+         Patent to issue within two (2) years of ITC's identification of such
+         application as a Licensed Patent, or the issuance of a patent from such
+         application with claims materially different from those present in the
+         application as published.
+
+         (iv)  The entry of any agreement, judgment, litigation settlement,
+               arbitration award or the like, pursuant to which a third party
+               obtains the right to a prospectively lower royalty payment under
+               Licensed Patents for the manufacture, use or sale of Covered
+               Subscriber Units or Covered Infrastructure Equipment. In such an
+               event, the royalty rates under this Agreement shall be reduced
+               by[**]. In evaluating whether Licensee is entitled to any
+               reduction in royalty fees under these provisions for most favored
+               licensee treatment, the economic values of all relevant factors
+               (including but not limited to acquisitions of products by or from
+               IDC, joint development projects with IDC, joint venture
+               relationships with IDC, royalty advances, and royalty guarantees)
+               will be taken into account. For purposes of this subparagraph,
+               Covered Subscriber Units shall be deemed to be equivalent to
+               products manufactured by third parties which are designed to
+               operate in accordance with the same Covered Standards as
+               particular Covered Subscriber Units. This subparagraph shall not
+               apply to license agreements executed prior to the Effective Date.
+               Any adjustment under this subparagraph will take into account the
+               royalty rates applicable to the third party, determined, if
+               relevant,[**] and the rate of sale of Cellular Units and/or
+               Covered Infrastructure Units compared to the applicable rate set
+               forth in Appendix A.
+
+(f)      ITC shall be required to promptly inform Licensee of any event which
+         might give rise to an adjustment under this Paragraph. In the event of
+         an agreement, judgment, litigation settlement, arbitration award or the
+         like, ITC shall promptly provide Licensee (or its independent outside
+         counsel, if disclosure of the applicable document to Licensee is
+         prohibited) with a copy of the relevant sections of the applicable
+         documents.
+
+(g)      [**]
+
+         [**]
+
+         [**]
+
+         [**]
+
+
+8        Payments. All running royalties payable shall be paid to ITC in U.S.
+         Dollars on a quarterly basis, within forty-five (45) days after the end
+         of each calendar quarter on products sold by Licensee during such
+         calendar quarter. All applicable taxes which are required by law to be
+         deducted from amounts payable to ITC (including deductions for Japanese
+         withholding tax) shall be deducted from the royalties payable hereunder
+         and paid to the relevant government authority by
+
+____________
+      ** Material has been omitted and filed separately with the Commission.
+
+                                       10
+
+<PAGE>
+
+     Licensee on ITC's behalf. If any such deduction is required by the elevant
+     government, Licensee will furnish ITC with appropriate documentation
+     evidencing the payment of such tax as issued by the appropriate authority
+     of such government.
+
+9    Japanese Withholding Tax Provision.
+
+(a)  For purposes of the applicability of Japanese withholding tax on the
+     royalty advance, at Licensee's option, Licensee may either (i) pay on
+     behalf of ITC the withholding tax on up to [**] of the advance royalties
+     paid pursuant to Paragraph 5(a) hereof, or (ii) declare that at least [**]%
+     of the anticipated manufacturing and sales plans of Licensee shall be
+     allocated to non-Japanese source income, with the balance being allocated
+     to Japanese source income.
+
+(b)  With respect to any additional royalties which may be payable in the future
+     to ITC by Licensee, if, and to the extent, permitted by Japanese tax law,
+     no withholding shall be made with respect to Covered Subscriber Units or
+     Covered Infrastructure Units manufactured outside of Japan, or manufactured
+     in Japan but intended for sale outside of Japan, provided, however that ITC
+     shall indemnify Licensee against underpayment of withholding.
+
+10   Reports.
+
+(a)  Until the exhaustion of the prepayment made hereunder, Licensee will
+     provide to ITC an annual written report, setting forth the quantity of
+     sales of each type of Covered Subscriber Unit and the number of Covered
+     Infrastructure Units sold during such year, to the extent reasonably
+     necessary for calculation of the amount of the prepayment applied to
+     royalties hereunder.
+
+(b)  Following the exhaustion of the prepayment, Licensee shall accompany each
+     payment with a written report setting forth the quantity of each type of
+     Covered Subscriber Unit and Covered Infrastructure Unit sold during the
+     prior calendar quarter, to the extent reasonably necessary for calculation
+     of royalties payable hereunder, and, if applicable, additional information
+     sufficient to determine the royalties payable for units which are subject
+     to royalty percentages.
+
+(c)  All reports required under this paragraph will be certified to be complete
+     and accurate by an officer of Licensee.
+
+(d)  All information contained in any reports furnished under this paragraph
+     shall be held in confidence by ITC.
+
+11   Audits.
+
+(a)  Licensee shall keep books and records adequate to accurately determine the
+     payments due under this Agreement. The books and records must be retained
+     for five (5) years after the delivery of the royalty report to which they
+     relate. ITC shall have the right, no more than once per calendar year, to
+     have an independent certified public accountant, who shall enter into an
+     appropriate
+
+____________
+      ** Material has been omitted and filed separately with the Commission.
+
+                                       11
+
+<PAGE>
+
+     nondisclosure agreement with Licensee, inspect all relevant books and
+     records of Licensee on seven (7) business days notice and during regular
+     business hours to verify the reports and payments required to be made
+     hereunder. The auditor shall disclose to ITC no more information than is
+     reasonably necessary to determine any royalties owed hereunder. Should an
+     underpayment in excess of [**] percent ([**]%) be discovered, Licensee
+     shall pay the cost of the audit. In any event, Licensee shall promptly pay
+     any underpayment together with interest at the annual rate of [**] percent
+     ([**]%). All information obtained through such audit shall be held in
+     confidence by ITC.
+
+(b)  Licensee shall have the right, no more than once per calendar year, to have
+     a mutually acceptable independent certified public account, who shall enter
+     into an appropriate nondisclosure agreement with ITC, inspect all relevant
+     agreements, books and records, agreements, judgements, litigation
+     settlements, arbitration awards and the like, relating to the Licensed
+     Patents on seven (7) business days notice and during regular-business hours
+     to verify the most favored licensee status of Licensee, taking into account
+     the economic value of all relevant factors. The auditor shall disclose to
+     Licensee no more information than is reasonably necessary for Licensee to
+     verify its most-favored licensee status, and except in those extraordinary
+     circumstances where the identity of a third party to an agreement or
+     adjudication with ITC is essential information for the purposes of
+     evaluating such agreement or adjudication, the auditor shall not disclose
+     the identity of any such third party to Licensee. All information obtained
+     through such audit shall be held in confidence by Licensee.
+
+12   No Set Off. Licensee agrees and acknowledges that it has no right to, and
+     shall not, attempt to set off amounts claimed to be owed based on any claim
+     that it has or may have in the future against IDC or its Affiliates other
+     than ITC, against amounts owed hereunder.
+
+13   License Grant to IDC. Licensee hereby grants to IDC a worldwide, royalty
+     free, paid-up, perpetual license under patents owned by it and its
+     Affiliates, such license authorizing ITC and IDC to manufacture, use or
+     sell any digital wireless telecommunications products based on the existing
+     UltraPhone product line (including improvements thereof) manufactured and
+     designed by or for IDC which are first offered for sale prior to one year
+     from the Effective Date.
+
+14   Additional Patent Licenses. With respect to any patents relating to digital
+     wireless telephone systems owned by either party, or either party's
+     Affiliates, which patents are not otherwise licensed hereunder, the owning
+     party agrees to negotiate a reasonable license to make, have made, use,
+     sell, lease and/or otherwise distribute Subscriber Units and Infrastructure
+     Equipment on reasonable terms and conditions, taking into consideration the
+     nature of the patent and the overall importance of the patent to the
+     product. If no agreement can be reached on the nature of such terms, any
+     dispute will be resolved under the dispute resolution procedures of this
+     Agreement.
+
+15   License Term. The term of this Agreement shall commence on the Effective
+     Date and terminate upon the last-to-expire of the Licensed Patents
+     applicable to
+
+____________
+      **  Material has been omitted and filed separately with the Commission.
+
+                                       12
+
+<PAGE>
+
+     any Covered Standard, unless sooner terminated as provided herein.
+
+16   Patent Marking. All Licensee Covered Subscriber Units intended for sale
+     within the United States shall include a statement that they are licensed
+     under U.S. Patents, including up to five patent numbers to be provided by
+     ITC; provided that ITC shall represent and warrant that such patents cover
+     such products and that all of its other licensees in the United States are
+     also required to mark their corresponding products with such patent
+     numbers.
+
+17   Termination.
+
+(a)  This Agreement may be canceled by either party, upon forty-five (45) days'
+     prior written notice, if the other party is in breach of any of its
+     material obligations hereunder and the breach is not remedied within the
+     notice period. In the event that the other party submits the underlying
+     dispute to the dispute resolution procedures of this Agreement, the
+     termination shall be held in abeyance until such procedures are completed,
+     and shall only take effect if said procedures result in a determination
+     that the other party is in material breach. In such event, the other party
+     shall be given forty-five (45) days after such determination to remedy such
+     breach, with the termination to take effect only if the breach has not been
+     remedied during said period.
+
+(b)  This Agreement may be terminated without cause by Licensee upon written
+     notice to ITC on thirty (30) days prior written notice, or at any time
+     after the expiration, unenforceability, or invalidation of all of the
+     Licensed Patents; provided, however, upon such termination, ITC shall have
+     the right to take any action that it deems appropriate to collect royalties
+     on products manufactured by Licensee after the termination and/or
+     manufactured by Licensee before termination, but for which royalties due
+     hereunder were not paid, which it believes are covered by the Licensed
+     Patents.
+
+18   Dispute Resolution.
+
+(a)  Negotiation of Disputes. In the event of any dispute arising under this
+     Agreement (including, without limitation, failure of the parties to agree
+     on royalty rates, number of Licensee's products covered by the prepaid
+     royalties, royalty reductions for patent invalidity, non-coverage,
+     unenforceability or expiration or most favored license provisions, or other
+     matters concerning royalty rates), senior executives of the parties with
+     decision making authority will meet in Wilmington, DE, Tokyo, Japan or such
+     other city as may be agreeable to the parties as soon as reasonably
+     possible (but no later than sixty (60) days after notice) and will enter
+     into good faith negotiations aimed at resolving the dispute. If they are
+     unable to resolve the dispute in a mutually satisfactory manner within an
+     additional sixty (60) days, the matter may be submitted to mediation and
+     arbitration as provided for below.
+
+(b)  Mediation of Disputes. The parties agree to submit any unresolved dispute
+     to a sole mediator selected by the parties as soon as reasonably possible
+     but no later than sixty (60) days after notice). Any such mediation shall
+     be non-binding. If not thus resolved, the parties will proceed as specified
+     in subparagraph (c).
+
+(c)  Arbitration. Any disputes arising under this Agreement which are not
+     resolved as
+
+                                       13
+
+<PAGE>
+
+     provide for in subparagraphs 18(a) and (b) shall be submitted to an
+     arbitration proceeding which shall take place in Washington, D.C. The
+     proceeding shall be conducted under the then prevailing rules for
+     commercial arbitration (or, if the matter involves issues of patent
+     validity, infringement or enforceability, the patent arbitration rules) of
+     the American Arbitration Association, by a panel of three (3) arbitrators
+     reasonably acceptable to both of the parties, one of whom must have
+     substantial experience in the field of telecommunications. The arbitrators
+     shall have the authority to permit limited discovery to the extent required
+     by a party in order to establish its position. The decision of the
+     arbitrators shall be final and binding and may be entered and enforced in
+     any court of competent jurisdiction. Any monetary award shall be payable in
+     U.S. dollars, free of any tax, offset or other deduction. Any determination
+     of the arbitration shall be confidential to the parties hereto and binding
+     solely on the parties hereto. The parties, their counsel, and the
+     arbitrators shall take all reasonable steps to conclude the arbitration
+     within six (6) months after it is instituted.
+
+19   Miscellaneous.
+
+(a)  Notices. All notices or other communications required or permitted under
+     this Agreement shall be in writing and shall be delivered by personal
+     delivery, registered mail, return receipt requested, or a qualified "Next
+     Day Air" delivery service addressed as follows:
+
+     If to ITC:   InterDigital Technology Corporation
+                          [**]
+                          Wilmington, Delaware 19801
+                          Attention: President
+
+     If to Licensee:   NEC Corporation
+                          [**] Japan
+                          Attention: [**]
+
+(b)  ITC warrants that it owns the patents and patent applications identified in
+     Appendix B hereto and that such patent and applications include all those
+     of ITC and its Affiliates concerning Covered Subscriber Units or Covered
+     Infrastructure Units, that by Agreement with IDC, ITC will own all patents
+     and patent application filed on or before February 28, 2002 for inventions
+     made by IDC and its Affiliates and that it has the right to grant this
+     license to the Licensed Patents. IDC shall confirm to Licensee in writing
+     its agreement to assign all such patents and patent application to ITC.
+
+(c)  Nothing in this Agreement shall be construed as:
+
+     (i)    Requiring the maintenance of the Licensed Patents;
+
+     (ii)   A warranty as to the validity or scope of the Licensed Patents;
+
+     (iii)  A warranty or representation that any product will be free from
+            infringement of patents of third parties;
+
+____________
+         ** Material has been omitted and filed separately with the Commission.
+
+                                       14
+
+<PAGE>
+
+     (iv)   An agreement to bring or prosecute actions against third party
+            infringers of the Licensed Patents;
+
+     (v)    Conferring any license or right under any patent other than the
+            Licensed Patents; or
+
+     (vi)   Conferring any right to use the Licensed Patents outside the field
+            of use defined by the license grant of Paragraph 2.
+
+(d)  This Agreement is personal to Licensee and may not be assigned or
+     transferred, nor may any license granted hereunder be assigned or
+     transferred, whether by operation of law or otherwise, and any attempt to
+     make any such assignment or transfer shall be null and void; provided,
+     however, this Agreement may be transferred in connection with the sale of
+     all or substantially all of the business or assets of Licensee to which
+     this Agreement relates. The license granted hereunder to Licensee shall
+     survive any transfer by operation of law or otherwise of the Licensed
+     Patents or otherwise of the Licensed Patents or this Agreement by ITC.
+
+(e)  Licensee and ITC agree to hold in confidence and not to disclose, except
+     under a requirement of confidentiality or an appropriate protective order,
+     any of the terms of this Agreement, except as required by law or government
+     regulation, or except to the party's outside counsel. The press release
+     attached as Appendix C shall be issued by ITC on or after the Effective
+     Date, but not before the ratification of this Agreement by Licensee's Board
+     of Directors; provided that ITC shall first provide to Licensee an opinion
+     of counsel that disclosure of the amount of the prepaid royalty under
+     Paragraph 5 is required by U.S. securities laws. The per-unit royalties
+     pursuant to Paragraph 5 will not be disclosed. Such press release, when and
+     if issued, and shall be the basis for any further disclosures concerning
+     this Agreement by IDC.
+
+(f)  The validity and interpretation of this Agreement shall be governed by
+     Delaware law, without regard to conflict of laws principles and the parties
+     submit to the jurisdiction of the state and federal courts of the State of
+     Delaware solely for the purpose of enforcing the dispute resolution clause
+     set forth in Paragraph 18. Process may be served on either party by U.S.
+     Mail, postage prepaid, or by a recognized "Next Day Air" service.
+
+(g)  This Agreement contains the complete and final agreement between the
+     parties, and supersedes all previous understandings relating to the subject
+     matter hereof whether oral or written. This Agreement may only be modified
+     by a written agreement signed by duly authorized representatives of the
+     parties.
+
+                                       15
+
+<PAGE>
+
+IN WITNESS WHEREOF, the parties have executed this Agreement by their duly
+authorized representatives.
+
+INTERDIGITAL TECHNOLOGY                    NEC CORPORATION
+  CORPORATION
+
+By:                                        By:    /s/[**]
+                                                  ------------------------------
+
+                                                  General Manager
+Title:                                     Title: Mobile Communications Division
+                                                  ------------------------------
+
+Dated: 5/2/95                              Dated: 5/8/95
+       -------------------------                  ------------------------------
+
+                                     ATTEST:
+
+                                           By:    /s/ [**]
+                                                  ------------------------------
+
+                                                  [**]
+                                                  Mobile Communications
+                                           Title: Systems Division
+                                                  ------------------------------
+
+                                           Dated: 5/8/95
+                                                  ------------------------------
+
+____________
+         **  Material has been omitted and filed separately with the Commission.
+
+                                       16
+
+<PAGE>
+
+                               Index of Appendices
+
+Appendix A - NEC Corporate Sales Projections
+
+Appendix B - ITC Patents
+
+                                       17
+
+</TEXT>
+</DOCUMENT>

@@ -1,0 +1,605 @@
+<DOCUMENT>
+<TYPE>EX-10.MM
+<SEQUENCE>3
+<FILENAME>ex10_mm.txt
+<DESCRIPTION>EXHIBIT 10 (MM)
+<TEXT>
+
+                                                                  Exhibit 10(mm)
+                             [graphic logo omitted]
+
+                          INFORMATION TECHNOLOGY INC.
+                           SOFTWARE LICENSE AGREEMENT
+
+      Agreement made between Information Technology, Inc. (the "Vendor"),
+                      and the "Customer" identified below:
+
+I.   LICENSED SOFTWARE
+
+     1.1 LICENSE. Vendor grants to Customer and Customer accepts from Vendor a
+nonexclusive and nontransferable license to use the software identified in
+Appendix A (the "Software") under the terms set forth in the agreement. The
+license herein granted shall commence upon the date of delivery of the software
+and shall remain in effect for so long as Vendor's warranties set forth in
+Article V remain in effect.
+
+     1.2 PROPRIETARY NATURE OF SOFTWARE AND TITLE. The Software and any
+operations manuals, instructions, and other documents or written materials
+provided to Customer as instruction in the use of the Software (the
+"Documentation") are acknowledged by Customer to be and contain Vendor's
+proprietary information and trade secrets, whether or not any portion thereof is
+or may be validly copyrighted or patented, acknowledged to be protected by civil
+and criminal law, and acknowledged to be of great value to Vendor. Except as
+specifically licensed under this agreement, title and all ownership rights to
+the Software and the Documentation remain with Vendor. Customer shall retain or
+affix such evidences of ownership and proprietary notices as Vendor may
+reasonably request. This paragraph shall survive the term or termination of this
+agreement.
+
+     1.3 USE OF SOFTWARE. The Software may be used only for, by and on behalf of
+Customer and only in connection with Customer's business operations. This
+license is granted only for use at the single location identified in Appendix A,
+upon a single computer system (CPU) as identified in Appendix A, and is limited
+to processing of not more than the number of accounts (as hereinafter defined)
+specified in Appendix A. The Software may not be used upon any other computer or
+at any other location except the Software may be operated on servers,
+workstations, personal computers or other devices, to enter, transfer,
+interpret, display or otherwise manipulate Customer data maintained on the CPU
+or the network of servers and devices communication continuously or
+intermittently with the CPU, or as provided under Paragraph 1.4. In the event
+Customer's usage exceeds the account limitation set forth in Appendix A, or if
+the CPU is changed, a new Software License Agreement shall be required,
+including the payment of an additional license fee. For purposes of this
+Agreement, "accounts" are defined as the total of all accounts (open or closed)
+for demand deposit, demand deposit loan, savings, time savings, IRA, certificate
+of deposit, and loan accounts, processed by Customer, for the institutions being
+serviced with the Software licensed hereunder.
+
+     1.4 BACKUP AND EMERGENCY USE. In the event Customer is unable to use the
+Software at the location identified in Appendix A due to an emergency, or to
+test emergency procedures, Vendor grants to Customer the right to use the
+Software at a location other than the location defined in Appendix A. Any such
+use shall be subject to all other restrictions of this agreement and shall
+continue only so long as the condition giving rise to such use continues. Prior
+to commencing such use, if possible, and in any event within forty-eight (48)
+hours of such use, Customer shall give Vendor written notice of the
+circumstance, location and the expected length of such use. Failure to give
+notice shall nullify Customer's right of emergency use, as herein granted.
+
+     1.5 ASSIGNMENT. Customer rights under this agreement and in and to the
+Software may not be assigned, licensed, sublicensed, pledged, or otherwise
+transferred voluntarily, by operation of law or otherwise without Vendor's prior
+written consent, and any such prohibited assignment shall be null and void.
+
+II.  CONSIDERATION
+
+     2.1 LICENSE FEE. In consideration of the license of the Software granted
+under this agreement, Customer shall pay to Vendor the license fee specified in
+Appendix A. Such license fee does not include, except as expressly provided in
+this agreement or Appendix A hereto, installation or maintenance of the
+Software, data base conversion, media, transportation charges, or taxes, all of
+which costs and taxes shall be the obligation of Customer.
+
+     2.2. MANNER OF PAYMENT. The license fee listed in Appendix A shall be
+payable in the following manner:
+
+         (A) A percentage of the license fee, as specified in Appendix A, upon
+     execution of this license agreement by Customer.
+
+         (B) The balance, including any applicable taxes, upon delivery of the
+     Software by Vendor to Customer.
+
+Invoices respecting the license fee shall be rendered in accordance with the
+above payment schedule and are payable to Vendor at Vendor's address set forth
+within ten (10) days of receipt.
+
+     2.3 TAXES. In addition to the license fee payable hereunder, Customer shall
+pay all taxes (including, without limitation, sales, use, privilege, ad valorem
+or excise taxes) and custom duties paid or now or hereafter payable, however
+designated, levied or based on amounts payable to Vendor hereunder, on
+Customer's use or possession of the Software under this agreement or upon the
+presence of the Software at the location identified in Appendix A, but exclusive
+of federal, state and local taxes based on Vendor's net income. Customer shall
+not deduct from payments to Vendor any amounts paid or payable to third parties
+for customs duties or taxes, however designated.
+
+     2.4 CURRENCY. The purchase price and any other charges arising under this
+agreement shall be invoiced and be payable in U.S. Dollars.
+
+     2.5 LATE PAYMENT. Customer shall pay a late payment charge of one and
+one-half percent (1 1/2%) per month, or the maximum late payment charge
+permitted by applicable law, whichever is less, on any amount payable by
+Customer under this Agreement and not paid when due. Said late payment charge
+shall be applied for each calendar month (or fraction thereof) that such payment
+is not made following its due date.
+
+     2.6 SECURITY. Vendor reserves and Customer grants to Vendor a security
+interest in the rights of Customer for use of the Software and in the
+Documentation as security for the performance by Customer of its obligations
+hereunder including, but not limited to, payment of the license set forth in
+Appendix A. A copy of this agreement may be filed in appropriate filing office
+at any time after signature by Customer as a financing statement or Vendor may
+require and Customer shall execute a separate financing statement for purposes
+of perfecting Vendor's security interest granted pursuant to the provision of
+this paragraph.
+
+III. DELIVERY, TRAINING AND OPERATION
+
+     3.1 DELIVERY. Vendor shall deliver the Software and Customer shall accept
+delivery of the Software at Customer's address set forth below. Unless delayed,
+as hereinafter provided for, delivery shall be completed within one (1) year of
+the date this agreement is accepted by Vendor.
+
+     3.2 DELIVERY DELAYS. In the event Customer requests delay of delivery,
+Vendor shall not be obligated to effect delivery of
+
+                                       79
+<PAGE>
+
+the Software except upon thirty (30) days written notice by Customer to Vendor.
+If delay in delivery is due to any cause beyond the control of Vendor, the date
+upon which delivery is to be completed shall be extended by the number of days
+of such delay.
+
+     3.3 TRAINING. Classes in the operation of the Software are available at the
+offices of Vendor on a regularly scheduled basis. Customer's entitlement, if
+any, to such training is as set forth in Appendix A for such additional charges,
+if any, as may be set forth therein. Reasonable additional training will be
+provided to Customer at the offices of Vendor upon Customer's request, at
+Vendor's normal rates with respect thereto. All travel, meal and lodging
+expenses of Customer in connection with such training shall be borne by
+Customer. On-site training or assistance will be available solely at Vendor's
+discretion and will be charged to Customer at Vendor's normal rates together
+with reasonable expenses for travel, meals, lodging and local transportation.
+
+     3.4 ASSISTANCE BY CUSTOMER. Customer shall provide reasonable assistance
+and cooperation to Vendor in preparation of the Software and the delivery or
+installation thereof. Such assistance and cooperation shall include, as
+appropriate, reasonable access to Customer's facility and to Customer's records,
+as necessary.
+
+     3.5 DOCUMENTATION. Operation manuals in respect to the Software will be
+delivered to Customer prior to or contemporaneously with the delivery of the
+Software.
+
+     3.6 RISK OF LOSS. If the Software of the Documentation is lost or damaged,
+in whole or in part, during shipment, Vendor will replace said Software or
+Documentation at no additional charge to Customer. Upon delivery in good
+condition of the Software and the Documentation, Customer shall be responsible
+therefor and bear the risk of loss for said Software and Documentation.
+
+     3.7 CONVERSION ASSISTANCE. Vendor may, at its sole discretion, assist
+Customer in the conversion of Customer's files from computer processor or
+in-house computer system at Vendor's normal charge for such assistance.
+Expenses, including but not limited to computer time, travel, meals, lodging and
+local transportation incurred in connection therewith, shall be borne by
+Customer. In no event shall Vendor be liable to Customer for loss of profits,
+consequential, incidental, indirect or special damages arising from Vendor's
+efforts to assist in the conversion of Customer's files.
+
+     3.8 OPERATION. Customer acknowledges and agrees that it is exclusively
+responsible for the operation, supervision, management and control of the
+Software, including, but not limited to, providing adequate training for its
+personnel, instituting appropriate security procedures, and implementing
+reasonable procedures to examine and verify all output before use. Vendor shall
+have no responsibility or liability for Customer's selection or use of the
+Software or any associated equipment.
+
+     3.9 CUSTOMER OBLIGATIONS. In order to maintain the continuing integrity and
+proper operation of the Software, Customer agrees to implement, in the manner
+instructed by Vendor, each error correction and each enhancement and improvement
+provided to Customer by Vendor. Customer's failure to do so shall relieve Vendor
+of any responsibility or liability whatsoever for any failure or malfunction of
+the software as modified by a subsequent correction or improvement, but in no
+such event shall Customer be relieved of the responsibility for payment of fees
+and charges otherwise properly invoiced during the term hereof. If requested by
+Vendor, Customer agrees to provide written documentation and details to Vendor
+to substantiate problems and to assist Vendor in the identification and
+detection of problems, errors and malfunctions; and Customer agrees that Vendor
+shall have no obligation or liability for said problems until it has received
+such documentation and details from Customer.
+
+     3.10 SECURITY AND CONFIDENTIALITY. The security and confidentiality of
+Customer's data, including the information of its depositors and other customers
+contained therein is expressly agreed to be the sole responsibility of Customer.
+Customer warrants that it will take all steps reasonably necessary to protect
+the confidentiality of such data and to prevent unauthorized disclosure of or
+access thereto. Customer hereby releases Vendor from any claim arising from or
+in any way related to access to Customer's database using the Software via use
+of the Internet or any similar means of electronic communication. Customer
+indemnifies and holds Vendor harmless from and against any loss suffered by
+Customer and any third party claim arising from any unauthorized access of (i)
+Customer's data, or (ii) the information of Customer's account holders or other
+customers.
+
+     3.11 USE AND SECURITY OF NONPUBLIC INFORMATION. Vendor agrees to treat
+Customer's confidential business information with the same security as it would
+its own. Any non-public personal information regarding Customer's depositors or
+other customers disclosed by Customer to Vendor in any manner, will be used by
+Vendor solely to carry out the purposes for which disclosed and shall not be
+used in any manner prohibited by Title V of the Gramm-Leach-Billey Act.
+
+IV.  VENDOR'S PROPRIETARY RIGHTS
+
+     4.1 NON-DISCLOSURE. Customer shall take all reasonable steps necessary,
+including any required by Vendor, to ensure that neither the Software nor the
+Documentation, nor any portion thereof, on magnetic tape or disk or in any form,
+is made available or disclosed by Customer or any of its agents or employees to
+any other person, firm or corporation. Customer may disclose relevant aspects of
+the Software and Documentation to its employees and, with Vendor's prior written
+consent, agents to the extent such disclosure is reasonably necessary to
+Customer's use of the Software, provided, however, Customer agrees that it will
+cause all persons permitted such access to the Software and the Documentation to
+observe and perform the foregoing non-disclosure covenant, and that it will
+advise Vendor of the procedures employed for this purpose. Customer shall hold
+Vendor harmless against any loss, cost, expense, claim or liability, including
+reasonable attorney's fees, resulting from Customer's breach of this
+non-disclosure obligation. This paragraph shall survive the term or termination
+of this agreement.
+
+     4.2 COPIES. Customer agrees that while the Software and the Documentation
+are in its custody and possession, it will not (a) copy or duplicate or permit
+anyone else to copy or duplicate any of the Software, Documentation or
+information furnished by Vendor, or (b) create or attempt to create, by reverse
+engineering or otherwise, the source programs or any part thereof from the
+object program for the Software, the Documentation or other information made
+available under this agreement or otherwise, (whether oral, written, tangible or
+intangible). Notwithstanding the foregoing, Customer may make and retain two (2)
+copies of the Software, including all enhancements and changes thereto, only for
+use in emergencies or to test emergency procedures and may copy for its own use
+and at its own expense the Documentation, but shall advise Vendor of the
+specific item copied, the number of copies made and their distribution. The
+original and any copies in whole or in part of the Software or Documentation
+which are made pursuant to this provision shall be the exclusive property of
+Vendor and shall be fully subject to the provisions of this agreement. Customer
+agrees to retain or place Vendor's proprietary notice on any copies or partial
+copies made pursuant to this provision.
+
+     4.3 UNAUTHORIZED ACTS. Customer agrees to notify Vendor immediately of the
+unauthorized possession, use, or knowledge of the Software, Documentation or any
+information made available to Customer pursuant to this agreement, by any person
+or organization not authorized by this agreement to have such possession, use or
+knowledge. Customer will, thereafter, fully cooperate with Vendor in the
+protection and redress of Vendor's proprietary rights. Customer's compliance
+with this paragraph shall not, however, be construed in any way as a waiver of
+Vendor's rights against Customer for Customer's negligent or intentional harm to
+Vendor's proprietary rights, or for breach of Vendor's contractual rights.
+
+                                       80
+<PAGE>
+
+     4.4 INSPECTION. To assist Vendor in the protection of its proprietary
+rights, Customer shall permit representatives of Vendor to inspect the Software
+and Documentation and their use, including inspection of any location in which
+they are being used or kept at all reasonable times.
+
+     4.5 INJUNCTIVE RELIEF. If Customer attempts to use, copy, license,
+sublicense, sell or otherwise convey or to disclose the Software or
+Documentation, in any manner contrary to the terms of this agreement or in
+derogation of Vendor's proprietary rights, whether such rights are explicitly
+herein stated, determined by law or otherwise, Vendor shall have, in addition to
+any other remedies available to it, the right to injunctive relief enjoining
+such actions, Customer hereby acknowledging that other remedies are inadequate.
+
+     4.6 ACCESS TO SOURCE CODE. Vendor has deposited the Software in source code
+form and Documentation sufficient to facilitate maintenance, modification or
+correction of the Software with the custodial agent named in Appendix A, Vendor
+reserves the right to change said custodial agent at any time with written
+notification to Customer within sixty (60) days of said change. If Vendor, its
+successors or assigns shall cease to conduct business for any period in excess
+of thirty (30) days, Customer shall have the right to obtain, for its own and
+sole use only, a single copy of the then current version of the source code form
+of the Software supplied under this agreement, and a single copy of the
+Documentation associated therewith, upon payment to the person in control of the
+said source code form of the Software of the reasonable cost of making each
+copy. The source code form of the Software supplied to Customer under this
+paragraph shall be subject to each and every restriction on use set forth in
+this agreement. Customer acknowledges that the source code form of the Software
+and the associated Documentation are extraordinarily valuable proprietary
+property of Vendor and will be guarded against unauthorized use or disclosure
+with great care.
+
+     4.7 VENDOR'S EMPLOYEES. Customer acknowledges the relationship of Vendor
+and its employees is of significant value to Vendor and that Vendor's employees
+are possessed of specialized training and knowledge regarding Vendor and its
+proprietary property, imparted to such employees at significant expense to
+Vendor. Accordingly, Customer agrees that during the term hereof and for a
+period of eighteen (18) months thereafter, Customer shall not, directly or
+indirectly, solicit for employment or employ any person who is or within the
+preceding twelve (12) months has been an employee of Vendor. Vendor shall have,
+in additional to any other remedies available to it, the right to injunctive
+relief enjoining any violations of this paragraph 4.7, Customer hereby
+acknowledging that other remedies are inadequate. At Vendor's sole option,
+Vendor may waive its right to injunctive relief and its right to exercise any
+other remedy which might be available to it. In consideration of such waiver,
+Customer shall thereupon pay Vendor as liquidated damages a fee equal in amount
+to the total compensation paid by Vendor to the former employee for the twelve
+(12) month next preceding the date of termination of employment of such employee
+by Vendor.
+
+V.   MAINTENANCE, ENHANCEMENTS AND WARRANTIES
+
+     5.1 SOFTWARE WARRANTY. Vendor warrants that during the first twelve (12)
+months following delivery of the Software (the "Warranty Period"), the Software
+will perform in accordance with the then current Documentation provided
+Customer, and further warrants that it has the right to authorize the use of the
+Software under this agreement. Vendor's obligation and liability under this
+paragraph shall, however, be limited to the replacement and correction of the
+Software so that it will so perform, or to obtaining any authorization necessary
+to make effective the grant of license to Customer of the use of the Software.
+
+     5.2 PATENT INFRINGEMENTS. Vendor shall hold harmless and defend Customer
+from any claim or any suit based on any claim that the use of the Software by
+Customer under this agreement infringes on an patent, copyright, trademark, or
+other proprietary right of any third party, provided that Customer gives Vendor
+prompt and written notice of any such claim or suit and permits Vendor to
+control the defense thereof.
+
+     5.3 WARRANTY DISCLAIMER. THE FOREGOING WARRANTIES ARE IN LIEU OF ALL OTHER
+WARRANTIES AND NO OTHER WARRANTY IS EXPRESS OR IMPLIED, INCLUDING, BUT NOT
+LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A
+PARTICULAR PURPOSE.
+
+     5.4 RENEWAL OF WARRANTIES. Unless sooner terminated pursuant to the
+provisions of paragraphs 5.6, the warranties granted by 5.1 and 5.2 (subject,
+however, to all limitations and disclaimers contained within this agreement) and
+the right to any enhancements or corrections developed by Vendor under paragraph
+5.5, shall be subject to extension for successive one-year warranty periods
+commencing on the first anniversary date of delivery of the Software for four
+(4) successive years. Such extension shall be deemed to automatically occur
+unless notice is given by either customer or vendor of an election not to so
+extend, such notice to be given on or prior to the sixtieth (60th) day preceding
+the anniversary date of delivery. Any such extension shall in no event be
+effective unless Customer shall have paid to Vendor on or prior to the
+anniversary date of delivery an annual maintenance fee set forth in Appendix A.
+Extension of Vendor's warranties beyond the fifth (5th) anniversary shall be
+governed by Vendor's maintenance extension agreement.
+
+     5.5 ENHANCEMENTS AND CHANGES. Vendor shall provide Customer with all
+enhancements and changes to the Software designed or developed by Vendor and
+released to its other customers during the Warranty Period. Any change or
+enhancement to the Software, whether developed or designed by Vendor or by
+Customer shall be and remain the property of Vendor, provided, however, that
+Customer shall be entitled to a perpetual license without additional license fee
+of any enhancements or corrections developed by Customer. Vendor reserves the
+right to make changes in operating procedures, program language, file
+structures, access techniques, general purpose programs, data storage
+requirements, input and output formats, report formats, types of hardware
+supported, throughput, and other related programming and documentation
+improvements required to maintain the Software current. As part of these
+services, Vendor will provide Customer the changes with written instructions
+concerning implementation. It is understood and agreed that Vendor provision of
+improvements and enhancements under this paragraph does not include providing
+Customer a new set of software which may result from rewriting the Software.
+Vendor alone shall determine whether the work product of Vendor constitutes new
+software as a result of a complete rewrite (which is not provided to Customer
+hereunder) or an improvement or enhancement of the Software (which will be
+provided to Customer).
+
+     5.6 TERMINATION OF WARRANTIES. The warranties expressed in paragraphs 5.1
+and 5.2 and Customer's rights under paragraph 5.5 shall immediately terminate if
+the Software is revised, changed, enhanced, modified or maintained by anyone
+other then Vendor without the prior specific direction or written approval of
+Vendor.
+
+     5.7 LIMITATION OF LIABILITY. Customer expressly agrees that Vendor's
+responsibilities in the event of breach of the warranties contained in
+paragraphs 5.1 and 5.2 are as set forth in said paragraphs. Vendor's liability
+for damages, including but not limited to liability for patent or copyright
+infringement, regardless of the form of action, shall not exceed the license fee
+set forth in Appendix A to this agreement and shall arise only if the remedies
+provided in paragraphs 5.1 and 5.2 are not fulfilled by Vendor. Customer further
+agrees that Vendor will not be liable for any lost profits, or for any claim or
+demand against Customer by any other party, except a claim for patent or
+copyright infringement as provided herein. IN NO EVENT WILL VENDOR BE LIABLE FOR
+CONSEQUENTIAL DAMAGES EVEN IF VENDOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH
+DAMAGES.
+
+                                       81
+<PAGE>
+
+No action, regardless of form, arising out of this agreement, may be brought by
+either party more than one (1) year after the cause of action has accrued,
+except that an action for non-payment may be brought within one (1) year after
+the date of last payment. No action by Vendor for wrongful disclosure or use of
+the Software or Documentation shall be deemed to have accrued until Vendor
+receives actual notice of such wrongful disclosure or use.
+
+THE CUSTOMER REMEDIES SET FORTH IN THIS AGREEMENT ARE EXCLUSIVE.
+
+     5.8 THIRD PARTY SOFTWARE. The Software licensed hereunder may include
+software developed and owned by third party licensors. Vendor's sole warranty
+with respect to such third party software is that Vendor possesses the legal
+right and authority to relicense such third party software to Customer. Specific
+warranties regarding performance of such third party software shall be limited
+to the warranties, if any, provided by such third party licensors. In exchange
+for Customer's agreement not assert any claim for breach of such third party
+licensor's warranties against Vendor, Vendor hereby assigned to Customer such
+right, if any, as Vendor may posses to assert a claim for breach of warranty
+against the third party licensor.
+
+VI.  DEFAULT
+
+     6.1 TERMINATION. Vendor may terminate this agreement and the license
+granted hereunder in the event of a default by Customer unless Customer shall
+have cured the event of default, as hereinafter defined, within twenty (20) days
+after notice of such event of default given by Vendor to Customer. This
+agreement and the license granted hereunder shall automatically terminate if
+Vendor's warranties are not renewed as contemplated in paragraph 5.4 hereof.
+Upon any termination of this agreement, Customer shall deliver to Vendor the
+Software, the Documentation and all copies thereof and shall also warrant in
+writing that all copies have been returned to Vendor or destroyed.
+
+     6.2 EVENT OF DEFAULT. An event of default is defined as any of the
+following:
+
+         (A) Customer's failure to pay any amounts required to be paid to Vendor
+     under this agreement on a timely basis;
+
+         (B) Any attempt (i) to assign, sell, mortgage, lease, sublease,
+     license, sublicense or otherwise convey, (ii) to grant any interest in,
+     right of use of, or access to, or (iii) to otherwise disclose the Software
+     or the Documentation, except, in any such case, as herein expressly
+     permitted or as consented to in writing by the Vendor;
+
+         (C) Causing or permitting any encumbrance, of any nature whatsoever to
+     attach to Customer's interest in the Software in favor of any person or
+     entity other than Vendor;
+
+         (D) The entry of any order for relief under any provision of the
+     federal bankruptcy code in any bankruptcy proceedings initiated by or
+     against Customer; or
+
+         (E) Customer's breach of any of the terms or conditions of this
+     agreement.
+
+     6.3 DAMAGES. Upon the occurrence of an event of default without cure within
+the period of time above-provided, all license or other fees payable to Vendor
+under this agreement shall without notice or demand by Vendor become immediately
+due and payable as liquidated damages. This provision for liquidated damages
+shall not be regarded as a waiver by Vendor of any other rights to which it may
+be entitled in the event of Customer's default, but rather, such remedy shall be
+in addition to any other remedy lawfully available to Vendor.
+
+VII.  GENERAL
+
+     7.1 TITLES. Titles and paragraph headings are for reference purposes only
+and are not to be considered a part of this agreement.
+
+     7.2 FORCE MAJEURE. No party shall be liable for delay in performance
+hereunder due to causes beyond its control, including but not limited to acts of
+God, fires, strikes, delinquencies of suppliers, acts of war or intervention by
+any governmental authority, and each party shall take steps to minimize any such
+delay.
+
+     7.3 WAIVER. No waiver of any breach of any provision of this agreement
+shall constitute a waiver of any prior, concurrent or subsequent breach of the
+same or any other provisions hereof and no waiver shall be effective unless made
+in writing and signed by an authorized representative of the party to be charged
+therewith.
+
+     7.4 SEVERABILITY. In the event that any provision of this agreement shall
+be illegal or otherwise unenforceable, such provision shall be severed from this
+agreement and the entire agreement shall not fail on account thereof, the
+balance of the agreement continuing in full force and effect.
+
+     7.5 NOTICES. Any notice which either party hereto is required or permitted
+to give hereunder shall be addressed to the party to be charged therewith at the
+address set forth below and shall be given by certified or registered mail. Any
+such notice shall be deemed given on the date of deposit in the mail.
+
+     7.6 ENTIRE AGREEMENT. THE PARTIES HERETO ACKNOWLEDGE THAT EACH HAS READ
+THIS AGREEMENT, UNDERSTANDS IT, AND AGREES TO BE BOUND BY ITS TERMS. THE PARTIES
+FURTHER THAT THIS AGREEMENT AND ANY MODIFICATIONS MADE PURSUANT TO IT CONSTITUTE
+THE COMPLETE AND EXCLUSIVE WRITTEN EXPRESSION OF THE TERMS OF THE AGREEMENT
+BETWEEN THE PARTIES, AND SUPERSEDE ALL PRIOR OR COMTEMPORANEOUS PROPOSALS, ORAL
+OR WRITTEN, UNDERSTANDINGS, REPRESENTATIONS, CONDITIONS, WARRANTIES, CONVENANTS,
+AND ALL OTHER COMMUNICATIONS BETWEEN THE PARTIES RELATING TO THE SUBJECT MATTER
+OF THIS AGREEMENT. THE PARTIES FUTHER AGREE THAT THIS AGREEMENT MAY NOT BE
+EXPLAINED OR SUPPLEMENTED BY A PRIOR OR EXISTING COURSE OF DEALINGS BETWEEN THE
+PARTIES, BY ANY USAGE OF TRADE OR CUSTOM, OR BY ANY PRIOR PERFORMANCE BETWEEN
+THE PARTIES PURSUANT TO THIS AGREEMENT OR OTHERWISE. IN THE EVENT CUSTOMER
+ISSUES A PURCHASE ORDER OR OTHER INSTRUMENT COVERING THE SOFTWARE HEREIN
+SPECIFIED, IT IS UNDERSTOOD AND AGREED THAT SUCH PURCHASE ORDER OR OTHER
+INSTRUMENT IS FOR CUSTOMER'S INTERNAL USE AND PURPOSES ONLY AND SHALL IN NO WAY
+AFFECT ANY OF THE TERMS AND CONDITIONS OF THIS AGREEMENT.
+
+     7.7 GOVERNING LAW. This agreement is accepted in the State of Nebraska, and
+shall be enforced in accordance with and governed by the laws of the State of
+Nebraska.
+
+     7.8 CHOICE OF FORUM. Any action arising out of or related to this agreement
+or the transaction herein described, whether at law or in equity, shall be
+initiated in and litigated in the state or federal courts of the State of
+Nebraska. In accordance herewith, the parties hereto submit to the jurisdiction
+of the courts of said state. Any party being not a resident of Nebraska at the
+time of suit hereby appoints the Secretary of State of Nebraska as its agent for
+receipt of service of process.
+
+     7.9 ATTORNEYS FEES. In the event that any action or proceeding is brought
+in connection with this agreement the prevailing party therein shall be entitled
+to recover its costs and reasonable attorney's fees.
+
+     7.10 COUNTERPARTS/FACSIMILES. This agreement may be executed in two or more
+counterparts, each of which shall be deemed an original, but all of which
+together shall constitute one and the same instrument. Any signature to this
+agreement may be transmitted by fax and a facsimile signature received by a
+party hereto shall for all purposes be deemed an original signature hereto.
+
+     7.11 EFFECTIVE DATE. This agreement shall be effective on the date accepted
+and executed by an authorized representative of the Vendor.
+
+                                       82
+<PAGE>
+
+CUSTOMER:                                   VENDOR:
+
+NORTH VALLEY BANCORP                        INFORMATION TECHNOLOGY, INC.
+----------------------------------          ------------------------------------
+
+Signature: /s/  JACK RICHTER                Signature: /s/ TIMOTHY D. CONZEMIUS
+           -----------------------                     -------------------------
+Name:           Jack Richter                Name:       Timothy D. Conzemius
+       ---------------------------                ------------------------------
+Title:           EVP/COO                    Title:      Vice President & CFO
+       ---------------------------                ------------------------------
+Address:  836 East Cypress Road             Address:    1345 Old Cheney Road
+       ---------------------------                ------------------------------
+          Redding, CA  96002                            Lincoln, NE  68512
+       ---------------------------                ------------------------------
+Date:          6/17/02                      Date Accepted:   June 18, 2002
+       ---------------------------                        ----------------------
+
+
+                                       83
+<PAGE>
+
+                                  ADDENDUM TO
+                           SOFTWARE LICENSE AGREEMENT
+                                 DATED 6/17/02
+                                       -------
+                      BETWEEN INFORMATION TECHNOLOGY, INC.
+                            AND NORTH VALLEY BANCORP
+
+The Software License Agreement (hereinafter referred to as the "License
+Agreement") executed on even date herewith is supplemented and amended as set
+forth below. This Addendum is controlling in the event of conflict with the
+terms of the License Agreement. This Addendum is being executed
+contemporaneously with and forms an integral part of the License Agreement.
+
+Customer and Vendor hereby agree to amend this License Agreement as follows:
+
+1.   DEFINED TERMS. Unless the context in which used clearly otherwise requires,
+terms defined in the License Agreement are used herein as in the License
+Agreement defined.
+
+2.   NEW PROVISION. The following paragraph is hereby added to the License
+Agreement.
+
+     6.4   VENDOR DEFAULT. Customer may terminate this agreement and the license
+     granted hereunder in the event of a breach by Vendor of any of Vendor's
+     warranties or a breach by Vendor of any other term or condition of this
+     agreement, unless Vendor shall have cured the breach within twenty (20)
+     days after notice of such breach given by Customer to Vendor.
+
+
+CUSTOMER:                                   VENDOR:
+
+NORTH VALLEY BANCORP                        INFORMATION TECHNOLOGY, INC.
+
+By:  /s/ JACK RICHTER                       By: /s/ TIMOTHY D. CONZEMIUS
+     -----------------------------              --------------------------------
+Name:    Jack Richter                       Name:    Timothy D. Conzemius
+     -----------------------------              --------------------------------
+Title:   EVP / COO                          Title:  Vice President & CFO
+     -----------------------------              --------------------------------
+Address: 836 East Cypress Road              Address: 1345 Old Cheney Road
+         Redding, CA  96002                          Lincoln, NE  68512
+
+Date:    6/17/02                            Date Accepted:  June 18, 2002
+     -----------------------------                        ----------------------
+
+                                       84
+
+</TEXT>
+</DOCUMENT>

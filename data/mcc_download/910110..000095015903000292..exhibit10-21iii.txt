@@ -1,0 +1,379 @@
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>14
+<FILENAME>exhibit10-21iii.txt
+<DESCRIPTION>EXHIBIT 10-21
+<TEXT>
+Exhibit 10.21 iii
+
+BEAR STEARNS
+
+
+DATE:                               December 23, 2002
+
+TO:                                 Penn-America Group, Inc.
+ATTENTION:                          Mr. Joe Morris
+TELEPHONE:                          215-443-3612
+FACSIMILE:                          215-443-3603
+
+FROM:                               Derivatives Documentation
+TELEPHONE:                          353-1-402-6225
+FACSIMILE:                          353-1-402-6223
+
+SUBJECT:                            Fixed Income Derivatives Confirmation
+
+REFERENCE NUMBER(S):                BXNE111220
+
+
+
+The purpose of this letter agreement is to confirm the terms and conditions of
+the Transaction entered into on the Trade Date specified below (the
+"Transaction") between Bear Steams Bank plc ("Bear Stearns") and Penn-America
+Group, Inc. ("Counterparty"'). This letter agreement constitutes the sole and
+complete "Confirmation," as referred to in the Master Agreement specified below,
+with respect to this Transaction.
+
+
+1.   This  Confirmation is subject to and incorporates the 2000 ISDA Definitions
+     (the   "Definitions"),   as  published  by  the  International   Swaps  and
+     Derivatives  Association,  Inc.  ("ISDA").  This Confirmation  supplements,
+     forms a part of and is subject  to the ISDA  Master  Agreement  dated as of
+     December 16, 2002 between Bear Stearns and Counterparty (the agreement,  as
+     amended and supplemented from time to time, being referred to herein as the
+     "Master  Agreement").  All  provisions  contained  in, or  incorporated  by
+     reference to, the Master Agreement shall govern the Transaction  referenced
+     in this Confirmation  except as expressly  modified herein. In the event of
+     any  inconsistency  between this Confirmation and the Definitions or Master
+     Agreement, this Confirmation shall prevail.
+
+
+2.   The terms of the particular  Transaction to which this Confirmation relates
+     are as follows:
+
+Notional Amount:  USD 15,000,000
+
+Trade Date:                December 19, 2002
+
+Effective Date:            December 23, 2002
+
+Termination Date:          December 4, 2007, subject to adjustment in accordance
+                           with the Business Day Convention.
+
+
+
+
+<PAGE>
+
+
+Reference Number: BXNE111220
+Penn-America Group, Inc.
+December 23, 2002
+Page 2 of 6
+
+Fixed Amounts:
+
+   Fixed Rate Payer:       Counterparty
+
+   Fixed Rate Payer
+   Payment                 Dates: The fourth calendar day of each March, June,
+                           September and December during the Term of this
+                           Transaction, commencing March 4, 2003 and ending on
+                           the Termination Date, subject to adjustment in
+                           accordance with the Business Day Convention.
+
+   Fixed Rate:             7.40000%
+
+   Fixed Rate Day
+   Count Fraction:         30/360
+
+Floating Amounts:
+
+   Floating Rate Payer:    Bear Stearns
+
+   Floating Rate Payer
+   Payment Dates:          Same as Fixed Rate Payer Payment Dates.
+
+   Floating Rate for initial
+   Calculation Period:     1.4106%
+
+   Floating Rate:          For the avoidance of doubt, with respect to any
+                           Calculation Period, the Floating Rate inclusive of
+                           Spread shall be capped at 12.5%.
+
+   Floating Rate Option:   USD-LIBOR-BBA
+
+
+   Designated Maturity:    3 months
+
+   Spread:                 Plus 400 basis points
+
+  Floating Rate Day
+   Count Fraction:         Actual/360
+
+
+   Reset Dates:            The first day of each Calculation Period
+
+
+   Compounding:            Inapplicable
+
+
+Business Days:             New York and London
+
+Business Day Convention:   Modified Following
+
+
+
+
+<PAGE>
+
+Reference Number: BXNE111220
+Penn-America Group, Inc.
+December 23, 2002
+Page 3 of 6
+
+
+Deferral of
+Swap Payments:             In the event that Counterparty invokes its right to
+                           enter into an extension period for the payment of
+                           dividends on its Trust Preferred Securities, as
+                           specified in the preferred prospectus for such
+                           securities, then, Counterparty shall have the right
+                           (an "Election"), to defer payments of Fixed Amounts
+                           and Floating Amounts hereunder at any time and from
+                           time to time during the term of this Transaction and
+                           without causing an Event of Default,, in respect of
+                           up to twenty consecutive Floating Rate Payer Payment
+                           Dates (and accordingly, in respect of up to 20
+                           consecutive Fixed Rate Payer Payment Dates). An
+                           Election shall be considered validly made and such
+                           election shall be irrevocable by either party hereto,
+                           if Counterparty delivers a notice of exercise to Bear
+                           Steams by no later than 4:00 p.m. New York time on
+                           the 5th Business Day preceding the first of the up to
+                           twenty consecutive Floating Rate Payer Payment Dates
+                           to which such Election Relates (the "Initial
+                           Extension Date"). The notice of exercise may be given
+                           orally and must include the "Final Intended Extension
+                           Date" (which must occur on a Floating Rate Payer
+                           Payment Date on or prior to the Termination Date and
+                           which does not cause the relevant Election to relate
+                           to more ten consecutive Floating Rate Payer Payment
+                           Dates). Such notice should be confirmed in writing
+                           within one Business Day, provided that the failure of
+                           Bear Steams to provide such writing shall not affect
+                           the validity of any notice of exercise that was
+                           delivered orally pursuant to the terms set forth
+                           herein. With respect to any Election, the "Final
+                           Extension Date" shall mean the earlier to occur of
+                           (i) the Final Intended Extension Date, (ii) the
+                           Floating Rate Payer Payment Date, if any, on which
+                           the Calculation Agent is aware that Counterparty pays
+                           the deferred dividends to which the Election relates
+                           on the Counterparty Trust Preferred Securities and
+                           (iii) the Termination Date (including, for the
+                           avoidance of doubt, the Optional Termination Date, if
+                           applicable).
+
+                           If an Election is validly made, then (i) Counterpart'
+                           shall not pay the Floating Amount(s) that would
+                           otherwise be payable on each Floating Rate Payer
+                           Payment Date from and including the Initial Extension
+                           Date to which such Election relates through and
+                           including the Final Extension Date to which such
+                           Election relates (the "Election Period"), (ii) Bear
+                           Stearns shall not pay the Fixed Amount(s) that would
+                           otherwise be payable on each Fixed Rate Payer Payment
+                           Date during the Election Period to which such
+                           Election relates, (iii) Counterparty shall pay~ the
+                           Counterparty Extension Amount (as defined herein) to
+                           Bear Stearns on the Final Extension Date to which
+                           such Election relates and (iv) Bear Steams shall pay
+                           the Bear Steams Extension Amount (as defined
+
+
+
+
+
+
+<PAGE>
+
+
+
+
+
+
+
+
+
+Reference Number: BXN7E1 11220
+Penn-America Group, Inc.
+December 23, 2002
+Page 4 of 6
+
+
+                           herein) to Counterparty on the Final Extension Date
+                           to which such Election relates.
+
+                           The "Counterparty Extension Amount" means, in respect
+                           of the relevant Election, the amount calculated in
+                           accordance with Section 6.1(c) of the Definitions,
+                           determined as if (i) the Calculation Period were the
+                           Election Period, (ii) the Compounding Dates were each
+                           Floating Rate Payer Payment Date commencing on the
+                           Floating Rate Payer Payment Date immediately
+                           following the Initial Extension Date and ending on
+                           the Floating Rate Payer Payment Date immediately
+                           preceding the Final Extension Date, (iii) the
+                           Notional Amount, Floating Rate Option, Floating Rate
+                           Day Count Fraction, Designated Maturity, Spread,
+                           Floating Rate Day Count Fraction had the meanings set
+                           forth under Floating Amounts above and (iv) Reset
+                           Dates were the first day of each Compounding Period.
+
+                           The "Bear Steams Extension Amount" means, in respect
+                           of the relevant Election, the sum of the Fixed
+                           Amounts that would otherwise be payable on each Fixed
+                           Rate Payer Payment Date during the Election Period to
+                           which such Election relates through and including the
+                           Final Extension Date to which such Election relates
+                           plus the sum of the Fixed Compounding Period Amounts
+                           (as defined herein) determined in respect of each
+                           Fixed Rate Calculation Period during the Extension
+                           Period. The "Fixed Compounding Period Amount" means,
+                           for any Fixed Rate Calculation Period during the
+                           Extension Period, the product of (a) the Reference
+                           Amount (as defined herein) and (b) the Compounding
+                           Rate (as defined herein) and (c) Actual/360. The
+                           "Reference Amount" means, (i) in respect of the first
+                           Fixed Rate Calculation Period in the Extension
+                           Period, zero and (ii) in respect of each succeeding
+                           Fixed Rate Calculation Period in the Extension
+                           Period, an amount equal to the sum of the Fixed
+                           Amounts that would otherwise be payable for each of
+                           the previous Fixed Rate Calculation Periods plus the
+                           sum of the Fixed Compounding Period Amounts
+                           determined for each of the previous Fixed Rate
+                           Calculation Periods. The "Compounding Rate" means, in
+                           respect of the related Fixed Rate Calculation Period
+                           in the Extension Period, the rate determined as if it
+                           were a Floating Rate for such Calculation Period, the
+                           first day of such Calculation Period were a Reset
+                           Date, USD-LIBOR-BBA were the Floating Rate Option and
+                           three months were the Designated Maturity.
+
+
+
+
+
+<PAGE>
+
+
+
+Reference Number: BXNEI 11220
+Penn-America Group, Inc.
+Deccmber 23, 2002
+Page 5 of 6
+
+
+
+3.   Account Details and
+     Settlement Information:        Payments to Bear Stearns:
+
+
+
+
+
+
+                                    Payments to Counterparty:
+                                    Please provide to expedite payment:
+
+
+
+
+
+
+
+
+
+
+Additional Provisions:
+
+Non-Reliance. Each party represents to the other party that (a) it has not
+received and is not relying upon any legal, tax, regulatory, accounting or other
+advice (whether written or oral) of the other party regarding this Transaction,
+other than representations expressly made by that other party in this
+Confirmation and in the Master Agreement and (b) in respect of this Transaction,
+(i) it has the capacity to evaluate (internally or through independent
+professional advice) this Transaction and has made its own decision to enter
+into this Transaction and (ii) it understands the terms, conditions and risks of
+this Transaction and is willing to assume (financially and otherwise) those
+risks. Counterparty acknowledges that Bear Stearns has advised Counterparty to
+consult its own tax, accounting and legal advisors in connection with this
+Transaction evidenced by this Confirmation and that the Counterparty has done
+so.
+
+This Confirmation may be executed in several counterparts, each of which shall
+be deemed an original but all of which together shall constitute one and the
+same instrument.
+
+Counterparty hereby agrees to check this Confirmation and to confirm that the
+foregoing correctly sets forth the terms of the Transaction by signing in the
+space provided below and returning to Bear Steams a facsimile of the
+fully-executed Confirmation to 212-272-9857. For inquiries regarding U.S.
+Transactions, please contact Sonya Nugent by telephone at 212-272-8273. For all
+other inquiries please contact Niamh Ansley by telephone at 353-1-402-6224.
+Originals will be provided for your execution upon your request.
+
+
+
+
+
+<PAGE>
+
+
+Reference Number: BXNE111220
+Penn-America Group, Inc.
+December 23, 2002
+Page 6 of 6
+
+
+
+We are very pleased to have executed tins Transaction with you and we look
+forward to completing other transactions with you in the near future.
+
+Very truly yours.
+
+BEAR STEARNS BANK PLC
+
+
+
+By:  /s/ Robert Canning
+       Name:  Robert Canning
+        Title: Authorized signatory
+
+Counterparty, acting through its duly authorized signatory, hereby agrees to,
+accepts and confirms the terms of the foregoing as of the Trade Date.
+
+
+PENN-AMERICA GROUP, INC.
+
+
+
+
+By:         /s/ Joseph F. Morris
+    -------------------------------------------------
+     As authorized agent or officer for Penn-America Group, Inc.
+     Title:  SVP, CFO & Treasurer
+
+
+crc
+
+
+
+
+
+
+
+
+</TEXT>
+</DOCUMENT>

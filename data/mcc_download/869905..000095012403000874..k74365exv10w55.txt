@@ -1,0 +1,2560 @@
+<DOCUMENT>
+<TYPE>EX-10.55
+<SEQUENCE>4
+<FILENAME>k74365exv10w55.txt
+<DESCRIPTION>MASTER NETTING, SETOFF AND SECURITY AGREEMENT
+<TEXT>
+<PAGE>
+                                                                   EXHIBIT 10.55
+                            MASTER NETTING, SETOFF,
+                             AND SECURITY AGREEMENT
+
+This Master Netting, Setoff, and Security Agreement (and the Collateral Annex,
+collectively this "Agreement") is made and entered into effective as of December
+2, 2002 (the Effective Date") by and between Midland Cogeneration Venture
+Limited Partnership (hereinafter referred to as "MCV") and El Paso Merchant
+Energy, L.P. ("EPME").
+
+                                    RECITALS
+
+         WHEREAS, the Parties have entered into (A) the agreements listed on
+Schedule A, (B) may enter into future master agreements (each of (A) and (B)
+being an "Underlying Master Agreement"), and (C) have entered into or may enter
+into agreements via documents and other confirming evidence establishing the
+terms and conditions of a particular transaction to the extent that an
+Underlying Master Agreement does not govern any such transaction(s), all of (A),
+(B) and (C) being "forward contracts," "commodities contracts," and/or "swap
+agreements" as defined in Title 11 of the United States Bankruptcy Code (the
+"Code") for the purchase, sale and/or exchange of physical commodities
+(including, without limitation, natural gas, crude oil, fuel oil, gasoline,
+petroleum-related products, electric power, electric capacity, natural gas
+liquids, coal, and emissions), transportation rights, transportation capacity,
+transmission rights, transmission capacity, goods (as such term is defined in
+the UCC), swaps, options, derivatives, or any other security, contract right,
+instrument or item (whether similar or dissimilar to the foregoing) that are
+currently bought, sold, and/or exchanged or capable of being bought, sold and/or
+exchanged in the future (each a "Transaction", as later defined herein, whether
+under (A) (B)or (C)) that shall be governed by this Agreement;
+
+         WHEREAS, each Party desires to provide in this Agreement for, among
+other things, (i) its right to accelerate, liquidate, terminate, net, setoff,
+recover against, and apply Performance Assurance upon the terms and conditions
+set forth in this Agreement, (ii) the determination of the Collateral
+Requirements of the other Party under this Agreement, and (iii) to treat this
+Agreement, the Underlying Master Agreements, and all Transactions (existing and
+hereinafter entered into) as a single agreement for the purposes set forth
+herein.
+
+         NOW THEREFORE, for and in consideration of the mutual agreements herein
+made and other good and valuable consideration, including, without limitation,
+certain amendments to the Underlying Master Agreements and Transactions, the
+receipt and sufficiency of which are hereby acknowledged, and in reliance upon
+the Parties' agreement and intent that this Agreement, the Underlying Master
+Agreements, and all Transactions are one single integrated agreement, each Party
+agrees as follows:
+
+                  SECTION 1. DEFINITIONS.
+
+(a) In the event of any conflict or inconsistency between a term defined herein
+and in any of the Underlying Master Agreements or Transactions, such term as
+used in this Agreement shall govern and have the meaning ascribed to it in this
+Agreement for purposes of this Agreement. The Parties will use all reasonable
+efforts to construe the definitions used in this Agreement consistent with those
+in the Underlying Master Agreements and/or Transactions to
+
+
+<PAGE>
+
+the extent there are any apparent inconsistencies. All references are to this
+Agreement unless otherwise expressly stated.
+
+         (b) The following terms used in this Agreement are defined as follows:
+
+         "Additional Default Events" shall have the meaning set forth in Section
+2(b).
+
+         "Additional Termination Rights" shall have the meaning set forth in
+Section 2(b).
+
+         "Affiliate" means, with respect to any Person, any other Person that,
+directly or indirectly, through one or more intermediaries, controls, or is
+controlled by, or is under common control with, such Person. For purposes of the
+foregoing definition, "control" means the direct or indirect beneficial
+ownership of more than fifty percent of the outstanding capital stock, other
+equity interests or interests having ordinary voting power, and "Person" as used
+in this definition means any entity except an individual.
+
+         "Aggregate Delinquency Amount" means US$1,000,000.
+
+         "Applicable Rate" for any date means the rate per annum equal to that
+set forth in the Selected Interest Rates (weekly) designated as H.15, of the
+Federal Reserve Statistical Release published by the Board of Governors of the
+Federal Reserve System, or any successor publication.
+
+         "Bankruptcy" means, with respect to any Person, (i) the filing by such
+Person of a petition seeking to adjudicate such Person a bankrupt or an
+insolvent or otherwise commencing, authorizing or acquiescing in the
+commencement of a proceeding or cause of action seeking dissolution,
+liquidation, winding up, reorganization, arrangement, debt adjustment,
+restructuring protection, or other relief with respect to itself or its debts
+under any bankruptcy, insolvency or other similar law now or hereafter in
+effect; (ii) the seeking by such Person of the appointment of a trustee,
+receiver, liquidator, custodian or other similar official over it or any
+substantial part of its property, or consenting to any such relief or to the
+appointment of or taking possession by any such official in an involuntary case
+or other proceeding commenced against it, or taking any corporate action to
+authorize any of the foregoing; (iii) the commencement of an involuntary case or
+other proceeding against such Person seeking dissolution, liquidation, winding
+up, reorganization, arrangement, debt adjustment, restructuring protection,
+composition or other relief with respect to such Person or its debts under any
+bankruptcy, insolvency or other similar law now or hereafter in effect or
+seeking the appointment of a trustee, receiver, liquidator, custodian or other
+similar official over such Person or any substantial part of its property, and
+such involuntary case or other proceeding shall remain undismissed and unstayed
+for a period of 15 days; (iv) the making of an assignment or any general
+arrangement for the benefit of creditors, (v) such Person otherwise becoming
+bankrupt or insolvent (however evidenced), (vi) such Person generally being
+unable or admitting its inability to pay its debts as they fall due (or
+otherwise generally failing to pay its debts as they fall due), or (vii) such
+Person filing an answer or other pleading admitting or failing to contest the
+allegations of a petition filed against it in any proceeding of the foregoing
+nature, or taking any other action to authorize any of the actions set forth
+above.
+
+
+
+                                       2
+<PAGE>
+
+         "Business Day" means any day except Saturday, Sunday, a Federal Reserve
+Bank holiday, or any other recognized holiday where commercial banks are not
+open for general business in New York, New York.
+
+         "Collateral Annex" means the Collateral Annex attached hereto as Annex
+A, which is a part of this Agreement.
+
+         "Costs" means, with respect to a Non-defaulting Party, brokerage fees,
+commissions and other similar third party transaction costs and expenses
+(including reasonable attorneys' fees and expenses) (exclusive of Losses)
+expressed as a positive number that such Non-defaulting Party incurs or would
+reasonably be expected to incur, or realizes, or would reasonably be expected to
+realize either in terminating any arrangement pursuant to which it has hedged
+its obligations or entering into new arrangements which replace a terminated
+Transaction.
+
+         "Default" has the meaning set forth in Section 2(d).
+
+         "Default Rate" means, for any date, a rate per annum equal to the
+lesser of (a) the per annum rate of interest equal to the then effective prime
+lending rate as may from time to time be published in The Wall Street Journal
+under "Money Rates" on such day (or if not published, on such day on the most
+recent preceding day on which published), plus two percent (2%), and (b) the
+maximum non-usurious interest rate allowed by law.
+
+         "Defaulting Party" means (i) MCV when a Default has occurred with
+respect to MCV and (ii) EPME when a Default has occurred with respect to EPME.
+
+         "Discount Rate" means a rate per annum equal to the lesser of (a) a
+rate per annum of interest equal to the then effective one-month London
+Interbank Offered Rate (LIBOR) determined daily as provided under the heading
+"Money Rates" in The Wall Street Journal plus one percent (1%); and (b) the
+maximum non-usurious interest rate allowed by law.
+
+         "Early Termination Date" shall have the meaning set forth in Section
+3(c).
+
+         "Eligible Collateral" means Cash or a Letter of Credit eligible to be
+provided, pledged, or transferred by a Party, as applicable, (including, without
+limitation, any such collateral eligible to be transferred by the Qualified
+Institution on behalf of any such Party) to secure payment or performance of any
+of its Obligations to the other Party, as applicable, under this Agreement, the
+Underlying Master Agreements and/or Transactions.
+
+         "EPME" means El Paso Merchant Energy, L.P., a Delaware limited
+partnership.
+
+         "Final Settlement Amount" has the meaning set forth in Section 4(a).
+
+         "Gains" means, with respect to any Party, an amount, expressed as a
+negative number, equal to the present value (discounted at the Discount Rate) of
+the economic benefit, if any (exclusive of Costs), resulting from the
+termination of a Transaction pursuant to Section 3 hereof.
+
+
+
+                                       3
+<PAGE>
+
+         "GISB Defaults" shall mean the terms and conditions set forth in
+subparagraphs (i)-(v) of Section 10.1 of the Base Contract for Short-Term Sale
+and Purchase of Natural Gas copyrighted by the Gas Industry Standards Board,
+Inc., or its successor in interest.
+
+         "Guaranty" means the document or agreement pursuant to which a
+Guarantor provides credit support for the Obligations of a Party.
+
+         "Guarantor" with respect to any Party means any other Person providing
+credit support for the Obligations of such Party, including, without limitation,
+any credit support provider under any Underlying Master Agreement or
+Transaction.
+
+         "ICE" means Intercontinental Exchange, LLC, or its successor.
+
+         "Kiodex" means Kiodex, Inc., a company headquartered in New York, New
+York that provides propriety independent market data integrated with valuation
+models, or its successor.
+
+         "Losses" means, with respect to any Party, an amount, expressed as a
+positive number, equal to the present value (discounted at the Discount Rate) of
+the economic loss, if any (exclusive of Costs), resulting from the termination
+of a Transaction pursuant to Section 3 hereof.
+
+         "MCV" means Midland Cogeneration Venture Limited Partnership, a
+Michigan limited partnership.
+
+         "Monthly Final Settlement Amount" means, as of the last Business Day of
+each applicable calendar month, the amount equal to the sum of (i) the Final
+Settlement Amount less the Total Unpaid Amounts divided by the lesser of (a)
+thirty-six (36) months and (b) the number of months remaining in the term of the
+Transaction with the latest expiration date and (ii) interest accrued (at the
+Discount Rate) on the outstanding unpaid portion of the Final Settlement Amount
+from the day the Final Settlement Amount would have been due.
+
+         "Non-defaulting Party" means (i) MCV when EPME is the Defaulting Party
+and (ii) EPME when MCV is the Defaulting Party.
+
+         "Obligation" or "Obligations" means, with respect to a Party, each and
+every obligation or liability for which such Party is bound to the other Party
+under an Underlying Master Agreement, a Transaction, or this Agreement and
+whether financial or physical, including, without limitation, (i) payment and
+delivery obligations, (ii) each and every other obligation or requirement,
+including the payment of any debts, damages and/or obligations (without
+limitation including payments due with respect to any terminated Transactions),
+(iii) each and every obligation or requirement arising under a Guaranty issued
+pursuant to any Underlying Master Agreement, Transaction, or this Agreement that
+such Party has provided to the other Party, (iv) each and every obligation or
+requirement under any Underlying Master Agreement, a Transaction, or this
+Agreement to maintain or deliver Eligible Collateral/Performance Assurance with
+respect thereto (whether or not performance is due), or in connection with a
+Guaranty, or acceleration, termination, or liquidation of a Guaranty, whether
+arising under any Underlying Master Agreement, a Transaction, or this Agreement,
+heretofore or hereafter, and whether fixed,
+
+
+
+                                       4
+<PAGE>
+
+matured, liquidated, or unliquidated; and (v) any indemnity obligations under
+this Agreement, the Underlying Master Agreement or Transactions.
+
+         "Party" means MCV and EPME as the context indicates, and "Parties"
+means both of the foregoing.
+
+         "Person" means an individual, a corporation, a partnership, a limited
+liability company, an association, a joint venture, a trust, an unincorporated
+organization, or any other entity or organization, including a government or
+political subdivision or an agency or instrumentality thereof.
+
+         "Potential Event of Default" means any event which, but for the giving
+of notice and the expiration of any applicable cure period, would constitute a
+Default under Sections 2(d)(i) or 2(d)(iii).
+
+         "Settlement Amount" means, with respect to a terminated Transaction and
+a Non-defaulting Party, the difference between (i) the sum of (a) Losses or
+Gains, (b) Costs and (c) Unpaid Amounts owed by the Defaulting Party to the
+Non-defaulting Party with respect to such terminated Transaction with respect to
+periods prior to the Early Termination Date and (ii) the Unpaid Amounts owed by
+such Non-defaulting Party to the Defaulting Party with respect to such
+terminated Transaction with respect to periods prior to the Early Termination
+Date; and if such amount is owed to the Non-defaulting Party, that number shall
+be expressed as a positive number. In determining Gains/Losses, the
+Non-defaulting Party shall not be required to enter into any replacement
+transaction in order to determine the respective calculations. Gains and Losses
+applicable to each Transaction shall, to the extent practicable, be determined
+by reference to information either available to it internally or supplied by one
+or more third parties including, without limitation, quotations (either firm or
+indicative) of relevant prices, rates, yields, yield curves, spreads,
+volatilities or other relevant market data for the relevant markets, and may
+include information obtained through NYMEX, ICE, Kiodex or other such
+information that may be published in the market place, with adjustments in good
+faith as may be necessary to account for sufficient quantities of the
+commodities comparable to the subject of such Transaction in the same relative
+market, having the same delivery point (or a comparable delivery point for the
+subject Transaction, as determined in good faith by the Non-defaulting Party)
+with such adjustments for any basis differential that the Non-defaulting Party
+reasonably determines is applicable to prices at the alternate pricing point as
+compared to the actual delivery point. The Settlement Amount for each terminated
+Transaction may be either a positive or a negative amount. For purposes of
+determining the Collateral Requirement, the references to Non-Defaulting Party
+above shall mean the Calculating Party, and the references to the Defaulting
+Party shall mean the non-Calculating Party.
+
+         "Transaction" or "Transactions" means each and every trade,
+transaction, and other contractual commitment between MCV and EPME entered into
+before, on, or after the Effective Date of this Agreement for which performance
+is still pending from any Party, provided that such Transaction is within the
+scope of this Agreement and is evidenced by (i) any of the Underlying Master
+Agreements, (ii) trade confirmations (iii) a purchase and sale agreement, or
+(iv) other documents or writings evidencing the terms of any such trade,
+transaction or contractual commitment.
+
+
+
+                                       5
+<PAGE>
+
+         "Total Unpaid Amounts" means the greater of: (A) (i) the aggregate of
+all Unpaid Amounts owed by the Non-defaulting Party to the Defaulting Party with
+respect to all terminated Transactions accrued prior to the Early Termination
+Date less (ii) the aggregate of Unpaid Amounts owed by the Defaulting Party to
+the Non-defaulting Party with respect to all terminated Transactions accrued
+prior to the Early Termination Date, and (B) zero.
+
+         "Underlying Master Agreements" shall have the meaning given in the
+first paragraph of this Agreement.
+
+         "Underlying Master Agreements Close-Out" has the meaning set forth in
+Section 3(d).
+
+         "Uniform Commercial Code" means the Uniform Commercial Code as enacted
+from time to time in the State of New York.
+
+         "Unpaid Amount(s)" means the amount payable by one Party to the other
+Party, that has not been paid as of the Early Termination Date with respect to
+performance rendered or provided under a Transaction, whether such amount is
+then due and owing, such as but not limited to (i) an invoiced amount, (ii) an
+uninvoiced amount and/or an amount payable due to physical deliveries or
+settlements that occurred prior to the Early Termination Date, and (iii)
+liquidated damages, taxes or other such costs and expenses that arose prior to
+the Early Termination Date otherwise allowed under the terms of this Agreement,
+an Underlying Master Agreement or a Transaction.
+
+         "US$" means lawful currency of the United States of America.
+
+                  SECTION 2. DEFAULT.
+
+         (a) The Defaults set forth in Section 2(d) supercede and replace in
+their entirety (i) any and all "defaults" or "events of default" in any
+Underlying Master Agreement or Transaction, and (ii) the GISB Defaults. The
+Parties agree that any rights or remedies granted to them in the Underlying
+Master Agreements or Transactions upon the occurrence of any such "default" or
+"event of default" or GISB Defaults set forth therein shall (subject to this
+Section and Sections 3, 16 and 23 of this Agreement) be null and void and
+without effect. In addition, any provision in any Underlying Master Agreement or
+Transaction providing for automatic termination in the event of a Bankruptcy
+shall be amended hereby to provide that such termination is not automatic, but
+shall instead constitute solely a Default in accordance with Section 2(d)(iv) or
+2(d)(vii)(3) below, pursuant to which the Non-defaulting Party may elect, but is
+not required, to terminate all Underlying Master Agreements or Transactions in
+accordance with Section 3.
+
+         (b) To the extent not otherwise designated as a "Default" under this
+Agreement, upon the occurrence of any event that gives rise to a right of a
+Party to terminate any Underlying Master Agreement or Transaction, but that is
+NOT specifically enumerated as a "default" or "event of default", or GISB
+Default (such events, collectively, "Additional Default Events") therein, the
+Parties to such Underlying Master Agreement or Transaction shall have the rights
+and remedies provided for such Additional Default Event as set forth in such
+Underlying Master Agreement or Transaction (collectively referred to as the
+"Additional Termination Rights"), but shall not have any independent right under
+this Agreement to terminate all Underlying Master Agreements or all Transactions
+based on such Additional Default Events. Provided, however, that to the extent
+that the Additional Termination Rights allow a Party to ultimately terminate any
+or all of the
+
+
+
+                                       6
+<PAGE>
+
+Transactions or pursue remedies as a result of such Additional Default Event
+(i.e., the termination of only the transactions affected by the illegality, the
+tax event, etc.), the Parties' remedies based upon its Additional Termination
+Rights shall be governed by this Agreement (including the remedies under
+Sections 3,4,5,6, and 7). Without limiting the generality of the foregoing,
+Additional Termination Rights (such as but not limited to a contractual right to
+terminate Transactions under an Underlying Master Agreement or otherwise
+occasioned by an event of force majeure, a change in law or regulation, a tax
+event, illegality or any other events that are defined as "Termination Events"
+or "Additional Termination Events" under any Underlying Master Agreement or
+otherwise) shall not be considered a Default under this Agreement and shall not
+cause, as the independent result of this Agreement, an early termination of all
+of the Underlying Master Agreements or Transactions.
+
+         (c) Notwithstanding any provision in any Underlying Master Agreement or
+Transaction that permits termination of such Underlying Master Agreement or any
+Transaction on the occurrence of any credit rating downgrade, loss of
+shareholder equity, credit event upon merger, material adverse change, or
+material adverse effect, however defined in such Underlying Master Agreement or
+Transaction (including whether it would otherwise constitute an Additional
+Termination Right), is hereby deleted so that the only consequences of a Credit
+Event shall be the remedies set forth in this Agreement.
+
+         (d) For purposes of this Agreement, "Default" shall mean, with respect
+to a Party (the "Defaulting Party"), the occurrence of any of the following:
+
+                  (i) the failure by such Party to pay, when due, any amount
+         required to be paid pursuant to any Underlying Master Agreement which,
+         together with the amount of all such unpaid amounts (excluding any
+         portion of any such payment(s) that is the subject of a good faith
+         dispute), equals or exceeds the Aggregate Delinquency Amount, and all
+         such unpaid amounts shall not be paid in full within two (2) Business
+         Days after notice of such failure;
+
+                  (ii) any representation or warranty made by such Party in this
+         Agreement or any Underlying Master Agreement or Transaction is false or
+         misleading in any material respect when made or when deemed made or
+         repeated in accordance with the respective terms of this Agreement, the
+         Underlying Master Agreement and/or the Transaction, and such materially
+         false or misleading representation or warranty results in a significant
+         economic impact to the Non-defaulting Party (as based on the
+         Non-defaulting Party's good faith and reasonable opinion) in excess of
+         the Aggregate Delinquency Amount, unless such representation or
+         warranty is capable of being remedied within five (5) Business Days
+         after written notice of such failure;
+
+                  (iii) the failure to timely perform any material covenant or
+         obligation set forth in this Agreement (except (i) to the extent that
+         such failure already constitutes a separately enumerated Default
+         hereunder, or (ii) for such Party's obligations to physically deliver
+         or receive a commodity, the sole and exclusive remedy for which is
+         provided in the applicable Underlying Master Agreement or Transaction,
+         unless the Party otherwise fails to tender payment for such breached
+         performance obligation in accordance with the terms of such Underlying
+         Master Agreement or Transaction) (e.g., Article Four of the
+
+
+
+                                       7
+<PAGE>
+
+         Master Power Agreement, Section 3.2 of the GISB agreement), and such
+         failure to perform results in a significant economic impact to the
+         Non-defaulting Party (as based on the Non-defaulting Party's good faith
+         and reasonable opinion) in excess of the Aggregate Delinquency Amount,
+         if such failure is not remedied within three (3) Business Days after
+         written notice of such failure;
+
+                  (iv) the Bankruptcy of such Party;
+
+                  (v) such Party, in compliance with this Agreement, properly
+         takes any necessary action to consolidate or amalgamate with or merge
+         with or into, or transfer all or substantially all of its assets to,
+         another Person and, prior to effecting such consolidation,
+         amalgamation, merger or transfer, the resulting or surviving Person (A)
+         fails to assume all the Obligations of such Party under this Agreement,
+         the Underlying Master Agreements and Transactions by operation of law
+         or pursuant to a reasonable and customary agreement; (B) fails to
+         extend the benefits of any Performance Assurance or Guaranty to the
+         payment by such resulting or surviving entity of its Obligations
+         pursuant to reasonable and customary documentation; or (C) has
+         materially weaker creditworthiness than such Party as compared to the
+         creditworthiness of such Party immediately prior to such action, and
+         such event under (A), (B) or (C) is not remedied within two (2)
+         Business Days after notice by the Party that would otherwise be the
+         Non-defaulting Party;
+
+                  (vi) with respect to any required Transfers of Eligible
+         Collateral/Performance Assurance under this Agreement, if the failure
+         to Transfer is not effected within one (1) Business Day after notice of
+         failure has been given to the applicable Party;
+
+                  (vii) with respect to such Party's Guarantor, if any:
+
+                           (1) if any representation or warranty made or deemed
+                  to be made or repeated by a Guarantor in connection with this
+                  Agreement or any Underlying Master Agreement or Transaction is
+                  false or misleading in any material respect when made or when
+                  deemed made or repeated;
+
+                           (2) the failure of a Guarantor to make any payment
+                  required or to perform any other material covenant or
+                  obligation in any Guaranty made in connection with this
+                  Agreement or any Underlying Master Agreement or Transaction,
+                  if such failure shall not be remedied within three (3)
+                  Business Days after written notice thereof;
+
+                           (3) the Bankruptcy of the Guarantor;
+
+                           (4) the failure of a Guarantor's Guaranty to be in
+                  full force and effect and enforceable against such Guarantor
+                  for purposes of this Agreement or any Underlying Master
+                  Agreement or Transaction (other than in accordance with the
+                  terms of such Guaranty and the related Underlying Master
+                  Agreement or Transaction) prior to the satisfaction of all
+                  Obligations of such Party under each
+
+
+
+                                       8
+<PAGE>
+
+                  Underlying Master Agreement or Transaction to which such
+                  Guaranty shall relate without the written consent of the other
+                  Party;
+
+                           (5) a Guarantor shall repudiate, disaffirm, disclaim,
+                  or reject, in whole or in part, or challenge the validity of
+                  any Guaranty; or
+
+                           (6) such Guarantor consolidates or amalgamates with,
+                  or merges with or into, or transfers all or substantially all
+                  of its assets to, another Person, and a Party on behalf of its
+                  Guarantor, prior to effecting such consolidation,
+                  amalgamation, merger or transfer, (A) fails to provide
+                  documentation to the other Party, establishing that the
+                  resulting or surviving Person has agreed to assume all the
+                  Obligations of such Guarantor by operation of law or pursuant
+                  to a reasonable and customary agreement; (B) otherwise fails
+                  to provide the benefits of any Guaranty to the payment by such
+                  Party of its Obligations pursuant to reasonable and customary
+                  documentation; or (C) has materially weaker creditworthiness
+                  than such Party as compared to the creditworthiness of the
+                  Guarantor immediately prior to such action, and such event
+                  under (A), (B) or (C) is not remedied within two (2) Business
+                  Days after notice by the Party that would otherwise be the
+                  Non-defaulting Party.
+
+         (e) Notwithstanding the foregoing, if any Party (i) fails to make a
+payment under an Underlying Master Agreement or Transaction that would otherwise
+cause a Default under Section 2(d)(i) save and except for the unpaid amounts not
+exceeding the Aggregate Delinquency Amount, (ii) makes a materially false or
+misleading representation or warranty that would otherwise cause a Default under
+Section 2(d)(ii) save and except for the economic impact to the Non-defaulting
+Party not exceeding the Aggregate Delinquency Amount; or (iii) fails to timely
+perform any material covenant or obligation under this Agreement that would
+otherwise cause a Default under Section 2(d)(iii) save and except for the
+economic impact to the Non-defaulting Party not exceeding the Aggregate
+Delinquency Amount, the other Party may exercise any rights and remedies
+provided to such non breaching Party under the applicable Transaction and/or
+Underlying Master Agreement (including any Additional Termination Rights, if
+applicable). If at any time the Defaulting Party fails to designate how a
+payment under this Agreement is to be allocated under the various Master
+Underlying Agreements and/or Transactions, the Non-defaulting Party shall
+allocate the payment according to its sole discretion to amounts due under the
+Underlying Master Agreements and/or Transactions.
+
+         (f) To the extent that any of the Underlying Master Agreements or
+Transactions would otherwise allow the termination of any or all Transactions on
+terms and conditions pertaining to (i) cross-default events for specified terms,
+conditions, events or for defaults under other agreements or instruments,
+irrespective of the circumstances involved or the actions of any Persons
+whatsoever, or (ii) any specifically identified transactions, agreements,
+instruments or contractual arrangements between any Persons for any reason
+whatsoever, such terms, conditions or provisions in such Underlying Master
+Agreements or Transactions shall be rendered null and void and shall be of no
+further effect for so long as this Agreement is in effect.
+
+
+
+                                       9
+<PAGE>
+
+                  SECTION 3. REMEDIES.
+
+         (a) The rights and remedies of the Non-defaulting Party which relate to
+a Default as defined herein shall supercede the rights and remedies of such
+Party relating to such Default under any Underlying Master Agreement or
+Transaction other than provisions therein relating to the reimbursement of
+expenses or other indemnification provided for thereunder.
+
+         (b) Upon the occurrence and during the continuance of a Potential Event
+of Default in respect of any Party, the other Party shall have the right to,
+upon one (1) Business Day prior written notice to the other Party, withhold any
+payments and/or suspend performance under any or all Underlying Master Agreement
+and/or Transactions (subject to Section 2(e), which will allow the exercitation
+of such rights for only the affected Transactions as set forth in the applicable
+Underlying Master Agreement or Transaction), provided, however, that the right
+to suspend performance under such Transactions or Underlying Master Agreement
+shall only last for five (5) days from the initiation of the Potential Event of
+Default.
+
+         (c) Upon the occurrence and during the continuance of a Default, the
+Non-defaulting Party shall have the right to: (i) immediately withhold any
+payments and/or suspend performance under any or all Underlying Master Agreement
+and./or Transactions, provided, however, that the right to suspend performance
+under any or all Underlying Master Agreement and./or Transactions shall only
+last for fourteen (14) days from the initial Default, unless an Early
+Termination Date has been declared (in which event suspension of performance may
+continue until such Early Termination Date); (ii) exercise rights of setoff in
+accordance with the terms of this Agreement, (iii) retain any Performance
+Assurance pending calculation and payment of the Final Settlement Amount
+pursuant to the provisions set forth herein; (iv) give notice to the Defaulting
+Party specifying the relevant Default, declaring the Defaulting Party in Default
+of all Underlying Master Agreements and all Transactions, and designating a day,
+no earlier than the day such notice is effective and no later than 20 days after
+such notice is effective, as an early termination date ("Early Termination
+Date"); (v) withhold the Transfer of any Eligible Collateral/Performance
+Assurance that absent such Default would otherwise be payable under the terms of
+this Agreement; and/or (vi) take any other action permitted by law or in equity
+or by this Agreement, the Underlying Master Agreements or any Transactions
+(provided that such rights and remedies do not pertain to a Default under the
+Underlying Master Agreements or Transactions) necessary or appropriate to
+protect, preserve, or enforce its rights or to reduce any risk of loss or delay,
+including the demand for additional Eligible Collateral (otherwise due under
+Section 4) or the return of Performance Assurance (otherwise due to be returned
+under Section 5) as applicable (provided that in no event shall a Non-defaulting
+Party be permitted to terminate less than all of the Underlying Master
+Agreements and all Transactions as a result of a Default hereunder, save and
+except with respect to Sections 2 (b) or (e)).
+
+         (d) Upon giving notice to the Defaulting Party of an Early Termination
+Date irrespective of whether the Default giving rise to the Default is
+continuing, the Non-defaulting Party shall (i) accelerate, terminate, liquidate
+and otherwise close-out all Transactions under its Underlying Master Agreements
+or otherwise, as of the Early Termination Date; (ii) calculate the Settlement
+Amount for each terminated Underlying Master Agreement and Transaction as of
+such Early Termination Date (iii) retain and apply any Performance Assurance in
+accordance with terms of this Agreement; and/or (iv) take any other action as
+permitted or by law. The Non-
+
+
+
+                                       10
+<PAGE>
+
+defaulting Party may also exercise rights of set-off, netting and/or recoupment
+in accordance with the terms of this Agreement. To the extent that Section 2(e)
+or Additional Termination Rights are the basis for such exercitation of the
+rights hereunder, the same methodology shall apply but only with respect to the
+terminated Transactions affected by such events. The action(s) taken by the
+Non-defaulting Party pursuant to this Section 3(d), even if for the limited
+purposes with respect to Additional Termination Rights or Section 2(e), shall be
+referred to herein as the "Underlying Master Agreements Close-Out.
+
+                  SECTION 4. SETTLEMENT.
+
+         (a) Upon the Non-defaulting Party's exercise of the Underlying Master
+Agreements Close-Out, the Non-defaulting Party shall calculate the Settlement
+Amount relating to each of the Transactions. The "Final Settlement Amount" shall
+be the difference between the aggregate sum of (i) (a) the aggregate sum of such
+Settlement Amounts (determined by adding each of the Settlement Amounts that are
+expressed as a positive number and subtracting therefrom the sum of the absolute
+value of Settlement Amounts that are expressed as a negative number), plus (b)
+the total amount of the Cash being held or retained by the Defaulting Party
+unless the Defaulting Party returns such Performance Assurance to the
+Non-Defaulting Party prior to the time that the Final Settlement Amount is
+calculated, plus (c) any amount deducted as a result of any set-off, offset,
+combination of accounts, recoupment, deduction retention, or withholding,
+collectively hereinafter in this Agreement referred to as "setoff") as allowed
+under this Agreement, applicable law or equity less (ii) any amount received by
+the Non-defaulting Party as a result of the exercise of the rights to apply
+Performance Assurance pursuant to this Agreement, the Underlying Master
+Agreements, the Transactions and the Guarantees (as they may be applicable), and
+provided further that Cash has been received as of the result of such rights so
+as to warrant such reduction. If the Final Settlement Amount is a positive
+amount, then such amount shall be owed by the Defaulting Party to the
+Non-defaulting Party; and if the Final Settlement Amount is a negative amount,
+then the absolute value of such amount shall be owed by the Non-defaulting Party
+to the Defaulting Party.
+
+         (b) Upon determination of the Final Settlement Amount by the
+Non-defaulting Party, the Non-defaulting Party shall provide Defaulting Party
+with a statement showing the calculation of the Final Settlement Amount,
+necessarily including the calculation of the Settlement Amount relating to each
+Transaction, and the reduction of such amount(s) by the amount(s) (a)
+attributable to the receipt of Cash by the Non-Defaulting Party due to the
+application of Performance Assurance (b) the Cash held by the Defaulting Party
+and not returned to the Non-defaulting Party, and (c) any set-off, all of the
+foregoing being done in accordance with Section 4(a) above. Additionally, the
+total amount of Cash held as Performance Assurance (including any proceeds from
+any draw upon a Letter of Credit) by the Defaulting Party (or its Qualified
+Institution under Paragraph 6 of the Collateral Annex) shall be deducted from
+any Final Settlement Amount which the Non-Defaulting Party owes to the
+Defaulting Party. The Final Settlement Amount (in addition to any other
+calculations, such as the Monthly Final Settlement Amounts, etc.) shall be
+further adjusted by the proceeds of any subsequent draws by the Secured Party
+upon any Letter of Credit and any subsequent setoffs, applications of
+Performance Assurance or other reductions allowed by the terms of this
+Agreement, as applicable. Subject to the dispute provisions set forth herein,
+the Final Settlement Amount, plus an amount equal to interest on the Final
+Settlement Amount at the Applicable Rate from (and including) the Early
+
+
+                                       11
+<PAGE>
+
+Termination Date to (but excluding) the date such amount is due pursuant to this
+subsection, shall be payable by wire transfer in immediately available funds by
+the Party from whom such payment is due on the third Business Day after notice
+of the statement of the Final Settlement Amount is provided to the Defaulting
+Party by the Non-defaulting Party; provided that if (i) the Final Settlement
+Amount is owed by the Non-Defaulting Party to the Defaulting Party and (ii) the
+Total Unpaid Amount is less than the Final Settlement Amount, the Non-Defaulting
+Party may pay (i) the Total Unpaid Amounts on the earlier of (A) the date such
+amounts would ordinarily have become due and payable in the ordinary course of
+business and (B) 55 days from the Early Termination Date, and (ii) the Monthly
+Final Settlement Amount to the Defaulting Party beginning on the last Business
+Day of the month the Final Settlement Amount would be due and continuing on each
+last Business Day of each month thereafter for the lesser of (a) thirty-five
+months and (b) the number of months remaining in the term of the Transaction
+with the latest expiration date; provided, however, that if the Non-defaulting
+Party shall fail to make any payment of the Total Unpaid Amounts or Monthly
+Final Settlement Amount when due, and such non-payment is not cured within three
+(3) Business Days after notice is provided to the Non-defaulting Party, then the
+Non-defaulting Party shall (i) immediately pay the entire remaining principal
+portion of the Final Settlement Amount which has not otherwise been satisfied
+via Monthly Final Settlement Amount payments or otherwise, plus (ii) interest
+accruing on the remaining principal portion of the Final Settlement Amount at
+the Default Rate from the original due date for such unpaid Monthly Final
+Settlement Amount until the date that the entire payment is actually received.
+The interest on such delinquent amount shall be in lieu of the interest
+otherwise accrued for the Monthly Final Settlement Amount for the same period of
+time. In the event the Non-Defaulting Party is prevented from applying or
+setting off any Performance Assurance or adequate assurance posted by the
+Defaulting Party or any draw by the Non-Defaulting Party upon a Letter of Credit
+posted by the Defaulting Party is not timely honored as provided in the Letter
+of Credit, the Defaulting Party shall nonetheless pay in full the Final
+Settlement Amount.
+
+         (c) Subject to Section 4(e), if all or any portion of the Final
+Settlement Amount is not paid when due, then the unpaid amount shall bear
+interest from the due date thereof until the final payment date at a rate per
+annum equal to the Default Rate, calculated on the basis of daily compounding
+and the actual number of days elapsed.
+
+         (d) In the event of a dispute as to the Final Settlement Amount payable
+by a Party, such Party shall, within the time prescribed herein, pay the
+undisputed amount of the Final Settlement Amount. In the event the
+non-calculating Party disputes the calculation of the Final Settlement Amount,
+such Party shall notify the other Party of such dispute within the time
+prescribed herein for payment of the Final Settlement Amount. If the Parties
+have not been able to resolve their dispute within 5 Business Days of receipt of
+notice of such dispute, such dispute relating to the calculation of the Final
+Settlement Amount shall be resolved by arbitration in accordance with the
+American Arbitration Association Commercial Arbitration rules by three
+arbitrators, of whom each Party shall designate one and shall mutually decide
+the other arbitrator. Each Party shall submit its detailed calculation of the
+Final Settlement Amount, and the tribunal shall select either the calculation of
+the Non-defaulting Party or the Defaulting Party as the Final Settlement Amount
+based upon the calculation that most reflects the intent of the Parties as
+expressed in this Agreement. To the extent reasonably practicable under the
+circumstances, the decision of the tribunal shall be rendered within ten (10)
+Business Days of submission of the
+
+
+
+                                       12
+<PAGE>
+
+calculations by the Parties and shall be final and binding on all Parties and
+shall be non-appealable. The arbitration shall be governed by the Federal
+Arbitration Act, 9 U.S.C. ss.ss. 1-16, and judgment upon the award or injunctive
+relief rendered by the arbitrator(s) may be entered by any court having
+jurisdiction thereof. The expenses of arbitration, including reasonable
+compensation to the arbitrators, shall be borne equally by the Parties hereto,
+except that each Party shall bear the compensation and expenses of its own
+counsel and employees. The place of arbitration shall be Chicago, Illinois.
+Judgment upon the award rendered by the arbitrators may be entered in any court
+having jurisdiction thereof. If a Party files a complaint in any court with
+respect to any matter subject to arbitration hereunder, except the enforcement
+of arbitration award, the defendant in such court action shall be entitled to
+recover its reasonable attorneys' fees in connection with the court action. Once
+the Final Settlement Amount is finally determined in accordance with this
+Agreement, and if the Secured Party/Defaulting Party under Paragraph 6(b)(i) of
+the Collateral Annex is owed the Final Settlement Amount, the Pledging
+Party/Non-defaulting Party shall elect how it intends to provide an amount
+equivalent to the undrawn portion of the posted Letter of Credit, if any, (up to
+the unpaid Final Settlement Amount) to the Secured Party/Defaulting Party. If
+(x) the Pledging Party/Non-defaulting Party elects to substitute Cash for the
+undrawn portion of the Letter of Credit (up to the unpaid Final Settlement
+Amount), and if it is so paid, the Defaulting Party/Secured Party shall return
+the Letter of Credit immediately to Pledging Party/Non-defaulting Party upon the
+receipt of the payment, or (y) the Pledging Party/Non-defaulting Party elects to
+allow the Secured Party/Defaulting to draw on the remaining portion of the
+Letter of Credit, the Secured Party/Defaulting Party may only draw on any Letter
+of Credit posted to it in an amount equal to the unpaid Final Settlement Amount
+which has been finally determined to be owed to it. Once the Performance
+Assurance tendered by the Pledging Party/Non-defaulting Party under the
+foregoing election is fully provided for under this section, the Non-defaulting
+Party shall recalculate the Final Settlement Amount, and shall make any and all
+other necessary adjustments under this Agreement to provide for the application
+of such Performance Assurance (e.g., the determination of the Monthly Final
+Settlement Amount option). If the Final Settlement Amount is finally determined
+in accordance with this Agreement and the Secured Party/Defaulting Party owes
+the Final Settlement Amount, it shall immediately return the Letter of Credit to
+the Pledging Party/Non-defaulting Party.
+
+         (e) Nothing in this Section 4 shall be construed to restrict or
+preclude the Party to whom the Final Settlement Amount is owed from realizing on
+Performance Assurance held by such Party at any time after notice of Default,
+notwithstanding (and without awaiting the outcome of) any dispute as to the
+Final Settlement Amount payable. Notwithstanding Section (b), if the
+Non-defaulting Party owes the Final Settlement Amount to the Defaulting Party,
+the Non-defaulting Party shall not be required to pay to the Defaulting Party
+the Final Settlement Amount, the Monthly Final Settlement Amount, or any potion
+of the Total Unpaid Amount, nor shall interest be owed on such amount, until (i)
+the Non-defaulting Party receives confirmation satisfactory to it in its
+reasonable discretion that all other obligations of any kind whatsoever of the
+Defaulting Party to make any payments to the Non-defaulting Party under this
+Agreement, any Underlying Master Agreement or Transaction, or otherwise, which
+are due and payable as of the Early Termination Date, have been paid (or netted,
+set off, recouped, recovered against, etc.) in full; and (ii) the Defaulting
+Party executes a release in a form satisfactory to the Non-defaulting Party that
+acts as the final resolution of the amounts due and owing as the Final
+Settlement Amount under the terms of this Agreement, the Underlying Master
+Agreement(s) or Transaction(s)(as applicable under the circumstances). To the
+extent that either Party believes
+
+
+
+                                       13
+<PAGE>
+
+that bankruptcy court approval of the release is required, the Non-defaulting
+Party may withhold payment under this subsection until such time as appropriate
+court approval has been obtained and is final and non-appealable.
+
+         (f) The Parties agree that if Gains or Losses are determined with
+respect to any terminated Transactions as set forth herein, the Final Settlement
+Amount is a reasonable pre-estimate of loss and not a penalty. Such amount is
+payable for the loss of bargain and the loss of protection against future risks
+and except as otherwise provided in this Agreement neither party will be
+entitled to recover any additional damages as a consequence of such losses.
+
+                  SECTION 5. OBLIGATIONS AND SETOFF.
+
+         (a) If the Defaulting Party would be owed the Final Settlement Amount,
+the Defaulting Party grants to the Non-defaulting Party the right to, from time
+to time and at any time, without prior notice, setoff any sum, amount, or
+obligation owed by the Defaulting Party to the Non-defaulting Party against any
+sums, amounts, or Obligations owed by the Non-defaulting Party or the Defaulting
+Party under this Agreement or any other agreements or contracts between the
+Non-defaulting Party.
+
+         (b) The foregoing is in addition to, and not in limitation of, any
+other right or remedy available to the Non-defaulting Party (including setoff)
+whether arising under this Agreement or applicable law, equity, or otherwise.
+
+         (c) For purposes of this Section 5, "owed" means, as of any date of
+determination, any amounts owed or otherwise accrued and/or payable (regardless
+of whether such amounts have been or could be invoiced) as of such date. If an
+obligation is unascertained or unliquidated at the time the Final Settlement
+Amount is determined, the Non-defaulting Party may in good faith estimate that
+obligation and setoff in respect of the estimate, subject to accounting to the
+Defaulting Party when the obligation is ascertained. The Non-defaulting Party
+setting off an amount pursuant to this Section 5 shall give notice of such
+setoff (i) at the time the Final Settlement Amount is determined and notice of
+the same is tendered in the case where the Non-defaulting Party is required to
+pay the Final Settlement Amount; or (ii) within a reasonable amount of time
+after the statement providing the details of the Final Settlement Amount is
+tendered by the Non-defaulting Party in the case where the Defaulting Party is
+required to pay the Final Settlement Amount, but in either event prior to the
+time that payment in respect of the Final Settlement Amount is finally due to
+the other Party.
+
+                  SECTION 6. CURRENCY.
+
+         For purposes of making any calculation of the Settlement Amount with
+respect to any terminated Transaction, the Non-defaulting Party shall calculate
+such amount in the currency specified for such Transaction in the applicable
+Underlying Master Agreement or Transaction. For purposes of calculating the
+Final Settlement Amount, the Non-defaulting Party shall convert all of the
+Settlement Amounts to the currency comprising the largest portion of the
+aggregate Settlement Amounts. All payments required to be made under this
+Settlement Agreement shall be made in the currency in which the Final Settlement
+Amount is stated. Currency conversions shall be made at the rate of exchange at
+which the Non-defaulting Party, acting in a reasonable
+
+
+
+                                       14
+<PAGE>
+
+manner and in good faith, would be able to purchase the relevant amount of the
+currency being converted on the date that the Final Settlement Amount or the
+Monthly Final Settlement Amount is due under Section 4(b).
+
+                  SECTION 7. COLLATERAL.
+
+         The provisions set forth in the Collateral Annex, which is incorporated
+herein in its entirety by reference, replace the separate exposure thresholds
+and determination and application of collateral requirements set forth in each
+Underlying Master Agreement or Transaction with the Exposure Thresholds and
+aggregate Collateral Requirements set forth in the Collateral Annex, which
+requirements and other provisions shall cover and apply to all Underlying Master
+Agreements and to all Transactions.
+
+                  SECTION 8. REPRESENTATIONS AND WARRANTIES.
+
+         On the Effective Date of this Agreement and on the date of entering
+into each Transaction thereafter, each Party represents and warrants to the
+other Party that: (i) it is duly authorized to execute and deliver this
+Agreement and to perform its obligations hereunder and has taken all necessary
+actions to authorize such execution, delivery, and performance, (ii) the person
+signing this Agreement on its behalf was duly authorized to do so on the date
+this Agreement was executed by such person, (iii) this Agreement, the Underlying
+Master Agreements, and the Transactions to which it is a party constitute its
+legal, valid, and binding obligations, enforceable against it in accordance with
+its terms, subject to applicable bankruptcy, reorganization, insolvency,
+conservatorship, receivership, moratorium, or other similar laws affecting
+creditors' rights generally and subject, as to enforceability, to equitable
+principles of general application (regardless of whether enforcement is sought
+in a proceeding in equity or at law), (iv) its execution and delivery of this
+Agreement does not contravene, or constitute a default under, any provision of
+applicable law or regulation (including any order, decree, judgment, injunction,
+or other judicial or governmental restriction applicable to such Party or any
+portion of its assets) or of the articles of incorporation or by-laws of such
+Party or of any material agreement, judgment, injunction, order, decree or other
+instrument binding upon such Party, or result in the creation or imposition of
+any lien on any asset of such Party, (v) the location of its incorporation or
+organization and the location of its chief executive office are the locations
+set forth under its signature line to this Agreement, (vi) to the best of its
+knowledge, the financial statements from time to time provided by its Guarantor
+to the other Party are prepared in accordance with generally accepted accounting
+principles ("GAAP") (except as expressly set forth therein) and fairly represent
+its financial condition as of the date of such statements, and (vii) it has
+good, legal, and marketable title to the collateral upon which a lien is granted
+pursuant to Paragraph 2 of the Collateral Annex, and upon appropriate filing in
+accordance with the Uniform Commercial Code, the other Party shall have a valid
+and perfected first priority security interest therein, free of any liens,
+claims, encumbrances, except those liens, claims, and encumbrances arising by
+operation of law that are given priority over a perfected security interest.
+
+
+
+                                       15
+<PAGE>
+
+                  SECTION 9. ADDITIONAL COVENANTS.
+
+         Each Party agrees to provide to the other Party its Guarantor's (i)
+annual audited financial statements prepared in accordance with GAAP, or (ii)
+quarterly unaudited consolidated financial statements prepared in accordance
+with GAAP (subject to normal year-end adjustments and the omission of
+footnotes), which fairly present such Guarantor's financial condition as of the
+date of such financial statements (but with no obligation to provide earlier
+than 120 days after the end of each fiscal year or 60 days after the end of each
+fiscal quarter); provided, however, in the event such entity is required to make
+its annual audited and quarterly unaudited financial statements available to the
+public, the requesting Party shall attempt to use public sources to review such
+information prior to making any written request.
+
+                  SECTION 10. INTERPRETATION AND INTENTIONS.
+
+         The Parties intend that this Agreement constitutes and should be deemed
+to be a "master netting agreement" and that the Parties are and should be deemed
+to be "master netting agreement participants" (or any substantially similar
+term) within the meaning of and as such terms are used in any law, rule,
+regulation, statute, or order applicable to the Parties' rights herein, whether
+now or hereafter enacted or made applicable. The Parties further intend that (i)
+the Underlying Master Agreements and each Transaction constitute "forward
+contracts", "commodities contracts" and/or "swap agreements" and that each Party
+thereto constitute "forward contract merchants", "commodities brokers" and/or
+"swap participants" within the meaning of and as such terms are used in any law,
+rule, regulation, statute, or order applicable to the Parties' rights herein,
+whether now or hereafter enacted or made applicable, including but not limited
+to the Code at 11 U.S.C. ss.ss. 101(26), 101(6) and 101(53C); and (ii) the Final
+Settlement Amount calculated under this Article, as well as all other netting
+and setoffs effectuated pursuant to this Agreement be governed by 11 U.S.C.
+Section 362(b)(6) and/or (17) in the event of a bankruptcy proceeding involving
+either Party. The Parties also agree that such setoffs, netting and liquidation
+contemplated hereunder arise under swap agreements, forward contracts, and/or
+commodity contracts and constitute "settlement payments" as set forth in
+Sections 101 and 741 of the Code. The Parties further agree that each payment or
+transfer of Performance Assurance under this Agreement is either a "margin
+payment", a "settlement payment" or a "transfer" within the meaning of Sections
+362, 546 and 556 of the Code and/or a "payment amount" within the meaning of
+Section 560 of the Code.
+
+                  SECTION 11. HEADINGS.
+
+         The use of headings and subheadings in this Agreement, and the division
+of this Agreement into sections and sub-sections, are for convenience of
+reference only and shall not affect the interpretation or construction of this
+Agreement.
+
+                  SECTION 12. GOVERNING LAW.
+
+         This Agreement shall be governed by, and construed in accordance with
+the laws of the State of New York (without reference to its choice of law
+doctrine other than Section 5-1401 of the New York General Obligations Law).
+
+
+
+                                       16
+<PAGE>
+
+                  SECTION 13. WAIVER OF IMMUNITIES.
+
+         With respect to any claim under or relating to this Agreement, any
+Underlying Master Agreement, and any Transaction, each Party hereby waives, to
+the fullest extent permitted by applicable law, with respect to itself and its
+revenues and assets (irrespective of their use or intended use), all immunity on
+the grounds of sovereignty or other similar grounds from (i) suit, (ii)
+jurisdiction of any court, (iii) relief by way of injunction, order for specific
+performance, or for recovery of property, (iv) attachment of its assets (whether
+before or after judgment), and (v) execution or enforcement of any judgment to
+which it or its revenues or assets might otherwise be entitled in any
+proceedings in the courts of any jurisdiction and irrevocably agrees, to the
+extent permitted by applicable law, that it will not claim any such immunity in
+any proceedings.
+
+                  SECTION 14. ASSIGNMENT AND AMENDMENT.
+
+         (a) Any purported assignment or other transfer that is not expressly
+permitted by this Agreement is void and unenforceable.
+
+         (b) This Agreement, the Underlying Master Agreements, and the
+Transactions, and any rights to amounts payable to a Party thereunder, shall not
+be assigned or otherwise transferred by either Party without the prior written
+consent of the other Party, which consent may not be unreasonably withheld,
+except (i) as collateral security or in connection with a monetization of such
+amounts payable, but only if the assignment or other transfer is made without
+relieving the assigning Party from liability thereunder and under this Agreement
+and, (ii) pursuant to a consolidation or amalgamation with, or merger with or
+into another Person, or transfer of all or substantially all of its assets to
+another Person; provided that, in either case, such transfer or assignment is
+expressly subject and subordinate to this Agreement, the security interest
+granted herein, and the rights of netting and setoff set forth herein.
+Notwithstanding the foregoing, any Party may assign or transfer this Agreement
+to an Affiliate, including, without limitation, whether by any consolidation or
+amalgamation with, merger with or into, or transfer of substantially all of its
+assets to such Affiliate, without the consent of the other Party provided that
+(i) the assignment or transfer is made without relieving the assigning Party
+from liability thereunder, and (ii) such assignment or transfer of this
+Agreement is expressly subject and subordinate to this Agreement. Provided
+further that any assignment or transfer that is not in compliance with this
+subsection shall be void and of no effect, but shall not otherwise preclude the
+affected Party from exercising its rights and remedies as a result of such
+action if the attempted transfer or assignment otherwise constitutes a Default
+under this Agreement. The assigning Party shall notify the other Party promptly
+of any assignment made in accordance with this Section.
+
+         (c) To the extent that any Party intends to make an assignment or
+transfer in accordance with this Section, the Parties will not be in breach of
+any confidentiality provisions under this Agreement to the extent that they
+enter into customary and appropriate non-disclosure agreements preserving the
+confidential nature of the documents with the respective party to whom such
+information shall be disclosed.
+
+         (d) Notwithstanding any of the foregoing, any Underlying Master
+Agreement, any Transaction or this Agreement may be freely transferred or
+assigned by the Non-defaulting Party
+
+
+
+                                       17
+<PAGE>
+
+at any time after an Early Termination Date has been declared under Section 4 of
+this Agreement; provided that such assignee or transferee (i) assumes all the
+Obligations of such Party under this Agreement, the Underlying Master Agreements
+and Transactions by operation of law or pursuant to a reasonable and customary
+agreement, unless such Obligations have already been satisfied; (ii) extends the
+benefits of any Performance Assurance or Guaranty to the payment by such
+resulting or surviving entity of its Obligations pursuant to reasonable and
+customary documentation; and (iii) has equal or greater creditworthiness
+compared to the creditworthiness of the Guarantor of such assigning/transferring
+Party immediately prior to such action.
+
+                  SECTION 15. NOTICES.
+
+         Any and all notices, statements, demands, or other communications under
+this Agreement shall be given by mail, facsimile transmission, electronic
+message system (for requests for Eligible Collateral/Performance Assurance
+only), or messenger, to the individuals and at the facsimile numbers or other
+locations set forth below. Any notice, statement, demand, or other communication
+under this Agreement to be given by a Party or in respect of the Performance
+Assurance may be given by the applicable Qualified Institution.
+
+Address for notices or communications to MCV:
+<TABLE>
+<S>                         <C>                                               <C>
+Address:                   Midland Cogeneration Venture                       Facsimile No.:  (989) 633-7857
+Street Address:            100 Progress Place                                 Telephone No.:  (989) 633-7850
+(for courier delivery)     Midland  MI  48640
+
+
+
+
+Address for notices or communications to EPME:
+
+Address:                   El Paso Merchant Energy, L.P.                      Facsimile No.:  (713) 420-3942
+Street Address:            1001 Louisiana                                     Telephone No.: (713) 420-3330
+(for courier delivery)     Houston, Texas 77070
+                           Attn: Director of Credit, Trading
+                           Attn: Manager, Contract Administrator
+
+
+With additional Notices of a Default or Potential Event of Default to:
+
+                           El Paso Merchant Energy, L.P.
+                           1001 Louisiana St.
+                           Houston, Texas 77070
+                           Attn:  Deputy General Counsel-Trading
+                                  Legal Department
+                           Fax: (713) 420-7025
+</TABLE>
+
+         Any notice or other communication in respect of this Agreement given in
+any manner herein permitted to the address or number or in accordance with the
+electronic messaging system
+
+
+
+                                       18
+<PAGE>
+
+details above provided will be deemed effective as follows: (i) if in writing
+and delivered in person or sent by courier, on the Business Day it is delivered
+if it is delivered by 5:00 p.m. at the place of delivery (and otherwise the
+following Business Day); (ii) if sent by facsimile transmission, on the date
+that transmission is sent to the facsimile number set forth for the Party to
+receive such notice (with confirmation of transmission received by the sender)
+if it is received by 5:00 p.m. at the place of delivery on a Business Day (and
+otherwise the following Business Day); (iii) if sent by certified or registered
+mail (airmail, if overseas) or the equivalent (return receipt requested), on the
+third Business Day following its deposit with the mail service for delivery;
+(iv) if sent by electronic messaging system, on the date that electronic message
+is received at the place of delivery; in each case unless the date of that
+delivery (or attempted delivery) or that receipt, as applicable, is not a
+Business Day, or that communication is delivered (or attempted) or received, as
+applicable, after the close of business of recipient on a Business Day, in which
+case that communication shall be deemed given and effective on the first
+following day that is a Business Day. Any Party may by notice to the others
+change the address, facsimile number, or electronic messaging system details at
+which notices or other communications are to be given.
+
+                  SECTION 16. CONFLICTS AND INCONSISTENCIES.
+
+         Except as expressly set forth herein, in the event of any conflict or
+inconsistency between any provision of this Agreement and any provision of any
+Underlying Master Agreement or any Transaction concerning the matters set forth
+in this Agreement, the provision of this Agreement shall govern and supercede
+the provision of the Underlying Master Agreement or any Transaction for purposes
+of this Agreement. Except as amended by this Agreement (or as otherwise amended
+from time to time by agreement between the Parties thereto), the Underlying
+Master Agreements and Transactions shall remain in full force and effect for so
+long as any Transaction, whether under any of the Underlying Master Agreements
+or not, is outstanding and in effect. It is the express intention of the Parties
+that the following provisions replace and supercede the terms and conditions of
+the Underlying Master Agreements or Transactions for purposes of this Agreement:
+
+                  (i) The definition of Credit Event in this Agreement shall
+supercede and replace any similar definitions in the Underlying Master
+Agreements or any Transaction, including but not limited to Downgrade Event
+under the EEI Agreement, and Material Adverse Change in the ISDA Agreement, in
+addition to any provision in the Underlying Master Agreements and/or
+Transactions that permits termination of such Underlying Master Agreement or any
+Transaction on the occurrence of any Credit Rating downgrade so that the only
+consequences of a Credit Event shall be the remedies set forth in this
+Agreement.
+
+                  (ii) The terms and conditions of this Agreement shall
+supercede and replace any provision in the Underlying Master Agreements or any
+Transactions that (i) establish the requirements for demanding Eligible
+Collateral/Performance Assurance (including demands for the return of
+Performance Assurance), (ii) tendering Eligible Collateral/Performance
+Assurance, (iii) the timing for satisfying the Collateral Requirements (i.e.
+margining), (iv) the calculation methodologies for determining the amount of the
+Eligible Collateral/Performance Assurance, and (v) disputing the amount of
+Eligible Collateral/Performance Assurance demands (e.g., Paragraphs 3, 4, 5 and
+6 of the Credit Support Annex to the ISDA Agreement and Sections 8.1(c)
+
+
+
+                                       19
+<PAGE>
+
+and (d) or 8.2 (c) or (d) of the EEI Agreement). The Parties acknowledge that
+the rights and remedies otherwise granted under Section 2(b) with respect to
+Additional Termination Rights shall also be subject to the terms and conditions
+of this subsection;
+
+                  (iii) The definition of Eligible Collateral/Performance
+Assurance provided in this Agreement shall supercede and replace any similar
+definitions of acceptable collateral in the Underlying Master Agreements or any
+Transactions, such as the definitions of Performance Assurance in the EEI
+Agreement and Eligible Collateral and Other Eligible Support and other similar
+derivations under the ISDA Agreement;
+
+                  (iv) The Exposure Threshold set forth in this Agreement shall
+supercede and replace the separate exposure thresholds (i.e., the Threshold
+under the ISDA Agreement and the Collateral Threshold under the EEI Agreement)
+provided for under the Underlying Master Agreements or any Transactions;
+
+                  (v) The provisions of any Underlying Master Agreement or any
+Transaction relating to the administration and application of any Performance
+Assurance shall be, and hereby are, superceded and replaced in their entirety by
+the provisions of this Agreement;
+
+                  (vi) The provisions of Section 14 shall supercede and replace
+in their entirety all provisions of the Underlying Master Agreements and/or
+Transactions relating to the assignment of any Transaction thereunder;
+
+                  (vii) The provisions of Section 19 shall supercede and replace
+in their entirety all provisions of the Underlying Master Agreements and/or
+Transactions relating to the amendment of any Transaction thereunder;
+
+                  (viii) The provisions of Section 15 shall supercede and
+replace in their entirety all provisions of the Underlying Master Agreements
+and/or Transactions relating to notices and the delivery of notices thereunder
+and the effectiveness thereof, other than notice provisions relating to the
+logistics of the scheduling of, and other similar matters relating to, the
+physical delivery of commodities and with respect to monthly invoices and
+payments applicable to the Underlying Master Agreements;
+
+                  (ix) The provisions of Section 17 shall supercede and replace
+in their entirety all provisions of the Underlying Master Agreements and/or
+Transactions relating to confidentiality provisions;
+
+                  (x) The rights and remedies of a Non-Defaulting Party which
+relate to the termination of Transactions shall supercede the rights and
+remedies of such Party under the Underlying Master Agreement or Transactions,
+save and except that any right of any Party preserved under Section 2(e) or by
+virtue of the Additional Termination Rights shall remain in full force and
+effect;
+
+                  (xi) The provisions of Section 21 shall supercede and replace
+in their entirety all provisions of the Underlying Master Agreements and/or
+Transactions relating to the jurisdiction and venue of any suits, actions or
+proceedings arising out of or relating to this Agreement, the Underlying Master
+Agreements, and the Transactions; and
+
+
+
+                                       20
+<PAGE>
+
+                  (xii) The representations and warranties made in Section 8
+shall supercede and replace in their entirety all provisions of the
+representations set forth in the Underlying Master Agreements and/or
+Transactions save and except for any tax representations.
+
+                  SECTION 17. CONFIDENTIALITY.
+
+         The contents of this Agreement, the Underlying Master Agreements and
+all Transactions, all other documents relating thereto and any information
+pertaining thereto made available by one Party or its Guarantor to the other
+Party or its Guarantor is confidential and shall not be disclosed to any third
+party (nor shall any public announcement relating to this Agreement be made by
+any Party), except for such information (a) as may become generally available to
+the public, (b) as may be required or appropriate in response to any summons,
+subpoena, or otherwise in connection with any litigation or to comply with any
+applicable law, order, regulation, ruling, or accounting disclosure rule or
+standard, (c) as may be obtained from a non-confidential source that disclosed
+such information in a manner that did not violate its obligations to the
+non-disclosing Party or its Guarantor in making such disclosure, or (d) as may
+be furnished to the disclosing Party 's Affiliates, and to each of such person's
+auditors, attorneys, advisors, lenders, or prospective purchasers which are
+required to keep the information that is disclosed in confidence; or that is
+protected as set forth Section 14.
+
+
+                  SECTION 18. CONTINUATION OF MASTER AGREEMENTS; SEVERABILITY.
+
+         (a) Each Party agrees that the Underlying Master Agreements and
+Transactions are hereby amended to the extent necessary to give effect to this
+Agreement. Except as amended by this Agreement (or as otherwise specifically
+amended from time to time by agreement between the Parties), the Underlying
+Master Agreements and Transactions shall remain in full force and effect.
+
+         (b) In the event any one or more of the provisions contained in this
+Agreement should be held invalid, illegal, or unenforceable in any respect under
+the law of any applicable jurisdiction, the validity, legality, and
+enforceability of the remaining provisions under the law of such jurisdiction,
+and the validity, legality, and enforceability of such provisions and any other
+provisions under the law of any other jurisdiction, shall not in any way be
+affected or impaired thereby; provided, further that to the extent that any
+provision under an Underlying Master Agreement and/or Transaction is replaced
+and superceded by a provision in this Agreement that is subsequently held to be
+invalid, illegal or unenforceable, the original provision under the Underlying
+Master Agreement and/or Transaction shall be revived and saved as though such
+provision had never been replaced and superceded and shall be construed to the
+greatest extent possible as being consistent with the other terms and provisions
+of this Agreement. Further, if the netting of Exposures and Settlement Amounts
+(if applicable) contemplated herein for terminated physical and financial
+Transactions is in any material way deemed or held to be invalid, illegal, or
+unenforceable, all other provisions of this Agreement shall survive, except that
+(i) the Collateral Requirements expressed herein shall be applied to each of the
+Underlying Master Agreements and/or Transactions so that the Exposures under
+each Underlying Master Agreement and/or Transaction are separately determined
+according to their original terms (if an Underlying Master Agreement or
+Transaction has no stated exposure threshold, the exposure
+
+
+
+                                       21
+<PAGE>
+
+threshold for such Underlying Master Agreement shall be zero and the Collateral
+Requirements shall be based on such deemed exposure threshold) and (ii) the
+Performance Assurance and Guaranties held by Secured Party shall be continue to
+collateralize all Obligations under the respective Underlying Master Agreements
+and Transactions and the Performance Assurance shall be allocated to each of the
+Underlying Master Agreements and/or Transactions to secure obligations
+thereunder as reasonably determined by the Secured Party. The Secured Party
+shall be able to exercise its rights and remedies with respect to such
+Performance Assurance against obligations owed under the respective Underlying
+Master Agreement and/or Transactions in accordance with such Underlying Master
+Agreements and/or Transactions and this Agreement. To the extent that
+insufficient Performance Assurance is then possessed by either Party to secure
+the Obligations, the Parties shall take immediate actions to supply the required
+Collateral by no later than the timeframes otherwise provided in this Agreement,
+or if such provisions are voided, by the lesser of (i) the timeframes set forth
+in the Underlying Master Agreements and/or Transactions, or (ii) two (2)
+Business Days. To the extent the entire Agreement is determined to be
+unenforceable or illegal, the terms and conditions of Sections 3(b), (c), (d),
+4-6, 10,12-15, 17, 19-21, 24-25, of this Agreement and Paragraphs 2- 8 and 9(b)
+and (c) of the Collateral Annex shall be added to the Underlying Master
+Agreements and Transactions to the extent that corresponding terms and
+provisions are not otherwise included therein.
+
+                  SECTION 19. AMENDMENT.
+
+         Notwithstanding any provision in any Underlying Master Agreement or a
+Transaction to the contrary, neither this Agreement, nor any Underlying Master
+Agreement or Transaction, may be amended with respect to any term or provision
+otherwise provided for in this Agreement except by a written amendment to this
+Agreement signed by each Party. Confirmations of Transactions under any
+Underlying Master Agreement or Transactions that do not otherwise address the
+subject matter of this Agreement shall not serve as an amendment to this
+Agreement (and thus such amendments are not subject to the requirements of this
+Section 19).
+
+                  SECTION 20. NO WAIVER.
+
+         A failure or delay in exercising any right, power, or privilege in
+respect of the Underlying Master Agreements, Transactions or this Agreement will
+not be presumed to operate as a waiver of that right, power, or privilege, and a
+single or partial exercise of any right, power, or privilege will not be
+presumed to preclude any subsequent or further exercise of that right, power, or
+privilege, or the exercise of any other right, power, or privilege.
+
+                  SECTION 21. JURISDICTION AND VENUE.
+
+         NOTWITHSTANDING ANY PROVISIONS IN ANY OF THE UNDERLYING MASTER
+AGREEMENTS, WITH RESPECT TO ANY SUIT, ACTIONS OR PROCEEDINGS ARISING OUT OF OR
+RELATING TO THIS AGREEMENT, THE UNDERLYING MASTER AGREEMENTS, AND THE
+TRANSACTIONS, OR IN ANY WAY RELATING TO THE SUBJECT MATTER OF THIS AGREEMENT,
+INCLUDING, WITHOUT LIMITATION, INSOFAR AS SAME RELATES TO ANY UNDERLYING MASTER
+AGREEMENT OR ANY TRANSACTION, INVOLVING THE PARTIES AND/OR THEIR RESPECTIVE
+REPRESENTATIVES BUT EXCLUDING
+
+
+
+                                       22
+<PAGE>
+
+THE RESOLUTION OF A DISPUTE CONCERNING THE CALCULATION OF THE FINAL SETTLEMENT
+AMOUNT OR COLLATERAL REQUIREMENTS, WHICH SHALL BE RESOLVED IN ACCORDANCE WITH
+SECTION 4(d) OF THIS AGREEMENT OR PARAGRAPH 8 OF THE COLLATERAL ANNEX, EACH
+PARTY AGREES TO SUBMIT TO THE NON-EXCLUSIVE JURISDICTION OF THE STATE AND
+FEDERAL DISTRICT COURTS LOCATED IN THE BOUROUGH OF MANHATTAN, NEW YORK, NEW
+YORK, AND WAIVES ANY OBJECTION TO THE LAYING OF VENUE IN SUCH JURISDICTION. EACH
+PARTY FURTHER WAIVES ANY RIGHT TO TRIAL BY JURY WITH RESPECT TO ANY SUCH SUIT,
+ACTION, OR PROCEEDING.
+
+                  SECTION 22. TERM.
+
+         This Agreement shall continue in effect from its Effective Date until
+all Obligations of either Party with respect to any and all outstanding
+Transactions until such time as all outstanding Transactions, whether under any
+or all of the Underlying Master Agreements or otherwise have been satisfied in
+full. Notwithstanding the foregoing, the Parties may agree in writing to
+terminate this Agreement upon such terms and conditions as they may mutually
+agree.
+
+                  SECTION 23. EXPENSES.
+
+         The Defaulting Party will, on demand, indemnify and hold harmless the
+Non-defaulting Party for and against all reasonable out-of-pocket expenses,
+including reasonable legal fees and expenses, consulting fees, court costs, and
+taxes, incurred by the Non-defaulting Party by reason of its enforcement,
+pursuit, and protection of its rights under this Agreement, the Underlying
+Master Agreements, the Transactions, and/or the Guarantees including, without
+limitation, costs of collection.
+
+                  SECTION 24. ADEQUATE ASSURANCE OF PERFORMANCE.
+
+         Each Party agrees that the provisions of this Agreement supercede and
+replace in their entirety, and are intended to be in lieu of any rights and/or
+remedies available at law or in equity relating to adequate assurances of future
+performance or creditworthiness, including without limitation Article 2-609 (as
+codified as of the Effective Date) of the Uniform Commercial Code, in addition
+to any other provision in the Underlying Master Agreements or Transactions that
+otherwise would have afforded such rights and remedies. Accordingly, each Party
+expressly waives any right or ability to assert any such rights, remedies or
+arguments.
+
+                  SECTION 25. SOLE REMEDY; WAIVER OF DAMAGES.
+
+         Each Party agrees that the express provisions of this Agreement shall
+be the sole and exclusive remedy for any Default under this Agreement.
+NOTWITHSTANDING ANYTHING TO THE CONTRARY IN THIS AGREEMENT, ANY UNDERLYING
+MASTER AGREEMENT, OR ANY TRANSACTION, NO PARTY SHALL BE LIABLE OR HAVE ANY
+RESPONSIBILITY TO THE OTHER OR TO THEIR RESPECTIVE AFFILIATES FOR ANY INDIRECT,
+SPECIAL, EXEMPLARY, INCIDENTAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES INCLUDING,
+WITHOUT LIMITATION, LOST EARNINGS OR PROFITS.
+
+
+
+                                       23
+<PAGE>
+
+                  SECTION 26. REPLACEMENT OF PERFORMANCE ASSURANCE/GUARANTIES.
+
+         Each Party agrees that it will immediately cause any and all
+Performance Assurance previously posted for the benefit of the other Party to be
+re-issued or posted as necessary to insure that the Performance Assurance covers
+any and all rights and remedies granted to the other Party for the Underlying
+Master Agreements and Transactions under this Agreement. Until such time as the
+Performance Assurance is re-issued or posted in accordance with the foregoing
+sentence, no value will be attributed to such Performance Assurance for any
+purpose irrespective of any other terms and/or condition of this Agreement.
+Additionally, each Party agrees that any and all outstanding Guaranties that
+were in place to provide credit support for such Party for any Transactions
+under the Underlying Master Agreements or otherwise prior to the Effective Date
+of this Agreement, shall be terminated and simultaneously replaced with a new
+Guaranty issued for the benefit of such Party by the other Party effective as of
+the Effective Date in an amount equivalent to the Exposure Threshold for such
+Party on the Effective Date. Until such time as the new Guaranty is Transferred
+in accordance with the prior sentence, the Parties agree that they use all
+reasonable efforts to cause their respective Guarantors to maintain the
+previously issued Guaranties for their full amounts. To the extent that such
+Guaranties are not maintained, the Exposure Threshold for such Party failing to
+have a Guaranty in place shall be zero until such Guaranties are otherwise
+Transferred. Further, to the extent that the Exposure Threshold increases in the
+future, the new Guaranty shall be amended and Transferred in an amount
+equivalent to the new Exposure Threshold for such Party no later than three (3)
+Business Days after the Exposure Threshold is increased.
+
+                  SECTION 27. EXCULPATION CLAUSE
+
+         Notwithstanding anything to the contrary contained in this Agreement,
+the liabilities and obligations of the parties arising out of, or in connection
+with, this Agreement shall not be enforced by any action or proceeding wherein
+damages or any money judgment or specific performance of any covenant in any
+this Agreement and whether based upon contract, warranty, negligence, indemnity,
+strict liability or otherwise, shall be sought against the assets of the
+partners of the Parties. By entering into this Agreement, the Parties waive any
+and all right to sue for, seek or demand any judgment against such respective
+partners and their respective affiliates, other than any Guarantors, as the case
+may be, by reason of the nonperformance by EPME or MCV, as the case may be, of
+their respective Obligations under this Agreement, except to the extent such
+partners are legally required to be named in any action to be brought against
+EPME or MCV, as the case may be.
+
+                  SECTION 28. MONTHLY PAYMENT NETTING.
+
+         Notwithstanding anything to the contrary in any Underlying Master
+Agreement or Transaction, in respect of all Transactions under any such
+Underlying Master Agreement and/or all Transactions with respect to the same
+type of product, the Parties agree that if on any date amounts, including,
+without limitation, payment Obligations, debts, related damages, interest or
+credits, are due and payable in the same currency, and in respect of the same
+Underlying Master Agreement and/or Transaction with respect to the same type of
+product by each Party to the other, then, on such date, each Party's Obligation
+to make payment of any such amounts will be automatically satisfied and
+discharged by netting the aggregate amount payable by one Party
+
+
+
+                                       24
+<PAGE>
+
+against the aggregate amount payable by the other Party and replacing those
+payment obligations with a single payment obligation of the Party owing the
+larger such aggregate amount to pay the net difference between such aggregate
+amounts to the other Party on the applicable payment date by wire transfer of
+immediately available funds. The Parties shall cooperate to calculate the
+aggregate mutual amounts due and payable to or from each Party by examining the
+payments due on each applicable payment date and determining which Party is the
+net payer and which is the net receiver. The terms and conditions of this
+Section shall supercede and replace that certain Net-Out Agreement dated
+February 1, 1998 by and between the Parties.
+
+         IN WITNESS WHEREOF, the Parties hereto have caused this Agreement to be
+executed by facsimile or original signature and in multiple counterparts, each
+of which is deemed an original and effective as one document, all as of the date
+first written above.
+
+"MCV"
+
+
+MIDLAND COGENERATION VENTURE LIMITED PARTNERSHIP
+
+
+BY: LeRoy W. Smith
+    ----------------------------------------------------------
+PRINTED NAME:  LeRoy W. Smith
+TITLE:  Vice President Energy Supply and Marketing
+
+Location of State of incorporation or organization:  Michigan
+Location of chief executive office:  Michigan
+
+
+
+"EPME"
+
+
+EL PASO MERCHANT ENERGY, L.P.
+
+
+BY:  Amy L. Allison
+     ---------------------------------------------------------
+PRINTED NAME:  Amy L. Allison
+               -----------------------------------------------
+TITLE:  Vice President, Managing Director & Controller
+        ------------------------------------------------------
+
+Location of State of incorporation or organization:  Delaware
+Location of chief executive office:  Texas
+
+
+
+
+
+                                       25
+<PAGE>
+                                   SCHEDULE A
+
+                          UNDERLYING MASTER AGREEMENTS
+
+
+
+Natural Gas Purchase Agreement dated 9/1/90
+
+Gas Sales Agreement dated 8/18/94
+
+Gas Sales Agreement dated 11/15/98
+
+Gas Sales Agreement dated 9/20/99
+
+Long Term Gas Agreement dated 10/10/00
+
+Long Term Gas Agreement dated 9/1/00
+
+Long Term Gas Agreement dated 10/5/01
+
+GISB Contract for Short Term Sale and Purchase of Natural Gas dated 3/1/97
+
+Including any and all amendments to any of the foregoing.
+
+
+
+
+
+
+
+
+                                       26
+<PAGE>
+                                                                   EXHIBIT 10.55
+                                     ANNEX A
+
+                                COLLATERAL ANNEX
+                TO MASTER NETTING, SETOFF, AND SECURITY AGREEMENT
+
+
+         This Annex A Collateral Annex to Master Netting, Setoff, and Security
+Agreement (this "Collateral Annex"), supplements, forms a part of, and is
+subject to, the Master Netting, Setoff, and Security Agreement, dated December
+2, 2002 (collectively the "Agreement"), among MCV and EPME. Capitalized terms
+used in this Collateral Annex but not defined herein shall have the meanings
+given such terms in the Agreement.
+
+PARAGRAPH 1. DEFINITIONS.
+
+         For purposes of this Collateral Annex, the following terms have the
+respective definitions set forth below. References to Paragraphs are to this
+Collateral Annex unless otherwise expressly stated.
+
+         "Aggregate Exposure" means, on any Calculation Date, the aggregate
+Exposure of a Party determined in accordance with Paragraph 3 of this Collateral
+Annex.
+
+         "Average Credit Rating Value" or "ACRV" means with respect to:
+
+         (a) MCV:
+
+         The average of the Numerical Values applicable to the Credit Ratings
+published (if any) for Midland Funding Corp. II as determined in accordance with
+the Credit Rating and Threshold Matrix, provided that if the Midland Funding
+Corp. II has ceased to be rated by S&P and Moody's on the Calculation Date, then
+the average of the Numerical Values applicable to the Credit Ratings for the
+Economic Development Corporation of the County of Midland Subordinated Pollution
+Control Limited Obligation Revenue Refunding Bonds (Midland Cogeneration
+Project) Series 2000 A as determined in accordance with the Credit Rating and
+Threshold Matrix. In determining the Average Credit Rating Value of MCV, the
+average of the Numerical Values shall be rounded as follows: if the first
+decimal number is five (5) or below, the ACRV shall be rounded to the next lower
+integer, and if the first decimal number is six (6) or above, the ACRV shall be
+rounded up to the next highest integer.
+
+         (b) EPME:
+
+         The average of the Numerical Values applicable to the Credit Ratings
+published (if any) for El Paso Corporation by either S&P and/or Moody's, as
+determined in accordance with the Credit Rating and Threshold Matrix. In
+determining the Average Credit Rating Value of EPME, the average of the
+Numerical Values shall be rounded as follows: if the first decimal number is
+five (5) or below, the ACRV shall be rounded to the next lower integer, and if
+the first decimal number is six (6) or above, the ACRV shall be rounded up to
+the next highest integer.
+
+         "Calculation Date" means any Business Day on which the Calculating
+Party chooses or is requested by the other Party to make the determinations
+referred to in Paragraphs 3, 4, 5 or 8 of this Collateral Annex.
+
+         "Calculating Party" shall mean EPME, unless EPME is the Defaulting
+Party in which case MCV shall be the Calculating Party.
+
+
+<PAGE>
+
+         "Cash" means U.S. dollars which may be held by or on behalf of the
+Secured Party as Performance Assurance hereunder.
+
+         "Collateral Account" shall have the meaning attributed to it in
+Paragraph 6(a)(ii).
+
+         "Collateral Requirement" shall have the meaning attributed to it in
+Paragraph 3(b), and for purposes of the Collateral Requirement, the Calculating
+Party shall determine the resulting Exposure from the Settlement Amount as
+though all Transactions are terminated and the Calculating Party is the
+Non-Defaulting Party.
+
+         "Credit Event" means, with respect to any Party, a Default or Potential
+Event of Default has occurred with respect to such Party.
+
+         "Credit Rating" means with respect to any Person, on any date of
+determination, the respective ratings then assigned to such Person's senior
+unsecured long-term debt by S&P and/or Moody's, as applicable, and in the case
+of MCV, the Credit Ratings for the specific debt issuances referenced under
+ACRV; and if no rating is assigned to such Person's senior unsecured long-term
+debt by either S&P or Moody's, the long-term issuer rating, as applicable,
+assigned by such rating agencies to such Person, or in the case of MCV, if no
+ratings are assigned to the specific debt issuances referenced under the ACRV
+for MCV, MCV may cause Moody's and/or S&P to issue a "shadow rating" for MCV's
+senior unsecured long-term indebtedness as though such indebtedness were
+outstanding, and until such ratings are issued, the Credit Ratings shall be
+deemed to be B- and B3 respectively.
+
+         "Credit Rating and Threshold Matrix" means the following:
+
+<TABLE>
+<CAPTION>
+                                                                       Exposure Threshold
+                                                                       ------------------
+Credit Rating Agency:       S&P    Moody's       Numerical                  US$ (MM)
+                            ---    -------       ----------                 --------
+                                                Values/ACRV
+                                                -----------
+<S>                       <C>      <C>          <C>                    <C>
+Credit Rating:              AAA      Aaa             1                         40
+                            AA+      Aa1             2                         40
+                            AA       Aa2             3                         40
+                            AA-      Aa3             4                         40
+                            A+        A1             5                         40
+                             A        A2             6                         40
+                            A-        A3             7                         40
+                           BBB+      Baa1            8                         40
+                            BBB      Baa2            9                         40
+                           BBB-      Baa3            10                        40
+  Non-Investment Grade      BB+      Ba1             11                        20
+  Non-Investment Grade      BB       Ba2             12                        20
+  Non-Investment Grade      BB-      Ba3             13                        20
+  Non-Investment Grade      B+        B1             14                         0
+  Non-Investment Grade       B        B2             15                         0
+  Non-Investment Grade      B-        B3             16                         0
+</TABLE>
+
+
+If either S&P or Moody's withdraws a Credit Rating published with respect to a
+Person (without substitution of a new Credit Rating), 16 shall be used as the
+Numerical Value from such rating agency for purposes of calculating the Average
+Credit Rating Value for such Person.
+
+
+         "Dominion" means Dominion Bond Rating Service Limited or its
+successor-in-interest.
+
+
+
+                                     - 2 -
+<PAGE>
+
+         "Exposure" means, on any Calculation Date, with respect to a Party, the
+sum, whether a positive or negative number, of the Settlement Amount for each
+Transaction, that would be calculated pursuant to this Agreement as if such date
+were the Early Termination Date. Provided further, that for purposes of
+determining the Exposure from the Settlement Amount(s), Costs shall be excluded
+from the calculation, and provided further that for purposes of determining the
+Collateral Requirement, the calculation of Gains/Losses utilized in the
+determination of the Settlement Amount(s) and ultimately the Exposure, shall be
+determined by using the mid-point between the bid price and the ask price for
+the Transaction.
+
+         "Exposure Threshold" means:
+
+         (a) with respect to MCV, the Exposure Threshold shall be the amount set
+         forth in the Credit Rating and Threshold Matrix as set forth in the
+         Collateral Annex commensurate to the ACRV for MCV; and
+
+         (b) with respect to EPME; the Exposure Threshold shall be the amount
+         set forth in the Credit Rating and Threshold Matrix as set forth in the
+         Collateral Annex commensurate to the ACRV for EPME.
+
+         provided, the Exposure Threshold for a Party shall be zero (US$0.00)
+upon the occurrence and during the continuance of a Credit Event (as defined in
+the Collateral Annex) by or in respect of that Party; and further provided that
+upon the cure or other removal of such Credit Event, the Exposure Threshold for
+such Party shall be calculated as set forth in (a) or (b) above, as applicable.
+
+         "Federal Funds Effective Rate" means the rate for that day opposite the
+caption "Federal Funds (Effective)" as set forth in the weekly statistical
+release designated as H.15(519), or any successor publication, published by the
+Board of Governors of the Federal Reserve System.
+
+         "Letter of Credit" means an irrevocable, transferable, standby letter
+of credit, issued by a major U.S. commercial bank or the U.S. branch office of a
+foreign bank, in either case, with a Credit Rating of at least (a) "A+" by S&P
+and "A1" by Moody's, if such entity is rated by both S&P and Moody's or (b) "
+A+" by S&P or " A1" by Moody's, if such entity is rated by either S&P or Moody's
+but not both, substantially in the form set forth in Schedule 1 attached hereto,
+with such changes to the terms in that form as the issuing bank may require and
+as may be acceptable to the beneficiary thereof.
+
+         "Letter of Credit Default" means with respect to an outstanding Letter
+of Credit, the occurrence of any of the following events: (a) the issuer of such
+Letter of Credit shall fail to maintain a Credit Rating of at least (i) " A+" by
+S&P or "A1" by Moody's, if such issuer is rated by both S&P and Moody's, (ii) "
+A+" by S&P, if such issuer is rated only by S&P, or (iii) "A1" by Moody's, if
+such issuer is rated only by Moody's; (b) the issuer of the Letter of Credit
+shall fail to comply with or perform its obligations under such Letter of
+Credit; (c) the issuer of such Letter of Credit shall disaffirm, disclaim,
+repudiate or reject, in whole or in part, or challenge the validity of, such
+Letter of Credit; (d) such Letter of Credit shall expire or terminate, or shall
+fail or cease to be in full force and effect at any time during the term of the
+Agreement, in any such case without replacement; or (e) the Bankruptcy of the
+issuer of such Letter of Credit; provided, no Letter of Credit Default shall
+occur in any event with respect to a Letter of Credit after the time such Letter
+of Credit is required to be canceled or returned to a Party or the issuer
+thereof in accordance with the terms of this Collateral Annex.
+
+         "Minimum Transfer Amount" means, with respect to MCV, US$25,000.00
+(Twenty-Five Thousand U.S. Dollars), and with respect to EPME, US$25,000.00
+(Twenty-Five Thousand U.S. Dollars).
+
+         "Moody's means Moody's Investors Service, Inc. or its
+successor-in-interest.
+
+         "Net Exposure" shall have the meaning attributed to it in Paragraph
+3(a).
+
+
+
+                                     - 3 -
+<PAGE>
+
+         "Notification Time" means 12:00 p.m. Central Clock Time on any Business
+Day.
+
+         "Performance Assurance" means all Eligible Collateral (and all proceeds
+thereof) that has been Transferred to or received by a Party hereunder to secure
+payment or performance of any of the other Party's Obligations and not
+subsequently been returned to the other Party in accordance with the Agreement.
+Any interest or other amount earned on account of Cash received and held by a
+Party as Performance Assurance and any Cash received and held by a Party after
+drawing on any Letter of Credit will constitute Performance Assurance in the
+form of Cash. Any guaranty agreement executed by a Guarantor of a Party shall
+not constitute Performance Assurance under this Agreement.
+
+         "Pledging Party" shall mean either Party, when such Party has an
+obligation to Transfer Eligible Collateral to the other Party and/or has
+provided Performance Assurance under the terms of this Collateral Annex.
+
+         "Qualified Institution" means a commercial bank or trust company
+organized under the laws of the United States or Canada or a political
+subdivision thereof, with a Credit Rating of at least (a) "A+" by S&P, "A1" by
+Moody's, and "A High" by Dominion if such entity is rated by all of S&P, Moody's
+and Dominion or (b) "A+" by S&P, "A1" by Moody's or "A High", if such entity is
+rated by less than all of S&P, Moody's or Dominion, and having equity of at
+least US$1,000,000,000.
+
+         "Reference Market-Maker" means a leading dealer in the relevant market
+selected by a Party determining its Exposure in good faith from among dealers of
+the highest credit standing which satisfy all the criteria that such Party
+applies generally at the time in deciding whether to offer or to make an
+extension of credit.
+
+         "Rounding Amount" means, with respect to MCV, US$250,000.00 (Two
+Hundred Fifty Thousand U.S. Dollars) and each multiple thereof, and with respect
+to EPME Party, US$250,000.00 (Two Hundred Fifty Thousand U.S. Dollars) and each
+multiple thereof.
+
+         "S&P" means the Standard & Poor's Rating Group (a division of
+McGraw-Hill, Inc.) or its successor-in-interest.
+
+         "Secured Party" shall mean either Party, when the Party is entitled to
+make a demand for Eligible Collateral and/or hold any Performance Assurance
+under this Agreement.
+
+         "Transfer" or "Transferred" means (a) in the case of Cash (including
+any interest or other amount earned thereon), payment or delivery by wire
+transfer of immediately available funds into one or more bank accounts specified
+by the receiving Party; (b) in the case of Letters of Credit, delivery of the
+Letter of Credit or an amendment thereto to the receiving Party; (c) in the case
+of any other type of Eligible Collateral/Performance Assurance, as agreed to in
+writing by the Parties; and (d) in the case of a Guaranty, delivery of the
+Guaranty thereto to the receiving Party.
+
+         "Valuation Percentage" means, with respect to (i) Cash, 100%, and (ii)
+with respect to Letters of Credit, 100% of the stated amount (or the undrawn
+portion as applicable) that may be unconditionally withdrawn in accordance with
+its terms, unless either (a) a Letter of Credit Default with respect to such
+Letter of Credit shall have occurred and be continuing after the applicable
+grace period therefore set forth in Paragraph 6(b)(iii), or (b) 20 or fewer
+Business Days remain prior to the expiration of such Letter of Credit, in either
+of which case the Valuation Percentage with respect to such Letter of Credit
+shall be zero (0).
+
+
+
+                                     - 4 -
+<PAGE>
+
+         "Value" means with respect to Eligible Collateral/Performance
+Assurance, the stated amount of the Eligible Collateral/Performance Assurance as
+adjusted by the Valuation Percentage of such Eligible Collateral/Performance
+Assurance.
+
+     PARAGRAPH 2. GRANT OF SECURITY INTEREST.
+
+         (a) As security for the prompt and complete payment and performance of
+     all Obligations of each Party, such Party (the "Pledgor") pledges, assigns,
+     conveys, and transfers to other Party (the "Pledgee"), and hereby grants to
+     Pledgee a present and continuing first priority security interest in and
+     to, and a general first lien upon and right of setoff against, (i) all of
+     Pledgor's right, title and interest in, to and under any Performance
+     Assurance which has been or may in the future be Transferred to, or
+     received by, Pledgee, (ii) all right, title, and interest that the Pledgor
+     has in any Obligations of Pledgee to Pledgor, together with all accounts,
+     general intangibles, and payment intangibles in respect of payments owed
+     with respect to such Obligations, and (iii) all dividends, interest, and
+     other proceeds from time to time received, receivable, or otherwise
+     distributed in respect of, or in exchange for, any or all of the foregoing.
+     To the extent that all or any portion of the grant set forth in this
+     Paragraph 2(a) has previously been made by Pledgor to Pledgee, such grant
+     shall continue in effect from the date when originally made, and shall be
+     deemed amended, renewed, and restated by the above to include the full
+     grant made therein.
+
+         (b) Pledgor agrees to take such action as Pledgee reasonably requests
+     in order to perfect Pledgee's continuing security interest in, lien on, and
+     right of setoff against such Performance Assurance and Obligations of
+     Pledgor to Pledgee and grants authority to Pledgee to file financing
+     statements or take such other actions necessary to perfect the foregoing
+     interests. Pledgor hereby authorizes Pledgee to sign and file one or more
+     financing statements without the signature of Pledgor in accordance with
+     Section 9-509 of the Uniform Commercial Code. In addition to the foregoing,
+     Pledgee shall have all of the rights and remedies of a secured party under
+     the Uniform Commercial Code.
+
+         (c) Pledgor hereby represents and warrants to and agrees with Pledgee
+     that, with respect to any Obligations of Pledgee to Pledgor, save and
+     except any Obligations of Pledgee to Pledgor arising prior to the Effective
+     Date:
+
+                  (i) Pledgor has and will retain good title to and sole
+         ownership of such Obligations, free and clear of any liens, security
+         interests, assignments, claims, or other encumbrances other than those
+         in favor of Pledgee (and without limiting the foregoing, Pledgor shall
+         not sell or assign or grant any security interest with respect to such
+         Obligations under any securitization program or otherwise);
+
+                  (ii) Pledgee has the right to setoff against such Obligations
+         without restriction; and
+
+                  (iii) Pledgor has not and will not become a party to or
+         otherwise be bound by any agreement, other than the Agreement, which
+         restricts in any manner the rights of Pledgor with respect to the
+         Obligations.
+
+         (d) To the extent permitted under Paragraph 7 with respect to
+     Performance Assurance, Pledgor grants to Pledgee the same rights and
+     remedies with respect to such Obligations, if applicable, in the same
+     manner and to same extent required of Pledging Party and authorized for
+     Secured Party with respect to Performance Assurance under Paragraph 7.
+
+         (e) The provisions of any Underlying Master Agreement and any
+     Transactions relating to the administration and application of any
+     Performance Assurance shall be, and hereby are, superceded and replaced in
+     their entirety by the provisions of this Collateral Annex, except that any
+     right of any
+
+
+
+                                     - 5 -
+<PAGE>
+
+     Party to realize on or apply any collateral pursuant to the terms of any
+     Underlying Master Agreement or any Transaction upon any event or occurrence
+     that does not constitute a Default (and which has not been superceded or
+     replaced by the provisions of Sections 2 and 3 of the Agreement) shall
+     remain in full force and effect.
+
+         (f) Notwithstanding any provisions of any of the Underlying Master
+     Agreements and any Transactions, each Letter of Credit Transferred as
+     Eligible Collateral for the account of EPME shall name MCV as beneficiary
+     thereof, and each Letter of Credit Transferred as Eligible Collateral for
+     the account of MCV shall name EPME as beneficiary thereof, and in each case
+     shall provide for the right of MCV or EPME, respectively, to draw thereon
+     upon the terms and conditions in the Letter of Credit. The Parties covenant
+     to each other to use reasonable efforts to promptly cause the amendment or
+     reestablishment of each Letter of Credit issued for its account under the
+     Underlying Master Agreements or Transactions in accordance with the
+     Agreement, including this Collateral Annex.
+
+     PARAGRAPH 3. CALCULATIONS OF THE COLLATERAL REQUIREMENT.
+
+         (a) On any Calculation Date, the Calculating Party shall reasonably
+     determine the Exposure for each Party by determining the Settlement Amount
+     with respect to each Transaction. The Exposures of each Party shall be
+     aggregated to determine the "Aggregate Exposure". The Party having a
+     positive Aggregate Exposure at any time (i.e., the "Secured Party") shall
+     be deemed to have a "Net Exposure" to the other Party (i.e., the "Pledging
+     Party") equal to such positive Aggregate Exposure.
+
+         (b) The "Collateral Requirement" for Pledging Party means (i) Secured
+     Party's Net Exposure minus (ii) the sum of:
+
+                           (A) Pledging Party's Exposure Threshold; plus
+
+                           (B) the Value of Cash previously Transferred to
+                  Secured Party (including any interest or other amount earned
+                  thereon that is held by Secured Party), and the Value of Cash
+                  held by Secured Party as a result of drawing under any Letter
+                  of Credit that has not been applied against (and is not
+                  required to be applied against) any Obligations owed by a
+                  Defaulting Party; plus
+
+                           (C) the Value of each Letter of Credit issued for the
+                  account of Pledging Party for the benefit of Secured Party;
+
+provided that in no event may the Collateral Requirement for Pledging Party be
+less than US$0.00; and further provided that such amount shall be rounded up to
+the nearest integral multiple of the Rounding Amount.
+
+PARAGRAPH 4. TRANSFER OF ELIGIBLE COLLATERAL/PERFORMANCE ASSURANCE.
+
+         On any Calculation Date on which (a) no Default or Potential Event of
+Default has occurred and is continuing with respect to Secured Party, (b) no
+Early Termination Date has occurred or been designated as a result of a Default
+with respect to the Secured Party; and (c) Pledging Party's Collateral
+Requirement equals or exceeds its Minimum Transfer Amount, then Secured Party
+may demand that Pledging Party Transfer to Secured Party, and Pledging Party
+shall Transfer, or cause to be Transferred to Secured Party (as directed by
+Secured Party in such notice), Eligible Collateral for the benefit of Secured
+Party, in an amount and with a Value at least equal to Pledging Party's
+Collateral Requirement. Unless otherwise agreed in writing by the Parties,
+Eligible Collateral demanded of Pledging Party on or before the Notification
+Time on a Business Day shall be Transferred by 5:00 p.m. Central Clock Time on
+the next following Business Day, and if demanded after the Notification Time on
+a Business Day, shall be Transferred on the second Business Day following
+Secured Party's demand for Eligible Collateral. Any
+
+
+
+                                     - 6 -
+<PAGE>
+
+Letter of Credit shall be delivered to such address as Secured Party shall
+specify and any such demand made by Secured Party pursuant to this Paragraph 4
+shall specify account information for the account to which Eligible Collateral
+in the form of Cash shall be Transferred. Notwithstanding anything to the
+contrary in this Collateral Annex, if the event giving rise to an obligation to
+Transfer Eligible Collateral is cured or otherwise removed prior to the time
+that such Eligible Collateral is required to be provided, Pledging Party shall
+have no obligation to provide such Eligible Collateral.
+
+PARAGRAPH 5. REDUCTION AND SUBSTITUTION OF PERFORMANCE ASSURANCE.
+
+         (a) On any Calculation Date (but no more frequently than once per day
+     with respect to Cash), a Party may request a reduction in the amount of
+     Performance Assurance previously Transferred by that Party for the benefit
+     of the other Party; provided that in order for such request to be honored,
+     the reduction is not less than the Minimum Transfer Amount in respect of
+     the requesting Party and after giving effect to the requested reduction in
+     Performance Assurance, (i) the requesting Party must then have a Collateral
+     Requirement of zero (0) or less; and (ii) no Default or Potential Event of
+     Default with respect to the requesting Party shall have occurred and be
+     continuing; and (iii) no Early Termination Date has occurred or been
+     designated as a result of a Default with respect to the requesting Party.
+
+         (b) If the Party holding such Performance Assurance determines in its
+     reasonable discretion that the conditions set forth in Paragraph 5(a) have
+     been met with respect to a requested reduction in Performance Assurance,
+     such Party shall honor such request for a reduction. A permitted reduction
+     in Performance Assurance may be effected by the Transfer of Cash to the
+     requesting Party or the termination of or reduction of the amount available
+     for drawing under an outstanding Letter of Credit previously issued for the
+     benefit of the Secured Party. The Pledging Party shall have the right to
+     specify the means of effecting a permitted reduction in Performance
+     Assurance. The amount of the Performance Assurance reduction hereunder
+     shall be rounded down to the nearest integral multiple of the Rounding
+     Amount.
+
+         (c) The cost and expense of reducing Performance Assurance (including,
+     without limitation, the reasonable costs, expenses, and attorneys' fees of
+     the other Party) shall be borne by the requesting Party.
+
+         (d) Unless otherwise agreed in writing by the Parties, if the
+     requesting Party under this Paragraph 5 demands a reduction prior to the
+     Notification Time, the other Party shall have until 5:00 p.m. Central Clock
+     Time on the second Business Day following a request for reduction to effect
+     a permitted reduction in Performance Assurance if such reduction is to be
+     effected by the return of Cash to the requesting Party. If the reduction
+     demand is made after the Notification Time, the other Party shall have
+     until 5:00 p.m. Central Clock Time on the third Business Day following such
+     request for reduction to effect a permitted reduction in Performance
+     Assurance if such reduction is to be effected by the return of Cash to the
+     requesting Party. If a permitted reduction in Performance Assurance is to
+     be effected by the termination of or a reduction in the amount available
+     for drawing under an outstanding Letter of Credit previously issued for the
+     benefit of Secured Party, the other Party shall promptly take such action
+     directed by the issuer of such Letter of Credit as is reasonably necessary
+     to effectuate such termination or reduction.
+
+         (e) Unless a Default or Potential Event of Default with respect to
+     Pledging Party shall have occurred and be continuing, or an Early
+     Termination Date shall have been designated by the Secured Party, the
+     Pledging Party may substitute Performance Assurance for other existing
+     Performance Assurance of equal Value upon two Business Day's written notice
+     to the Secured Party. Promptly upon the Transfer to Secured Party of any
+     such substitute Performance Assurance, Secured Party shall Transfer the
+     relevant replaced Performance Assurance to Pledging Party. Notwithstanding
+
+
+                                     - 7 -
+<PAGE>
+
+     anything herein to the contrary, no such substitution shall be permitted
+     unless (i) such substitute Eligible Collateral has been Transferred to
+     Secured Party or its agent (as directed by Secured Party) prior to the
+     release of the Performance Assurance to be returned to Pledging Party, and
+     the security interest in, and general first lien upon, such substituted
+     Eligible Collateral granted pursuant hereto in favor of Secured Party shall
+     have been perfected as required by applicable law and shall constitute a
+     first priority perfected security interest therein and general first lien
+     thereon, and (ii) shall be no less than the Pledging Party's Minimum
+     Transfer Amount. Each substitution of Performance Assurance shall
+     constitute a reaffirmation by Pledging Party that all Performance Assurance
+     held by or on behalf of Secured Party shall be subject to and governed by
+     the terms and conditions of this Collateral Annex, including, without
+     limitation, the security interest in, general first lien on and right of
+     offset against, such Performance Assurance granted pursuant hereto in favor
+     of Secured Party pursuant to Paragraph 2.
+
+         (f) The Transfer of any Performance Assurance by Secured Party to
+     Pledging Party in accordance with this Paragraph 5 shall be deemed a
+     release by Secured Party of its security interest, general first lien and
+     right of offset granted pursuant to Paragraph 2 hereof only with respect to
+     such returned Performance Assurance. In connection with each return of any
+     Performance Assurance pursuant to this Paragraph 5, Pledging Party will,
+     upon request of Secured Party, execute a receipt showing the Performance
+     Assurance received by it.
+
+PARAGRAPH 6. ADMINISTRATION OF PERFORMANCE ASSURANCE.
+
+         (a) Cash. Performance Assurance provided in the form of Cash to Secured
+Party shall be held in a jurisdiction of the United States at all times and
+shall be subject to the following provisions:
+
+                  (i) The Secured Party shall have the right to commingle or
+         otherwise use in its business any Cash that it holds as Performance
+         Assurance hereunder; provided, however that such use shall be
+         consistent with applicable industry standards.
+
+                  (ii) The Secured Party may allow a Qualified Institution to
+         hold all Cash in its possession on its behalf in a segregated,
+         safekeeping or custody account (a "Collateral Account") within such
+         Qualified Institution (subject to customary custody and control
+         provisions) with the title of the account indicating that the property
+         contained therein is being held as Cash owned by the Pledging Party,
+         subject to the security interest of the Secured Party in accordance
+         with this Agreement. Such Qualified Institution shall so long as it
+         continues to serve as custodian with respect to the Cash in the
+         Collateral Account, hold such Cash in accordance with the terms of this
+         Agreement and for the security interest of the Secured Party and,
+         subject to such security interest, for the ownership of the Pledging
+         Party. The Qualified Institution will hold the Cash in an interest
+         bearing account and, the Qualified Institution will not take any other
+         actions in an attempt to obtain a return on the Cash in excess of what
+         can be expected by maintaining the Cash in the interest bearing
+         account, including but not limited to the investment or reinvestment of
+         the Cash in any investment vehicles of any nature inconsistent with the
+         stated constraint on the retention and use of the Cash in the interest
+         bearing account; provided, however, that the Qualified Institution may
+         invest and reinvest or procure the investment and reinvestment of the
+         Cash in accordance with the written instructions of the Secured Party,
+         which instructions shall be in compliance with industry standards.
+         Provided, further that the Cash so held by the Qualified Institution
+         shall be subject to the Pledging Party's request for the return of the
+         Performance Assurance if authorized by this Agreement, and such Cash
+         shall be returned in accordance with the timing set forth in this
+         Agreement if required. The Secured Party agrees to cooperate as
+         necessary to facilitate such return of the Performance Assurance from
+         the Qualified Institution.
+
+                  (iii) Interest shall be deemed to accrue on all Cash held by
+         Secured Party as Performance Assurance at a rate per annum equal to the
+         Federal Funds Effective Rate. Secured
+
+
+
+                                     - 8 -
+<PAGE>
+
+         Party shall retain such deemed interest, subject to the provisions of
+         Paragraph 5(a). Secured Party shall not be responsible to Pledging
+         Party for any amounts earned on Cash held as Performance Assurance
+         other than the deemed interest as set forth in this Paragraph
+         6(a)(iii).
+
+         (b) Letters of Credit. Performance Assurance provided in the form of a
+Letter of Credit shall be subject to the following provisions.
+
+                  (i) Unless otherwise agreed to in writing by the Parties, each
+         Letter of Credit shall be maintained for the benefit of the Secured
+         Party. If required under the terms of this Collateral Annex, the
+         Pledging Party shall renew or cause the renewal of each outstanding
+         Letter of Credit in order to keep the Valuation Percentage from being
+         reduced (or cause the substitution of Eligible Collateral having
+         equivalent or greater Value to such Letter of Credit (subject to the
+         provisions of Paragraph 5(a)). Upon the occurrence and continuance of a
+         Default with respect to Secured Party or the designation of an Early
+         Termination Date as a result of any such Default, in lieu of the
+         obligation set forth in this subparagraph, the Pledging Party shall
+         cause any outstanding Letter of Credit issued on its behalf to be
+         maintained, renewed or replaced, or at the election of the Pledging
+         Party, Performance Assurance in the form of Cash to be deposited with a
+         Qualified Institution on behalf of the Defaulting Party (in which event
+         Secured Party shall immediately return the Letter of Credit to Pledging
+         Party), as the case may be, for ten (10) Business Days after such time
+         as the Final Settlement Amount is finally determined in accordance with
+         the Agreement and is otherwise due under the Agreement (including the
+         resolution of any dispute pertaining to such Final Settlement Amount);
+         provided that the Value of any such outstanding Letter of Credit shall
+         be maintained at (or Performance Assurance in the form of Cash
+         deposited in) an amount equivalent to the lesser of (x) the undrawn
+         portion of such Letter of Credit on the date of the occurrence of any
+         such Default (provided it is continuing) with respect to Secured Party
+         or (y) if Secured Party draws on any such Letter of Credit for any
+         reason whatsoever after the date of such Default (provided such Default
+         is continuing), the remaining undrawn portion of the Letter of Credit),
+         or (z) the amount which Secured Party has determined, in a commercially
+         reasonable manner, is the amount of any unpaid Final Settlement Amount
+         which is owed to it using the methodology for such calculation set
+         forth in the Agreement. The Pledging Party's failure to post
+         Performance Assurance in accordance with the terms of this Paragraph
+         may lead to a Default under Section 2(d)(vi) of the Agreement, which,
+         if such Default occurs and is continuing, shall entitle Secured Party
+         to draw upon any such Letter of Credit in an amount not greater Secured
+         Party has determined, in a commercially reasonable manner, is the
+         amount of any unpaid Final Settlement Amount owed to it using the
+         methodology for such calculation set forth in the Agreement; provided,
+         however that if Secured Party has not made any such determination
+         because Pledging Party has not tendered the Final Settlement Amount
+         calculations to Secured Party so as to allow Secured Party to dispute
+         such calculation within the terms of the Agreement, then Secured Party
+         may draw upon the entire amount of the Letter of Credit if the Letter
+         of Credit will expire within a period of less than ten (10) Business
+         Days. Any and all draw proceeds received by the Secured Party under
+         this subparagraph shall be held by its Qualified Institution pursuant
+         to the terms of this Paragraph 6(b)(iv) until the amount of the Final
+         Settlement Amount is finally determined in accordance with this
+         Agreement.
+
+                  (ii) As one method of providing Performance Assurance,
+         Pledging Party may increase the amount available for drawing under an
+         outstanding Letter of Credit.
+
+                  (iii) Upon the occurrence of a Letter of Credit Default,
+         Pledging Party agrees to deliver to Secured Party either a substitute
+         Letter of Credit or other Eligible Collateral, in each case on or
+         before the second Business Day after the occurrence thereof (or the
+         fifth Business Day after the occurrence thereof if only clause (a)
+         under the definition of Letter of Credit Default applies), having the
+         same Value (as applicable only with respect to subsection (ii)(a) of
+         the
+
+
+
+                                     - 9 -
+<PAGE>
+
+         definition of Valuation Percentage, with respect to the amount that may
+         be unconditionally withdrawn in the case of a substitute Letter of
+         Credit) as the undrawn amount of the Letter of Credit immediately prior
+         to such Letter of Credit Default.
+
+                  (iv) At any time during the continuance of a Default with
+         respect to Pledging Party, then Secured Party may draw up to the entire
+         undrawn portion of any outstanding Letter of Credit. Cash proceeds
+         received from drawing upon a Letter of Credit shall be deemed
+         Performance Assurance as security for Pledging Party's Obligations to
+         Secured Party and Secured Party shall have the rights and remedies set
+         forth herein with respect to such Cash. Notwithstanding anything to the
+         contrary contained in the Agreement, if Secured Party shall draw upon
+         any Letter of Credit while a Default shall have occurred and be
+         continuing with respect to Secured Party, any portion of the proceeds
+         of such Letter of Credit which is the subject of a bona fide dispute
+         shall be held only at a Qualified Institution pursuant to the
+         provisions of Paragraph 6(a)(ii) (without the necessity of any request
+         from Pledging Party and without the benefit of any grace period) until
+         such time as the dispute has been finally resolved pursuant to the
+         terms hereof.
+
+                  (v) In all cases, notwithstanding Secured Party's receipt of
+         Cash on account of any Letter of Credit, Pledging Party shall remain
+         liable for any failure to Transfer sufficient Eligible Collateral or
+         for any amounts owing to Secured Party and remaining unpaid after the
+         application of the amounts so drawn by Secured Party. In all cases, the
+         costs and expenses (including, without limitation, the reasonable
+         costs, expenses, and attorneys' fees of Secured Party) of establishing,
+         renewing, substituting, canceling, and increasing the amount of a
+         Letter of Credit shall be borne by Pledging Party.
+
+         (c) Care of Performance Assurance. Beyond the exercise of reasonable
+care in the custody thereof, Secured Party shall have no duty as to any
+Performance Assurance in its possession or control or any income thereon or as
+to the preservation of rights against prior parties or any other rights
+pertaining thereto. Secured Party shall be deemed to have exercised reasonable
+care in the custody and preservation of the Performance Assurance in its
+possession if the Performance Assurance is accorded treatment substantially
+equal to that which it accords its own property. Except as otherwise authorized
+under Paragraph 6(a)(i)(ii) or (d), the Secured Party shall retain possession or
+control of any Performance Assurance delivered to it; provided, however that the
+Secured Party may, invest, commingle or otherwise use in its business the
+Performance Assurance it holds.
+
+         (d) Qualified Institution. The Qualified Institution for each Party, if
+applicable, shall act on behalf of the Party in connection with the performance
+of all duties and the exercise of all rights in respect of Performance Assurance
+under the Agreement.
+
+PARAGRAPH 7. EXERCISE OF RIGHTS AGAINST PERFORMANCE ASSURANCE.
+
+         (a) In the event that (i) a Default with respect to Pledging Party has
+occurred and is continuing or (ii) an Early Termination Date has occurred or has
+been designated as a result of a Default with respect to the Pledging Party, the
+Secured Party may exercise any one or more of the rights and remedies provided
+under the Agreement, including, without limitation, this Collateral Annex, or as
+otherwise available under applicable law. Without limiting the foregoing, if at
+any time a Default with respect to Pledging Party has occurred and is
+continuing, then Secured Party may, in its sole discretion, exercise any one or
+more of the following rights and remedies:
+
+                           (A) all rights and remedies available to a secured
+                  party under Article 9 of the Uniform Commercial Code of the
+                  jurisdiction in which the Performance Assurance is being held
+                  and any other applicable jurisdiction and other applicable
+                  laws with respect to the Performance Assurance held by or for
+                  the benefit of Secured Party;
+
+
+
+                                     - 10 -
+<PAGE>
+
+                           (B) the right to set off any Performance Assurance
+                  held by or for the benefit of Secured Party against and in
+                  satisfaction of any amount payable by Pledging Party in
+                  respect of any of its Obligations;
+
+                           (C) the right to draw on any outstanding Letter of
+                  Credit issued for its benefit and apply the proceeds therefrom
+                  as set forth herein;
+
+                           (D) the right to liquidate and realize upon any
+                  Performance Assurance held by or for the benefit of Secured
+                  Party through one or more public or private sales or other
+                  dispositions with such notice, if any, as may be required by
+                  applicable law (it being agreed in such case that 10 days'
+                  notice of any such sale is reasonable), free from any claim or
+                  right of any nature whatsoever of Pledging Party, including
+                  any right of equity or redemption by Pledging Party (with
+                  Secured Party having the right to purchase any or all of the
+                  Performance Assurance to be sold) and to apply the proceeds
+                  from the liquidation of such Performance Assurance to and in
+                  satisfaction of any amount payable by Pledging Party in
+                  respect of any of its Obligations in such order as Secured
+                  Party may elect; and/or
+
+                           (E) any and all other rights and remedies set forth
+                  herein.
+
+         (b) In the event that an Additional Default Event with respect to the
+Pledging Party has occurred and is continuing, the Secured Party may, in its
+sole discretion, exercise any one or more remedies with respect to Performance
+Assurance as provided in the Agreement.
+
+         (c) For the avoidance of doubt, it is hereby acknowledged that Secured
+Party shall be under no obligation to prioritize the order with respect to which
+it exercises any one or more of its rights and remedies provided under the
+Agreement, including, without limitation, this Collateral Annex, or as otherwise
+available under applicable law. Pledging Party shall in all events remain liable
+to Secured Party for any amount payable by Pledging Party in respect of any of
+its Obligations remaining unpaid after any realization or liquidation of the
+Performance Assurance (including the reasonable costs and expenses relating to
+any disposition of any Performance Assurance), application of the same and set
+off, offset, combination of accounts, retention, withholding, and/or liquidation
+rights and remedies.
+
+PARAGRAPH 8. DISPUTED CALCULATIONS
+
+         (a) If any Party disputes the amount of Performance Assurance requested
+(and/or the amount of Performance Assurance to be returned) and such dispute
+relates to the amount of the Collateral Requirements, such objecting Party shall
+(i) notify the Party that made such calculation of the existence and nature of
+the dispute not later than the 5:00 p.m. at the place of delivery on the second
+Business Day following the date that notice of such calculation has been made by
+the Calculating Party, (ii) provide the Calculating Party with the disputing
+Party's own calculation, made in good faith and in a commercially reasonable
+manner, of such amount; and (iii) if any payment, provision of Performance
+Assurance, or other action is required to be taken with respect to such amount,
+the disputing Party or the Calculating Party, as applicable shall take such
+action with respect to the undisputed portion of such amount. Notwithstanding
+the foregoing sentence, in no event shall a disputing Party be entitled to
+forestall a Secured Party from holding and realizing against Performance
+Assurance held by it or on its behalf in the event of a Default by the Pledging
+Party, in which event, Secured Party shall be entitled to act with respect to
+the entire Final Settlement Amount reasonably calculated by it in good faith,
+and such dispute shall be subject to resolution as set forth below.
+
+         (b) The Parties thereafter shall promptly consult with each other in
+order to reconcile the two conflicting amounts. If the Parties have not been
+able to resolve their dispute on or before the second Business Day following the
+date that notice of such dispute was made, then the Secured Party's Collateral
+
+
+                                     - 11 -
+<PAGE>
+
+Requirements shall be recalculated by each Party requesting quotations from one
+(1) Reference Market-Maker (or Kiodex at the option of such Party) within two
+(2) Business Days (taking the arithmetic average of the two quotes obtained to
+obtain the average Settlement Amount; provided, that, if only one (1) quotation
+can be obtained by the Parties, then that quotation shall be used) for the
+purpose of recalculating the Settlement Amount of each Transaction in respect of
+which the Parties disagree as to the Settlement Amount for purposes of
+determining the Collateral Requirements in accordance with Paragraph 3(b), and
+the Secured Party shall inform the Pledging Party of the results of such
+recalculation (in reasonable detail). Eligible Collateral/Performance Assurance
+shall thereupon be provided, returned, or reduced, if necessary, on the next
+Business Day in accordance with the results of such recalculation.
+
+PARAGRAPH 9. COVENANTS; REPRESENTATIONS AND WARRANTIES; MISCELLANEOUS.
+
+         (a) Pledging Party will execute and deliver to Secured Party (and to
+     the extent permitted by applicable law, Pledging Party hereby authorizes
+     Secured Party to execute and deliver, in the name of Pledging Party or
+     otherwise) such financing statements, assignments and other documents and
+     do such other things relating to the Performance Assurance and the security
+     interest granted under this Collateral Annex as Secured Party may
+     reasonably deem necessary or appropriate to perfect or maintain perfection
+     of its security interest in the Performance Assurance or otherwise as
+     required hereunder, and Pledging Party shall pay all costs relating to its
+     delivery of Performance Assurance and the maintenance and perfection of the
+     security interest granted in this Collateral Annex.
+
+         (b) On each day on which Performance Assurance is held by or on behalf
+     of Secured Party under the Agreement, including, without limitation, this
+     Collateral Annex, Pledging Party hereby represents and warrants to Secured
+     Party that:
+
+                  (i) Pledging Party has good title to and is the sole owner of
+         such Performance Assurance, and the execution, delivery and performance
+         of the covenants and agreements of the Agreement, including, without
+         limitation, this Collateral Annex, do not result in the creation or
+         imposition of any lien or security interest upon any of its assets or
+         properties, including, without limitation, the Performance Assurance,
+         other than the security interests and liens created under the Agreement
+         unless otherwise stated herein;
+
+                  (ii) upon the Transfer of Performance Assurance by Pledging
+         Party to Secured Party, Secured Party shall have a valid and perfected
+         first priority continuing security interest therein, free of any liens,
+         claims or encumbrances, except those liens, security interests, claims
+         or encumbrances arising by operation of law that are given priority
+         over a perfected security interest;
+
+                  (iii) Secured Party has a valid and perfected first priority
+         continuing security interest in the Performance Assurance, free of any
+         liens, claims or encumbrances, except those liens, claims or
+         encumbrances arising by operation of law that are given priority over a
+         perfected security interest; and
+
+                  (iv) it is not and will not become a party to or otherwise be
+         bound by any agreement, other than the Agreement, which restricts in
+         any manner the rights of any present or future holder of any of the
+         Performance Assurance with respect hereto.
+
+         (c) The Agreement, including, without limitation, this Collateral
+     Annex, has been and is made solely for the benefit of the Parties and their
+     permitted successors and assigns, and no other person, partnership,
+     association, corporation or other entity shall acquire or have any right
+     under or by virtue hereof.
+
+         (d) Pledging Party shall pay on request and indemnify Secured Party
+     against any taxes (including, without limitation, any applicable transfer
+     taxes and stamp, registration or other
+
+
+
+                                     - 12 -
+<PAGE>
+
+     documentary taxes), assessments, or charges that may become payable by
+     reason of the security interests, general first lien and right of offset
+     granted under, or the execution, delivery, performance or enforcement of,
+     the Agreement, including, without limitation, this Collateral Annex, as
+     well as any penalties with respect thereto (including, without limitation
+     costs and reasonable fees and disbursements of counsel). Pledging Party
+     agrees to pay Secured Party for all reasonable expenses (including without
+     limitation, court costs and reasonable fees and disbursements of counsel)
+     incurred by it in connection with the enforcement of, or suing for or
+     collecting any amounts payable by it under, the Agreement, including,
+     without limitation, this Collateral Annex.
+
+         (e) No failure or delay by either Party hereto in exercising any right,
+     power, privilege, or remedy hereunder shall operate as a waiver thereof.
+
+         (f) The headings in the Collateral Annex are for convenience of
+     reference only, and shall not affect the meaning or construction of any
+     provision thereof.
+
+
+
+
+                                     - 13 -
+<PAGE>
+
+                         SCHEDULE 1 TO COLLATERAL ANNEX
+
+                   IRREVOCABLE STANDBY LETTER OF CREDIT FORMAT
+                                DATE OF ISSUANCE:
+
+[Address]
+
+         Re:  Credit No. _______________
+
+         We hereby establish our Irrevocable Transferable Standby Letter of
+Credit in favor of __________ (the "Beneficiary") for the account of
+_______________________ (the "Account Party"), for the aggregate amount not
+exceeding ______________________ United States Dollars ($___________), available
+to you at sight upon demand at our counters at (Location) on or before the
+expiration hereof against presentation to us of one of the following statements,
+dated and signed by [_______________________]:
+
+         "A Default (as defined in the Master Netting, Setoff, and Security
+Agreement dated as of November ___, 2002, between MCV and El Paso Merchant
+Energy, L.P., as the same may be amended (the "Master Agreement")) has occurred
+and is continuing with respect to the Account Party under the Master Agreement.
+Wherefore, the undersigned does hereby demand payment in the amount of
+[US$___________]"; or
+
+         "An Additional Default Event (as defined in the Master Netting, Setoff,
+and Security Agreement dated as of November ___, 2002, between MCV and El Paso
+Merchant Energy, L.P., as the same may be amended (the "Master Agreement")) has
+occurred and is continuing with respect to the Account Party under the Master
+Agreement. Wherefore, the undersigned does hereby demand payment in the amount
+of [US$___________]"; or
+
+         "An Early Termination Date (as defined in the Master Netting, Setoff,
+and Security Agreement dated as of November ___, 2002, between MCV and El Paso
+Merchant Energy, L.P., as the same may be amended (the "Master Agreement")) has
+been designated with respect to the Account Party under the Master Agreement.
+Wherefore, the undersigned does hereby demand payment in the amount of
+[US$___________]."
+
+         "To the extent the Master Agreement is terminated or otherwise fails to
+be in full force and effect so as to revive the "default" and "event of default"
+terms and conditions under the Underlying Master Agreements and Transactions (as
+defined in the Master Netting, Setoff, and Security Agreement dated as of
+November ___, 2002, between MCV and El Paso Merchant Energy, L.P., as the same
+may be amended (the "Master Agreement")), a "default", "event of default",
+"additional termination event", "early termination date" has occurred under the
+Underlying Master Agreements and/or Transactions (and with respect to a
+"default", "event of default" or "additional termination event" is continuing)
+with respect to the Account Party. Wherefore, the undersigned does hereby demand
+payment in the amount of [US$___________]"; or
+
+         "The Beneficiary has requested alternate security from the Account
+Party and the Account Party has not provided alternate security acceptable to
+Beneficiary and this Letter of Credit has less than ten (10) business days until
+expiry. Wherefore, the undersigned does hereby demand payment in the amount of
+[US$___________]"; or
+
+         "The Account Party has determined the Final Settlement Amount owed to
+the Beneficiary under the Master Netting, Setoff, and Security Agreement dated
+as of November___, 2002, between MCV and El Paso Merchant Energy, L.P., and has
+authorized the Beneficiary in writing, as evidenced by the signed
+
+
+
+                                     - 14 -
+<PAGE>
+
+authorization from the Account Party attached hereto, to draw down on the Letter
+of Credit in the amount of $_________."
+
+         The amount which may be drawn by you under this Letter of Credit shall
+be automatically reduced by the amount of any drawings paid through the issuer
+of this Letter of Credit referencing this Letter of Credit No. ____. Partial
+drawings are permitted hereunder.
+
+         We hereby agree with you that documents drawn under and in compliance
+with the terms of this Letter of Credit shall be duly honored upon presentation
+as specified.
+
+         This Letter of Credit shall be governed by the Uniform Customs and
+Practice for Documentary Credits, 1993 Revision, International Chamber of
+Commerce Publication No. 500 (the "UCP"), except to the extent that the terms
+hereof are inconsistent with the provisions of the UCP, including but not
+limited to Articles 13(b) and 17 of the UCP, in which case the terms of this
+Letter of Credit shall govern.
+
+         With respect to Article 13(b) of the UCP, the issuer of this Letter of
+Credit shall have a reasonable amount of time, not to exceed three (3) banking
+days following the date of its receipt of documents from the beneficiary, to
+examine the documents and determine whether to take up or refuse the documents
+and to inform the beneficiary accordingly.
+
+         In the event of an act of God, riot, civil commotion, insurrection, war
+or any other cause beyond our control that interrupts our business
+(collectively, an "Interruption Event") and causes the place for presentation of
+this Letter of Credit to be closed for business on the last day for
+presentation, the expiry date of this Letter of Credit will be automatically
+extended without amendment to a date thirty (30) calendar days after the place
+for presentation reopens for business.
+
+         This Letter of Credit is transferable, and we hereby consent to such
+transfer, but otherwise may not be amended, changed or modified without the
+express written consent of the Beneficiary, the issuer of this Letter of Credit
+and the Account Party.
+
+
+                                [BANK SIGNATURE]
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                     - 15 -
+
+
+</TEXT>
+</DOCUMENT>

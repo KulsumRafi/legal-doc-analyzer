@@ -1,0 +1,2259 @@
+<DOCUMENT>
+<TYPE>EX-10.38
+<SEQUENCE>8
+<FILENAME>a2106489zex-10_38.txt
+<DESCRIPTION>EXHIBIT 10.38
+<TEXT>
+<Page>
+
+                                                                   EXHIBIT 10.38
+
+                               LC CREDIT AGREEMENT
+
+                           DATED AS OF MARCH 24, 2003
+
+
+                                      AMONG
+
+
+                               MIDWAY GAMES INC.,
+
+
+                             BANK OF AMERICA, N.A.,
+
+                                    AS AGENT,
+
+                                       AND
+
+                          LETTER OF CREDIT ISSUING BANK
+
+
+                                       AND
+
+
+                  THE OTHER FINANCIAL INSTITUTIONS PARTY HERETO
+
+<Page>
+
+                                TABLE OF CONTENTS
+
+<Table>
+<Caption>
+                                                                                                          PAGE
+<S>                                                                                                        <C>
+ARTICLE I      DEFINITIONS..................................................................................1
+
+     1.1.    Certain Defined Terms..........................................................................1
+
+     1.2.    Other Interpretive Provisions..................................................................5
+
+ARTICLE II     COMMITMENT...................................................................................6
+
+     2.1.    Amount of Commitment...........................................................................6
+
+     2.2.    Voluntary Termination or Reduction of Commitments..............................................6
+
+ARTICLE III    LETTERS OF CREDIT............................................................................7
+
+     3.1.    Letters of Credit..............................................................................7
+
+     3.2.    Issuance, Amendment and Renewal of Letters of Credit...........................................7
+
+     3.3.    Existing Letters of Credit; Risk Participations, Drawings and Reimbursements...................9
+
+     3.4.    Repayment of Participations...................................................................11
+
+     3.5.    Role of the Issuing Bank......................................................................12
+
+     3.6.    Obligations Absolute..........................................................................12
+
+     3.7.    Cash Collateral Pledge........................................................................13
+
+     3.8.    Letter of Credit Fees.........................................................................13
+
+     3.9.    Uniform Customs and Practice..................................................................14
+
+     3.10.   Guaranty of the Company.......................................................................14
+
+     3.11.   Payments by the Company.......................................................................14
+
+ARTICLE IV     TAXES, YIELD PROTECTION AND ILLEGALITY......................................................14
+
+     4.1.    Taxes.........................................................................................14
+
+     4.2.    Increased Costs and Reduction of Return.......................................................15
+
+     4.3.    Certificates of Banks.........................................................................16
+
+     4.4.    Survival......................................................................................16
+
+ARTICLE V      CONDITIONS PRECEDENT........................................................................16
+
+     5.1.    Conditions of Initial Credit Extensions.......................................................16
+
+     5.2.    Conditions to All Credit Extensions...........................................................17
+
+ARTICLE VI     REPRESENTATIONS AND WARRANTIES..............................................................18
+
+     6.1.    Corporate Existence and Power.................................................................18
+
+     6.2.    Corporate Authorization; No Contravention.....................................................18
+
+     6.3.    Governmental Authorization....................................................................18
+
+     6.4.    Binding Effect................................................................................19
+</Table>
+
+<Page>
+
+                                TABLE OF CONTENTS
+
+<Table>
+<Caption>
+                                                                                                          PAGE
+                                                                                                          ----
+<S>                                                                                                        <C>
+     6.5.    No Default....................................................................................19
+
+     6.7.    Restated Credit Agreement.....................................................................19
+
+ARTICLE VII    AFFIRMATIVE COVENANTS.......................................................................19
+
+     7.1.    Incorporation of Restated Credit Agreement....................................................19
+
+     7.2.    Ratification Resolutions......................................................................19
+
+ARTICLE VIII   NEGATIVE AND FINANCIAL COVENANTS............................................................20
+
+     8.1.    Incorporation of Restated Credit Agreement....................................................20
+
+     8.2.    Use of Proceeds...............................................................................20
+
+ARTICLE IX     EVENTS OF DEFAULT...........................................................................20
+
+     9.1.    Event of Default..............................................................................20
+
+     9.2.    Remedies......................................................................................22
+
+     9.3.    Rights Not Exclusive..........................................................................22
+
+ARTICLE X      THE AGENT...................................................................................23
+
+     10.1.   Appointment and Authorization; "Agent"........................................................23
+
+     10.2.   Delegation of Duties..........................................................................23
+
+     10.3.   Liability of Agent............................................................................23
+
+     10.4.   Reliance by Agent.............................................................................24
+
+     10.5.   Notice of Default.............................................................................24
+
+     10.6.   Credit Decision...............................................................................24
+
+     10.7.   Indemnification of Agent......................................................................25
+
+     10.8.   Agent in Individual Capacity..................................................................25
+
+     10.9.   Successor Agent...............................................................................26
+
+     10.10.  Withholding Tax...............................................................................26
+
+ARTICLE XI     MISCELLANEOUS...............................................................................27
+
+     11.1.   Amendments and Waivers........................................................................27
+
+     11.2.   Notices.......................................................................................28
+
+     11.3.   No Waiver; Cumulative Remedies................................................................29
+
+     11.4.   Costs and Expenses............................................................................29
+
+     11.5.   Company Indemnification.......................................................................30
+
+     11.6.   Payments Set Aside............................................................................30
+
+     11.7.   Successors and Assigns........................................................................30
+
+     11.8.   Assignments, Participations, etc..............................................................30
+</Table>
+
+<Page>
+
+                                TABLE OF CONTENTS
+
+<Table>
+<Caption>
+                                                                                                          PAGE
+                                                                                                          ----
+<S>                                                                                                        <C>
+     11.9.   Confidentiality...............................................................................32
+
+     11.10.  Set-off.......................................................................................32
+
+     11.11.  Automatic Debits of Fees......................................................................32
+
+     11.12.  Notification of Addresses, Lending Offices, Etc...............................................33
+
+     11.13.  Counterparts..................................................................................33
+
+     11.14.  Severability..................................................................................33
+
+     11.15.  No Third Parties Benefited....................................................................33
+
+     11.16.  Governing Law and Jurisdiction................................................................33
+
+     11.17.  Waiver of Jury Trial..........................................................................34
+
+     11.18.  Entire Agreement..............................................................................34
+</Table>
+
+<Page>
+
+SCHEDULES
+
+Schedule I      Prorata Shares of Commitment
+Schedule 3.3    Existing Letters of Credit
+Schedule 11.2   Notices
+
+EXHIBITS
+
+Exhibit A       Form of Assignment and Acceptance
+Exhibit B       LC Account Agreement
+Exhibit C       L/C Control Agreement
+Exhibit D       Form of Opinion
+
+<Page>
+
+                               LC CREDIT AGREEMENT
+
+     This LC CREDIT AGREEMENT (this "Agreement") is entered into as of March 24,
+2003, among MIDWAY GAMES INC., a Delaware corporation (the "COMPANY"), the
+several financial institutions from time to time party to this Agreement
+(collectively, the "BANKS"; individually, a "BANK"), and Bank of America, N.A.,
+as letter of credit issuing bank and as agent for the Banks.
+
+     WHEREAS, the Banks have agreed to make available to the Company a revolving
+letter of credit facility upon the terms and conditions set forth in this
+Agreement;
+
+     NOW THEREFORE, in consideration of the mutual agreements, provisions and
+covenants contained herein, the parties agree as follows:
+
+                                    ARTICLE I
+
+                                   DEFINITIONS
+
+     1.1. CERTAIN DEFINED TERMS. Capitalized terms used herein shall have the
+meanings set forth in this Section 1.1. Capitalized terms used but not defined
+herein shall have the meanings assigned to such terms in the Restated Credit
+Agreement referred to below:
+
+     "AFFILIATE" means, as to any Person, any other Person which, directly or
+indirectly, is in control of, is controlled by, or is under common control with,
+such Person. A Person shall be deemed to control another Person if the
+controlling Person possesses, directly or indirectly, the power to direct or
+cause the direction of the management and policies of the other Person, whether
+through the ownership of voting securities, membership interests, by contract,
+or otherwise.
+
+     "AGENT" means Bank of America in its capacity as agent for the Banks
+hereunder, and any successor agent arising under Section 10.9.
+
+     "AGENT-RELATED PERSONS" means Bank of America and any successor agent
+arising under Section 10.9 and any successor letter of credit issuing bank
+hereunder, together with their respective Affiliates (including, in the case of
+Bank of America, the Arranger), and the officers, directors, employees and
+attorneys-in-fact of such Persons and Affiliates.
+
+     "AGENT'S PAYMENT OFFICE" means the address for payments set forth on
+Schedule 11.2 to this Agreement or such other address in the United States as
+the Agent may from time to time specify.
+
+     "AGREEMENT" means this LC Credit Agreement.
+
+     "APPLICABLE TIME" means local time to the Agent's Payment Office.
+
+     "ARRANGER" means Banc of America Securities LLC.
+
+<Page>
+
+     "ASSIGNEE" has the meaning specified in subsection 11.8(a).
+
+     "BANK" has the meaning specified in the introductory clause hereto.
+
+     "BASE RATE" means a fluctuating rate per annum equal to the higher of (a)
+the Federal Funds Rate plus 1/2 of 1% or (b) the rate of interest in effect for
+such day as publicly announced from time to time by the Agent as its "prime
+rate." Such rate is a rate set by the Agent based upon various factors including
+the Agent's costs and desired return, general economic conditions and other
+factors, and is used as a reference point for pricing some loans, which may be
+priced at, above, or below such announced rate. Any change in such rate
+announced by Bank of America shall take effect at the opening of business on the
+day specified in the public announcement of such change.
+
+     "BUSINESS DAY" means any day other than a Saturday, Sunday or other day on
+which commercial banks are authorized or required by law to close in the state
+in which Agent's Payment Office is located.
+
+     "CASH COLLATERALIZE" means to pledge and deposit with or deliver to the
+Agent, for the benefit of the Agent, the Issuing Bank and the Banks, as
+collateral for the L/C Obligations, cash or blocked deposit account balances or
+other Collateral (as such term in defined in the L/C Account Agreement), such
+collateral to be in form and substance satisfactory to the Agent.
+
+     "CLOSING DATE" means the date on which all conditions precedent set forth
+in Section 5.1 are satisfied or waived by the Banks.
+
+     "COLLATERAL" means all collateral furnished pursuant to the L/C Account
+Agreement.
+
+     "COMMITMENT" means the commitment of the Issuing Bank to Issue, and the
+commitment of the Banks severally to participate in, Letters of Credit in an
+aggregate amount not to exceed $15,000,000 (such participation by each Bank to
+be pro rata in accordance with its Pro Rata Share). For purposes of the
+Commitment, any Letter of Credit issued in Euros shall be measured at the Dollar
+equivalent thereof.
+
+     "COMPANY" is defined in the preamble.
+
+     "CREDIT EXTENSION" means and includes the Issuance of any Letter of Credit
+hereunder.
+
+     "DEFAULT" means any event or circumstance which, with the giving of notice,
+the lapse of time, or both, would (if not cured or otherwise remedied during
+such time) constitute an Event of Default.
+
+     "DOLLARS", "DOLLARS" and "$" each mean lawful money of the United States.
+
+     "EFFECTIVE AMOUNT" means with respect to any outstanding L/C Obligations on
+any date, the amount of such L/C Obligations on such date after giving effect to
+any Issuances of Letters of Credit occurring on such date and any other changes
+in the aggregate amount of the L/C Obligations as of such date, including as a
+result of any reimbursements of outstanding unpaid
+
+                                       -2-
+<Page>
+
+drawings under any Letters of Credit or any reductions in the maximum amount
+available for drawing under Letters of Credit taking effect on such date.
+
+     "EVENT OF DEFAULT" means any of the events or circumstances specified in
+Section 9.1.
+
+     "EXISTING LETTERS OF CREDIT" means the letters of credit described in
+Schedule 3.3.
+
+     "FEDERAL FUNDS RATE" means, for any day, the rate per annum (rounded
+upwards to the nearest 1/100 of 1%) equal to the weighted average of the rates
+on overnight federal funds transactions with members of the Federal Reserve
+System arranged by federal funds brokers on such day, as published by the
+Federal Reserve Bank on the Business Day next succeeding such day; PROVIDED that
+(a) if such day is not a Business Day, the Federal Funds Rate for such day shall
+be such rate on such transactions on the next preceding Business Day as so
+published on the next succeeding Business Day, and (b) if no such rate is so
+published on such next succeeding Business Day, the Federal Funds Rate for such
+day shall be the average rate charged to Bank of America on such day on such
+transactions as determined by the Agent.
+
+     "FRB" means the Board of Governors of the Federal Reserve System, and any
+Governmental Authority succeeding to any of its principal functions.
+
+     "HONOR DATE" has the meaning specified in subsection 3.3(c).
+
+     "ISSUANCE DATE" has the meaning specified in subsection 3.1(a).
+
+     "ISSUE" means, with respect to any Letter of Credit, to incorporate the
+Letters of Credit into this Agreement, or to issue or to extend the expiry of,
+or to renew or increase the amount of, such Letter of Credit; and the terms
+"ISSUED," "ISSUING" and "ISSUANCE" have corresponding meanings.
+
+     "ISSUING BANK" means Bank of America in its capacity as issuer of one or
+more Letters of Credit hereunder, together with any replacement letter of credit
+issuer arising under subsection 10.1(b) or Section 10.9.
+
+     "L/C ACCOUNT AGREEMENT" means the LC Account Agreement substantially in the
+form of Exhibit B hereto.
+
+     "L/C ADVANCE" means each Bank's participation in any L/C Borrowing in
+accordance with its Pro Rata Share.
+
+     "L/C AMENDMENT APPLICATION" means an application form for amendment of
+outstanding standby or commercial documentary letters of credit as shall at any
+time be in use at the Issuing Bank, as the Issuing Bank shall request.
+
+     "L/C APPLICATION" means an application form for issuances of standby or
+commercial documentary letters of credit as shall at any time be in use at the
+Issuing Bank, as the Issuing Bank shall request.
+
+     "L/C BANKS" means the banks from time to time party to this Agreement.
+
+                                       -3-
+<Page>
+
+     "L/C BORROWING" means an extension of credit resulting from a drawing under
+any Letter of Credit which shall not have been reimbursed pursuant to subsection
+3.3(c) hereof.
+
+     "L/C CONTROL AGREEMENT" shall mean an agreement substantially in the form
+of Exhibit C hereto.
+
+     "L/C DOCUMENTS" means this Agreement, the L/C Account Agreement, the L/C
+Control Agreement, the L/C-Related Documents, and all other documents delivered
+to the Banks in connection herewith.
+
+     "L/C OBLIGATIONS" means at any time the sum of (a) the aggregate undrawn
+amount of all Letters of Credit then outstanding, plus (b) the amount of all
+unreimbursed drawings under all Letters of Credit.
+
+     "L/C-RELATED DOCUMENTS" means the Letters of Credit, the L/C Applications,
+the L/C Amendment Applications, and any other document relating to any Letter of
+Credit, including any of the Issuing Bank's standard form documents for letter
+of credit issuances.
+
+     "L/C TERMINATION DATE" means the earlier to occur of: (a) February 15, 2004
+and (b) the date on which the Commitment terminates in accordance with the
+provisions of this Agreement.
+
+     "LENDING OFFICE" means, as to any Bank, the office or offices of such Bank
+specified as its "Lending Office" or "Domestic Lending Office" or "Offshore
+Lending Office", as the case may be, on SCHEDULE 11.2 to this Agreement, or such
+other office or offices as such Bank may from time to time notify the Company
+and the Agent.
+
+     "LETTERS OF CREDIT" means the Existing Letters of Credit and any letters of
+credit (whether standby letters of credit or commercial documentary letters of
+credit) Issued by the Issuing Bank pursuant to Article II.
+
+     "MAJORITY BANKS" means at any time at least two Banks then holding in
+excess of 85% of the Commitment.
+
+     "MATERIAL ADVERSE EFFECT" means (a) a material adverse change in, or a
+material adverse effect upon, the operations, business, properties or financial
+condition of the Company and its Subsidiaries taken as a whole; (b) a material
+impairment of the ability of the Company or any Subsidiary to perform under any
+L/C Document and to avoid any Event of Default; or (c) a material adverse effect
+upon the legality, validity, binding effect or enforceability against the
+Company or any Subsidiary of any L/C Document.
+
+     "OBLIGATIONS" means all advances, debts, liabilities, obligations,
+covenants and duties arising under any L/C Document owing by the Company or any
+Subsidiary to any Bank, or any Indemnified Person, whether direct or indirect
+(including those acquired by assignment), absolute or contingent, due or to
+become due, or now existing or hereafter arising. Obligations shall include,
+without limitation, the L/C Obligations.
+
+     "OTHER TAXES" means any present or future stamp, court or documentary taxes
+or any other excise or property taxes, charges or similar levies which arise
+from any payment made
+
+                                       -4-
+<Page>
+
+hereunder or from the execution, delivery, performance, enforcement or
+registration of, or otherwise with respect to, this Agreement or any other L/C
+Documents.
+
+     "PERSON" means an individual, partnership, corporation, limited liability
+company, business trust, joint stock company, trust, unincorporated association,
+joint venture or Governmental Authority.
+
+     "PRO RATA SHARE" means, as to any Bank at any time, the percentage set
+forth opposite such Bank's name on Schedule I to this Agreement, as the same may
+be adjusted pursuant to one or more assignments pursuant to Section 11.8.
+
+     "REQUIRED BANKS" means all Banks.
+
+     "RESTATED CREDIT AGREEMENT" means the Amended and Restated Credit Agreement
+dated as of March 24, 2003, among the Company, various financial institutions,
+and Bank of America, N.A., as Agent, as the same may be further amended or
+modified from time to time with the consent of the Banks, it being understood
+that any such amendment or modification not so consented to by the Banks shall
+be disregarded for purposes of this Agreement.
+
+     1.2. OTHER INTERPRETIVE PROVISIONS.
+
+     (1) The meanings of defined terms are equally applicable to the singular
+and plural forms of the defined terms.
+
+     (2) The words "hereof", "herein", "hereunder" and similar words refer to
+this Agreement as a whole and not to any particular provision of this
+Agreement; and subsection, Section, Schedule and Exhibit references are to
+this Agreement unless otherwise specified.
+
+     (3) (i) The term "documents" includes any and all instruments, documents,
+agreements, certificates, indentures, notices and other writings, however
+evidenced.
+
+          (ii) The term "including" is not limiting and means "including without
+     limitation."
+
+          (iii) In the computation of periods of time from a specified date to a
+     later specified date, the word "from" means "from and including"; the words
+     "to" and "until" each mean "to but excluding", and the word "through" means
+     "to and including."
+
+     (4) Unless otherwise expressly provided herein, (i) references to
+agreements (including this Agreement) and other contractual instruments shall be
+deemed to include all subsequent amendments and other modifications thereto, but
+only to the extent such amendments and other modifications are not prohibited by
+the terms of any L/C Document, and (ii) references to any statute or regulation
+are to be construed as including all statutory and regulatory provisions
+consolidating, amending, replacing, supplementing or interpreting the statute or
+regulation.
+
+     (5) The captions and headings of this Agreement are for convenience of
+reference only and shall not affect the interpretation of this Agreement.
+
+                                       -5-
+<Page>
+
+     (6) This Agreement and the other L/C Documents are the result of
+negotiations among and have been reviewed by counsel to the Agent, the Company
+and the other parties, and are the products of all parties. Accordingly, they
+shall not be construed against the Banks or the Agent merely because of the
+Agent's or Banks' involvement in their preparation.
+
+                                   ARTICLE II
+
+                                   COMMITMENT
+
+     2.1. AMOUNT OF COMMITMENT. On the terms and conditions set forth herein,
+
+     (a) the Issuing Bank agrees, (i) from time to time on any Business Day
+during the period from the Closing Date to the L/C Termination Date to issue
+Letters of Credit for the account of the Company and/or, subject to Section 3.10
+and subject to the Agent receiving such documentation in form and substance
+satisfactory to it, for the joint and several account of the Company and the
+Domestic Subsidiaries parties to such documentation (the Company and each such
+Domestic Subsidiary are referred to herein individually as an "ACCOUNT PARTY"
+and collectively as the "ACCOUNT PARTIES"), and to amend or renew Letters of
+Credit previously issued by it, in accordance with subsections 3.2(c) and
+3.2(d), and (ii) to honor drafts under the Letters of Credit; and
+
+     (b) the Banks severally agree to participate in Letters of Credit Issued
+for the account of the Account Parties;
+
+provided, that the Issuing Bank shall not be obligated to Issue, and no Bank
+shall be obligated to participate in, any Letter of Credit if as of the date of
+Issuance of such Letter of Credit (the "ISSUANCE DATE") (i) the Effective Amount
+of all L/C Obligations exceeds the Commitment or (ii) the participation of any
+Bank in the Effective Amount of all L/C Obligations exceeds such Bank's Pro Rata
+Share of the Commitment. Within the foregoing limits, and subject to the other
+terms and conditions hereof, the Account Parties' ability to obtain Letters of
+Credit shall be fully revolving, and, accordingly, the Account Parties may,
+during the foregoing period, obtain Letters of Credit to replace Letters of
+Credit which have expired, been terminated or which have been drawn upon and
+reimbursed.
+
+     2.2. VOLUNTARY TERMINATION OR REDUCTION OF COMMITMENTS. The Company may,
+upon not less than five Business Days' prior notice to the Agent, terminate the
+Commitment, or permanently reduce the Commitment by an aggregate minimum amount
+of $5,000,000 or any multiple of $500,000 in excess thereof; UNLESS, after
+giving effect thereto, the Effective Amount of all L/C Obligations would exceed
+the amount of the Commitment then in effect. Once reduced in accordance with
+this Section 2.2, the Commitment may not be increased. Any reduction of the
+Commitment shall be applied to each Bank according to its Pro Rata Share. All
+accrued letter of credit fees to, but not including, the effective date of any
+reduction or termination of the Commitment, shall be paid on the effective date
+of such reduction or termination.
+
+                                       -6-
+<Page>
+
+                                   ARTICLE III
+
+                                LETTERS OF CREDIT
+
+     3.1. Letters of Credit
+
+     (a) The Issuing Bank shall issue Letters of Credit subject to Section 2.1
+and the other provisions of this Agreement.
+
+     (b) The Issuing Bank is under no obligation to Issue any Letter of Credit
+if:
+
+          (i) any order, judgment or decree of any Governmental Authority or
+     arbitrator shall by its terms purport to enjoin or restrain the Issuing
+     Bank from Issuing such Letter of Credit, or any Requirement of Law
+     applicable to the Issuing Bank or any request or directive (whether or not
+     having the force of law) from any Governmental Authority with jurisdiction
+     over the Issuing Bank shall prohibit, or request that the Issuing Bank
+     refrain from, the Issuance of letters of credit generally or such Letter of
+     Credit in particular or shall impose upon the Issuing Bank with respect to
+     such Letter of Credit any restriction, reserve or capital requirement (for
+     which the Issuing Bank is not otherwise compensated hereunder) not in
+     effect on the Closing Date, or shall impose upon the Issuing Bank any
+     unreimbursed loss, cost or expense which was not applicable on the Closing
+     Date and which the Issuing Bank in good faith deems material to it;
+
+          (ii) the Issuing Bank has received written notice from any Bank, the
+     Agent or the applicable Account Party, on or prior to the Business Day
+     prior to the requested date of Issuance of such Letter of Credit, that one
+     or more of the applicable conditions contained in Article V is not then
+     satisfied;
+
+          (iii) the expiry date of any requested Letter of Credit is more than
+     360 days after the date of Issuance, unless the Majority Banks have
+     approved such expiry date in writing;
+
+          (iv) the expiry date of any requested Letter of Credit is prior to the
+     maturity date of any financial obligation to be supported by the requested
+     Letter of Credit;
+
+          (v) any requested Letter of Credit does not provide for drafts, or is
+     not otherwise in form and substance acceptable to the Issuing Bank, or the
+     Issuance of a Letter of Credit shall violate any applicable policies of the
+     Issuing Bank; or
+
+          (vi) any standby Letter of Credit is for the purpose of supporting the
+     issuance of any letter of credit by any other Person.
+
+          (vii) such Letter of Credit is denominated in a currency other than
+     Dollars or Euros.
+
+     3.2. ISSUANCE, AMENDMENT AND RENEWAL OF LETTERS OF CREDIT
+
+                                       -7-
+<Page>
+
+     (a) Each Letter of Credit shall be issued upon the irrevocable written
+request of the applicable Account Party received by the Issuing Bank (with a
+copy sent by the Account Party to the Agent) at least three Business Days (or
+such shorter time as the Issuing Bank may agree in a particular instance in its
+sole discretion) prior to the proposed date of issuance. Each such request for
+issuance of a Letter of Credit shall be by facsimile, confirmed immediately in
+an original writing, in the form of an L/C Application, and shall specify in
+form and detail satisfactory to the Issuing Bank: (i) the proposed date of
+issuance of the Letter of Credit (which shall be a Business Day); (ii) the face
+amount of the Letter of Credit; (iii) the expiry date of the Letter of Credit;
+(iv) the name and address of the beneficiary thereof; (v) the documents to be
+presented by the beneficiary of the Letter of Credit in case of any drawing
+thereunder; (vi) the full text of any certificate to be presented by the
+beneficiary in case of any drawing thereunder; and (vii) such other matters as
+the Issuing Bank may require.
+
+     (b) At least two Business Days prior to the Issuance of any Letter of
+Credit (or such shorter time as the Issuing Bank may agree in a particular
+instance in its sole discretion), the Issuing Bank will confirm with the Agent
+(by telephone or in writing) that the Agent has received a copy of the L/C
+Application or L/C Amendment Application from the applicable Account Party and,
+if not, the Issuing Bank will provide the Agent with a copy thereof. Unless the
+Issuing Bank has received notice on or before the Business Day immediately
+preceding the date the Issuing Bank is to issue a requested Letter of Credit
+from the Agent (A) directing the Issuing Bank not to issue such Letter of Credit
+because such issuance is not then permitted under Section 2.1 as a result of the
+limitations set forth therein; or (B) that one or more conditions specified in
+Article V are not then satisfied; then, subject to the terms and conditions
+hereof, the Issuing Bank shall, on the requested date, issue a Letter of Credit
+for the account of the applicable Account Parties in accordance with the Issuing
+Bank's usual and customary business practices.
+
+     (c) From time to time while a Letter of Credit is outstanding and prior to
+the L/C Termination Date, the Issuing Bank will, upon the written request of the
+applicable Account Parties received by the Issuing Bank (with a copy sent by the
+applicable Account Party to the Agent) at least five days (or such shorter time
+as the Issuing Bank may agree in a particular instance in its sole discretion)
+prior to the proposed date of amendment, amend any Letter of Credit issued by
+it. Each such request for amendment of a Letter of Credit shall be made by
+facsimile, confirmed immediately in an original writing, made in the form of an
+L/C Amendment Application and shall specify in form and detail satisfactory to
+the Issuing Bank: (i) the Letter of Credit to be amended; (ii) the proposed date
+of amendment of the Letter of Credit (which shall be a Business Day); (iii) the
+nature of the proposed amendment; and (iv) such other matters as the Issuing
+Bank may require. The Issuing Bank shall be under no obligation to amend any
+Letter of Credit if: (A) the Issuing Bank would have no obligation at such time
+to issue such Letter of Credit in its amended form under the terms of this
+Agreement; or (B) the beneficiary of any such letter of Credit does not accept
+the proposed amendment to the Letter of Credit. The Agent will promptly notify
+the Banks of the receipt by it of any L/C Application or L/C Amendment
+Application.
+
+     (d) The Issuing Bank and the Banks agree that, while a Letter of Credit is
+outstanding and prior to the L/C Termination Date, at the option of the
+applicable Account Party and upon the written request of the applicable Account
+Party received by the Issuing Bank (with a copy
+
+                                       -8-
+<Page>
+
+sent by the applicable Account Party to the Agent) at least five days (or such
+shorter time as the Issuing Bank may agree in a particular instance in its sole
+discretion) prior to the proposed date of notification of renewal, the Issuing
+Bank shall be entitled to authorize the automatic renewal of any Letter of
+Credit issued by it. Each such request for renewal of a Letter of Credit shall
+be made by facsimile, confirmed immediately in an original writing, in the form
+of an L/C Amendment Application, and shall specify in form and detail
+satisfactory to the Issuing Bank: (i) the Letter of Credit to be renewed; (ii)
+the proposed date of notification of renewal of the Letter of Credit (which
+shall be a Business Day); (iii) the revised expiry date of the Letter of Credit;
+and (iv) such other matters as the Issuing Bank may require. The Issuing Bank
+shall be under no obligation to renew any Letter of Credit if: (A) the Issuing
+Bank would have no obligation at such time to issue or amend such Letter of
+Credit in its renewed form under the terms of this Agreement; or (B) the
+beneficiary of any such Letter of Credit does not accept the proposed renewal of
+the Letter of Credit. If any outstanding Letter of Credit shall provide that it
+shall be automatically renewed unless the beneficiary thereof receives notice
+from the Issuing Bank that such Letter of Credit shall not be renewed, and if at
+the time of renewal the Issuing Bank would be entitled to authorize the
+automatic renewal of such Letter of Credit in accordance with this subsection
+3.2(d) upon the request of the Account Party but the Issuing Bank shall not have
+received any L/C Amendment Application from an applicable Account Party with
+respect to such renewal or other written direction by the applicable Account
+Party with respect thereto, the Issuing Bank shall nonetheless be permitted to
+allow such Letter of Credit to renew, and the applicable Account Party and the
+Banks hereby authorize such renewal, and, accordingly, the Issuing Bank shall be
+deemed to have received an L/C Amendment Application from the applicable Account
+Party requesting such renewal. Any renewal of any Letter of Credit shall be
+subject to and in compliance with Section 3.1(b)(iii).
+
+     (e) Subject to the provisions of subsection 3.1(b)(iii), the Issuing Bank
+may, at its election (or as required by the Agent at the direction of the
+Majority Banks), deliver any notices of termination or other communications to
+any Letter of Credit beneficiary or transferee, and take any other action as
+necessary or appropriate, at any time and from time to time, in order to cause
+the expiry date of such Letter of Credit to be a date not later than the L/C
+Termination Date.
+
+     (f) This Agreement shall control in the event of any conflict with any
+L/C-Related Document (other than any Letter of Credit).
+
+     (g) The Issuing Bank will also deliver to the Agent, concurrently or
+promptly following its delivery of a Letter of Credit, or amendment to or
+renewal of a Letter of Credit, to an advising bank or a beneficiary, a true and
+complete copy of each such Letter of Credit or amendment to or renewal of a
+Letter of Credit.
+
+     3.3. EXISTING LETTERS OF CREDIT; RISK PARTICIPATIONS, DRAWINGS AND
+REIMBURSEMENTS.
+
+     (a) On and after the Closing Date, the Existing Letters of Credit shall be
+deemed for all purposes, including for purposes of the fees to be collected
+pursuant to subsections 3.8(a) and 3.8(c), and reimbursement of costs and
+expenses to the extent provided herein, Letters of Credit outstanding under this
+Agreement and entitled to the benefits of this Agreement and the other L/C
+Documents, and shall be governed by the applications and agreements pertaining
+thereto and
+
+                                       -9-
+<Page>
+
+by this Agreement. Each Bank shall be deemed to, and hereby irrevocably and
+unconditionally agrees to, purchase from the Issuing Bank on the Closing Date a
+participation in each such Letter of Credit and each drawing thereunder in an
+amount equal to the product of (i) such Bank's Pro Rata Share times (ii) the
+maximum amount available to be drawn under such Letter of Credit and the amount
+of such drawing, respectively. For purposes of Section 2.1, the Existing Letters
+of Credit shall be deemed to utilize pro rata the Commitment of each Bank.
+
+     (b) Immediately upon the Issuance of each Letter of Credit in addition to
+those described in subsection 3.3(a), each Bank shall be deemed to, and hereby
+irrevocably and unconditionally agrees to, purchase from the Issuing Bank a
+participation in such Letter of Credit and each drawing thereunder in an amount
+equal to the product of (i) the Pro Rata Share of such Bank, times (ii) the
+maximum amount available to be drawn under such Letter of Credit and the amount
+of such drawing, respectively. For purposes of Section 2.1, each Issuance of a
+Letter of Credit shall be deemed to utilize the Commitment of each Bank by an
+amount equal to the amount of such participation.
+
+     (c) In the event of any request for a drawing under a Letter of Credit by
+the beneficiary or transferee thereof, the Issuing Bank will promptly notify the
+applicable Account Party, which notification will, in any event, be received by
+the applicable Account Party on the same Business Day any such request is
+received by the Issuing Bank before 4 p.m. and on the next Business Day, if such
+request is received after 4 p.m. The applicable Account Party shall reimburse
+the Issuing Bank prior to 10:30 a.m. (Applicable Time), on each date that any
+amount is paid by the Issuing Bank under any Letter of Credit (each such date,
+an "Honor Date"), in an amount equal to the amount so paid by the Issuing Bank.
+In the event the applicable Account Party fails to reimburse the Issuing Bank
+for the full amount of any drawing under any Letter of Credit by 10:30 a.m.
+(Applicable Time) on the Honor Date, the Issuing Bank will direct the Agent to
+liquidate (and the Agent shall and is hereby authorized to liquidate) Collateral
+in an amount sufficient to reimburse in full the Issuing Bank for the amount of
+such drawing and any related amounts. Upon such liquidation, the Agent shall pay
+to the Issuing Bank the amount so liquidated. Any notice given by the Issuing
+Bank or the Agent pursuant to this subsection 3.3(c) may be oral if immediately
+confirmed in writing (including by facsimile); provided that the lack of such an
+immediate confirmation shall not affect the conclusiveness or binding effect of
+such notice.
+
+     (d) To the extent that the Issuing Bank is not fully reimbursed for a
+drawing pursuant to Section 3.3(c), it shall so notify the Agent and the Agent
+shall promptly so notify each Bank. Upon such notice, each Bank not so
+reimbursed to the Issuing Bank make available to the Agent for the account of
+the Issuing Bank an amount in Dollars and in immediately available funds equal
+to its Pro Rata Share of the amount of the drawing not so reimbursed to the
+Issuing Bank. If any Bank so notified fails to make available to the Agent for
+the account of the Issuing Bank the amount of such Bank's Pro Rata Share of the
+amount of the unreimbursed drawing by no later than 12:00 noon (Applicable Time)
+on the Honor Date, then interest shall accrue on such Bank's obligation to make
+such payment, from the Honor Date to the date such Bank makes such payment, at a
+rate per annum equal to the Federal Funds Rate in effect from time to time
+during such period. The Agent will promptly give notice of the occurrence of the
+Honor Date, but failure of the Agent to give any such notice on the Honor Date
+or in sufficient time to enable any
+
+                                      -10-
+<Page>
+
+Bank to effect such payment on such date shall not relieve such Bank from its
+obligations under this Section 3.3.
+
+     (e) With respect to any unreimbursed drawing that is not fully reimbursed
+by the Company pursuant to Section 3.3(c), the Company shall be deemed to have
+incurred from the Issuing Bank an L/C Borrowing in the amount of such drawing,
+which L/C Borrowing shall be due and payable on demand (together with interest)
+and shall bear interest at a rate per annum equal to the Base Rate plus 4% per
+annum, and each Bank's payment to the Issuing Bank pursuant to subsection 3.3(d)
+shall be deemed payment in respect of its participation in such L/C Borrowing
+and shall constitute an L/C Advance from such Bank in satisfaction of its
+participation obligation under this Section 3.3.
+
+     (f) Each Bank's obligation in accordance with this Agreement to make the
+L/C Advances, as contemplated by this Section 3.3, as a result of a drawing
+under a Letter of Credit, shall be absolute and unconditional and without
+recourse to the Issuing Bank and shall not be affected by any circumstance,
+including (i) any set-off, counterclaim, recoupment, defense or other right
+which such Bank may have against the Issuing Bank, the Account Party or any
+other Person for any reason whatsoever; (ii) the occurrence or continuance of a
+Default, an Event of Default or a Material Adverse Effect; or (iii) any other
+circumstance, happening or event whatsoever, whether or not similar to any of
+the foregoing.
+
+     3.4. REPAYMENT OF PARTICIPATIONS.
+
+     (a) Upon (and only upon) receipt by the Agent for the account of the
+Issuing Bank of immediately available funds from the applicable Account Party
+(i) in reimbursement of any payment made by the Issuing Bank under the Letter of
+Credit with respect to which any Bank has paid the Agent for the account of the
+Issuing Bank for such Bank's participation therein pursuant to Section 3.3 or
+(ii) in payment of interest thereon, the Agent will pay to each Bank, in the
+same funds as those received by the Agent for the account of the Issuing Bank,
+the amount of such Bank's Pro Rata Share of such funds, and the Issuing Bank
+shall receive the amount of the Pro Rata Share of such funds of any Bank that
+did not so pay the Agent for the account of the Issuing Bank.
+
+     (b) If the Agent or the Issuing Bank is required at any time to return to
+the applicable Account Party, or to a trustee, receiver, liquidator, custodian,
+or any official in any Insolvency Proceeding, any portion of the payments made
+by the Company or the other applicable Account Party to the Agent for the
+account of the Issuing Bank pursuant to subsection 3.4(a) in reimbursement of a
+payment made under the Letter of Credit or interest or fee thereon, each Bank
+shall, on demand of the Agent, forthwith return to the Agent or the Issuing Bank
+the amount of its Pro Rata Share of any amounts so returned by the Agent or the
+Issuing Bank plus interest thereon from the date such demand is made to the date
+such amounts are returned by such Bank to the Agent or the Issuing Bank, at a
+rate per annum equal to the Federal Funds Rate in effect from time to time.
+
+                                      -11-
+<Page>
+
+     3.5. ROLE OF THE ISSUING BANK.
+
+     (a) Each Bank, the Company and the other Account Parties agree that, in
+paying any drawing under a Letter of Credit, the Issuing Bank shall not have any
+responsibility to obtain any document (other than any sight draft, document and
+certificates expressly required by the Letter of Credit) or to ascertain or
+inquire as to the validity or accuracy (other than conformity with the draw
+requirements of such Letter of Credit) of any such document or the authority of
+the Person executing or delivering any such document.
+
+     (b) No Agent-Related Person nor any of the respective correspondents,
+participants or assignees of the Issuing Bank shall be liable to any Bank for:
+(i) any action taken or omitted in connection herewith at the request or with
+the approval of the Banks (including the Majority Banks, as applicable); (ii)
+any action taken or omitted in the absence of gross negligence or willful
+misconduct; or (iii) the due execution, effectiveness, validity or
+enforceability of any L/C-Related Document.
+
+     (c) The Company and the other Account Parties hereby assume all risks of
+the acts or omissions of any beneficiary or transferee with respect to its use
+of any Letter of Credit; provided, however, that this assumption is not intended
+to, and shall not, preclude the Company's or any other Account Party's pursuing
+such rights and remedies as it may have against the beneficiary or transferee at
+law or under any other agreement. No Agent-Related Person, nor any of the
+respective correspondents, participants or assignees of the Issuing Bank, shall
+be liable or responsible for any of the matters described in clauses (i) through
+(vii) of Section 2.6; provided, however, anything in such clauses to the
+contrary notwithstanding, that the Company or the other Account Parties may have
+a claim against the Issuing Bank, and the Issuing Bank may be liable to the
+Company or the other Account Parties, to the extent, but only to the extent, of
+any direct, as opposed to consequential or exemplary, damages suffered by the
+Company or the other Account Parties which were caused by the Issuing Bank's
+willful misconduct or gross negligence (which shall include payment against
+non-conforming draw request documentation) or the Issuing Bank's willful failure
+to pay under any Letter of Credit after the presentation to it by the
+beneficiary of a sight draft, documents and certificate(s) strictly complying
+with the terms and conditions of a Letter of Credit. In furtherance and not in
+limitation of the foregoing: (i) the Issuing Bank may accept documents that
+appear on their face to be in order, without responsibility for further
+investigation, regardless of any notice or information to the contrary; and (ii)
+the Issuing Bank shall not be responsible for the validity or sufficiency of any
+instrument transferring or assigning or purporting to transfer or assign a
+Letter of Credit or the rights or benefits thereunder or proceeds thereof, in
+whole or in part, which may prove to be invalid or ineffective for any reason.
+
+     3.6. OBLIGATIONS ABSOLUTE. The obligations of each Account Party under this
+Agreement and any L/C-Related Document to reimburse the Issuing Bank for a
+drawing under a Letter of Credit, shall be unconditional and irrevocable, and
+shall be paid strictly in accordance with the terms of this Agreement and each
+such other L/C-Related Document under all circumstances, including the
+following:
+
+          (i) any lack of validity or enforceability of this Agreement or any
+     L/C-Related Document;
+
+                                      -12-
+<Page>
+
+          (ii) any change in the time, manner or place of payment of, or in any
+     other term of, all or any of the obligations of the Company in respect of
+     any Letter of Credit or any other amendment or waiver of or any consent to
+     departure from all or any of the L/C-Related Documents;
+
+          (iii) the existence of any claim, set-off, defense or other right that
+     the Company may have at any time against any beneficiary or any transferee
+     of any Letter of Credit (or any Person for whom any such beneficiary or any
+     such transferee may be acting), the Issuing Bank or any other Person,
+     whether in connection with this Agreement, the transactions contemplated
+     hereby or by the L/C-Related Documents or any unrelated transaction;
+
+          (iv) any draft, demand, certificate or other document presented under
+     any Letter of Credit proving to be forged, fraudulent, invalid or
+     insufficient in any respect or any statement therein being untrue or
+     inaccurate in any respect; or any loss or delay in the transmission or
+     otherwise of any document required in order to make a drawing under any
+     Letter of Credit;
+
+          (v) any payment made by the Issuing Bank under any Letter of Credit to
+     any Person purporting to be a trustee in bankruptcy, debtor-in-possession,
+     assignee for the benefit of creditors, liquidator, receiver or other
+     representative of or successor to any beneficiary or any transferee of any
+     Letter of Credit, including any arising in connection with any Insolvency
+     Proceeding;
+
+          (vi) any exchange, release or non-perfection of any collateral, or any
+     release or amendment or waiver of or consent to departure from any other
+     guarantee, for all or any of the obligations of the Company in respect of
+     any Letter of Credit; or
+
+          (vii) any other circumstance or happening whatsoever, whether or not
+     similar to any of the foregoing, including any other circumstance that
+     might otherwise constitute a defense available to, or a discharge of, the
+     Company or a guarantor.
+
+     3.7. CASH COLLATERAL PLEDGE. Pursuant to the L/C Account Agreement, the
+Company shall cause all L/C Obligations to be at all times Cash Collateralized
+in an amount equal to or greater than such L/C Obligations.
+
+     3.8. LETTER OF CREDIT FEES.
+
+     (a) The Company shall pay to the Agent for the ratable account of each of
+the Banks a letter of credit fee with respect to the Letters of Credit, such fee
+to be equal to (i) in the case of each standby Letter of Credit, 3.00% per annum
+on the average daily maximum amount available to be drawn on such standby Letter
+of Credit, and (ii) in the case of each commercial or trade Letter of Credit,
+0.30% per annum on the average daily maximum amount available to be drawn on
+such commercial or trade Letter of Credit. Such fees shall be computed on a
+quarterly basis in arrears on the last Business Day of each calendar quarter
+based upon Letters of Credit outstanding for that quarter, as calculated by the
+Agent. Such letter of credit fees shall be due and payable quarterly in arrears
+on the last Business Day of each calendar quarter during which Letters of Credit
+are outstanding, commencing on the first such quarterly date to occur after the
+
+                                      -13-
+<Page>
+
+Closing Date, through the L/C Termination Date (or such later date upon which
+the outstanding Letters of Credit shall expire), with the final payment to be
+made on the L/C Termination Date (or such later expiration date).
+
+     (b) [Reserved].
+
+     (c) The Company shall pay to the Issuing Bank from time to time on demand
+the normal issuance, presentation, amendment and other processing fees, and
+other standard costs and charges, of the Issuing Bank relating to letters of
+credit as from time to time in effect.
+
+     3.9. UNIFORM CUSTOMS AND PRACTICE. The Uniform Customs and Practice for
+Documentary Credits as published by the International Chamber of Commerce most
+recently at the time of issuance of any Letter of Credit shall (unless otherwise
+expressly provided in the Letters of Credit) apply to the Letters of Credit.
+
+     3.10. GUARANTY OF THE COMPANY. The Company hereby unconditionally
+guaranties all L/C Obligations of all Account Parties and agrees to pay or cause
+each Account Party to pay to the Issuing Bank when due all L/C Obligations of
+such Account Party.
+
+     3.11. PAYMENTS BY THE COMPANY.
+
+     (a) All payments to be made by the Company shall be made without set-off,
+recoupment or counterclaim. Except as otherwise expressly provided herein, all
+payments by the Company shall be made to the Agent for the account of the Banks
+at the Agent's Payment Office, and shall be made in Dollars (in the case of a
+Letter of Credit issued in Euros, each reimbursement by any Credit Party shall
+be in the Dollar equivalent of the amount of a draw in Euros) and in immediately
+available funds, no later than 12:00 p.m. (Applicable Time) on the date
+specified herein. The Agent will promptly distribute to each Bank its Pro Rata
+Share (or other applicable share as expressly provided herein) of such payment
+in like funds as received. Any payment received by the Agent later than 12:00
+p.m. (Applicable Time) shall be deemed to have been received on the following
+Business Day and any applicable interest or fee shall continue to accrue.
+
+     (b) Unless the Agent receives notice from the Company prior to the date on
+which any payment is due to the Banks that the Company will not make such
+payment in full as and when required, the Agent may assume that the Company has
+made such payment in full to the Agent on such date in immediately available
+funds and the Agent may (but shall not be so required), in reliance upon such
+assumption, distribute to each Bank on such due date an amount equal to the
+amount then due such Bank. If and to the extent the Company has not made such
+payment in full to the Agent, each Bank shall repay to the Agent on demand such
+amount distributed to such Bank, together with interest thereon at the Federal
+Funds Rate for each day from the date such amount is distributed to such Bank
+until the date repaid.
+
+                                   ARTICLE IV
+
+                     TAXES, YIELD PROTECTION AND ILLEGALITY
+
+     4.1. TAXES
+
+                                      -14-
+<Page>
+
+     (a) Any and all payments by the Company to each Bank or the Agent under
+this Agreement and any other L/C Document shall be made free and clear of, and
+without deduction or withholding for, any Taxes. In addition, the Company shall
+pay all Other Taxes.
+
+     (b) If the Company shall be required by law to deduct or withhold any
+Taxes, Other Taxes or Further Taxes from or in respect of any sum payable
+hereunder to any Bank or the Agent, then:
+
+          (i) the sum payable shall be increased as necessary so that, after
+     making all required deductions and withholdings (including deductions and
+     withholdings applicable to additional sums payable under this Section),
+     such Bank or the Agent, as the case may be, receives and retains an amount
+     equal to the sum it would have received and retained had no such deductions
+     or withholdings been made;
+
+          (ii) the Company shall make such deductions and withholdings;
+
+          (iii) the Company shall pay the full amount deducted or withheld to
+     the relevant taxing authority or other authority in accordance with
+     applicable law; and
+
+          (iv) the Company shall also pay to each Bank or the Agent for the
+     account of such Bank, at the time interest is paid, Further Taxes in the
+     amount that the respective Bank specifies in good faith as necessary to
+     preserve the after-tax yield the Bank would have received if such Taxes,
+     Other Taxes or Further Taxes had not been imposed.
+
+     (c) The Company agrees to indemnify and hold harmless each Bank and the
+Agent for the full amount of i) Taxes, ii) Other Taxes, and iii) Further Taxes
+in the amount that the respective Bank specifies in good faith as necessary to
+preserve the after-tax yield the Bank would have received if such Taxes, Other
+Taxes or Further Taxes had not been imposed, and any liability (including
+penalties, interest, additions to tax and expenses) arising therefrom or with
+respect thereto, whether or not such Taxes, Other Taxes or Further Taxes were
+correctly or legally asserted. Payment under this indemnification shall be made
+within 30 days after the date the Bank or the Agent makes written demand
+therefor.
+
+     (2) Within 30 days after the date of any payment by the Company of Taxes,
+Other Taxes or Further Taxes, the Company shall furnish to each Bank or the
+Agent the original or a certified copy of a receipt evidencing payment thereof,
+or other evidence of payment satisfactory to such Bank or the Agent.
+
+     (3) If the Company is required to pay any amount to any Bank or the Agent
+pursuant to subsection (b) or (c) of this Section, then such Bank shall use
+reasonable efforts (consistent with legal and regulatory restrictions) to change
+the jurisdiction of its Lending Office so as to eliminate any such additional
+payment by the Company which may thereafter accrue, if such change in the sole
+judgment of such Bank is not otherwise disadvantageous to such Bank.
+
+     4.2. INCREASED COSTS AND REDUCTION OF RETURN.
+
+     (a) If any Bank determines that, due to either (i) the introduction of or
+any change in or in the interpretation of any law or regulation or (ii) the
+compliance by that Bank with any
+
+                                      -15-
+<Page>
+
+guideline or request from any central bank or other Governmental Authority
+(whether or not having the force of law), there shall be any increase in the
+cost to the Issuing Bank of agreeing to issue, issuing or maintaining any Letter
+of Credit or of agreeing to make or making, funding or maintaining any unpaid
+drawing under any Letter of Credit, then the Company shall be liable for, and
+shall from time to time, upon demand (with a copy of such demand to be sent to
+the Agent), pay to the Agent for the account of such Bank, additional amounts as
+are sufficient to compensate such Bank for such increased costs.
+
+     (b) If any Bank shall have determined that (i) the introduction of any
+Capital Adequacy Regulation, (ii) any change in any Capital Adequacy Regulation,
+(iii) any change in the interpretation or administration of any Capital Adequacy
+Regulation by any central bank or other Governmental Authority charged with the
+interpretation or administration thereof, or (iv) compliance by the Bank (or its
+Lending Office) or any corporation controlling the Bank with any Capital
+Adequacy Regulation, affects or would affect the amount of capital required or
+expected to be maintained by the Bank or any corporation controlling the Bank
+and (taking into consideration such Bank's or such corporation's policies with
+respect to capital adequacy and such Bank's desired return on capital)
+determines that the amount of such capital is increased as a consequence of its
+Commitment, loans, credits or obligations under this Agreement, then, upon
+demand of such Bank to the Company through the Agent, the Company shall pay to
+the Bank, from time to time as specified by the Bank, additional amounts
+sufficient to compensate the Bank for such increase.
+
+     4.3. CERTIFICATES OF BANKS. Any Bank claiming reimbursement or compensation
+under this Article IV shall deliver to the Company (with a copy to the Agent)
+within six months of the date on which such Bank becomes entitled to claim such
+reimbursement or compensation a certificate setting forth in reasonable detail
+the amount payable to the Bank hereunder and such certificate shall be
+conclusive and binding on the Company in the absence of manifest error.
+
+     4.4. SURVIVAL. The agreements and obligations of the Company in this
+Article III shall survive the payment of all other Obligations.
+
+                                    ARTICLE V
+
+                              CONDITIONS PRECEDENT
+
+     5.1. CONDITIONS OF INITIAL CREDIT EXTENSIONS. The obligation of any Bank to
+make an initial Credit Extension under this Agreement is subject to the
+condition that the Agent shall have received on or before the Closing Date all
+of the following, in form and substance satisfactory to the Agent and in
+sufficient copies for each Bank:
+
+     (a) L/C DOCUMENTS. This Agreement, and the L/C Account Agreement and the
+L/C Control Agreement executed by the Company (and in the case of this
+Agreement, the Domestic Subsidiaries);
+
+     (b) RESOLUTIONS; INCUMBENCY. (i) Copies of the resolutions of the board of
+directors of the Company authorizing the transactions contemplated hereby,
+certified as of the Closing Date by the Secretary or an Assistant Secretary of
+the Company; and (ii) a certificate of the Secretary
+
+                                      -16-
+<Page>
+
+or Assistant Secretary of the Company certifying the names and true signatures
+of the officers of the Company authorized to execute, deliver and perform, as
+applicable, this Agreement, and all other L/C Documents to be delivered by the
+Company hereunder;
+
+     (c) ORGANIZATION DOCUMENTS; GOOD STANDING. Each of the following documents:
+(i) the articles or certificate of incorporation and the bylaws of the Company
+as in effect on the Closing Date and certified by the Secretary or Assistant
+Secretary of the Company as of the Closing Date; and (ii) a good standing
+certificate for the Company from the Secretary of State (or similar, applicable
+Governmental Authority) of Delaware and Illinois as of a recent date;
+
+     (d) LEGAL OPINIONS. An opinion of Deborah Fulton, general counsel to the
+Company and addressed to the Bank, substantially in the form of EXHIBIT C;
+
+     (e) PAYMENT OF FEES. Evidence of payment by the Company of all accrued and
+unpaid fees, costs and expenses to the extent then due and payable on the
+Closing Date, together with reasonable Attorney Costs of the Bank to the extent
+invoiced prior to or on the Closing Date;
+
+     (f) CERTIFICATE. A certificate signed by a Responsible Officer, dated as of
+the Closing Date, stating that: (i) the representations and warranties contained
+in Article IV are true and correct on and as of such date, as though made on and
+as of such date; (ii) no Default or Event of Default exists or would result from
+the Credit Extension; and (iii) there has occurred since December 31, 2002, no
+event or circumstance that has resulted or could reasonably be expected to
+result in a Material Adverse Effect;
+
+     (g) CLOSING OF RESTATED CREDIT AGREEMENT. Evidence satisfactory to the
+Agent and the Banks that the Restatement Closing Date under and as defined in
+the Restated Credit Agreement has occurred; and
+
+     (h) OTHER DOCUMENTS. Such other approvals, opinions, documents (including
+UCC statements) or materials as the Agent or any Bank may request.
+
+     5.2. CONDITIONS TO ALL CREDIT EXTENSIONS. The obligation of the Issuing
+Bank to Issue any Letter of Credit (including the initial Letter of Credit) is
+subject to the satisfaction of the following conditions precedent on the
+relevant Issuance Date:
+
+     (a) NOTICE, APPLICATION. The Agent shall have received an L/C Application
+or L/C Amendment Application, as required under Section 3.2;
+
+     (b) CONTINUATION OF REPRESENTATIONS AND WARRANTIES. The representations and
+warranties in Article VI shall be true and correct on and as of such Issuance
+Date with the same effect as if made on and as of such Issuance Date;
+
+     (c) The Agent shall be fully Cash Collateralized pursuant to Section 3.7;
+
+     (d) NO EXISTING DEFAULT. No Default or Event of Default shall exist or
+shall result from such Issuance; and
+
+                                      -17-
+<Page>
+
+     (e) since the Closing Date, the Company has neither repurchased nor elected
+to repurchase any shares of its capital stock.
+
+Each L/C Application or L/C Amendment Application submitted by the Company
+hereunder shall constitute a representation and warranty by the Company
+hereunder, as of the date of each such notice and as of each Issuance Date, that
+the conditions in this Section 5.2 are satisfied.
+
+                                   ARTICLE VI
+
+                         REPRESENTATIONS AND WARRANTIES
+
+     The Company represents and warrants to the Agent and each Bank that:
+
+     6.1. CORPORATE EXISTENCE AND POWER. The Company and each of its
+Subsidiaries:
+
+     (a) is a corporation duly organized, validly existing and in good standing
+under the laws of the jurisdiction of its incorporation;
+
+     (b) has the power and authority and all governmental licenses,
+authorizations, consents and approvals to own its assets, carry on its business
+and to execute, deliver, and perform its obligations under the L/C Documents;
+
+     (c) is duly qualified as a foreign corporation and is licensed and in good
+standing under the laws of each jurisdiction where its ownership, lease or
+operation of property or the conduct of its business requires such qualification
+or license; and
+
+     (d) is in compliance with all Requirements of Law; except, in each case
+referred to in clause (b), clause (c) or clause (d), to the extent that the
+failure to do so could not reasonably be expected to have a Material Adverse
+Effect.
+
+     6.2. CORPORATE AUTHORIZATION; NO CONTRAVENTION. The execution, delivery and
+performance by the Company and its Subsidiaries of this Agreement and each other
+L/C Document to which such Person is party, have been duly authorized by all
+necessary corporate action, and do not and will not:
+
+     (1) contravene the terms of any of that Person's Organization Documents;
+
+     (2) conflict with or result in any breach or contravention of, or the
+creation of any Lien under (except Liens under the L/C Documents), any document
+evidencing any material Contractual Obligation to which such Person is a party
+or any order, injunction, writ or decree of any Governmental Authority to which
+such Person or its property is subject; or
+
+     (3) violate any Requirement of Law.
+
+     6.3. GOVERNMENTAL AUTHORIZATION. No approval, consent, exemption,
+authorization, or other action by, or notice to, or filing with, any
+Governmental Authority is necessary or required in connection with the
+execution, delivery or performance by, or enforcement against, the
+
+                                      -18-
+<Page>
+
+Company or any of its Subsidiaries of the Agreement or any other L/C Document to
+which each is a party.
+
+     6.4. BINDING EFFECT. This Agreement and each other L/C Document to which
+the Company or any of its Subsidiaries is a party constitute the legal, valid
+and binding obligations of the Company and any of its Subsidiaries to the extent
+it is a party thereto, enforceable against such Person in accordance with their
+respective terms, except as enforceability may be limited by applicable
+bankruptcy, insolvency, or similar laws affecting the enforcement of creditors'
+rights generally or by equitable principles relating to enforceability.
+
+     6.5. NO DEFAULT. As of the Closing Date, neither the Company nor any
+Subsidiary is in default under or with respect to any Contractual Obligation in
+any respect which, individually or together with all such defaults, could
+reasonably be expected to have a Material Adverse Effect, or that would, if such
+default had occurred after the Closing Date, create an Event of Default under
+Section 9.1.
+
+     6.6. COLLATERAL. The Agent has a valid first perfected security interest in
+all Collateral furnished pursuant to the L/C Account Agreement.
+
+     6.7. RESTATED CREDIT AGREEMENT. The representations in Section 6.5 through
+6.18 of the Restated Credit Agreement are true and correct as of the date hereof
+as though made as of the date hereof.
+
+                                   ARTICLE VII
+
+                              AFFIRMATIVE COVENANTS
+
+     So long as any Bank shall have any Commitment hereunder, or any Obligation
+shall remain unpaid or unsatisfied, or any Letter of Credit shall remain
+outstanding, unless the Required Banks waive compliance in writing:
+
+     7.1. INCORPORATION OF RESTATED CREDIT AGREEMENT. The Company will duly and
+punctually comply with and perform each of the covenants set forth in Article
+VII (exclusive of Sections 7.11, 7.12, 7.13, 7.14, 7.15 and 7.16) of the
+Restated Credit Agreement with the same effect as if such covenants were
+incorporated and contained in this Agreement; it being understood that (i) for
+this purpose the Agent and each Bank hereunder may exercise rights thereunder as
+if it were the Agent or a Bank thereunder, as the case may be, and (ii) any
+amendment, waiver, termination or other modification of the Restated Credit
+Agreement which arises after the date hereof and which has not been consented to
+by each Bank shall be disregarded for purposes of this Agreement.
+
+     7.2. RATIFICATION RESOLUTIONS. On or prior to June 12, 2003, the Company
+shall furnish to the Agent certified resolutions of its Board of Directors
+ratifying the transactions contemplated hereunder.
+
+                                      -19-
+<Page>
+
+                                  ARTICLE VIII
+
+                        NEGATIVE AND FINANCIAL COVENANTS
+
+     So long as any Bank shall have any Commitment hereunder, or any Obligation
+shall remain unpaid or unsatisfied, or any Letter of Credit shall remain
+outstanding, unless the Required Banks waive compliance in writing:
+
+     8.1. INCORPORATION OF RESTATED CREDIT AGREEMENT. The Company will duly and
+punctually comply with and perform each of the covenants set forth in Articles
+VIII and IX, inclusive, of the Restated Credit Agreement with the same effect as
+if such covenants were incorporated and contained in this Agreement; it being
+understood that (i) for this purpose the Agent and each Bank hereunder may
+exercise rights thereunder as if it were the Agent or a Bank thereunder, as the
+case may be, and (ii) any amendment, waiver, termination or other modification
+of the Restated Credit Agreement which arises after the date hereof and which
+has not been consented to by the Banks shall be disregarded for purposes of this
+Agreement.
+
+     8.2. USE OF PROCEEDS. The Company will not, and will not permit any
+Subsidiary to, use any portion of any Letter of Credit, directly or indirectly,
+(i) to purchase or carry Margin Stock, (ii) to repay or otherwise refinance
+indebtedness of the Company or others incurred to purchase or carry Margin
+Stock, (iii) to extend credit for the purpose of purchasing or carrying any
+Margin Stock.
+
+                                   ARTICLE IX
+
+                                EVENTS OF DEFAULT
+
+     9.1. EVENT OF DEFAULT. Any of the following shall constitute an "EVENT OF
+DEFAULT":
+
+     (a) NON-PAYMENT. The Company fails to pay within one Business Day after the
+same becomes due, any L/C Obligation; or
+
+     (b) REPRESENTATION OR WARRANTY. Any representation or warranty by the
+Company or any Subsidiary made or deemed made herein, in any other L/C Document,
+or which is contained in any certificate, document or financial or other
+statement by the Company, any Subsidiary, or any Responsible Officer, furnished
+at any time under this Agreement, or in or under any other L/C Document, is
+incorrect in any material respect on or as of the date made or deemed made; or
+
+     (c) SPECIFIC DEFAULTS. The Company fails to perform or observe any term,
+covenant or agreement contained in any of Sections 7.1, 7.2, 7.3 or in Article
+VIII or IX of the Restated Credit Agreement as incorporated herein (and in the
+case of Sections 7.1, 7.2 or 7.3 such default shall continue unremedied for 15
+days); or
+
+     (d) OTHER DEFAULTS. The Company fails to perform or observe any other term
+or covenant contained in this Agreement or any other L/C Document, and such
+default shall continue unremedied for a period of 30 days after the earlier of
+(i) the date upon which a Responsible Officer knew of such failure or (ii) the
+date upon which written notice thereof is given to the Company by any Bank; or
+
+                                      -20-
+<Page>
+
+     (e) INDEBTEDNESS OR CONTINGENT OBLIGATION. (i) The Company or any
+Subsidiary (A) fails to make any payment in respect of any Indebtedness or
+Contingent Obligation (other than in respect of Swap Contracts), when due
+(whether by scheduled maturity, required prepayment, acceleration, demand, or
+otherwise) and such failure continues after the applicable grace or notice
+period, if any, specified in the relevant document on the date of such failure;
+or (B) fails to perform or observe any other condition or covenant, or any other
+event shall occur or condition exist, under any agreement or instrument relating
+to any such Indebtedness or Contingent Obligation, and such failure continues
+after the applicable grace or notice period, if any, specified in the relevant
+document on the date of such failure if the effect of such failure, event or
+condition is to cause, or to permit the holder or holders of such Indebtedness
+or beneficiary or beneficiaries of such Indebtedness (or a trustee or agent on
+behalf of such holder or holders or beneficiary or beneficiaries) to cause such
+Indebtedness to be declared to be due and payable prior to its stated maturity,
+or such Contingent Obligation to become payable or cash collateral in respect
+thereof to be demanded; or
+
+     (f) INSOLVENCY; VOLUNTARY PROCEEDINGS. The Company or any Subsidiary (i)
+ceases or fails to be solvent, or generally fails to pay, or admits in writing
+its inability to pay, its debts as they become due, subject to applicable grace
+periods, if any, whether at stated maturity or otherwise; (ii) voluntarily
+ceases to conduct its business in the ordinary course; (iii) commences any
+Insolvency Proceeding with respect to itself; or (iv) takes any action to
+effectuate or authorize any of the foregoing; or
+
+     (g) INVOLUNTARY PROCEEDINGS. (i) Any involuntary Insolvency Proceeding is
+commenced or filed against the Company or any Subsidiary, or any writ, judgment,
+warrant of attachment, execution or similar process, is issued or levied against
+a substantial part of the Company's or any Subsidiary's properties, and any such
+proceeding or petition shall not be dismissed, or such writ, judgment, warrant
+of attachment, execution or similar process shall not be released, vacated or
+fully bonded within 60 days after commencement, filing or levy; (ii) the Company
+or any Subsidiary admits the material allegations of a petition against it in
+any Insolvency Proceeding, or an order for relief (or similar order under
+non-U.S. law) is ordered in any Insolvency Proceeding; or (iii) the Company or
+any Subsidiary acquiesces in the appointment of a receiver, trustee, custodian,
+conservator, liquidator, mortgagee in possession (or agent therefor), or other
+similar Person for itself or a substantial portion of its property or business;
+or
+
+     (h) ERISA. (i) An ERISA Event shall occur with respect to a Pension Plan or
+Multiemployer Plan which has resulted or could reasonably be expected to result
+in liability of the Company under Title IV of ERISA to the Pension Plan,
+Multiemployer Plan or the PBGC in an aggregate amount in excess of $500,000;
+(ii) the aggregate amount of Unfunded Pension Liability among all Pension Plans
+at any time exceeds $500,000; or (iii) the Company or any ERISA Affiliate shall
+fail to pay when due, after the expiration of any applicable grace period, any
+installment payment with respect to its withdrawal liability under Section 4201
+of ERISA under a Multiemployer Plan in an aggregate amount in excess of
+$500,000; or
+
+     (i) MONETARY JUDGMENTS. One or more non-interlocutory judgments,
+non-interlocutory orders, decrees or arbitration awards is entered against the
+Company or any Subsidiary involving in the aggregate a liability (to the extent
+not covered by independent third-party insurance as to which the insurer does
+not dispute coverage) as to any single or related series of transactions,
+
+                                      -21-
+<Page>
+
+incidents or conditions, of $500,000 or more, and the same shall remain
+unsatisfied, unvacated and unstayed pending appeal for a period of 30 days after
+the entry thereof; or
+
+     (j) NON-MONETARY JUDGMENTS. Any non-monetary judgment, order or decree is
+entered against the Company or any Subsidiary which does or would reasonably be
+expected to have a Material Adverse Effect, and there shall be any period of 30
+consecutive days during which a stay of enforcement of such judgment or order,
+by reason of a pending appeal or otherwise, shall not be in effect; or
+
+     (k) CHANGE OF CONTROL. There occurs any Change of Control; or
+
+     (l) RESTATED CREDIT AGREEMENT. An Event of Default shall occur and be
+continuing under the Restated Credit Agreement; or
+
+     (m) CASH COLLATERAL. the L/C Obligations shall be Cash Collateralized in an
+amount less than the aggregate L/C Obligations.
+
+     9.2. REMEDIES. If any Event of Default occurs, the Agent shall, at the
+request of the Majority Banks (or may, with the consent of the Majority Banks):
+
+     (a) declare any obligation of the Issuing Bank to Issue Letters of Credit
+to be terminated, whereupon such obligation shall be terminated;
+
+     (b) declare an amount equal to the maximum aggregate amount that is or at
+any time thereafter may become available for drawing under any outstanding
+Letters of Credit (whether or not any beneficiary shall have presented, or shall
+be entitled at such time to present, the drafts or other documents required to
+draw under such Letters of Credit) to be immediately due and payable, and
+declare all L/C Obligations and all other amounts owing or payable hereunder or
+under any other L/C Document to be immediately due and payable, without
+presentment, demand, protest or other notice of any kind, all of which are
+hereby expressly waived by the Company; and
+
+     (c) exercise on behalf of itself and the Banks all rights and remedies
+available to it and the Banks under the L/C Documents or applicable law;
+
+PROVIDED, HOWEVER, that upon the occurrence of any event specified in subsection
+(f) or (g) of Section 9.1 (in the case of clause (i) of subsection (g) upon the
+expiration of the 60-day period mentioned therein), any obligation of the
+Issuing Bank to Issue Letters of Credit shall automatically terminate and all
+amounts as aforesaid shall automatically become due and payable without further
+act of the Agent, the Issuing Bank or any Bank
+
+     9.3. RIGHTS NOT EXCLUSIVE. The rights provided for in this Agreement and
+the other L/C Documents are cumulative and are not exclusive of any other
+rights, powers, privileges or remedies provided by law or in equity, or under
+any other instrument, document or agreement now existing or hereafter arising.
+
+                                      -22-
+<Page>
+
+                                    ARTICLE X
+
+                                    THE AGENT
+
+     10.1. APPOINTMENT AND AUTHORIZATION; "AGENT".
+
+     (a) Each Bank hereby irrevocably (subject to Section 10.9) appoints,
+designates and authorizes the Agent to take such action on its behalf under the
+provisions of this Agreement and each other L/C Document and to exercise such
+powers and perform such duties as are expressly delegated to it by the terms of
+this Agreement or any other L/C Document, together with such powers as are
+reasonably incidental thereto. Notwithstanding any provision to the contrary
+contained elsewhere in this Agreement or in any other L/C Document, the Agent
+shall not have any duties or responsibilities, except those expressly set forth
+herein, nor shall the Agent have or be deemed to have any fiduciary relationship
+with any Bank, and no implied covenants, functions, responsibilities, duties,
+obligations or liabilities shall be read into this Agreement or any other L/C
+Document or otherwise exist against the Agent. Without limiting the generality
+of the foregoing sentence, the use of the term "agent" in this Agreement with
+reference to the Agent is not intended to connote any fiduciary or other implied
+(or express) obligations arising under agency doctrine of any applicable law.
+Instead, such term is used merely as a matter of market custom, and is intended
+to create or reflect only an administrative relationship between independent
+contracting parties.
+
+     (b) The Issuing Bank shall act on behalf of the Banks with respect to any
+Letters of Credit Issued by it and the documents associated therewith until such
+time and except for so long as the Agent may agree at the request of the
+Majority Banks to act for such Issuing Bank with respect thereto; provided,
+however, that the Issuing Bank shall have all of the benefits and immunities (i)
+provided to the Agent in this Article X with respect to any acts taken or
+omissions suffered by the Issuing Bank in connection with Letters of Credit
+Issued by it or proposed to be Issued by it and the application and agreements
+for letters of credit pertaining to the Letters of Credit as fully as if the
+term "Agent", as used in this Article X, included the Issuing Bank with respect
+to such acts or omissions, and (ii) as additionally provided in this Agreement
+with respect to the Issuing Bank.
+
+     10.2. DELEGATION OF DUTIES. The Agent may execute any of its duties under
+this Agreement or any other L/C Document by or through agents, employees or
+attorneys-in-fact and shall be entitled to advice of counsel concerning all
+matters pertaining to such duties. The Agent shall not be responsible for the
+negligence or misconduct of any agent or attorney-in-fact that it selects with
+reasonable care.
+
+     10.3. LIABILITY OF AGENT. None of the Agent-Related Persons shall (i) be
+liable for any action taken or omitted to be taken by any of them under or in
+connection with this Agreement or any other L/C Document or the transactions
+contemplated hereby (except for its own gross negligence or willful misconduct),
+or (ii) be responsible in any manner to any of the Banks for any recital,
+statement, representation or warranty made by the Company or any Subsidiary or
+Affiliate of the Company, or any officer thereof, contained in this Agreement or
+in any other L/C
+
+                                      -23-
+<Page>
+
+Document, or in any certificate, report, statement or other document referred to
+or provided for in, or received by the Agent under or in connection with, this
+Agreement or any other L/C Document, or the validity, effectiveness,
+genuineness, enforceability, perfection or sufficiency of this Agreement or any
+other L/C Document, or for any failure of the Company or any other party to any
+L/C Document to perform its obligations hereunder or thereunder. No
+Agent-Related Person shall be under any obligation to any Bank to ascertain or
+to inquire as to the observance or performance of any of the agreements
+contained in, or conditions of, this Agreement or any other L/C Document, or to
+inspect the properties, books or records of the Company or any of the Company's
+Subsidiaries or Affiliates.
+
+     10.4. RELIANCE BY AGENT.
+
+     (a) The Agent shall be entitled to rely, and shall be fully protected in
+relying, upon any writing, resolution, notice, consent, certificate, affidavit,
+letter, telegram, facsimile, telex or telephone message, statement or other
+document or conversation reasonably believed by it to be genuine and correct and
+to have been signed, sent or made by the proper Person or Persons, and upon
+advice and statements of legal counsel (including counsel to the Company),
+independent accountants and other experts selected by the Agent. The Agent shall
+be fully justified in failing or refusing to take any action under this
+Agreement or any other L/C Document unless it shall first receive such advice or
+concurrence of the Required Banks as it deems appropriate and, if it so
+requests, it shall first be indemnified to its satisfaction by the Banks against
+any and all liability and expense which may be incurred by it by reason of
+taking or continuing to take any such action. The Agent shall in all cases be
+fully protected in acting, or in refraining from acting, under this Agreement or
+any other L/C Document in accordance with a request or consent of the Required
+Banks and such request and any action taken or failure to act pursuant thereto
+shall be binding upon all of the Banks.
+
+     (b) For purposes of determining compliance with the conditions specified in
+Section 5.1, each Bank that has executed this Agreement shall be deemed to have
+consented to, approved or accepted or to be satisfied with, each document or
+other matter either sent by the Agent to such Bank for consent, approval,
+acceptance or satisfaction, or required thereunder to be consented to or
+approved by or acceptable or satisfactory to the Bank.
+
+     10.5. NOTICE OF DEFAULT. The Agent shall not be deemed to have knowledge or
+notice of the occurrence of any Default or Event of Default, except with respect
+to defaults in the payment of principal, interest and fees required to be paid
+to the Agent for the account of the Banks, unless the Agent shall have received
+written notice from a Bank or the Company referring to this Agreement,
+describing such Default or Event of Default and stating that such notice is a
+"notice of default". The Agent will notify the Banks of its receipt of any such
+notice. The Agent shall take such action with respect to such Default or Event
+of Default as may be requested by the Required Banks in accordance with Article
+IX; PROVIDED, HOWEVER, that unless and until the Agent has received any such
+request, the Agent may (but shall not be obligated to) take such action, or
+refrain from taking such action, with respect to such Default or Event of
+Default as it shall deem advisable or in the best interest of the Banks.
+
+     10.6. CREDIT DECISION. Each Bank acknowledges that none of the
+Agent-Related Persons has made any representation or warranty to it, and that no
+act by the Agent hereinafter taken, including any review of the affairs of the
+Company and its Subsidiaries, shall be deemed to constitute any representation
+or warranty by any Agent-Related Person to any Bank. Each Bank
+
+                                      -24-
+<Page>
+
+represents to the Agent that it has, independently and without reliance upon any
+Agent-Related Person and based on such documents and information as it has
+deemed appropriate, made its own appraisal of and investigation into the
+business, prospects, operations, property, financial and other condition and
+creditworthiness of the Company and its Subsidiaries, and all applicable bank
+regulatory laws relating to the transactions contemplated hereby, and made its
+own decision to enter into this Agreement and to extend credit to the Company
+hereunder. Each Bank also represents that it will, independently and without
+reliance upon any Agent-Related Person and based on such documents and
+information as it shall deem appropriate at the time, continue to make its own
+credit analysis, appraisals and decisions in taking or not taking action under
+this Agreement and the other L/C Documents, and to make such investigations as
+it deems necessary to inform itself as to the business, prospects, operations,
+property, financial and other condition and creditworthiness of the Company.
+Except for notices, reports and other documents expressly herein required to be
+furnished to the Banks by the Agent, the Agent shall not have any duty or
+responsibility to provide any Bank with any credit or other information
+concerning the business, prospects, operations, property, financial and other
+condition or creditworthiness of the Company which may come into the possession
+of any of the Agent-Related Persons.
+
+     10.7. INDEMNIFICATION OF AGENT. Whether or not the transactions
+contemplated hereby are consummated, the Banks shall indemnify upon demand the
+Agent-Related Persons (to the extent not reimbursed by or on behalf of the
+Company and without limiting the obligation of the Company to do so), Pro Rata,
+from and against any and all Indemnified Liabilities; PROVIDED, HOWEVER, that no
+Bank shall be liable for the payment to the Agent-Related Persons of any portion
+of such Indemnified Liabilities resulting solely from such Person's gross
+negligence or willful misconduct. Without limitation of the foregoing, each Bank
+shall reimburse the Agent upon demand for its ratable share of any costs or
+out-of-pocket expenses (including Attorney Costs) incurred by the Agent in
+connection with the preparation, execution, delivery, administration,
+modification, amendment or enforcement (whether through negotiations, legal
+proceedings or otherwise) of, or legal advice in respect of rights or
+responsibilities under, this Agreement, any other L/C Document, or any document
+contemplated by or referred to herein, to the extent that the Agent is not
+reimbursed for such expenses by or on behalf of the Company. The undertaking in
+this Section shall survive the payment of all Obligations hereunder and the
+resignation or replacement of the Agent.
+
+     10.8. AGENT IN INDIVIDUAL CAPACITY. Bank of America and its Affiliates may
+make loans to, issue letters of credit for the account of, accept deposits from,
+acquire equity interests in and generally engage in any kind of banking, trust,
+financial advisory, underwriting or other business with the Company and its
+Subsidiaries and Affiliates as though Bank of America were not the Agent or the
+Issuing Bank hereunder and without notice to or consent of the Banks including,
+without limitation, pursuant to the Restated Credit Agreement. In furtherance of
+the foregoing, Bank of America shall be entitled to amend or modify any
+agreements evidencing any of the foregoing transactions or take any action or
+refrain from acting under any such agreements without the consent of the Agent,
+the Issuing Bank or any Bank. The Banks acknowledge that, pursuant to such
+activities, Bank of America or its Affiliates may receive information regarding
+the Company or its Affiliates (including information that may be subject to
+confidentiality obligations in favor of the Company or such Subsidiary) and
+acknowledge that the Agent shall be under no obligation to provide such
+information to them. With respect to Obligations held by it, Bank of America
+shall have the same rights and powers under this Agreement as any other
+
+                                      -25-
+<Page>
+
+Bank and may exercise the same as though it were not the Agent or the Issuing
+Bank. Each of the Banks shall cooperate in sharing information regarding the
+Company or its Affiliates.
+
+     10.9. SUCCESSOR AGENT. The Agent may, and at the request of the Required
+Banks shall, resign as Agent upon 30 days' notice to the Banks. If the Agent
+resigns under this Agreement, the Required Banks shall appoint from among the
+Banks a successor agent for the Banks (which successor agent shall be subject to
+the approval of the Company if no Default or Event of Default then exists,
+provided that such approval shall not be unreasonably withheld or delayed). If
+no successor agent is appointed prior to the effective date of the resignation
+of the Agent, the Agent may appoint, after consulting with the Banks and the
+Company, a successor agent from among the Banks. Upon the acceptance of its
+appointment as successor agent hereunder, such successor agent shall succeed to
+all the rights, powers and duties of the retiring Agent and the term "Agent"
+shall mean such successor agent and the retiring Agent's appointment, powers and
+duties as Agent shall be terminated. After any retiring Agent's resignation
+hereunder as Agent, the provisions of this Article X and Sections 11.4 and 11.5
+shall inure to its benefit as to any actions taken or omitted to be taken by it
+while it was Agent under this Agreement. If no successor agent has accepted
+appointment as Agent by the date which is 30 days following a retiring Agent's
+notice of resignation, the retiring Agent's resignation shall nevertheless
+thereupon become effective and the Banks shall perform all of the duties of the
+Agent hereunder until such time, if any, as the Required Banks appoint a
+successor agent as provided for above. Notwithstanding the foregoing, however,
+Bank of America may not be removed as the Agent at the request of the Banks
+unless Bank of America shall also simultaneously be replaced as "Issuing Bank"
+hereunder pursuant to documentation in form and substance reasonably
+satisfactory to Bank of America.
+
+     10.10. WITHHOLDING TAX.
+
+     (a) If any Bank is a "foreign corporation, partnership or trust" within the
+meaning of the Code and such Bank claims exemption from, or a reduction of, U.S.
+withholding tax under Sections 1441 or 1442 of the Code, such Bank agrees with
+and in favor of the Agent, to deliver to the Agent:
+
+          (i) if such Bank claims an exemption from, or a reduction of,
+     withholding tax under a United States tax treaty, two properly completed
+     and executed copies of IRS Form W-8BEN or W-8ECI before the payment of any
+     interest in the first calendar year and before the payment of any interest
+     in each third succeeding calendar year during which interest may be paid
+     under this Agreement;
+
+          (ii) if such Bank claims that interest paid under this Agreement is
+     exempt from United States withholding tax because it is effectively
+     connected with a United States trade or business of such Bank, two properly
+     completed and executed copies of IRS Form W-8BEN or W-8ECI before the
+     payment of any interest is due in the first taxable year of such Bank and
+     in each succeeding taxable year of such Bank during which interest may be
+     paid under this Agreement; and
+
+                                      -26-
+<Page>
+
+          (iii) such other form or forms (including, without limitation, Form
+     W-8 or W-9) as may be required under the Code or other laws of the United
+     States as a condition to exemption from, or reduction of, United States
+     withholding tax.
+
+Such Bank agrees to promptly notify the Agent of any change in circumstances
+which would modify or render invalid any claimed exemption or reduction.
+
+     (b) If any Bank claims exemption from, or reduction of, withholding tax
+under a United States tax treaty by providing IRS Form W-8BEN or W-8ECI and such
+Bank sells, assigns, grants a participation in, or otherwise transfers all or
+part of the Obligations of the Company to such Bank, such Bank agrees to notify
+the Agent of the percentage amount in which it is no longer the beneficial owner
+of Obligations of the Company to such Bank. To the extent of such percentage
+amount, the Agent will treat such Bank's IRS Form W-8BEN or W-8ECI as no longer
+valid.
+
+     (c) If any Bank claiming exemption from United States withholding tax by
+filing IRS Form W-8BEN or W8ECI with the Agent sells, assigns, grants a
+participation in, or otherwise transfers all or part of the Obligations of the
+Company to such Bank, such Bank agrees to undertake sole responsibility for
+complying with the withholding tax requirements imposed by Sections 1441 and
+1442 of the Code.
+
+     (d) If any Bank is entitled to a reduction in the applicable withholding
+tax, the Agent may withhold from any interest payment to such Bank an amount
+equivalent to the applicable withholding tax after taking into account such
+reduction. However, if the forms or other documentation required by subsection
+(a) of this Section are not delivered to the Agent, then the Agent may withhold
+from any interest payment to such Bank not providing such forms or other
+documentation an amount equivalent to the applicable withholding tax imposed by
+Sections 1441 and 1442 of the Code, without reduction.
+
+     (e) If the IRS or any other Governmental Authority of the United States or
+other jurisdiction asserts a claim that the Agent did not properly withhold tax
+from amounts paid to or for the account of any Bank (because the appropriate
+form was not delivered or was not properly executed, or because such Bank failed
+to notify the Agent of a change in circumstances which rendered the exemption
+from, or reduction of, withholding tax ineffective, or for any other reason)
+such Bank shall indemnify the Agent fully for all amounts paid, directly or
+indirectly, by the Agent as tax or otherwise, including penalties and interest,
+and including any taxes imposed by any jurisdiction on the amounts payable to
+the Agent under this Section, together with all costs and expenses (including
+Attorney Costs). The obligation of the Banks under this subsection shall survive
+the payment of all Obligations and the resignation or replacement of the Agent.
+
+                                   ARTICLE XI
+
+                                  MISCELLANEOUS
+
+     11.1. AMENDMENTS AND WAIVERS. No amendment or waiver of any provision of
+this Agreement or any other L/C Document, and no consent with respect to any
+departure by the
+
+                                      -27-
+<Page>
+
+Company or any applicable Subsidiary therefrom, shall be effective unless the
+same shall be in writing and signed by the Required Banks (or by the Agent at
+the written request of the Required Banks) and the Company and acknowledged by
+the Agent, and then any such waiver or consent shall be effective only in the
+specific instance and for the specific purpose for which given; PROVIDED,
+HOWEVER, that no such waiver, amendment, or consent shall, unless in writing and
+signed by all the Banks and the Company and acknowledged by the Agent, do any of
+the following:
+
+          (i) increase or extend the Commitment of any Bank (or reinstate any
+     Commitment terminated pursuant to Section 9.2);
+
+          (ii) postpone or delay any date fixed by this Agreement or any other
+     L/C Document for any payment of principal, interest, fees or other amounts
+     due to the Banks (or any of them) hereunder or under any other L/C
+     Document;
+
+          (iii) reduce the principal of, or the rate of interest specified
+     herein on any Obligation, or (subject to clause (iii) below) any fees or
+     other amounts payable hereunder or under any other L/C Document;
+
+          (iv) change the Pro Rata percentage of the Commitment which is
+     required for the Banks or any of them to take any action hereunder;
+
+          (v) amend this Section or any provision herein providing for consent
+     or other action by all Banks; or
+
+          (vi) release any Collateral.
+
+and, PROVIDED FURTHER, that (i) no amendment, waiver or consent shall, unless in
+writing and signed by the Issuing Bank in addition to the Required Banks or all
+the Banks, as the case may be, affect the rights or duties of the Issuing Bank
+under this Agreement or any L/C-Related Document relating to any Letter of
+Credit Issued or to be Issued by it, and (ii) no amendment, waiver or consent
+shall, unless in writing and signed by the Agent in addition to the Required
+Banks or all the Banks, as the case may be, affect the rights or duties of the
+Agent under this Agreement or any other L/C Document.
+
+     11.2. NOTICES.
+
+     (a) All notices, requests, consents, approvals, waivers and other
+communications shall be in writing and mailed, faxed or delivered (including,
+unless the context expressly otherwise provides, by facsimile transmission,
+provided that any matter transmitted by the Company by facsimile (i) shall be
+immediately confirmed by a telephone call to the recipient at the number
+specified on SCHEDULE 11.2 to this Agreement, and (ii) shall be followed
+promptly by delivery of a hard copy original thereof) to the address or
+facsimile number specified for notices on SCHEDULE 11.2 to this Agreement; or,
+as directed to the Company or the Agent, to such other address as shall be
+designated by such party in a written notice to the other parties, and as
+directed to any other party, at such other address as shall be designated by
+such party in a written notice to the Company and the Agent.
+
+                                      -28-
+<Page>
+
+     (b) All such notices, requests and communications shall, when transmitted
+by overnight delivery, or faxed, be effective when delivered for overnight
+(next-day) delivery, or transmitted in legible form by facsimile machine,
+respectively, or if mailed, upon the third Business Day after the date deposited
+into the U.S. mail, or if delivered, upon delivery; except that notices pursuant
+to Article III or IX to the Agent shall not be effective until actually received
+by the Agent, and notices pursuant to Article III to the Issuing Bank shall not
+be effective until actually received by the Issuing Bank at the address
+specified for the "Issuing Bank" on Schedule 11.2 to this Agreement.
+
+     (c) Any agreement of the Agent and the Banks herein to receive certain
+notices by telephone or facsimile is solely for the convenience and at the
+request of the Company. The Agent and the Banks shall be entitled to rely on the
+authority of any Person purporting to be a Person authorized by the Company to
+give such notice and the Agent and the Banks shall not have any liability to the
+Company or other Person on account of any action taken or not taken by the Agent
+or the Banks in reliance upon such telephonic or facsimile notice. The
+obligation of the Company to repay the L/C Obligations shall not be affected in
+any way or to any extent by any failure by the Agent and the Banks to receive
+written confirmation of any telephonic or facsimile notice or the receipt by the
+Agent and the Banks of a confirmation which is at variance with the terms
+understood by the Agent and the Banks to be contained in the telephonic or
+facsimile notice.
+
+     11.3. NO WAIVER; CUMULATIVE REMEDIES. No failure to exercise and no delay
+in exercising, on the part of the Agent or any Bank, any right, remedy, power or
+privilege hereunder, shall operate as a waiver thereof; nor shall any single or
+partial exercise of any right, remedy, power or privilege hereunder preclude any
+other or further exercise thereof or the exercise of any other right, remedy,
+power or privilege.
+
+     11.4. COSTS AND EXPENSES. The Company shall:
+
+     (a) whether or not the transactions contemplated hereby are consummated,
+pay or reimburse Bank of America (including in its capacity as Agent and Issuing
+Bank) within five Business Days after demand (subject to subsection 5.1(e)) for
+all reasonably costs and expenses incurred by Bank of America (including in its
+capacity as Agent and Issuing Bank) in connection with the development,
+preparation, delivery, administration and execution of, and any amendment,
+supplement, waiver or modification to (in each case, whether or not
+consummated), this Agreement, any L/C Document and any other documents prepared
+in connection herewith or therewith, and the consummation of the transactions
+contemplated hereby and thereby, including reasonable Attorney Costs incurred by
+Bank of America (including in its capacity as Agent and Issuing Bank) with
+respect thereto; and
+
+     (b) pay or reimburse the Agent, the Arranger and each Bank within five
+Business Days after demand (subject to subsection 5.1(e)) for all reasonably
+costs and expenses (including Attorney Costs) incurred by them in connection
+with the enforcement, attempted enforcement, or preservation of any rights or
+remedies under this Agreement or any other L/C Document during the existence of
+an Event of Default.
+
+                                      -29-
+<Page>
+
+     11.5. COMPANY INDEMNIFICATION. Whether or not the transactions contemplated
+hereby are consummated, the Company shall indemnify, defend and hold the
+Agent-Related Persons, and each Bank and each of its respective officers,
+directors, employees, and attorneys-in-fact (each, an "INDEMNIFIED PERSON")
+harmless from and against any and all liabilities, obligations, losses, damages,
+penalties, actions, judgments, suits, costs, charges, expenses and disbursements
+(including reasonable Attorney Costs) of any kind or nature whatsoever which may
+at any time (including at any time following the termination of the Letters of
+Credit and the termination, resignation or replacement of the Agent or
+replacement of any Bank) be imposed on, incurred by or asserted against any such
+Person in any way relating to or arising out of this Agreement or any L/C
+Document, or the transactions contemplated hereby, or any action taken or
+omitted by any such Person under or in connection with any of the foregoing,
+including with respect to any investigation, litigation or proceeding (including
+any Insolvency Proceeding or appellate proceeding) related to or arising out of
+this Agreement or Letters of Credit or the use of the proceeds thereof, whether
+or not any Indemnified Person is a party thereto (all the foregoing,
+collectively, the "INDEMNIFIED LIABILITIES"); PROVIDED, that the Company shall
+have no obligation hereunder to any Indemnified Person with respect to
+Indemnified Liabilities to the extent resulting solely from the gross negligence
+or willful misconduct of such Indemnified Person. The agreements in this Section
+shall survive payment of all other Obligations.
+
+     11.6. PAYMENTS SET ASIDE. To the extent that the Company makes a payment to
+the Agent or the Banks, or the Agent or the Banks exercise their right of
+set-off, and such payment or the proceeds of such set-off or any part thereof
+are subsequently invalidated, declared to be fraudulent or preferential, set
+aside or required (including pursuant to any settlement entered into by the
+Agent or such Bank in its discretion) to be repaid to a trustee, receiver or any
+other party, in connection with any Insolvency Proceeding or otherwise, then (a)
+to the extent of such recovery the obligation or part thereof originally
+intended to be satisfied shall be revived and continued in full force and effect
+as if such payment had not been made or such set-off had not occurred, and (b)
+each Bank severally agrees to pay to the Agent upon demand its Pro Rata Share of
+any amount so recovered from or repaid by the Agent.
+
+     11.7. SUCCESSORS AND ASSIGNS. Subject to Section 11.8, the provisions of
+this Agreement shall be binding upon and inure to the benefit of the parties
+hereto and their respective successors and assigns, except that the Company may
+not assign or transfer any of its rights or obligations under this Agreement
+without the prior written consent of the Agent and each Bank.
+
+     11.8. ASSIGNMENTS, PARTICIPATIONS, etc.
+
+     (a) Any Bank may, with the written consent of the Company at all times
+other than during the existence of an Event of Default and the Agent and the
+Issuing Bank, which consent of the Company shall not be unreasonably withheld,
+at any time assign and delegate to one or more Eligible Assignees (provided that
+no written consent of the Company, the Agent or the Issuing Bank shall be
+required in connection with any assignment and delegation by a Bank to an
+Eligible Assignee that is an Affiliate of such Bank) (each an "ASSIGNEE") all,
+or any ratable part of all the Commitments, the L/C Obligations and the other
+rights and obligations of such Bank hereunder, in a minimum amount of
+$5,000,000; PROVIDED, HOWEVER, that the Company and the Agent may continue to
+deal solely and directly with such Bank in connection with the interest so
+assigned to an Assignee until (i) written notice of such assignment, together
+with payment
+
+                                      -30-
+<Page>
+
+instructions, addresses and related information with respect to the Assignee,
+shall have been given to the Company and the Agent by such Bank and the
+Assignee; (ii) such Bank and its Assignee shall have delivered to the Company
+and the Agent an Assignment and Acceptance in the form of EXHIBIT A ("ASSIGNMENT
+AND ACCEPTANCE"); and (iii) the Agent and, if applicable, the Company shall have
+consented thereto. Bank of America hereby agrees that, as long as it is the
+Agent and LaSalle Bank National Association is a Bank hereunder, after giving
+effect to any assignment of its rights and obligations under this SECTION, Bank
+of America's Commitment as a Bank will not be less than the Commitment of any
+other Bank.
+
+     (b) From and after the date that the Agent notifies the assignor Bank that
+it has received (and provided its consent with respect to) an executed
+Assignment and Acceptance, (i) the Assignee thereunder shall be a party hereto
+and, to the extent that rights and obligations hereunder have been assigned to
+it pursuant to such Assignment and Acceptance, shall have the rights and
+obligations of a Bank under the L/C Documents, and (ii) the assignor Bank shall,
+to the extent that rights and obligations hereunder and under the other L/C
+Documents have been assigned by it and assumed by the Assignees pursuant to such
+Assignment and Acceptance, relinquish its rights and be released from its
+obligations under the L/C Documents.
+
+     (c) [Reserved].
+
+     (d) Any Bank may at any time sell to one or more commercial banks or other
+Persons not Affiliates of the Company (a "PARTICIPANT") participating interests
+in any L/C Obligations, the Commitment of that Bank and the other interests of
+that Bank (the "originating Bank") hereunder and under the other L/C Documents;
+PROVIDED, HOWEVER, that (i) the originating Bank's obligations under this
+Agreement shall remain unchanged, (ii) the originating Bank shall remain solely
+responsible for the performance of such obligations, (iii) the Company, the
+Issuing Bank and the Agent shall continue to deal solely and directly with the
+originating Bank in connection with the originating Bank's rights and
+obligations under this Agreement and the other L/C Documents, and (iv) no Bank
+shall transfer or grant any participating interest under which the Participant
+has rights to approve any amendment to, or any consent or waiver with respect
+to, this Agreement or any other L/C Document, except to the extent such
+amendment, consent or waiver would require unanimous consent of the Banks as
+described in the FIRST PROVISO to Section 11.1. In the case of any such
+participation, the Participant shall be entitled to the benefit of Sections 4.1
+and 11.5 as though it were also a Bank hereunder, and if amounts outstanding
+under this Agreement are due and unpaid, or shall have been declared or shall
+have become due and payable upon the occurrence of an Event of Default, each
+Participant shall be deemed to have the right of set-off in respect of its
+participating interest in amounts owing under this Agreement to the same extent
+as if the amount of its participating interest were owing directly to it as a
+Bank under this Agreement.
+
+     (e) Notwithstanding any other provision in this Agreement, any Bank may at
+any time create a security interest in, or pledge, all or any portion of its
+rights under and interest in this Agreement and the Obligations held by it in
+favor of any Federal Reserve Bank in accordance with Regulation A of the FRB or
+U.S. Treasury Regulation 31 CFR Section 203.14, and such Federal Reserve Bank
+may enforce such pledge or security interest in any manner permitted under
+applicable law.
+
+                                      -31-
+<Page>
+
+     11.9. CONFIDENTIALITY. Each Bank agrees to take and to cause its Affiliates
+to take normal and reasonable precautions and exercise due care to maintain the
+confidentiality of all information provided to it by the Company or any
+Subsidiary, or by the Agent on the Company's or such Subsidiary's behalf, under
+this Agreement or any other L/C Document, and neither it nor any of its
+Affiliates shall use any such information OTHER than in connection with or in
+enforcement of this Agreement and the other L/C Documents or in connection with
+other business now or hereafter existing or contemplated with the Company or any
+Subsidiary; except to the extent such information (i) was or becomes generally
+available to the public other than as a result of disclosure by the Bank, or
+(ii) was or becomes available on a non-confidential basis from a source other
+than the Company, provided that such source is not bound by a confidentiality
+agreement with the Company known to the Bank; PROVIDED, HOWEVER, that any Bank
+may disclose such information (A) at the request or pursuant to any requirement
+of any Governmental Authority to which the Bank is subject or in connection with
+an examination of such Bank by any such authority; (B) pursuant to subpoena or
+other court process; (C) when required to do so in accordance with the
+provisions of any applicable Requirement of Law; (D) to the extent reasonably
+required in connection with any litigation or proceeding to which the Agent, any
+Bank or their respective Affiliates may be party; (E) to the extent reasonably
+required in connection with the exercise of any remedy hereunder or under any
+other L/C Document; (F) to such Bank's independent auditors and other
+professional advisors, provided that such Person agrees in writing to keep such
+information confidential to the same extent required of the Banks hereunder; (G)
+to any Participant or Assignee, actual or potential, provided that such Person
+agrees in writing to keep such information confidential to the same extent
+required of the Banks hereunder; (H) as to any Bank or its Affiliate, as
+expressly permitted under the terms of any other document or agreement regarding
+confidentiality to which the Company or any Subsidiary is party or is deemed
+party with such Bank or such Affiliate; and (I) to its Affiliates.
+
+     11.10. SET-OFF. In addition to any rights and remedies of the Banks
+provided by law, if an Event of Default exists or the L/C Obligations have been
+accelerated, each Bank is authorized at any time and from time to time (but only
+after the Agent shall have initially resorted to the Collateral under the L/C
+Account Agreement), without prior notice to the Company, any such notice being
+waived by the Company to the fullest extent permitted by law, to set off and
+apply any and all deposits (general or special, time or demand, provisional or
+final) at any time held by, and other indebtedness at any time owing by, such
+Bank to or for the credit or the account of the Company against any and all
+Obligations owing to such Bank, now or hereafter existing, irrespective of
+whether or not the Agent or such Bank shall have made demand under this
+Agreement or any L/C Document and although such Obligations may be contingent or
+unmatured. Each Bank agrees promptly to notify the Company and the Agent after
+any such set-off and application made by such Bank; PROVIDED, HOWEVER, that the
+failure to give such notice shall not affect the validity of such set-off and
+application.
+
+     11.11. AUTOMATIC DEBITS OF FEES. With respect to any fee, or any other cost
+or expense (including Attorney Costs) due and payable to the Agent, the Issuing
+Bank, the Arranger, Bank of America under the L/C Documents, the Company hereby
+irrevocably authorizes Bank of America to debit the deposit account of the
+Company with Bank of America, number 8666302112, in an amount such that the
+aggregate amount debited from all such deposit accounts does not exceed such fee
+or other cost or expense. If there are insufficient funds in such deposit
+accounts to cover the amount of the fee or other cost or expense then due, such
+
+                                      -32-
+<Page>
+
+debits will be reversed (in whole or in part, in Bank of America's sole
+discretion) and such amount not debited shall be deemed to be unpaid. No such
+debit under this Section shall be deemed a set-off.
+
+     11.12. NOTIFICATION OF ADDRESSES, LENDING OFFICES, Etc. Each Bank shall
+notify the Agent in writing of any changes in the address to which notices to
+the Bank should be directed, of addresses of any Lending Office, of payment
+instructions in respect of all payments to be made to it hereunder and of such
+other administrative information as the Agent shall reasonably request.
+
+     11.13. COUNTERPARTS. This Agreement may be executed in any number of
+separate counterparts, each of which, when so executed, shall be deemed an
+original, and all of said counterparts taken together shall be deemed to
+constitute but one and the same instrument.
+
+     11.14. SEVERABILITY. The illegality or unenforceability of any provision of
+this Agreement or any instrument or agreement required hereunder shall not in
+any way affect or impair the legality or enforceability of the remaining
+provisions of this Agreement or any instrument or agreement required hereunder.
+
+     11.15. NO THIRD PARTIES BENEFITED. This Agreement is made and entered into
+for the sole protection and legal benefit of the Company, the Banks, the Agent
+and the Agent-Related Persons, and their permitted successors and assigns, and
+no other Person shall be a direct or indirect legal beneficiary of, or have any
+direct or indirect cause of action or claim in connection with, this Agreement
+or any of the other L/C Documents.
+
+     11.16. GOVERNING LAW AND JURISDICTION. (a) THIS AGREEMENT SHALL BE GOVERNED
+BY, AND CONSTRUED IN ACCORDANCE WITH, THE LAW OF THE STATE OF ILLINOIS; PROVIDED
+THAT THE AGENT, THE BANKS AND THE COMPANY SHALL RETAIN ALL RIGHTS ARISING UNDER
+FEDERAL LAW.
+
+     (b) ANY LEGAL ACTION OR PROCEEDING WITH RESPECT TO THIS AGREEMENT OR ANY
+OTHER L/C DOCUMENT MAY BE BROUGHT IN THE COURTS OF THE STATE OF ILLINOIS OR OF
+THE UNITED STATES FOR THE NORTHERN DISTRICT OF ILLINOIS, AND BY EXECUTION AND
+DELIVERY OF THIS AGREEMENT, EACH OF THE COMPANY, THE AGENT AND THE BANKS
+CONSENTS, FOR ITSELF AND IN RESPECT OF ITS PROPERTY, TO THE NON-EXCLUSIVE
+JURISDICTION OF THOSE COURTS. EACH OF THE COMPANY, THE AGENT AND THE BANKS
+IRREVOCABLY WAIVES ANY OBJECTION, INCLUDING ANY OBJECTION TO THE LAYING OF VENUE
+OR BASED ON THE GROUNDS OF FORUM NON CONVENIENS, WHICH IT MAY NOW OR HEREAFTER
+HAVE TO THE BRINGING OF ANY ACTION OR PROCEEDING IN SUCH JURISDICTION IN RESPECT
+OF THIS AGREEMENT OR ANY DOCUMENT RELATED HERETO. THE COMPANY, THE AGENT AND THE
+BANKS EACH WAIVE PERSONAL SERVICE OF ANY SUMMONS, COMPLAINT OR OTHER PROCESS,
+WHICH MAY BE MADE BY ANY OTHER MEANS PERMITTED BY ILLINOIS LAW.
+
+                                      -33-
+<Page>
+
+     11.17. WAIVER OF JURY TRIAL. THE COMPANY, THE BANKS AND THE AGENT EACH
+WAIVE THEIR RESPECTIVE RIGHTS TO A TRIAL BY JURY OF ANY CLAIM OR CAUSE OF ACTION
+BASED UPON OR ARISING OUT OF OR RELATED TO THIS AGREEMENT, THE OTHER L/C
+DOCUMENTS, OR THE TRANSACTIONS CONTEMPLATED HEREBY OR THEREBY, IN ANY ACTION,
+PROCEEDING OR OTHER LITIGATION OF ANY TYPE BROUGHT BY ANY OF THE PARTIES AGAINST
+ANY OTHER PARTY OR ANY AGENT-RELATED PERSON, PARTICIPANT OR ASSIGNEE, WHETHER
+WITH RESPECT TO CONTRACT CLAIMS, TORT CLAIMS, OR OTHERWISE. THE COMPANY, THE
+BANKS AND THE AGENT EACH AGREE THAT ANY SUCH CLAIM OR CAUSE OF ACTION SHALL BE
+TRIED BY A COURT TRIAL WITHOUT A JURY. WITHOUT LIMITING THE FOREGOING, THE
+PARTIES FURTHER AGREE THAT THEIR RESPECTIVE RIGHT TO A TRIAL BY JURY IS WAIVED
+BY OPERATION OF THIS SECTION AS TO ANY ACTION, COUNTERCLAIM OR OTHER PROCEEDING
+WHICH SEEKS, IN WHOLE OR IN PART, TO CHALLENGE THE VALIDITY OR ENFORCEABILITY OF
+THIS AGREEMENT OR THE OTHER L/C DOCUMENTS OR ANY PROVISION HEREOF OR THEREOF.
+THIS WAIVER SHALL APPLY TO ANY SUBSEQUENT AMENDMENTS, RENEWALS, SUPPLEMENTS OR
+MODIFICATIONS TO THIS AGREEMENT AND THE OTHER L/C DOCUMENTS.
+
+     11.18. ENTIRE AGREEMENT. This Agreement, together with the other L/C
+Documents, embodies the entire agreement and understanding among the Company,
+the Banks and the Agent, and supersedes all prior agreements and understandings
+of such Persons, verbal or written, relating to the subject matter hereof and
+thereof.
+
+                                      -34-
+<Page>
+
+     IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be
+duly executed and delivered in Chicago, Illinois by their proper and duly
+authorized officers as of the day and year first above written.
+
+MIDWAY GAMES INC.
+
+
+By:   /s/ Thomas E. Powell
+    ---------------------------------------
+     Thomas E. Powell
+     Executive Vice President - Finance,
+     Treasurer and Chief Financial Officer
+
+<Page>
+
+BANK OF AMERICA N.A.,
+as Agent
+
+
+By:      /s/ David A. Johanson
+   ----------------------------------------
+         David A. Johanson
+Title:   Vice President
+      -------------------------------------
+
+
+BANK OF AMERICA N.A., as a Bank
+
+
+By:      /s/ Brian Ruddy
+   ----------------------------------------
+         Brian Ruddy
+Title:   Vice President
+      -------------------------------------
+
+<Page>
+
+LASALLE NATIONAL BANK ASSOCIATION, as a Bank*
+
+
+By       /s/ Daniel Sullivan
+  -----------------------------------------
+Title    Vice President
+     --------------------------------------
+
+
+----------
+* By Assignment dated November 15, 2000.
+
+<Page>
+
+                          ACKNOWLEDGEMENT AND AGREEMENT
+
+     Each of the undersigned hereby agrees to the foregoing Agreement and to be
+bound thereby.
+
+                                    MIDWAY INTERACTIVE INC.
+
+
+                                    By:     /s/ Thomas E. Powell
+                                       -----------------------------------------
+                                    Print Name: Thomas E. Powell
+                                    Title: Executive Vice President - Finance,
+                                           Treasurer and Chief Financial Officer
+
+                                    MIDWAY HOME ENTERTAINMENT INC.
+
+
+                                    By:     /s/ Thomas E. Powell
+                                       -----------------------------------------
+                                    Print Name: Thomas E. Powell
+                                    Title: Executive Vice President - Finance,
+                                           Treasurer and Chief Financial Officer
+
+                                    MIDWAY GAMES WEST INC.
+
+
+                                    By:     /s/ Thomas E. Powell
+                                       -----------------------------------------
+                                    Print Name: Thomas E. Powell
+                                    Title: Executive Vice President - Finance,
+                                           Treasurer and Chief Financial Officer
+
+                                    MIDWAY AMUSEMENT GAMES, LLC
+
+
+                                    By:     /s/ Thomas E. Powell
+                                       -----------------------------------------
+                                    Print Name: Thomas E. Powell
+                                    Title: Executive Vice President - Finance,
+                                           Treasurer and Chief Financial Officer
+
+                                    MIDWAY SALES COMPANY, LLC
+
+
+                                    By:     /s/ Thomas E. Powell
+                                       -----------------------------------------
+                                    Print Name: Thomas E. Powell
+                                    Title: Executive Vice President - Finance,
+                                           Treasurer and Chief Financial Officer
+
+<Page>
+
+                                    MIDWAY HOME STUDIOS INC.
+
+                                    By:     /s/ Thomas E. Powell
+                                       -----------------------------------------
+                                    Print Name: Thomas E. Powell
+                                    Title: Executive Vice President - Finance,
+                                           Treasurer and Chief Financial Officer
+
+<Page>
+
+LIST OF SCHEDULES
+
+Schedule 1    Prorata Shares of Total Commitment
+Schedule 3.3  Existing Letters of Credit
+Schedule 11.2 Notices
+
+LIST OF EXHIBITS
+
+Exhibit A     Form of Assignment and Acceptance Agreement
+Exhibit B     Form of LC Account Agreement
+Exhibit C     Form of L/C Control Agreement
+Exhibit D     Form of Opinion of Counsel
+
+</TEXT>
+</DOCUMENT>

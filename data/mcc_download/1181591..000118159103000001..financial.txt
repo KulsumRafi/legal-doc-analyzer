@@ -1,0 +1,941 @@
+<DOCUMENT>
+<TYPE>EX-2
+<SEQUENCE>4
+<FILENAME>financial.txt
+<DESCRIPTION>SERVICER REPORT - DECEMBER
+<TEXT>
+MITSUBISHI MOTORS CREDIT OF AMERICA,  INC.
+Monthly Servicing Report  --  MMCA Auto Owner Trust 2002-4
+December 1, 2002 through December 31, 2002
+
+
+I.  ORIGINAL TRANSACTION  PARAMETERS
+A.	Initial Receivables							$655,103,736.04
+B.	Level Pay Pool Balance of the Initial Receivables			$640,671,031.26
+C.	Last Scheduled Payment Pool Balance of the
+	Initial Receivables							$14,432,704.78
+D.	Notes
+	1.	Class A-1
+		a.	Initial Balance						$66,300,000.00
+		b.	Note Interest Rate					1.76375%
+		c.	Noteholders' Final Scheduled Payment Date		October 15, 2003
+	2.	Class A-2
+		a.	Initial Balance						$230,000,000.00
+		b.	Note Interest Rate					1.920%
+		c.	Noteholders' Final Scheduled Payment Date		October 17, 2005
+		d.	Class A Allocation Percentage				85.65%
+	3.	Class A-3
+		a.	Initial Balance						$200,000,000.00
+		b.	Note Interest Rate					2.550%
+		c.	Noteholders' Final Scheduled Payment Date		February 15, 2007
+		d.	Class A Allocation Percentage				85.65%
+	4.	Class A-4
+		a.	Initial Balance						$173,500,000.00
+		b.	Note Interest Rate					3.0500%
+		c.	Noteholders' Final Scheduled Payment Date		November 16, 2009
+		d.	Class A Allocation Percentage				85.65%
+	5.	Class B
+		a.	Initial Balance						$65,298,000.00
+		b.	Note Interest Rate					3.820%
+		c.	Noteholders' Final Scheduled Payment Date		November 16, 2009
+		d.	Class B Allocation Percentage				9.27%
+	6.	Class C
+		a.	Initial Balance						$35,808,000.00
+		b.	Note Interest Rate					4.560%
+		c.	Noteholders' Final Scheduled Payment Date		November 16, 2009
+		d.	Class C Allocation Percentage				5.08%
+E.	Certificates Initial Balance						$71,646,522.63
+F.	Servicing Fee Rate 							1.00%
+		Servicing Fee Rate for Deferred Receivables
+		during Deferral Period						0.25%
+G.	Weighted Average Coupon (WAC) of the Initial Receivables		6.250%
+H.	Weighted Average Original Number of Payments of
+	the Initial Receivables (Months)					59
+I.	Weighted Average Remaining Number of Payments of
+	the Initial Receivables (Months)					58
+J.	Number of Initial Receivables						26,902
+K.	Reserve Account
+	1.	Initial Reserve Account Deposit Percentage of Initial Pool	5.00%
+	2.	Reserve Account Deposit on the Closing Date			$31,604,607.83
+	3.	Specified Reserve Balance Percentage				5.00%
+L.	Yield Supplement Account Deposit on the Closing Date			$7,617,437.11
+M.	Yield Supplement Over Collateralization Balance
+	on Closing Date								$23,011,579.39
+N.	Adjusted Principal Balance of Initial Receivables			$632,092,156.65
+O.	Pre-Funding
+	1.	Initial Pre-Funded Amount (Adjusted Principal Amount)		$210,460,365.98
+	2.	Initial Closing Date						October 16, 2002
+	3.	End of Pre-Funding Period					18-Feb-03
+	4.	Fixed Percentage for Calculating Maximum
+		Negative Carry Amount						1.25%
+	5.	Negative Carry Account Initial Deposit				$823,673.68
+
+II.  INPUTS FROM PREVIOUS MONTHLY SERVICER REPORT
+A.	Total Pool Balance							$839,912,288.35
+B.	Level Payment Pool Balance						$821,578,056.97
+C.	Last Scheduled Payment Pool Balance					$18,334,231.38
+D.	Notes
+	1.	Class A-1
+		a.	Prior Month Note Balance				$50,850,551.71
+		b.	Interest Carryover Shortfall				0.00
+		c.	Principal Carryover Shortfall				0.00
+	2.	Class A-2
+		a.	Prior Month Note Balance				$230,000,000.00
+		b.	Interest Carryover Shortfall				0.00
+		c.	Principal Carryover Shortfall				0.00
+	3.	Class A-3
+		a.	Prior Month Note Balance				$200,000,000.00
+		b.	Interest Carryover Shortfall				0.00
+		c.	Principal Carryover Shortfall				0.00
+	4.	Class A-4
+		a.	Prior Month Note Balance				$173,500,000.00
+		b.	Interest Carryover Shortfall				0.00
+		c.	Principal Carryover Shortfall				0.00
+	5.	Class B
+		a.	Prior Month Note Balance				$65,298,000.00
+		b.	Interest Carryover Shortfall				0.00
+		c.	Principal Carryover Shortfall				0.00
+	6.	Class C
+		a.	Prior Month Note Balance				$35,808,000.00
+		b.	Interest Carryover Shortfall				0.00
+		c.	Principal Carryover Shortfall				0.00
+E.	Certificate Balance							$71,646,522.63
+F.	Reserve Account Balance							$41,354,767.26
+G.	Yield Supplement Account Balance					$8,430,836.52
+H.	Payahead Account Balance						$341,919.90
+I.	Yield Supplement Over Collateralization Balance 			$26,281,360.76
+J.	Pre-Funding Account Balance						$15,457,177.34
+K. 	Negative Carry Account Balance						$43,466.54
+L.	Deferred Receivables							$517,904,176.39
+M.	Cumulative Losses for All Prior Periods					$13,112.41
+N.	Weighted Average Coupon (WAC)						6.508%
+O.	Weighted Average Remaining Term to Maturity  (WAM) 			57.90
+P	Number of Contracts							34,784
+Q	Total Subsequent Receivables Sold as of Related Cutoff Dates
+	1.	Level Pay Balance						0.00
+	2.	Last Scheduled Payment Balance					0.00
+	3.	Total								0.00
+
+III.  INPUTS FROM THE INVESTOR REPORTING SYSTEM
+A.	Precomputed Contracts Level Payment Principal
+	1.	Scheduled Principal Reduction					754,764.30
+	2.	Prepayments in Full						203,527.95
+	3.	Repurchased Receivables Principal 				0.00
+	4.	Repurchased Receivables Interest				0.00
+B.	Total Collections for Precomputed Contracts 				962,060.05
+C.	Precomputed Contracts - Principal on Last Scheduled Payments
+	1.	Collected Principal						0.00
+	2.	Repurchased Receivables Principal 				0.00
+	3.	Repurchased Receivables Interest				0.00
+	4.	Last Scheduled Payment Principal Paid in Full
+		Prior to Month of Maturity					0.00
+	5.	Last Scheduled Payment Principal Due on Loans
+		Matured This Month						0.00
+D.	Simple Interest Contracts - Level Payment
+	1.	Principal Reduction						6,387,624.78
+	2.	Collected Principal						6,388,399.34
+	3.	Collected Interest						1,647,676.48
+	4.	Repurchased Receivables Principal 				0.00
+	5.	Repurchased Receivables Interest				0.00
+E.	Simple Interest Contracts - Principal on Last Scheduled Payments
+	1.	Collected Principal						18,426.89
+	2.	Repurchased Receivables Principal 				0.00
+	3.	Repurchased Receivables Interest				0.00
+	4.	Last Scheduled Payment Principal Collected
+		Prior to Month of Maturity					18,426.89
+	5.	Last Scheduled Payment Principal
+		Due on Loans Matured This Month					0.00
+F.	Yield Supplement Information
+	1.	Yield Supplement Amount 					1,080,983.01
+	2.	Specified Yield Supplement Account Balance			7,504,580.21
+	3.	Deposit to Yield Supplement Account for
+		Subsequent Receivables Sold This  Period			181,024.45
+G.	Yield Supplement Over Collateralization					26,386,954.39
+H.	Advances
+	1.	Actuarial Advances
+		a.	Beginning Actuarial Advances (or payments
+			due prior to Cutoff Date)				85,579.89
+		b.	Current Month Actuarial Advances 			27,920.95
+		c.	Reimbursement of Actuarial Advances (or
+			payments due prior to Cutoff Date)			43,281.91
+		d.	Ending Actuarial Advances (or payments
+			due prior to Cutoff Date)				70,218.93
+	2.	Precomputed Loans - Last Scheduled Payment Advances
+		a.	Beginning Last Scheduled Payment Advances		0.00
+		b.	Current Month Last Scheduled Payment Advances		0.00
+		c.	Reimbursement of Last Scheduled Payment Advances 	0.00
+		d.	Ending Last Scheduled Payment Advances			0.00
+	3.	Simple Interest Loans - Last Scheduled Payment Advances
+		a.	Beginning Last Scheduled Payment Advances		0.00
+		b.	Current Month Last Scheduled Payment Advance		0.00
+		c.	Reimbursement of Last Scheduled Payment Advances	0.00
+		d.	Ending Last Scheduled Payment Advances			0.00
+	4.	Net Servicer Advances 						(15,360.96)
+I.	Payahead Account Activity
+	1.	Net Increase/(Decrease) in Payahead Account Balance		178,341.87
+	2.	Payahead Balance of Loans Defaulted this Period			0.00
+	3.	Deposit to Payahead Account for Subsequent
+		Receivables Sold This  Period					314.63
+	4.	Ending Payahead Balance 					520,576.40
+J.	Rule of 78s Payment							0.00
+K.	Weighted Average Coupon of Remaining  Portfolio (WAC)			6.504%
+L.	Weighted Average Remaining Maturity (WAM)				57.51
+M.	Remaining Number of Receivables						34,667
+N.	Delinquent Contracts			Contracts	Amount
+	1.	30-59 Days Delinquent		527 	1.52%	12,037,463.00 	1.45%
+	2.	60-89 Days Delinquent		161 	0.46%	3,604,973.87 	0.43%
+	3.	90 Days or more Delinquent	56 	0.16%	1,222,388.91 	0.15%
+O.	Net Loss and Defaulted Receivables Information
+	1.	Vehicles Repossessed During Month 37 				846,363.90
+	2.	Loans Defaulted During the Month				9
+	3.	Level Payment Principal Balance of Defaulted Receivables	199,749.17
+	4.	Last Scheduled Payment Principal Balance of
+		Defaulted Receivables						7,288.41
+	5.	Level Payment Liquidation Proceeds				66,744.43
+	6.	Last Scheduled Payment Liquidation Proceeds			0.00
+	7.	Recoveries of Level Payment and Last Scheduled
+		Payment on Previously Defaulted Receivables			0.00
+P.	Pool Balances
+	1.	Total Pool Balance						832,340,906.85
+	2.	Level Pay Pool Balance						814,032,390.77
+	3.	Last Scheduled Payment Pool Balance				18,308,516.08
+	4.	Deferred Receivables						504,896,867.75
+Q.	Principal Balance of Subsequent Receivables Sold This
+	Period As of Subsequent Transfer Date
+	1.	Level Pay Balance						15,996,776.44
+	2.	Last Scheduled Payment Balance					182,490.87
+	3.	Total Principal Balance						16,179,267.31
+
+IV.  INVESTMENT INCOME
+A.	Reserve Account Investment Income					34,935.94
+B.	Collection Account Investment Income					6,848.19
+C.	Payahead Account Investment Income					265.06
+D.	Yield Supplement Account Investment Income				7,551.03
+E.	Pre-Funding Account Investment Income					12,580.51
+F.	Negative Carry Account Investment Income				35.42
+
+V.  COLLECTIONS
+A.	Level Payments Received (Excluding Repurchases)
+	1.	Total Collections for Precomputed
+		Contracts (Level Payment Only) 					962,060.05
+	2.	Collected Principal on Simple Interest
+		Contracts (Level Payment Only)					6,388,399.34
+	3.	Collected Interest on Simple Interest
+		Contracts (Level Payment Only) 					1,647,676.48
+		Subtotal							8,998,135.87
+
+B.	Last Scheduled Payment Principal Collections
+	(Excluding Repurchases)							18,426.89
+C.	Net Change in Payahead Account Balance 					(178,341.87)
+D.	Net Liquidation Proceeds and Recoveries Received 			66,744.43
+E.	Principal and Interest on Purchased or Repurchased Contracts		0.00
+F.	Exclusion of Rule of 78's Payments 					0.00
+G.	Net Servicer Advances/(Reimbursements) 					(15,360.96)
+H.	Yield Supplement Amount 						1,080,983.01
+I.	Net Investment Earning on the Pre-Funding Account			12,580.51
+J.	Negative Carry Amount 							26,868.80
+K.	Remaining Pre-Funded Amount Due to Noteholders				0.00
+L.	Available Funds								 $10,010,036.68
+
+VI. PRE-FUNDING ACTIVITY
+	A.	Subsequent Receivables Sold This Period
+		1.	Principal Balance of Subsequent
+			Receivables Sold This  Period				16,179,267.31
+		2.	Adjusted Principal Balance of Subsequent
+			Receivables Sold This  Period				15,457,177.34
+		3.	Subsequent Cutoff Date for Subsequent Receivables
+			Sold This  Period					31-Dec-02
+		4.	Subsequent Transfer Date for Subsequent
+			Receivables Sold This  Period				10-Jan-03
+		5.	Deposit to Reserve Account for Subsequent
+			Receivables Sold This  Period				772,858.87
+		6.	Deposit to Yield Supplement Account for Subsequent
+			Receivables Sold This  Period				181,024.45
+		7.	Deposit to Payahead Account for Subsequent
+			Receivables Sold This  Period				314.63
+		8.	Amount Paid to Seller for Subsequent
+			Receivables Sold This Period				15,457,177.34
+	B.	End of Pre-Funding Period (if balance in Pre-Funding
+		Account balance is $100,000 or greater)				18-Feb-03
+	C.	Pre-Funding Account
+		1.	Beginning Pre-Funding Amount				15,457,177.34
+		2.	Amount Paid to Seller for Subsequent
+			Receivables Sold This Period				15,457,177.34
+		3.	Deposit to Reserve Account for Subsequent
+			Receivables Sold This  Period				772,858.87
+		4.	Deposit to Yield Supplement Account for
+			Subsequent Receivables Sold This  Period		181,024.45
+		5.	Deposit to Payahead Account for Subsequent
+			Receivables Sold This  Period				314.63
+		6.	Remaining Pre-Funded Amount Payable
+			to Noteholders						0.00
+		7.	Remaining Pre-Funding Amount
+			(excl. Reserve & Yield Supplement Amount)		0.00
+	D.	Negative Carry Account
+		1.	Calculation of Negative Carry Amount
+			for the Current Period
+			a.  Accrued Note Interest for this Period		1,652,654.59
+			b.  Pre-Funded Amount (excl. Reserve &
+			Yield Supplement Amount)				15,457,177.34
+			c.  Pre-Funded Percentage				2.39%
+			d.  Net Investment Earnings on the
+			Pre-Funded Amount					12,580.51
+			e.  Negative Carry Amount for the
+			Current Period						26,868.80
+		2.	Calculation Maximum Negative Carry Amount
+			a.  Weighted Average Rate based
+			on Ending Note Balances					2.4039%
+			b.  Note Percentage based on Ending
+			Note Balances						91.25%
+			c.  Actual Number of Days from Payment
+			Date to End of Pre-Funding Period			39
+			d.  Maximum Negative Carry Amount			0.00
+		3.	Required Negative Carry Account Balance			0.00
+	E. 	Total Subsequent Receivables Sold as of
+		Related Cutoff Dates
+		1.	Level Pay Balance					211,365,976.27
+		2.	Last Scheduled Payment Balance				4,203,980.40
+		3.	Total							215,569,956.67
+	F.	Total Initial and Subsequent Receivables Sold as
+		of Related Cutoff Dates
+		1.	Level Pay						852,037,007.53
+		2.	Last Scheduled						18,636,685.18
+		3.	Total							870,673,692.71
+	G.	Specified Reserve Balance					42,127,626.13
+
+VII.  DISTRIBUTIONS
+A.	Principal Distribution Amount
+	1.	Total Scheduled Principal					6,954,885.16
+	2.	Principal Carrryover Shortfall					0.00
+	3.	Total Principal Distribution Amount				6,954,885.16
+B.	Total Required Payment
+	1.	Total Servicing Fee  						376,236.80
+	2.	Accrued Note Interest  Due
+		a.	Class A-1						74,739.72
+		b.  	Class A-2						368,000.00
+		c. 	Class A-3 						425,000.00
+		d.	Class A-4						440,979.17
+		e.	Class B							207,865.30
+		f.	Class C							136,070.40
+		g.	Total Accrued Note Interest				1,652,654.59
+	3.	Principal Distribution Amount Due
+		a.	Class A-1 						6,954,885.16
+		b.  	Class A-2 						0.00
+		c. 	Class A-3						0.00
+		d.	Class A-4						0.00
+		e.	Class B 						0.00
+		f.	Class C							0.00
+		g.	Total Principal Distribution Amount			6,954,885.16
+	4.	Total Required Payment 						8,983,776.55
+	5.	Available Funds							10,010,036.68
+	6.	Reserve Account TRP Draw Amount					0.00
+	7.	Total Available Funds						$8,983,776.55
+C.	Current Period Payments
+	1.	Servicing Fee paid						376,236.80
+	2.	Interest Paid
+		a.	Class A-1	 					74,739.72
+		b.  	Class A-2 						368,000.00
+		c. 	Class A-3 						425,000.00
+		d.	Class A-4						440,979.17
+		e.	Class B							207,865.30
+		f.	Class C							136,070.40
+		g.	Total Interest Paid					1,652,654.59
+	3.	Remaining Available Funds					6,954,885.16
+	4.	Principal Payments
+		a.	Class A-1 						6,954,885.16
+		b.  	Class A-2 						0.00
+		c. 	Class A-3 						0.00
+		d.	Class A-4						0.00
+		e.	Class B							0.00
+		f.	Class C							0.00
+		g.	Total Principal Payments				6,954,885.16
+D.	Current Period Shortfalls
+	1.	Interest Carryover Shortfall
+		a.	Class A-1 						0.00
+		b.  	Class A-2 						0.00
+		c. 	Class A-3 						0.00
+		d.	Class A-4						0.00
+		e.	Class B							0.00
+		f.	Class C							0.00
+		g.	Total Interest Carryover Shortfall			0.00
+	2.	Principal Carryover Shortfall
+		a.	Class A-1 						0.00
+		b.  	Class A-2 						0.00
+		c. 	Class A-3 						0.00
+		d.	Class A-4						0.00
+		e.	Class B							0.00
+		f.	Class C							0.00
+		g.	Total Principal Carryover Shortfall			0.00
+E.	Reserve Account
+	1.	Beginning Reserve Account Balance				41,354,767.26
+	3.	Plus: Reserve Account Investment Income				34,935.94
+	4.	Less: Reserve Account Advance Draw Amount			0.00
+	5.	Less: Reserve Account TRP Draw Amount				0.00
+	6.	Reserve Account Balance before Deposit to Reserve Account	42,162,562.07
+	7.	Specified Reserve Account Balance				42,127,626.13
+	8.	Amount Necessary to Reinstate Reserve Account to
+		Specified Reserve Balance 					0.00
+	9.	Funds Available for Deposit to Reserve Account			1,026,260.13
+	10.	Amount Deposited to Reserve Account				0.00
+	11.	Reserve Account Investment Income Released to Seller		34,935.94
+	12.	Ending Reserve Account Balance					42,127,626.13
+F.	Turbo Principal Payment
+	1.	Funds Available for Accelerated Principal Payment		1,026,260.13
+	2.	Accelerated Principal Payments					0.00
+		a.	Class A-1 						1,026,260.13
+		b.  	Class A-2 						0.00
+		c. 	Class A-3 						0.00
+		d.	Class A-4						0.00
+		e.	Class B							0.00
+		f.	Class C							0.00
+		g.	Total Turbo Principal Distribution Amount		1,026,260.13
+F.	Excess Funds Deposited to Certificate Distribution Account		0.00
+G.	Total Distributions							$10,010,036.68
+
+
+VIII.  POOL BALANCES AND PORTFOLIO INFORMATION			Beginning	End
+A.	Balances and Principal Factors				of Period	of Period
+	1.	Total Pool Balance				$839,912,288.35	$848,520,174.16
+	2.	Total Pool Factor				1.2821058 	1.2952455
+	3.	Level Payment Pool Balance			821,578,056.97 	830,029,167.21
+	4.	Level Payment Pool Factor			1.2823712 	1.2955622
+	5.	Last Scheduled Payment Pool Balance		18,334,231.38 	18,491,006.95
+	6.	Note Balance
+		a.	Class A-1 				50,850,551.71 	42,869,406.42
+		b.  	Class A-2 				230,000,000.00 	230,000,000.00
+		c. 	Class A-3 				200,000,000.00 	200,000,000.00
+		d.	Class A-4				173,500,000.00 	173,500,000.00
+		e.	Class B					65,298,000.00 	65,298,000.00
+		f.	Class C					35,808,000.00 	35,808,000.00
+		g.	Total					755,456,551.71 	747,475,406.42
+	7.	Pool Factor
+		a.	Class A-1 				0.7669766 	0.6465974
+		b.  	Class A-2 				1.0000000 	1.0000000
+		c. 	Class A-3 				1.0000000 	1.0000000
+		d.	Class A-4				1.0000000 	1.0000000
+		e.	Class B					1.0000000 	1.0000000
+		f.	Class C					1.0000000 	1.0000000
+	8.	Certificate Balance				71,646,522.63 	71,646,522.63
+	9.	Certificate Pool Factor				1.0000000 	1.0000000
+	10.	Total Note and Certificate Balance		827,103,074.34	819,121,929.05
+	11.	Yield Supplement Over Collatralization		26,281,360.76	26,386,954.39
+	12.	Adjusted Pool Balance				813,630,927.59	822,133,219.77
+
+B.	Portfolio Information
+	1.	Weighted Average Coupon of  Portfolio (WAC)	6.508% 		6.505%
+	2.	Weighted Average Remaining Term
+		to Maturity of  Portfolio (WAM) 		57.90 		57.60
+	3.	Remaining Number of Receivables			34,784 		35,315
+
+IX.  NET LOSS AND DELINQUENCY ACTIVITY
+A.	Realized Losses for Collection Period					140,293.15
+B.	Realized Losses for Collection Period Less Recoveries			140,293.15
+C.	Cumulative Losses for all Periods  					153,405.56
+D	Delinquent and Repossessed Contracts
+					      Contracts			Amount
+	1.	30-59 Days Delinquent		527 	1.52%	$12,037,463.00 	1.45%
+	2.	60-89 Days Delinquent		161 	0.46%	$3,604,973.87 	0.43%
+	3.	90 Days or more Delinquent	56 	0.16%	$1,222,388.91 	0.15%
+	4.	Vehicles Repossessed During
+		    Collection Period		37 		$846,363.90
+
+
+X.  AVERAGE LOSS AND DELINQUENCY RATIOS
+A.	Annualized Ratio of Realized Losses to Pool
+	Balance for Each Collection Period
+	1.	Second Preceding Collection Period				0.00%
+	2.	Preceding Collection Period					0.00%
+	3.	Current Collection Period 					0.00%
+	4.	Three Month Average 						0.00%
+
+B.	Annualized Net Loss							0.20%
+
+C.	Ratio of Balance of Contracts Delinquent 60 Days or More to the
+	Pool Balance as of the End of the Collection Period.
+	1.	Second Preceding Collection Period				0.01%
+	2.	Preceding Collection Period					0.17%
+	3.	Current Collection Period 					0.57%
+	4.	Three Month Average 						0.25%
+
+XI.  RECONCILIATION OF COLLECTION ACCOUNT
+A.	Transfers Into Collection Account
+	1.	Transfer of Daily Collections					9,083,307.19
+	2.	Yield Supplement Amount from MMCA				1,080,983.01
+	3.	Net Servicer Advances (if positive) 				0.00
+	4.	Reserve Account Draw for Total Required Payment 		0.00
+	5.	Deposit from Payahead Account  					0.00
+	6.	Collection Account Investment Income  				6,848.19
+	7.	Transfer of Negative Carry Amount from
+		Negative Carry Account						26,868.80
+	8.	Transfer of Net Earnings on Pre-Funding Account			12,580.51
+	9.	Transfer of Prefunding Account Balance due to
+		End of Pre-Funding Period					0.00
+	10.	Total Transfers Into Collection Account				$10,210,587.70
+B.	Transfers from Collection Account
+	1.	To Servicer
+		a.	Total Servicing Fee					376,236.80
+		b.	Rule of 78's Payment					0.00
+		c.	Net Reimbursement of Servicer Advance
+			or Payments Due Prior to Cutoff Date			15,360.96
+		d.	Less:  Total Principal and Interest on
+			Repurchases (Netted from Amounts Due Servicer) 		0.00
+		e.	Total To Servicer (Net of Total Repurchases)		391,597.76
+
+	2.	Total Required Payment Distributed
+		(Net of Total Servicing Fee)					8,607,539.75
+	3.	Turbo Principal Payment Distributed				1,026,260.13
+	4.	Deposit to Payahead Account 					178,341.87
+	5.	Deposit to Reserve Account 					0.00
+	6.	Deposit To Certificate Distribution Account
+		a.	Excess Funds						0.00
+		b.	Collection Account Investment Income			6,848.19
+		c.	Total to Certificate Distribution Account		6,848.19
+	7.	Total Transfers from Collection Account				$10,210,587.70
+
+XII.  RECONCILIATION OF RESERVE ACCOUNT
+A.	Beginning Balance of Reserve Account					41,354,767.26
+B.	Transfers Into Reserve Account
+	1.	Reserve Account Deposit from Available Funds 			0.00
+	2.	Reserve Account Investment Income 				34,935.94
+	3.	Transfer from Prefunding Account for
+		Subsequent Receivables Sold					772,858.87
+	4.	Total Transfers Into Reserve Account				807,794.81
+C.	Total Transfers In and Beginning Balance				$42,162,562.07
+D.	Distributions From Reserve Account
+	1.	Transfer to Servicer for Reserve Account
+		Advance Draw Amount						0.00
+	2.	Transfer to Collection Account for Reserve
+		Account TRP Draw Amount  					0.00
+	3.	Reserve Account Investment Income to Seller (MART) 		34,935.94
+	4.	Total Transfers From Reserve Account				34,935.94
+E.	Ending Balance								42,127,626.13
+F.	Total Distributions and Ending Balance					$42,162,562.07
+
+XIII.  RECONCILIATION OF PAYAHEAD ACCOUNT
+A.	Beginning Balance of Payahead Account					341,919.90
+B.	Transfers Into Payahead Account
+	1.	Net Payahead Transfer from Collection Account 			178,341.87
+	2.	Payahead Account Investment Income 				265.06
+	3.	Transfer from Prefunding Account for
+		Subsequent Receivables						314.63
+	4.	Total Transfers Into Payahead Account				178,921.56
+C.	Total Transfers In and Beginning Balance				$520,841.46
+D.	Distributions From Payahead Account
+	1.	Net Payahead Transfer to Collection Account 			0.00
+	2.	Transfer Investment Income to Servicer 				265.06
+	3.	Total Transfers From Payahead Account				265.06
+E.	Payahead Account Ending Balance 					520,576.40
+F.	Total Distributions and Ending Balance					$520,841.46
+
+XIV.  RECONCILIATION OF YIELD SUPPLEMENT ACCOUNT
+A.	Beginning Balance of Yield Supplement Account 				8,430,836.52
+B.	Transfers IntoYield Supplement Account
+	1.	Yield Supplement Account Investment Income   			7,551.03
+	2.	Transfer from Prefunding Account for Subsequent
+		Receivables Sold						181,024.45
+	3.	Total Transfers Into Yield Supplement Account			188,575.48
+C.	Total Transfers and Beginning Balance  					$8,619,412.00
+D.	Distributions From Yield Supplement Account
+	1.	Yield Supplement Amount to Collection Account
+		(if not paid by MMCA) 						0.00
+	2.	Transfer Investment Income to Seller (MART)  			7,551.03
+	3.	Transfer Reduction in Specified Yield Supplement
+		Account Balance to Seller (MART)				1,107,280.76
+	4.	Total Transfers From Yield Supplement Account			1,114,831.79
+E.	Specified Yield Supplement Account Ending Balance 			7,504,580.21
+F.	Total Distributions and Ending Balance					$8,619,412.00
+
+XV.  RECONCILIATION OF NOTE PAYMENT ACCOUNT
+A.	Transfers Into Note Payment Account
+	1.	Total Required Pmt Distributed (less Servicing
+		Fee & Net Swap Pmt) from Collection Acct			8,607,539.75
+	2.	Turbo Principal Payment Distributed from
+		Collection Account						1,026,260.13
+	3.	Total Transfers Into Note Payment Account			9,633,799.88
+B.	Distributions from Note Payment Account
+	1.	Payments to Noteholders
+		a.	Class A-1 						8,055,885.01
+		b.  	Class A-2 						368,000.00
+		c. 	Class A-3 						425,000.00
+		d.	Class A-4						440,979.17
+		e.	Class B							207,865.30
+		f.	Class C							136,070.40
+		g.	Total Payments to Noteholders				9,633,799.88
+	2.	Ending Balance of Note Payment Account				0.00
+C.	Total Distributions and Ending Balance					$9,633,799.88
+
+XVI.  RECONCILIATION OF CERTIFICATE DISTRIBUTION ACCOUNT
+A.	Transfers Into Certificate Distribution Account
+	1.	Excess Funds Deposited from Collection Account			0.00
+	2.	Collection Account Investment Income				6,848.19
+	3.	Total Transfers into Certificate Distribution Account		6,848.19
+B.	Distributions from Certificate Distribution Account
+	1.	Payments to Certificateholders					6,848.19
+	2.	Ending Balance							0.00
+C.	Total Distributions and Ending Balance					$6,848.19
+
+XVII.  RECONCILIATION OF PRE-FUNDING ACCOUNT
+A.	Beginning Balance of Pre-Funding Account				15,457,177.34
+B.	Pre-Funding Account Investment Income					12,580.51
+C.	Total Transfers In and Beginning Balance				$15,469,757.85
+D.	Distributions from Pre-Funding Account
+	1.	Transfer Investment Income to Collection Account		12,580.51
+	2.	Transfer to Reserve Account for Sale of
+		Subsequent Receivables						772,858.87
+	3.	Transfer to Yield Supplement Account for Sale of
+		Subsequent Receivables						181,024.45
+	4.	Transfer to Payahead Account for Sale of
+		Subsequent Receivables						314.63
+	4.	Transfer to Seller (MART) for Sale of
+		Subsequent Receivables						14,502,979.39
+	6.	Transfer to Collection Account of Remaining
+		Balance Due Noteholders						0.00
+	7.	Total Transfers From Pre-Funding Account			15,469,757.85
+E.	Pre-Funding Account Ending Balance					0.00
+F.	Total Distributions and Ending Balance					$15,469,757.85
+
+XVIII.  RECONCILIATION OF NEGATIVE CARRY ACCOUNT
+A.	Beginning Balance of Negative Carry Account				43,466.54
+B.	Negative Carry Account Investment Income				35.42
+C.	Total Transfers In and Beginning Balance				$43,501.96
+D.	Distributions from Negative Carry Account
+	1.	Transfer of Negative Carry Amount to
+		Collection Account						26,868.80
+	2.	Release Investment Income from Negative
+		Carry Account to Seller (MART)					35.42
+	3.	Release Excess Funds from Negative Carry
+		Account to Seller (MART)					16,597.74
+	4.	Total Transfers From Negative Carry Account			43,501.96
+E.	Negative Carry Account Ending Balance					0.00
+F.	Total Distributions and Ending Balance					$43,501.96
+
+XIX.  DISTRIBUTION SUMMARY
+A.	Distributions From Collection Account
+	1.	To Note Payment Account						9,633,799.88
+	2.	To Servicer (MMCA) 						391,597.76
+	3.	To Payahead Account						178,341.87
+	4.	To Reserve Account 						0.00
+	5 	To Certificate Distribution Account				6,848.19
+	6.	Total Distributions From Collection Account			$10,210,587.70
+
+B.	Distributions From Reserve Account
+	1.	To Collection Account 						0.00
+	2.	To Seller (MART)						34,935.94
+	3.	To Servicer (MMCA)						0.00
+	4.	Total Distributions From Reserve Account 			34,935.94
+
+C.	Distributions From Payahead Account
+	1.	To Collection Account						0.00
+	2.	Investment Income to Servicer (MMCA) 				265.06
+	3.	Total Distributions From Payahead Account			265.06
+
+D.	Distributions From Yield Supplement Account
+	1.	To Collection Account						0.00
+	2.	Investment Income to Seller (MART)				7,551.03
+	3.	Reduction in Specified Yield Supplement Account
+		Balance to Seller (MART)					1,107,280.76
+	4.	Total Distributions From Yield Supplement Account		1,114,831.79
+
+E.	Distributions From Pre-Funding Account
+	1.	To Reserve Account						772,858.87
+	2.	To Yield Suplement Account					181,024.45
+	3.	To Collection Account						12,580.51
+	4.	To Payahead Account						314.63
+	4.	To Seller for Sale of Subsequent Receivables			14,502,979.39
+	5.	Total Distributions from Negative Carry Account			15,469,757.85
+
+F.	Distributions From Negative Carry Account
+	1.	To Collection Account						26,868.80
+	2.	To Seller (MART)						16,633.16
+	3.	Total Distributions from Negative Carry Account			43,501.96
+
+G.	Total Distributions From All Accounts					$26,873,880.30
+H.	Total Distributions From All Accounts to:
+	1.	Note Payment Account						9,633,799.88
+	2.	Servicer (MMCA)							391,862.82
+	3.	Seller (MART)							15,669,380.28
+	4.	Collection Account 						39,449.31
+	5.	Certificate Distribution Account				6,848.19
+	6.	Reserve Account							772,858.87
+	7.	Payahead Account						178,656.50
+	8.	Yield Supplement Account					181,024.45
+	9.	Total Distributions From All Accounts							 $26,873,880.30
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOCUMENT>

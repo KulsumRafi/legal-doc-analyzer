@@ -1,0 +1,969 @@
+<DOCUMENT>
+<TYPE>EX-10.53
+<SEQUENCE>5
+<FILENAME>dex1053.txt
+<DESCRIPTION>NEC 3G PATENT LICENSE AGREEMENT
+<TEXT>
+<PAGE>
+
+                                                                   EXHIBIT 10.53
+
+CONFIDENTIAL PORTIONS OF THIS DOCUMENT HAVE BEEN REDACTED AND SEPARATELY FILED
+WITH THE COMMISSION.
+
+                      NARROWBAND CDMA AND THIRD GENERATION
+                            PATENT LICENSE AGREEMENT
+
+                                     BETWEEN
+
+                       INTERDIGITAL TECHNOLOGY CORPORATION
+
+                                       and
+
+                                 NEC CORPORATION
+
+             Dated and Effective January 15, 2002 ("Effective Date")
+
+<PAGE>
+
+                            PATENT LICENSE AGREEMENT
+
+THIS NARROWBAND CDMA and THIRD GENERATION PATENT LICENSE AGREEMENT ("3G
+Agreement") dated as of January 15, 2002, (the "Effective Date") is between
+InterDigital Technology Corporation ("ITC"), a Delaware corporation with a
+mailing address of 300 Delaware Avenue, Suite 527, Wilmington, DE 19801, and NEC
+Corporation ("Licensee"), a company organized and existing under the laws of
+Japan, with a mailing address of [**] Japan.
+
+                                    PREAMBLE
+
+WHEREAS, ITC and Licensee are parties to an existing Patent License Agreement,
+dated May 8, 1995, covering certain TDMA-based products manufactured and sold by
+Licensee (the "Prior Agreement");
+
+WHEREAS, a substantial dispute has arisen between Licensee and ITC as to whether
+royalties are owed by Licensee for its sale in Japan of Covered Infrastructure
+Units and Covered Subscriber Units compliant with the PHS and PDC Covered
+Standards;
+
+WHEREAS, the parties have engaged in both a mediation and an arbitration dispute
+resolution process pursuant to the Prior Agreement with respect to such dispute,
+and are desirous of settling the dispute amicably;
+
+WHEREAS, ITC holds a large and valuable patent portfolio with regard to
+Narrowband CDMA and Third Generation and NEC is desirous of obtaining a license
+thereunder and ITC is willing to grant such license on the term and conditions
+set forth herein;
+
+WHEREAS, NEC holds a large and valuable patent portfolio with regard to
+Narrowband CDMA and Third Generation and ITC is desirous of obtaining a
+non-assert thereunder and NEC is willing to grant such non-assert on the term
+and conditions set forth herein;
+
+** Material has been omitted and filed seperately with the Commission.
+
+<PAGE>
+
+WHEREAS, the parties have agreed upon a settlement of the dispute, wherein the
+settlement provides:(i) for certain amendments to the Prior Agreement, the
+principal amendment providing for certain payments to ITC in lump sum amounts in
+exchange for a paid-up license for Covered Subscriber Units and Covered
+Infrastructure Units compliant with PHS and PDC Covered Standards, and (ii) for
+a new license agreement (this 3G Agreement) involving Covered Subscriber Units
+and Covered Infrastructure Units compliant with Narrowband CDMA and Third
+Generation (as defined herein); and
+
+NOW, THEREFORE, in consideration of the mutual promises contained herein, and
+intending to be legally bound, the parties agree as follows:
+
+                             ARTICLE 1. DEFINITIONS
+
+1.1.    "Affiliate" means (i) IDC with respect to ITC or (ii) a corporation or
+        other legal entity of which more than fifty percent (50%) of the voting
+        stock or control is owned, directly or indirectly, by Licensee, IDC, or
+        ITC, as the case may be. Such corporation or other entity in item (ii)
+        shall be considered as Affiliate of Licensee, IDC, or ITC, as the case
+        may be, only so long as the requisite ownership of the voting stock or
+        control exists.
+
+1.2.    "Combi-Unit" means any Subscriber Unit which has substantial
+        functionality unrelated to basic voice or wireless data transmission,
+        such as video phones, personal digital assistant, computers, and the
+        like, but which performs modulation and demodulation.
+
+1.3.    "Communication Card" means a Subscriber Unit in card or similar format
+        (e.g. PCMCIA card) which contains at a minimum all of the circuitry
+        necessary for modulation and demodulation in accordance with one or more
+        Covered Standards and may be readily attachable to, and detachable from,
+        the body of an
+
+                                       3
+
+<PAGE>
+
+        end-user terminal device, whether fixed, mobile, transportable,
+        vehicular, portable or hand-held, with RF transmit and/or RF receive
+        capabilities by end-user. A Communication Card shall include all
+        attachments necessary to enable the information and/or communication
+        unit to transmit and receive wireless communications.
+
+1.4.    "Covered Infrastructure Unit" means Infrastructure Units designed to
+        operate in accordance with one or more of the Covered Standards.
+
+1.5.    "Covered Standards" mean standards for Narrowband CDMA and Third
+        Generation.
+
+1.6.    "Covered Subscriber Units" means Subscriber Units designed to operate in
+        accordance with one or more Covered Standards.
+
+1.7.    "IDC" means InterDigital Communications Corporation, having an office at
+        781 Third Avenue, King of Prussia, PA 19406.
+
+1.8.    "Infrastructure Unit" means mobile switching centers, radio network
+        controllers, service nodes, Node B's, base stations, radio resource
+        management devices and software, base station controllers, digital
+        transceivers, digital channel cards, and software necessary to operate
+        the aforementioned devices (including software maintenance agreements to
+        the extent that free upgrades are provided in exchange for the
+        maintenance fee, or to the extent that the software maintenance provides
+        an upgrade or enhancement as to functionality), whether sold as
+        individual items or bundled as an integrated product, which is used to
+        interconnect a Covered Subscriber Unit to a public or private data or
+        voice network (whether wired or unwired), including the internet.
+        Subject to the
+
+                                       4
+
+<PAGE>
+
+        foregoing, absent some substantial difference in design and/or function
+        of Infrastructure Units, the parties agree, generally, the
+        interpretation of Infrastructure Equipment and Net Selling Price (as
+        defined in the Prior Agreement), and used in the arbitration, including
+        for audit purposes, shall generally be considered acceptable guidelines
+        in determining the royalty base hereunder.
+
+1.9.    "Licensed Patents" means any issued patent relating to TDMA or
+        CDMA-based digital wireless communications and similar patent
+        applications on file as of the Effective Date or filed within five (5)
+        years of the Effective Date, which patents and patent applications are
+        owned by ITC or its Affiliates and/or for which ITC or its Affiliates
+        has the right to grant the licenses conveyed hereunder, without such
+        grant or the exercise of rights thereunder resulting in the payment of
+        royalties or other consideration by ITC or its Affiliates to third
+        parties (except for payments between ITC and Affiliates of ITC, payments
+        between Affiliates of ITC and payments to third parties for inventions
+        made by said third parties while employed by ITC or any of its
+        Affiliates), including utility models but excluding design patents and
+        design registrations, in every country of the world and any
+        continuation, continuation-in-part and divisional application based on
+        such patents, and any foreign counterparts of any such patents,
+        continuations, continuations-in-part or divisional applications. A
+        listing (which is not intended to be exhaustive) of Licensed Patents as
+        of the Effective Date is included as Attachment A.
+
+1.10.   "Licensee" means NEC Corporation.
+
+1.11.   "Module" means a Subscriber Unit which is an integrated modem/base
+        band/RF device containing the complete functionality of an applicable
+        Covered Standard
+
+                                       5
+
+<PAGE>
+
+        (excluding display, keypad and antenna) and which is sold for physical
+        integration into a Covered Subscriber Unit.
+
+1.12.   "Narrowband CDMA" means standards for direct sequence code division
+        multiple access digital cellular radiotelephone service adopted as a
+        standard by either a standards development organization - such as ETSI,
+        TIA/EIA or ARIB- or a major operator of public subscription systems for
+        in-country requirements (e.g. frequency spectrum availability,
+        interconnection with preexisting telephony networks, etc.) which limit
+        the spread of the signal over a bandwidth not greater than 1.25 MHz,
+        including, but not limited to, IS-95 Rev.A, IS-95 Rev. B and various
+        derivations thereof that do not fundamentally alter the character
+        thereof.
+
+1.13.   "NEC Patents" means any issued patent relating to TDMA or CDMA-based
+        digital wireless communications and similar patent applications on file
+        as of the Effective Date or filed within five (5) years of the Effective
+        Date, for which Licensee or its Affiliates has the right to grant the
+        non-assertion and the licenses described in Article 2.3 below without
+        such grant or the exercise of rights thereunder resulting in the payment
+        of royalties or other consideration by Licensee or its Affiliates to
+        third parties (except for payments between Licensee and Affiliates of
+        Licensee, payments between Affiliates of Licensee and payments to third
+        parties for inventions made by said third parties while employed by
+        Licensee or any of its Affiliates), (including utility models but
+        excluding design patents and design registrations) in every country of
+        the world and any continuation, continuation-in-part and divisional
+        application based on such patents, and any foreign counterparts of any
+        such patents, continuations, continuations-in-part or divisional
+        applications.
+
+                                       6
+
+<PAGE>
+
+1.14.   "Net Selling Price" means the amount actually invoiced to the customer
+        for a Covered Infrastructure Unit or Covered Subscriber Unit, less
+        packing, insurance and shipping costs, applicable import, export and
+        excise duties, returns, trade discounts given, insurance and
+        installation costs, to the extent included in the Net Selling Price,
+        [**]. If base stations or other Covered Infrastructure Units contain
+        integrated switching equipment, royalties shall be payable with respect
+        to the entire cost of such base stations or other Covered Infrastructure
+        Units; [**].
+
+1.15.   "Subscriber Unit" means an end-user terminal device, whether fixed,
+        mobile, transportable, vehicular, portable or hand-held, with RF
+        transmit and/or RF receive capabilities (or a Module therefor), which
+        device is designed for wireless voice and/or wireless data
+        communications but which may have other functionality such as, without
+        limitation, appointment functions, MP3 player, etc.
+
+1.16.   "TDD" means time division duplex technology, including all chip rates
+        and modes thereof.
+
+1.17.   "Third Generation" means those TDMA or CDMA-based digital cellular
+        mobile radio telecommunication standards generally considered by the
+        industry to be the third generation, whether adopted by any recognized
+        standardizing body or promoted by major telecommunications operators as
+        de facto standards. Examples of current Third Generation Standards
+        under development, or related standardization efforts, are the
+        International Telecommunications Union -
+
+_____________
+** Material has been omitted and filed separately with the Commission.
+
+                                       7
+
+<PAGE>
+
+        Radio efforts under the label IMT-2000, the specifications being
+        developed under the Third Generation Partnership Projects (3GPP and
+        3GPP2), and comparable or related standards adopted by ARIB, ETSI, TTA,
+        TIA, T1P1, CWTS, as well as other recognized standards development
+        organizations.
+
+                            ARTICLE 2. LICENSE GRANT
+
+2.1.    Grant. ITC, for itself and its Affiliates, hereby grants to Licensee and
+        its Affiliates a non-exclusive, non-transferable, worldwide,
+        royalty-bearing license under the Licensed Patents to make, have made,
+        use, import, sell and otherwise dispose of Covered Subscriber Units and
+        Covered Infrastructure Units, including the right to make, have made,
+        use, import, and otherwise dispose of components therefor, or the supply
+        of replacement parts therefor.
+
+2.2.    Limitations on License Grant. The license granted hereunder excludes the
+        right to grant sublicenses. In addition, the above license shall not
+        include, by implication or otherwise, any license for components except
+        when used solely as a part of and within Covered Subscriber Units and
+        Covered Infrastructure Units sold or otherwise transferred by Licensee
+        or its Affiliates. Further, as regards Covered Infrastructure Unit, the
+        license as to the sale of Covered Infrastructure Unit such as base
+        station transceiver system and the like which may be installed into a
+        larger infrastructure shall extend only as to the Covered Infrastructure
+        Unit sold or otherwise transferred by Licensee or its Affiliates and
+        shall not extend, by implication or otherwise, to the portion of such
+        larger infrastructure other than the Covered Infrastructure Unit not
+        otherwise licensed hereunder.
+
+2.3.    Non-Assertion/TDD License/Optional License.  Licensee hereby agrees, and
+
+                                       8
+
+<PAGE>
+
+        shall cause its Affiliates to agree, not to bring any claim against ITC,
+        IDC or its Affiliates, for infringement of any claim or claims of the
+        NEC Patents with respect to Covered Subscriber Units, Covered
+        Infrastructure Units or components therefor made, used, sold or
+        otherwise transferred by IDC or its Affiliates, it being understood that
+        the foregoing shall not be construed to prevent Licensee or its
+        Affiliates to bring such claim against any other party (including but
+        not limited to direct or indirect customers of IDC or its Affiliates)
+        with respect to such Covered Subscriber Units, Covered Infrastructure
+        Units or components therefor. Further, Licensee grants, and shall cause
+        its Affiliates to grant, to IDC and its Affiliates, a non-exclusive,
+        royalty free, world wide, non-transferable license under the NEC Patents
+        for ITC, IDC or its Affiliates to make, have made, sell, distribute,
+        import or use Covered Subscriber Units and Covered Infrastructure Units,
+        including components therefor, compliant with TDD ("TDD License");
+        provided, however, that such TDD License shall not extend to other
+        non-TDD Third Generation functionality or Narrowband CDMA functionality
+        included in such product. NEC also agrees, to the extent requested by
+        IDC, to grant IDC or its Affiliates a non-transferable, non-exclusive,
+        royalty bearing license under the NEC Patents for IDC or its Affiliates
+        to make, have made, sell, distribute, import or use Covered Subscriber
+        Units and Covered Infrastructure Units to the extent not covered by the
+        TDD License. Such additional license shall be on the same terms and
+        conditions as applied to NEC and its Affiliates hereunder, with IDC
+        making a pre-payment of two-years worth of expected royalty payments as
+        agreed in amount by IDC and Licensee.
+
+                       ARTICLE 3. ROYALTY RATES/PAYMENTS
+
+3.1.    Royalty Payments.
+
+                                       9
+
+<PAGE>
+
+        3.1.1.  Convenience Based Royalties on Products Compliant with Third
+                Generation and Narrowband CDMA. In consideration of the licenses
+                granted herein, Licensee shall pay ITC the following
+                non-refundable (except as the consequence of the royalty audit
+                under Article 7.7 or except in the case of computation error by
+                Licensee) royalties on each sale of the below listed products by
+                Licensee and/or its Affiliates, anywhere in the world:
+
+                     i.   For Covered Subscriber Units compliant with Narrowband
+                          CDMA and Third Generation, [**]% of the Net Selling
+                          Price of each such product sold by Licensee or its
+                          Affiliates provided, however, that the above royalty
+                          shall not exceed $[**] on a per unit basis.
+
+                     ii.  For Covered Infrastructure Units compliant with
+                          Narrowband CDMA and Third Generation, [**]% of the
+                          Net Selling Price of each such product sold by
+                          Licensee and/or its Affiliates; provided, however,
+                          that for sales of Covered Infrastructure Units in
+                          Japan only, for sales occurring on or before December
+                          31, 2003, the royalty rate shall be [**]%. For sales
+                          of Covered Infrastructure Units occurring on or after
+                          January 1, 2004, Licensee shall have the option to
+                          pre-pay
+
+___________
+** Material has been omitted and filed separately with the Commission.
+
+                                       10
+
+<PAGE>
+
+                          additional royalties for Covered Infrastructure Units
+                          for use in Japan only, at any time, based on
+                          Licensee's good faith projection of its sales of such
+                          products over a one (1) to three (3) year period(s).
+                          Such pre-payment shall be paid to ITC prior to the
+                          start of the royalty period used in determining the
+                          pre-payment amount. Licensee's actual payment to ITC
+                          for such royalty projection shall be discounted at
+                          [**] % per annum, to reflect the time value of money
+                          over the selected period. In addition, the optional
+                          pre-payment shall be further discounted by the
+                          following single volume discount, applied to the
+                          present value amount, as follows:
+
+                          Years Pre-paid                  Volume Discount
+                          1                                     [**]%
+                          2                                     [**]%
+                          3 or more                             [**]%
+
+                          The projected royalty shall serve as the royalty
+                          credit, against which Licensee can at any time offset
+                          its royalty obligations as to Covered Infrastructure
+                          Unit for use in Japan only, until that royalty credit
+                          is exhausted. A sample calculation of the pre-payment
+                          method is set forth in Attachment B hereto.
+
+_____________
+** Material has been omitted and filed separately with the Commission.
+
+                                       11
+
+<PAGE>
+
+                As used herein, "sale" means the first non-affiliated sale made
+                on an arms-length basis. In determining the royalty on a Module,
+                Licensee shall use the greater of (i) the Net Selling Price of
+                the Module or (ii) the average Net Selling Price of Covered
+                Subscriber Units for the period for which royalties are being
+                reported. In determining the Net Selling Price of a Combi-Unit,
+                Licensee shall use the lesser of (i) the Net Selling Price of
+                the Combi-Unit or (ii) the average Net Selling Price for Covered
+                Subscriber Units for the period for which royalties are being
+                reported. The average Net Selling Price for Covered Subscriber
+                Units shall be calculated using the total revenue (based upon
+                the Net Selling Price definition herein) for Covered Subscriber
+                Units (excluding Modules and Combi-Units) for the period covered
+                by the royalty report, divided by the number of Covered
+                Subscriber Units (excluding Modules and Combi-Units) sold in
+                that same period. Notwithstanding the foregoing, in the case
+                that no sales of Covered Subscriber Units (excluding Modules and
+                Combi-Units) exist for the period for which royalties are being
+                reported, Licensee shall use the average net selling price of
+                cellular handsets, which has no substantial functionality
+                unrelated to basic telephony or wireless data transmission,
+                built to the same Covered Standards for that period, as reported
+                by Dataquest or some other internationally recognized data
+                collection and reported firm agreeable to both parties.
+
+3.2.    Purchase of Licensed Products. If Licensee or any of its Affiliates
+        purchases Licensed Covered Subscriber Units (including Modules) or
+        Covered Infrastructure Units for incorporation into Licensee's or its
+        Affiliates' Covered
+
+                                       12
+
+<PAGE>
+
+        Subscriber Units or Covered Infrastructure Units, ("Licensed Products"),
+        either in modified or unmodified form, Licensee shall receive a royalty
+        credit equal to the amount of the per unit royalty (whether calculated
+        as a $US per unit royalty or as a percentage of selling price) paid to
+        ITC by the manufacturer of such Licensed Product, such credit not to
+        exceed the amount of the per unit royalty due by Licensee hereunder for
+        the ultimate Covered Subscriber Unit or Covered Infrastructure Unit sold
+        by Licensee or its Affiliates, in which such Licensed Product, in the
+        same or modified form, is incorporated. As used herein, Licensed Product
+        shall mean a Covered Subscriber Unit (including Module) or Covered
+        Infrastructure Unit compliant with one or more Covered Standards
+        manufactured by a third party under a license from ITC under the
+        Licensed Patents and not known by Licensee at the time of purchase of
+        the Licensed Product to be other than in good standing (i.e., not in
+        default), and for which the third party licensee has paid ITC the per
+        unit royalty for the Licensed Product. For the purposes of determining
+        the credit, Licensee shall, in its royalty report, specify the number of
+        Licensed Products purchased, the date purchased, and from whom such
+        Licensed Products were purchased. ITC will then notify Licensee of the
+        applicable credit, which Licensee may apply in its subsequent royalty
+        reports to ITC until exhausted. ITC may also notify Licensee if the
+        third party licensee is in default of its obligations under the third
+        party license with ITC and that the credit as to future sales by
+        Licensee shall not be given unless and until such third party licensee
+        cures such default. Licensee shall have the right to audit ITC's books
+        and records in accordance with Article 7.7 below. If the license granted
+        by ITC to such third party is on other than a per unit or % of net
+        selling price running royalty basis, then for the purpose of the royalty
+        credit, the parties, subject to the dispute resolution provisions, shall
+        determine the per unit royalty deemed to have been paid by such third
+        party to ITC for such Licensed Product, based on lump sums or other cash
+        payments paid under the
+
+                                       13
+
+<PAGE>
+
+        applicable patent license agreement and the volume of products licensed
+        thereunder.
+
+3.3.    Resale. If Licensee or its Affiliates (i) purchases Covered Subscriber
+        Units or Covered Infrastructure Units from a third party that, under a
+        license agreement executed subsequent to the Effective Date, is licensed
+        under the Licensed Patents by ITC to manufacture, have made, sell and
+        distribute such Covered Subscriber Units or Covered Infrastructure, and
+        (ii) resells without modification, addition or enhancement, such
+        purchased Covered Subscriber Units or Covered Infrastructure Units as
+        such, no royalty shall be payable by Licensee so long as said third
+        party license agreement includes express provisions under which
+        purchasers which are original equipment manufacturers receive pass
+        through rights under the Licensed Patents, including resale rights. If
+        Licensee or its Affiliates purchase products from an entity meeting the
+        above requirements except that (i) the applicable license was entered
+        into prior to the Effective Date or (ii) the applicable license
+        agreement (whether entered before or after the Effective Date) does not
+        have the aforementioned resale rights, Licensee shall be given a credit
+        for the per unit royalty paid by such entity, if any, using the same
+        procedure, terms and conditions set forth in Article 3.2. Such credit
+        shall not exceed the amount of royalty owed by Licensee. Licensee shall,
+        in its quarterly royalty reports, specify (i) the number of such Covered
+        Subscriber Units or Covered Infrastructure Units resold by Licensee and
+        its Affiliates during the quarter, (ii) the date of purchase of such
+        resold Covered Subscriber Units or Covered Infrastructure Units, and
+        (iii) from whom such resold Covered Subscriber Units or Covered
+        Infrastructure Units were purchased.
+
+3.4.    Pre-Payment Credit. On or prior to April 10, 2002, Licensee shall make a
+
+                                       14
+
+<PAGE>
+
+        non-refundable cash payment to ITC of US$19,500,000 which payment shall
+        be a credit of US$19,500,000 toward Licensee's royalty obligations
+        hereunder. Such payment obligation shall be unconditional and
+        irrevocable. Such credit shall be applied, until exhausted, to: (i) 100%
+        of Licensee's royalty obligations for sales made on or before December
+        31, 2003; and (ii) 50% of Licensee's royalty obligations as to sales on
+        or after January 1, 2004 (with the other 50% to be paid in cash).
+
+3.5.    Reserved.
+
+3.6.    Repairs. It is understood and agreed by the parties that no royalty
+        shall be payable by Licensee hereunder with respect to any parts,
+        components or accessories sold or otherwise transferred by Licensee and
+        its Affiliates for repair, maintenance or returns, but excluding
+        upgrades and/or enhancements, of Covered Subscriber Units or Covered
+        Infrastructure Units sold or otherwise transferred by Licensee and its
+        Affiliates.
+
+                        ARTICLE 4. PASS-THROUGH LICENSE
+
+4.1.    Pass-Through License. Licensee's and its Affiliates' customers who are
+        end users, operators or retail distributors will receive an irrevocable
+        pass-through license for sale, including lease, or use of Covered
+        Subscriber Units and/or Covered Infrastructure Units for which a royalty
+        has been paid hereunder. Neither this 3G Agreement nor any payments made
+        hereunder are intended or should they be construed as exhausting ITC's
+        rights to royalties or damages or other compensation from unlicensed
+        purchasers.
+
+                                       15
+
+<PAGE>
+
+                          ARTICLE 5. TERM/TERMINATION
+
+5.1.    Term. The term of this 3G Agreement shall commence on the Effective Date
+        and terminate upon expiration of the last-to-expire of the Licensed
+        Patents, unless sooner terminated as provided herein.
+
+5.2.    Termination for Default. This 3G Agreement may be canceled by either
+        party, upon thirty (30) days' prior written notice specifying the nature
+        of the breach, if the other party is in material breach of any of its
+        material obligations hereunder and the breach is not remedied within the
+        notice period. Licensee's material obligations shall include, but shall
+        not be limited to, its royalty reporting and payment obligations.
+
+5.3.    Adverse Actions. During the term of this 3G Agreement, neither party or
+        its Affiliates shall institute or actively participate as an adverse
+        party in, or otherwise provide material support to (except where such
+        participation or support is required by court order or applicable law)
+        any legal or administrative action anywhere in the world, the purpose of
+        which is to invalidate or limit the validity or scope of the NEC Patents
+        or the Licensed Patents and further if such party does not cease to
+        institute, actively participate as an adverse party in, or otherwise
+        provide material support to, such legal or administrative action within
+        thirty (30) days after receipt of written notice from the other party,
+        specifying such legal or administrative action and such party's
+        involvement therein, such other party shall have the right to terminate
+        this 3G Agreement by a written notice of termination.
+
+                                       16
+
+<PAGE>
+
+                         ARTICLE 6. DISPUTE RESOLUTION
+
+6.1     Negotiation of Dispute. In the event of any dispute arising under this
+        3G Agreement, senior level executives of the parties will meet in
+        Wilmington, Delaware, unless some other city may be agreeable to the
+        parties, as soon as reasonably possible (but no later than sixty (60)
+        days after notice asking for the above meeting from either party to the
+        other party) and will enter into good faith negotiations aimed at
+        resolving the dispute. If they are unable to resolve the dispute in a
+        mutually satisfactory manner within an additional sixty (60) days, the
+        matter may be submitted to mediation/arbitration as provided for in
+        Articles 6.2 and 6.3 hereto.
+
+6.2     Mediation of Disputes. The parties agree to submit any unresolved
+        dispute to a sole mediator selected by the parties as soon as reasonably
+        possible (but no later than sixty (60) days after written notice asking
+        for the mediation from either party to the other party). The first such
+        mediation session shall occur in Tokyo and thereafter will alternate
+        between Washington, D.C. and Tokyo. Any such mediation shall be
+        non-binding. If not thus resolved, either party may proceed as specified
+        in Article 6.3.
+
+6.3     Arbitration of Disputes. Any unresolved disputes arising under this 3G
+        Agreement shall be finally settled under the Rules of Arbitration of the
+        International Chamber of Commerce, with the venue and place of hearing
+        being designated as London, England. The dispute shall be resolved by
+        panel of three (3) arbitrators selected in accordance with said rules,
+        one of such arbitrators having substantial experience in the field of
+        telecommunications. The arbitrators shall have the authority to permit
+        limited confidential discovery to
+
+                                       17
+
+<PAGE>
+
+        the extent required by a party in order to establish its case. The
+        arbitrators' award shall be written and be final and binding and may be
+        entered and enforced in any court of competent jurisdiction. Any
+        monetary award shall be payable in U.S. dollars, free of any tax, offset
+        or other deduction. Any determination of the arbitration shall be
+        confidential to the parties hereto and binding solely on the parties
+        hereto, and their Affiliates. The arbitration proceedings shall be
+        conducted in English. The parties, their counsel, and the arbitrators
+        shall use all reasonable efforts to conclude the arbitration with one
+        (1) year of its being instituted.
+
+                            ARTICLE 7. MISCELLANEOUS
+
+7.1.    Payments/Reports. All payments required under this 3G Agreement shall be
+        made by wire transfer to the following bank account of ITC in U.S.
+        dollars on a quarterly basis within forty-five (45) days after the end
+        of each calendar quarter.
+
+                PNC Bank, Delaware
+                222 Delaware Avenue
+                Wilmington, DE  19801
+                ABA # [**]
+                Credit:  Trust Uninvested Funds
+                Account # [**]
+                Further Credit:  InterDigital. Technology Corp.
+
+____________
+** Material has been omitted and filed separately with the Commission.
+
+                                       18
+
+<PAGE>
+
+                Account # [**]
+                Attention: [**]
+                Phone: [**]
+
+        Such payment, less any available credit, shall be for all sales of
+        Covered Subscriber Units and Covered Infrastructure Units made by
+        Licensee or its Affiliates during such quarter. The first such report
+        shall include sales of any Covered Subscriber Units and Covered
+        Infrastructure Units made by Licensee and/or its Affiliates both during
+        the calendar quarter ending March 31, 2002 as well as the sales of any
+        such products made prior thereto (including prior to the Effective
+        Date), except that any royalties for Covered Subscriber Units and
+        Covered Infrastructure Units compliant with the Narrowband CDMA sold or
+        otherwise transferred by Licensee and its Affiliates prior to the
+        Effective Date, if any, are hereby irrevocably waived by ITC. Each
+        payment made within the required 45 days, described above, shall be
+        accompanied by a written report and associated certification by the
+        responsible personnel of Licensee, setting forth the amount of the
+        royalties payable and calculation thereof for the reported period. To
+        assist ITC in preparing necessary earnings reports, Licensee shall also
+        develop some form of advance royalty projection mechanism whereby
+        Licensee, on a non-binding basis, shall advise ITC, by no later than
+        thirty (30) days after the end of each calendar quarter, of the
+        aggregate (i.e., not on a product category basis) royalty amount
+        Licensee anticipates reporting for the subject calendar quarter. All
+        such reports shall be held in confidence by ITC.
+
+7.2.    Currency Conversion. United States Dollar ($US) denominated sales shall
+        be
+
+______________
+** Material has been omitted and filed separately with the Commission.
+
+                                       19
+
+<PAGE>
+
+        reported as transacted. Other currency denominated sales shall be
+        reported based on the mathematical average foreign currency/$US
+        conversion rate applicable during the period over which sales are being
+        reported, using the currency exchange rates given in the Wall Street
+        Journal "Currency Trading Exchange Rates" section. Within fifteen (15)
+        days after the end of each calendar quarter period, ITC shall inform
+        Licensee in writing such applicable mathematical average foreign
+        currency/$US conversion rate together with the substantiating material
+        therefor. Licensee's timely performance of its royalty reporting and
+        payment obligations under Article 7.1 is contingent upon the timely
+        receipt by Licensee from ITC of such applicable conversion rate.
+
+7.3.    Taxes. All royalties payable hereunder are net of, and free and clear
+        from, any applicable taxes (excluding those based on income), which
+        taxes shall be paid by Licensee on a grossed-up basis, it being
+        understood Japanese source income withholding tax shall be deducted by
+        Licensee from the amounts payable to ITC hereunder. Licensee will
+        furnish ITC with appropriate documentation evidencing the payment of
+        such tax.
+
+7.4.    Most Favored Licensee Rights. Provided Licensee is not in material
+        default of its obligations hereunder, Licensee shall be treated as a
+        most favored licensee ("MFL") under the Licensed Patents with regard to
+        Covered Subscriber Units and Covered Infrastructure Units. If subsequent
+        to the Effective Date, ITC enters into an agreement, including a
+        settlement agreement, with a third party pursuant to which ITC licenses
+        said third party to sell products that operate under Covered Standards,
+        ITC will notify Licensee of such agreement and will provide a copy of
+        such agreement, in confidence, to Licensee. Licensee shall have the
+        right to substitute for this 3G Agreement, on a forward going basis, the
+        more favorable license agreement in its entirety and such substitution
+        shall
+
+                                       20
+
+<PAGE>
+
+        constitute a novation of those portions of this 3G Agreement addressed
+        in such substitute agreement; provided, however, that any royalty
+        obligation under such substitute agreement relating to Covered
+        Subscriber Units and Covered Infrastructure Units compliant with only
+        PHS and PDC shall not apply as to Licensee and/or its Affiliates. Such
+        election shall be made by Licensee in writing within thirty (30) days of
+        receiving said license agreement from ITC, with any failure to elect to
+        take such new agreement within such period shall serve as waiver as to
+        any rights under such agreement. If Licensee elects to take such
+        substitute agreement, Licensee shall pay royalties based on the rates
+        set forth in its then existing agreement up to the date of such
+        substitute agreement. Any remaining pre-payments under Licensee's then
+        existing agreement shall apply as to the substitute agreement.
+
+7.5     Confidentiality/Press Release. Unless otherwise required by law,
+        government regulations, stock exchange listing rules or court order, the
+        parties shall maintain as strictly confidential the royalty terms of the
+        3G Agreement and any proprietary information disclosed under, or as a
+        result of the negotiation of, the 3G Agreement, provided that each party
+        may disclose in confidence the royalty terms to (i) its outside counsel
+        or accountant, or (ii) its financial advisors or prospective acquiring
+        or acquired entity in connection with its prospective M&A transactions.
+        Further, ITC or IDC may provide the royalty terms of this 3G Agreement
+        in confidence to other licensees to the extent required by MFL clauses.
+        ITC and IDC may issue a press release regarding this 3G Agreement having
+        the content shown in Exhibit 1, attached hereto. Licensee may also issue
+        a press release regarding the fact of the execution of this 3G
+        Agreement. To the extent ITC and IDC desire to amend the press release
+        contained in said Exhibit 1, or Licensee desires to make a press
+        release, said desiring party shall provide the other party with an
+        advance copy of its respective proposed press release for review,
+        consent
+
+                                       21
+
+<PAGE>
+
+        and comment; whereby consent by the other party shall not be
+        unreasonably withheld or delayed. Licensee may disclose the royalty
+        terms of this 3G Agreement in confidence (i) to its suppliers and
+        customers to the extent reasonably necessary for the purpose of
+        discussion of the burden of royalty between Licensee and its suppliers
+        or between Licensee and its customers and (ii) to Licensee's Affiliates.
+        Licensee's Affiliates may disclose the royalty terms of this 3G
+        Agreement in confidence to their suppliers and customers to the extent
+        reasonably necessary for the purpose of discussion of the burden of
+        royalty between Licensee's Affiliates and their suppliers or between
+        Licensee's Affiliates and their customers.
+
+7.6     Licensee Identification on Covered Subscriber Units. All Licensee
+        Covered Subscriber Units and Covered Infrastructure Units intended for
+        sale within the United States shall include a statement that they are
+        licensed under U.S. patents, including up to five patent numbers to be
+        provided by ITC; provided that such marking requirement shall not apply
+        to the extent that ITC fails to require other licensees manufacturing
+        Covered Infrastructure Units and Covered Subscriber Units to mark their
+        corresponding products with such patent numbers. ITC may designate
+        certain Licensed Patents for inclusion on such label. Additionally, if
+        the laws of any other country require marking goods as a condition of
+        any award of damages in a patent infringement action, ITC may notify
+        Licensee in writing of the name of such other country together with a
+        copy of the text of such law. In such case, the first sentence of this
+        Article 7.6 shall similarly apply as to such country, provided that in
+        no event shall the total number of patent numbers to be included in a
+        statement pursuant to this Article 7.6 exceed five, unless required by
+        the laws of such other country.
+
+7.7     Audit. Licensee shall (and shall cause its Affiliates to) keep books and
+        records
+
+                                       22
+
+<PAGE>
+
+        adequate to accurately determine the payments due under this 3G
+        Agreement. The books and records must be retained for at least five (5)
+        years after the delivery of the royalty report to which they relate. ITC
+        shall have the right, no more than once per calendar year, to have an
+        independent certified public accountant, who shall enter into an
+        appropriate nondisclosure agreement with Licensee, inspect all relevant
+        books and records of Licensee and its Affiliates on not less than
+        forty-five (45) calendar days prior notice and during regular business
+        hours to verify the reports and payments required to be made hereunder.
+        The nondisclosure agreement with the auditor may include an obligation
+        that the auditor shall not disclose to ITC more information than is
+        reasonably necessary to determine the royalties owed hereunder. Should
+        an underpayment in excess of [**] percent [**](%) be discovered,
+        Licensee shall pay the cost of the audit. In any event, Licensee shall
+        promptly pay any underpayment together with interest at the annual rate
+        of [**] percent [**](%). ITC shall, at Licensee's election, either
+        promptly reimburse any overpayment, or credit Licensee with any
+        overpayment to Licensee against any royalties owed ITC in the subsequent
+        calendar quarters until exhausted. All information obtained through such
+        audit shall be held in confidence by ITC.
+
+        Licensee shall have the right, not more than once per calendar year, to
+        have an independent certified public accountant, who shall enter into an
+        appropriate nondisclosure agreement with ITC, inspect all relevant
+        agreements, books and records and the like relating to the Licensed
+        Patents on not less than forty-five (45) calendar days prior notice and
+        during regular business hours to verify the credit provided for pursuant
+        to Articles 3.2 and 3.3 hereunder and the MFL
+
+______________
+** Material has been omitted and filed separately with the Commission.
+
+                                       23
+
+<PAGE>
+
+        status of the Licensee. The nondisclosure agreement with the auditor may
+        include an obligation that the auditor shall not disclose to NEC more
+        information than is reasonably necessary to determine the credits owed
+        hereunder. All information obtained through such audit shall be held in
+        confidence by Licensee.
+
+7.8     Governing Law/Venue. The validity and interpretation of this 3G
+        Agreement shall be governed by Delaware law, without regard to conflict
+        of laws principles. Process shall be deemed sufficient if served on
+        either party by courier service or recognized mail delivery service
+        (e.g. U.S. Mail), postage prepaid, certified or registered, return
+        receipt requested, and addressed as indicated on page 1 of this 3G
+        Agreement. The parties hereby waive any objection as to the sufficiency
+        of the method of service provided such service is made as set forth
+        herein.
+
+7.9     Limited Warranty. Each party represents and warrants that it has the
+        right to license the patents described herein. Neither party makes any
+        other representation or warranty with regard to the validity of such
+        patents or the licensed party's ability to use, manufacture, have
+        manufactured or sell Covered Subscriber Units free of infringement of
+        third party intellectual property rights. Neither party shall have any
+        obligation to maintain or prosecute patents described hereunder.
+
+7.10    Affiliate Performance. Each party shall be responsible for all actions
+        required of its Affiliates hereunder and shall be liable to the other
+        party for any adverse action or failure to perform by such party's
+        Affiliates hereunder.
+
+7.11    Waivers. The failure of any party to insist upon the performance of any
+        of the terms or conditions of this 3G Agreement or to exercise any right
+        hereunder, shall
+
+                                       24
+
+<PAGE>
+
+        not be construed as a waiver or relinquishment of the future performance
+        of any such term or condition.
+
+7.12    Severability. The provisions of this 3G Agreement shall be severable,
+        and if any of them are held invalid or unenforceable, then that
+        provision shall be construed to the maximum extent permitted by law. The
+        invalidity or unenforceability of one provision shall not necessarily
+        affect any other.
+
+7.13    No Set Off. Licensee agrees and acknowledges that it has no right to,
+        and shall not, attempt to set off amounts claimed to be owed based on
+        any claim that it has or may have in the future against IDC or its
+        Affiliates other than ITC, against amounts owed hereunder.
+
+7.14    Notices. All notices or other communications required or permitted under
+        this 3G Agreement shall be in writing and shall be delivered by personal
+        delivery, registered mail, return receipt requested, or a qualified
+        "Next Day Air" delivery service addressed as indicated on page 1 of this
+        3G Agreement (provided that in case of notice to Licensee such notice
+        shall be to the attention of General Manager of Intellectual Property
+        Division) or as subsequently amended for itself by notice of a party.
+
+7.15    Limitation. Nothing in this 3G Agreement shall be construed as: (a) an
+        agreement to bring or prosecute actions against third party infringers
+        of the Licensed Patents; (b) conferring any license or right under any
+        patent other than the Licensed Patents; or (c) conferring any right to
+        use the Licensed Patents outside the field of use defined by the license
+        grant of this 3G Agreement.
+
+7.16    Personal Agreement. This 3G Agreement is personal to Licensee and may
+        not be
+
+                                       25
+
+<PAGE>
+
+        assigned or transferred, nor may any license granted hereunder be
+        assigned or transferred, whether by operation of law or otherwise, and
+        any attempt to make any such assignment or transfer shall be null and
+        void; provided, however, this 3G Agreement may be transferred in
+        connection with the sale of all or substantially all of the business or
+        assets of Licensee to which this 3G Agreement relates. ITC may, in its
+        sole discretion, limit application of this license to the permitted
+        transferee to the transferred business. If Licensee remains a separate
+        entity after such sale, then the acquiring entity shall continue to pay
+        royalties[**]. If Licensee does not remain a separate corporate entity,
+        or Licensee's production facilities are merged into the acquiring
+        company or one of its subsidiaries, then the acquiring company shall pay
+        royalties [**]. In addition, to the extent that, after the Effective
+        Date, Licensee acquires a new Affiliate during the term of this 3G
+        Agreement, and such new Affiliate was not licensed under ITC's patents
+        but sold Covered Subscriber Units and/or Covered Infrastructure Unit,
+        Licensee shall pay ITC, within thirty (30) days of the completion of
+        such acquisition, [**]. The licenses granted hereunder to Licensee shall
+        survive any transfer by operation of law or otherwise of the Licensed
+        Patents or this 3G Agreement by ITC. Notwithstanding the foregoing, the
+        non-assertion granted by Licensee hereunder to the other parties
+        hereunder shall be personal to such entities and shall not be assigned
+        or transferred in any manner.
+
+7.17    Entire Agreement/Amendment. This 3G Agreement contains the complete and
+        final agreement between the parties, and supersedes all previous
+        understandings relating to the subject matter hereof whether oral or
+        written. This 3G Agreement may only be modified by a written agreement
+        signed by duly authorized
+
+_____________
+** Material has been omitted and filed separately with the Commission.
+
+                                       26
+
+<PAGE>
+
+        representatives of the parties. To the extent that, prior to the
+        Effective Date, the parties hereto were parties to a prior written
+        agreement covering the subject matter hereof, and Licensee has elected
+        pursuant to an MFL clause to take the terms of this 3G Agreement,
+        Licensee shall pay any royalties required under such prior agreement up
+        to the date of election to take this Agreement.
+
+7.18    Survival. The following provisions of this 3G Agreement shall survive
+        expiration or termination of this 3G Agreement: Article 2.1 (for
+        products manufactured, sold or otherwise transferred prior to such
+        expiration or termination and for which a royalty has been or will be
+        paid, and subject to all other limitations herein which shall survive to
+        the extent necessary as regards such license grant); Article 6; Article
+        7.2, 7.3, 7.5, 7.7, 7.8, 7.10, 7.11, 7.13, and 7.17.
+
+                            [Signature on Next Page]
+
+                                       27
+
+<PAGE>
+
+IN WITNESS WHEREOF, the parties have executed this 3G Agreement by their duly
+authorized representatives.
+
+INTERDIGITAL TECHNOLOGY CORPORATION
+
+By: /s/ William J. Merritt
+   ---------------------------------
+
+Dated: January 14, 2002
+       -----------------------------
+
+
+NEC CORPORATION
+
+By: /s/[**]
+   ---------------------------------
+
+Dated: January 15, 2002
+       -----------------------------
+
+____________
+** Material has been omitted and filed separately with the Commission.
+
+                                       28
+
+<PAGE>
+
+                        Index of Attachments and Exhibits
+
+ATTACHMENT A:              LICENSED PATENTS
+
+ATTACHMENT B:              ROYALTY PREPAYMENT
+EXHIBIT 1:                 PRESS RELEASE
+
+</TEXT>
+</DOCUMENT>

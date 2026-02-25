@@ -1,0 +1,742 @@
+<DOCUMENT>
+<TYPE>EX-10.4
+<SEQUENCE>6
+<FILENAME>k74374exv10w4.txt
+<DESCRIPTION>INTEREST RATE SWAP AGREEMENT
+<TEXT>
+<PAGE>
+                                                                    EXHIBIT 10.4
+
+
+
+                     [THE ROYAL BANK OF SCOTLAND LETTERHEAD]
+
+
+
+
+
+                                                        Date: 30 January 2003
+Prestolite Electric Limited
+Larden Road
+Acton
+London
+W37RP
+Attn: John Walker
+
+Dear Sirs
+
+                             Our Reference: D8550683
+                           Re: GBP Amortising Baserate
+                                      Swap
+
+The purpose of this document (this "Agreement") is to set forth the terms and
+conditions of the transaction (the "Transaction") entered into between National
+Westminster Bank plc ("Bank") and yourselves ("Counterparty") on the Trade Date
+specified below.
+
+Terms used in upper case in this Agreement shall have the meaning given to them
+in Part B of this Agreement unless otherwise specified.
+
+This Agreement evidences a complete and binding agreement between you and us as
+to the terms of the transaction, which are as follows.
+
+
+Part A
+Notional Amount                          Please see Schedule A
+
+Trade Date                               30 December 2002 (time of trade is
+                                         available upon request)
+
+Effective Date                           30 December 2002
+
+Termination Date                         30 December 2007, subject to
+                                         adjustment in accordance with the
+                                         Business Day Convention
+
+Counterparty Payments
+
+Counterparty Payment Dates               Every 30 March, 30 June, 30 September
+                                         and 30 December from and including 30
+                                         March 2003 to and including the
+                                         Termination Date. subject to adjustment
+                                         IN accordance with the Business Day
+                                         Convention
+
+Counterparty Period End Dates            Every 30 March, 30 June, 30 September
+                                         and 30 December from and including 30
+                                         March 2003 to and including the
+                                         Termination Date, subject to adjustment
+                                         in accordance with the Business Day
+                                         Convention
+
+Fixed Rate                               5.09000 pet per annum
+
+
+
+<PAGE>
+
+                     [THE ROYAL BANK OF SCOTLAND LETTERHEAD]
+
+
+Bank Payments
+
+Bank Payment Dates                       Every 30 March, 30 June, 30 September
+                                         and 30 December from and including 30
+                                         March 2003 to and including the
+                                         Termination Date, subject to adjustment
+                                         in accordance with the Business Day
+                                         Convention
+
+Bank Period End Dates                    Every 30 March, 30 June, 30 September
+                                         and 30 December from and including 30
+                                         March 2003 to and including the
+                                         Termination Date, subject to adjustment
+                                         in accordance with the Business Day
+                                         Convention
+
+Floating Rate
+
+Weighted Average                         The Weighted Average of the Base Rate
+                                         for each relevant Calculation Period.
+
+Base Rate                                The arithmetic mean of the Base Rates
+                                         in effect for each day in a Calculation
+                                         Period determined by the Calculation
+                                         Agent by multiplying each Base Rate by
+                                         the number of days such Base Rate is in
+                                         effect, determining the sum of such
+                                         products and dividing such sum by the
+                                         number of days in that Calculation
+                                         Period.
+
+                                         The Bank's published Sterling Base Rate
+                                         expressed as a percentage rate per
+                                         annum.
+
+                                         For the purposes of this Agreement
+                                         "GBP" and "Sterling" both mean the
+                                         lawful currency of the United Kingdom.
+
+Calculation Agent                        The Bank
+
+Business Day                             London
+
+Business Day Convention                  Modified Following
+
+Additional Termination Event             None
+
+Notices for Address
+
+Bank                                     Address:      c/o RBS Financial
+                                                       Markets, Level 3,
+                                                       280 Bishopsgate,
+                                                       London EC2M 4RB
+                                         Attention:    Swaps Administration
+                                         Telephone:    020 7375 5000
+                                         Facsimile No: 0207334 1555
+
+
+
+<PAGE>
+
+                     [THE ROYAL BANK OF SCOTLAND LETTERHEAD]
+
+
+
+Counterparty                            Address:
+                                        Prestolite Electric
+                                        Limited
+                                        Larden Road
+                                        Acton
+                                        London
+                                        W3 7RP
+                                        Telephone:
+                                        02087354561
+                                        Facsimile No: 0208
+                                        7462104
+
+
+
+
+ACCOUNT DETAILS
+
+Payments to the Counterparty            Please advise in return confirmation
+
+Payments to the Bank                    For account of NatWest Bank Group
+
+                                        Swaps Book
+                                        [Swift NWIB GB2P SWP] with
+                                        National Westminster
+                                        Bank Pic, International Trade and
+                                        Banking Services
+                                        Account Number 04622618
+                                        Sort Code 60-00-04
+                                        [Swift NWBK GB 2L]
+
+                                           PART B
+
+TERMS AND CONDITIONS
+
+The following terms and conditions will apply to the Transaction.
+
+1. Calculation of Interest Amounts
+
+On or as soon as practicable following the first Business Day (or in the case of
+a Base Rate Swap, the last Business Day) of each Calculation Period the
+Calculation Agent will determine the amount payable by each party in respect of
+that Calculation Period on the Payment Date falling at the end of (or in the
+case of a Base Rate Swap, next following) that Calculation Period (each a
+"Payment") in accordance with the following formulae;
+
+Counterparty Payment = Notional Amount x Fixed Rate x Day Count Fraction
+
+Bank Payment = Notional Amount x Floating Rate x Day Count Fraction
+
+"Base Rate Swap" means a Transaction pursuant to which the Floating Rate is
+calculated by reference to the Bank's base lending rate.
+
+"Calculation Period" means in respect of a party, each period from and including
+one Period End Date for that party to, but excluding, the next following Period
+End Date for such party during the term of this Transaction, except that the
+initial Calculation Period will commence on, and include, the Effective Date and
+(b) the final Calculation Period will end on, but exclude, the Termination Date:
+and
+
+
+
+<PAGE>
+
+                     [THE ROYAL BANK OF SCOTLAND LETTERHEAD]
+
+
+"Day Count Fraction" means the actual number of days in the Calculation Period
+in respect of which payment is being made divided by 365.
+
+"Effective Date" means the first day of the term of the Transaction, as
+specified in Part A above.
+
+"Payment Date" means, in respect of the Counterparty, each Counterparty Payment
+Date and, in respect of the Bank, each Bank Payment Date.
+
+"Period End Date" means each Payment Date, provided that in the case of a Base
+Rate Swap it shall mean, in respect of the Counterparty, each date specified as
+a Counterparty Period End Date in Part A, and in respect of the Bank, each date
+specified as a Bank Period End Date in Part A.
+
+"Termination Date" means the last day of the term of the Transaction, as
+specified in Part A above.
+
+The Calculation Agent will advise the parties of the Floating Rate, its
+calculation of the Counterparty Payment and the Bank Payment on or about the
+next following Payment Date.
+
+2. Payments
+
+On each Payment Date the parties will, subject to (1) the condition precedent
+that no Event of Default or potential Event of Default with respect to the other
+party has occurred and is continuing, and (2) the condition precedent that no
+Early Termination Date in respect of the Transaction has occurred or been
+effectively designated, make the Payments specified in Part A.
+
+On each Payment Date each party's obligation to make payment of any amount will
+be automatically satisfied and discharged and replaced by an obligation upon the
+party by whom the larger amount would have been payable to pay to the other
+party the excess of the larger amount over the smaller amount. If the amounts
+payable by each party on any Payment Date are the same, then no payment shall be
+made by either party on such Payment Date.
+
+3. Business Days
+
+Where "Following" is specified in Part A hereof as the applicable Business Day
+Convention and a date on which a Payment Date is due to fall is not a Business
+Day then such Payment Date will be the next following day that is a Business
+Day.
+
+Where "Modified Following" is specified in Part A hereof as the applicable
+Business Day Convention and a date on which a Payment Date is due to fall is not
+a Business Day then such Payment Date will be the next following day that is a
+Business Day unless that day falls in the next calendar month, in which case
+that Payment Date will be the first preceding day that is a Business Day.
+
+"Business Day" shall mean (i) if "London" is specified in Part A as the
+applicable Business Day, any day on which commercial banks are open for general
+business in London, and (ii) if "TARGET" is specified in Part A as the
+applicable Business Day, any day on which TARGET (the Trans-European Automated
+Real-time Gross Settlement Express Transfer system) is open.
+
+4. Events of Default
+
+The occurrence of any one or more of the following in respect of either party
+(the "Defaulting Party") shall be an Event of Default:
+
+
+
+<PAGE>
+
+
+                     [THE ROYAL BANK OF SCOTLAND LETTERHEAD]
+
+
+
+     (a)   Either party does not make any payment when due under this Agreement
+           and such failure is not remedied on or before the third Business Day
+           after notice of such failure is given to the party;
+
+     (b)   Either party shall be in default of any other obligation under this
+           Agreement or any obligation under a transaction (including an
+           agreement with respect thereto) now existing or hereafter entered
+           into between the parties to this Agreement which is a rate swap
+           transaction, basis swap, forward rate transaction, interest rate
+           option, foreign exchange transaction, cap transaction, floor
+           transaction, collar transaction, currency swap transaction,
+           cross-currency rate swap transaction, currency option or any other
+           similar transaction (including any option with respect to any of
+           these transactions), which if capable of remedy is not remedied
+           within 30 days after notice by the other party;
+
+     (c)   Any representation or warranty given by the Counterparty in Section 8
+           of this Agreement or otherwise or given by the Bank is incorrect or
+           misleading in any material respect;
+
+     (d)   Either party or its Credit Support Provider (as such term is defined
+           in Section 4(e) below), (i) is dissolved (other than pursuant to a
+           consolidation, amalgamation or merger); (ii) becomes insolvent or is
+           unable to pay its debts or fails or admits in writing its inability
+           generally to pay its debts as they become due; (iii) makes a general
+           assignment, arrangement or composition with or for the benefit of
+           its creditors; (iv) institutes or has instituted against it a
+           proceeding seeking a judgment of insolvency or bankruptcy or any
+           other relief under any bankruptcy or insolvency law or other similar
+           law affecting creditors' rights, or a petition is presented for its
+           winding-up or liquidation, and, in the case of any such proceeding
+           or petition instituted or presented against it, such proceeding or
+           petition (A) results in a judgment of insolvency or bankruptcy or
+           the entry of an order for reliefer the making of an order for its
+           winding-up or liquidation or (B) is not dismissed, discharged,
+           stayed or restrained in each case within 30 days of the institution
+           or presentation thereof; (v) has a resolution passed for its
+           winding-up, official management or liquidation (other than pursuant
+           to a consolidation, amalgamation or merger); (vi) seeks or becomes
+           subject to the appointment of an administrator, provisional
+           liquidator, conservator, receiver, trustee, custodian or other
+           similar official for it or for all or substantially all its assets;
+           (vii) has a secured party take possession of all or substantially
+           all its assets or has a distress, execution, attachment,
+           sequestration or other legal process levied, enforced or sued on or
+           against all or substantially all its assets and such secured party
+           maintains possession, or any such process is not dismissed,
+           discharged, stayed or restrained, in each case within 30 days
+           thereafter; (viii) causes or is subject to any event with respect to
+           it which, under the applicable laws of any jurisdiction, has an
+           analogous effect to any of the events specified in clauses (i) to
+           (vii) (inclusive); or (ix) takes any action in furtherance of, or
+           indicating its consent to, approval of, or acquiescence in, any of
+           the foregoing acts, provided that where the Counterparty is a
+           private individual the following amendments shall be deemed to apply
+           in so far as this Section 4(d) applies to the Counterparty;
+
+           (1)  Section 4(d)(i) will not apply to the Counterparty;
+
+           (2)  the words "its winding up or liquidation" when they first appear
+                in Section 4(d)(iv) are replaced with the words "a declaration
+                of bankruptcy with respect to him" and the words "or the making
+                of an order for its winding-up or liquidation" in Section
+                4(d)(iv)(A) are omitted; and
+
+           (3)  Section 4(d)(v) is amended to read as follows:
+
+                "The Counterparty declares himself bankrupt".
+
+
+<PAGE>
+                     [THE ROYAL BANK OF SCOTLAND LETTERHEAD]
+
+
+       (i)     either party or a party providing credit support in respect of
+               the obligations of that party (a "Credit Support Provider") fails
+               to comply with or perform any agreement or obligation to be
+               complied with or performed by it in accordance with the relevant
+               credit support arrangements if such failure is continuing after
+               any applicable grace period has elapsed;
+
+       (ii)    the expiration or termination of any credit support in respect of
+               the obligations of that party or the failing or ceasing of such
+               credit support arrangement to be in full force and effect for the
+               purpose of this Agreement (in either case other than in
+               accordance with their terms) prior to the satisfaction of all
+               obligations of the relevant party under this Agreement without
+               the prior written consent of the other party; or
+
+       (iii)   either party or its Credit Support Provider disaffirms,
+               disclaims, repudiates or rejects, in whole or in part, or
+               challenges the validity of any credit support arrangements in
+               respect of the obligations of that party.
+
+The occurrence of the following in respect of the Counterparty (the "Defaulting
+Party") shall constitute an Event of Default:
+
+(f)    Any sums due from the Counterparty, whether such sum is due to the Bank
+       or to any other person or entity, by way of borrowing or under any
+       obligation of any description for the payment of money on the part of the
+       Counterparty:
+
+       (i) are not paid when due and demanded nor within any applicable grace
+       period; or
+
+       (ii) become due and payable prior to the scheduled due date or become
+       capable of being declared, due and payable prior to the scheduled due
+       date, in either case by reason of default or event of default (howsoever
+       described) on the part of the Counterparty,
+
+       provided that notwithstanding the foregoing, an Event of Default shall
+       not occur under either (i) or (ii) above if (A) the failure to pay in (i)
+       or the default referred to in (ii) arises out of a failure to pay caused
+       by an error or omission of an administrative or operational nature, (B)
+       funds were available to such party to make the relevant payment when due.
+       and (C) such payment is made within three days following receipt of
+       notice of such failure to pay."
+
+       5. Termination Event
+
+The following shall constitute
+
+Termination Events:
+
+(a)    Due to the adoption of, or any change in, any applicable law after the
+       date on which this Transaction is entered into, or due to the
+       promulgation of, or any change in, the interpretation by any court,
+       tribunal or regulatory authority with competent jurisdiction of any
+       applicable law after such date, it becomes unlawful for a party (which
+       party or parties shall be the Affected Party) to perform any obligation
+       to make or receive a payment in respect of this Agreement; and
+
+(b)    Due to any action taken by a taxing authority, or brought in a court of
+       competent jurisdiction, on or after the Trade Date, or a change in
+       taxation legislation, the party (which will be the Affected Party) will,
+       or there is a substantial likelihood that it will, on the next succeeding
+       scheduled Payment Date, be required to deduct or withhold any amount for
+       or on account of any tax or other assessment, and
+
+(c)    Either party consolidates or amalgamates with, or merges with or into, or
+       transfers all or substantially all of its assets to another entity, or
+       any person or entity acquires directly or indirectly the beneficial
+       ownership of equity securities having the power to elect a majority of
+       the board of directors
+
+
+
+<PAGE>
+
+                     [THE ROYAL BANK OF SCOTLAND LETTERHEAD]
+
+
+      of that party or otherwise acquires directly or indirectly the power to
+      control the policy-making decisions of that party, and the
+      creditworthiness of the resulting, surviving or transferee entity is
+      materially weaker than that of that party (which party shall be the
+      Affected Party) immediately prior to such action, provided that this
+      Termination Event shall not apply to a Counterparty that is a private
+      individual; and
+
+(d)   Any Additional Termination Event as set out in Part A.
+
+6. Notice of Termination
+
+(a)   Immediately following the occurrence of an Event of Default or Termination
+      Event the defaulting party or the party in respect of which the
+      Termination Event occurs (in each case, the "Affected Party"), shall
+      notify the other party (the "non-Affected Party"), specifying the nature
+      of that Event of Default or Termination Event, and will also give such
+      other information about that Event of Default or Termination Event as the
+      other party may reasonably require.
+
+(b)   The non-Affected Party may, in the notice described in Section 6(a) above
+      or in a later notice, elect to designate a date on which the Transaction
+      will terminate (the "Early Termination Date"), immediately whereupon each
+      party shall be released and discharged from its obligations under the
+      Transaction subject always to Section 7 below and providing always that
+      the foregoing shall be without prejudice to any rights, obligations or
+      liabilities of the parties hereto under the Transaction which may have
+      accrued up to and including the date of such notice.
+
+7. Payments on Termination
+
+(a)   The Calculation Agent, in good faith and acting reasonably, will determine
+      an amount, if any, (the "Termination Payment") that would be paid by
+      (expressed as a positive) or to (expressed as a negative) the non-Affected
+      Party in consideration of an agreement between the non-Affected Party and
+      a Reference Market Maker that would have the effect of preserving for the
+      non-Affected Party the economic equivalent of any payment in respect of
+      the Transaction that would, but for the occurrence of the Early
+      Termination Date, have been required after that date.
+
+(b)   An amount will be payable equal to the amount determined by the
+      Calculation Agent in accordance with Section 7(a) plus any amounts which
+      have fallen due but remain unpaid as at the Early Termination Date owing
+      to the non-Affected Party, and less any amounts which have fallen due but
+      remain unpaid as at the Early Termination Date owing to the Affected
+      Party.
+
+(c)   If the amount determined in accordance with Section 7(b) above is a
+      positive number, the Affected Party will pay that amount to the
+      non-Affected Party; if it is a negative number then the non-Affected Party
+      will pay that amount to the Affected Party.
+
+(d)   Any amount payable under this Section 7 will, at the option of the
+      non-Affected Party, be reduced by its set-off against any amounts payable
+      (whether at such time or in the future or upon the occurrence of a
+      contingency) by or to, as appropriate, the non-Affected Party
+      (irrespective of the currency, place of payment or booking office of the
+      obligation) under any other agreement(s) between the parties or
+      instrument(s) or undertaking(s) issued or executed by one party to, or in
+      favour of, the other party.
+
+For the purposes of this Section 7, the term "Reference Market Maker" shall mean
+a leading dealer in interest rate swaps that is (a) a dealer of the highest
+credit standing which satisfy all criteria that the Calculation Agent applies
+generally at the time in deciding whether to offer or to make an extension of
+credit and (b) to the extent practicable, a dealer having an office in the same
+city.
+
+
+
+<PAGE>
+
+
+                     [THE ROYAL BANK OF SCOTLAND LETTERHEAD]
+
+
+
+8. Representations and Warranties
+
+The Counterparty is deemed to represent and warrant to the Bank on the Trade
+
+Date that:
+
+(a)   it has full power and authority (corporate and otherwise) to enter into
+      this Agreement and to exercise its rights and perform its obligations
+      thereunder and has obtained all authorisations and consents necessary for
+      it so to enter, exercise rights and perform obligations and such
+      authorisations and consents are in full force and effect:
+
+(b)   the obligations expressed to be assumed by it under this Agreement are
+      legal and valid obligations binding on it in accordance with their terms:
+
+(c)   all payments to be made by it under this Agreement may be made free and
+      clear of, and without deduction for or on account of any taxes whatsoever.
+
+(d)   it is entering into this Agreement solely for the purpose of reducing the
+      risks associated with fluctuating rates of interest and not for the
+      purpose of speculation.
+
+(e)   In entering into this Agreement it is not relying upon the Bank in
+      relation to any advice or forecast or estimate of future trends in
+      relation to interest rates or otherwise nor in relation to the fiscal
+      consequences of this Agreement.
+
+(f)   It is acting for its own account, and it has made its own independent
+      decisions to enter into this Agreement and as to whether this Agreement is
+      appropriate or proper for it based upon its own judgement and upon advice
+      from such advisers as it has deemed necessary. It is not relying on any
+      communication (written or oral) of the Bank as investment advice or as a
+      recommendation to enter into this Agreement; it being understood that
+      information and explanations related to the terms and conditions of this
+      Agreement shall not be considered investment advice or a recommendation to
+      enter into this Agreement. It understands that no communication (written
+      or oral) received from the Bank can be considered to be an assurance or
+      guarantee as to the expected results of this Agreement.
+
+(g)   It is capable of assessing the merits of and understanding (on its own
+      behalf or through independent professional advice), and understands and
+      accepts, the terms, conditions and risks of this Agreement. It is also
+      capable of assuming, and assumes, the risks of this Agreement.
+
+(h)   It is entering into this Agreement as principal (and not as agent or in
+      any other capacity, fiduciary or otherwise).
+
+(i)   The Counterparty has signed the Financial Services Act: Money Market
+      Regulation agreement provided by the Bank prior to entering into this
+      Agreement and acknowledges and confirms its agreement to the provisions
+      and risk disclosures contained therein
+
+9. Calculation Agent
+
+(a)   Whenever the Calculation Agent is required to act or exercise judgment in
+      any other way, it will do so in good faith and in a commercially
+      reasonable manner.
+
+(b)   Whenever the Calculation Agent is required to select Reference Market
+      Makers for the purposes of making a calculation under Section 7, or
+      determining a Floating Rate due to the unavailability of the relevant
+      Telerate screen, the Calculation Agent shall make such selection or
+      determination in good faith after consultation with the other party, if
+      practicable, for the purposes of obtaining a representative rate
+
+
+
+<PAGE>
+
+                     [THE ROYAL BANK OF SCOTLAND LETTERHEAD]
+
+
+       that will reasonably reflect conditions prevailing at the time in the
+       relevant market or a representative Termination Payment as the case may
+       be.
+
+10. Notices
+
+Any notice or communication shall be sent to the address or number of the
+respective party as shown in Part A or such other address or number as may be
+notified for this purpose and will be deemed effective;-
+
+(a)   if in writing and delivered in person or by courier, on the date it is
+      delivered;
+
+(b)   if sent by facsimile transmission, on the date that transmission is
+      received by the recipient (it being agreed that the burden of proving
+      receipt will be on the sender and will not be met by a transmission report
+      generated by the sender's facsimile machine);
+
+(c)   if sent by certified or registered mail on the date that mail is delivered
+      or its delivery is attempted; or
+
+unless the date of that delivery (or attempted delivery) or that receipt, as
+applicable, is not a Business Day or that communication is delivered (or
+attempted) or received, as applicable, after the close of business on a Business
+Day, in which ease that communication shall be deemed given and effective on the
+first following day that is a Business Day.
+
+11. Transfer
+
+This Agreement may not be transferred (whether by way of security or otherwise)
+by either party without the prior written consent of the other party, except
+that either party, or where the Counterparty is a private individual, the Bank
+only, may make such a transfer of this Agreement pursuant to a consolidation or
+amalgamation with, or merger with or into, or transfer of all or substantially
+all its assets to, another entity (but without prejudice to any other right or
+remedy under this Agreement).
+
+12. Tape Recording
+
+Each party to this Agreement acknowledges and agrees to the tape recording of
+conversations between the parties to this Agreement whether by one or other or
+both of the parties and that such tape recordings may be submitted in evidence
+to any court or legal proceedings for the purpose of establishing any mailers
+relating to this Agreement.
+
+13. No Waiver of Rights
+
+A failure or delay in exercising any right, power or privilege in respect of
+this Agreement will not be presumed to operate as a waiver, and a single or
+partial exercise of any right, power or privilege will not be presumed to
+preclude any subsequent or further exercise, of that right, power or privilege
+or the exercise of any other right, power or privilege.
+
+14. Joint and Several Liability
+
+Where a party to this Agreement consists of two or more persons (whether as
+partners or otherwise) their liability hereunder shall be joint and several. An
+Event of Default shall be deemed to have occurred with respect to both or all of
+such persons if any such event occurs in respect of any one of them. All
+representations, warranties, statements, undertakings, terms and conditions
+made, or agreed to, by a party shall be deemed to have been made by both or all
+of such persons. Each of such persons hereby irrevocably authorises each of the
+others to give and receive all communications hereunder and irrevocably
+authorises the other party or parties to this Agreement to act on the basis of
+such communication and to give any communication hereunder to any of
+
+
+
+<PAGE>
+
+                    [THE ROYAL BANK OF SCOTLAND LETTERHEAD]
+
+the others. If a party receives conflicting notices it may act or decline to act
+on the basis thereof as it, in its sole discretion, thinks fit. References in
+this Agreement to a party that consists of two or more persons (whether as
+partners or otherwise) as "it" or "its" will be replaced with the words "them",
+"they" or "their" as appropriate in so far as they apply to that party.
+
+15. Waiver of Jury Trial
+
+Each party hereby waives any and all rights to trial by jury or suit, action or
+proceeding arising out of or relating to this Agreement and acknowledges that
+this waiver is a material inducement to the other party entering into this
+Agreement.
+
+16. Miscellaneous
+
+(a)   Entire Agreement. This Agreement constitutes the entire agreement and
+      understanding of the parties with respect to its subject matter and
+      supersedes all oral communications and prior writings with respect
+      thereto.
+
+(b)   Counterparts. This Agreement (and each amendment, modification and waiver
+      in respect of it) may be executed and delivered in counterparts (including
+      by facsimile transmission), each of which will be deemed an original.
+
+17. Governing Law
+
+This Agreement shall be governed by and construed in accordance with English Law
+and the parties hereto hereby submit to the non-exclusive jurisdiction of the
+English courts for all purposes.
+
+Please confirm that the foregoing correctly sets forth the terms of our
+agreement by signing and returning a duly executed copy.
+
+Confirmed as of the date first written
+Yours faithfully                         Yours faithfully
+
+
+                                        Name-/ Gaynor Kaye
+                                        Title : Authorised Signatory
+Name:                                   National Westminster
+Title                                   Bank pic
+Prestolite Electric Limited             London
+
+
+
+<PAGE>
+
+                     [THE ROYAL BANK OF SCOTLAND LETTERHEAD]
+
+
+
+SCHEDULE A - D8550683
+
+<TABLE>
+<CAPTION>
+      Calculation Period                           NOTIONAL AMOUNT
+-----------------------------------------------------------------------
+<S>                                         <C>
+30 December 2002 - 30 March 2003            GBP  3,000,000.00
+30 March 2003 - 30 June 2003                GBP  2,850,000.00
+30 June 2003 - 30 September 2003            GBP  2,700,000.00
+30 September 2003 - 30 December 2003             vGBP  2,550,000.00
+30 December 2003 - 30 March 2004            GBP  2,400,000.00
+30 March 2004 - 30 June 2004                      GBP  2,250,000.00
+30 June 2004 - 30 September 2004            GBP  2,100,000.00
+30 September 2004 - 30 December 2004              GBP  1,950,000.00
+30 December 2004 - 30 March 2005            GBP  1,800,000.00
+30 March 2005 - 30 June 2005                      GBP  1,650,000.00
+30 June 2005 - 30 September 2005            GBP  1,500,000.00
+30 September 2005 - 30 December 2005              GBP  1,350,000.00
+30 December 2005 - 30 March 2006            GBP  1,200,000.00
+30 March 2006 - 30 June 2006                      GBP  1,050,000.00
+30 June 2006 - 30 September 2006            GBP   900,000.00
+30 September 2006 - 30 December 2006              GBP     750,000.00
+30 December 2006 - 30 March 2007            GBP   600,000.00
+30 March 2007 - 30 June 2007                      GBP     450,000.00
+30 June 2007 - 30 September 2007            GBP   300,000.00
+30 September 2007 - 30 December 2007              GBP     150,000.00
+</TABLE>
+
+
+
+All dates are subject to adjustment in accordance with the Business Day
+Convention
+
+
+
+</TEXT>
+</DOCUMENT>

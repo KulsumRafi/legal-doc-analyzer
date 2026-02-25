@@ -1,0 +1,571 @@
+<DOCUMENT>
+<TYPE>EX-10.6
+<SEQUENCE>5
+<FILENAME>dex106.txt
+<DESCRIPTION>NON-EXCLUSIVE PATENT LICENSE AGREEMENT
+<TEXT>
+<PAGE>
+
+                                                                    Exhibit 10.6
+
+--------------------------------------------------------------------------------
+Certain confidential terms have been omitted from this exhibit pursuant to a
+request for confidential treatment of those terms filed with the Securities and
+Exchange Commission. Such confidential portions have been filed with the
+Securities and Exchange Commission and are denoted in this exhibit by an
+asterisk (*).
+--------------------------------------------------------------------------------
+
+                                 NON-EXCLUSIVE
+                            PATENT LICENSE AGREEMENT
+
+     This Patent License Agreement ("Agreement") is effective as of the 30th day
+of October, 2002 ("Effective Date"), by and between Storage Computer Corporation
+("SCC"), a Delaware corporation having its principal place of business at 11
+Riverside Street, Nashua, New Hampshire 03062, and EMC Benelux BV ("EMC") with
+its principal office located at the Grand Duch of Luxembourg, 11, Rue de
+Bitbourg, L-1273 Luxembourg.
+
+     WHEREAS, SCC is the owner of certain patents and has the exclusive right to
+grant licenses under these patents; and
+
+     WHEREAS, EMC wishes to obtain a non-exclusive license under these patents.
+
+     NOW, THEREFORE, in consideration of the promises and the faithful
+performance of the mutual covenants contained herein, the Parties hereby agree
+as follows:
+
+1. Definitions.
+
+     (a) "Affiliates" of a Party means any Person that directly, or indirectly
+through one or more intermediaries, controls, is controlled by, or is under
+common control with, that Party as of the Effective Date; provided that such
+Persons shall be deemed an Affiliate only so long as such control exists.
+
+     (b) "Covered Product(s)" means any and all products which are sold or
+otherwise distributed by EMC, including without limitation, hardware or
+software, or a combination thereof, or any service offering that is covered by
+any claim in any of the SCC Patents; Covered Product(s) also includes the
+products and offerings of an entity which is either an Affiliate, Parent or
+Subsidiary of EMC.
+
+--------------------------------------------------------------------------------
+Patent License Agreement                                            Page 1 of 11
+
+
+<PAGE>
+
+     (c) "Law" means any federal, state, local, municipal, foreign,
+international, multinational or other constitution, law, ordinance, principle of
+common law, regulation, statute, treaty or administrative order.
+
+     (d) "Party" means a party to this Agreement.
+
+     (e) "Person" means an association, a corporation, an individual, a
+partnership, a trust or any other entity or organization, including a
+Governmental Entity.
+
+     (f) "Parent" means, with respect to any party, a person (A) acting as
+general partner of such party (excluding partnerships, the general partnership
+interests of which held, directly or indirectly, by such person do not
+constitute a majority of the voting interests in such partnership), (B) owning,
+directly or indirectly, in excess of a majority of the outstanding equity or
+voting securities or interests of such party or (C) holding, directly or
+indirectly, the right to elect at least a majority of the board of directors or
+others performing similar functions with respect to such party.
+
+     (g) "SCC Patents" means: (A) the entire portfolio of patents throughout the
+world that are issued, assigned to or owned by SCC or any of its Subsidiaries or
+any of its Affiliates as of the Effective Date or thereafter, (B) any patent
+applications assigned to or owned by SCC or any of its Subsidiaries or any of
+its Affiliates that are on file with any governmental agency as of the Effective
+Date or thereafter, as well as all reexaminations, reissues, continuations,
+continuations-in-part, divisions, renewals and extensions of the foregoing and
+any patents that may issue from the foregoing, and (C) all patents under which
+SCC or any of its Subsidiaries or any of its Affiliates has as of the Effective
+Date Date, or thereafter obtains, the right to grant licenses to EMC of or
+within the scope granted herein without such grant or the exercise of rights
+thereunder resulting in the payment of royalties or other consideration by SCC
+or its Subsidiaries or its Affiliates to third parties (except for payments
+among SCC and its Subsidiaries and Affiliates, and payments to third parties for
+inventions made by said third parties while employed by SCC or any of its
+Subsidiaries or any of its Affiliates). In the event that the ownership or
+control of patents or patent applications is disputed by any Person or Party,
+SCC Patents shall include the broadest scope of SCC's rights in such patents or
+patent applications. SCC Patents include, but are not necessarily limited to,
+the patents listed in SCHEDULE A, attached hereto.
+
+     (h) "Subsidiary" means, with respect to any party, any corporation or other
+organization, whether incorporated or unincorporated, of which (A) such party or
+any other Subsidiary of such party is a general partner (excluding partnerships,
+the general partnership interests of which held by such party or any Subsidiary
+of such party do not have a majority of the voting interest in such
+partnership), (B) such party or any Subsidiary of such party owns in excess of a
+majority of the outstanding equity or voting securities or interests or (C) such
+party or any Subsidiary of such party
+
+--------------------------------------------------------------------------------
+Patent License Agreement                                            Page 2 of 11
+
+
+<PAGE>
+
+has the right to elect at least a majority of the board of directors or others
+performing similar functions with respect to such corporation or other
+organization.
+
+     (i) "EMC Licensed Products" shall mean any and all products which are sold
+or otherwise distributed by EMC, its Parent (including, Subsidiaries and
+Affiliates of the Parent), Subsidiaries or Affiliates, including without
+limitation, Covered Product(s), hardware, software, service offering or a
+combination thereof, that is covered by any claim in any of the SCC Patents.
+
+2. License.
+
+     (a) Subject to the terms and conditions of this Agreement, and for the
+consideration stated in Section 3(a) of this Agreement, SCC on behalf of itself
+and its Affiliates and Subsidiaries grants to EMC, its Affiliates and
+Subsidiaries a fully paid-up, worldwide, non-exclusive, non-transferrable,
+perpetual, license, without any field-of-use or any geographic limitations,
+under the SCC Patents to:
+
+          (i) to make, use (including the right to practice any method which is
+involved in the use), import, offer for sale, lease, license, sell and/or
+otherwise dispose of (either directly or indirectly) EMC Licensed Products;
+
+          (ii) to have EMC Licensed Products made by another manufacturer for
+the use, importation, offer for sale, lease, license, sale and/or other
+disposition of (either directly or indirectly) by EMC;
+
+          (iii) to make, have made, use and/or import any equipment for use in
+the manufacture of EMC Licensed Products and to practice and have practiced
+any method or process involved in the manufacture or use of EMC Licensed
+Products to the extent such method or process is covered by one or more of SSC
+Patents; and
+
+          (iv) to provide or have provided services and ancillary repair and
+replacement parts to end-users, including, without limitation, maintenance,
+repair and integration services.
+
+     (b) The licenses granted to EMC herein shall include the right to grant
+sublicenses by EMC to its Parents, Subsidiaries and Affiliates existing on or
+after the Effective Date, which sublicenses shall include the right of
+sublicensed Parents, Subsidiaries and Affiliates to sublicense other
+Subsidiaries. Such sublicense right shall include the right of EMC to grant to
+its Parent, including the Parent's Subsidiaries and Affiliates, a fully paid-up,
+worldwide, non-exclusive, non-transferable, perpetual, license, without any
+field-of-use or any geographic limitations, under the
+
+
+--------------------------------------------------------------------------------
+PATENT LICENSE AGREEMENT                                            Page 3 of 11
+
+
+<PAGE>
+
+SCC Patents of the same scope as the license from SCC to EMC. For purposes of
+this Section 2, the term "Parent" shall be deemed to include all Subsidiaries
+and Affiliates of the Parent.
+
+     (c) The grants of license and sublicense rights are subject to the
+following limitations:
+
+          (i) Except as expressly provided in this Agreement, no implied license
+or right to sublicense is granted by this Agreement.
+
+          (ii) In the event of a merger, the license to the merging party will
+survive only as to licensed products and Covered Products sold by the licensee
+at the time of the merger and to licensed products and Covered Products under
+development by the licensee at the time of the merger that are introduced within
+a two-year period after the merger.
+
+          (iii) Except as provided for in Sections 2(c)(ii) and 4(b), any
+license or sublicense, including the right to grant sublicenses, to a Parent,
+Affiliate or Subsidiary will terminate on the date such Parent, Affiliate or
+Subsidiary ceases to be a Parent, Affiliate or Subsidiary.
+
+          (iv) Release. SSC and each of its Subsidiaries, Affiliates,
+successors, assigns, officers, directors, employees, agents and attorneys (all
+of the foregoing referred to as "Releasors"), for good and valuable
+consideration the receipt and sufficiency of which is acknowledged, hereby
+release, acquit and forever discharge EMC, and each of its Parents (including
+the Parent's Subsidiaries, Affiliates, successors and assigns), Subsidiaries,
+Affiliates, successors, assigns, officers, directors, employees and attorneys
+(all of the foregoing being referred to as "Releasees") from any and all claims
+or liability for infringement of SSC Patents (including, without limitation,
+claims with respect to any method practiced in the manufacture or use of any EMC
+Licensed Product), which claims are based on acts or arose prior to the
+Effective Date. Releasors also irrevocably release, acquit and forever discharge
+customers of Releasees, to the same extent, for such customers' use of EMC
+Licensed Products. Releasors shall not initiate or maintain any action involving
+any claim for patent infringement against Releasees with respect to SCC Patents
+and Releasors hereby grant to the Releasees immunity from suit for patent
+infringement of the SCC Patents.
+
+3. Royalties.
+
+     (a) For the rights and privileges granted under Section 2(a), Section 2(b)
+and Section 2(c)(iv) of this Agreement, EMC shall pay to SCC a fee of Three
+Million Dollars ($3,000,000.00).
+
+
+--------------------------------------------------------------------------------
+PATENT LICENSE AGREEMENT                                            Page 4 of 11
+
+
+<PAGE>
+
+     (b) The fee set forth in Section Section 3(a) above shall be paid to SCC in
+United States currency within seven (7) business days of the Effective Date by a
+wire transfer of funds to the following bank and account number of SCC:
+
+         Bank:      *
+
+         ABA:       *
+
+         FBO:       *
+
+         Account:   *
+
+         FFC:       *
+
+     (c) The payment due pursuant to this Agreement shall be made without the
+deduction of taxes of any kind, and the parties acknowledge that EMC has no
+obligation for any tax liability or tax reporting obligations of SCC with
+respect to such payments. Any taxes, duties or custom fees on payments from EMC
+to SCC, shall be the responsibility of SCC. To the extent such taxes, duties or
+customs fees are required, the payment from EMC to SCC will be net of such
+taxes, duties or customs fees.
+
+     (d) The fee of Three Million Dollars ($3,000,000.00) is payable within
+seven (7) business days of the Effective Date. Failure to make this payment
+within seven (7) business days of the Effective Date shall constitute a material
+breach of this Agreement in which event SCC may, in addition to other rights,
+terminate this Agreement and the rights and licenses granted herein upon notice
+to EMC.
+
+4. Assignability
+
+     (a) Except as provided for by Sections Section 2(c)(ii) and 4(b) of this
+Agreement, the rights, licenses and obligations hereunder may not be assigned or
+delegated by EMC without the express written consent of SCC, which consent shall
+not be unnecessarily withheld. SCC shall not assign any of the SCC Patents nor
+grant any right under any of the SCC Patents unless such assignment or grant is
+made subject to the terms of this Agreement, including without limitation, the
+terms of Section 2 of this Agreement. Any attempted assignment in derogation of
+the foregoing shall be void.
+
+     (b) This Agreement may be assigned by EMC only to a Parent, Subsidiary or
+an Affiliate or to a third party in connection with the sale of substantially
+all of EMC's business assets and
+
+
+--------------------------------------------------------------------------------
+PATENT LICENSE AGREEMENT                                            Page 5 of 11
+
+
+<PAGE>
+
+goodwill associated therewith, with written notice to SCC. Such assignment to a
+Parent, Subsidiary or Affiliate shall remain effective even if said Subsidiary
+or Affiliate, subsequent to said assignment, ceases to be a Parent, Subsidiary
+or Affiliate. For purposes of this Section 4, the term "Parent" shall be deemed
+to include all Subsidiaries and Affiliates of the Parent.
+
+5. Representations; Warranties; Negations.
+
+     (a) SCC represents and warrants that:
+
+          (i) it is the assignee of the SCC Patents, that it has the full right
+and authority to enter into this Agreement and to grant each of the releases,
+rights, licenses and/or sublicenses that it has granted herein, and the
+execution, delivery and performance of this Agreement have been authorized by
+all necessary corporate action on its part; and
+
+          (ii) as of the Effective Date, it, and its Affiliates and
+Subsidiaries, will not have in effect any grant, and will not grant in the
+future, any rights inconsistent or in conflict with the rights, licenses and
+sublicenses granted or to be granted herein.
+
+     (b) EMC represents and warrants that it has the full right and authority to
+enter into this Agreement, and the execution, delivery and performance of this
+Agreement have been authorized by all necessary corporate action on its part.
+
+     (c) Nothing in this Agreement will be construed as:
+
+          (i) A warranty or representation that any Covered Product will be free
+from infringement of third party patents;
+
+          (ii) A requirement that any Party shall file any patent application,
+secure any patent or maintain any patent in force;
+
+          (iii) An obligation to furnish any information concerning pending
+patent applications;
+
+          (iv) Conferring a right to use in advertising, publicity or otherwise
+any trademark or trade name of any Covered Product;
+
+          (v) Granting by implication, estoppel or otherwise, any licenses or
+rights under any patents other than the rights, licenses and releases
+enumerated in this Agreement; or
+
+
+--------------------------------------------------------------------------------
+PATENT LICENSE AGREEMENT                                            Page 6 of 11
+
+
+<PAGE>
+
+          (vi) An obligation to give notice regarding issuance or acquisition of
+new patents, provided that SCC must respond to a written inquiry from EMC.
+
+     (d) EXCEPT AS EXPRESSLY PROVIDED IN SUBSECTIONS 5(A) AND 5(A)(II), NEITHER
+PARTY MAKES, AND EACH PARTY SPECIFICALLY DISCLAIMS, ANY AND ALL REPRESENTATIONS,
+GUARANTEES OR WARRANTIES, WHETHER EXPRESS, IMPLIED, STATUTORY OR OTHERWISE,
+INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT OF THIRD PARTY RIGHTS.
+
+6. Notices.
+
+     All notices arising under or otherwise relating to this Agreement shall be
+in writing, delivered by hand or sent by certified U.S. mail, return receipt
+requested, or by established overnight delivery service ("ODS") or by facsimile
+transmission confirmed by one of the above means.
+
+         All notices to EMC shall be given or made to:
+
+                  EMC Corporation
+                  171 South Street
+                  Hopkinton, MA 01748
+
+                  Attn: *
+
+         All notices to SCC shall be given or made to:
+
+                  Storage Computer Corporation
+                  11 Riverside Street
+                  Nashua, New Hampshire  03062-1373
+
+                  Attn:  *
+
+         A copy of all notices to SCC shall be sent to:
+
+                  Sidley Austin Brown & Wood
+                  717 North Harwood, Suite 3400
+                  Dallas, Texas  75201
+                  Attn:  *
+
+
+--------------------------------------------------------------------------------
+PATENT LICENSE AGREEMENT                                            Page 7 of 11
+
+
+<PAGE>
+
+Notices shall be effective upon receipt, except that notice sent by ODS shall be
+effective on the next business day.
+
+     Either Party may, by written notice to the other Party, specify a different
+recipient, address or facsimile number to which notices shall be given, by
+notice thereof to the other party in the foregoing manner.
+
+7. TERM AND TERMINATION
+
+          This Agreement is effective on the Effective Date, and the licenses
+granted under this Agreement will be in full force and effect as of that date
+and will continue until the last to expire of the SCC Patents. The licenses and
+releases granted hereunder shall survive this Agreement's expiration or
+termination.
+
+8. CONFIDENTIALITY
+
+          The Parties agree not to disclose the terms of this Agreement to any
+third party (other than its Parents, Subsidiaries, Affiliates and Subsidiaries
+and Affiliates of the Parent) without the prior written consent of the other
+party. This obligation is subject to the following exceptions:
+
+     (a) disclosure is permissible if required by government or court order,
+provided the party required to disclose first gives the other prior written
+notice to enable it to seek a protective order;
+
+     (b) disclosure is permissible if otherwise required by law;
+
+     (c) disclosure is permissible if required to enforce rights under this
+Agreement; and
+
+     (d) each party may disclose this Agreement or its contents to the extent
+reasonably necessary, on a confidential basis, to its accountants, attorneys,
+financial advisors, its present or future providers of venture capital and/or
+potential investors in or acquirers of such party or the SCC Patents. Neither
+party shall use or refer to this Agreement or any of its provisions in any
+promotional activity.
+
+9. MISCELLANEOUS
+
+     (a) Amendments; Waivers.
+
+          This Agreement shall be binding upon and shall inure to the benefit of
+the Parties and their respective successors and assigns. This Agreement and any
+exhibit or schedule attached hereto may be amended only by agreement in writing
+of the Parties. No waiver of any provision nor consent to any exception to the
+terms of this Agreement will be effective unless made in
+
+--------------------------------------------------------------------------------
+Patent License Agreement                                            Page 8 of 11
+
+<PAGE>
+
+writing and signed by the Party to be bound and then only to the specific
+purpose, extent and instance so provided.
+
+     (b) Governing Law.
+
+     This Agreement, the legal relations between the Parties and any action,
+whether contractual or non-contractual, instituted by any Party with respect to
+matters arising under or growing out of or in connection with or in respect of
+this Agreement, including, but not limited to, the negotiation, execution,
+interpretation, coverage, scope, performance, breach, termination, validity, or
+enforceability of this Agreement, shall be governed by and construed in
+accordance with the patent laws of the United States, Title 35 U.S. Code, and
+the laws of the State of New York without regard to conflicts of law doctrines.
+
+     (c) Headings.
+
+     The descriptive headings of the Articles, Sections and subsections of this
+Agreement are for convenience only and do not constitute a part of this
+Agreement.
+
+     (d) Remedies; Waiver.
+
+     To the extent permitted by Law, all rights and remedies existing under this
+Agreement and any related agreements or documents are cumulative to and not
+exclusive of, any rights or remedies otherwise available under applicable Law. A
+Party's delay or failure to exercise any right under this Agreement must not be
+deemed a waiver of that right, and a partial exercise of any right will not
+preclude any further exercise of that or any other right.
+
+     (e) Severability.
+
+     If any provision of this Agreement is determined to be invalid, illegal or
+unenforceable by any governmental entity, the remaining provisions of this
+Agreement shall remain in full force and effect provided that the essential
+terms and conditions of this Agreement for the Parties remain valid, binding and
+enforceable.
+
+     (f) Counterparts.
+
+     This Agreement and its amendments may be executed in one or more
+counterparts. The counterparts will constitute one and the same agreement and
+will become effective when one or more counterparts have been signed by each
+Party and delivered to the other Party.
+
+     (g) No Agency.
+
+
+--------------------------------------------------------------------------------
+PATENT LICENSE AGREEMENT                                            Page 9 of 11
+
+
+<PAGE>
+
+     No agency relationship is involved or created with respect to this
+Agreement.
+
+     (h) Integration
+
+     This Agreement constitutes the entire agreement between the Parties
+relating to this subject matter, and supersedes all prior or contemporaneous
+proposals, agreements, representations and other communications between them on
+this subject.
+
+AGREED, ACKNOWLEDGED AND ACCEPTED:
+
+                                                    Storage Computer Corporation
+
+Date:  November 5, 2002                             /s/ THEODORE J. GOODLANDER
+       ----------------                             ----------------------------
+                                                    Mr. Theodore J. Goodlander
+                                                    President
+
+                                                    EMC
+
+Date: November 4, 2002                              /s/ PAUL T. DACIER
+      ----------------                              ----------------------------
+                                                    Paul T. Dacier
+                                                    Senior Vice-President and
+                                                    General Counsel
+
+
+--------------------------------------------------------------------------------
+PATENT LICENSE AGREEMENT                                           Page 10 of 11
+
+
+<PAGE>
+
+                                   SCHEDULE A
+                                   ----------
+
+                           SCC STORAGE SYSTEM PATENTS
+                           --------------------------
+
+US 6,098,128      Universal storage management system
+
+US 5,893,919      Apparatus and method for storing data with selectable data
+                  protection using mirroring and selectable parity inhibition
+
+US 5,790,774      Data storage system with dedicated allocation of parity
+                  storage and parity reads and writes only on operations
+                  requiring parity information
+
+US 5,732,238      Non-volatile cache for providing data integrity in operation
+                  with a volatile demand paging cache in a data storage system
+
+US 5,720,027      Redundant disc computer having targeted data broadcast
+
+US 5,257,367      Data storage system with asynchronous host operating system
+                  communication link
+
+US 4,942,579      High-speed, high-capacity, fault-tolerant, error-correcting
+                  storage system
+
+KR 128343         Fault-Tolerant, error-correcting storage system and method for
+                  storing digital information in such a storage system
+
+EP 539 494        High-speed, high-capacity, fault-tolerant, error-correcting
+                  storage system for binary computers
+
+EP 294 287        Fault-Tolerant, error-correcting storage system and method for
+                  storing digital information in such a storage system
+
+DE 691 31 728     High-speed, high-capacity, fault-tolerant, error-correcting
+                  storage system for binary computers
+
+DE 3856443        Fault-Tolerant, error-correcting storage system and method for
+                  storing digital information in such a storage system
+
+CN 13713          Fault-tolerant, error-correcting storage system
+
+CA 2,087,162      High-speed, high-capacity, fault-tolerant, error-correcting
+                  storage system for binary computers
+
+CA 1296103        High-speed, high-capacity, fault-tolerant, error-correcting
+                  storage system
+
+AU 663293         Storage system for binary computers
+
+AU 605598         Fault-tolerant, error-correcting storage system
+
+JP 3,180,130      Fault-Tolerant, error-correcting storage system and method for
+                  storing digital information in such a storage system
+
+JP 3,273,254      High-speed, high-capacity, fault-tolerant, error-correcting
+                  storage system for binary computers
+
+
+--------------------------------------------------------------------------------
+PATENT LICENSE AGREEMENT                                           Page 11 of 11
+
+
+
+</TEXT>
+</DOCUMENT>

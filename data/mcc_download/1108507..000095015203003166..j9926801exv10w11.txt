@@ -1,0 +1,1351 @@
+<DOCUMENT>
+<TYPE>EX-10.11
+<SEQUENCE>4
+<FILENAME>j9926801exv10w11.txt
+<DESCRIPTION>EXHIBIT 10.11
+<TEXT>
+<PAGE>
+                                                                   Exhibit 10.11
+
+                         IP PURCHASE & LICENCE AGREEMENT
+
+         THIS IP PURCHASE & LICENCE AGREEMENT (this "Agreement") is made as of
+and effective October 31, 2002 by and among Creo Inc. (formerly, Creo Products
+Inc.), a federally incorporated Canadian corporation ("Creo"), Printcafe
+Software, Inc. (formerly, printCafe, Inc.), a Delaware corporation ("Printcafe")
+and Printcafe Systems, Inc. ("Printcafe Systems"), a Delaware corporation and
+wholly-owned subsidiary of Printcafe.
+
+                                    RECITALS
+
+         WHEREAS, capitalized terms used in these recitals shall have the
+meaning set forth in Section 1 of this Agreement unless otherwise indicated;
+
+         WHEREAS, Printcafe and Creo are parties to the Strategic Alliance
+Agreement which provides, among other things, that Creo is to be the exclusive
+provider of Content Management and Workflow Products in connection with the
+printCafe Business (as such terms are defined in the Strategic Alliance
+Agreement);
+
+         WHEREAS, Printcafe Systems has or will concurrently acquire the assets
+of printChannel, Inc., a Delware corporation ("Printchannel") which assets
+include, among other things, the Printchannel Workflow Assets;
+
+         WHEREAS, Printcafe Systems has agreed to transfer all of the
+Printchannel Workflow Assets acquired from Printchannel to Creo and Creo has
+agreed to license such Printchannel Workflow Assets to Printcafe Systems to be
+used by Printcafe Systems to host and market an ASP Service using the
+Printchannel Assets;
+
+         WHEREAS, Creo, Printcafe and Printcafe Systems wish to set forth the
+terms and conditions of such asset transfer and license arrangement and have
+entered into this Agreement;
+
+                                    AGREEMENT
+
+         NOW, THEREFORE, in consideration of the premises set forth above and
+for other good and valuable consideration, the receipt and sufficiency of which
+is hereby acknowledged, the parties hereto hereby agree as follows:
+
+1.       DEFINITIONS AND INTERPRETATION.
+
+         1.1 DEFINITIONS. In this Agreement, the following terms shall have the
+meanings set forth below unless the context suggests otherwise:
+
+                  (A) "Affiliates" means two or more corporations where the
+         relationship between them is one in which one of them is a subsidiary
+         of the other, or both are subsidiaries of the same corporation, or
+         fifty percent (50%) or more of the equity securities or interest of
+         each of them is owned by the same Person, corporation or other legal
+         entity, and only so long as such ownership continues provided, however,
+         that for so long as Creo hold less than 90% of the equity securities or
+         interest of Printcafe, Printcafe shall not be considered an Affiliate
+         of Creo for the purposes of this Agreement.
+
+
+<PAGE>
+
+                  (B) "ASP Service" means the provision of software
+         functionality solely through a web browser where all of the software
+         and hardware resides at and is managed by the application service
+         provider ("ASP"), rather than at the end customer premises.
+
+                  (C) "Change in Control" means (i) the acquisition of Printcafe
+         or any Printcafe Affiliate which, after giving effect to any such
+         acquisition, has the benefit of the licenses granted herein (referred
+         to in this definition as a "subject corporation") by another entity by
+         means of a single transaction or series of related transactions
+         (including, without limitation, any reorganization, arrangement,
+         liquidation, merger or consolidation, but excluding any merger effected
+         exclusively for the purpose of changing the domicile of the Printcafe
+         or a subject corporation); or (ii) a change in the holding, direct or
+         indirect, of shares of Printcafe or a subject corporation as a result
+         of which Person or a group of Persons, or Persons acting jointly or in
+         concert, are in a position to exercise effective control of Printcafe
+         or a subject corporation, provided that for the purposes of this
+         Agreement a Person or group of persons holding shares and/or other
+         securities in excess of the number that, directly or following
+         conversion thereof, would entitle the holders thereof to cast more than
+         fifty percent (50%) of the votes attaching to all shares of Printcafe
+         or five percent (5%) of the votes attaching to all shares of a subject
+         corporation shall be deemed to be in a position to exercise effective
+         control of such corporation.
+
+                  (D) "Derivative Works" shall have the meaning set forth in the
+         United States Copyright Act, 17 U.S.C. Section 101, et seq.
+
+                  (E) "Design Tab Functionality" means that functionality
+         embodied in the tab labeled "Design" or "Composer" in the following
+         Printcafe products: PrinterSite Customer Connect, EnterpriseSite, and
+         which same functionality is included in the PrintSmith Site product.
+         This functionality includes the ability to present pre-created document
+         templates with images and variable fields to the user, such that these
+         fields can be edited, the resulting document distilled into PDF, then
+         viewed for proofing on the screen, and made available for the printer.
+         The application also includes the ability for the printer to create the
+         document templates with the editable fields.
+
+                  (F) "Effective Date" shall mean the date on which (i)
+         Printcafe or a Printcafe Affiliate acquires the Printchannel Assets,
+         and (ii) Creo has entered into a release agreement with ImageX, Inc.
+         (the "ImageX Release") pursuant to which Creo and its Affiliates are
+         released from any patent infringement claims by ImageX, Inc. in
+         connection with the licensing and sale of Products by Printcafe or a
+         Printcafe Affiliate, such ImageX Release to be in a form acceptable to
+         Creo in its sole discretion. Printcafe warrants that it shall not enter
+         into a license agreement with ImageX, Inc. until Creo has entered into
+         the ImageX Release. Printcafe agrees to reimburse Creo for any license
+         fees or other amounts of any kind payable to ImageX, Inc. by Creo in
+         connection with the granting of the ImageX Release. Printcafe agrees to
+         obtain the consent of Iris Graphics, Inc. before closing the
+         Printchannel acquisition and warrants that such consent is a closing
+         condition of the agreement to acquire the Printchannel Assets.
+
+                  (G) "Fulfillment Functionality" means the portion of the
+         Printchannel e-Commerce web site which allows a buyer to order, but not
+         re-order, a preprinted item by
+
+
+
+                                       2
+<PAGE>
+
+
+         reviewing a low resolution image of no more than 220 pixels wide by 150
+         pixels tall provided, however, that in no circumstances shall
+         Fulfillment Functionality include or contain (i) Workflow and Content
+         Functionality; (ii) the ability for information to be sent to the
+         printer as part of an order containing customization data to be used by
+         the printer to print a custom version of a catalog item; (iii) the
+         ability for content files to be uploaded or downloaded by either the
+         buyer or the printer in the web site; or (iv) otherwise be used to
+         reorder out of stock items or additional items to be printed.
+
+                  (H) "Improvements" means improvements, variations, updates,
+         modifications, additional functionality, substituted functionality,
+         enhancements or replacements or successors providing substantially the
+         same functionality of or relating to the Technology at any time after
+         the Effective Date.
+
+                  (I) "Intellectual Property Rights" means all patents, patent
+         rights, copyrights, mask work rights, rights of publicity, trademark,
+         trade dress and service mark rights, goodwill, trade secret rights,
+         designs, technical information, engineering procedures, designs,
+         know-how and processes (whether confidential or otherwise), Source
+         Code, Object Code and other computer software including all related
+         code, specifications, documentation, revisions, enhancements and
+         modifications thereto in whatever form and media and associated
+         development environments, and other industrial property (including
+         applications for any of these), and all applications therefor and
+         registrations, renewals and extensions thereof, under the laws of any
+         state, country, territory or other jurisdiction.
+
+                  (J) "Licensed Assets" means software relating to Workflow and
+         Content Functionality, in both Source Code and Object Code form, as
+         constituted as of the Effective Date and which form part of the
+         Printchannel Workflow Assets.
+
+                  (K) "Liens" shall mean any interest, consensual or otherwise,
+         in property, whether real, personal or mixed property or assets,
+         tangible or intangible, securing an obligation owed to, or a claim by a
+         third Person, or otherwise evidencing an interest of a Person other
+         than the owner of the property, whether such interest is based on
+         common law, statute or contract, and including, but not limited to, any
+         security interest, security title or lien arising from a mortgage,
+         recordation of abstract of judgment, deed of trust, deed to secure
+         debt, encumbrance, restriction, charge, covenant, restriction, claim,
+         exception, encroachment, easement, right of way, license, permit,
+         pledge, conditional sale, option trust (constructive or otherwise) or
+         trust receipt or a lease, consignment or bailment for security purposes
+         and other title exceptions and encumbrances affecting the property.
+
+                  (L) "Object Code" means computer-executable binary code.
+
+                  (M) "Person" shall mean an individual, corporation,
+         partnership, limited partnership, limited liability company, syndicate,
+         Person (including, without limitation, a "Person" as defined in Section
+         13(d)(3) of the Securities Exchange Act of 1934, as amended), trust,
+         association or entity or government, political subdivision, agency or
+         instrumentality of a government.
+
+
+
+                                       3
+<PAGE>
+
+                  (N) "Printchannel Assets" means all of the assets, including
+         all Intellectual Property Rights thereto, of Printchannel which are
+         sold, transferred, assigned or otherwise acquired by Printcafe or a
+         Printcafe Affiliate;
+
+                  (O) "Printchannel Workflow Assets" means all Intellectual
+         Property Rights which, in whole or in part, provide for or execute
+         Workflow and Content Functionality and which form part of the
+         Printchannel Assets as well as all documentation, help files,
+         schematics, specifications, design documents, data, development plans
+         and other materials related thereto.
+
+                  (P) "Product(s)" means products or services, including an ASP
+         Service, consulting, implementation, or training, provided by Printcafe
+         or its Affiliates that uses the Technology, Licensed Assets and/or any
+         Improvements or any portion thereof.
+
+                  (Q) "Revenue" means all revenues, receipts, monies, and the
+         fair market value of all other consideration directly or indirectly
+         collected or received whether by way of cash or credit or any barter,
+         benefit, advantage, or concession received by Printcafe or its
+         Affiliates from the marketing, sale and, distribution, or leasing of
+         any Technology, Improvements, Product(s) or any Derivative Works
+         thereto, (collectively the "Royalty Bearing Assets") but excluding only
+         (i) hardware and off-the-shelf software (without any Technology or
+         Licensed Assets) that was acquired as part of the Printchannel Assets;
+         and (ii) stand alone modules that perform Fulfillment Functionality
+         only with no Workflow and Content Functionality or other functionality
+         (other than Fulfillment Functionality) based on or derived from the
+         Technology of any kind. Where any Revenue is derived from a country
+         other than the United States it shall be converted to the equivalent in
+         U.S. dollars on the date Printcafe or its Affiliates are deemed to have
+         received such Revenue pursuant to the terms hereof at the rate of
+         exchange published by the New York Times for buying such currency on
+         that date. The amount of U.S. dollars pursuant to such conversion shall
+         be included in the Revenue.
+
+                  (R) "Source Code" means the human-readable version of a
+         software program that can be compiled into Object Code, including all
+         accompanying programming notes, programming guides and commentary.
+
+                  (S) "Strategic Alliance Agreement" shall mean that certain
+         Amended and Restated Strategic Alliance Agreement entered into between
+         Creo and Printcafe dated as of December 31, 2001, as may be amended or
+         renewed from time to time.
+
+                  (T) "Technology" means any and all Intellectual Property
+         Rights relating to or forming part of the Printchannel Assets but
+         specifically excluding the Printchannel Workflow Assets.
+
+                  (U) "Workflow and Content Functionality" includes (i)
+         validation, manipulation, assembly, conversion, modification, output
+         and re-purposing of any digital content; (ii) tools and/or templates to
+         enable or automate the items set out in (i) above and automation of the
+         selection of templates themselves; (iii) collaborative tools, web based
+         or otherwise, for (A) submission of content or content metadata, (B)
+         automated content or
+
+
+                                       4
+<PAGE>
+
+         workflow processing, (C) resource availability for work flow or content
+         production, (D) content and metadata proofing and approval, (iv)
+         content, content metadata and workflow status monitoring; (v) a
+         centralized file repository for the storing of content and information
+         about the content or processing associated with it including, but not
+         limited to, versioning control and workflow or content job
+         specification information; (vi) imposition planning and execution;
+         (vii) workflow planning; (viii) the software and/or hardware capable of
+         receiving the above content related information in a digital format
+         and/or processing this information or otherwise sending the data stream
+         to an imaging device; and (ix) the natural evolution of these products
+         over time.
+
+                  (V) "Workflow and Content Functionality Improvements" means
+         improvements, variations, updates, modifications, additional
+         functionality, substituted functionality, enhancements or replacements
+         of or relating to the Printchannel Workflow Assets at any time after
+         the Effective Date.
+
+         1.2 TITLES AND SUBTITLES. The titles and subtitles used in this
+Agreement are used for convenience only and are not to be considered in
+construing or interpreting this Agreement.
+
+         1.3 INTERPRETATION. In this Agreement:
+
+                  (A) the terms "this Agreement", "hereof", "hereunder" and
+         similar expressions refer to this Agreement and not to any particular
+         Article, Section or other portion hereof and include any agreement
+         supplemental hereto;
+
+                  (B) when a reference is made in this Agreement to Articles,
+         Sections, Exhibits, Annexes or Schedules, such reference shall be to a
+         Article or Section of or Exhibit, Annex or Schedule to this Agreement
+         unless otherwise indicated;
+
+                  (C) words importing the singular number only shall include the
+         plural and vice versa and words importing the masculine gender shall
+         include the feminine and neuter genders and vice versa;
+
+                  (D) whenever the words "include," "includes" or "including"
+         are used in this Agreement, they shall be deemed to be followed by the
+         words "without limitation"; and the phrases "the date of this
+         Agreement," "the date hereof" and terms of similar import, unless the
+         context otherwise requires, shall be deemed to be the date set out in
+         the first page hereto.
+
+         1.4 STRATEGIC ALLIANCE AGREEMENT. This Agreement and the definitions
+set forth herein are not intended to amend, modify, restrict or revise the terms
+and definitions of the Strategic Alliance Agreement.
+
+         1.5 CURRENCY. Unless otherwise specifically provided in this Agreement,
+all references to dollar amounts or other money are expressed in terms of lawful
+money of the United States of America.
+
+         1.6 SCHEDULES & EXHIBITS. The following are the Schedules and Exhibits
+annexed hereto and incorporated by reference and deemed to be part hereof:
+
+
+
+                                       5
+<PAGE>
+
+                   Exhibit "A"      -       Escrow Agreements
+                   Exhibit "B"      -       Customer License Terms
+                   Exhibit "C"      -       Royalties and Fees
+                   Exhibit "D"      -       Product and Technical Support
+                                            Services
+
+2. PURCHASE AND SALE OF WORKFLOW & CONTENT FUNCTIONALITY.
+
+         2.1 PURCHASE AND SALE. Printcafe Systems agrees to sell, assign, grant,
+transfer, and deliver to Creo, or to any Affiliate of Creo designated by Creo,
+and Creo shall purchase and accept from Printcafe Systems as of the Effective
+Date, free and clear of all Liens (other than escrow agreements entered into by
+Printchannel, Inc. all of which are listed in EXHIBIT "A"), all of Printcafe
+Systems' rights, title and interest in and to the Printchannel Workflow Assets
+for an aggregate purchase price of $100.00 (the "Purchase Price"). Printcafe
+Systems shall cooperate with Creo in the filing and prosecution of Intellectual
+Property Rights related to the Printchannel Workflow Assets or the execution of
+any other documents evidencing the ownership transfer herein.
+
+         2.2 DETERMINATION OF SOURCE CODE. Creo and Printcafe Systems shall,
+acting reasonably:
+
+                  (A) within thirty (30) days after the Effective Date each
+         designate a representative or representatives and schedule a meeting or
+         meetings at a mutually agreeable time and place for the purposes set
+         out in Subsection 2.2(b); and
+
+                  (B) at such meeting or meetings determine by mutual agreement
+         those specific portions of Source Code included as part of the
+         Printchannel Assets that perform Workflow and Content Functionality.
+
+Any dispute arising out of or in connection with the determinations to be made
+pursuant to Subsection 2.2(b) shall be referred to arbitration in accordance
+with Section 11.7.
+
+         2.3 DELIVERY. Printcafe Systems promptly shall deliver to Creo all
+documentation pertaining to the Printchannel Workflow Assets in its possession,
+including copies of all correspondence to or from examining authorities
+regarding the Intellectual Property Rights related to the Printchannel Workflow
+Assets or any portion thereof, patents and prior art searches pertaining to any
+registration or application in the United States Patent and Trademark Office,
+Copyright Office or other similar offices worldwide with respect to the
+Intellectual Property Rights related to the Printchannel Workflow Assets or any
+portion thereof, and all correspondence with any attorney involved in the
+preparation and/or prosecution of any application in the United States Patent
+and Trademark Office, Copyright Office or similar officers worldwide with
+respect to the Intellectual Property Rights related to the Printchannel Workflow
+Assets or any portion thereof.
+
+         2.4 PURCHASE PRICE. The Purchase Price shall be paid by Creo to
+Printcafe Systems upon the transfer the Printchannel Workflow Assets to Creo
+(the "Acquisition Closing"), which shall take place on the Effective Date or
+such other date as may be agreed upon by the parties hereto. At the Acquisition
+Closing, Printcafe Systems shall deliver the separate assignment document duly
+executed by an authorized signatory of Printcafe Systems, with any other
+
+
+
+                                       6
+<PAGE>
+
+documentation required in accordance with Section 2.2 herein, against delivery
+of a certified check of Creo or an Affiliate of Creo, payable to or to the order
+of Printcafe Systems or a wire transfer of immediately available funds in the
+amount of the Purchase Price.
+
+         2.5 TRANSFER TAXES. Creo shall be liable for and shall pay or, if
+required by law, remit to Printcafe Systems, at the Acquisition Closing, in
+addition to the Purchase Price, all sales and value added taxes and all
+registration charges and other transfer fees or taxes properly payable upon and
+in connection with the sale and transfer of the Printchannel Workflow Assets,
+excluding any taxes based on the net income of Printcafe Systems or Printcafe.
+
+3.       LICENSE AND OWNERSHIP.
+
+         3.1 GRANT OF LICENSE RIGHTS. Upon execution and delivery of the
+transmission documents set forth in Section 2.1 and the satisfaction of the
+payment set forth in Section 4.1 and subject to the specified limitations
+herein, Creo shall grant to Printcafe Systems a worldwide, non-exclusive,
+non-transferable, non-assignable, perpetual (except as set forth in Article 6),
+non-sublicensable (except as set forth in Section 3.2) license to use Object
+Code versions of the Licensed Assets in and as part of, market and host, a
+Printcafe Systems hosted ASP Service.
+
+         3.2 SUBLICENSING. The parties hereto acknowledge that the ASP Service
+executes software instructions (including the Workflow and Content
+Functionality), and that the software instructions can be and are licensed
+separately from, but for execution as part of, the ASP Service. The licensing
+and sublicensing to users of such software (including the Workflow and Content
+Functionality) for commercial exploitation solely on and with respect to a
+Printcafe Systems hosted ASP Service is expressly licensed under Section 3.1.
+Except with respect to software as just stated, this license does not include
+the right to grant further licenses or sublicenses.
+
+         3.3 LIMITED COMPILATION LICENSE. Subject to the terms and conditions of
+this Agreement, Creo hereby grants to Printcafe Systems, during the term of this
+Agreement but not during any Transition Period (as defined herein), a limited,
+personal, non-exclusive, non-transferable, non-assignable, fully-paid license to
+use, only for performing a compile of a Printcafe Systems hosted ASP Service,
+the Source Code version of Licensed Assets that provide Workflow and Content
+Functionality with other Printcafe Systems owned functionality used in a Product
+(but not in any module that only provide Workflow and Content Functionality).
+Printcafe Systems shall not vary, update, modify or enhance any Source Code
+version of Licensed Assets provided, however, that an inadvertent, non-recurring
+and immaterial variation or modification made, from time to time, by a Printcafe
+Systems employee shall not constitute a breach of this Section 3.3 if, upon
+becoming aware of such variation or modification, Printcafe Systems forthwith
+gives Creo notice of, and details relating to, the inadvertent, non-recurring
+and immaterial change.
+
+         3.4 TRADEMARK LICENSE. At Creo's sole option, the portion of the ASP
+Service which permits the user to use Workflow and Content Functionality shall
+feature a Creo logo in a form provided by Creo and Printcafe Systems is granted
+the limited right to use Creo's name, logo, trade names and trademarks for this
+purpose. Printcafe Systems will only use the Creo logo in
+
+
+                                       7
+<PAGE>
+
+the form provided to Printcafe Systems by Creo. Creo shall indemnify Printcafe
+Systems for any claims that such Creo logo violates the Intellectual Property
+Rights of any third party.
+
+         3.5 COPYRIGHT IDENTIFICATION. For all marketing or hosting of Licensed
+Assets, Printcafe Systems will require that any use of the ASP Service will
+include all proprietary and statutory copyright notices reasonably sufficient in
+form and substance to adequately protect and preserve Creo's copyright therein,
+including but not limited to, all documentation and an appropriate screen of any
+ASP Service using any Licensed Assets or any portion thereof.
+
+         3.6 CUSTOMER LICENSE AGREEMENTS. Any license agreement(s) under which
+Printcafe Systems licenses the Licensed Assets to customers as part of an ASP
+Service shall contain provisions substantially equivalent to the provisions set
+forth in Exhibit "B". Printcafe Systems shall not under any circumstances
+distribute, license or market any Licensed Assets on a non-ASP basis.
+
+         3.7 RESTRICTIONS ON LICENSE GRANT. Except as provided for in this
+Agreement, including Section 3.3, Printcafe Systems shall not, directly or
+indirectly: (i) improve, vary, update, modify, add functionality or enhance the
+Licensed Assets; (ii) reverse engineer, disassemble, decompile, or otherwise
+attempt to derive the Source Code of, the Licensed Assets; and (iii) use the
+Licensed Assets for general application development purposes. With regard to any
+and all copies of the Source Code of the Licensed Assets and subject to Section
+3.3, Printcafe Systems shall only make exact copies of the versions as delivered
+by Creo. Printcafe Systems shall ensure that each copy contains all titles,
+trademarks, and copyright and restricted rights notices as in the original, and
+all such copies shall be subject to the terms and conditions of this Agreement.
+
+         3.8 DESIGN TAB FUNCTIONALITY. As at the Effective Date, Printcafe shall
+cease, and shall cause any Printcafe Affiliate to cease, developing any Design
+Tab Functionality except for correction of minor defects in the existing Source
+Code of any Design Tab Functionality. Printcafe shall forthwith thereafter use,
+and shall cause any Printcafe Affiliate to use, commercially reasonable efforts
+to migrate any customers using Design Tab Functionality to Royalty Bearing
+Assets. Notwithstanding the foregoing, Printcafe covenants that:
+
+                  (A) all customers using Design Tab Functionality other than
+         that embedded in EnterpriseSite will be fully migrated to Royalty
+         Bearing Assets within eighteen (18) months of the Effective Date; and
+
+                  (B) all customers using Design Tab Functionality embedded in
+         EnterpriseSite will, from the date that Creo delivers to Printcafe a
+         specification document describing a Creo developed alternative to the
+         Design Tab Functionality embedded in EnterpriseSite together with the
+         proposed list price for such new product as determined by Creo pursuant
+         to this Section 3.8(b) (a "Design Tab Alternative"):
+
+                           (1) cease having access to the Design Tab
+                  Functionality embedded in EnterpriseSite within Two-hundred
+                  and Seventy (270) days from the date that Creo delivers to
+                  Printcafe a specification document describing a Design Tab
+                  Alternative; or
+
+
+                                       8
+<PAGE>
+
+                           (2) be fully migrated to a Design Tab Alternative
+                  within the later of (i) nine (9) months from the date that
+                  Creo delivers to Printcafe a specification document describing
+                  a Design Tab Alternative; and (ii) three (3) months from the
+                  date that Creo delivers a beta version of a Design Tab
+                  Alternative in Object Code form based on a specification
+                  document delivered in accordance with this Subsection 3.8(b).
+
+Printcafe shall make an irrevocable election in writing to Creo within thirty
+(30) days from the date that Creo delivers to Printcafe a specification document
+describing a Design Tab Alternative as to whether it will elect to migrate
+customers in accordance with Subsection 3.8(b)(2). If Printcafe has elected to
+migrate customers in accordance with Subsection 3.8(b)(2), Printcafe agrees to
+pay Creo, with respect to each Printcafe customer to be migrated to the Design
+Tab Alternative, an amount equal to 70% of the list price that would be charged
+by Creo to that customer as set forth in the Design Tab Alternative
+specification, determined by Creo in its sole discretion, for the use and
+support of the Design Tab Alternative. Such amounts shall be payable by
+Printcafe to Creo upon the delivery of the Design Tab Alternative which has the
+functionality described in the specification document, satisfaction of such
+functionality to be determined by the parties, acting reasonably.
+
+         3.9 OWNERSHIP. The licenses granted under this Agreement are
+specifically set forth herein, and no licenses are granted by Creo to Printcafe
+or Printcafe Systems by implication or estoppel. Subject to the licenses granted
+herein:
+
+                  (A) Creo retains all right, title and interest in and to the
+         Licensed Assets and the Workflow and Content Functionality therein, to
+         any and all Workflow Functionality Improvements and Derivative Works
+         thereto, including all Intellectual Property Rights therein and thereto
+         and Printcafe Systems acknowledges and agrees that it does not acquire
+         any rights, express or implied, thereon;
+
+                  (B) any configuration or deployment of the Product(s) shall
+         not affect or diminish Creo's rights, title, and interest in and to the
+         Licensed Assets and the Workflow and Content Functionality therein; and
+
+                  (C) subject to Section 5 of the Strategic Alliance Agreement,
+         if Printcafe or any of its Affiliates suggests or initiates any
+         Workflow and Content Functionality Improvements therein or any portion
+         thereof, including new features or functionality, that (i) Creo
+         subsequently makes to or incorporates into to the Licensed Assets; (ii)
+         Printcafe or any of its Affliates subsequently makes to or incorporates
+         into the Licensed Assets, notwithstanding any restriction in this
+         Agreement or breach of Creo rights or (iii) Creo or Printcafe or any of
+         its Affliates derives Derivative Works thereof, such Workflow and
+         Content Functionality Improvements or Derivative Works, as the case may
+         be, shall be (A) the sole and exclusive property of Creo and Printcafe
+         shall be deemed to have waived all rights of any kind thereto, (B) free
+         from any confidentiality restrictions that might otherwise be imposed
+         upon Creo pursuant to Section 9.2; and (C) notwithstanding any term in
+         this Agreement to the contrary, shall not be included in any license
+         grant provided for herein but shall only be licensed in accordance with
+         Section 5.3, if applicable.
+
+
+                                       9
+<PAGE>
+
+For greater certainty, no rights are granted other than the rights expressly set
+forth herein.
+
+         3.10 ESCROW. Printcafe Systems shall have the right to place the
+Workflow and Content Functionality Source Code as used in only the printChannel
+Classic and Print I/O Product as constituted as of the Effective Date and any
+bugs fixes thereto provided by Creo thereafter in escrow, for the benefit of up
+to four (4) Printcafe Systems customers agreed to in writing by Creo, with a
+reputable third party escrow agent pursuant to an escrow agreement between
+Printcafe Systems, the escrow agent and the designated Printcafe Systems
+customer, provided however that the terms of any such escrow agreement shall be
+no less favorable to Creo than the terms of escrow agreements pursuant to which
+the Printchannel Workflow Assets are or were subject as at the Effective Date.
+
+4.       PAYMENTS AND ROYALTIES.
+
+         4.1 PAYMENT. In partial consideration of the licenses granted in
+Section 2, Printcafe shall reimburse Creo for expenses incurred in connection
+with the execution of this Agreement in the amount of twenty-five thousand
+dollars ($25,000) payable in immediately available funds on the Effective Date.
+
+         4.2 ROYALTIES.
+
+                  (A) Printcafe shall pay to Creo royalties on its Revenue
+         ("Royalties") as specified in Exhibit "C". Such Royalties shall be due
+         and payable to Creo quarterly, within 30 days of each quarter end
+         during the term of this Agreement, regardless of whether Printcafe
+         collects payments for the Product(s) from its distributors or
+         customers.
+
+                  (B) Printcafe agrees to make written reports to Creo quarterly
+         concurrent with the payment of such quarterly Royalties detailing the
+         Revenues and Royalties payable for the quarter. Printcafe's obligation
+         to produce this report commences in the first quarter in which such
+         Revenues are earned.
+
+                  (C) Printcafe agrees to maintain records showing Revenues
+         earned to enable the Royalties payable hereunder by Printcafe to be
+         determined and to permit its books and records to be examined by Creo
+         or its representatives from time to time during normal business hours
+         and upon reasonable prior notice to the extent necessary to verify the
+         written reports provided.
+
+         4.3 TAXES. In addition to any other payments due under this Agreement,
+Printcafe agrees to reimburse and hold Creo harmless from any sales, use,
+excise, import or export, value added or similar tax or duty, any other tax not
+based on Creo's net income, and any governmental permit and license fees,
+customs fees and similar fees levied upon delivery of the Licensed Assets and
+the support services hereunder which Creo may incur in respect of this
+Agreement.
+
+5.       IMPROVEMENTS AND SUPPORT.
+
+
+
+                                       10
+<PAGE>
+
+         5.1 CREO WORKFLOW PRODUCTS. The parties hereto acknowledge and agree
+that the Printchannel Workflow Assets are deemed to be included in "Creo's
+Workflow Products" as such phrase is used in Section 3 of the Strategic Alliance
+Agreement.
+
+         5.2 CREO WORKFLOW IMPROVEMENTS. Subject to the terms and conditions of
+the Strategic Alliance Agreement, if applicable, Creo may, from time to time,
+make Workflow and Content Functionality Improvements or derive Derivative Works
+therefrom at its discretion which Workflow and Content Functionality
+Improvements or Derivative Works, as the case may be, may be made be licensed to
+Printcafe, at Creo's option, in accordance with Section 5.4. Printcafe shall not
+be obligated to pay the Fully Loaded Costs of Creo with respect to Workflow and
+Content Functionality Improvements made by Creo without request by Printcafe in
+accordance with this Section 5.2.
+
+         5.3 PRINTCAFE WORKFLOW IMPROVEMENTS. Printcafe may, from time to time,
+make commercially reasonable requests to initiate Workflow and Content
+Functionality Improvements from Creo and Creo agrees to use commercially
+reasonable efforts to undertake such Workflow and Content Functionality
+Improvements. Any such Workflow and Content Functionality Improvements shall be
+subject to and provided in accordance with the terms and conditions of the
+Strategic Alliance Agreement and for such purposes thereof the resulting
+Workflow and Content Functionality Improvements are deemed to be included in
+"Creo's Workflow Products" as such term is used in Section 3 the Strategic
+Alliance Agreement. For greater certainty, Printcafe shall pay Creo, in addition
+to any amounts determined in accordance with Section 5.4 for use of such
+Workflow and Content Functionality Improvements, Creo's third party costs and
+Fully Loaded Costs, as defined in the Strategic Alliance Agreement, with respect
+to such Workflow and Content Functionality Improvements.
+
+         5.4 LICENSING OF IMPROVEMENTS AND DERIVATIVE WORKS. Printcafe shall
+have the option to license any (i) Workflow and Content Functionality
+Improvements made in accordance with Section 5.3; or (ii) Derivative Works
+thereof, on such terms and conditions other than the applicable license fees as
+are set out herein or otherwise acceptable to each party and for a license fee
+or royalty to be negotiated by the parties, which fee or royalty shall be the
+Fair Market Value, as defined in the Strategic Alliance Agreement, of such
+Workflow and Content Functionality Improvements or Derivative Works thereof.
+
+         5.5 SUPPORT AND SERVICING. Creo will provide Printcafe, on a
+commercially reasonable basis, with technical support and services with respect
+to the Licensed Assets as set forth in Exhibit "D" to this Agreement. Printcafe
+shall pay Creo its Fully Loaded Costs as provided in the Strategic Alliance
+Agreement, for such support and services.
+
+6.       WARRANTIES, INDEMNIFICATION AND LIMITATION OF LIABILITY.
+
+         6.1 WARRANTIES.
+
+                  (A) Printcafe represents and warrants that: (i) it is a
+         corporation duly organized, validly existing, and in good standing
+         under the laws of the State of Delaware and has full power and
+         authority to enter into this Agreement and perform its obligations
+         hereunder; (ii) as at the Effective Date Printcafe Systems shall own or
+         validly license all
+
+
+                                       11
+<PAGE>
+
+         right, title and interest in and to the Printchannel Workflow Assets
+         free and clear of all Liens; (iii) Printcafe Systems has the legal
+         right to grant all the rights it purports to grant and to convey all
+         the rights it purports to convey pursuant to Section 2.1 above; (iv) it
+         has sold, transferred or assigned to Creo or caused any Printcafe
+         Affiliate to sell, transfer or assign to Creo, all of the Printchannel
+         Workflow Assets acquired by Printcafe or any Printcafe Affiliate; (v)
+         it has entered into a license agreement with ImageX (the "ImageX
+         License") and the rights received pursuant to the ImageX License will
+         permit Printcafe to license the Products to third parties without
+         infringing on any ImageX intellectual property rights; and (vi) it will
+         fulfill its obligations under the ImageX License and will not either
+         terminate the ImageX License (without the prior written consent of
+         Creo) or materially breach the ImageX License.
+
+                  (B) Creo represents and warrants that: (a) it is a corporation
+         duly organized, validly existing, and in good standing under the
+         federal laws of Canada and has full power and authority to enter into
+         this Agreement and perform its obligations hereunder, and (b) provided
+         the grants, conveyances and assignments made under Section 2.1 above
+         are effective, it has the legal right to grant all the rights it
+         purports to grant pursuant to Section 3.1 above.
+
+                  (C) EXCEPT AS PROVIDED IN THIS SECTION 6.1, EACH PARTY
+         DISCLAIMS ALL WARRANTIES, EITHER EXPRESS, IMPLIED OR STATUTORY,
+         INCLUDING BUT NOT LIMITED TO ANY (IF ANY) IMPLIED WARRANTIES OF
+         MERCHANTABILITY, OR FITNESS FOR A PARTICULAR PURPOSE OR LACK OF
+         WORKMANLIKE CONDUCT OR EFFORT. SPECIFICALLY, CREO MAKES NO WARRANTY OF
+         TITLE, AUTHORITY OR NON-INFRINGEMENT IN ANY LICENSED ASSETS.
+
+         6.2 INDEMNIFICATION.
+
+                  (A) Printcafe shall indemnify Creo and its directors,
+         officers, employees and agents (each a "Creo Claimant") and defend and
+         hold each of them harmless from and against any and all losses,
+         damages, liabilities, costs and expenses (including reasonable
+         attorneys' fees and expenses) (collectively, "Losses") in connection
+         with any and all liability, suits, investigations, claims or demands
+         (collectively, "Claims"), arising from or occurring as a result of (i)
+         Printcafe Systems' transfer and sale of the Printchannel Workflow
+         Assets pursuant to Section 2.1; (ii) Printcafe Systems' use of the
+         Licensed Assets, Workflow and Content Functionality Improvements by
+         Creo pursuant to Section 5.3 hereof, and any bug fixes made by Creo
+         with respect to the foregoing, and (iii) any related support and
+         servicing provided by Creo pursuant to Section 5.5 hereof, provided,
+         however, that for greater certainty this Subsection 6.2(a) shall not
+         apply to Losses related to an Workflow and Content Functionality
+         Improvements by Creo pursuant to Section 5.2 hereof.
+
+                  (B) If any action or proceeding in which a Claims is
+         threatened or commenced against a Creo Claimant by or on behalf of any
+         person other than Printcafe or its Affiliates (a "Third Party") and
+         which, if maintained or enforced, might result in a Loss of the nature
+         described in Subsection 6.2(a), then:
+
+
+                                       12
+<PAGE>
+
+                           (1) notice thereof shall be given to Printcafe as
+                  promptly as practicable;
+
+                           (2) Printcafe shall have the right, exercisable by
+                  giving notice to Creo not later than 30 days after receipt of
+                  the notice described in Subsection 6.2(b)(1), to assume the
+                  control of the defense, compromise or settlement of the Claim,
+                  provided that: (i) Printcafe shall first deliver to the Creo
+                  Claimant its written consent to be joined as a party to any
+                  action or proceeding relating thereto; and, (ii) Printcafe
+                  shall at the Creo Claimant's request furnish it with
+                  reasonable assurances of its ability to pay any costs or other
+                  liabilities to which it may be or become exposed by reason of
+                  such defense, compromise or settlement;
+
+                           (3) Upon the assumption of control by Printcafe as
+                  aforesaid, Printcafe shall, at its expense, diligently proceed
+                  with the defense, compromise or settlement of the Claim at
+                  Printcafe's sole expense, including employment of counsel
+                  reasonably satisfactory to the Creo Claimant, and in
+                  connection with such proceedings, the Creo shall cooperate
+                  fully, but at the expense of Printcafe, to make available to
+                  Printcafe all pertinent information and witnesses under Creo's
+                  control and to make such assignments and take such other steps
+                  as in the opinion of counsel for Printcafe are necessary to
+                  enable Printcafe to conduct such defense, provided always that
+                  any Creo Claimant shall be entitled to reasonable assurances
+                  from Printcafe of its ability to pay any expense, costs or
+                  other liabilities to which it may be or may become exposed by
+                  reason of such co-operation.
+
+                           (4) The final determination of any such Claim,
+                  including all related costs and expenses, will be binding and
+                  conclusive upon Printcafe as to the validity or invalidity, as
+                  the case may be, of such Claim against Printcafe by the Creo
+                  Claimant.
+
+                           (5) Should Printcafe fail to give notice to Creo or
+                  the Creo Claimant as provided in Subsection 6.2(b)(1), a Creo
+                  Claimant shall be entitled to make such settlement of the
+                  Third Party as in its sole discretion may appear advisable
+                  subject to the consent of Printcafe, not to be unreasonably
+                  withheld or delayed, and such settlement or any other final
+                  determination of the Claim shall be binding upon Printcafe.
+
+                  (C) Notwithstanding anything to the contrary in this Section
+         6.2, neither party shall not consent to the entry of any judgment or
+         enter into any settlement affecting the Creo Claimant, to the extent
+         that the judgment or settlement involves more than the payment of
+         money, without the prior written consent of the Creo Claimant.
+
+         6.3 LIMITATION OF LIABILITY. CREO'S LIABILITY ARISING UNDER THIS
+AGREEMENT WILL NOT EXCEED THE AMOUNTS RECEIVED BY CREO FROM PRINTCAFE HEREUNDER.
+IN NO EVENT SHALL EITHER PARTY BE LIABLE UNDER THIS AGREEMENT OR FOR BREACH
+HEREOF FOR ANY INDIRECT, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES OF ANY
+KIND, INCLUDING WITHOUT LIMITATION LOST PROFITS OR LOSS OF BUSINESS, EVEN IF
+SUCH
+
+
+                                       13
+<PAGE>
+
+PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES AND NOTWITHSTANDING
+THE FAILURE OF THE ESSENTIAL PURPOSE OF ANY LIMITED REMEDY. PRINTCAFE
+ACKNOWLEDGES THAT FEES AGREED UPON BY CREO AND PRINTCAFE ARE BASED IN PART UPON
+THESE LIMITATIONS, AND THAT THESE LIMITATIONS WILL APPLY NOTWITHSTANDING ANY
+FAILURE OF ESSENTIAL PURPOSE OF ANY LIMITED REMEDY.
+
+7.       EFFECTIVE DATE, TERM AND TERMINATION.
+
+         7.1 TERM. This Agreement is effective as of the Effective Date, and
+will continue in effect in perpetuity unless earlier terminated pursuant to this
+Section 7.
+
+         7.2 TERMINATION BY CREO. Creo may terminate this Agreement on written
+notice to Printcafe, including the licenses granted under Section 3, if:
+
+                  (A) Printcafe breaches any covenant contained in Sections 3.4,
+         3.5 and 3.7 or Section 9;
+
+                  (B) the Strategic Alliance Agreement has expired or otherwise
+         been terminated;
+
+                  (C) Printcafe fails to make payment under Section 4 and such
+         non-payment is not cured within seven (7) days of receipt or deemed
+         receipt of written notice thereof;
+
+                  (D) Printcafe breaches any other material representation,
+         warranty, covenant or condition of this Agreement and such breach is
+         not cured within thirty (30) days of receipt or deemed receipt of
+         written notice thereof; and
+
+                  (E) a Change of Control occurs; provided, however, that Creo
+         delivers, within thirty (30) days of Creo obtaining actual knowledge of
+         such Change of Control, written notice of its intention to terminate
+         this Agreement in accordance with this Subsection 7.2(e) upon the
+         expiry of a One hundred and eighty (180) day transition period from the
+         date of such notice (such 180 day period referred to herein as the
+         "Transition Period").
+
+         7.3 TERMINATION DUE TO BANKRUPTCY, ETC. In the event Printcafe:
+
+                  (A) becomes insolvent;
+
+                  (B) voluntarily files or has filed against it a petition under
+         applicable bankruptcy or insolvency laws which Printcafe fails to have
+         released within forty-five (45) days after filing;
+
+                  (C) proposes any dissolution, composition or financial
+         reorganization with creditors or if a receiver, trustee, custodian or
+         similar agent is appointed or takes possession with respect to all or
+         substantially all property or business of Printcafe; or
+
+                  (D) Printcafe makes a general assignment for the benefit of
+         creditors,
+
+
+                                       14
+<PAGE>
+
+Creo may, to the extent permitted by applicable law and subject to the interim
+license granted in this Section 7.3, terminate this Agreement by giving a
+written termination notice, which termination shall become effective upon the
+receipt or deemed receipt pursuant to Section 8. To the extent applicable law
+prevents Creo from terminating this Agreement, if it should wish to do so as
+described above, then the parties shall have only those rights and remedies
+permitted by applicable law, including the United States Bankruptcy Act. Upon
+any termination in accordance with this Section 7.3 and subject to Printcafe
+having satisfied all payments to be made to Creo under this Agreement as at the
+termination date, Creo will be deemed to have granted to Printcafe, for a period
+of six (6) months after any termination of this Agreement, a limited, worldwide,
+non-exclusive, non-transferable, non-assignable, non-sublicensable license to
+use Object Code and Source Code versions of the Licensed Assets to continue to
+provide only printchannel Classic and Print I/O Product(s) as constituted on the
+Effective Date, together with any bug fixes made by Creo from time to time.
+
+         7.4 TERMINATION BY PRINTCAFE. Printcafe may terminate this Agreement on
+written notice to Creo, if:
+
+                  (A) the Strategic Alliance Agreement has expired or otherwise
+         been terminated provided, however, that: (i) Printcafe delivers, within
+         thirty (30) days of the expiry or termination of Strategic Alliance
+         Agreement, written notice of its intention to terminate this Agreement
+         in accordance with this Subsection 7.4(a) upon the expiry of a
+         Three-hundred and Sixty-five (365) day termination period from the date
+         of such notice (such 365 day period referred to herein as the
+         "Printcafe Termination Period"); (ii) Printcafe is in good standing
+         with respect to all payments to be made to Creo under this Agreement at
+         the time of delivery of such notice of intention ; and (iii) Printcafe
+         pays to Creo the greater of: (A) five times (5x) the aggregate
+         royalties payable or paid to Creo hereunder for the twelve (12) months
+         prior to the expiry or termination of Strategic Alliance Agreement; and
+         (B) $750,000; in either case one-half to be paid at the time of
+         delivery of the notice of intention and the balance as at the end of
+         the Printcafe Termination Period; or
+
+                  (B) Creo breaches any material representation, warranty,
+         covenant or condition of this Agreement and such breach has not been
+         cured within thirty (30) days after written notice thereof.
+
+         7.5 EFFECT OF TERMINATION. Without limiting any other rights and
+remedies available to the terminating party, upon termination of this Agreement,
+except as otherwise provided herein all licenses granted to Printcafe hereunder
+shall terminate and Printcafe shall:
+
+                  (A) promptly cease the provision of any ASP Service based on
+         the Licensed Assets to any new customers;
+
+                  (B) promptly cease use of the Licensed Assets including its
+         use the Workflow and Content Functionality Source Code on any
+         processor;
+
+
+                                       15
+<PAGE>
+
+                  (C) return the master copies of the Workflow and Content
+         Functionality Source Code and return or destroy all copies of the
+         Workflow and Content Functionality Source Code and related
+         documentation; and
+
+                  (D) certify in writing to Creo that it has performed these
+         acts.
+
+Failure by Printcafe to comply with the obligations set forth in this Section
+7.5 within seven (7) days of termination of this Agreement will entitle Creo to
+the immediate payment by Printcafe of $10,000 per day representing a true
+estimate of additional damages suffered by Creo, that such non-compliance shall
+continue. Such payment shall be in addition to and without limitation to any
+right or remedy available to Creo at law or equity.
+
+         7.6 SURVIVAL. Articles 2, 4, 6, 9 and 10 and Sections 7.3, 7.5, 11.2
+and 11.3, as well as any accrued but unpaid payment obligations, shall survive
+the termination of this Agreement.
+
+8.       NOTICES.
+
+         8.1 Any demand, notice or other communication (a "Communication") to be
+made or given in connection with this Agreement shall be made or given in
+writing and may be made or given by nationally recognized overnight courier,
+facsimile, personal delivery or by registered mail addressed to the applicable
+recipient as follows:
+
+                  (A)      In the case of Printcafe:
+
+                           Forty 24th Street
+                           Pittsburgh, PA  15222
+
+                           Facsimile:    412-456-1151
+                           ATTENTION:    MARC OLIN, PRESIDENT
+
+                  (B)      In the case of Creo:
+
+                           3700 Gilmour Way
+                           Burnaby, British Columbia  V5G 4M1
+
+                           Facsimile:    604-437-9891
+                           ATTENTION:    AMOS MICHELSON, CHIEF EXECUTIVE OFFICER
+
+         8.2 Any notice, waiver, direction or other instrument or communication
+if delivered will be deemed to have been validly and effectively given on the
+date on which it was delivered and, if sent by facsimile transmission or
+nationally recognized overnight delivery service, will be deemed to have been
+validly and effectively given on the next business day (being a day other than a
+Saturday, Sunday or statutory holiday) following the day on which it was sent;
+provided that, if the day of delivery is not a business day, such notice,
+waiver, direction or other instrument or communication will be deemed to have
+been given and received on the next business day following such date.
+
+
+
+                                       16
+<PAGE>
+
+         8.3 Any party hereto may change its address for notices or service from
+time to time by written notice given in accordance with this Section 8.
+
+9.       CONFIDENTIALITY.
+
+         9.1 CONFIDENTIAL INFORMATION. By virtue of this Agreement, the parties
+may have access to information that is confidential to one another
+("Confidential Information"). Confidential Information shall be limited to (i)
+the Source Code related to any Printchannel Workflow Assets, (ii) Revenue
+reports and related supporting documentation; (iii) the Source Code related to
+any Technology; and (iv) all information clearly marked as confidential. A
+party's Confidential Information shall not include information which:
+
+                  (A) is or becomes a part of the public domain through no act
+         or omission of the other party;
+
+                  (B) is lawfully disclosed to the other party by a third party
+         without restriction on disclosure, or
+
+                  (C) is required to be disclosed by order of a court, tribunal
+         or government agency of competent jurisdiction, provided that the party
+         which is subject to such order shall provide the disclosing party with
+         prompt notice of the order and shall cooperate with the disclosing
+         party in the exercise of its right to protect the confidentiality of
+         the Confidential Information before any such court, tribunal or
+         government agency.
+
+         9.2 CONFIDENTIAL TREATMENT. The parties agree, both during the terms of
+this Agreement and for a period of two years after termination of this Agreement
+and of all licences granted hereunder, to hold each other's Confidential
+Information in confidence. The parties agree not to make each other's
+Confidential Information available in any form to any third party or to use each
+other's Confidential Information for any purpose other than the implementation
+of this Agreement. Each party agrees to take all reasonable steps to ensure that
+Confidential Information is not disclosed or distributed by its employees or
+agents in violation of the provisions of this agreement.
+
+10.      PUBLICITY.
+
+         10.1 NO DISCLOSURE. Neither party shall, without the prior consent of
+the other party, make any disclosure regarding the existence, purpose, scope,
+content, terms or conditions of this Agreement or other agreements relating
+thereto save to the extent such disclosure comprises information substantially
+already publicly available or unless it is necessary for that party to make such
+disclosure in order to comply with a statutory obligation or the requirements of
+a competent government or statutory agency; provided that, where practicable, a
+copy of any proposed announcement or statement shall be furnished to Creo in
+advance of the proposed date of publication and Creo shall have a reasonable
+opportunity to review such disclosure and comment as deemed necessary. Nothing
+herein shall prevent disclosure of the terms of this Agreement to any parties
+directors, officers, employees or agents or its financial, legal, accounting or
+other advisors.
+
+11.      GENERAL.
+
+
+
+                                       17
+<PAGE>
+
+         11.1 INDEPENDENT CONTRACTOR STATUS. Each party agrees and acknowledges
+that in its performance of its obligations under this Agreement, it is an
+independent contractor of the other party, and is solely responsible for its own
+activities. Neither party shall have any authority to make commitments or enter
+into contracts on behalf of, bind or otherwise obligate the other party in any
+manner whatsoever. No joint venture, franchise or partnership is intended to be
+formed by this Agreement.
+
+         11.2 EXPORT CONTROL. Printcafe shall comply, and shall cause its
+distributors to comply, with all United States laws and regulations controlling
+the export of certain commodities and technical data, including without
+limitation all Export Administration Regulations of the United States Department
+of Commerce. Among other things, these laws and regulations prohibit or require
+a license for the export of certain types of commodities and technical data to
+specified countries. Printcafe hereby gives written assurance that it will
+comply, and will cause its distributors to comply, with all United States export
+control laws and regulations, that it bears sole responsibility for any
+violation of such laws and regulations by it and or its distributors.
+
+         11.3 PAYMENT AND INTEREST. Payments hereunder shall be made at the
+principal office address of Creo as set out in Subsection 8.1(a), or at such
+other place as Creo shall have notified the undersigned in writing, in
+immediately available funds. Interest on all late Royalties and any other sums
+due to Creo under this Agreement shall be charged at the rate of 24% per annum,
+compounded monthly, until payment is received.
+
+         11.4 ENTIRE AGREEMENT. This Agreement and the documents referred to
+herein are the product of both Creo and the Printcafe, and constitute the entire
+agreement between such parties pertaining to the subject matter hereof and
+thereof, and merge all prior negotiations and drafts of the parties with regard
+to the transactions contemplated herein and therein. Any and all other written
+or oral agreements existing between such parties hereto regarding such
+transactions are expressly canceled.
+
+         11.5 AMENDMENTS AND WAIVERS. Any term of this Agreement may be amended
+or waived only with the written consent of the parties or their respective
+successors and assigns. Any amendment or waiver effected in accordance with this
+Section shall be binding upon the parties and their respective successors and
+assigns.
+
+         11.6 SEVERABILITY. If one or more provisions of this Agreement are held
+to be unenforceable under applicable law, the parties agree to renegotiate such
+provision in good faith, in order to maintain the economic position enjoyed by
+each party as close as possible to that under the provision rendered
+unenforceable. In the event that the parties cannot reach a mutually agreeable
+and enforceable replacement for such provision, then (i) such provision shall be
+excluded from this Agreement, (ii) the balance of this Agreement shall be
+interpreted as if such provision were so excluded and (iii) the balance of this
+Agreement shall be enforceable in accordance with its terms.
+
+         11.7 ASSIGNMENT; SUCCESSORS AND ASSIGNS. This Agreement shall not be
+transferred, assigned or delegated by Printcafe, by operation of law or
+otherwise, without the express prior written consent of Creo. Any purported
+transfer, assignment or delegation without such prior written consent will be
+null and void and of no force or effect. The terms and conditions of this
+
+                                       18
+<PAGE>
+
+Agreement shall inure to the benefit of and be binding upon the respective
+successors and permitted assigns of the parties. Nothing in this Agreement,
+express or implied, is intended to confer upon any party other than the parties
+hereto or their respective successors and assigns any rights, remedies,
+obligations, or liabilities under or by reason of this agreement, except as
+expressly provided in this Agreement.
+
+         11.8 RESOLUTION OF CERTAIN DISPUTES. Any dispute arising out of or in
+connection with Section 2.2, the calculation of Royalties payable pursuant to
+this Agreement; or the determination of Fair market Value or Fully Loaded Costs
+as set forth in this Agreement will be finally settled by binding arbitration at
+Chicago, Illinois in accordance with the then-current Commercial Arbitration
+Rules of the American Arbitration Association by three arbitrators appointed in
+accordance with such rules. Each party shall select one such arbitrator, and the
+two arbitrators so chosen shall select the third arbitrator. The arbitrators
+shall apply Delaware law, without reference to rules of conflicts of law or
+rules of statutory arbitration, to the resolution of any dispute. Judgment on
+the award rendered by the arbitrator may be entered in any court having
+jurisdiction thereof. Notwithstanding the foregoing, the parties may apply to
+any court of competent jurisdiction for preliminary or interim equitable relief,
+or to compel arbitration in accordance with this Section 11.7, without breach of
+this arbitration provision.
+
+         11.9 GOVERNING LAW. This Agreement and all acts and transactions
+pursuant hereto and the rights and obligations of the parties pursuant to this
+Agreement shall be governed, construed and interpreted in accordance with the
+laws of the State of Delaware, without giving effect to principles of conflicts
+of law.
+
+         11.10 WAVIER OF TRIAL BY JURY. TO THE EXTENT PERMITTED BY LAW,THE
+PARTIES HERETO HEREBY WAIVE THE RIGHT TO A TRIAL BY JURY IN ANY COURT AND IN ANY
+ACTION OR PROCEEDING OF ANY TYPE IN WHICH THE PARTIES HERETO OR THEIR RESPECTIVE
+SUCCESSORS OR PERMITTED ASSIGNS IS A PARTY AS TO ALL MATTERS AND THINGS ARISING
+OUT OF OR RELATING TO THIS AGREEMENT.
+
+         11.11 INJUNCTIVE RELIEF. The copying, disclosure, or use of the
+Licensed Assets or Improvements or Derivative Works thereto in a manner
+inconsistent with any provision of this Agreement may cause irreparable injury
+to Creo for which Creo may not have an adequate remedy at law. Creo may be
+entitled to equitable relief in court, including but not limited to temporary
+restraining orders, preliminary injunctions and permanent injunctions.
+
+         11.12 ATTORNEYS' FEES. In any action to enforce this Agreement, the
+prevailing party shall be awarded all court costs and reasonable attorneys' fees
+incurred, including such costs and attorneys' fees incurred in enforcing and
+collecting any judgment.
+
+         11.13 CONSTRUCTION OF AGREEMENT. This Agreement has been negotiated by
+the respective parties hereto and their attorneys and the language hereof shall
+not be construed for or against any party. The titles and headings herein are
+for reference purposes only and shall not in any manner limit the construction
+of this Agreement, which shall be considered as a whole.
+
+
+                                       19
+<PAGE>
+
+         11.14 COUNTERPARTS. This Agreement may be executed in two or more
+counterparts, each of which shall be deemed an original and all of which
+together shall constitute one instrument.
+
+
+                                       20
+<PAGE>
+
+
+         IN WITNESS WHEREOF, the parties have caused this IP Purchase and
+License Agreement to be executed as of the date first written above by their
+officers thereunto duly authorized.
+
+                            CREO INC.
+
+                            By:
+                               ---------------------------------------------
+                            Name:
+                            Title:
+
+                            PRINTCAFE SOFTWARE, INC.
+
+                            By:
+                               ---------------------------------------------
+                            Name:
+                            Title:
+
+                            PRINTCAFE SYSTEMS, INC.
+
+                            By:
+                               ---------------------------------------------
+                            Name:
+                            Title:
+
+
+
+
+                                       21
+<PAGE>
+
+
+                                   EXHIBIT "A"
+
+                               TRANSFERRED ASSETS
+
+
+
+                                       22
+<PAGE>
+
+
+                                   EXHIBIT "B"
+
+                             CUSTOMER LICENSE TERMS
+
+1.   Printcafe retain exclusive ownership of all intellectual property rights in
+     or to the licensed software, and no title to such intellectual property
+     rights is transferred to the customer.
+
+2.   The customer shall not reverse engineer, disassemble, decompile, or
+     otherwise attempt to derive source code from the licensed software.
+
+3.   The customer shall comply with all export and re-export restrictions and
+     regulations of the Department of Commerce or other United States agency or
+     authority, and not to transfer, or authorize the transfer, of the Products
+     to a prohibited country or otherwise in violation of any such restrictions
+     or regulations.
+
+
+
+                                       23
+<PAGE>
+
+
+                                  SCHEDULE "C"
+
+                               ROYALTIES AND FEES
+
+1.   Printcafe shall pay to Creo a royalty comprised of ten percent (10%) of the
+     Revenue during the term of the Agreement and 25% of the Revenue during any
+     Transition Period as defined in the Agreement.
+
+2.   Royalty Bearing Assets shall be deemed to have been sold by Printcafe and
+     included in the Revenue when invoiced, or if not invoiced, then when
+     delivered, shipped, or paid for, whichever is the first. Credit shall be
+     given to refunds of cash advances provided by customers of Royalty Bearing
+     Assets where such refunds are made because of termination by the customer
+     of the product or service to be provided.
+
+3.   Any transaction, disposition, or other dealing involving Royalty Bearing
+     Assets between Printcafe and another Person that is not made at their
+     respective Fair Market Value (without giving effect to any bundling or
+     combination incentives or discounts) shall be deemed to have been made at
+     their respective Fair Market Value, and the Fair Market Value of that
+     transaction, disposition, or other dealing shall be added to and deemed
+     part of the Revenue, as the case may be, and shall be included in the
+     calculation of Royalties under this Agreement. The parties acknowledge that
+     the list price for a Royalty Bearing Asset shall not be presumed to be the
+     Fair Market Value for such product and that discounts from such list price
+     (whether in connection with the sale of other products to a customer or
+     otherwise) shall not be presumed to be at less than the Fair Market Value
+     for a Royalty Bearing Asset. Determinations of Fair Market Value shall
+     include current market conditions, past dealings with a customer and the
+     amount of revenue generated or potentially generated by a transaction.
+
+
+
+
+                                       24
+<PAGE>
+
+
+                                  SCHEDULE "D"
+
+                     PRODUCT AND TECHNICAL SUPPORT SERVICES
+
+1.   DEVELOPMENT SUPPORT. Creo will provide Printcafe with a reasonable level of
+     support by telephone, e-mail, fax or, if requested by Printcafe, in person
+     at Creo's head office address in Burnaby, British Columbia, Canada, during
+     Creo's normal business hours (8:00 am - 5:00 pm PST, excluding holidays) in
+     connection with Printcafe's use of the Licensed Assets, to develop and
+     support the Product(s), including the use of reasonable commercial efforts:
+
+     (i)  to answer Printcafe's questions regarding the proper utilization and
+          optimization of the Licensed Assets; and
+
+     (ii) to provide solutions, workarounds and/or patches to correct any
+          reproducible error in the Licensed Assets.
+
+     Printcafe shall designate a qualified individual to act as primary
+     technical liaison for communications with Creo's technical support staff.
+     Creo shall designate a qualified individual to act as primary and secondary
+     technical liaison for communications with Printcafe's technical support
+     staff.
+
+2.   CUSTOMER SUPPORT. Printcafe shall be solely responsible for First Level
+     Support and Second Level Support of the Product(s). The parties agree to
+     work together to develop and facilitate the call handling processes to
+     provide seamless customer support and technical service to end users of the
+     Product(s). In addition, Creo will provide Printcafe with Third Level
+     Support during the term of this Agreement.
+
+3.   TECHNICAL SUPPORT.
+
+
+(a)  Technical Support Levels. For the purposes of Section 2 above, "Level"
+     means a certain class of service provided for the Product(s). Definitions
+     are as follows:
+
+
+     (i)   "First Level Support" means first call support on all customer calls;
+           technical support staff answers technical inquiries regarding
+           Product(s), performs Product(s) configuration support, if applicable,
+           and provides broad troubleshooting expertise.
+
+     (ii)  "Second Level Support" means specialist level technical support;
+           technical support/escalation staff performs problem isolation and
+           replication, and implements a solution for a problem that is not
+           the result of a Licensed Asset error. In the case of a Licensed
+           Asset error, the technical staff is able to identify the source
+           of the error, create a reproducible test case, and document the
+           details of the error for escalation to Creo.
+
+     (iii) "Third Level Support" means backup technical support to
+           representatives of Printcafe's Second Level Support team (the
+           "Authorized Callers"). Creo will identify to Printcafe its technical
+           support personnel for the Licensed Assets (the "Designated Support
+           Personnel"). The Authorized Callers and Designated Support Personnel
+           will be the primary contacts between Creo's and Printcafe's technical
+           support and/or escalation centers.
+
+
+                                       25
+<PAGE>
+
+(b)  Support Timing. Creo shall make Third Level Support available via
+     telephone, FAX or E-Mail solely to Printcafe's Authorized Callers during
+     Creo's normal business hours (8:00 am -- 5:00 pm PST, excluding holidays).
+     Creo shall use reasonable commercial efforts to answer support questions
+     within the timeframes mutually agreed by Creo and Printcafe. So long as
+     Creo is using reasonable commercial efforts to answer such questions,
+     Creo's inability to resolve answer such question shall not be deemed a
+     breach of the Agreement.
+
+4.   DIRECT CUSTOMER SUPPORT. Creo will not be obligated to provide direct
+     support of any kind to Printcafe's customers or end users pursuant to this
+     Agreement. Printcafe will provide sufficient information and/or training
+     regarding the Product(s) to Creo's Designated Support Personnel to enable
+     Creo to properly assist Printcafe in resolving problems.
+
+5.   REIMBURSEMENT. Printcafe shall reimburse Creo for its Fully Loaded Costs in
+     accordance with the Strategic Alliance Agreement which is associated with
+     any Development Support, Customer Support or Technical Support provided
+     pursuant to this Agreement.
+
+6.   SUPPORT PERSONNEL. Creo shall determine, at its sole discretion, the number
+     of personnel required for Development Support, Customer Support or
+     Technical Support provided pursuant to this Agreement. Creo shall exercise
+     that discretion in a commercially reasonable manner. Creo shall initially
+     allocate one person with respect to such support.
+
+
+                                       26
+
+
+</TEXT>
+</DOCUMENT>

@@ -1,0 +1,4151 @@
+<DOCUMENT>
+<TYPE>EX-10.40
+<SEQUENCE>7
+<FILENAME>dex1040.txt
+<DESCRIPTION>SOFTWARE LICENSING AGREEMENT
+<TEXT>
+<PAGE>
+
+                                                                   Exhibit 10.40
+
+                      CONFIDENTIAL TREATMENT REQUESTED BY
+                              CBOT HOLDINGS, INC.
+
+
+                                                                       EXECUTION
+
+                           SOFTWARE LICENSE AGREEMENT
+
+     This Software License Agreement (this "Agreement"), dated as of January 10,
+2003, is among LIFFE ADMINISTRATION AND MANAGEMENT, a company incorporated in
+England and Wales ("LIFFE"), and BOARD OF TRADE OF THE CITY OF CHICAGO, INC., a
+Delaware corporation (the "CBOT"). Capitalized terms used but not otherwise
+defined herein shall have the meanings ascribed thereto in Section 1.
+
+                                    RECITALS
+
+     A. LIFFE has devised and developed an automated derivatives trading and
+order matching system known as "LIFFE CONNECT(TM)" to facilitate the trading of
+certain securities, futures, and options contracts.
+
+     B. The CBOT wishes to obtain from LIFFE a license to use and/or access
+certain components of the LIFFE CONNECT system, and certain other software as
+LIFFE may develop or provide pursuant to any Development Services Agreement
+and/or Managed Services Agreement that may be entered into by LIFFE and the
+CBOT.
+
+     C. LIFFE has agreed to license to the CBOT, subject to the terms and
+conditions hereof, the right (a) to use and/or access certain components of the
+LIFFE CONNECT system as well as any Upgrades as LIFFE may provide pursuant to
+any Managed Services Agreement between LIFFE and the CBOT, and any software that
+may be developed or provided by LIFFE pursuant to any Development Services
+Agreement and/or Managed Services Agreement that may be entered into by LIFFE
+and the CBOT; and (b) to sublicense the right to use and/or access the API
+and/or other Interfaces to Members, Independent Software Vendors, Quote Vendors,
+and other Persons wishing to participate in the CBOT Electronic Exchange.
+
+     In consideration of the recitals and the mutual covenants and agreements
+hereinafter set forth, the Parties hereto (each a "Party" and collectively the
+"Parties") agree as follows:
+
+                                    AGREEMENT
+
+1.   Definitions
+
+     In this Agreement, the following expressions shall mean, respectively:
+
+     "AAA" shall have the meaning set forth in Section 19.3.
+
+     "AAA Rules" shall have the meaning set forth in Section 19.3.
+
+     "Affiliate" means any Person that, directly or indirectly, controls, is
+     controlled by or is under common control with a specified Person.
+
+     "Agreement" shall have the meaning set forth above.
+
+     "Amendment No. 4" shall have the meaning set forth in Section 25.
+
+     "API" means the LIFFE CONNECT application programming interface from a
+     Trading Application to the Trading Host.
+
+                  CONFIDENTIAL INFORMATION REDACTED AND FILED
+       SEPARATELY WITH THE COMMISSION. OMITTED PORTIONS INDICATED BY [**]
+
+<PAGE>
+
+                      CONFIDENTIAL TREATMENT REQUESTED BY
+                              CBOT HOLDINGS, INC.
+
+
+     "Arbitration Fees" shall have the meaning set forth in Section 19.3.7.
+
+     "Auditor" shall have the meaning set forth in Section 3.2.2.2.
+
+     "Bug Fixes" means any patch or other changes or modifications created for
+     the primary purpose of remedying a defect in the Software.
+
+     "Business Day" means any calendar day other than any Saturday, Sunday, U.S.
+     bank holiday, and U.K. public or bank holiday.
+
+     "CBOT Electronic Exchange" means the electronic facility for the trading of
+     derivatives products listed from time to time by the CBOT in its capacity
+     as a derivatives exchange.
+
+     "CBOT Indemnitees" shall have the meaning set forth in Section 17.1.
+
+     "CBOT Open Outcry Facility" means the open outcry facility for the trading
+     of derivatives products listed from time to time by the CBOT in its
+     capacity as a derivatives exchange.
+
+     "CBOT's Premises" means those locations owned or controlled by the CBOT.
+
+     "CBOT's Property" shall have the meaning set forth in Section 13.2.
+
+     "CBOT Technology" means any software or equipment (other than Equipment) or
+     other technology owned by the CBOT or licensed to the CBOT by a Person
+     other than LIFFE.
+
+     "CFTC" means the United States Commodity Futures Trading Commission.
+
+     "Claim" shall have the meaning set forth in Section 17.1.
+
+     "Confidential Information" shall have the meaning set forth in
+     Section 14.1.
+
+     "Contractor" shall have the meaning set forth in the Interface Sublicense
+     Agreement.
+
+     "Control" or "control" means the possession, direct or indirect, of fifty
+     percent (50%) or more of the equity interests of another Person or the
+     power otherwise to direct or cause the direction of the management and
+     policies of such other Person, whether through ownership of voting
+     securities, by contract or otherwise.
+
+     "Delegate" means a Person who has leased a CBOT membership from a Member in
+     accordance with CBOT rules and is thereby subject to the transaction fees
+     applicable to Delegates with respect to the CBOT mini-Eurodollar futures
+     contract.
+
+     "Deposit Materials" shall have the meaning set forth in Section 7.1(a).
+
+     "Development Services Agreement" means any agreement that may be entered
+     into by LIFFE and the CBOT subsequent to the Effective Date, pursuant to
+     which LIFFE agrees to develop software applications for the CBOT Electronic
+     Exchange.
+
+     "Development Services Deliverables" means any software and/or documentation
+     provided to the CBOT by LIFFE pursuant to any Development Services
+     Agreement, which software and/or
+
+
+                  CONFIDENTIAL INFORMATION REDACTED AND FILED
+       SEPARATELY WITH THE COMMISSION. OMITTED PORTIONS INDICATED BY [**]
+
+                                       2
+
+<PAGE>
+
+                      CONFIDENTIAL TREATMENT REQUESTED BY
+                              CBOT HOLDINGS, INC.
+
+
+     documentation has been accepted by the CBOT pursuant to the terms of such
+     Development Services Agreement.
+
+     "Disputes" shall have the meaning set forth in Section 19.1.
+
+     "Documentation" means, collectively, the operating manuals, user
+     instructions, technical literature, and other documentation supplied by
+     LIFFE to the CBOT for purposes of assisting the CBOT's use of and/or access
+     to the Software, including such documentation set forth in Part 2 of
+     Schedule A.
+
+     "Effective Date" shall mean January 10, 2003.
+
+     "Equipment" means the computer hardware including processors, memory,
+     discs, screens, printers, routers, and hubs to be used with the Software.
+
+     "Escrow Agreement" shall have the meaning set forth in Section 7.1.
+
+     "eSpeed" means eSpeed, Inc., a corporation organized and existing under the
+     laws of the State of Delaware, having a place of business at 299 Park
+     Avenue, 29th Floor, New York, New York 10171-0002.
+
+     "Euronext.liffe Exchanges" means the market administered by LIFFE and all
+     other derivatives trading markets comprised in the Euronext N.V. Group of
+     Companies as of the Effective Date.
+
+     "Euronext N.V. Group of Companies" means, collectively, Euronext N.V., a
+     company organized under the laws of the Netherlands, and all Affiliates of
+     Euronext N.V.
+
+     "Exclusivity Period" shall have the meaning set forth in Section 3.4.
+
+     "Fees" shall have the meaning set forth in Section 9.1.
+
+     "First Renewal Term" shall have the meaning set forth in Schedule I.
+
+     "Force Majeure Event" means any cause beyond a Party's reasonable control,
+     including, but not limited to, any flood, riot, fire, judicial or
+     governmental action, and labor disputes.
+
+     "Go-Live Date" means that date, agreed by the Parties, upon which the
+     Software is made available for use in a real time live trading environment.
+
+     "Holdings" shall have the meaning set forth in Section 25.
+
+     "ICDR" shall have the meaning set forth in Section 19.3.
+
+     "Independent Software Vendors" and "ISVs" mean those independent software
+     providers who develop systems via which access to the Trading Host may be
+     achieved.
+
+     "Initial Term" shall have the meaning set forth in Section 10.1.
+
+     "Interface Sublicense Agreement" shall have the meaning set forth in
+     Section 5.1.
+
+     "Interfaces" means, collectively, the API, the trade data interface, audit
+     data interface, standing data interface and market data interface.
+
+
+                  CONFIDENTIAL INFORMATION REDACTED AND FILED
+       SEPARATELY WITH THE COMMISSION. OMITTED PORTIONS INDICATED BY [**]
+
+                                       3
+
+<PAGE>
+
+                      CONFIDENTIAL TREATMENT REQUESTED BY
+                              CBOT HOLDINGS, INC.
+
+
+     "License" shall have the meaning set forth in Section 2.
+
+     "License Fee" means the fee for the License, as specified in Schedule I.
+
+     "Licensed Technology" means, collectively, (a) the object code versions of
+     the Software and (b) the Documentation.
+
+     "LIFFE CONNECT" means the electronic trading platform which is proprietary
+     to LIFFE, as such trading platform may be modified from time to time.
+
+     "LIFFE Indemnitees" shall have the meaning set forth in Section 17.2.
+
+     "LIFFE Property" shall have the meaning set forth in Section 13.1.
+
+     "Location" means those premises where the Software listed in Part 1 of
+     Schedule A is to be installed, as specified in Schedule B.
+
+     "Losses" shall have the meaning set forth in Section 17.1.
+
+     "Malicious Code" means any computer virus, Trojan horse, worm, time bomb,
+     or other similar code or hardware component designed to disrupt the
+     operation of, permit unauthorized access to, erase, or modify the Licensed
+     Technology or any operating system upon which the Licensed Technology is
+     installed, excluding security keys or other disabling elements of any
+     Software, which elements are designed to effect restrictions on the length
+     of time during which any Software may be used or the number of persons who
+     may use such Software.
+
+     "Managed Services Agreement" means any agreement that may be entered into
+     by LIFFE and the CBOT subsequent to the Effective Date, pursuant to which
+     LIFFE agrees to provide the CBOT services relating to the operation and
+     support of the CBOT Electronic Exchange.
+
+     "Market Data" means any representation that conveys, either directly or
+     indirectly, information and data pertaining to futures and/or options
+     traded on the CBOT including, but not limited to, market prices of such
+     futures or options, opening and closing price ranges, high-low prices,
+     settlement prices, estimated and actual contract volume, information
+     regarding market activity including exchange for physical transactions,
+     best bid, best offer, the size of the best bid or best offer or a discrete
+     number of best bids and best offers then pending on the CBOT Electronic
+     Exchange along with the corresponding size of each bid and offer.
+
+     "Media" means the media on which the Software and the Documentation are
+     recorded or printed as provided by LIFFE to the CBOT.
+
+     "Member" means any Person authorized by the CBOT to trade on the CBOT
+     Electronic Exchange.
+
+     "Non-Restricted Documentation" means all Documentation other than
+     Restricted Documentation, including the Documentation identified in Part
+     2(a) of Schedule A.
+
+     "[**]" shall have the meaning set forth in Section 3.2.2.2.
+
+     [**] shall have the meaning set forth in section 3.3.1.
+
+
+                  CONFIDENTIAL INFORMATION REDACTED AND FILED
+       SEPARATELY WITH THE COMMISSION. OMITTED PORTIONS INDICATED BY [**]
+
+                                       4
+
+<PAGE>
+
+                      CONFIDENTIAL TREATMENT REQUESTED BY
+                              CBOT HOLDINGS, INC.
+
+
+     "Out of Pocket Expenses" shall have the meaning set forth in Section 9.1.
+
+     "Party" and "Parties" shall have the meanings set forth above.
+
+     "Person" means an individual or a partnership, corporation, limited
+     liability company, trust, joint venture, joint stock company, association,
+     unincorporated organization, government agency or political subdivision
+     thereof, or other entity.
+
+     "Products Outside CBOT Field of Use" [**]
+
+     "Products Within CBOT Exclusive Field of Use" [**]
+
+     "Products Within CBOT Non-Exclusive Field of Use" [**]
+
+     "Quote Vendors" and "QVs" mean those vendors who receive and disseminate,
+     or wish to receive and disseminate, Market Data.
+
+     "Registration Statement" shall have the meaning set forth in Section 25.
+
+     "Relationship Manager" means that individual responsible on behalf of LIFFE
+     or the CBOT, as applicable, for the day to day management of the
+     relationship between LIFFE and the CBOT.
+
+     "Release Period" shall have the meaning set forth in Section 7.1(d).
+
+     "Renewal Term" shall have the meaning set forth in Section 10.2.
+
+     "Restricted Documentation" means Documentation that is designated by LIFFE
+     as "LIFFE Restricted" or otherwise specified by LIFFE to be restricted,
+     including the Documentation set forth in Part 2(b) of Schedule A.
+     Notwithstanding the foregoing, all documentation provided by LIFFE to the
+     CBOT prior to the Effective Date which is labeled "LIFFE Confidential" is
+     Restricted Documentation for purposes of this Agreement unless LIFFE, upon
+     the CBOT's inquiry, notifies the CBOT in writing that specific
+     Documentation is not "Restricted Documentation."
+
+     "SEC" shall have the meaning set forth in Section 25.
+
+     "Second Renewal Term" shall have the meaning set forth in Schedule I.
+
+
+                  CONFIDENTIAL INFORMATION REDACTED AND FILED
+       SEPARATELY WITH THE COMMISSION. OMITTED PORTIONS INDICATED BY [**]
+
+                                        5
+
+<PAGE>
+
+                      CONFIDENTIAL TREATMENT REQUESTED BY
+                              CBOT HOLDINGS, INC.
+
+
+     "Software" means, collectively, those software applications specified in
+     Part 1 to Schedule A, any Development Services Deliverables, and any
+     improvements, enhancements, additions, and modifications to or of the
+     foregoing as LIFFE may provide to the CBOT pursuant to the terms of any
+     Managed Services Agreement.
+
+     "Sublicensee" means any Member, ISV, QV or other Person to which the CBOT
+     wishes to sublicense a portion of the Licensed Technology.
+
+     "Taxes" shall have the meaning set forth in Section 9.2.
+
+     "Termination Notice Period" shall have the meaning set forth in Section
+     11.2.1.
+
+     "Third Party Materials" means any equipment, hardware, software, and/or
+     other products obtained from any third party.
+
+     "Trading Application" means any front-end trading application or other
+     software which interfaces with, and has been conformed with, the API.
+
+     "Trading Host" means the LIFFE CONNECT matching engine as may be developed
+     for the CBOT pursuant to the Development Services Agreement and used on
+     such Equipment as LIFFE may specify from time to time.
+
+     "TRS Technology" means that post-trade matching and clearing technology
+     used, as of the Effective Date, by LIFFE and the International Petroleum
+     Exchange, specifically, [**]
+
+     "Upgrades" means, collectively, improvements, enhancements, additions and
+     modifications to and of the Licensed Technology or any portion thereof
+     which LIFFE specifies for use and/or access as Licensed Technology.
+
+     "U.S." means the United States of America.
+
+     "Wagner/eSpeed Patent" means U.S. Letter Patent No. 4,903,201 (the '201
+     patent).
+
+     "Wagner License" shall have the meaning set forth in Section 16.2.
+
+2.   License
+
+     2.1 Grant of License. Subject to the terms and conditions hereof, LIFFE
+hereby grants to the CBOT a non-transferable right and license (the "License"):
+
+     (a)  from the Effective Date to the Go-Live Date, to use and/or access the
+          Licensed Technology as necessary for purposes of carrying out any
+          rights or obligations of the CBOT pursuant to any Development Services
+          Agreement; and
+
+     (b)  from the Go-Live Date to the effective date of termination of this
+          Agreement, (i) to use and/or access the TRS Technology for purposes of
+          operating the CBOT Electronic Exchange and the CBOT Open Outcry
+          Facility; (ii) to use and/or access the Licensed Technology (excluding
+          the TRS Technology) solely for purposes of operating the CBOT
+          Electronic Exchange; and (iii) to sublicense the right to use and/or
+          access the Interfaces and Documentation relating thereto to facilitate
+          the participation in the CBOT Electronic Exchange of Sublicensees.
+
+
+                  CONFIDENTIAL INFORMATION REDACTED AND FILED
+       SEPARATELY WITH THE COMMISSION. OMITTED PORTIONS INDICATED BY [**]
+
+                                       6
+
+<PAGE>
+
+                      CONFIDENTIAL TREATMENT REQUESTED BY
+                              CBOT HOLDINGS, INC.
+
+
+     2.2 Hosting. The CBOT shall not use the Licensed Technology, or any
+component thereof, to facilitate the trading of any derivative product, physical
+commodity or financial instrument listed by (a) any U.S. domiciled "organized
+exchange," "board of trade" or "trading facility" (as each such term is defined
+in the Commodity Futures Modernization Act of 2000) under the jurisdiction of
+the CFTC, other than the CBOT, or (b) any other third party exchange, board of
+trade, association, communication network, alternative trading system, trading
+facility or trading platform. For the avoidance of doubt, the foregoing
+limitation of the scope of the License shall not apply to Trading Applications.
+
+3.   Scope of License
+
+     The Parties acknowledge that (a) they will be making a significant
+investment in the customization and implementation of the Licensed Technology to
+trade products listed by the CBOT and the Euronext.liffe Exchanges,
+respectively, and (b) carrying out their obligations under this Agreement and
+any Development Services Agreement and/or Managed Services Agreement will
+necessitate access to the Confidential Information of the other Party relating
+to such other Party's respective products, technologies, and business
+methodologies. Therefore, in accordance with and subject to Sections 3.1 - 3.6
+below, the License is:
+
+          (i)  during the Exclusivity Period, (x) exclusive, to the extent set
+               forth in Section 3.1, with respect to use of the Licensed
+               Technology in connection with Products Within CBOT Exclusive
+               Field of Use; and (y) non-exclusive with respect to use of the
+               Licensed Technology in connection with Products Within CBOT
+               Non-Exclusive Field of Use; and
+
+          (ii) after the Exclusivity Period, non-exclusive with respect to use
+               of the Licensed Technology in connection with any futures or
+               options products.
+
+     3.1 Exclusive License Granted to CBOT. In order to preclude free riding on
+the significant investment by the CBOT in the customization of LIFFE CONNECT
+pursuant to any Development Services Agreement, and to protect the Confidential
+Information of the CBOT and other intellectual property concerning the CBOT's
+products, technologies, and business methodologies, LIFFE agrees that, subject
+to Sections 3.3.1 and 4, Products Within CBOT Exclusive Field of Use will not be
+made available for trading on LIFFE CONNECT:
+
+          (a)  by (i) the Euronext.liffe Exchanges and (ii) any derivatives
+               trading market which becomes comprised in the Euronext N.V. Group
+               of Companies after the Effective Date, to the extent that such
+               derivatives trading market is not already trading Products Within
+               CBOT Exclusive Field of Use at the time that it becomes comprised
+               in the Euronext N.V. Group of Companies (but, for the avoidance
+               of doubt, no clearing, settlement, or custody-related activities
+               of the Euronext N.V. Group of Companies shall be deemed to
+               violate the foregoing limitations); or
+
+          (b)  as a consequence of the licensing of LIFFE CONNECT by LIFFE to a
+               U.S. domiciled "organized exchange," "board of trade" or "trading
+               facility" (as such terms are defined in the Commodity Futures
+               Modernization Act of 2000) under the jurisdiction of the CFTC, as
+               such CFTC jurisdiction is established as of the Effective Date,
+               whether or not such exchange, board of trade or trading facility
+               is a member of or becomes comprised in the Euronext N.V. Group of
+               Companies (but, for the avoidance of doubt, such limitations
+               shall not apply in respect of any other exchange, board of trade,
+               association, communication network, alternative
+
+
+                  CONFIDENTIAL INFORMATION REDACTED AND FILED
+       SEPARATELY WITH THE COMMISSION. OMITTED PORTIONS INDICATED BY [**]
+
+                                       7
+
+<PAGE>
+
+                      CONFIDENTIAL TREATMENT REQUESTED BY
+                              CBOT HOLDINGS, INC.
+
+
+                trading system, trading facility or trading platform, whether or
+                not its products are made available for trading in the U.S.
+                and/or to U.S. investors).
+
+     3.2 Scope of CBOT License.
+
+          3.2.1 General Restrictions. In recognition of the significant
+                investment that LIFFE has made in the customization and
+                implementation of the Licensed Technology to trade products
+                listed by the Euronext.liffe Exchanges, and to protect the
+                Confidential Information of LIFFE, and subject to Sections 3.2.2
+                and 3.4, the CBOT agrees that the license granted hereunder does
+                not include the right to use the Licensed Technology in
+                connection with Products Outside CBOT Field of Use.
+
+          3.2.2 Eurodollars.
+
+                    (i)  3.2.2.1 Payment. The CBOT may make available for
+                         trading on the Licensed Technology the CBOT's existing
+                         U.S. $500,000 notional value Eurodollar futures
+                         contracts provided that if, during any calendar
+                         quarter, the [**] in such CBOT Eurodollar futures
+                         contracts on the Licensed Technology exceeds [**] then
+                         the CBOT shall pay to LIFFE an amount equal to [**]
+
+               The CBOT shall make any such payment by the end of the month
+               immediately following the end of the relevant calendar quarter.
+               The CBOT's obligations under this Section 3.2.2.1 shall apply in
+               respect of CBOT Eurodollar futures contracts traded on the
+               Licensed Technology up to and including [**]
+
+               3.2.2.2. Audit. LIFFE shall have the right, at its own expense,
+                        to commission an independent third party professional
+                        organization (the "Auditor") to audit the CBOT's
+                        performance of its obligations under Section 3.2.2.1
+                        and to provide the results of such audit to [**]. The
+                        CBOT shall cooperate fully with any such audit and shall
+                        provide the Auditor access to all relevant books and
+                        records, during normal business hours or as otherwise
+                        agreed by the Parties. Notwithstanding the foregoing,
+                        the information that may be disclosed by the Auditor to
+                        LIFFE and [**] shall be subject to Section 14 and will
+                        be limited to (a) the amount that was paid to LIFFE by
+                        the CBOT in respect of each calendar quarter forming the
+                        subject of the audit and (b) the amount that should
+                        properly have been paid to LIFFE by the CBOT during each
+                        such calendar quarter.
+
+     3.3  Third Party Licensees.
+
+          3.3.1 [**]
+
+          3.3.2 Other Licensees. LIFFE will take all commercially reasonable
+                steps (including pursuing court proceedings) to ensure that
+                neither any licensee of LIFFE CONNECT other than the CBOT, nor
+                any other Person, contravenes the exclusivity limitations set
+                forth in Section 3.1. For the avoidance of doubt, preparatory
+                work up to the date on which products are made available for
+                trading
+
+
+                  CONFIDENTIAL INFORMATION REDACTED AND FILED
+       SEPARATELY WITH THE COMMISSION. OMITTED PORTIONS INDICATED BY [**]
+
+                                       8
+
+<PAGE>
+
+                      CONFIDENTIAL TREATMENT REQUESTED BY
+                              CBOT HOLDINGS, INC.
+
+
+               in the live market may be undertaken within the Exclusivity
+               Period by any licensee of LIFFE CONNECT or any other Person
+               without triggering LIFFE's obligations under the preceding
+               sentence.
+
+     3.4 Exclusivity Period. Subject to Section 3.5, the field of use and
+exclusivity limitations set forth in Sections 3.1 and 3.2.1 shall take effect
+upon the Effective Date and will remain in force until [**] (the "Exclusivity
+Period"). Thereafter, subject to Section 2.2, the CBOT shall be permitted to
+make any futures and options products available for trading via the Licensed
+Technology on a non-exclusive basis. For the avoidance of doubt, preparatory
+work up to the date on which products are made available for trading in the live
+market undertaken within the Exclusivity Period will not constitute a breach of
+the field of use or exclusivity limitations of Sections 3.1, 3.2 or 3.3.
+
+     3.5 [**] In the event that LIFFE terminates this Agreement in accordance
+with Section 11.2, then the CBOT shall not, during the Termination Notice
+Period, make available for trading on the Licensed Technology (a) any product
+that is listed by one or more of the Euronext.liffe Exchanges, as of the date
+upon which notice of termination is given by LIFFE, or (b) any product that (i)
+one or more of the Euronext.liffe Exchanges has publicly announced, prior to the
+date notice of termination is given by LIFFE, it intends to launch and (ii) is
+not traded by the CBOT on the Licensed Technology as of the date of any such
+notice of termination is given by LIFFE.
+
+     3.6 Acknowledgement. As of the Effective Date, (a) LIFFE is not subject to
+any agreements which would materially affect its ability to grant the License,
+and (b) the CBOT is not subject to any agreements which would materially affect
+its ability to comply with the License.
+
+     3.7 [**] The license granted hereunder includes the right to use the
+Licensed Technology in connection with futures and options on the [**] only
+pursuant to a joint listing arrangement mutually agreed upon by the Parties.
+
+4.   Restrictions on Use
+
+     4.1  Software.
+
+          4.1.1 General Restrictions. The CBOT may (a) use and/or access the
+                Software on the Equipment, only at the Locations set forth in
+                Schedule B, and (b) have and make available for use only four
+                (4) run-time copies of the Trading Host. With respect to all
+                Software installed or otherwise located at or accessible from
+                the CBOT's Premises and any other Software to which the CBOT is
+                provided access, the CBOT agrees:
+
+                (a) not to, and not to permit any other Person to, copy, modify,
+                    decompile, reverse engineer, disassemble or otherwise reduce
+                    to a humanly perceivable form, combine with any other works,
+                    including any hardware or software facilitating the voice
+                    activation of any component of the Licensed Technology, make
+                    any attempt to discover the source code of, create
+                    derivative works based on, translate, market, sell, or
+                    distribute the Software or otherwise make the Software
+                    available to any third party, without the prior written
+                    consent of LIFFE, except as provided in Sections 2 and 4.1;
+
+                (b) not to, and not to permit any other Person to, remove or
+                    alter in any manner any trademarks, trade names, copyright
+                    notices or other
+
+
+                  CONFIDENTIAL INFORMATION REDACTED AND FILED
+       SEPARATELY WITH THE COMMISSION. OMITTED PORTIONS INDICATED BY [**]
+
+                                        9
+
+<PAGE>
+
+                       CONFIDENTIAL TREATMENT REQUESTED BY
+                              CBOT HOLDINGS, INC.
+
+
+                    proprietary or confidentiality notices or designations, of
+                    LIFFE or any other Person, contained or displayed in or on
+                    the Software; or
+
+               (c)  to ensure that neither the CBOT nor any other Person
+                    (excluding LIFFE) introduces any Malicious Code into the
+                    Software or otherwise uses the Software to further any
+                    illegal purpose.
+
+     For the avoidance of doubt, with respect to any Software to which the CBOT
+     has access, the CBOT shall neither provide or allow [**] access, nor permit
+     any other Person to provide or allow [**] access, to such Software or any
+     portion thereof.
+
+          4.1.2 Copies. Subject to Section 4.1, the CBOT may not copy the
+                Software except that the CBOT may, for archival or backup
+                purposes, make a reasonable number of copies of Software
+                installed or otherwise located at the CBOT's Premises. All
+                copies of the Software are subject to the terms and conditions
+                of this Agreement. The CBOT shall (i) ensure that all
+                trademarks, trade names, copyright notices and other proprietary
+                and confidentiality notices or designations, of LIFFE or any
+                other Person, contained or displayed in or on the Software are
+                reproduced on all Software copies created by the CBOT; (ii)
+                maintain a current and accurate record of the number of copies
+                made and of the specific location of each such copy; and (iii)
+                ensure that all backup copies are marked as such and are not
+                used for any purpose other than as backup in the event of damage
+                or destruction of other copies.
+
+     4.2  Documentation.
+
+
+          4.2.1 Non-Restricted. The CBOT may (a) distribute Non-Restricted
+                Documentation to actual and prospective Sublicensees and to
+                other Persons for purposes related to the operation of the
+                CBOT Electronic Exchange by or on behalf of the CBOT; (b)
+                create as many copies of the Non-Restricted Documentation as
+                reasonably necessary for the purposes set forth in Section
+                4.2.1(a); (c) permit Sublicensees to copy such Non-Restricted
+                Documentation to the extent allowed by the Interface Sublicense
+                Agreements; and (d) permit prospective Sublicensees to copy any
+                Non-Restricted Documentation which is designed primarily for the
+                purpose of marketing the CBOT Electronic Exchange.
+
+          4.2.2 Restricted. The CBOT (a) may create only the number of copies of
+                the Restricted Documentation specified in Part 2(b) of Schedule
+                A; and (b) shall maintain a current record of (x) the number of
+                copies of such Restricted Documentation made by the CBOT, (y)
+                the Persons given access to each item of Restricted
+                Documentation, and (z) the current location of each item of
+                Restricted Documentation.
+
+          4.2.3 General Limitations. All copies of the Documentation are subject
+                to the terms and conditions of this Agreement. The CBOT shall
+                ensure that all trademarks, trade names, copyright notices and
+                other proprietary and confidentiality notices or designations,
+                of LIFFE or any other Person, are reproduced on all copies of
+                the Documentation (both Restricted and Non-Restricted). The CBOT
+                agrees not to, and not to authorize any other Person to: (a)
+                except as permitted in Sections 4.2.1, 4.2.2 and/or 14, as
+                applicable, copy, modify, create derivative works based on,
+                translate, market, sell, or distribute the Documentation, or
+                otherwise make the
+
+
+                  CONFIDENTIAL INFORMATION REDACTED AND FILED
+       SEPARATELY WITH THE COMMISSION. OMITTED PORTIONS INDICATED BY [**]
+
+                                       10
+
+<PAGE>
+
+                      CONFIDENTIAL TREATMENT REQUESTED BY
+                              CBOT HOLDINGS, INC.
+
+
+                Documentation available to any third party, without the prior
+                written consent of LIFFE; or (b) remove or alter in any manner
+                any trademarks, trade names, copyright notices or other
+                proprietary or confidentiality notices or designations contained
+                or displayed in the Documentation.
+
+5.   Interface Sublicense Agreements
+
+     5.1 Interface Sublicense Agreements. Each Member, ISV, QV, or any
+additional Person wishing to interface with the API and/or another Interface and
+to participate in the CBOT Electronic Exchange shall be required by the CBOT to
+enter into, and provide to the CBOT an executed copy of, the "Interface
+Sublicense Agreement," in the form attached hereto as Schedule E (each, as
+executed by the CBOT and a Sublicensee, an "Interface Sublicense Agreement").
+Amendments to any Interface Sublicense Agreement may be made only upon LIFFE's
+prior written consent. Upon the written request of LIFFE, the CBOT shall
+promptly provide to LIFFE copies of a current, fully executed Interface
+Sublicense Agreement for each Sublicensee authorized to gain access to one or
+more of the Interfaces.
+
+     5.2  Enforcement. The CBOT:
+
+          (a)  shall enforce each Sublicensee's compliance with the terms of the
+               Interface Sublicense Agreement;
+
+          (b)  shall provide LIFFE written notice of any violation by a
+               Sublicensee or any other Person of any Interface Sublicense
+               Agreement, immediately upon becoming aware of any such violation;
+
+          (c)  shall provide LIFFE written notice of the termination (specifying
+               the effective date of termination) of any Interface Sublicense
+               Agreement, immediately upon the CBOT receiving or giving notice
+               of such termination;
+
+          (d)  shall upon the termination of any Interface Sublicense Agreement,
+               provide LIFFE any reasonable assistance as LIFFE may request in
+               facilitating either the return to LIFFE of, or the destruction of
+               and certification of the destruction of, all Licensed Technology
+               in the possession of the relevant Sublicensee, at the CBOT's
+               expense;
+
+          (e)  shall provide LIFFE written notice promptly upon becoming aware
+               of any acts or omissions of any Person, in addition to those
+               required to be reported pursuant to Section 5.2(b), which the
+               CBOT believes, in its reasonable judgment, (i) might jeopardize
+               or prejudice the rights of LIFFE or its suppliers in the Licensed
+               Technology; (ii) would result in the Licensed Technology being
+               confiscated, seized, requisitioned, taken in execution, impounded
+               or otherwise taken from any location; or (iii) threaten the
+               security or operations of the Licensed Technology.
+
+          (f)  shall provide LIFFE written notice promptly upon becoming aware
+               of any claim, demand, or cause of action brought against the CBOT
+               by a Sublicensee or any other Person, or any subpoena served upon
+               the CBOT or any employee, officer or director thereof, which
+               relates to (i) any Interface Sublicense Agreement, or (ii) the
+               Licensed Technology or any component thereof; and
+
+          (g)  shall not repossess or disable any Software located at any
+               premises owned or controlled by any Sublicensee, and shall
+               enforce its rights under the Interface
+
+
+                  CONFIDENTIAL INFORMATION REDACTED AND FILED
+       SEPARATELY WITH THE COMMISSION. OMITTED PORTIONS INDICATED BY [**]
+
+                                       11
+
+<PAGE>
+
+                      CONFIDENTIAL TREATMENT REQUESTED BY
+                              CBOT HOLDINGS, INC.
+
+
+                Sublicense Agreements so as not to permit any Person (other than
+                LIFFE or LIFFE's designee) to repossess or disable any Software
+                located at any premises owned or controlled by any Sublicensee,
+                notwithstanding Section 5.2(a).
+
+6.   Obligations of the CBOT and LIFFE
+
+     6.1 Security. In addition to all other duties of the CBOT specified
+hereunder in respect of Licensed Technology and the use or access thereof by the
+CBOT, the CBOT shall use reasonable efforts to (a) comply with LIFFE's security
+policy, a copy of which is attached as Schedule F hereto, and (b) establish and
+maintain supervisory and security procedures satisfactory to LIFFE for the
+purpose of protecting all Licensed Technology and LIFFE's rights, title and
+interest in and to the Licensed Technology.
+
+     6.2 Third Party Licenses. The CBOT shall enter into and comply with the
+terms and conditions of those third party license agreements set forth in
+Schedule G. The CBOT acknowledges and agrees that any rights or remedies to be
+pursued by the CBOT in respect of any third party software shall be pursued
+against the third party licensor (and not LIFFE).
+
+     6.3 Upgrades. Subject to any applicable obligations of LIFFE pursuant to
+any Managed Services Agreement entered into by the Parties, nothing herein shall
+require LIFFE to (a) create any Upgrades or (b) license to the CBOT for use
+and/or access as "Licensed Technology" hereunder any modifications,
+enhancements, improvements or additions to the Licensed Technology as LIFFE may
+choose to create. Notwithstanding the foregoing, in the event LIFFE delivers to
+the CBOT any Upgrades pursuant to any Managed Services Agreement, the CBOT shall
+install such Upgrades in accordance with the terms of such Managed Services
+Agreement.
+
+     6.4 Materials and Assistance. In order to facilitate the Parties'
+performance of their obligations hereunder, the CBOT shall promptly provide to
+LIFFE such information and documentation as LIFFE may reasonably request.
+
+     6.5 Export Compliance. The CBOT and LIFFE each shall comply with all
+applicable export laws and regulations of the United States and foreign
+authorities, including regulatory authorities. For purposes of this obligation,
+export laws and regulations include, but are not limited to, all applicable end
+use controls and all applicable restrictions on the export, reexport and
+transfer of encryption items.
+
+7.   Escrow Agreement
+
+     7.1 Terms. The Parties shall enter into a separate agreement with an escrow
+agent specified by LIFFE, which agreement shall be substantially in the form of
+the agreement attached as Schedule H (the "Escrow Agreement"). In addition to
+any other terms upon which the Parties may agree, the Escrow Agreement will
+provide:
+
+          (a)  within six (6) months of the execution of the Escrow Agreement,
+               but in no event earlier than the conclusion of the sixth month
+               following the Go-Live Date, LIFFE shall deposit with the escrow
+               agent that source code to the then current versions of the
+               Software which has been developed by LIFFE or is available to
+               LIFFE, all other software and documentation (including libraries,
+               make files, and object code) necessary to build the Software, and
+               Documentation relating thereto (collectively, the "Deposit
+               Materials");
+
+                  CONFIDENTIAL INFORMATION REDACTED AND FILED
+       SEPARATELY WITH THE COMMISSION. OMITTED PORTIONS INDICATED BY [**]
+
+                                       12
+
+<PAGE>
+
+                      CONFIDENTIAL TREATMENT REQUESTED BY
+                              CBOT HOLDINGS, INC.
+
+
+          (b)  the Deposit Materials will be updated quarterly;
+
+          (c)  the Deposit Materials may be released only in accordance with the
+               procedures set forth in the Escrow Agreement and upon the
+               occurrence of one or more of the following release conditions:
+               LIFFE (i) becomes insolvent, (ii) files for voluntary protection
+               under the bankruptcy laws of the United States or England and
+               Wales, or (iii) becomes subject to any involuntary bankruptcy or
+               insolvency proceeding under laws of the United States or England
+               and Wales (which proceeding is not dismissed by a court of
+               competent jurisdiction within sixty (60) Business Days);
+
+          (d)  upon release, the CBOT will be entitled to use such Deposit
+               Materials for (i) a period not to exceed [**] months following
+               the date of release of the Deposit Materials (the "Release
+               Period"), and (ii) the sole purpose of continuing the CBOT's use
+               of the Licensed Technology as permitted by this Agreement,
+               provided that (x) the CBOT shall have the right to modify the
+               source code of Deposit Materials comprising software only to the
+               extent necessary to create Bug Fixes and (y) the CBOT shall be
+               obligated to maintain the confidentiality of the released Deposit
+               Materials; and
+
+          (e)  the CBOT shall be responsible for payment of all fees and
+               expenses owed to the escrow agent pursuant to the Escrow
+               Agreement.
+
+     7.2 Return of Deposit Materials. In the event the Deposit Materials are
+released and, prior to any effective date of termination of the Release Period,
+any involuntary bankruptcy or insolvency proceeding referenced in Section
+7.1(c)(iii) is dismissed, then the CBOT shall (a) return to LIFFE all Deposit
+Materials and any Bug Fixes created by or on behalf of the CBOT; (b) provide
+LIFFE with any modified source code (including source code pertaining to any Bug
+Fixes created by or on behalf of the CBOT); or (c) destroy any and all copies of
+the Deposit Materials in the CBOT's possession and/or control, via a method that
+renders all such copies permanently unrecoverable, and certify any such copies
+as destroyed via such a method.
+
+8.   Inspection, Removal, or Disablement of the Licensed Technology
+
+     In the event that any Licensed Technology is located at the CBOT's
+Premises, LIFFE shall be entitled to have reasonable access to the CBOT's
+Premises and such Licensed Technology, and:
+
+     (a)  to inspect such Licensed Technology or any portion thereof: (i) to
+          determine whether the CBOT is complying or has complied with its
+          obligations under this Agreement; and/or (ii) to facilitate LIFFE's
+          efforts to remedy any defect or error in the Licensed Technology or
+          any portion thereof; and
+
+     (b)  to disable and/or to remove such Licensed Technology or any part or
+          parts thereof (i) if the CBOT has failed or is failing to comply with
+          its obligations under this Agreement; or (ii) to facilitate LIFFE's
+          efforts to remedy any defect or error in the Licensed Technology or
+          any portion thereof.
+
+9.   Fees
+
+     9.1 Payment. In consideration for the rights and licenses granted
+hereunder, the CBOT shall, via wire transfer of immediately available funds to
+such bank account as LIFFE may specify, (a) pay to LIFFE the License Fee in
+accordance with Schedule I, and (b) reimburse LIFFE for any out of pocket
+
+                  CONFIDENTIAL INFORMATION REDACTED AND FILED
+       SEPARATELY WITH THE COMMISSION. OMITTED PORTIONS INDICATED BY [**]
+
+                                       13
+
+<PAGE>
+
+                      CONFIDENTIAL TREATMENT REQUESTED BY
+                              CBOT HOLDINGS, INC.
+
+
+expenses incurred by LIFFE hereunder (collectively, "Out of Pocket Expenses")
+(the License Fee and Out of Pocket Expenses, collectively, the "Fees"). All
+payments hereunder shall be made in pounds sterling.
+
+     9.2 Taxes. The Fees are exclusive of all international, national or state
+taxes (including withholding taxes), levies, duties, or similar charges, however
+designated, that may be assessed by any jurisdiction under current law or as a
+result of any change in the law following the date thereof (collectively,
+"Taxes"), and the CBOT shall pay or reimburse LIFFE for all such Taxes that may
+be levied or imposed in relation to this Agreement or any of the rights and
+licenses granted hereunder, excluding taxes based on the net income of LIFFE.
+Prior to receiving from the CBOT any payment which may be subject to United
+States withholding taxes, LIFFE shall deliver to the CBOT two original copies of
+Internal Revenue Service Form "W-8BEN" (or any successor forms), accurately
+completed and duly executed by LIFFE certifying, in Line 9a thereof (or the
+corresponding line of any successor forms), that the applicable treaty is the
+United States-United Kingdom Income Tax Convention, and further certifying the
+matters set forth in Line 9b and 9c of Form "W-8BEN" (or the corresponding lines
+of any successor forms). LIFFE hereby agrees, from time to time after the
+initial delivery by LIFFE of such forms whenever a lapse in time or change of
+circumstances renders such forms obsolete or inaccurate in any material respect,
+to deliver to the CBOT two new original copies of Internal Revenue Service Form
+"W-8BEN" (or any successor forms), accurately completed and duly executed by
+LIFFE. Notwithstanding this Section 9.2, the relevant Fees shall be paid net of
+any U.S. federal income withholding tax caused by the failure of LIFFE to
+provide the CBOT with such forms, unless a change in applicable law of the
+United States, enacted or promulgated after the date hereof, makes it impossible
+for LIFFE to continue to make the certifications described above.
+
+     9.3 Invoices. LIFFE shall invoice the CBOT for the License Fee in
+accordance with Schedule I, in pounds sterling. LIFFE shall invoice the CBOT
+monthly in arrears for the Out of Pocket Expenses and any additional amounts due
+hereunder (excluding the License Fee), in pounds sterling. Payment of each
+invoice shall be made by the CBOT within fourteen (14) days of the date of
+receipt of such invoice by the CBOT, unless the CBOT makes a good faith
+objection to the terms of the invoice, in which case (a) the CBOT shall pay the
+undisputed amount of the invoice, and (b) the Parties shall promptly undertake
+to resolve the disputed portion of the invoice.
+
+     9.4 Suspension. If the CBOT fails to pay any undisputed sum due under this
+Agreement, then, without prejudice to any other remedy available to LIFFE, LIFFE
+may, upon fourteen (14) days prior written notice to the CBOT, suspend the
+CBOT's License, provided that the CBOT has not made payment within such period
+of time. In the event of reinstatement of the License, the CBOT will (i) pay
+LIFFE for all work undertaken by LIFFE in connection with such reinstatement on
+a time and materials basis in accordance with LIFFE's then current hourly rates
+for comparable services, and (ii) the CBOT shall be required to install any such
+Upgrades to the version(s) of the Licensed Technology last utilized by the CBOT,
+as LIFFE may specify.
+
+     9.5 Late Payment. If the CBOT fails to pay any undisputed Fees due under
+this Agreement, then interest shall be charged thereon from the date of issuance
+of the applicable invoice until the date payment is made, at the rate of the
+lesser of one and one half percent (1.5%) per month, or the maximum amount
+allowed under applicable law.
+
+
+                  CONFIDENTIAL INFORMATION REDACTED AND FILED
+       SEPARATELY WITH THE COMMISSION. OMITTED PORTIONS INDICATED BY [**]
+
+                                       14
+
+<PAGE>
+
+                      CONFIDENTIAL TREATMENT REQUESTED BY
+                              CBOT HOLDINGS, INC.
+
+
+10.  Term
+
+     10.1 Initial Term. The initial term of this Agreement shall commence on the
+Effective Date and shall continue for a period of [**] years from the Go-Live
+Date ("Initial Term"), unless terminated earlier in accordance with Section 11.
+
+     10.2 Renewal. Unless terminated earlier in accordance with Section 11, THIS
+AGREEMENT WILL AUTOMATICALLY RENEW FOR NO MORE THAN [**] SUCCESSIVE PERIODS OF
+[**] YEARS (each, a "Renewal Term").
+
+11.  Termination
+
+     11.1 By the CBOT.
+
+          11.1.1 Non-Renewal. The CBOT may terminate this Agreement, for any
+                 reason, upon written notice to LIFFE provided at least [**]
+                 months prior to the end of the Initial Term or the First
+                 Renewal Term (if any).
+
+          11.1.2 Development Services Agreement and Managed Services Agreement.
+                 The CBOT may terminate this Agreement immediately upon notice
+                 to LIFFE in the event that the Parties have not entered into
+                 (a) a Development Services Agreement by [**] or (b) a Managed
+                 Services Agreement by [**]
+
+     11.2 By LIFFE.
+
+          11.2.1 [**] LIFFE may terminate this Agreement, upon twelve (12)
+                 months prior written notice to the CBOT ("Termination Notice
+                 Period"), if [**] or any Affiliate of [**] directly or
+                 indirectly acquires control of the CBOT.
+
+          11.2.2 Development Services Agreement and Managed Services
+                 Agreement. LIFFE may terminate this Agreement immediately
+                 upon notice to the CBOT in the event that the Parties have not
+                 entered into a Development Services Agreement and a Managed
+                 Services Agreement by [**]
+
+     11.3 By Either Party.
+
+          11.3.1 Material Breach. Subject to Section 12.3, at any time during
+                 the term of this Agreement, either Party may terminate this
+                 Agreement immediately upon written notice to the other Party if
+                 the other Party commits a breach of any of its material
+                 obligations under this Agreement and fails to remedy such
+                 material breach within thirty (30) days of receipt of written
+                 notice thereof.
+
+          11.3.2 Insolvency. At any time during the term of this Agreement,
+                 either Party may terminate this Agreement upon thirty (30) days
+                 prior written notice if: (a) the other Party (i) becomes
+                 insolvent, (ii) voluntarily commences any proceeding or files
+                 any petition under the bankruptcy laws of the United States or
+                 England and Wales, (iii) becomes subject to any involuntary
+                 bankruptcy or insolvency proceedings under the laws of the
+                 United States or England and Wales, which proceedings are not
+                 dismissed within thirty (30) days, (iv) makes an assignment for
+                 the benefit of its creditors, or (v) appoints a receiver,
+                 trustee, custodian or
+
+                  CONFIDENTIAL INFORMATION REDACTED AND FILED
+       SEPARATELY WITH THE COMMISSION. OMITTED PORTIONS INDICATED BY [**]
+
+                                       15
+
+<PAGE>
+
+                      CONFIDENTIAL TREATMENT REQUESTED BY
+                              CBOT HOLDINGS, INC.
+
+
+                 liquidator for a substantial portion of, its property, assets
+                 or business; or (b) the other Party passes a resolution for its
+                 winding up or dissolution, or a court of competent jurisdiction
+                 makes an order for such other Party's winding up or
+                 dissolution.
+
+     11.4 Automatic Termination. As maintenance services relating to the
+Licensed Technology will be required (at a minimum), this Agreement will
+terminate automatically upon termination of the Managed Services Agreement.
+
+12.  Consequences of Termination
+
+
+     12.1 Licensed Technology.
+
+          12.1.1 In CBOT's Possession. Following termination of this Agreement,
+                 the CBOT shall (a) immediately cease use of the Licensed
+                 Technology; (b) at LIFFE's request and at the CBOT's expense,
+                 (i) immediately return to LIFFE, or destroy and certify as
+                 destroyed, any Licensed Technology in the CBOT's possession
+                 and/or control (including all Documentation), and (ii) return
+                 to LIFFE any and all other LIFFE Property in the CBOT's
+                 possession and/or control; and (c) within fourteen (14) days of
+                 the effective date of termination of this Agreement,
+                 permanently erase and certify the erasure of the Software (and
+                 all copies thereof) from the Equipment and all backup Media.
+
+          12.1.2 In Sublicensees' Possession. Upon or prior to the effective
+                 date of termination of this Agreement, the CBOT shall (a)
+                 terminate all Interface Sublicense Agreements; (b) require each
+                 Sublicensee, to which the CBOT has sublicensed the right to use
+                 and/or access certain components of the Licensed Technology, to
+                 (i) cease use of such Licensed Technology and (ii) promptly
+                 return to LIFFE, or destroy and certify as destroyed, each item
+                 of Licensed Technology in such Sublicensee's possession and/or
+                 control (including all Documentation), and (iii) promptly
+                 return to LIFFE any other LIFFE Property within such
+                 Sublicensee's possession and/or control; and
+                 (c) notwithstanding Section 12.1.2(b), return to LIFFE any
+                 LIFFE Property that has been provided to the CBOT by any
+                 Sublicensee, promptly upon the CBOT's receipt thereof.
+
+     12.2 Third Party Obligations. In the event of termination of this
+Agreement, LIFFE will use commercially reasonable efforts to terminate any
+contracts with third parties relating to LIFFE's provision of the Licensed
+Technology or other obligations hereunder (or relevant portions thereof).
+Notwithstanding the foregoing, the CBOT shall be obligated to reimburse LIFFE
+for any and all costs and expenses relevant to this Agreement for which LIFFE is
+contractually obligated as of the termination hereof.
+
+     12.3 Transition. In the event of LIFFE's notice of termination to the CBOT
+pursuant to Section 11.3.1 for a material breach that is incapable of remedy,
+the License provided hereunder shall continue for a period of up to [**] months
+from the date upon which notice of termination is given (the "Transition
+Period"); provided that, within thirty (30) days following notice of
+termination, (a) the CBOT has accepted full liability for such material breach
+via written notice to LIFFE in a form acceptable to LIFFE, in LIFFE's sole
+discretion; and (b) the CBOT has submitted to LIFFE reasonable assurances that
+it has employed measures sufficient to prohibit repetition of such material
+breach. Notwithstanding the foregoing, (i) during any Transition Period, LIFFE
+shall not be held liable for any failure to perform
+
+                  CONFIDENTIAL INFORMATION REDACTED AND FILED
+       SEPARATELY WITH THE COMMISSION. OMITTED PORTIONS INDICATED BY [**]
+
+                                       16
+
+<PAGE>
+
+                      CONFIDENTIAL TREATMENT REQUESTED BY
+                              CBOT HOLDINGS, INC.
+
+
+any obligations under this Agreement (x) that have been transitioned by the CBOT
+to a Person other than LIFFE, or (y) that have been wound down or phased out;
+and (ii) in the event of the CBOT's breach of any of its material obligations
+under this Agreement during any Transition Period, then LIFFE may terminate this
+Agreement immediately upon notice to the CBOT.
+
+     12.4 Survival. The termination of this Agreement for any reason will not
+affect the accrued rights of the Parties or the right of either Party to sue for
+damages arising from a breach of this Agreement. Notwithstanding termination of
+this Agreement, the CBOT shall remain liable to pay LIFFE all sums accrued or
+due on or prior to the effective date of termination. Sections 1, 5.2, 6.5, 8,
+9, 12, 13, 14, 16.3, 17, 18, 19, 21, 22, 24, 27, 28, 29, 30, 32 and 34 shall
+survive beyond the effective date of termination of this Agreement and shall
+remain in full force and effect.
+
+13.  Proprietary Rights
+
+     13.1 LIFFE Property. As between the CBOT and LIFFE, all rights, title and
+interest in and to the Licensed Technology and all portions thereof (excluding
+the third party software specified in Schedule G), including but not limited to,
+all Development Services Deliverables; all Upgrades (including Bug Fixes created
+by or on behalf of the CBOT pursuant to Section 7.1(d)); all Confidential
+Information of LIFFE; all Documentation; the Equipment; all other materials
+whatsoever relating to the Licensed Technology and provided by LIFFE to the CBOT
+and/or any Sublicensees, including any gateways, hubs, routers, cables, cabinets
+and servers; and any other materials provided by LIFFE to the CBOT and/or any
+Sublicensees under this Agreement; including all copyrights, trademarks,
+patents, trade secrets and other intellectual property inherent in the foregoing
+or appurtenant thereto (collectively, "LIFFE Property") shall be and remain
+vested in LIFFE (or LIFFE's Affiliates, suppliers or licensors, as applicable).
+To the extent, if any, that ownership of the LIFFE Property does not
+automatically vest in LIFFE by virtue of this Agreement or otherwise, the CBOT
+hereby transfers and assigns to LIFFE, as of the date of creation, all rights,
+title and interest which the CBOT may have in and to such LIFFE Property. The
+CBOT undertakes, at the CBOT's expense, to do or cease to do all such acts as
+LIFFE may reasonably direct, and to execute, or cause its employees, agents
+and/or subcontractors to execute, all such documents as LIFFE deems reasonably
+necessary or helpful to assure further the rights, title and interest of LIFFE
+or its nominee in and to such LIFFE Property.
+
+     13.2 CBOT's Property. Notwithstanding the foregoing, as between the CBOT
+and LIFFE, all rights, title and interest in and to (a) the CBOT Technology (if
+any); (b) Market Data (collectively, the "CBOT's Property") shall be and remain
+vested in the CBOT; (c) all Confidential Information of the CBOT; and (d) all
+copyrights, trademarks, patents, trade secrets and other intellectual property
+inherent in the foregoing or appurtenant thereto.
+
+14.  Confidentiality
+
+     14.1 Confidential Information. Subject to Section 14.2, each Party shall
+treat as confidential the terms and conditions of this Agreement (excluding the
+existence of this Agreement), all information (a) marked as confidential, "CBOT
+Restricted" and/or "LIFFE Restricted" (as applicable) or (b) which the recipient
+should reasonably know, by its nature or the manner of its disclosure, to be
+confidential (including, but not limited to, the information and materials the
+CBOT has obtained rights to use hereunder), which either Party may receive or
+have access to during or prior to the performance of this Agreement
+("Confidential Information"). Neither Party shall (i) use the Confidential
+Information of the other Party for any purpose other than the performance of its
+obligations under this Agreement, or (ii) divulge such Confidential Information
+(x) without the other Party's prior written consent, to anyone other than the
+employees, subcontractors, consultants or advisors of such Party who are subject
+to
+
+                  CONFIDENTIAL INFORMATION REDACTED AND FILED
+       SEPARATELY WITH THE COMMISSION. OMITTED PORTIONS INDICATED BY [**]
+
+                                       17
+
+<PAGE>
+
+                      CONFIDENTIAL TREATMENT REQUESTED BY
+                              CBOT HOLDINGS, INC.
+
+
+nondisclosure obligations and to whom such disclosure is reasonably necessary to
+facilitate the performance of this Agreement; or (y) unless requested pursuant
+to a judicial or governmental request, requirement or order under law (including
+disclosure obligations of the Parties under applicable securities laws), in
+which case, if not so prohibited by a regulatory or other governmental authority
+or an order of a court of competent jurisdiction, the receiving Party will
+promptly notify the other Party of such request; provided that, if, in the
+opinion of counsel to the receiving Party, such disclosure is required under
+securities laws, the receiving Party, in consultation with the other Party,
+shall additionally use good faith efforts to secure confidential treatment of
+the information so disclosed. "Confidential Information" of LIFFE includes, but
+is not limited to, Restricted Documentation and the source code of the Software.
+For the avoidance of doubt, with respect to Confidential Information of LIFFE
+that has been disclosed to the CBOT or to which the CBOT has access, the CBOT
+shall neither provide or permit [**] access to, nor permit any other Person to
+provide or permit [**] access to, any Confidential Information of LIFFE or any
+derivative work based on such Confidential Information.
+
+     14.2 Exclusions. Notwithstanding Section 14.1, Confidential Information
+will not include information (a) which is independently developed by the
+receiving Party or is lawfully received free of restriction from another source
+that, to the receiving Party's knowledge, has the right to furnish such
+information; (b) after it has become generally available to the public by acts
+not attributable to the receiving Party or its employees, consultants or
+advisors; or (c) which, at the time of disclosure to the receiving Party, was
+known to the receiving Party free of restriction.
+
+15.  Subcontractors
+
+     LIFFE may appoint subcontractors and agents to carry out the whole or any
+part of its obligations hereunder; provided, however, that LIFFE shall obtain
+the CBOT's consent to any subcontractors whose primary residence is located in
+the United States, which consent will not be unreasonably withheld. For the
+avoidance of any doubt, LIFFE shall not have an obligation to obtain the CBOT's
+consent in respect of any subcontractors whose primary residence is located to
+LIFFE's knowledge, outside the United States.
+
+16.  Warranties
+
+     16.1 LIFFE. LIFFE warrants that (a) it has the requisite corporate power
+and authority to execute and perform this Agreement; (b) its execution and
+performance of its obligations hereunder will not violate any other agreement or
+regulatory obligation to which it is bound; and (c) to LIFFE's knowledge, the
+Software contains no Malicious Code. EXCEPT AS SPECIFICALLY PROVIDED IN THIS
+AGREEMENT, LIFFE MAKES NO, AND HEREBY DISCLAIMS ALL, WARRANTIES, CONDITIONS,
+UNDERTAKINGS, TERMS OR REPRESENTATIONS, EXPRESSED OR IMPLIED BY STATUTE, COMMON
+LAW OR OTHERWISE, IN RELATION TO THE LICENSED TECHNOLOGY OR ANY PORTION OF THE
+SAME OR THE USE THEREOF, INCLUDING BUT NOT LIMITED TO ALL IMPLIED WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. LIFFE
+FURTHER DISCLAIMS ALL WARRANTIES, IMPLIED OR OTHERWISE, RELATING TO ANY THIRD
+PARTY MATERIALS.
+
+     16.2 The CBOT. The CBOT hereby warrants to LIFFE that (a) it has the
+requisite corporate power and authority to execute and perform this Agreement;
+(b) its execution and performance of its obligations hereunder will not violate
+any other agreement or regulatory obligation to which it is bound; (c) it is a
+valid licensee of the Wagner/eSpeed Patent pursuant to Attachment B to that
+certain "Settlement Agreement" between the CBOT, The Chicago Mercantile
+Exchange, Electronic Trading Systems Corporation and eSpeed, entered into as of
+August 26, 2002, in settlement of eSpeed, Inc. and Electronic Trading Systems
+Corporation v. The Board of Trade of the City of Chicago and The Chicago
+Mercantile
+
+                  CONFIDENTIAL INFORMATION REDACTED AND FILED
+       SEPARATELY WITH THE COMMISSION. OMITTED PORTIONS INDICATED BY [**]
+
+                                       18
+
+
+<PAGE>
+
+                      CONFIDENTIAL TREATMENT REQUESTED BY
+                              CBOT HOLDINGS, INC.
+
+
+Exchange, before the United States District Court for the Northern District of
+Texas (Civil Action No. 3:99-CV-1016-M) (the "Wagner License"), a copy of which
+has been provided to LIFFE; and (d) the License, the Licensed Technology
+provided hereunder, and the use of such Licensed Technology by or on behalf of
+the CBOT and Sublicensees, are encompassed by such Wagner License and will not
+violate the terms of the Wagner License. EXCEPT AS SPECIFICALLY PROVIDED IN THIS
+AGREEMENT, THE CBOT MAKES NO, AND HEREBY DISCLAIMS ALL, WARRANTIES, CONDITIONS,
+UNDERTAKINGS, TERMS OR REPRESENTATIONS, EXPRESSED OR IMPLIED BY STATUTE, COMMON
+LAW OR OTHERWISE, IN RELATION TO THE LICENSED TECHNOLOGY AND CBOT PROPERTY OR
+ANY PORTION OF THE SAME OR THE USE THEREOF, INCLUDING BUT NOT LIMITED TO ALL
+IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NON-INFRINGEMENT.
+
+17.  Indemnification
+
+     17.1 By LIFFE. LIFFE shall defend, indemnify and hold the CBOT, and the
+officers, directors, employees, agents, and representatives of the CBOT ("CBOT
+Indemnitees") harmless from and against all costs, claims, demands, losses,
+expenses and liabilities of any nature whatsoever (including reasonable
+attorneys fees) ("Losses") incurred or suffered by such CBOT Indemnitees arising
+out of, or in connection with, any third party claim, demand, or cause of action
+(each, a "Claim") to the extent such Claim is based upon or arises out of (a)
+LIFFE's gross negligence or willful misconduct; (b) LIFFE's material breach of
+this Agreement or any part hereof; or (c) [**]; provided that (i) the CBOT shall
+take no other action which the CBOT, in its reasonable judgment, believes would
+be contrary to LIFFE's interests relative to the Claim; (ii) LIFFE (or any
+Person acting on behalf of or authorized by LIFFE), at its own expense, shall be
+entitled to have sole conduct and control of all legal proceedings in connection
+with the Claim or the settlement or other compromise thereof; (iii) the CBOT
+shall give LIFFE (and any Person acting on behalf of or authorized by LIFFE) all
+reasonable assistance therewith, at LIFFE's reasonable expense; and (iv) the
+CBOT shall use good faith efforts to notify LIFFE as soon as possible, but in
+any event within five (5) Business Days, after the CBOT becomes aware of the
+Claim. Notwithstanding the foregoing, LIFFE shall have no obligation to defend,
+indemnify, or hold any CBOT Indemnitee harmless from or against any Losses
+incurred or suffered by such CBOT Indemnitee (x) as a result of the gross
+negligence or willful misconduct of the CBOT Indemnitee or any Sublicensee, or
+(y) to the extent any Losses are attributable to the fact that the use of the
+Licensed Technology by the CBOT, other CBOT Indemnitee, or any Sublicensee has
+not been in accordance with this Agreement.
+
+     17.2 By the CBOT. The CBOT shall defend, indemnify and hold LIFFE, its
+Affiliates, and the officers, directors, employees, agents, and representatives
+of LIFFE and its Affiliates ("LIFFE Indemnitees") harmless from and against all
+Losses incurred or suffered by such LIFFE Indemnitees arising out of, or in
+connection with, any third party Claim to the extent such Claim is based upon or
+arises out of: (a) the CBOT's material breach of this Agreement or any part
+hereof; (b) the gross negligence or willful misconduct of the CBOT, any of its
+Affiliates, or any Members or other Sublicensees; (c) the CBOT's Property or
+LIFFE's use thereof; (d) the CBOT's use of the Licensed Technology in
+contravention of this Agreement; (e) any breach by any Member, other
+Sublicensee, or Contractor (as that term is defined Schedule E) of any Interface
+Sublicense Agreement; or (f) any Claim that the License, the Licensed Technology
+provided hereunder, or the use thereof by or on behalf of the CBOT or
+Sublicensees, infringes or otherwise violates the Wagner/eSpeed Patent; provided
+that (i) LIFFE shall take no action which LIFFE, in its reasonable judgment,
+believes would be contrary to the CBOT's interests relative to the Claim; (ii)
+the CBOT (or any Person acting on behalf of or authorized by the CBOT), at its
+own expense, shall be entitled to have sole conduct and control of all legal
+proceedings
+
+                  CONFIDENTIAL INFORMATION REDACTED AND FILED
+       SEPARATELY WITH THE COMMISSION. OMITTED PORTIONS INDICATED BY [**]
+
+                                       19
+
+<PAGE>
+
+                      CONFIDENTIAL TREATMENT REQUESTED BY
+                              CBOT HOLDINGS, INC.
+
+
+in connection with the Claim or the settlement or other compromise thereof;
+(iii) LIFFE shall give the CBOT (and any Person acting on behalf of or
+authorized by the CBOT) all reasonable assistance in connection therewith at the
+CBOT's reasonable expense; and (iv) LIFFE shall use good faith efforts to notify
+the CBOT as soon as possible, but in any event within five (5) Business Days,
+after LIFFE becomes aware of the Claim. Notwithstanding the foregoing, CBOT
+shall have no obligation to defend, indemnify, or hold any LIFFE Indemnitee
+harmless from or against any Losses incurred or suffered by such LIFFE
+Indemnitee as a result of the gross negligence or willful misconduct of the
+LIFFE Indemnitee.
+
+18.  Liability
+
+     18.1 Specific Limitations. LIFFE shall have no liability to the CBOT for
+any breach of this Agreement or any Losses (including, but not limited to, the
+CBOT's inability to use any part of the Licensed Technology and the interruption
+or corruption of any data or information stored, used, generated or transmitted
+on or via any Licensed Technology) under this Agreement arising from (a) any
+defect in the Licensed Technology of which LIFFE has not received notice of from
+the CBOT within five (5) Business Days following the first date upon which the
+CBOT discovered or otherwise became aware of such defect, (b) any Force Majeure
+Event, or (c) any Trading Applications or other Third Party Materials.
+
+     18.2 General Limitation. EXCEPT AS EXPRESSLY PROVIDED IN THIS AGREEMENT,
+NEITHER PARTY SHALL HAVE LIABILITY TO THE OTHER FOR ANY LOSS, DAMAGE OR INJURY,
+DIRECT OR INDIRECT, WHETHER OR NOT CAUSED BY THE NEGLIGENCE OF SUCH PARTY, ITS
+AFFILIATES, OR THE OFFICERS, EMPLOYEES, AGENTS OR REPRESENTATIVES OF SUCH PARTY
+OR OF ANY OF ITS AFFILIATES, EXCEPT THAT EACH PARTY SHALL ACCEPT LIABILITY FOR
+(a) MATERIAL BREACH OF THIS AGREEMENT, (b) THE GROSS NEGLIGENCe OR WILLFUL
+MISCONDUCT OF SUCH PARTY, ITS AFFILIATES OR THE OFFICERS, EMPLOYEES, AGENTS OR
+REPRESENTATIVES OF SUCH PARTY OR OF ANY OF ITS AFFILIATES, AND (c) FOR DEATH,
+PERSONAL INJURY AND DIRECT PHYSICAL DAMAGE TO THE TANGIBLE PROPERTY OF THE OTHER
+CAUSED BY SUCH PARTY, ITS AFFILIATES OR THE OFFICERS, EMPLOYEES, AGENTS OR
+REPRESENTATIVES OF SUCH PARTY OR OF ANY OF ITS AFFILIATES. EXCEPT WITH REGARD TO
+EITHER PARTY'S BREACH OF ITS CONFIDENTIALITY OBLIGATIONS UNDER SECTION 14 OR ITS
+WARRANTIES SET FORTH IN SECTION 16, NEITHER PARTY SHALL BE LIABLE TO THE OTHER
+HEREUNDER FOR ANY INDIRECT OR CONSEQUENTIAL LOSS, OR FOR LOSS OF PROFITS,
+GOODWILL OR CONTRACTS, WHETHER ARISING FROM NEGLIGENCE, BREACH OF CONTRACT OR
+OTHERWISE, AND WHETHER OR NOT EITHER PARTY SHALL HAVE BEEN ADVISED OF OR
+OTHERWISE MIGHT HAVE ANTICIPATED THE POSSIBILITY OF SUCH DAMAGES.
+
+     18.3 Limitation of Liability. The cumulative liability of LIFFE under this
+Agreement, the Development Services Agreement and the Managed Services
+Agreement, during the respective terms of this Agreement, the Development
+Services Agreement and the Managed Services Agreement, however arising, will not
+exceed [**] provided, however, that the limitations set forth in this Section
+18.3 will not apply to (a) liability of LIFFE for death or personal injury; (b)
+fraudulent acts or omissions; or (c) violations of the confidentiality
+obligations of Section 14.
+
+     18.4 Claims Against Individuals. Where the liability of a Party (including,
+but not limited to, any liability with respect to the officers, employees,
+agents or representatives of a Party or any of its Affiliates) has been excluded
+or restricted hereunder, each Party agrees that it shall not bring any claim
+against any officers, employees, agents or representatives of the other Party or
+any of its Affiliates or join
+
+                  CONFIDENTIAL INFORMATION REDACTED AND FILED
+       SEPARATELY WITH THE COMMISSION. OMITTED PORTIONS INDICATED BY [**]
+
+                                       20
+
+<PAGE>
+
+                      CONFIDENTIAL TREATMENT REQUESTED BY
+                              CBOT HOLDINGS, INC.
+
+
+such officers, employees, agents or representatives in any claim such that the
+liability of such officers, employees, agents or representatives and such other
+Party, when taken together, would be greater than the liability of such other
+Party hereunder.
+
+19.  Dispute Resolution
+
+     19.1 Escalation. As used herein, "Disputes" means any claims, disputes,
+controversies, and other matters in question between the Parties arising out of
+or relating to this Agreement or the breach hereof (excluding any third party
+claims against LIFFE or the CBOT subject to indemnification pursuant to Section
+17, but including any disagreements as to indemnification rights hereunder). Any
+Dispute between the Parties shall in the first instance be referred to the
+Parties' Relationship Managers for discussion and resolution. If the Dispute is
+not resolved by the Relationship Managers within five (5) Business Days, the
+Dispute will be referred to the Managing Director of LIFFE Market Solutions and
+a representative of the CBOT at an equivalent level, who must discuss and, if
+appropriate, meet within five (5) Business Days to attempt to resolve the
+Dispute. If the Dispute is not resolved by such second representatives within
+five (5) Business Days, the Dispute will be referred to the Parties' Chief
+Executive Officers who must discuss and, if appropriate, meet within five (5)
+Business Days to attempt to resolve the Dispute. If any representative of either
+Party referred to in this Section 19.1 is not available for any reason, the
+affected Party shall be entitled to appoint an appropriate substitute.
+
+     19.2 Mediation. If the Parties cannot resolve any Dispute in accordance
+with Section 19.1 within thirty (30) Business Days, they may refer the Dispute
+to mediation, to be conducted by a single mediator in (i) Chicago, Illinois, if
+LIFFE has initiated the Dispute, or (ii) London, England, if the CBOT has
+initiated the Dispute. The Parties shall use good faith efforts to agree upon a
+mediator. If the Parties are unable to agree upon a mediator within thirty (30)
+Business Days, the Parties may seek judicial resolution and remedy of the
+Dispute without first proceeding with mediation. The Parties shall use good
+faith efforts to hold the mediation within thirty (30) Business Days following
+the selection of a mediator. Unless otherwise agreed by the Parties, no decision
+resulting from the mediation proceedings will be binding upon the Parties.
+Unless expressly provided herein, each Party will bear its own costs (including
+attorneys fees) relating to the mediation, but the Parties will share equally
+the fees and expenses charged by the mediator.
+
+     19.3 Arbitration. If a Dispute is not resolved in accordance with Section
+19.2, then either Party may provide written notice to the other Party of an
+intention to refer the Dispute to arbitration. Any such arbitration shall be:
+(a) binding; (b) administered by the International Centre for Dispute Resolution
+("ICDR") of the American Arbitration Association ("AAA"); (c) conducted in
+accordance with the International Arbitration Rules of the AAA (the "AAA
+Rules"), as such AAA Rules may be amended from time to time, except to the
+extent this Section 19.3 provides otherwise; (d) held in Chicago, Illinois, if
+the Dispute is initiated by LIFFE and in London, England if the Dispute is
+initiated by the CBOT; and (e) conducted using the English language. Upon filing
+a claim, the filing Party will simultaneously provide written notice of such
+claim to the other Party and to the relevant administrator at the ICDR.
+
+          19.3.1 Selection of Arbitrators. Within ten (10) Business Days of
+                 receipt of the ICDR initiation letter, each Party shall select
+                 one neutral individual to act as arbitrator. In addition, the
+                 Parties shall submit a written request to AAA to use its normal
+                 procedures pursuant to the AAA Rules to appoint the third
+                 arbitrator within five (5) Business Days of AAA's receipt of
+                 such request. The arbitrator appointed by AAA shall serve as
+                 the chairperson of the arbitration panel. The Parties agree
+                 that the selection of arbitrators must be completed within
+                 twenty-five (25) Business Days of receipt by both Parties of
+                 the ICDR initiation letter.
+
+                  CONFIDENTIAL INFORMATION REDACTED AND FILED
+       SEPARATELY WITH THE COMMISSION. OMITTED PORTIONS INDICATED BY [**]
+
+                                       21
+
+<PAGE>
+
+                      CONFIDENTIAL TREATMENT REQUESTED BY
+                              CBOT HOLDINGS, INC.
+
+
+          19.3.2 Cooperation. The Parties shall cooperate with each other in
+                 causing the arbitration to be held in as efficient and
+                 expeditious a manner as practicable, and in this respect to
+                 furnish such documents and make available such personnel as the
+                 arbitrators may request.
+
+          19.3.3 Reduction of Losses. The Parties have selected arbitration to
+                 expedite the resolution of Disputes and to reduce the costs
+                 and burdens associated with litigation. The Parties agree
+                 that the arbitrators should take these concerns into account
+                 when determining whether to authorize discovery and, if
+                 discovery is authorized, the scope of permissible discovery
+                 and other hearing and pre-hearing procedures. Thearbitrators
+                 shall render an award, including a written decision, within
+                 ninety (90) calendar days after the arbitration notice is
+                 provided, unless the Parties otherwise agree or the arbitrators
+                 make a finding that a Party has carried the burden of showing
+                 good cause for a longer time period.
+
+          19.3.4 Binding Decision. The decision or award of the arbitrators will
+                 be final and binding, and may be used as a basis for judgment
+                 thereon in any jurisdiction. The award shall be in writing,
+                 shall be signed by a majority of the arbitrators, and shall
+                 include a written decision setting out the reasons for the
+                 disposition of any claim.
+
+          19.3.5 Punitive Damages. Without limiting any other remedies that may
+                 be available under applicable law, the arbitrators shall have
+                 no authority to award punitive damages.
+
+          19.3.6 Confidentiality. All proceedings and decisions of the
+                 arbitrators shall be maintained in confidence to the extent
+                 legally permissible, and shall not be made public by any Party
+                 or any arbitrator without the prior written consent of the
+                 Parties, except as may be required by applicable laws.
+
+          19.3.7 Losses. Each Party shall bear its own costs and attorneys fees,
+                 and the Parties shall equally bear the fees, costs, and
+                 expenses of the arbitrators and the arbitration proceedings
+                 charged by the arbitrators ("Arbitration Fees"); provided,
+                 however, that (a) the filing Party shall pay any filing fees
+                 charged by the AAA; and (b) the arbitrators may exercise
+                 discretion to award costs, but not attorneys fees or
+                 Arbitration Fees, to the prevailing Party.
+
+          19.3.8 Obligations. The commencement and pendency of an arbitration
+                 under this Section 19.3 shall not relieve either of the Parties
+                 of their respective obligations under this Agreement.
+
+          19.3.9 Limitations. A demand for arbitration shall not be made after
+                 the date when institution of legal or equitable proceedings
+                 based upon such dispute would be barred by the applicable
+                 statute of limitations or laches under the laws of the State
+                 of Illinois, and the Parties expressly waive any causes of
+                 action relating to any Dispute not brought within the period
+                 set forth therein.
+
+     19.4 Limitations. Notwithstanding Sections 19.2 and 19.3, nothing herein
+restricts the rights of either Party to seek judicial resolution and remedy of
+(i) any Disputes, following compliance with
+
+
+                  CONFIDENTIAL INFORMATION REDACTED AND FILED
+       SEPARATELY WITH THE COMMISSION. OMITTED PORTIONS INDICATED BY [**]
+
+                                       22
+
+<PAGE>
+
+                      CONFIDENTIAL TREATMENT REQUESTED BY
+                              CBOT HOLDINGS, INC.
+
+
+Section 19.2 and 19.3, or (ii) any claims, disputes, controversies, or other
+matters in question between the Parties arising out of either Party's breach of
+its obligations pursuant to Section 14 or Section 16.
+
+20.  Reasonable Efforts
+
+     Each Party agrees to use good faith efforts to negotiate the Development
+Services Agreement and the Managed Services Agreement. LIFFE shall deliver to
+the CBOT a draft (a) Development Services Agreement, by [**] and (b) Management
+Services Agreement, by [**]
+
+21.  Entire Agreement
+
+     This Agreement, together with any Development Services Agreement and
+Managed Services Agreement entered into by the Parties, constitutes the entire
+understanding between the Parties with respect to the subject matter hereof and
+supersedes all prior representations, agreements, negotiations and discussions
+between the Parties, excluding that Consultancy Agreement entered into by and
+between LIFFE and the CBOT, having an effective date of October 22, 2002, and
+entered into on December 6, 2002.
+
+22.  Schedules
+
+     Each of the schedules attached hereto is a part of and incorporated into
+this Agreement. Unless otherwise indicated therein, all capitalized terms
+contained within the Schedules will have the meanings ascribed to them in the
+main body of this Agreement.
+
+23.  Amendments
+
+     Except as expressly provided for herein, this Agreement may be amended only
+by an instrument in writing signed on behalf of a duly authorized representative
+of each Party.
+
+24.  Binding Provisions/Third Party Beneficiaries
+
+     This Agreement is binding upon, and shall inure to the benefit of, the
+Parties and their respective administrators, legal representatives, successors,
+and permitted assigns. The Parties agree that no provision of this Agreement is
+intended, expressly or by implication, to purport to confer a benefit or right
+of action upon a third party (whether or not in existence, and whether or not
+named, as of the Effective Date).
+
+25.  Assignment and Sublicensing
+
+     Except as otherwise expressly provided herein, the CBOT shall not assign,
+transfer or sublicense any right or obligation under this Agreement without the
+prior written approval of LIFFE; provided however, that the CBOT may assign its
+rights and obligations under this Agreement to CBOT Holdings, Inc. ("Holdings")
+or to a wholly owned exchange subsidiary of Holdings, as described in the
+Registration Statement on Form S-4 filed by Holdings with the Securities and
+Exchange Commission ("SEC") on October 24, 2001 (the "Registration Statement"),
+as amended by Amendment No. 4 to the Registration Statement filed with the SEC
+on December 30, 2002 ("Amendment No. 4"), or any subsequent amendment thereto,
+provided that the structure of the exchange subsidiary is in a form
+substantially the same as that described in Amendment No. 4. LIFFE may, in
+LIFFE's sole discretion, assign this Agreement and/or its rights and obligations
+under this Agreement to an Affiliate of LIFFE that is capable of performing the
+obligations of LIFFE under this Agreement.
+
+                  CONFIDENTIAL INFORMATION REDACTED AND FILED
+       SEPARATELY WITH THE COMMISSION. OMITTED PORTIONS INDICATED BY [**]
+
+                                       23
+
+<PAGE>
+
+                      CONFIDENTIAL TREATMENT REQUESTED BY
+                              CBOT HOLDINGS, INC.
+
+
+26.  Force Majeure
+
+     If the performance of this Agreement by either Party is prevented,
+hindered, delayed or otherwise made impracticable by reason of any Force Majeure
+Event, that Party shall be excused from such performance to the extent that it
+is prevented, hindered or delayed by such cause. In the event a Party becomes
+aware of a Force Majeure Event that will affect its performance under this
+Agreement, it shall notify the other Party as soon as reasonably practicable.
+The Parties shall thereafter work together to take reasonable steps to mitigate
+the effects of any inability to perform, if practicable.
+
+27.  Separability of Provisions
+
+     Each provision of this Agreement shall be considered separable; and if, for
+any reason, any provision of this Agreement is determined by a court of
+competent jurisdiction to be invalid, unlawful, or unenforceable, such
+determination shall not affect the enforceability of the remainder of this
+Agreement or the validity, lawfulness, or enforceability of such provision in
+any other jurisdiction.
+
+28.  Waiver
+
+     The failure of a Party to exercise or enforce any right conferred upon it
+by this Agreement shall not be deemed to be a waiver of any such right or
+operate so as to bar the exercise or enforcement thereof at any time or times
+hereafter.
+
+29.  Remedies Not Exclusive
+
+     No remedy conferred by any provision of this Agreement is intended to be
+exclusive of any other remedy, except as expressly provided in this Agreement,
+and each and every remedy shall be cumulative and shall be in addition to every
+other remedy given hereunder or now or hereafter existing in law or in equity or
+by statute or otherwise.
+
+30.  Notices
+
+     Except as otherwise expressly provided herein, all notices, certifications,
+requests, demands, payments and other communications hereunder: (a) shall be in
+writing; (b) may be delivered by certified or registered mail, postage prepaid;
+by hand; by facsimile; or by any internationally recognized private courier; (c)
+shall be effective (i) if mailed, on the date ten (10) days after the date of
+mailing or (ii) if hand delivered, faxed, or delivered by private courier, on
+the date of delivery; and (d) shall be addressed as follows:
+
+               If to the CBOT:
+
+               Board of Trade of the City of Chicago, Inc.
+               141 West Jackson Boulevard
+               Suite 600-A
+               Chicago, Illinois 60604  U.S.A.
+               Attention: Carol A. Burke
+
+                  CONFIDENTIAL INFORMATION REDACTED AND FILED
+       SEPARATELY WITH THE COMMISSION. OMITTED PORTIONS INDICATED BY [**]
+
+                                       24
+
+<PAGE>
+
+                      CONFIDENTIAL TREATMENT REQUESTED BY
+                              CBOT HOLDINGS, INC.
+
+
+               If to LIFFE:
+
+               LIFFE Administration and Management
+               Cannon Bridge House
+               1 Cousin Lane
+               London, EC4R 3XX  (England)
+               Attention:  Company Secretary
+
+or to such other address or addresses as may hereafter be specified by notice
+given by one Party to the other.
+
+31.  Announcements
+
+     Neither Party may refer to this Agreement in any publicity or advertising
+materials without the other Party's prior written consent.
+
+32.  Interpretation
+
+     32.1 Headings, Gender, "Including," "Control" and Person. References to
+sections and schedules are to sections of and schedules to this Agreement unless
+otherwise indicated. Section headings are inserted for convenience of reference
+only and shall not affect the construction of this Agreement. The masculine
+gender shall include the feminine and the singular number shall include the
+plural, and vice versa. Any use of the word "including" will be interpreted to
+mean "including, but not limited to," unless otherwise indicated. Any use of the
+terms "controlling," "controlled by" or "under common control with" shall have a
+meaning consistent with the definition of "Control" set forth in Section 1.
+References to any Person (including the Parties and any other entities referred
+to) shall be construed to mean such Person and its successors in interest and
+permitted assigns, as applicable.
+
+     32.2 Inconsistency. In the event of any inconsistency between the terms of
+the main body of this Agreement and any schedule hereto, the terms of the main
+body of this Agreement will govern to the extent of the inconsistency.
+
+33.  Further Assurances
+
+     The Parties shall execute all such further documents and do all such
+further acts as may be necessary to carry the provisions of this Agreement into
+full force and effect.
+
+34.  Governing Law
+
+     The validity and effectiveness of this Agreement shall be governed by and
+construed and enforced in accordance with the internal laws of the State of
+Illinois, without giving effect to the provisions, policies or principles of any
+state law relating to choice or conflict of laws. Subject to Section 19, any
+legal action or proceeding with respect to this Agreement may be brought
+exclusively in the Federal or state courts located in Chicago, Illinois,
+including the United States District Court for the Northern District of
+Illinois. The United Nations Convention on Contracts for the International Sale
+of Goods shall not apply to this Agreement and is hereby disclaimed.
+
+35.  Counterparts
+
+                  CONFIDENTIAL INFORMATION REDACTED AND FILED
+       SEPARATELY WITH THE COMMISSION. OMITTED PORTIONS INDICATED BY [**]
+
+                                       25
+
+<PAGE>
+
+                      CONFIDENTIAL TREATMENT REQUESTED BY
+                              CBOT HOLDINGS, INC.
+
+
+     This Agreement may be executed in two counterparts, each of which when so
+executed and delivered shall be deemed an original, and both of which together
+shall constitute but one and the same instrument.
+
+                  [Remainder of page intentionally left blank.
+                             Signature page follows]
+
+
+
+                  CONFIDENTIAL INFORMATION REDACTED AND FILED
+       SEPARATELY WITH THE COMMISSION. OMITTED PORTIONS INDICATED BY [**]
+
+                                       26
+
+<PAGE>
+
+                      CONFIDENTIAL TREATMENT REQUESTED BY
+                              CBOT HOLDINGS, INC.
+
+
+     IN WITNESS WHEREOF, the Parties have executed this Software License
+Agreement as of the Effective Date.
+
+                                     LIFFE ADMINISTRATION AND MANAGEMENT, a
+                                     company incorporated in England and Wales
+
+
+                                     By:   /s/ Mark S. Hemsley
+                                         -------------------------------------
+                                     Name: Mark S. Hemsley
+                                         -------------------------------------
+                                     Its:  Director
+                                         -------------------------------------
+
+
+
+
+
+                                    BOARD OF TRADE OF THE CITY OF CHICAGO, INC.,
+                                    a Delaware corporation
+
+
+                                     By:   /s/ Bernard W. Dan
+                                         ---------------------------------------
+                                     Name: Bernard W. Dan
+                                         ---------------------------------------
+                                     Its:  President and Chief Executive Officer
+                                         ---------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+                  CONFIDENTIAL INFORMATION REDACTED AND FILED
+       SEPARATELY WITH THE COMMISSION. OMITTED PORTIONS INDICATED BY [**]
+
+
+
+<PAGE>
+
+                      CONFIDENTIAL TREATMENT REQUESTED BY
+                              CBOT HOLDINGS, INC.
+
+
+                                    SCHEDULES
+
+Schedule A   -   Software and Documentation
+
+Schedule B   -   Software, Locations and Operating Systems
+
+Schedule C   -   Products Outside CBOT Field of Use
+
+Schedule D   -   Products Within CBOT Exclusive Field of Use
+
+Schedule E   -   Interface Sublicense Agreement
+
+Schedule F   -   Security Policy
+
+Schedule G   -   Third Party Software
+
+Schedule H   -   Escrow Agreement
+
+Schedule I   -   Fees
+
+
+                  CONFIDENTIAL INFORMATION REDACTED AND FILED
+       SEPARATELY WITH THE COMMISSION. OMITTED PORTIONS INDICATED BY [**]
+
+
+<PAGE>
+
+                       CONFIDENTIAL TREATMENT REQUESTED BY
+                               CBOT HOLDINGS, INC.
+
+                                   SCHEDULE A
+
+                           SOFTWARE AND DOCUMENTATION
+                           --------------------------
+
+
+
+     Part 1 - Software
+
+     [**]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                   CONFIDENTIAL INFORMATION REDACTED AND FILED
+       SEPARATELY WITH THE COMMISSION. OMITTED PORTIONS INDICATED BY [**]
+
+
+<PAGE>
+
+                       CONFIDENTIAL TREATMENT REQUESTED BY
+                               CBOT HOLDINGS, INC.
+
+     Part 2 - Documentation
+              -------------
+
+     (a)  Unrestricted Documentation
+
+          1.   LIFFE CONNECT(TM) Application Program Interface and Changes
+
+          2.   The Application Program Interface Reference Manual
+
+          3.   LIFFE CONNECT(TM) Release Specific Information - The Application
+               Program Interface Reference Manual
+
+          4.   LIFFE CONNECT(TM) Application Program Interface Installation
+               notes
+
+          5.   How the Market Works
+
+          6.   TRS User Guide
+
+     (b)  Restricted Documentation
+          ------------------------
+<TABLE>
+<CAPTION>
+     ------------------------------------------------------------------------------------------------------------
+                                                                                         Number of
+                                            Title                                    Authorized Copies
+     ------------------------------------------------------------------------------------------------------------
+     <S>                                    <C>                                      <C>
+     1.                                      [**]                                           [**]
+     ------------------------------------------------------------------------------------------------------------
+     2.                                      [**]                                           [**]
+     ------------------------------------------------------------------------------------------------------------
+     3.                                      [**]                                           [**]
+     ------------------------------------------------------------------------------------------------------------
+     4.                                      [**]                                           [**]
+     ------------------------------------------------------------------------------------------------------------
+     5.                                      [**]                                           [**]
+     ------------------------------------------------------------------------------------------------------------
+     6.                                      [**]                                           [**]
+     ------------------------------------------------------------------------------------------------------------
+     7.                                      [**]                                           [**]
+     ------------------------------------------------------------------------------------------------------------
+     8.                                      [**]                                           [**]
+     ------------------------------------------------------------------------------------------------------------
+     9.                                      [**]                                           [**]
+     ------------------------------------------------------------------------------------------------------------
+     10.                                     [**]                                           [**]
+     ------------------------------------------------------------------------------------------------------------
+     11.                                     [**]                                           [**]
+     ------------------------------------------------------------------------------------------------------------
+     12.                                     [**]                                           [**]
+     ------------------------------------------------------------------------------------------------------------
+</TABLE>
+
+
+
+                   CONFIDENTIAL INFORMATION REDACTED AND FILED
+       SEPARATELY WITH THE COMMISSION. OMITTED PORTIONS INDICATED BY [**]
+
+<PAGE>
+
+                       CONFIDENTIAL TREATMENT REQUESTED BY
+                               CBOT HOLDINGS, INC.
+
+                                   SCHEDULE B
+
+                     SOFTWARE, LOCATIONS & OPERATING SYSTEMS
+                     ---------------------------------------
+
+<TABLE>
+<CAPTION>
+------------------------------------------------------------------------------------------------------------
+                                                            Operating System (or such operating systems as
+          Software                     Location              may be approved by LIFFE from time to time)
+============================================================================================================
+          <S>                          <C>                  <C>
+            [**]                         [**]                          [**]
+------------------------------------------------------------------------------------------------------------
+            [**]                         [**]                          [**]
+------------------------------------------------------------------------------------------------------------
+            [**]                         [**]                          [**]
+------------------------------------------------------------------------------------------------------------
+            [**]                         [**]                          [**]
+------------------------------------------------------------------------------------------------------------
+            [**]                         [**]                          [**]
+------------------------------------------------------------------------------------------------------------
+            [**]                         [**]                          [**]
+------------------------------------------------------------------------------------------------------------
+            [**]                         [**]                          [**]
+------------------------------------------------------------------------------------------------------------
+            [**]                         [**]                          [**]
+------------------------------------------------------------------------------------------------------------
+            [**]                         [**]                          [**]
+------------------------------------------------------------------------------------------------------------
+            [**]                         [**]                          [**]
+------------------------------------------------------------------------------------------------------------
+            [**]                         [**]                          [**]
+------------------------------------------------------------------------------------------------------------
+            [**]                         [**]                          [**]
+------------------------------------------------------------------------------------------------------------
+            [**]                         [**]                          [**]
+------------------------------------------------------------------------------------------------------------
+            [**]                         [**]                          [**]
+------------------------------------------------------------------------------------------------------------
+            [**]                         [**]                          [**]
+------------------------------------------------------------------------------------------------------------
+            [**]                         [**]                          [**]
+------------------------------------------------------------------------------------------------------------
+            [**]                         [**]                          [**]
+------------------------------------------------------------------------------------------------------------
+            [**]                         [**]                          [**]
+------------------------------------------------------------------------------------------------------------
+            [**]                         [**]                          [**]
+------------------------------------------------------------------------------------------------------------
+            [**]                         [**]                          [**]
+------------------------------------------------------------------------------------------------------------
+            [**]                         [**]                          [**]
+------------------------------------------------------------------------------------------------------------
+            [**]                         [**]                          [**]
+------------------------------------------------------------------------------------------------------------
+</TABLE>
+
+                   CONFIDENTIAL INFORMATION REDACTED AND FILED
+       SEPARATELY WITH THE COMMISSION. OMITTED PORTIONS INDICATED BY [**]
+
+<PAGE>
+
+                       CONFIDENTIAL TREATMENT REQUESTED BY
+                               CBOT HOLDINGS, INC.
+
+<TABLE>
+<CAPTION>
+------------------------------------------------------------------------------------------------------------
+                                                            Operating System (or such operating systems as
+          Software                     Location              may be approved by LIFFE from time to time)
+============================================================================================================
+          <S>                          <C>                  <C>
+            [**]                         [**]                          [**]
+------------------------------------------------------------------------------------------------------------
+</TABLE>
+
+
+
+
+                   CONFIDENTIAL INFORMATION REDACTED AND FILED
+       SEPARATELY WITH THE COMMISSION. OMITTED PORTIONS INDICATED BY [**]
+
+<PAGE>
+
+                       CONFIDENTIAL TREATMENT REQUESTED BY
+                               CBOT HOLDINGS, INC.
+
+                                   SCHEDULE C
+
+                       PRODUCTS OUTSIDE CBOT FIELD OF USE
+                       ----------------------------------
+
+<TABLE>
+---------------------------------------------------------------------------------------------------------
+<S>                           <C>                                      <C>
+ Index Futures                Short Term Interest Rate Futures         Commodity Futures
+---------------------------------------------------------------------------------------------------------
+      [**]                          [**]                                     [**]
+                             ------------------------------------
+                              Short Term Interest Rate Options
+
+                                    [**]
+---------------------------------------------------------------------------------------------------------
+ Index Options                Medium and Long Term Interest Rate       Commodity Options
+                              Futures
+---------------------------------------------------------------------------------------------------------
+      [**]                          [**]                                     [**]
+
+---------------------------------------------------------------------------------------------------------
+                              Medium and Long Term Interest Rate       Other Products
+                              Options
+---------------------------------------------------------------------------------------------------------
+                                    [**]                               Futures
+
+                                                                       [**]
+
+                                                                       Options
+
+                                                                       [**]
+
+---------------------------------------------------------------------------------------------------------
+</TABLE>
+
+
+
+
+                   CONFIDENTIAL INFORMATION REDACTED AND FILED
+       SEPARATELY WITH THE COMMISSION. OMITTED PORTIONS INDICATED BY [**]
+
+<PAGE>
+
+                       CONFIDENTIAL TREATMENT REQUESTED BY
+                               CBOT HOLDINGS, INC.
+
+                                   SCHEDULE D
+
+                   PRODUCTS WITHIN CBOT EXCLUSIVE FIELD OF USE
+                   -------------------------------------------
+
+
+<TABLE>
+-------------------------------------------------------------------------------------------------
+<S>             <C>                        <C>                            <C>
+Agricultural    Treasury Futures           Treasury Options               Index Futures
+Futures
+-------------------------------------------------------------------------------------------------
+        [**]            [**]                       [**]                           [**]
+-------------------------------------------------------------------------------------------------
+Agricultural    Federal Funds Futures      Other Financial Options        Index Options
+Options
+-------------------------------------------------------------------------------------------------
+        [**]            [**]                       [**]                           [**]
+-------------------------------------------------------------------------------------------------
+                Other Financial Futures    Metal Options
+-------------------------------------------------------------------------------------------------
+                        [**]                       [**]
+-------------------------------------------------------------------------------------------------
+                                           Metal Futures
+-------------------------------------------------------------------------------------------------
+                                                   [**]
+-------------------------------------------------------------------------------------------------
+</TABLE>
+
+
+
+                   CONFIDENTIAL INFORMATION REDACTED AND FILED
+       SEPARATELY WITH THE COMMISSION. OMITTED PORTIONS INDICATED BY [**]
+
+<PAGE>
+
+                       CONFIDENTIAL TREATMENT REQUESTED BY
+                               CBOT HOLDINGS, INC.
+
+                                   SCHEDULE E
+
+                         INTERFACE SUBLICENSE AGREEMENT
+                         ------------------------------
+
+     This Interface Sublicense Agreement (this "Agreement") dated as of
+__________ __, 200__ (the "Effective Date"), is among Board of Trade of the City
+of Chicago, Inc., a Delaware corporation (the "CBOT"), and ____________, a(n)
+_________ [form of entity] ("Licensee"). Capitalized terms used but not
+otherwise defined herein shall have the meanings ascribed thereto in Section 1.
+
+                                    RECITALS
+
+     A. The CBOT offers an automated derivatives trading and order matching
+system known as "LIFFE CONNECT(TM)" (the "Trading System") to facilitate the
+trading of certain futures and options contracts on the electronic contract
+market operated by the CBOT (the "Exchange").
+
+     B. In order to gain access to and participate in the Exchange via the
+Trading System, Licensee wishes, and the CBOT is willing to license to Licensee
+the right, to access the Interface component of the Trading System set forth in
+Exhibit A which the CBOT may provide with the software (the "Software"), and to
+use any documentation relating to the Software the CBOT may provide (the
+"Interface Documentation" and together with the Software, the "Licensed
+Products").
+
+     In consideration of the recitals and the mutual covenants and agreements
+hereinafter set forth, the parties hereto (each a "Party" and collectively the
+"Parties") agree as follows:
+
+                                   AGREEMENT
+
+1.   Definitions
+
+     In this Agreement, the following expressions shall have the following
+     respective meanings:
+
+     "Agreement" shall have the meaning set forth above.
+
+     "Application" means a front-end application or other software which
+     interfaces with, and has been conformed with, the Interface.
+
+     "CBOT Matching Engine" means the central processing component of the
+     Trading System.
+
+     "CBOT Property" shall have the meaning set forth in Section 11.1.
+
+     "Confidential Information" shall have the meaning set forth in Section
+     12.1.
+
+     "Contractor" means a Person contracted by Licensee to assist Licensee in
+     developing Applications.
+
+     "Data" means externally disseminated Exchange-related pricing and trade
+     volume information.
+
+     "Effective Date" shall have the meaning set forth above.
+
+     "Exchange" shall have the meaning set forth above.
+
+                   CONFIDENTIAL INFORMATION REDACTED AND FILED
+       SEPARATELY WITH THE COMMISSION. OMITTED PORTIONS INDICATED BY [**]
+
+
+
+<PAGE>
+
+                       CONFIDENTIAL TREATMENT REQUESTED BY
+                               CBOT HOLDINGS, INC.
+
+
+     "Exchange Notice" means a notice published by the Exchange by such means as
+     the Exchange may from time to time determine.
+
+     "Force Majeure Event" means any cause beyond a Party's reasonable control,
+     including, but not limited to, any flood, riot, fire, judicial or
+     governmental action, and labor disputes.
+
+     "Interface" means the LIFFE CONNECT(TM) application interface described in
+     Exhibit A for the use and/or access to the CBOT Matching Engine by an
+     Application.
+
+     "Interface Documentation" shall have the meaning set forth above.
+
+     "Licensed Products" shall have the meaning set forth above.
+
+     "Licensee's Property" shall have the meaning set forth in Section 11.2.
+
+     "LIFFE" means LIFFE Administration and Management, a company incorporated
+     in England and Wales, having a principal place of business at Cannon Bridge
+     House, 1 Cousin Lane, London EC4R 3XX, England.
+
+     "Malicious Code" means any computer virus, Trojan horse, worm, time bomb,
+     or other similar code or hardware component designed to disrupt the
+     operation of, permit unauthorized access to, erase, or modify the Licensed
+     Products.
+
+     "Member" means any Person authorized by the CBOT to trade on the Exchange.
+
+     "Parties" shall have the meaning set forth above.
+
+     "Person" means an individual, partnership, corporation, limited liability
+     company, trust, joint venture, joint stock company, association,
+     unincorporated organization, government agency or political subdivision
+     thereof, or other entity.
+
+     "Premises" means the premises specified in Exhibit A.
+
+     "Responsible Person" means, with respect to the Trading System, an
+     individual who is (i) designated as such by Licensee, if Licensee is a
+     Member, pursuant to the Rules, and (ii) registered with the Exchange.
+
+     "Rules" means the rules of the Exchange and each procedure and Exchange
+     Notice as in effect from time to time and, (i) with respect to the trading
+     of futures contracts, the regulations of the United States Commodity
+     Futures Trading Commission (the "CFTC"); (ii) with respect to the trading
+     of securities futures, the rules and regulations of the Securities and
+     Exchange Commission (the "SEC") and the CFTC; and (iii) with respect to the
+     trading of securities other than securities futures, the rules and
+     regulations of the SEC.
+
+     "Software" shall have the meaning set forth above.
+
+     "Third Party Materials" means any equipment, hardware, software, or other
+     products obtained from any third party.
+
+     "Trading System" shall have the meaning set forth above.
+
+                   CONFIDENTIAL INFORMATION REDACTED AND FILED
+       SEPARATELY WITH THE COMMISSION. OMITTED PORTIONS INDICATED BY [**]
+
+                                       2
+
+<PAGE>
+
+                      CONFIDENTIAL TREATMENT REQUESTED BY
+                              CBOT HOLDINGS, INC.
+
+     "User Guides" means the documentation which may be provided relating to the
+     use of the Trading System.
+
+2.   License
+
+     2.1 License. Subject to the terms and conditions hereof, the CBOT hereby
+grants to Licensee a non-transferable, non-exclusive and royalty-free license
+(a) to, and to sublicense to one or more Contractors the right to, have
+reasonable access to the Interface and use the Software and the Interface
+Documentation to procure and/or develop Applications; (b) to install the
+Software at the Premises; and (c) to use the Software to access Data. If
+Licensee is a Member, the CBOT additionally grants to Licensee a
+non-transferable and non-exclusive license to use the Interface to access the
+CBOT Matching Engine and, if possible, other components of the Trading System.
+Licensee may not make any other use of the Licensed Products.
+
+     2.2 Contractors. Licensee shall ensure that each Contractor to which
+Licensee sublicenses its rights (a) shall make no use of the Licensed Products
+other than that set forth in Section 2.1(a), and (b) otherwise abides by the
+terms of this Agreement as if Contractor were a party to this Agreement.
+Licensee is responsible for all actions of each Contractor with respect to the
+Licensed Products.
+
+3.   Delivery of Licensed Products
+
+     3.1 Software. By such date(s) as may be agreed upon by the Parties and via
+a delivery method agreed upon by the Parties, the CBOT shall deliver to the
+Premises a master copy of the current version of the Software, in object code
+form. Licensee may copy the Software only with the prior written consent of the
+CBOT. All copies of the Software are subject to the terms and conditions of this
+Agreement.
+
+     3.2 Interface Documentation. Upon Licensee's request, by such date(s) as
+may be agreed upon by the Parties, and via a delivery method and in a format
+agreed upon by the Parties, the CBOT will provide the Interface Documentation to
+Licensee. Licensee may make as many copies of the Interface Documentation as it
+deems reasonably necessary. All copies of the Interface Documentation are
+subject to the terms and conditions of this Agreement.
+
+4.   Modifications and Improvements
+
+     CBOT reserves the right during the term of this Agreement to specify for
+use and/or access hereunder any improvements, modifications, enhancements or
+upgrades to and of the Licensed Products or any part or parts thereof. Unless
+otherwise specified by the CBOT, Licensee shall use only the current release
+version(s) of the Software provided hereunder.
+
+5.   Obligations of Licensee
+
+     5.1  Use of Software.
+
+          5.1.1 General Restrictions. With respect to the Software, Licensee
+                agrees not to, and not to permit any Contractor or any other
+                Person to:
+
+                (a) copy, modify, duplicate, decompile, reverse engineer,
+                    disassemble or otherwise reduce to a humanly perceivable
+                    form, make any attempt to discover the source code of,
+                    create derivative works based on, market,
+
+                  CONFIDENTIAL INFORMATION REDACTED AND FILED
+       SEPARATELY WITH THE COMMISSION. OMITTED PORTIONS INDICATED BY [**]
+
+                                       3
+
+<PAGE>
+
+                      CONFIDENTIAL TREATMENT REQUESTED BY
+                              CBOT HOLDINGS, INC.
+
+                    sell, provide or make available to any third party,
+                    otherwise distribute, or translate the Software, except as
+                    expressly provided herein;
+
+               (b)  remove or alter in any manner any trademarks, trade names,
+                    copyright notices or other proprietary or confidentiality
+                    notices of the CBOT or third Persons contained or displayed
+                    in or on the Software; or
+
+               (c)  upload any Malicious Code or otherwise use the Software to
+                    further any purpose which is illegal or is otherwise
+                    contrary to the License.
+
+          5.1.2 Copies. In the event that Licensee is granted permission
+                pursuant to Section 3.1 to copy the Software, Licensee shall:
+
+                (a) ensure that all trademarks, trade names, copyright notices
+                    and other proprietary and confidentiality notices or
+                    designations, of the CBOT or any other Person, contained or
+                    displayed in or on the Software, are reproduced on all
+                    Software copies created by Licensee; and
+
+                (b) maintain a current and accurate record of the number of
+                    copies made and of the specific location of each such copy.
+
+     5.2 Use of Interface Documentation. Licensee shall ensure that all
+trademarks, trade names, copyright notices and other proprietary and
+confidentiality notices or designations, of the CBOT, or any other Person, are
+reproduced on all Interface Documentation copies made by Licensee. Licensee
+agrees not to, and not to permit any Contractor or any other Person to: (a)
+copy, modify, translate, create derivative works based on, market, sell, or
+distribute the Interface Documentation, except as expressly provided herein; or
+(b) remove or alter in any manner any trademarks, trade names, copyright notices
+or other proprietary or confidentiality notices or designations contained or
+displayed therein.
+
+     5.3 Materials and Assistance. In order to facilitate the CBOT's performance
+of its obligations hereunder, Licensee shall promptly provide to the CBOT any
+information, documentation, access to the Premises, equipment, software, and
+personnel as the CBOT may reasonably request.
+
+     5.4 Export Compliance. Licensee shall comply with all applicable export
+laws and regulations of the United States and foreign authorities, including
+regulatory authorities. For purposes of this obligation, export laws and
+regulations include, but are not limited to, all applicable end use controls and
+all applicable restrictions on the export, reexport and transfer of encryption
+items.
+
+6.   Market Entry Testing
+
+     6.1 Testing Process. Prior to being permitted to participate in the
+Exchange via any Application, Licensee must complete the CBOT's Market Entry
+Testing process, which process is designed to safeguard the integrity of the
+Exchange by verifying that (a) Licensee demonstrates an appropriate level of
+technical and operational readiness to participate in the Trading System; and
+(b) each Application conforms to a series of criteria to ensure it will not
+cause degradation of the Trading System and is fit for the purpose of
+participating in the Exchange. Upon request by Licensee, the CBOT shall provide
+Licensee a test environment loaded with a dummy market and a pre-defined script
+known as a "Market Entry Test" or "MET," and Licensee shall undertake the
+testing process. If the CBOT deems, in its sole discretion, that Licensee and
+the particular Application being tested have met all of the relevant Market
+Entry Testing requirements, the CBOT will issue to Licensee, if required by the
+operation of the
+
+                  CONFIDENTIAL INFORMATION REDACTED AND FILED
+       SEPARATELY WITH THE COMMISSION. OMITTED PORTIONS INDICATED BY [**]
+
+                                       4
+
+<PAGE>
+
+                      CONFIDENTIAL TREATMENT REQUESTED BY
+                              CBOT HOLDINGS, INC.
+
+
+Interface, an appropriate encrypted license key (which key will be a view only
+key unless Licensee is a Member) which will permit the Licensee to participate
+in the Exchange utilizing the Application tested. If the CBOT determines, in its
+sole discretion, that Licensee has not met all of the Market Entry Testing
+requirements, the CBOT will so notify Licensee, which will then be provided a
+subsequent opportunity to undertake Market Entry Testing during the time period
+specified by the CBOT.
+
+     6.2 Modified Applications. In the event any Application which has passed
+the Market Entry Testing process is modified, Licensee must (a) notify the CBOT,
+and (b) undertake Market Entry Testing of the modified Application.
+
+7.   Payment
+
+     7.1 Expenses. Licensee shall promptly reimburse the CBOT for any expenses
+incurred hereunder in association with the performance of the CBOT's obligations
+hereunder, including, but not limited to, all travel and travel-related
+expenses.
+
+     7.2 Late Payment. All past due amounts owed to the CBOT will earn interest
+at the rate of the lesser of one and one half percent (1.5%) per month or the
+maximum amount allowed under applicable law, commencing on the applicable due
+date. Licensee will reimburse the CBOT for all reasonable costs (including
+reasonable attorneys fees) incurred in collecting past due amounts owed by
+Licensee.
+
+     7.3 Taxes. Licensee shall pay or reimburse the CBOT for all taxes, however
+designated, and whether international, national, state or local, which are
+levied or imposed in connection with or as a result of this Agreement,
+excluding, however, taxes based on the CBOT's net income.
+
+8.   Term
+
+     This Agreement shall commence on the Effective Date and shall continue
+until and unless terminated in accordance with Section 9 or as otherwise
+provided in this Agreement.
+
+9.   Termination
+
+     9.1 By the CBOT. The CBOT may terminate this Agreement for any reason,
+immediately upon written notice to Licensee.
+
+     9.2 By Licensee. Licensee may terminate this Agreement for any reason, upon
+one day's written notice to the CBOT.
+
+     9.3 Automatic Termination. This Agreement will terminate automatically upon
+(a) the death of Licensee, if Licensee is an individual; or (b) the dissolution
+of Licensee, if Licensee is other than an individual.
+
+10.  Consequences of Termination
+
+     10.1 Software. Upon termination of this Agreement, for whatever reason,
+Licensee shall immediately cease access to and use of the Licensed Products and,
+at Licensee's cost, shall return to the CBOT or its designee the Licensed
+Products and other CBOT Property (as defined in Section 11.1) in the possession
+or control of Licensee or any Contractor, including, but not limited to, any
+Confidential Information (as defined in Section 12.1) of the CBOT. Licensee
+shall be responsible for any damage to
+
+                  CONFIDENTIAL INFORMATION REDACTED AND FILED
+       SEPARATELY WITH THE COMMISSION. OMITTED PORTIONS INDICATED BY [**]
+
+                                       5
+
+<PAGE>
+
+                      CONFIDENTIAL TREATMENT REQUESTED BY
+                              CBOT HOLDINGS, INC.
+
+or deterioration of the Licensed Products arising out of a breach by Licensee of
+this Agreement or any negligence or willful misconduct of Licensee, any
+Contractors, or the employees, officers or agents of Licensee or such
+Contractors.
+
+     10.2 Payment. Upon any termination of this Agreement, Licensee shall pay to
+the CBOT any and all unpaid and outstanding amounts due hereunder through the
+effective date of termination.
+
+     10.3 Survival. The termination of this Agreement for any reason will not
+affect the accrued rights of the Parties or the right of either Party to sue for
+damages arising from a breach of this Agreement. Sections 1, 7, 10, 11, 12, 13,
+14, 15, 16 (solely for the purpose of the repossession of the Licensed Products
+upon termination), 19, 21, 23, 24, 25, 26, 27, 28 and 30 will survive the
+termination of this Agreement.
+
+11.  Proprietary Rights
+
+     11.1 CBOT Property. As between Licensee and the CBOT, all rights, title,
+and interest in and to the Licensed Products and all parts thereof; all other
+materials and documentation whatsoever relating to the Licensed Products and/or
+provided by the CBOT to Licensee; all Confidential Information (as defined
+below) of the CBOT; Market Data; and all enhancements and upgrades to and
+modifications of the Licensed Products; including all copyrights, trademarks,
+and other intellectual property inherent in the foregoing or appurtenant thereto
+(collectively, "CBOT Property") shall be and remain vested in the CBOT (or its
+licensors, as applicable). To the extent, if any, that ownership of CBOT
+Property does not automatically vest in the CBOT (or its licensors, as
+appropriate) by virtue of this Agreement or otherwise, Licensee hereby agrees to
+transfer and assign to the CBOT (or its licensors, as appropriate), all rights,
+title, and interest which Licensee may have in and to such CBOT Property.
+Licensee acknowledges that the CBOT shall have the right to provide to third
+Persons technology which is the same or similar to the Licensed Products.
+Licensee agrees, at its own cost, to do or cease to do all acts as the CBOT may
+direct, and to execute, or cause its employees, officers, agents or Contractors
+to execute, all such documents as the CBOT deems reasonably necessary or helpful
+to assure further the right, title, and interest of the CBOT (or its licensors)
+in and to such CBOT Property.
+
+     11.2 Licensee's Property. As between Licensee and the CBOT, all rights,
+title, and interest in and to each Application and any additional property
+(other than the Licensed Products or other CBOT Property) used by Licensee
+hereunder and provided by Licensee (collectively, "Licensee's Property") shall
+be and remain vested in Licensee.
+
+12.  Confidentiality
+
+     12.1 Confidential Information. Subject to Section 12.2, each Party shall
+treat as confidential all private, proprietary or confidential information
+(including, but not limited to, that information and those materials Licensee
+has obtained rights to use hereunder) which the CBOT and Licensee may receive or
+have access to during or prior to the performance of this Agreement
+("Confidential Information"), and shall not divulge such Confidential
+Information: (a) to any Person other than to the employees, subcontractors,
+licensors, consultants or advisors of such Party to whom such disclosure is
+necessary to facilitate the performance of this Agreement, without the other
+Party's prior written consent; or (b) unless requested pursuant to a judicial or
+governmental request, requirement, or order under law, in which case, if not so
+prohibited by a regulatory or other governmental authority or an order of a
+court of competent jurisdiction, the receiving Party shall make the required
+disclosure and promptly notify the other Party of such request and related
+disclosure.
+
+                  CONFIDENTIAL INFORMATION REDACTED AND FILED
+       SEPARATELY WITH THE COMMISSION. OMITTED PORTIONS INDICATED BY [**]
+
+                                       6
+
+<PAGE>
+
+                      CONFIDENTIAL TREATMENT REQUESTED BY
+                              CBOT HOLDINGS, INC.
+
+     12.2 Exclusions. Notwithstanding Section 12.1, Confidential Information
+will not include information (a) which is independently developed by the
+receiving Party or is lawfully received free of restriction from another source
+having the right to furnish such information; (b) which has become generally
+available to the public by acts not attributable to the receiving Party or its
+employees, agents or contractors; or (c) which, at the time of disclosure to the
+receiving Party, was known to the receiving Party free of restriction and
+evidenced by documentation in the receiving Party's possession. In addition, the
+CBOT shall be entitled to disclose Confidential Information of Licensee to the
+Exchange, employees of the Exchange, consultants and advisors of the Exchange
+and any other Person as may be necessary to facilitate the operation of the
+Exchange or comply with any contractual obligations of the CBOT relating to the
+operation of the Exchange.
+
+13.  Indemnification
+
+     Licensee shall defend, indemnify and hold the CBOT harmless, against all
+costs, claims, demands, expenses and liabilities of any nature whatsoever
+(including reasonable attorneys fees) incurred or suffered by the CBOT arising
+out of, or in connection with, any claim, demand, or cause of action which is
+based upon or arises out of: (a) the breach of this Agreement or any part
+hereof; (b) use of the Licensed Products by Licensee or any Contractor in
+violation of this Agreement; (c) the gross negligence or willful misconduct of
+Licensee or any Contractor; (d) Licensee's Property or the CBOT's use thereof;
+(e) Licensee's or Licensee's customers' use of any Application; or (e) any
+damages to Licensed Products in the possession or control of Licensee or any
+Contractor.
+
+14.  Disclaimer of Warranties
+
+     LICENSEE ACKNOWLEDGES THAT THE CBOT PROVIDES THE LICENSED PRODUCTS AND
+ACCESS TO THE INTERFACE "AS IS." EXCEPT AS SPECIFICALLY PROVIDED IN THIS
+AGREEMENT, THE CBOT MAKES NO, AND HEREBY DISCLAIMS ALL, WARRANTIES, CONDITIONS,
+UNDERTAKINGS, TERMS OR REPRESENTATIONS, EXPRESSED OR IMPLIED BY STATUTE, COMMON
+LAW OR OTHERWISE, IN RELATION TO THE LICENSED PRODUCTS OR ANY PART OR PARTS OF
+THE SAME. THE CBOT SPECIFICALLY DISCLAIMS ALL IMPLIED WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. THE CBOT
+FURTHER DISCLAIMS ALL WARRANTIES, IMPLIED OR OTHERWISE, RELATING TO ANY THIRD
+PARTY MATERIALS.
+
+15.  Liability
+
+     15.1 General Limitation. NEITHER THE CBOT NOR ANY OFFICERS, EMPLOYEES,
+AGENTS, SUBCONTRACTORS OR LICENSORS OF THE CBOT SHALL HAVE ANY LIABILITY TO
+LICENSEE, OR ANY OTHER PERSON, FOR ANY LOSS, DAMAGE OR INJURY, DIRECT OR
+INDIRECT (INCLUDING, BUT NOT LIMITED TO, CONSEQUENTIAL DAMAGES AND LOSS OF
+PROFITS, GOODWILL OR CONTRACTS), WHETHER ARISING FROM THE NEGLIGENCE OR BREACH
+OF CONTRACT OF THE CBOT, ITS OFFICERS, EMPLOYEES, AGENTS OR REPRESENTATIVES OR
+OTHERWISE, AND WHETHER OR NOT EITHER PARTY (OR ANY DESIGNEE) SHALL HAVE BEEN
+ADVISED OF OR OTHERWISE MIGHT HAVE ANTICIPATED THE POSSIBILITY OF SUCH DAMAGES,
+EXCEPT THAT THE CBOT SHALL ACCEPT LIABILITY FOR THE GROSS NEGLIGENCE OR WILLFUL
+MISCONDUCT OF THE CBOT OR ITS OFFICERS, EMPLOYEES, AGENTS, SUBCONTRACTORS OR
+LICENSORS.
+
+     15.2 Aggregate Liability. In the event of (a) liability for direct physical
+damage to the tangible property of Licensee or (b) that the limitation under
+Section 15.1 is found by a court of competent
+
+                  CONFIDENTIAL INFORMATION REDACTED AND FILED
+       SEPARATELY WITH THE COMMISSION. OMITTED PORTIONS INDICATED BY [**]
+
+                                       7
+
+<PAGE>
+
+                      CONFIDENTIAL TREATMENT REQUESTED BY
+                              CBOT HOLDINGS, INC.
+
+jurisdiction to be invalid, unlawful, or unenforceable, the entire aggregate
+liability of the CBOT under or in connection with this Agreement will not exceed
+$500.
+
+16.  Inspection and Disablement of the Licensed Products
+
+     The CBOT shall be entitled, and Licensee shall permit the CBOT, to have
+access to the Premises and the Licensed Products on the Premises during normal
+business hours to inspect, disable or repossess such Licensed Products or any
+part or parts thereof and/or to take such other action in connection with the
+Licensed Products as may be deemed desirable or necessary by the CBOT:
+
+          (a)  to determine whether Licensee is complying or has complied with
+               its obligations under this Agreement;
+
+          (b)  to facilitate efforts to remedy any defect or error in the
+               Licensed Products or any part or parts thereof; or
+
+          (c)  in the event Licensee commits a material breach of its
+               obligations under this Agreement.
+
+     Notwithstanding the foregoing, (i) the CBOT shall be entitled to prohibit
+Licensee's access to the Licensed Products, to disable the Licensed Products, or
+to remove the Licensed Products from the Premises at any time and from time to
+time, provided that the CBOT shall, where practicable, use commercially
+reasonable efforts to give prior written notice to Licensee; and (ii) unless any
+such repossession or disablement is occasioned by Licensee's breach of its
+obligations hereunder, the CBOT shall use good faith efforts to (x) return or
+reinstate the Licensed Products or the relevant part or parts thereof (as the
+case may be), or (y) as soon as reasonably practicable provide Licensee with
+replacement products that will function in all material respects with the
+repossessed or disabled Licensed Products (which will thereafter be "Licensed
+Products" hereunder).
+
+17.  Assignment and Sublicensing
+
+     Except as expressly provided herein, Licensee shall not assign (by
+operation of law or otherwise), sublicense, transfer, charge or part with the
+possession of the benefits and obligations of, this Agreement (including, but
+not limited to, the license granted under Section 2) without the prior written
+consent of the CBOT. The CBOT may assign its rights and obligations hereunder
+without Licensee's prior consent.
+
+18.  Subcontractors
+
+     The CBOT shall be entitled to appoint such subcontractors as it shall deem
+fit to carry out the whole or any part of its obligations hereunder.
+
+19.  Third Party Beneficiary
+
+     LIFFE shall be a third party beneficiary of this Agreement, thereby
+entitled to receive the rights of the CBOT (excluding those set forth in
+Sections 7 and 9), and enforce the provisions of this Agreement against
+Licensee, or any other Person, to the same extent as if LIFFE had been a
+signatory to this Agreement, in the courts and under the laws of the State of
+Illinois, without giving effect to the provisions, policies or principles of any
+state law relating to choice or conflict of laws. Notwithstanding the foregoing,
+nothing in this Agreement will impose directly upon LIFFE any of the obligations
+of the CBOT set forth herein.
+
+                  CONFIDENTIAL INFORMATION REDACTED AND FILED
+       SEPARATELY WITH THE COMMISSION. OMITTED PORTIONS INDICATED BY [**]
+
+                                       8
+
+<PAGE>
+
+                      CONFIDENTIAL TREATMENT REQUESTED BY
+                              CBOT HOLDINGS, INC.
+
+20.  Force Majeure
+
+     Except for the payment of any amounts due hereunder, if the performance of
+this Agreement by either Party is prevented, hindered, delayed or otherwise made
+impracticable by reason of any Force Majeure Event, that Party shall be excused
+from such performance to the extent that it is prevented, hindered or delayed by
+such cause.
+
+21.  Entire Agreement
+
+     This Agreement constitutes the entire understanding between the Parties
+with respect to the subject matter hereof and supersedes all prior
+representations, agreements, negotiations and discussions between the Parties.
+
+22.  Amendments
+
+     Except as expressly provided for herein, this Agreement may be amended only
+by an instrument in writing signed on behalf of each of the Parties and in
+compliance with law.
+
+23.  Waiver
+
+     The failure of a Party to exercise or enforce any right conferred upon it
+by this Agreement shall not be deemed to be a waiver of any such right or
+operate so as to bar the exercise or enforcement thereof at any time or times
+hereafter.
+
+24.  Notices
+
+     Except as otherwise expressly provided herein, all notices, certifications,
+requests, demands, payments and other communications hereunder: (a) shall be in
+writing; (b) may be delivered by certified or registered mail, postage prepaid;
+by hand; by facsimile; or by any internationally recognized private courier; (c)
+shall be effective (i) if mailed, on the date three (3) days after the date of
+mailing or (ii) if hand delivered, faxed, or delivered by private courier, on
+the date of delivery; and (d) shall be addressed as follows:
+
+                           If to Licensee:
+
+                           -----------------------------------------------------
+                           [address]
+
+                           Attention:
+                                      ------------------------------------------
+
+                           If to the CBOT:
+
+                           Board of Trade of the City of Chicago, Inc.
+                           141 West Jackson Boulevard
+                           Suite 600-A
+                           Chicago, Illinois  60604
+                           [Attention:                              ]
+                                       -----------------------------
+or to such other address or addresses as may hereafter be specified by notice
+given by one Party to the other.
+
+                  CONFIDENTIAL INFORMATION REDACTED AND FILED
+       SEPARATELY WITH THE COMMISSION. OMITTED PORTIONS INDICATED BY [**]
+
+                                       9
+
+<PAGE>
+
+                       CONFIDENTIAL TREATMENT REQUESTED BY
+                               CBOT HOLDINGS, INC.
+
+
+25.  Remedies Not Exclusive
+
+     No remedy conferred by any provision of this Agreement is intended to be
+exclusive of any other remedy (including, but not limited to, any remedy or
+rights under the Rules), except as expressly provided in this Agreement, and
+each and every remedy shall be cumulative and shall be in addition to every
+other remedy given hereunder or now or hereafter existing in law or in equity or
+by statute or otherwise.
+
+26.  Binding Provisions
+
+     This Agreement is binding upon, and shall inure to the benefit of, the
+Parties and their respective administrators, legal representatives, successors,
+and permitted assigns.
+
+27.  Separability of Provisions
+
+     Each provision of this Agreement shall be considered separable; and if, for
+any reason, any provision of this Agreement is determined by a court of
+competent jurisdiction to be invalid, unlawful, or unenforceable, such
+determination shall not affect the enforceability of the remainder of this
+Agreement or the validity, lawfulness, or enforceability of such provision in
+any other jurisdiction.
+
+28.  Interpretations
+
+     References to sections and exhibits are to sections of and exhibits to this
+Agreement. The headings are inserted for convenience of reference only and shall
+not affect the construction of this Agreement. The masculine gender shall
+include the feminine and the singular shall include the plural, and vice versa.
+
+29.  Further Assurances
+
+     The Parties shall execute all such further documents and do all such
+further acts as may be necessary to carry the provisions of this Agreement into
+full force and effect.
+
+30.  Governing Law
+
+     The validity and effectiveness of this Agreement shall be governed by and
+construed and enforced in accordance with the internal laws of the State of
+Illinois, without giving effect to the provisions, policies or principles of any
+state law relating to choice or conflict of laws.
+
+31.  Counterparts
+
+     This Agreement may be executed in any number of counterparts, and by the
+different Parties on separate counterparts, each of which when so executed and
+delivered shall be an original, but all of which together shall constitute but
+one and the same instrument. A complete set of counterparts shall be lodged with
+each Party.
+
+                  [Remainder of page intentionally left blank.
+                            Signature page follows.]
+
+
+                   CONFIDENTIAL INFORMATION REDACTED AND FILED
+       SEPARATELY WITH THE COMMISSION. OMITTED PORTIONS INDICATED BY [**]
+
+                                       10
+
+<PAGE>
+
+                       CONFIDENTIAL TREATMENT REQUESTED BY
+                               CBOT HOLDINGS, INC.
+
+
+     IN WITNESS WHEREOF, the Parties have executed this Interface Sublicense
+Agreement as of the Effective Date.
+
+                                     LICENSEE
+
+                                     a(n) __________ [Form of Entity]
+
+                                     By:
+                                        ----------------------------------------
+                                     Name:
+                                          --------------------------------------
+                                     Its:
+                                         ---------------------------------------
+
+
+                                    BOARD OF TRADE OF THE CITY OF CHICAGO, INC.,
+                                    a Delaware corporation
+
+
+                                     By:
+                                        ----------------------------------------
+                                     Name:
+                                          --------------------------------------
+                                     Its:
+                                         ---------------------------------------
+
+
+
+
+
+
+
+                   CONFIDENTIAL INFORMATION REDACTED AND FILED
+       SEPARATELY WITH THE COMMISSION. OMITTED PORTIONS INDICATED BY [**]
+
+<PAGE>
+
+                       CONFIDENTIAL TREATMENT REQUESTED BY
+                               CBOT HOLDINGS, INC.
+
+                                    EXHIBIT A
+
+1.   Premises
+
+
+
+
+2.   Interface Software
+
+
+
+
+
+
+
+
+
+
+                   CONFIDENTIAL INFORMATION REDACTED AND FILED
+       SEPARATELY WITH THE COMMISSION. OMITTED PORTIONS INDICATED BY [**]
+
+<PAGE>
+
+                       CONFIDENTIAL TREATMENT REQUESTED BY
+                               CBOT HOLDINGS, INC.
+
+                                   SCHEDULE F
+
+                                 SECURITY POLICY
+                                 ---------------
+
+1.   [**]
+
+2.   [**]
+
+3.   [**]
+
+        3.1   [**]
+
+        3.2   [**]
+
+        3.3   [**]
+
+4.   [**]
+
+        4.1   [**]
+
+        4.2   [**]
+
+5.   [**]
+
+        5.1   [**]
+
+        5.2   [**]
+
+        5.3   [**]
+
+        5.4   [**]
+
+        5.5   [**]
+
+        5.6   [**]
+
+        5.7   [**]
+
+6.   [**]
+
+        6.1   [**]
+
+        6.2   [**]
+
+        6.3   [**]
+
+7.   [**]
+
+        7.1   [**]
+
+        7.2   [**]
+
+8.   [**]
+
+        8.1   [**]
+
+9.   [**]
+
+
+                   CONFIDENTIAL INFORMATION REDACTED AND FILED
+       SEPARATELY WITH THE COMMISSION. OMITTED PORTIONS INDICATED BY [**]
+
+<PAGE>
+
+                       CONFIDENTIAL TREATMENT REQUESTED BY
+                               CBOT HOLDINGS, INC.
+
+
+        9.1   [**]
+
+        9.2   [**]
+
+        9.3   [**]
+
+        9.4   [**]
+
+10.  [**]
+
+     10.1.    [**]
+
+     10.2.    [**]
+
+
+
+
+
+
+
+                   CONFIDENTIAL INFORMATION REDACTED AND FILED
+       SEPARATELY WITH THE COMMISSION. OMITTED PORTIONS INDICATED BY [**]
+
+                                        2
+
+<PAGE>
+
+                       CONFIDENTIAL TREATMENT REQUESTED BY
+                               CBOT HOLDINGS, INC.
+
+
+                                   SCHEDULE G
+                                   ----------
+
+                              THIRD PARTY SOFTWARE
+                              --------------------
+
+1. [**]
+
+                   CONFIDENTIAL INFORMATION REDACTED AND FILED
+       SEPARATELY WITH THE COMMISSION. OMITTED PORTIONS INDICATED BY [**]
+
+
+<PAGE>
+
+                       CONFIDENTIAL TREATMENT REQUESTED BY
+                               CBOT HOLDINGS, INC.
+
+
+[**]
+
+                   CONFIDENTIAL INFORMATION REDACTED AND FILED
+       SEPARATELY WITH THE COMMISSION. OMITTED PORTIONS INDICATED BY [**]
+
+                                        2
+
+<PAGE>
+
+                       CONFIDENTIAL TREATMENT REQUESTED BY
+                               CBOT HOLDINGS, INC.
+
+
+[**]
+
+                   CONFIDENTIAL INFORMATION REDACTED AND FILED
+       SEPARATELY WITH THE COMMISSION. OMITTED PORTIONS INDICATED BY [**]
+
+                                        3
+
+<PAGE>
+
+
+                      CONFIDENTIAL TREATMENT REQUESTED BY
+                              CBOT HOLDINGS, INC.
+
+2. [**]
+
+
+                   CONFIDENTIAL INFORMATION REDACTED AND FILED
+       SEPARATELY WITH THE COMMISSION. OMITTED PORTIONS INDICATED BY [**]
+
+
+<PAGE>
+
+
+                       CONFIDENTIAL TREATMENT REQUESTED BY
+                               CBOT HOLDINGS, INC.
+
+3. [**]
+
+4. [**]
+
+
+                   CONFIDENTIAL INFORMATION REDACTED AND FILED
+       SEPARATELY WITH THE COMMISSION. OMITTED PORTIONS INDICATED BY [**]
+
+<PAGE>
+
+                      CONFIDENTIAL TREATMENT REQUESTED BY
+                              CBOT HOLDINGS, INC.
+
+
+5. [**]
+
+                  CONFIDENTIAL INFORMATION REDACTED AND FILED
+       SEPARATELY WITH THE COMMISSION. OMITTED PORTIONS INDICATED BY [**]
+
+                                       6
+
+<PAGE>
+
+                      CONFIDENTIAL TREATMENT REQUESTED BY
+                              CBOT HOLDINGS, INC.
+
+6. [**]
+
+
+                   CONFIDENTIAL INFORMATION REDACTED AND FILED
+       SEPARATELY WITH THE COMMISSION. OMITTED PORTIONS INDICATED BY [**]
+
+<PAGE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+7. [**]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  CONFIDENTIAL INFORMATION REDACTED AND FILED
+       SEPARATELY WITH THE COMMISSION. OMITTED PORTIONS INDICATED BY [**]
+
+                                       8
+
+<PAGE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8. [**]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9. [**]
+
+
+
+
+                  CONFIDENTIAL INFORMATION REDACTED AND FILED
+       SEPARATELY WITH THE COMMISSION. OMITTED PORTIONS INDICATED BY [**]
+
+                                       9
+
+<PAGE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  CONFIDENTIAL INFORMATION REDACTED AND FILED
+       SEPARATELY WITH THE COMMISSION. OMITTED PORTIONS INDICATED BY [**]
+
+                                       10
+
+<PAGE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+10. [**]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  CONFIDENTIAL INFORMATION REDACTED AND FILED
+       SEPARATELY WITH THE COMMISSION. OMITTED PORTIONS INDICATED BY [**]
+
+                                       11
+
+<PAGE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  CONFIDENTIAL INFORMATION REDACTED AND FILED
+       SEPARATELY WITH THE COMMISSION. OMITTED PORTIONS INDICATED BY [**]
+
+                                       12
+
+<PAGE>
+
+                       CONFIDENTIAL TREATMENT REQUESTED BY
+                               CBOT HOLDINGS, INC.
+
+                                   SCHEDULE H
+
+                           PREFERRED ESCROW AGREEMENT
+                           --------------------------
+
+                      Account Number ______________________
+
+     This Preferred Escrow Agreement (this "Agreement") dated as of __________
+___, 2003, is among Data Securities International, Inc. ("DSI"), LIFFE
+Administration and Management, a company incorporated in England and Wales
+("Depositor"), and Board of Trade of the City of Chicago, Inc., a Delaware
+corporation ("Preferred Beneficiary"), who collectively may be referred to in
+this Agreement as "the parties" and who are more fully identified in Exhibit A.
+
+                                    RECITALS
+
+     A. Depositor and Preferred Beneficiary have entered into that certain
+Software License Agreement dated as of January 10, 2003, regarding certain
+proprietary technology of Depositor (the "License Agreement").
+
+     B. Depositor desires to avoid disclosure of its proprietary technology
+except under certain limited circumstances.
+
+     C. The proprietary technology of Depositor is used by Preferred Beneficiary
+in the conduct of its business and, therefore, Preferred Beneficiary needs
+access to the proprietary technology under certain limited circumstances.
+
+     D. Depositor and Preferred Beneficiary desire to establish an escrow with
+DSI to provide for the retention, administration and controlled access of the
+proprietary technology materials of Depositor.
+
+     E. The parties desire this Agreement to be supplementary to the License
+Agreement pursuant to 11 United States Bankruptcy Code, Section 365(n).
+
+                                   AGREEMENT
+
+1.   Deposits
+
+     1.1 Obligation to Make Deposit. Within six (6) months of the signing of
+this Agreement by the parties, Depositor shall deliver to DSI the proprietary
+information and other materials required to be deposited by the License
+Agreement (the "Deposit Materials"), including, but not limited to, the source
+code and relevant documentation relating to the then current versions of the
+software components of the Licensed Technology (as such term is defined in the
+License Agreement).
+
+     1.2 Identification of Tangible Media. Prior to the delivery of the Deposit
+Materials to DSI, Depositor shall conspicuously label for identification each
+document, magnetic tape, disk, or other tangible media upon which the Deposit
+Materials are written or stored. Additionally, Depositor shall complete
+Exhibit B to this Agreement by listing each such tangible media by the item
+label description, the type of media and the quantity. Exhibit B shall be signed
+by Depositor and delivered to DSI with the Deposit Materials. Unless and until
+Depositor makes the initial deposit with DSI, DSI shall have no obligation with
+respect to this Agreement, except the obligation to notify the parties regarding
+the status of the deposit account as required in Section 2.2 below.
+
+
+                   CONFIDENTIAL INFORMATION REDACTED AND FILED
+       SEPARATELY WITH THE COMMISSION. OMITTED PORTIONS INDICATED BY [**]
+
+<PAGE>
+
+                       CONFIDENTIAL TREATMENT REQUESTED BY
+                               CBOT HOLDINGS, INC.
+
+
+     1.3 Deposit Inspection. When DSI receives the Deposit Materials and
+Exhibit B, DSI will conduct a deposit inspection by visually matching the
+labeling of the tangible media containing the Deposit Materials to the item
+descriptions and quantity listed on Exhibit B.
+
+     1.4 Acceptance of Deposit. At completion of the deposit inspection, if DSI
+determines that the labeling of the tangible media matches the item descriptions
+and quantity on Exhibit B, DSI will date and sign Exhibit B and mail a copy
+thereof to Depositor and Preferred Beneficiary. If DSI determines that the
+labeling does not match the item descriptions or quantity on Exhibit B, DSI will
+(a) note the discrepancies in writing on Exhibit B; (b) date and sign Exhibit B
+with the exceptions noted; and (c) provide a copy of Exhibit B to Depositor and
+Preferred Beneficiary. DSI's acceptance of the deposit occurs upon the signing
+of Exhibit B by DSI. Delivery of the signed Exhibit B to Preferred Beneficiary
+is Preferred Beneficiary's notice that the Deposit Materials have been received
+and accepted by DSI.
+
+     1.5  Depositor's Representations. Depositor represents as follows:
+
+     (a)  With respect to all of the Deposit Materials, Depositor has the
+          requisite corporate power and authority to grant to DSI and Preferred
+          Beneficiary the rights as provided in this Agreement;
+
+     (b)  The Deposit Materials as of the date hereof are not subject to any
+          lien or other encumbrance; and
+
+     (c)  The Deposit Materials are readable and useable in their current form
+          or, if the Deposit Materials are encrypted, the decryption tools and
+          decryption keys have also been deposited.
+
+     1.6 Verification. Preferred Beneficiary shall have the right, at Preferred
+Beneficiary's expense, to cause a verification of any Deposit Materials. A
+verification determines, in different levels of detail, the accuracy,
+completeness, sufficiency and quality of the Deposit Materials. If a
+verification is elected after the Deposit Materials have been delivered to DSI,
+then only DSI, or at DSI's election an independent person or company selected
+and supervised by DSI, may perform the verification, provided that such
+verification does not disclose Depositor's source code or intellectual property
+rights.
+
+     1.7 Deposit Updates. Unless otherwise provided by the License Agreement,
+Depositor shall update the Deposit Materials quarterly. Such updates will be
+added to the existing deposit. All deposit updates shall be listed on a new
+Exhibit B and the new Exhibit B shall be signed by Depositor. The processing of
+all deposit updates shall be in accordance with Sections 1.2 through 1.6 above.
+Each Exhibit B will be held and maintained separately within the escrow account.
+An independent record will be created which will document the activity for each
+Exhibit B. All references in this Agreement to the Deposit Materials shall
+include the initial Deposit Materials and any updates. For the avoidance of
+doubt, Depositor shall not have an obligation to update the Deposit Materials in
+the event that the Deposit Materials have not been modified or enhanced since
+the most recent prior deposit update.
+
+     1.8 Removal of Deposit Materials. The Deposit Materials may be removed
+and/or exchanged only on written instructions signed by Depositor, or as
+otherwise provided in this Agreement. DSI shall notify Preferred Beneficiary
+upon the removal of any Deposit Materials.
+
+
+                   CONFIDENTIAL INFORMATION REDACTED AND FILED
+       SEPARATELY WITH THE COMMISSION. OMITTED PORTIONS INDICATED BY [**]
+
+                                        2
+
+<PAGE>
+
+                       CONFIDENTIAL TREATMENT REQUESTED BY
+                               CBOT HOLDINGS, INC.
+
+
+2.   Confidentiality and Record Keeping
+
+     2.1 Confidentiality. DSI shall maintain the Deposit Materials in a secure,
+environmentally safe, locked facility which is accessible only to authorized
+representatives of DSI. DSI shall have the obligation to reasonably protect the
+confidentiality of the Deposit Materials. Except as provided in this Agreement,
+DSI shall not disclose, transfer, make available, or use the Deposit Materials.
+DSI shall not disclose the content of this Agreement to any third party. If DSI
+receives a subpoena or other order of a court or other judicial tribunal
+pertaining to the disclosure or release of the Deposit Materials, DSI will
+immediately notify the parties to this Agreement. It shall be the responsibility
+of Depositor and/or Preferred Beneficiary to challenge any such order; provided,
+however, that DSI does not waive its rights to present its position with respect
+to any such order. DSI will not be required to disobey any court or other
+judicial tribunal order. (See Section 7.4 below for notices of requested
+orders.)
+
+     2.2 Status Reports. DSI will issue to Depositor and Preferred Beneficiary a
+report profiling the account history at least semi-annually. DSI may provide
+copies of the account history report upon the request of Depositor or Preferred
+Beneficiary.
+
+     2.3 Audit Rights. During the term of this Agreement, Depositor and
+Preferred Beneficiary shall each have the right to inspect the written records
+of DSI pertaining to this Agreement. Any inspection shall be held during normal
+business hours and following three (3) days prior notice.
+
+3.   Grant of Rights to DSI
+
+     3.1 Title to Media. Depositor hereby transfers to DSI the title to the
+media upon which any Deposit Materials are written or stored. However, this
+transfer does not include the ownership of any Deposit Materials contained on
+the media, including, but not limited to, United States and foreign copyrights,
+copyright registrations, copyright registration applications, patents and patent
+applications.
+
+     3.2 Right to Make Copies. DSI shall have the right to make copies of the
+Deposit Materials as reasonably necessary to fulfill its obligations under this
+Agreement. DSI shall include all copyright, nondisclosure, and other proprietary
+notices and titles contained on the Deposit Materials on any copies made by DSI.
+With all Deposit Materials submitted to DSI, Depositor shall provide any and all
+instructions as may be necessary to duplicate the Deposit Materials, including,
+but not limited to, a description of the hardware and/or software needed.
+
+     3.3 Right to Transfer Upon Release. During the term of this Agreement,
+Depositor hereby grants to DSI the right to transfer a copy of the Deposit
+Materials to Preferred Beneficiary upon any release of the Deposit Materials for
+use by Preferred Beneficiary in accordance with Section 4. Except upon such a
+release or as otherwise provided in this Agreement, DSI shall not transfer the
+Deposit Materials.
+
+4.   Release of Deposit
+
+     4.1 Release Conditions. As used in this Agreement, "Release Conditions"
+shall mean the existence of any one or more of the following circumstances:
+Depositor (i) becomes insolvent, (ii) files for voluntary protection under the
+bankruptcy laws of the United States or England and Wales, or (iii) becomes
+subject to any involuntary bankruptcy or insolvency proceeding under laws of the
+United States
+
+
+                   CONFIDENTIAL INFORMATION REDACTED AND FILED
+       SEPARATELY WITH THE COMMISSION. OMITTED PORTIONS INDICATED BY [**]
+
+                                        3
+
+<PAGE>
+
+                       CONFIDENTIAL TREATMENT REQUESTED BY
+                               CBOT HOLDINGS, INC.
+
+
+or England and Wales (which proceeding is not dismissed by a court of competent
+jurisdiction within sixty (60) Business Days (as defined in the License
+Agreement)) (an "Involuntary Proceeding").
+
+     4.2 Filing For Release. If Preferred Beneficiary believes in good faith
+that a Release Condition has occurred, Preferred Beneficiary may provide to DSI
+written notice of the occurrence of the Release Condition and a request for the
+release of the Deposit Materials. Upon receipt of such notice, DSI shall
+promptly notify Depositor and provide a copy of the request to Depositor, by
+certified mail, return receipt requested, or by commercial express mail.
+
+     4.3 Contrary Instructions. From the date DSI mails the notice requesting
+release of the Deposit Materials, Depositor shall have thirty (30) days to
+deliver to DSI Contrary Instructions. "Contrary Instructions" shall mean the
+written representation by Depositor that a Release Condition has not occurred or
+has been cured. Upon receipt of Contrary Instructions, DSI shall notify
+Preferred Beneficiary and send a copy of the Contrary Instructions to Preferred
+Beneficiary by certified mail, return receipt requested, or by commercial
+express mail. Additionally, DSI shall notify both Depositor and Preferred
+Beneficiary that there is a dispute to be resolved pursuant to Section 7.3.
+Subject to Section 5.3, DSI will continue to store the Deposit Materials without
+release pending (a) joint instructions from Depositor and Preferred Beneficiary;
+(b) resolution pursuant to Section 7.3; or (c) order of a court.
+
+     4.4 Release of Deposit. If DSI does not receive Contrary Instructions from
+the Depositor, DSI is authorized to release the Deposit Materials to the
+Preferred Beneficiary at such location in the United States as is specified by
+the Preferred Beneficiary. However, DSI is entitled to receive any fees then due
+DSI pursuant to the terms of this Agreement before release of the Deposit
+Materials. This Agreement will terminate upon the release of the Deposit
+Materials held by DSI.
+
+     4.5 Right to Use Following Release. Unless otherwise provided in the
+License Agreement, upon release of the Deposit Materials in accordance with this
+Section 4, Preferred Beneficiary shall have the right to use the Deposit
+Materials for (i) a period not to exceed [**] months (the "Release Period"), and
+(ii) the sole purpose of continuing Preferred Beneficiary's use of the Licensed
+Technology as permitted by the License Agreement, provided that Preferred
+Beneficiary shall have the right to modify the source code of Deposit Materials
+comprising software only to the extent necessary to create Bug Fixes (as defined
+in the License Agreement). The parties agree that (a) Depositor shall own any
+and all modifications to, and derivative works based on, such Deposit Materials,
+including any Bug Fixes created by Preferred Beneficiary ("Escrow Bug Fixes"),
+(b) Preferred Beneficiary shall have a right to use the same during the term of
+the License Agreement, and (c) neither Depositor nor Preferred Beneficiary may
+charge the other party any fees or royalties relating to any such Escrow Bug
+Fixes or the use thereof. Preferred Beneficiary shall be obligated to maintain
+the confidentiality of the released Deposit Materials as provided in the License
+Agreement.
+
+     4.6 Release Upon an Involuntary Proceeding. In the event the Deposit
+Materials are released due to an Involuntary Proceeding pursuant to Section 4.1
+above, if such Involuntary Proceeding is dismissed during the Release Period,
+Preferred Beneficiary must, unless otherwise agreed by Depositor and Preferred
+Beneficiary, (a) return to Depositor all Deposit Materials and any Escrow Bug
+Fixes, (b) provide Depositor with any modified source code (including source
+code pertaining to any Escrow Bug Fixes) and a detailed description of all
+modifications, or (c) destroy any and all copies of Deposit Materials in
+Preferred Beneficiary's possession and/or control via a method which renders all
+such copies permanently unrecoverable and certify any such copies as destroyed
+via such a method.
+
+
+                   CONFIDENTIAL INFORMATION REDACTED AND FILED
+       SEPARATELY WITH THE COMMISSION. OMITTED PORTIONS INDICATED BY [**]
+
+                                        4
+
+<PAGE>
+
+                      CONFIDENTIAL TREATMENT REQUESTED BY
+                              CBOT HOLDINGS, INC.
+
+
+5.   Term and Termination
+
+     5.1 Term of Agreement. The initial term of this Agreement is for a period
+of one year. Thereafter, this Agreement shall automatically renew from
+year-to-year unless (a) Depositor and Preferred Beneficiary jointly instruct DSI
+in writing that the Agreement is terminated; or (b) the Agreement is terminated
+by DSI for nonpayment in accordance with Section 5.2. If the Deposit Materials
+are subject to another escrow agreement with DSI, DSI reserves the right, after
+the initial one (1) year term, to adjust the anniversary date of this Agreement
+to match the then prevailing anniversary date of such other escrow arrangement.
+
+     5.2 Termination for Nonpayment. In the event of the nonpayment of fees owed
+to DSI, DSI shall provide written notice of delinquency to all parties to this
+Agreement. Any party to this Agreement shall have the right to make the payment
+to DSI to cure the default. If the past due payment is not received in full by
+DSI within one (1) month of the date of such notice, then DSI shall have the
+right to terminate this Agreement at any time thereafter by sending written
+notice of termination to all parties. DSI shall have no obligation to take any
+action under this Agreement so long as any payment due to DSI remains unpaid.
+
+     5.3 Disposition of Deposit Materials Upon Termination. Upon termination of
+this Agreement, DSI shall destroy, return, or otherwise deliver the Deposit
+Materials in accordance with signed, written instructions delivered by Depositor
+to DSI. If there are no instructions, DSI may, at its sole discretion, destroy
+the Deposit Materials or return them to Depositor. DSI shall have no obligation
+to return or destroy the Deposit Materials if the Deposit Materials are subject
+to another escrow agreement with DSI.
+
+     5.4 Survival of Terms Following Termination. Upon termination of this
+Agreement, the Sections 2.1, 5.3, 5.4, 6.1, 7 and 8 shall survive.
+
+6.   Fees
+
+     6.1 Fee Schedule. DSI is entitled to be paid its standard fees and expenses
+applicable to the services provided. Preferred Beneficiary shall be responsible
+for payment of all fees and expenses owed to DSI pursuant to this Agreement. DSI
+shall notify Preferred Beneficiary at least sixty (60) days prior to any
+increase in fees. For any service not listed on DSI's standard fee schedule, DSI
+will provide a quote prior to rendering the service, if requested.
+
+     6.2 Payment Terms. DSI shall not be required to perform any service unless
+all amounts then due are paid in full. All fees are due thirty (30) days after
+receipt of invoice. If invoiced fees are not paid, DSI may terminate this
+Agreement in accordance with Section 5.2. Late fees on past due amounts shall
+accrue interest at the rate of one and one-half (1.5%) percent per month
+(eighteen percent (18%) per annum) from the date of the invoice.
+
+7.   Liability and Disputes
+
+     7.1 Right to Rely on Instructions. DSI may act in reliance upon any
+instruction, instrument, or signature reasonably believed by DSI to be genuine.
+DSI may assume that any employee of a party to this Agreement who gives any
+written notice, request, or instruction has the authority to do so. DSI shall
+not be responsible for failure to act as a result of causes beyond the
+reasonable control of DSI.
+
+
+                   CONFIDENTIAL INFORMATION REDACTED AND FILED
+       SEPARATELY WITH THE COMMISSION. OMITTED PORTIONS INDICATED BY [**]
+
+                                        5
+
+<PAGE>
+
+                       CONFIDENTIAL TREATMENT REQUESTED BY
+                               CBOT HOLDINGS, INC.
+
+
+     7.2 Indemnification. DSI shall be responsible to perform its obligations
+under this Agreement and to act in a reasonable and prudent manner with regard
+to this escrow arrangement. Provided DSI has acted in such reasonable and
+prudent manner, Depositor and Preferred Beneficiary each agree to indemnify,
+defend and hold harmless DSI from any claims and all damages, arbitration fees
+and expenses, costs, attorney's fees and other liabilities resulting therefrom
+(collectively, the "Liabilities") incurred by DSI relating in any way to this
+escrow arrangement, except for any Liabilities related to the adjudged gross
+negligence or willful misconduct of DSI. Depositor shall have sole control over
+the defense of any such claim and neither Depositor of Preferred Beneficiary
+shall be liable hereunder for any settlement or compromise negotiated by DSI
+unless such party agrees in writing to be so bound.
+
+     7.3 Dispute Resolution. Any dispute relating to or arising from this
+Agreement shall be resolved by arbitration under the Commercial Rules of the
+American Arbitration Association. Three arbitrators shall be selected. Depositor
+and Preferred Beneficiary shall each select one arbitrator and the two chosen
+arbitrators shall select the third arbitrator, or failing agreement on the
+selection of the third arbitrator, the American Arbitration Association shall
+select the third arbitrator. However, if DSI is a party to the arbitration, DSI
+shall select the third arbitrator. Unless otherwise agreed by Depositor and
+Preferred Beneficiary, arbitration will take place in Chicago, Illinois. Any
+court having jurisdiction over the matter may enter judgment on the award of the
+arbitrator(s). Service of a petition to confirm the arbitration award may be
+made by First Class mail or by commercial express mail, to the attorney for the
+party or, if unrepresented, to the party at the last known business address.
+
+     7.4 Notice of Requested Order. If any party intends to obtain an order from
+the arbitrator or any court of competent jurisdiction which may direct DSI to
+take, or refrain from taking any action, that party shall:
+
+     (a)  Give DSI at least two US business days' prior notice of the hearing;
+
+     (b)  Include in any such order that, as a precondition to DSI's obligation,
+          DSI be paid in full for any past due fees and be paid for the
+          reasonable value of the services to be rendered pursuant to such
+          order; and
+
+     (c)  Ensure that DSI not be required to deliver the original (as opposed to
+          a copy) of the Deposit Materials if DSI may need to retain the
+          original in its possession to fulfill any of its other duties.
+
+8.   General Provisions
+
+     8.1 Entire Agreement. This Agreement, which includes the exhibits described
+herein, embodies the entire understanding among the parties with respect to its
+subject matter and supersedes all previous communications, representations or
+understandings, either oral or written. DSI is not a party to the license
+agreement between Depositor and Preferred Beneficiary and has no knowledge of
+any of the terms or provisions of any such license agreement. DSI's only
+obligations to Depositor or Preferred Beneficiary are as set forth in this
+Agreement. No amendment or modification of this Agreement shall be valid or
+binding unless signed by all the parties hereto, except that Exhibit A need not
+be signed and Exhibit B need not be signed by Preferred Beneficiary.
+
+     8.2 Notices. Any notices hereunder shall be in writing and shall be deemed
+to be sufficiently given to the addressee and any delivery hereunder deemed
+made: (i) ten (10) business days after deposit
+
+
+                   CONFIDENTIAL INFORMATION REDACTED AND FILED
+       SEPARATELY WITH THE COMMISSION. OMITTED PORTIONS INDICATED BY [**]
+
+                                        6
+
+<PAGE>
+
+                       CONFIDENTIAL TREATMENT REQUESTED BY
+                               CBOT HOLDINGS, INC.
+
+
+with the United States Postal Service, via registered air-mail, return receipt
+requested, postage pre-paid, (ii) five (5) business days after deposit with a
+reputable commercial express mail courier or (iii) one (1) business day after
+facsimile transmission (provided the sender receives an automated confirmation
+of transmission), in each case sent to the parties at the addresses specified in
+Exhibit A. The parties may change the addresses or fax numbers for notice
+hereunder by delivery of notice in accordance with the provisions of this
+section.
+
+     8.3 Governing Law. This Agreement is to be governed and construed in
+accordance with the laws of the State of Illinois, without regard to its
+conflict of law provisions.
+
+     8.4 Severability. In the event any provision of this Agreement is found to
+be invalid, voidable or unenforceable, the parties agree that unless it
+materially affects the entire intent and purpose of this Agreement, such
+invalidity, voidability or unenforceability shall affect neither the validity of
+this Agreement nor the remaining provisions herein, and the provision in
+question shall be deemed to be replaced with a valid and enforceable provision
+most closely reflecting the intent and purpose of the original provision.
+
+     8.5 Successors. This Agreement shall be binding upon and shall inure to the
+benefit of the successors and assigns of the parties. However, DSI shall have no
+obligation in performing this Agreement to recognize any successor or assign of
+Depositor or Preferred Beneficiary unless DSI receives clear, authoritative and
+conclusive written evidence of the change of parties.
+
+     8.6 Regulations. Depositor and Preferred Beneficiary are responsible for
+all laws, rules and regulations applicable to performance of their respective
+obligations of Depositor and Preferred Beneficiary hereunder, including but not
+limited to customs laws, import, export, and re-export laws and government
+regulations of any country to which the Deposit Materials may be delivered in
+accordance with the provisions of this Agreement.
+
+     8.7 Counterparts. This Agreement may be executed in any number of
+counterparts, and by the different Parties on separate counterparts, each of
+which when so executed and delivered shall be an original, but all of which
+together shall constitute but one and the same instrument. A complete set of
+counterparts shall be lodged with each Party.
+
+                  [Remainder of page intentionally left blank.
+                            Signature page follows.]
+
+                   CONFIDENTIAL INFORMATION REDACTED AND FILED
+       SEPARATELY WITH THE COMMISSION. OMITTED PORTIONS INDICATED BY [**]
+
+                                       7
+
+<PAGE>
+
+                      CONFIDENTIAL TREATMENT REQUESTED BY
+                              CBOT HOLDINGS, INC.
+
+
+     IN WITNESS WHEREOF, the parties have executed this Preferred Escrow
+Agreement as of the date first above written.
+
+                                     LIFFE ADMINISTRATION AND MANAGEMENT
+
+                                     By:
+                                          --------------------------------
+                                     Name:
+                                          --------------------------------
+                                     Title:
+                                          --------------------------------
+                                     Date:
+                                         --------------------------------
+
+
+                                     BOARD OF TRADE OF THE CITY OF CHICAGO, INC.
+
+                                     By:
+                                       -----------------------------------------
+                                     Name:
+                                         ---------------------------------------
+                                     Title:
+                                          --------------------------------------
+                                     Date:
+                                         ---------------------------------------
+
+                                     DATA SECURITIES INTERNATIONAL, INC.
+
+                                     By:
+                                       -----------------------------------------
+                                     Name:
+                                         ---------------------------------------
+                                     Title:
+                                          --------------------------------------
+                                     Date:
+                                          --------------------------------------
+
+
+
+
+                   CONFIDENTIAL INFORMATION REDACTED AND FILED
+       SEPARATELY WITH THE COMMISSION. OMITTED PORTIONS INDICATED BY [**]
+
+                                       8
+
+<PAGE>
+
+                       CONFIDENTIAL TREATMENT REQUESTED BY
+                               CBOT HOLDINGS, INC.
+
+                                                                       EXHIBIT A
+
+                               DESIGNATED CONTACT
+
+                      Account Number ______________________
+
+<TABLE>
+<S>                                              <C>
+Notices, deposit material returns and
+communications to Depositor                      Invoices to Depositor should be
+should be addressed to:                          addressed to:
+
+Company Name:________________________________    _____________________________________________
+
+Address:_____________________________________    _____________________________________________
+
+        _____________________________________    _____________________________________________
+
+        _____________________________________    _____________________________________________
+
+Designated Contact:__________________________    Contact:_____________________________________
+
+Telephone:___________________________________    _____________________________________________
+
+Facsimile:___________________________________    P.O.#, if required:__________________________
+
+Notices and communications to                    Invoices to Preferred Beneficiary
+Preferred Beneficiary should be addressed to:    should be addressed to:
+
+Company Name:________________________________    _____________________________________________
+
+Address:_____________________________________    _____________________________________________
+
+        _____________________________________    _____________________________________________
+
+        _____________________________________    _____________________________________________
+
+Designated Contact:__________________________    Contact:_____________________________________
+
+Telephone:___________________________________    _____________________________________________
+
+Facsimile:___________________________________    P.O.#, if required:__________________________
+
+Requests from Depositor or Preferred Beneficiary to change the designated contact should be
+given in writing by the designated contact or an authorized employee of Depositor or Preferred
+Beneficiary.
+
+Contracts, Deposit Materials and notices to      Invoice inquiries and fee remittances
+DSI should be addressed to:                      to DSI should be addressed to:
+
+DSI                                              DSI
+Contract Administration                          Accounts Receivable
+Suite 200                                        Suite 1450
+9555 Chesapeake Drive                            425 California Street
+San Diego, CA 92123                              San Francisco, CA 94104
+
+Telephone: (619) 694-1900                        (415) 398-7900
+Facsimile: (619) 694-1919                        (415) 398-7914
+</TABLE>
+
+
+                   CONFIDENTIAL INFORMATION REDACTED AND FILED
+       SEPARATELY WITH THE COMMISSION. OMITTED PORTIONS INDICATED BY [**]
+
+                                       A-1
+
+<PAGE>
+
+                       CONFIDENTIAL TREATMENT REQUESTED BY
+                               CBOT HOLDINGS, INC.
+
+
+Date:_________________________________
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                   CONFIDENTIAL INFORMATION REDACTED AND FILED
+       SEPARATELY WITH THE COMMISSION. OMITTED PORTIONS INDICATED BY [**]
+
+                                       A-2
+
+<PAGE>
+
+                       CONFIDENTIAL TREATMENT REQUESTED BY
+                               CBOT HOLDINGS, INC.
+
+
+                                                                       EXHIBIT B
+
+                        DESCRIPTION OF DEPOSIT MATERIALS
+
+<TABLE>
+<S>          <C>                         <C>
+Depositor Company Name _______________________________________________________________________
+Account Number _______________________________________________________________________________
+Product Name ______________________________________________Version ___________________________
+(Product Name will appear on Account History report)
+
+DEPOSIT MATERIAL DESCRIPTION:
+Quantity     Media Type & Size                  Label Description of Each Separate Item
+                                         (Please use other side if additional space is needed)
+_______      Disk 3.5" or ____
+_______      DAT tape ____mm
+_______      CD-ROM
+_______      Data cartridge tape ____
+_______      TK 70 or ____ tape
+_______      Magnetic tape ____
+_______      Documentation
+_______      Other __________________
+
+PRODUCT DESCRIPTION:
+Operating System _____________________________________________________________________________
+Hardware Platform_____________________________________________________________________________
+
+DEPOSIT COPYING INFORMATION:
+Is the media encrypted?  Yes / No   If yes, please include any passwords and the decryption
+tools.
+Encryption tool name_______________________________________ Version __________________________
+
+Hardware required ____________________________________________________________________________
+Software required ____________________________________________________________________________
+
+I certify for Depositor that the above described   DSI has inspected and accepted the above
+Deposit Materials have been transmitted to DSI:    materials (any exceptions are noted above):
+
+Signature _________________________________        Signature _________________________________
+Print Name ________________________________        Print Name ________________________________
+Date ______________________________________        Date Accepted _____________________________
+                                                   Exhibit B# ________________________________
+
+    Send materials to: DSI, 9555 Chesapeake Dr. #200, San Diego, CA 92123 (619)694-1900
+</TABLE>
+
+
+
+                   CONFIDENTIAL INFORMATION REDACTED AND FILED
+       SEPARATELY WITH THE COMMISSION. OMITTED PORTIONS INDICATED BY [**]
+
+                                       B-1
+
+<PAGE>
+
+                       CONFIDENTIAL TREATMENT REQUESTED BY
+                               CBOT HOLDINGS, INC.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  CONFIDENTIAL INFORMATION REDACTED AND FILED
+       SEPARATELY WITH THE COMMISSION. OMITTED PORTIONS INDICATED BY [**]
+
+<PAGE>
+
+                       CONFIDENTIAL TREATMENT REQUESTED BY
+                               CBOT HOLDINGS, INC.
+
+
+                                   SCHEDULE I
+
+                                      FEES
+                                      ----
+
+
+Part 1 - Initial Term License Fee
+         ------------------------
+
+     The License Fee payable under this Agreement for the duration of the
+     Initial Term is [**], which shall be paid as follows:
+
+     (a)  The CBOT shall pay to LIFFE [**];
+
+     (b)  LIFFE shall invoice the CBOT for [**];
+          and
+
+     (c)  LIFFE shall invoice the CBOT for [**].
+
+Part 2 - Renewal Term License Fee
+         ------------------------
+
+2.1  The License Fee payable in respect of the Renewal Term immediately
+     following the Initial Term (the "First Renewal Term") shall be calculated
+     as follows: [**] per annum adjusted by the greater of (a) [**] per annum
+     during the Initial Term or (b) the percentage change in the [**] as
+     published by the [**] during the Initial Term, as measured by the change
+     between the [**] number for the month before the month in which the Initial
+     Term began and for the month before the month in which the first day of the
+     First Renewal Term begins; provided that the License Fee shall not be
+     adjusted by more than [**].
+
+2.2  The License Fee payable in respect of the Renewal Term immediately
+     following the First Renewal Term (the "Second Renewal Term") shall be
+     calculated as follows: the annual License Fee payable for the First Renewal
+     Term adjusted by the greater of (a) [**] percent [**] per annum during the
+     First Renewal Term or (b) the percentage change in the [**] as published by
+     the [**] during the Initial Term, as measured by the change between the
+     [**] number for the month before the month in which the First Renewal Term
+     began and for the month before the month in which the first day of the
+     Second Renewal Term begins; provided that the License Fee shall not be
+     adjusted by more than [**].
+
+2.3  LIFFE shall be entitled to invoice the CBOT for the full amount of the
+     License Fee for each Renewal Term [**].
+
+
+
+                   CONFIDENTIAL INFORMATION REDACTED AND FILED
+       SEPARATELY WITH THE COMMISSION. OMITTED PORTIONS INDICATED BY [**]
+
+</TEXT>
+</DOCUMENT>

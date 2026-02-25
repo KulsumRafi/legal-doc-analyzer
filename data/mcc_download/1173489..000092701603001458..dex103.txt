@@ -1,0 +1,1060 @@
+<DOCUMENT>
+<TYPE>EX-10.3
+<SEQUENCE>5
+<FILENAME>dex103.txt
+<DESCRIPTION>CEVA,INC. TECHNOLOGY TRANSFER AGREEMENT
+<TEXT>
+<PAGE>
+
+
+                                                                   Exhibit 10.3
+
+                   CEVA, INC. TECHNOLOGY TRANSFER AGREEMENT
+
+   This Technology Transfer Agreement (this "Agreement"), effective as of
+November 1, 2002 (the "Effective Date"), is entered into by and between DSP
+Group Inc. ("DSPGI"), a Delaware corporation, and Ceva, Inc. ("Ceva"), a
+Delaware corporation and a wholly owned subsidiary of DSPGI.
+
+                                   RECITALS
+
+   A. DSPGI is engaged in the business of designing, manufacturing and
+marketing high performance digital signal processing integrated circuit devices
+for cordless telephone, computer telephony, voice-over-broadband and other
+products.
+
+   B. Ceva is engaged in the business of developing and licensing to third
+parties digital signal processing cores for the manufacture of integrated
+circuit devices.
+
+   C. DSPGI owns or otherwise holds certain intellectual property rights and
+other assets relating to the digital signal processing cores described on
+Exhibit A to this Agreement, which intellectual property rights and other
+assets it desires to assign to Ceva, and Ceva desires to receive such
+assignment of intellectual property rights and other assets from DSPGI, in
+accordance with the terms and conditions set forth herein.
+
+                                  AGREEMENTS
+
+   Now, therefore, in consideration of the mutual covenants and the other terms
+and conditions contained herein, the Parties (as defined below) hereby agree as
+follows:
+
+                                   ARTICLE I
+
+                                  DEFINITIONS
+
+   In addition to the capitalized terms defined elsewhere in this Agreement,
+the following terms shall have the following meanings:
+
+   SECTION 1.1. "Additional Necessary Licensed IP" shall mean all technology,
+information and materials of any kind, such as designs, development kits,
+emulators, tools, libraries, test suites, documentation, parts lists, board
+layouts, design materials, databases, know-how, methods, processes, and work in
+progress, each to the extent that they are necessary to continue operating the
+Licensing Business as currently conducted by the licensing division of DSPGI,
+but are not included in the Licensing Business Assets. The parties acknowledge
+and agree that the Additional Necessary Licensed IP does not include the
+Licensed IP Modules or Process Information.
+
+   SECTION 1.2. Affiliate.  "Affiliate" of any Person shall mean a Person that
+controls, is controlled by, or is under common control with such Person. As
+used herein, "control" of a Person means the possession, directly or
+indirectly, of the power to direct or cause the direction
+
+<PAGE>
+
+of the management and policies of such Person, whether through ownership of
+voting securities or other interests, by contract or otherwise. A Person shall
+be deemed an Affiliate only for so long as such control exists. Notwithstanding
+the foregoing, DSPGI and Ceva shall not be considered Affiliates of each other,
+and DSPGI shall not be deemed to control Ceva.
+
+   SECTION 1.3. Combination Agreement.  "Combination Agreement" shall have the
+meaning set forth in the Separation Agreement.
+
+   SECTION 1.4. Confidential Information.  "Confidential Information" shall
+mean the Ceva Confidential Information or DSPGI Confidential Information, as
+applicable.
+
+   SECTION 1.5. Ceva Confidential Information.  "Ceva Confidential Information"
+shall mean any and all (a) Existing Cores, Other Transferable Licensing IP,
+patent applications and provisional patent applications included in the
+Transferable Patents, Other Transferable Assets, Third Party Licenses, Other
+Contracts and Employee Proprietary Information Agreements, including all
+technology, information and materials included in such items, and (b) other
+technology, information and materials related to research, products, services,
+hardware or software, inventions, processes, designs, drawings, engineering or
+other technology which is supplied or licensed by Ceva (in this capacity, the
+"Disclosing Party") to DSPGI (in this capacity, the "Receiving Party") after
+the Effective Date and which is designated in writing as proprietary or
+confidential (or with a similar designation) or, if disclosed orally or by
+demonstration, is designated as confidential or proprietary at the time of
+disclosure and summarized in a writing so designated within thirty (30) days of
+the initial disclosure. Ceva Confidential Information shall not include,
+however, information or material which (i) is or becomes available to the
+relevant public other than as a result of a wrongful act or omission by the
+Receiving Party, (ii) except with respect to the items described in subsection
+(a) above, was available to the Receiving Party (without a duty of
+confidentiality owed to the Disclosing Party with respect to such information
+or material) prior to its receipt from the Disclosing Party, (iii) becomes
+available to the Receiving Party from a Person not otherwise bound by a
+confidentiality agreement with the Disclosing Party with respect to such
+information or material, or (iv) except with respect to the items described in
+subsection (a) above, was independently developed by the Receiving Party.
+
+   SECTION 1.6. Ceva Employees.  "Ceva Employees" shall have the meaning set
+forth in the Separation Agreement.
+
+   SECTION 1.7. Ceva Licensed Products.  "Ceva Licensed Products" shall mean
+digital signal processing cores designed and developed by or for Ceva, its
+successors or assigns, and its or their Affiliates, that consist principally of
+an Existing Core and that also incorporate one or more of the Licensed Chip
+Modules, where such Licensed Chip Modules are bundled with, and are used with,
+such Existing Core.
+
+   SECTION 1.8. Corage Ltd. Technology Transfer Agreement.  "Corage Ltd.
+Technology Transfer Agreement" shall mean the Corage, Ltd. Technology Transfer
+Agreement of even date herewith by and between Corage, Ltd. and DSP Group Ltd.
+
+                                      2
+
+<PAGE>
+
+   SECTION 1.9. Disclosing Party.  "Disclosing Party" shall have the meaning
+set forth in Sections 1.5 and 1.10, as applicable.
+
+   SECTION 1.10. DSPGI Confidential Information.  "DSPGI Confidential
+Information" shall mean any and all (a) Licensed IP Modules and Process
+Information and all technology, information and materials included in such
+items, and (b) other technology, information and materials related to research,
+products, services, hardware or software, inventions, processes, designs,
+drawings, engineering or other technology which is supplied or licensed by
+DSPGI (in this capacity, the "Disclosing Party") to Ceva (in this capacity, the
+"Receiving Party") after the Effective Date and which is designated in writing
+as proprietary or confidential (or with a similar designation) or, if disclosed
+orally or by demonstration, is designated as confidential or proprietary at the
+time of disclosure and summarized in a writing so designated within thirty (30)
+days of the initial disclosure. DSPGI Confidential Information shall not
+include, however, information or material which (i) is or becomes available to
+the relevant public other than as a result of a wrongful act or omission by the
+Receiving Party, (ii) except with respect to the items described in subsection
+(a) above, was available to the Receiving Party (without a duty of
+confidentiality owed to the Disclosing Party with respect to such information
+or material) prior to its receipt from the Disclosing Party, (iii) becomes
+available to the Receiving Party from a Person not otherwise bound by a
+confidentiality agreement with the Disclosing Party with respect to such
+information or material, or (iv) except with respect to the items described in
+subsection (a) above, was independently developed by the Receiving Party.
+
+   SECTION 1.11. DSPGI Products.  "DSPGI Products" shall mean any products now
+or hereafter manufactured, sold or otherwise distributed by, for or under
+license from DSPGI, its successors and assigns, or its or their current or
+future Affiliates.
+
+   SECTION 1.12. Effective Date.  "Effective Date" shall have the meaning set
+forth in the Preamble.
+
+   SECTION 1.13. Existing Cores.  "Existing Cores" shall mean the digital
+signal processing cores set forth on Exhibit A to this Agreement, including the
+designs that constitute such cores.
+
+   SECTION 1.14. Governmental Authority.  "Governmental Authority" shall mean
+any federal, state, local, foreign or international court, government,
+department, commission, board, bureau, agency, official or other regulatory,
+administrative or governmental authority.
+
+   SECTION 1.15. Licensed Chip Modules.  "Licensed Chip Modules" shall mean the
+chip modules set forth in item G.2 of Exhibit G to this Agreement.
+
+   SECTION 1.16. Licensed IP Modules.  "Licensed IP Modules" shall mean the
+Licensed Chip Modules and the Licensed Software Modules.
+
+   SECTION 1.17. Licensed Software Modules.  "Licensed Software Modules" shall
+mean (a) the software modules set forth in item G.1 of Exhibit G to this
+Agreement, and (b) the database set forth in item G.3 of Exhibit G to this
+Agreement.
+
+   SECTION 1.18. Licensing Business.  "Licensing Business" shall have the
+meaning set forth in the Separation Agreement.
+
+                                      3
+
+<PAGE>
+
+   SECTION 1.19. Licensing Business Assets.  "Licensing Business Assets" shall
+have the meaning set forth in the Separation Agreement.
+
+   SECTION 1.20. Other Contracts.  "Other Contracts" shall have the meaning set
+forth in Section 5.2.
+
+   SECTION 1.21. Other Intangible Property Rights.  "Other Intangible Property
+Rights" shall mean copyrights, rights in mask works (including, but not limited
+to, the rights protected under 17 U.S.C. (S)(S) 901-914 or any successor
+statute), trade secrets, and other rights with respect to confidential or
+proprietary information, database rights, and other intellectual property
+rights, but specifically excluding (a) patents and patent applications, (b)
+trademarks, service marks and trade names, and registrations of, and
+applications to register, trademarks, service marks and trade names, and other
+rights with respect to source or origin, (c) Internet domain names and
+registrations thereof, and (d) rights with respect to the items in clauses (a)
+through (c).
+
+   SECTION 1.22. Other Transferable Assets.  "Other Transferable Assets" shall
+have the meaning set forth in Article IV.
+
+   SECTION 1.23. Other Transferable Licensing IP.  "Other Transferable
+Licensing IP" shall mean the development kits, emulators, tools, libraries,
+test suites, documentation, parts lists, board layouts, design materials,
+databases, work in progress, and other technology and materials set forth in
+items B.3 through B.7 of Exhibit B to this Agreement.
+
+   SECTION 1.24. Party or Parties.  "Party" or "Parties" shall mean DSPGI
+and/or Ceva, including their permitted successors and assigns.
+
+   SECTION 1.25. Person.  "Person" shall mean an individual, a general or
+limited partnership, a corporation, a trust, a joint venture, an unincorporated
+organization, a limited liability entity, any other entity and any Governmental
+Authority.
+
+   SECTION 1.26. Process Information.  "Process Information" shall mean the
+information set forth in item G.4 of Exhibit G to this Agreement.
+
+   SECTION 1.27. Products Business.  "Products Business" shall have the meaning
+set forth in the Separation Agreement.
+
+   SECTION 1.28. Receiving Party.  "Receiving Party" shall have the meaning set
+forth in Sections 1.5 and 1.10, as applicable.
+
+   SECTION 1.29. Representative.  "Representative" shall mean with respect to a
+Person, any and all directors, officers, employees, representatives, or agents
+of such Person.
+
+   SECTION 1.30. Separation Agreement.  "Separation Agreement" shall mean the
+Separation Agreement of even date herewith by and among DSPGI, DSP Group Ltd.,
+Ceva, Inc., DSP Ceva, Inc. and Corage, Ltd.
+
+   SECTION 1.31. Third Party or Third Parties.  "Third Party" or "Third
+Parties" shall mean any entity other than a Party or an Affiliate of a Party.
+
+                                      4
+
+<PAGE>
+
+   SECTION 1.32. Third Party Licenses.  "Third Party Licenses" shall have the
+meaning set forth in Section 5.1.
+
+   SECTION 1.33. Transferable Domain Names.  "Transferable Domain Names" shall
+mean the Internet domain names set forth in part B.2.3 of Exhibit B to this
+Agreement, including the registrations of such domain names and any rights
+under contract (including agreements with domain name registrars) for
+registrations of such domain names.
+
+   SECTION 1.34. Transferable Licensing IP.  "Transferable Licensing IP" shall
+mean (a) the Transferable Domain Names, Transferable Marks and Transferable
+Patents, and (b) the Other Intangible Property Rights in and to (i) the
+Existing Cores and (ii) the Other Transferable Licensing IP.
+
+   SECTION 1.35. Transferable Marks.  "Transferable Marks" shall mean the
+trademarks, service marks and trade names set forth in parts B.2.1 and B.2.2 of
+Exhibit B to this Agreement, including any registrations of, and applications
+to register, such trademarks, service marks and trade names.
+
+   SECTION 1.36. Transferable Patents.  "Transferable Patents" shall mean all
+patents, patent applications and provisional patent applications (including any
+patents issuing in respect of such patent applications and provisional patent
+applications) set forth in part B.1 of Exhibit B to this Agreement, together
+with any continuations, continuations-in-part, reissues, divisionals and
+renewals of any such patents and patent applications and any foreign
+counterparts thereof.
+
+   SECTION 1.37. Transferring Entities.  "Transferring Entities" shall mean
+DSPGI and all of its Affiliates immediately prior to the Effective Date, other
+than DSP Group Ltd., Corage, Ltd., Ceva, Inc. and their subsidiaries.
+
+                                  ARTICLE II
+
+                   TRANSFER OF INTELLECTUAL PROPERTY RIGHTS
+
+   SECTION 2.1. Assignment.  Except only for the rights retained by, or granted
+back to, DSPGI (for itself, its successors and assigns, and its and their
+current and future Affiliates) elsewhere in this Agreement, DSPGI, on behalf of
+itself and the Transferring Entities, hereby irrevocably assigns, sells,
+transfers and sets over to Ceva, and its successors and assigns, all right,
+title and interest of the Transferring Entities throughout the world in and to
+the Transferable Licensing IP, including, but not limited to, all benefits,
+privileges, causes of action, and remedies relating to the Transferable
+Licensing IP, whether before or hereafter accrued, including, without
+limitation, the exclusive rights to (a) apply for and maintain all
+registrations, applications, renewals and/or extensions therefor, (b) bring
+actions (at law, in equity or otherwise) for all past, present and/or future
+infringements or misappropriations thereof, (c) settle and retain proceeds from
+any such actions, and (d) grant licenses or other interests therein to any
+Person. The foregoing includes (and DSPGI, on behalf of itself and the
+Transferring Entities, hereby irrevocably assigns, sells, transfers and sets
+over to Ceva, and its successors and assigns) the goodwill and reputation of
+the business connected with and symbolized by the Transferable Marks. Ceva
+hereby accepts such assignment and assumes (and shall pay, perform and discharge
+
+                                      5
+
+<PAGE>
+
+when due) all obligations with respect to such Transferable Licensing IP
+accruing from and after the Effective Date.
+
+   SECTION 2.2. Retention of Certain Rights.
+
+   (a) Subject to the terms and conditions of this Agreement, and
+notwithstanding Section 2.1, DSPGI retains for itself, its successors and
+assigns, and its and their current and future Affiliates (and Ceva hereby
+grants to DSPGI, its successors and assigns, and its and their current and
+future Affiliates), a nonexclusive, perpetual, irrevocable, royalty-free,
+worldwide right and license to prepare derivative works of and otherwise
+modify, make, reproduce, sell and otherwise distribute, transmit, import, and
+otherwise use and exploit the Transferable Licensing IP (except for the
+Transferable Domain Names and Transferable Marks) solely in connection with the
+design, development, testing, manufacture, sale and other distribution,
+support, and other use and exploitation of DSPGI Products, including the right
+and license to prepare derivative works of and otherwise modify, make,
+reproduce, sell and otherwise distribute, transmit, import, and otherwise use
+and exploit any DSPGI Products based on, incorporating or otherwise using all
+or any portion of the Transferable Licensing IP. Subject to the limitations set
+forth Section 2.2(b) below, the rights and licenses set forth in this Section
+2.2(a) include (i) the right to disclose the Transferable Licensing IP,
+provided that such disclosure is solely for use and exploitation in connection
+with DSPGI Products and in accordance with the confidentiality obligations set
+forth in this Agreement, and (ii) a license under the Transferable Patents to
+make, use and sell DSPGI Products. Subject to the limitations set forth in
+Section 2.2(b) below, the rights and licenses set forth in this Section 2.2(a)
+also include the right to grant licenses and/or sublicenses (with the rights of
+the licensees and/or sublicensees to grant further sublicenses) of any of the
+foregoing rights and licenses, provided that the licenses and/or sublicenses of
+(A) the Existing Cores are limited to use and exploitation as part of DSPGI
+Products that offer material functions and features in addition to the Existing
+Cores themselves, and (B) the Other Transferable Licensing IP are limited to
+use and exploitation in connection with DSPGI Products.
+
+   (b) Notwithstanding any rights retained by or granted to DSPGI or any other
+Transferring Entity in this Agreement or otherwise, DSPGI shall not, and shall
+ensure that each Transferring Entity shall not, under any circumstances grant
+any licenses or sublicenses of the Existing Cores (or disclose the designs of
+the Existing Cores constituting Ceva Confidential Information) to any third
+party, during the Noncompetition Period (as that term is defined in the
+Separation Agreement) other than in connection with the contracted design or
+manufacture of DSPGI Products by third parties for DSPGI, its successors and
+assigns, and its and their current and future Affiliates, provided that DSPGI,
+its successors and assigns, and its and their current and future Affiliates
+shall not provide any such designs of the Existing Cores to any such third
+party that has not previously executed a license/sublicense and/or
+confidentiality agreement on terms and conditions generally imposed by DSPGI
+for its own comparable materials, and provided further, that such
+licenses/sublicenses shall cover only the technology or information reasonably
+required by such contract designer or manufacturer in order to manufacture or
+design, as applicable, the DSPGI Products for DSPGI, its successors and
+assigns, and its and their current and future Affiliates.
+
+                                      6
+
+<PAGE>
+
+   (c) During the Noncompetition Period, if DSPGI desires to license and/or
+sublicense the Existing Cores to a customer or potential customer in a manner
+prohibited by Section 2.2(b), Ceva will, at its option, either (i) negotiate in
+good faith with DSPGI a non-exclusive, commercial license permitting such
+license and/or sublicense on terms and conditions and at pricing comparable to
+those Ceva makes generally available to other customers of such Existing Cores,
+or (ii) negotiate in good faith with such customer or potential customer such
+license and/or sublicense on terms and conditions and at pricing comparable to
+those Ceva makes generally available to other customers of such Existing Cores.
+
+   SECTION 2.3. License of Transferable Marks.  Subject to the terms and
+conditions of this Agreement, Ceva hereby grants to DSPGI, its successors and
+assigns, and its and their current and future Affiliates, a nonexclusive,
+perpetual, royalty-free, worldwide license to use the Transferable Marks solely
+in connection with DSPGI Products that incorporate, are based on or otherwise
+use the Transferable Licensing IP to which such Transferable Marks relate,
+including the marketing, advertising, packaging, sales and distribution of such
+DSPGI Products. DSPGI agrees that all goodwill arising out of the use of the
+Transferable Marks by DSPGI, its successors and assigns, and its and their
+current and future Affiliates will inure exclusively to the benefit of Ceva.
+DSPGI agrees to use the appropriate trademark legend (either "TM" or circled
+"R") with the first prominent use of the Transferable Marks in any marketing,
+advertising and packaging materials, to indicate Ceva's ownership of the
+Transferable Marks in accordance with the practices DSPGI generally uses to
+identify the owners of third-party marks that DSPGI is authorized to use, and,
+in connection with the use of the Transferable Marks, to conform substantially
+with other written trademark usage guidelines of Ceva notified to DSPGI which
+Ceva imposes on its licensees generally (and with which Ceva itself complies),
+provided that DSPGI, its successors and assigns, and its and their current and
+future Affiliates will have a reasonable opportunity to comply with any new or
+modified usage guidelines. DSPGI agrees to provide samples of such materials
+using the Transferable Marks to Ceva for its inspection upon Ceva's reasonable
+request, and DSPGI shall use commercially reasonable efforts to remedy any
+defect in its use of the Transferable Marks. If DSPGI fails to remedy any such
+defect within sixty (60) days of receiving Ceva's written notice describing
+such defect in detail, Ceva will have the right, upon written notice to DSPGI,
+to suspend DSPGI's license set forth in this Section 2.3 with respect to the
+DSPGI materials that contain such defect until such defect is remedied.
+
+   SECTION 2.4. Support.  Ceva shall make available (or cause to be made
+available) to DSPGI, its successors and assigns, and its and their current and
+future Affiliates, maintenance and support services for the Existing Cores and
+the Other Transferable Licensing IP solely to support the use and exploitation
+thereof authorized by this Agreement. Such maintenance and support services
+shall be of a scope and at rates comparable to those of and at which Ceva makes
+(or causes to be made) similar maintenance and support services available to
+its customers generally or, if it does not make such services available to its
+customers generally, it shall do so at market rates. For purposes of the
+determination of rates and other terms and conditions for the maintenance and
+support services, DSPGI, its successor and assigns, and its and their
+Affiliates shall be treated as a single customer. The maintenance and support
+services provided under this Section 2.4 shall include:
+
+      (a) providing error corrections and other modifications to the Existing
+   Cores and Other Transferable Licensing IP, telephone and email support, and
+   assistance in diagnosis
+
+                                      7
+
+<PAGE>
+
+   and remedying of errors and defects in the Existing Cores and the Other
+   Transferable Licensing IP, each in accordance with Ceva's standard support
+   policies and practices; and
+
+      (b) providing updates, upgrades, new versions and successors to the
+   Existing Cores and Other Transferable Licensing IP, provided that Ceva shall
+   have no obligation under this Section 2.4(b) until the Parties enter into a
+   maintenance and support services agreement expressly covering such updates,
+   upgrades, new versions or successor versions. The Parties shall negotiate
+   the terms and conditions of a maintenance and support services agreement
+   which is reasonably acceptable to both Parties.
+
+                                  ARTICLE III
+
+                  EMPLOYEE PROPRIETARY INFORMATION AGREEMENTS
+
+   DSPGI, on behalf of itself and the Transferring Entities, hereby transfers
+and assigns to Ceva, and Ceva hereby accepts such transfer and assumes, all of
+the rights and obligations of the Transferring Entities under all agreements
+entered into by the Ceva Employees with the Transferring Entities, or any of
+them, relating to confidentiality, assignment of inventions and similar matters
+("Employee Proprietary Information Agreements"), which agreements shall remain
+in full force and effect in accordance with their terms, provided that DSPGI
+shall retain its rights under the Employee Proprietary Information Agreements
+to the extent required to bring actions (at law, in equity or otherwise) for
+any breach of such Employee Proprietary Information Agreements relating to acts
+or omissions prior to the Effective Date by the Ceva Employees who become
+employees of Ceva. The Parties shall reasonably cooperate in connection with
+any action against any of the Ceva Employees.
+
+                                  ARTICLE IV
+
+                     TRANSFER OF OTHER TRANSFERABLE ASSETS
+
+   DSPGI, on behalf of itself and the Transferring Entities, hereby irrevocably
+assigns and transfers to Ceva, and its successors and assigns, all of the
+right, title and interest of the Transferring Entities in and to the tangible
+assets, licenses and permits of its Licensing Business as described on Exhibit
+D to this Agreement and such other equipment, furniture and furnishings as are
+used principally by the Licensing Business ("Other Transferable Assets"), and
+Ceva and its successors and assigns hereby accept such assignment and transfer,
+and assume (and shall pay, perform and discharge when due) all obligations in
+respect to such Other Transferable Assets accruing from and after the Effective
+Date.
+
+                                   ARTICLE V
+
+              TRANSFER OF CERTAIN RELATED RIGHTS AND OBLIGATIONS
+
+   SECTION 5.1. Assignment and Assumption of License Agreements.  DSPGI, on
+behalf of itself and the Transferring Entities, hereby assigns and delegates to
+Ceva all of the rights and obligations of the Transferring Entities under all
+agreements under which the Transferring Entities, or any of them, have granted
+licenses of the Existing Cores to Third Parties, as described on Exhibit E to
+this Agreement (the "Third Party Licenses"), including all rights to royalties,
+license fees and other amounts payable thereunder, and Ceva hereby accepts such
+assignment and delegation, and assumes (and shall pay, perform and discharge
+when due) all
+
+                                      8
+
+<PAGE>
+
+obligations under the Third Party Licenses accruing from and after the
+Effective Date. DSPGI represents and warrants to Ceva that the Transferring
+Entities and DSP Group Ltd. have not granted to any Third Party any licenses of
+the Existing Cores except pursuant to the Third Party Licenses described on
+Exhibit E to this Agreement.
+
+   SECTION 5.2. Assignment and Assumption of Other Contracts.  DSPGI, on behalf
+of itself and the Transferring Entities, hereby assigns and delegates to Ceva
+all of the rights and obligations of the Transferring Entities under the other
+contracts relating to the Transferable Licensing IP, Ceva Employees and/or the
+Other Transferable Assets described on Exhibit F to this Agreement (the "Other
+Contracts"), and Ceva hereby accepts such assignment and assumes (and shall
+pay, perform and discharge when due) all obligations under the Other Contracts
+accruing from and after the Effective Date.
+
+                                  ARTICLE VI
+
+               LICENSE TO CEVA OF CERTAIN INTELLECTUAL PROPERTY
+
+   SECTION 6.1. Licensed Software Modules.  Subject to the terms and conditions
+of this Agreement, DSPGI, on behalf of itself and the Transferring Entities,
+hereby grants to Ceva, its successors and assigns, and its and their current
+and future Affiliates a nonexclusive, perpetual, irrevocable, royalty-free,
+worldwide right and license, under the intellectual property rights of the
+Transferring Entities in and to the Licensed Software Modules and Licensed Chip
+Modules, to prepare derivative works of and otherwise modify, reproduce, and
+otherwise use such Licensed Software Modules and Licensed Chip Modules solely
+for internal use by Ceva, its successors and assigns, and its and their current
+and future Affiliates, for research and development (e.g., testing,
+benchmarking, etc.) of its and their own respective products. The parties agree
+to discuss in good faith broadening the scope of the license granted in this
+Section 6.1 to allow Ceva to sell and otherwise distribute particular Licensed
+Software Modules and Licensed Chip Modules on a case-by-case basis upon
+mutually agreeable terms and conditions.
+
+   SECTION 6.2. VP140 License.  The Parties will negotiate in good faith an
+agreement under which VoicePump, Inc., a subsidiary of DSPGI, will grant to
+Ceva the right to sublicense to third-party semiconductor makers the right to
+develop and make semiconductor products based on the design of VoicePump's
+VP140 chip in exchange for a share of revenue (as defined by the mutual
+agreement of the Parties) derived by Ceva from such sublicenses in an amount
+equal to twenty-five percent (25%).
+
+   SECTION 6.3. Process Information.  Subject to the terms and conditions of
+this Agreement, DSPGI, on behalf of the Transferring Entities, hereby grants to
+Ceva, its successors and assigns, and its and their current and future
+Affiliates a nonexclusive, perpetual, irrevocable, royalty-free, worldwide
+right and license, under the intellectual property rights of the Transferring
+Entities in and to the Process Information, to prepare derivative works of and
+otherwise modify, reproduce, and otherwise use such Process Information solely
+for internal use by Ceva, its successors and assigns, and its and their current
+and future Affiliates, for the design and development of its and their own
+respective products.
+
+   SECTION 6.4. Additional Necessary Licensed IP.
+
+                                      9
+
+<PAGE>
+
+      (a) To the extent, if any, that there is any Additional Necessary
+   Licensed IP (e.g., development tools necessary for implementing the Existing
+   Cores), DSPGI, on behalf of itself and the Transferring Entities, hereby
+   grants to Ceva, its successors and assigns, and its and their current and
+   future Affiliates a nonexclusive, perpetual, irrevocable, royalty-free,
+   worldwide right and license, under the intellectual property rights of the
+   Transferring Entities in and to such Additional Necessary Licensed IP, to
+   prepare derivative works of and otherwise modify, make, reproduce, sell and
+   otherwise distribute, transmit, import, and otherwise use and exploit such
+   Additional Necessary Licensed IP to the extent necessary to continue
+   operating the Licensing Business as currently conducted and currently
+   contemplated to be conducted by the licensing division of DSPGI. Such right
+   and license includes (i) the right to disclose such Additional Necessary
+   Licensed IP, provided that such disclosure is in accordance with the
+   confidentiality obligations set forth in this Agreement, and (ii) the right
+   to grant licenses and/or sublicenses (with the rights of the licensees
+   and/or sublicensees to grant further sublicenses) of all or any of the
+   foregoing rights, in each case, to the extent necessary to continue
+   operating the Licensing Business as currently conducted and currently
+   contemplated to be conducted by the licensing division of DSPGI. Such
+   Additional Necessary Licensed IP, if any, will be identified by Ceva during
+   the two (2) year period commencing on the Effective Date, and DSPGI shall,
+   from time to time upon the request of Ceva during such two (2) year period
+   and without further consideration, deliver to Ceva, as applicable, copies of
+   any tangible embodiments of any such Additional Necessary Licensed IP which
+   DSPGI has not previously delivered to Ceva pursuant to this Agreement.
+
+      (b) In addition, to the extent, if any, that any patents owned or
+   licensed (with the right to sublicense) by the Transferring Entities as of
+   the Effective Date or any patents issuing in respect of applications owned
+   or licensed (with the right to sublicense) by the Transferring Entities as
+   of the Effective Date are necessary to the continued development,
+   distribution and licensing of the Existing Cores and Other Transferable
+   Licensing IP as currently carried out and currently contemplated to be
+   carried out by the licensing division of DSPGI, DSPGI, on behalf of itself
+   and the Transferring Entities, hereby grants to Ceva, its successors and
+   assigns, and its and their current and future Affiliates, a non-exclusive,
+   perpetual, irrevocable, royalty-free, worldwide right and license to make,
+   use and sell such Existing Cores and Other Transferable IP (provided that
+   (i) any sublicense to Ceva, its successors and assigns, and its and their
+   current and future Affiliates of any patents licensed to the Transferring
+   Entities shall be subject to any restrictions and other terms and conditions
+   of the license to the Transferring Entities or under which the Transferring
+   Entities have the right to grant such sublicense and, without limitation of
+   the generality of the foregoing, shall be subject to Ceva's making any
+   payments required by the sublicense or the exercise of rights thereunder,
+   and (ii) Ceva, its successors and assigns, and its and their current and
+   future Affiliates indemnify and hold harmless (and shall indemnify and hold
+   harmless) the Transferring Entities from any damages or other liabilities
+   resulting from or relating to any breach of any terms and conditions of the
+   license or sublicense by Ceva, its successors and assigns, and its and their
+   current and future Affiliates).
+
+                                      10
+
+<PAGE>
+
+                                  ARTICLE VII
+
+                                 CONSIDERATION
+
+   In partial consideration of the assignments and licenses set forth herein,
+as of the Effective Date Ceva has issued and/or will issue to DSPGI shares of
+its Common Stock in accordance with the Separation Agreement.
+
+                                 ARTICLE VIII
+
+                                CONFIDENTIALITY
+
+   SECTION 8.1. Disclosure Limitation.  Each Party (as Receiving Party) shall
+use the same care and measures to protect the confidentiality of the
+Confidential Information of the other Party (as Disclosing Party) as the
+Receiving Party uses for its own confidential or proprietary information or
+material of a similar nature, but no less than a reasonable degree of care.
+Such measures shall include instructing and requiring all recipients of
+Confidential Information to maintain the confidentiality of such Confidential
+Information and restricting disclosure of such Confidential Information to
+those Representatives of the Receiving Party and its Affiliates, its and their
+contractors, suppliers and licensees, and other authorized third parties who
+have a "need to know" consistent with the purposes for which such Confidential
+Information is disclosed. The Receiving Party further agrees not to remove or
+destroy any proprietary rights or confidentiality legends or markings placed
+upon any documentation or other materials. Nothing in the foregoing will
+preclude the Receiving Party from performing its obligations or exercising its
+rights under this Agreement, including, without limitation, any disclosure
+inherent in any commercial activities authorized by this Agreement.
+
+   SECTION 8.2. Permitted Disclosures.  Notwithstanding Section 8.1, the
+Receiving Party may disclose the Disclosing Party's Confidential Information in
+the event that the Receiving Party is required (by the disclosure requirements
+of any rule, regulation, or form of any Governmental Authority or by
+interrogatories, requests for information or documents by any Governmental
+Authority or other Person in legal proceedings, subpoenas, civil investigative
+demands, or other similar processes) to disclose such Confidential Information,
+provided that the Receiving Party so required shall provide the Disclosing
+Party with prompt written notice of any such requirement so that the Disclosing
+Party may object to production and seek a protective order or other appropriate
+remedy, and/or waive compliance with the provisions of this Agreement. If the
+Disclosing Party objects to production and seeks a protective order or other
+appropriate remedy, the Receiving Party shall exercise commercially reasonable
+efforts (at the sole expense of the Disclosing Party) to cooperate, including,
+without limitation, by cooperating with the Disclosing Party to obtain an
+appropriate protective order or other reasonable assurance that confidential
+treatment will be accorded such Confidential Information.
+
+                                  ARTICLE IX
+
+                           WARRANTY AND DISCLAIMERS
+
+   SECTION 9.1. Authority.  Each of DSPGI and Ceva hereby represents and
+warrants to the other that it has the corporate authority to enter into and
+perform its obligations under this Agreement, and its execution, delivery and
+performance of this Agreement have been duly and validly authorized.
+
+                                      11
+
+<PAGE>
+
+   SECTION 9.2. Sufficiency.  DSPGI, on behalf of itself and the Transferring
+Entities, hereby represents and warrants to Ceva that:
+
+      (a) the Transferable Licensing IP (together with the Transferable
+   Licensing IP under the Corage Ltd. Technology Transfer Agreement)
+   constitutes all of the intellectual property assets of the Transferring
+   Entities and DSP Group Ltd. that are used principally in the Licensing
+   Business (as opposed to the Products Business) as currently conducted by the
+   licensing division of the Transferring Entities and DSP Group Ltd.;
+
+      (b) the assignments, licenses and other rights granted by the
+   Transferring Entities to Ceva under this Agreement (together with the
+   assignments, licenses and other rights granted by DSP Group Ltd. to Corage
+   Ltd. under the Corage Ltd. Technology Transfer Agreement) accord to Ceva and
+   Corage Ltd. the rights (as between the Transferring Entities and DSP Group
+   Ltd., on one hand, and Ceva and Corage Ltd., on the other hand) with respect
+   to the intellectual property assets of the Transferring Entities and DSP
+   Group Ltd. that are necessary for continued operation of the Licensing
+   Business as currently conducted by the licensing division of the
+   Transferring Entities and DSP Group Ltd.;
+
+      (c) the assignment and delivery of the Existing Cores, Other Transferable
+   Licensing IP, Transferable Domain Names, Transferable Marks, Transferable
+   Patents, and Other Transferable Assets to Ceva pursuant to this Agreement
+   (together with the assignment and delivery of such assets to Corage, Ltd.
+   pursuant to the Corage Ltd. Technology Transfer Agreement) has vested or
+   will vest good title to such assets free and clear of all material liens,
+   mortgages, pledges, security interests, prior assignments and similar
+   encumbrances; and
+
+      (d) the Other Contracts (together with the Other Contracts under the
+   Corage Ltd. Technology Transfer Agreement) include all of the licenses under
+   which the Transferring Entities and DSP Group Ltd. have obtained from third
+   parties designs, development kits, emulators, tools, libraries, test suites,
+   documentation, parts lists, board layouts, design materials, databases,
+   know-how, methods, processes and work in progress used principally in the
+   Licensing Business (as opposed to the Products Business) as currently
+   conducted by the licensing division of Transferring Entities and DSP Group
+   Ltd.
+
+      (e) DSPGI's sole and exclusive liability, and Ceva's sole and exclusive
+   remedy, for any breach by DSPGI of the warranties set forth in this Section
+   9.2 will be that (i) the DSPGI will assign or license, and will cause the
+   Transferring Entities to assign or license, to Ceva, at no cost to Ceva, any
+   omitted assets to the extent necessary for DSPGI to achieve compliance with
+   such warranties or DSPGI will obtain, or will cause the Transferring
+   Entities to obtain, for Ceva, at no cost to Ceva, a reasonable substitute to
+   such omitted assets, and (ii) if DSPGI fails to achieve such compliance
+   within a reasonable period of time following receipt of notice of such
+   breach from Ceva, DSPGI will pay the direct damages resulting from such
+   breach. The rights and remedies set forth herein shall not be cumulative
+   with those for breach of Section 11.2(b).
+
+   SECTION 9.3. Limitation of Warranties.  EXCEPT AS EXPRESSLY PROVIDED IN THIS
+ARTICLE IX, ALL OF THE ASSETS, RIGHTS, TECHNOLOGY, AND OTHER INFORMATION AND
+MATERIALS ASSIGNED, LICENSED OR OTHERWISE
+
+                                      12
+
+<PAGE>
+
+CONVEYED IN CONNECTION WITH THIS AGREEMENT ARE PROVIDED "AS IS." NEITHER PARTY
+MAKES, AND NEITHER PARTY RECEIVES, ANY OTHER WARRANTIES, WHETHER EXPRESS,
+IMPLIED, STATUTORY, OR OTHERWISE, INCLUDING, WITHOUT LIMITATION, ANY WARRANTIES
+OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT OF
+THIRD-PARTY RIGHTS. WITHOUT LIMITATION OF THE GENERALITY OF THE FOREGOING,
+NEITHER PARTY MAKES, OR SHALL BE DEEMED TO MAKE, ANY REPRESENTATION OR WARRANTY
+THAT THE USE OR EXPLOITATION OF ANY PRODUCT WILL BE FREE FROM INFRINGEMENT OF
+ANY INTELLECTUAL PROPERTY RIGHT OTHER THAN THE RIGHTS EXPRESSLY GRANTED HEREIN.
+THE FOREGOING WILL NOT SUPERSEDE OR LIMIT IN ANY WAY ANY REPRESENTATIONS OR
+WARRANTIES EXPRESSLY MADE BY THE PARTIES IN THE SEPARATION AGREEMENT OR THE
+COMBINATION AGREEMENT.
+
+                                   ARTICLE X
+
+                            LIMITATION Of LIABILITY
+
+   NOTWITHSTANDING ANYTHING HEREIN TO THE CONTRARY, NEITHER PARTY SHALL HAVE
+ANY LIABILITY WHATSOEVER FOR ANY INCIDENTAL, INDIRECT, CONSEQUENTIAL, PUNITIVE,
+OR SPECIAL DAMAGES OF ANY KIND, OR ANY LOSS OF REVENUE OR PROFITS, LOSS OF
+BUSINESS, OR LOSS OF DATA, ARISING OUT OF OR RELATED TO THIS AGREEMENT OR THE
+SUBJECT MATTER HEREOF (OR THE CORAGE LTD. TECHNOLOGY TRANSFER AGREEMENT OR THE
+PROVISIONS OF THE SEPARATION AGREEMENT RELATED TO THIS AGREEMENT OR THE CORAGE
+LTD. TECHNOLOGY TRANSFER AGREEMENT), HOWEVER CAUSED AND REGARDLESS OF THE
+THEORY OF LIABILITY (INCLUDING CONTRACT, TORT, OR OTHERWISE), EVEN IF INFORMED
+IN ADVANCE OF THE POSSIBILITY OF SUCH DAMAGES. IN ADDITION, IN NO EVENT WILL
+THE AGGREGATE LIABILITY OF EITHER PARTY AND ITS AFFILIATES (INCLUDING, IN THE
+CASE OF DSPGI, DSP GROUP, LTD.) ARISING OUT OF OR RELATING TO THIS AGREEMENT OR
+THE SUBJECT MATTER HEREOF (OR THE CORAGE LTD. TECHNOLOGY TRANSFER AGREEMENT OR
+THE PROVISIONS OF THE SEPARATION AGREEMENT RELATED TO THIS AGREEMENT OR THE
+CORAGE LTD. TECHNOLOGY TRANSFER AGREEMENT) CUMULATIVELY EXCEED TEN MILLION US
+DOLLARS ($10,000,000). THE FOREGOING WILL NOT SUPERSEDE OR LIMIT IN ANY WAY THE
+RIGHTS AND OBLIGATIONS OF THE PARTIES UNDER THE COMBINATION AGREEMENT.
+
+                                  ARTICLE XI
+
+                               OTHER AGREEMENTS
+
+   SECTION 11.1. No Rights to Updates.  Except as otherwise expressly provided
+in this Agreement, (a) the assets, rights, technology, and other information
+and materials assigned, licensed or otherwise conveyed by each Party under this
+Agreement, including the Existing Cores, the Other Transferable Licensing IP,
+the Licensed IP Modules and the Process Information, are assigned, licensed and
+otherwise conveyed as such assets, rights, technology, and other information
+and materials exist as of the Effective Date, and (b) each Party retains all
+
+                                      13
+
+<PAGE>
+
+right, title and interest in and to any modifications made by or for such
+Party, and shall have no obligation to provide such modifications to the other
+Party. In addition, neither Party assumes any obligations other than those
+expressly set forth in this Agreement. Without limitation of the generality of
+the foregoing, neither Party is obligated to provide any consulting or
+technical assistance except as otherwise provided herein.
+
+   SECTION 11.2. Further Assurances.
+
+   (a) At any time and from time to time after the Effective Date, at the
+request of a Party, the other Party shall execute and deliver such written
+instruments and extend such other cooperation as may be necessary in the
+reasonable opinion of the other Party to effect, evidence, record or perfect
+any of the assignments, transfers, licenses and other rights (including
+retentions thereof) set forth in this Agreement, including execution and
+acknowledgement of assignments and other instruments.
+
+   (b) To the extent that DSPGI or any Transferring Entity retains ownership of
+any assets or intellectual property rights used principally in the Licensing
+Business (as opposed to the Products Business), but which are not included in
+the Licensing Business Assets, at the request of Ceva during the two (2) year
+period commencing on the Effective Date, DSPGI, on behalf of itself and the
+Transferring Entities, covenants and agrees to transfer such assets and
+intellectual property rights to Ceva without any additional consideration,
+provided that such additional assets or intellectual property rights shall be
+subject to all the rights of DSPGI, its successors and assigns, and its and
+their current and future Affiliates set forth herein, including, without
+limitation, those set forth in Sections 2.2, 2.3 and 2.4. The rights and
+remedies for breach of this Section 11.2(b) shall be only those set forth in
+Section 9.2 and shall not be cumulative with any other rights or remedies.
+
+   SECTION 11.3.  No Obligation to Obtain New Rights.  Ceva acknowledges that,
+from and after the Effective Date, except only as set forth above in Section
+11.2 and Article VIII, DSPGI has no obligation to preserve, protect, obtain or
+enforce any rights in the Transferable Licensing IP, including, without
+limitation, any obligation to register any copyright, to file or prosecute any
+patent application, or to bring actions for infringement or misappropriation of
+any Transferable Licensing IP. Neither this Agreement nor the conduct of either
+Party under this Agreement imposes or shall be deemed to impose any such
+obligation, by implication, estoppel, inference, or otherwise.
+
+   SECTION 11.4. Maintenance of Transferable Licensing IP.  As of the Effective
+Date, Ceva shall have the sole responsibility to execute and deliver such
+documents, pay such maintenance and other fees, and take such other measures as
+may be necessary or desirable to preserve, protect, obtain or enforce the
+Transferable Licensing IP and Ceva's rights therein, including, without
+limitation, prosecution and maintenance of any Transferable Patents,
+registration and maintenance of any Transferable Marks and Transferable Domain
+Names, and registration, renewal and recordation of any Other Intangible
+Property Rights, provided that DSPGI shall assist Ceva in connection with the
+foregoing in accordance with Section 11.2 without any additional consideration
+but subject to reimbursement of expenses.
+
+                                      14
+
+<PAGE>
+
+   SECTION 11.5. Delivery.  Upon the Effective Date, DSPGI shall deliver to
+Ceva (a) the tangible Other Transferable Assets, and (b) to the extent in
+DSPGI's possession, copies of tangible embodiments of the Transferring Entities
+of the Transferable Licensing IP, Third Party Licenses, employment agreements
+of Transferred Employees, intangible Other Transferable Assets, and Other
+Contracts. Notwithstanding the foregoing, each Party may retain copies of any
+assets, technology, and other information and materials assigned, licensed or
+otherwise conveyed to the other Party under this Agreement (except for tangible
+Other Transferable Assets as to which no copies can be made), solely to the
+extent necessary for such Party to exercise the rights expressly granted to
+such Party under this Agreement, and subject to the rights and obligations with
+respect thereto as set forth in this Agreement.
+
+   SECTION 11.6. Residuals.  Notwithstanding anything herein to the contrary,
+each Party may use residual information for any purpose, including without
+limitation use in development, manufacture, promotion, sale and maintenance of
+its products and services; provided that this right to residual information
+does not represent a license under any patents or copyrights of the other
+Party. The term "residual information" means any information that is retained
+in the unaided memories of a Party's personnel who have had access to the other
+Party's Confidential Information in accordance with this Agreement. An
+individual's memory is unaided if the individual has not intentionally
+memorized the Confidential Information for the purpose of retaining and
+subsequently using or disclosing it. This Section 11.6 does not imply any
+exception to, or limitation of, the obligations of the Parties under Section
+6.3 of the Separation Agreement.
+
+   SECTION 11.7. Interpretation of Rights.  The Parties acknowledge and agree
+that (a) any right of a Party granted or referenced herein includes the right
+(i) to have such right exercised for the benefit of such Party (e.g., the right
+to make includes the right to have made, the right to reproduce includes to
+right to have reproduced, etc.), and (ii) to make offers of such right (e.g., a
+right to sell includes the right to offer to sell), and (b) the right to
+distribute includes the right to distribute through multiple layers of
+distribution. In addition, the Parties acknowledge and agree that (1) an
+Affiliate of a Party shall have the right to exercise a right or license
+granted to such Affiliate hereunder only to the extent such Party so
+authorizes, and such Affiliate must be subject to (and agree to) any terms and
+conditions of this Agreement applicable to such right or license (e.g.,
+limitations on use or confidentiality obligations with respect to the subject
+matter of such right or license), and (2) a successor or assign of DSPGI or
+Ceva shall have the right to exercise the rights and licenses granted to such
+successor or assign hereunder only if such successor or assign is subject to
+(and agrees to be bound by) all of the terms and conditions of this Agreement,
+to the same extent as DSPGI or Ceva, in accordance with Section 12.8.
+
+   SECTION 11.8. Subject to Third Party Rights.  Notwithstanding anything else
+in this Agreement, neither Party shall be obligated to assign, license or
+otherwise convey, or be deemed to assign, license or otherwise convey, any
+assets, rights, technology, or other information or materials owned by, or
+subject to the rights of, a Third Party, or any agreement with a Third Party,
+if and to the extent such Party does not have the right so to assign, license
+or convey, provided that such Party shall use commercially reasonable efforts
+to obtain the consent of the Third Party to any assignment, license or other
+conveyance contemplated by this Agreement at no charge to the assignee or
+licensee, as applicable (such efforts will include payment of any fees to the
+Third Party required to effect the assignment, license or conveyance). Each
+Party
+
+                                      15
+
+<PAGE>
+
+acknowledges and agrees that all assignments, licenses and other conveyances
+made hereunder are subject to the Third Party Licenses granted before the
+Effective Date.
+
+   SECTION 11.9. No Obligation to Bring or Defend Legal Actions.  Neither Party
+shall have any obligation hereunder to bring any claim or action against any
+third party for infringement or misappropriation of any of the intellectual
+property rights assigned or licensed hereunder, or to defend any claim or
+action brought by a third party with respect to any such intellectual property
+rights (including, without limitation, a claim or action with respect to the
+validity or enforceability of any such rights).
+
+   SECTION 11.10. No Other Rights.  The assignments, licenses and other
+conveyances of rights are only those expressly set forth in this Agreement.
+Neither Party assigns, licenses or otherwise conveys (or shall be deemed to
+assign, license or otherwise convey) any rights (whether by implication,
+estoppel, inference or otherwise, or by any conduct of a Party under this
+Agreement) other than as expressly set forth in this Agreement.
+
+                                  ARTICLE XII
+
+                                 MISCELLANEOUS
+
+   SECTION 12.1. Relationship of Parties.  Nothing contained in this Agreement
+shall be deemed to constitute either Party or any of its Affiliates the
+partner, agent, or legal representative of the other Party or its Affiliates or
+to create any fiduciary relationship for any purpose whatsoever. Except as
+otherwise specifically provided in this Agreement, nothing in this Agreement
+shall confer on either Party or any of its Affiliates any authority to act for,
+bind, or create or assume any obligation or responsibility on behalf of the
+other Party or its Affiliates.
+
+   Section 12.2. Notices.  All notices provided pursuant to this Agreement
+shall be delivered by personal delivery, overnight courier, or facsimile, and
+shall be deemed effective on the date on which delivery to the intended
+recipient of the notice was accomplished. Such notices shall be delivered to
+the following addresses:
+
+               If to DSPGI:                     If to Ceva:
+
+               Moshe Zelnick                    [Name]
+               Chief Financial Officer          [Position]
+               DSP Group Ltd.                   Ceva, Inc.
+               5 Shenkar Street                 [address]
+               Herzeliya 46120 Israel           [address]
+               Fax: 972-9-954-1513              Fax:
+
+   SECTION 12.3. Choice of Law.  This Agreement shall be governed by and
+construed and interpreted in accordance with the laws of the State of Delaware
+(other than as to its laws of arbitration which shall be governed under the
+Arbitration Act (as defined in the Separation Agreement) or other applicable
+federal law pursuant to Section 8.10 of the Separation Agreement), irrespective
+of the choice of laws principles of the State of Delaware, as to all matters,
+including matters of validity, construction, effect, enforceability,
+performance and remedies. Any dispute by either Party arising out of or
+relating to this Agreement shall be finally
+
+                                      16
+
+<PAGE>
+
+settled in accordance with the procedures and terms set forth in Article VIII
+of the Separation Agreement.
+
+   SECTION 12.4. Entire Agreement.  This Agreement constitutes the entire
+agreement between the Parties pertaining to the subject matter hereof and
+supersedes all previous communications, agreements, and understandings between
+the Parties relating to the subject matter hereof. Neither Party has entered
+into this Agreement in reliance upon any representation, warranty, or
+undertaking of the other Party that is not set out or referred to in this
+Agreement. If there is a conflict between this Agreement and the Separation and
+Distribution Agreement, the terms of this Agreement will govern
+
+   SECTION 12.5. Severability.  Whenever possible, each provision of this
+Agreement shall be interpreted in such manner as to be effective and valid
+under applicable law, but if any provision of this Agreement shall be held to
+be prohibited by or invalid under applicable law, such provision shall be
+ineffective only to the extent of such prohibition or invalidity, without
+invalidating the remainder of such provision or the remaining provisions of
+this Agreement.
+
+   SECTION 12.6. Headings.  The section or other headings herein are inserted
+only for convenience and ease of reference and are not to be considered in the
+construction or interpretation of any provision of this Agreement. Unless
+otherwise stated, references to Sections herein are references to Sections
+hereof.
+
+   SECTION 12.7. Amendments; Waivers.  This Agreement may be amended, and the
+taking of any action required hereunder may be waived, by the written consent
+of each Party at the time such amendment or waiver is sought. No such waiver
+shall operate as a waiver of, or estoppel with respect to, any other action. No
+failure to exercise, and no delay in exercising, any right, remedy, or power
+hereunder shall operate as a waiver thereof, nor shall single or partial
+exercise of any right, remedy, or power hereunder preclude any other or further
+exercise thereof or the exercise of any other right, remedy, or power provided
+herein or by law or at equity. The waiver of the time for performance of any
+act or condition hereunder does not constitute a waiver of the act or condition
+itself.
+
+   SECTION 12.8. Successors; No Assignment.  Each Party agrees that it will not
+assign, sell, delegate, or otherwise transfer, whether voluntarily or
+involuntarily, any right or obligation under this Agreement, provided, however,
+that either Party ("Assigning Party") may assign, sell, delegate and otherwise
+transfer this Agreement, together with all of the Assigning Party's rights and
+obligations hereunder without such approval in connection with a merger,
+reorganization, reincorporation into another state, or sale of all, or
+substantially all, of such Party's business and assets relating to this
+Agreement, if the assignee agrees to be bound by all of the terms and
+conditions of this Agreement to the same extent as the Assigning Party. For the
+purposes of this Section 12.8, the Parties hereby consent to the transactions
+contemplated by the Combination Agreement to occur on the Effective Date,
+provided that any successor to Ceva is subject to (and has agreed in writing to
+assume) any and all obligations, limitations, and liabilities applicable to
+Ceva set forth in this Agreement. Any purported assignment, sale, delegation or
+other transfer in violation of this Section 12.8 shall be null and void.
+Subject to the foregoing limits on assignment and delegation, this Agreement
+shall be binding upon and shall inure to the benefit of the Parties and their
+respective successors and assigns.
+
+                                      17
+
+<PAGE>
+
+   SECTION 12.9. Counterparts.  This Agreement may be executed in any number of
+counterparts, each of which shall be deemed an original and all of which shall
+constitute one and the same Agreement.
+
+   SECTION 12.10. Recovery of Costs and Attorney's Fees.  In any legal action,
+or other proceeding brought to enforce or interpret the terms of this
+Agreement, the substantially prevailing Party shall be entitled to reasonable
+attorney's fees and any other costs incurred in that proceeding in addition to
+any other relief to which it is entitled.
+
+   SECTION 12.11. Third Party Beneficiaries.  The provisions of this Agreement
+are solely for the benefit of the Parties (including their permitted successors
+and assigns), and not for the benefit of any Third Party.
+
+                                      18
+
+<PAGE>
+
+   IN WITNESS WHEREOF, the Parties have caused this Agreement to be executed by
+their duly authorized Representatives as of the day and year first written
+above.
+
+
+                                              DSP GROUP INC.
+
+                                              By: /s/ Eliyahu Ayalon
+                                                 -------------------------------
+                                                 Eliyahu Ayalon
+                                                 -------------------------------
+                                                 Chief Executive Officer
+                                                 -------------------------------
+
+                                              CEVA, INC.
+
+                                              By: /s/ Gideon Wertheizer
+                                                 -------------------------------
+                                                 Gideon Wertheizer
+                                                 -------------------------------
+                                                 President
+                                                 -------------------------------
+
+                                       19
+
+</TEXT>
+</DOCUMENT>

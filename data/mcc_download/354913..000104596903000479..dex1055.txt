@@ -1,0 +1,1427 @@
+<DOCUMENT>
+<TYPE>EX-10.55
+<SEQUENCE>7
+<FILENAME>dex1055.txt
+<DESCRIPTION>NOKIA TDD DEVELOPMENT AGREEMENT
+<TEXT>
+<PAGE>
+
+ CONFIDENTIAL PORTIONS OF THIS DOCUMENT HAVE BEEN REDACTED AND SEPARATELY FILED
+ WITH THE COMMISSION
+
+                                                                   EXHIBIT 10.55
+
+                           TDD DEVELOPMENT AGREEMENT
+
+                                    Between
+
+                    InterDigital Communications Corporation
+
+                      InterDigital Technology Corporation
+
+                                      and
+
+                               Nokia Corporation
+
+<PAGE>
+
+                               Table of Contents
+
+<TABLE>
+<S>                                                                             <C>
+ARTICLE 1 - DEFINITIONS.......................................................    2
+   1.1 Definition ............................................................    2
+       ----------
+ARTICLE 2 - TDD PROJECT.......................................................    2
+   2.1 Overall Program/Goal...................................................    2
+       --------------------
+   2.2 Scope of Work..........................................................    2
+       -------------
+   2.3 Pre-Requisites.........................................................    2
+       --------------
+   2.4 Technology Transfer....................................................    3
+       -------------------
+   2.5 Location of Services ..................................................    3
+       --------------------
+   2.6 Program Control/Management ............................................    3
+       --------------------------
+   2.7 Reports/Penalty........................................................    8
+       ---------------
+   2.8 No Solicitation .......................................................  11i
+       --------------------
+ARTICLE 3 - STANDARDIZATION ASSITANCE.........................................   11
+   3.1 Standardization Commitment ............................................  11i
+       --------------------------
+   3.2 Standardizattion Efforts ..............................................   12
+       ------------------------
+   3.3 Submittals.............................................................   13
+       ----------
+   3.4 Notification...........................................................   13
+       ------------
+ARTICLE 4 - INTELLECTUAL PROPERTY RIGHTS .....................................   13
+   4.1 Ownership .............................................................   13
+       ---------
+   4.2 ITC and IDC License Grants ............................................   14
+       --------------------------
+   4.3 Nokia License Grants ..................................................   15
+       --------------------
+   4.4 Jointly Developed Patent Rights........................................   17
+       -------------------------------
+   4.5 Patent Filing Coordination ............................................   19
+       --------------------------
+   4.6 Certain Ackowledgements and Representations............................   19
+       -------------------------------------------
+   4.7 Additional Limitations and Conditions of the License Grant.............   19
+       ----------------------------------------------------------
+   4.8 Cooperation in Patent Infringement Assessment/Litigation ..............   21
+       --------------------------------------------------------
+   4.9 InterDigital TDD Technology Licensing .................................   22
+       -------------------------------------
+ARTICLE 5 - COMPENSATION......................................................   23
+ARTICLE 6 - TDD PRODUCT PURCHASES.............................................   23
+ARTICLE 7 - TDD ASIC SALES....................................................   24
+ARTICLE 8 - WARRANTIES; LIMITATION OF LIABILITIES ............................   24
+   8.1 Title Warranty ........................................................   25
+       --------------
+   8.2 Limitation of Liability ...............................................   25
+       -----------------------
+   8.3 Limitation of Warranties...............................................   25
+       ------------------------
+ARTICLE 9 - EFFECTIVE DATE; TERM; TERMINATION.................................   26
+   9.1 Effective Date ........................................................   26
+       --------------
+   9.2 Term ..................................................................   26
+       ----
+   9.3 Termination for Cause .................................................   26
+       ---------------------
+   9.4 Termination for Convenience ...........................................   26
+       ---------------------------
+   9.5 Rights Upon Termination................................................   27
+       -----------------------
+ARTICLE 10 - MISCELLANEOUS ...................................................   28
+   10.1 Incorporation by Reference ...........................................   28
+        --------------------------
+   10.2 Exhibits..............................................................   28
+        --------
+   10.3 Entire Agreement......................................................   28
+        ----------------
+</TABLE>
+
+<PAGE>
+
+                             PROPRIETARY INFORMATION
+
+10.4 Counterparts/Faxed Signatures ........................................   28
+     -----------------------------
+                                                                              ii
+
+<PAGE>
+
+                            PROPRIETARY INFORMATION
+
+                           TDD DEVELOPMENT AGREEMENT
+
+THIS AGREEMENT is entered into as of the Effective Date between and among
+InterDigital Communications Corporation, a corporation organized and existing
+under the laws of the Commonwealth of Pennsylvania, with offices at 781 Third
+Avenue, King of Prussia, Pennsylvania 19406 ("IDC"), InterDigital Technology
+Corporation, a Delaware corporation with offices at 300 Delaware Avenue, Suite
+527, Wilmington, Delaware 19801 ("ITC" and, together with IDC, "InterDigital"),
+and Nokia Corporation, a corporation existing under the laws of the Country of
+Finland, with offices at [**] ("Nokia").
+
+                                   Background
+
+Nokia is a global leader in the design, manufacture, and supply of advanced
+wireless telecommunications equipment, including Infrastructure and Subscriber
+Units utilizing time division multiple access technology (TDMA). Nokia is also a
+leading developer and participant in the standards setting process associated
+with Third Generation applications.
+
+IDC has developed extensive digital communications technology experience
+involving both TDMA and code division multiple access (CDMA) technologies.
+
+Nokia desires to engage IDC to develop time division duplex ("TDD") technology,
+which technology is currently being proposed as part of the technological
+solution for Third Generation applications.
+
+Nokia and InterDigital further desire to enter into an agreement providing for
+the mutually beneficial cross-licensing of the TDD Technology.
+
+NOW THEREFORE, in consideration of the mutual covenants contained herein, the
+parties hereto, intending to be legally bound, agree as follows:
+
+   ** Material has been omitted and filed separately with the Commission.
+
+                                                                               1
+
+<PAGE>
+
+                             PROPRIETARY INFORMATION
+
+                             ARTICLE 1 - DEFINITIONS
+
+1.1  Definitions. As used herein, the terms set forth in the Master Agreement,
+     Exhibit 1 thereto, when used with initial capital letters in this
+     Agreement, including any Exhibits, attachments or amendments, shall have
+     the meanings described in such Exhibit 1.
+
+                             ARTICLE 2 - TDD PROJECT
+
+2.1  Overall Program/Goal. Pursuant to the terms and conditions of this
+     Agreement, IDC will undertake to develop TDD Technology for Nokia. As
+     contemplated by the Work Plans and Specifications as of the Effective Date,
+     IDC will develop the technology and intellectual property blocks for the
+     TDD Technology for use in Third Generation. That development effort may
+     include software development, ASIC development, modem development, and
+     other aspects of TDD Technology. IDC's development effort will be
+     undertaken principally at IDC's R&D facilities. IDC will provide the TDD
+     Technology to Nokia for its use in productizing the TDD Technology. Nokia
+     will be permitted to employ the TDD Technology without further royalty
+     obligation to InterDigital, as set forth herein. IDC will be permitted to
+     use TDD Technology for its TDD Products, and license others under the TDD
+     Technology, as set forth herein.
+
+2.2  Scope of Work. IDC will use reasonable efforts to accomplish the TDD
+     Project and deliver to Nokia the deliverables pursuant to the Work Plans
+     and Specifications. The initial Work Plans and Specifications are contained
+     in Exhibit 1. The Work Plans and Specifications may be amended from time to
+     time in accordance with the provisions of Section 2.6.
+
+2.3  Prerequisites. IDC shall provide adequate, experienced and trained
+     resources to execute TDD Project according to the Work Plans and
+     Specifications. IDC shall provide basic facilities like office and
+     laboratory space with standard furnishing and equipment. These arrangement
+     are done so that necessary security and confidentiality
+
+                                                                               2
+
+<PAGE>
+
+                            PROPRIETARY INFORMATION
+
+     requirements have been taken care. Nokia will provide experienced and
+     trained resources for leading standardization activities, project
+     supervision and technology transfer. IDC will provide for limited number of
+     Nokia personnel (4-8) a possibility to work at the IDC R&D facilities
+     premises on the TDD Project, with such working environment to be comparable
+     with IDC's own project personnel. Such personnel will comply with IDC's
+     policies and procedures on security.
+
+2.4  Technology Transfer. InterDigital will provide Nokia with access to TDD
+     Technical Information in accordance with the Work Plans and Specifications
+     in real time. Generally, documentation will be made when closed and final,
+     unless the Work Plans and Specifications provide for earlier release. For
+     the quality control purposes, IDC shall not be required to provide working
+     drafts of documentation absent a requirement to do so under the Work Plans
+     and Specifications; provided, however, that Nokia may request such draft
+     information, which request will IDC shall be considered promptly and in
+     good faith by IDC. The documentation will be made available to Nokia by
+     placement in electronic and paper format in repositories in at IDC's R&D
+     facilities. Computer access will be provided to authorized Nokia employees
+     having a valid password, and agreeing to comply with all IDC's policies and
+     procedures on security.
+
+2.5  Location of Services. The services to be rendered by IDC related to this
+     Agreement shall be performed by IDC's employees primarily at the IDC
+     facilities in Melville, New York, and King of Prussia, Pennsylvania, USA.
+
+2.6  Program Control/Management. The TDD Project shall be directed and
+     coordinated in the following manner:
+
+     2.6.1 Schedule/Budget. The initial Work Plans and Specifications, TDD
+           Project Budget and TDD Project Schedule are contained in Exhibit 1.
+           The Work Plans and Specifications may be revised by the parties
+           jointly, or by Nokia, as set forth below. Any amendments to the TDD
+           Project Budget and/or TDD Project Schedule must be by agreement of
+           the parties (generally the Program
+
+                                                                               3
+
+<PAGE>
+
+                            PROPRIETARY INFORMATION
+
+      Managers), as set forth below. IDC shall use its reasonable efforts to
+      accomplish the TDD Project in a minimum budget and schedule.
+
+2.6.2 InterDigital Management. InterDigital shall have the management
+      responsibility for the implementation of the Work Plans and
+      Specifications, such management responsibility to include but not be
+      limited to:
+
+      (a) Employ appropriate and skilled engineers and technicians for the
+          performance of the Work Plans and Specifications, it being understood
+          that IDC will use reasonable efforts to minimize any changes in its
+          personnel engaged in the TDD Project and keep Nokia informed of any
+          significant changes in staffing among the first two tiers of
+          management assigned to the project;
+
+      (b) Engage and monitor contractors using standards customary in the
+          industry;
+
+      (c) Maintain appropriate security measures regarding the development,
+          disclosure and dissemination of TDD Technology;
+
+      (d) Provide suitable training opportunities for employed personnel to
+          maintain and enhance competence; and
+
+      (e) Establish suitable project procedures and guidelines regarding
+          document and revision control, cost reporting, quality assurance,
+          program review, etc.
+
+2.6.3 Technical Steering Committee. A technical steering committee (TSC),
+      comprised of technical representatives from Nokia and IDC, shall provide
+      overall technical direction for the TDD Project. The TSC will meet on an
+      asneeded basis to review technical matters and, with due consideration to
+      the
+
+                                                                               4
+
+<PAGE>
+
+                            PROPRIETARY INFORMATION
+
+      cost, schedule, and intellectual property issues, make recommendations as
+      to the technical direction of the TDD Project. Recommendations of the TSC
+      shall be made by agreement of IDC and Nokia. TSC recommendations shall be
+      approved in writing in program management meetings (described in Section
+      2.6.4) prior to implementation.
+
+2.6.4 Program Management Meeting. The Nokia and IDC Program Managers for the TDD
+      Project shall meet on a regular basis. The Program Managers' Meeting (PMM)
+      will be used to track program status, review deliveries and milestones,
+      coordinate project activities, review TSC recommendations (or the
+      inability of the TSC to reach a consensus), approve revised TDD Project
+      Budgets and TDD Project Schedules prepared by IDC (as directed by the
+      Contract Review Committee - see below), assign and review program level
+      action items, make recommendations as to the how to best address Major
+      Deviations (described in Section 2.7.3) and generally address any other
+      program issues. In addition, at any PMM, the Program Managers shall have
+      the authority to approve changes to the Work Plans and Specifications
+      provided such changes do not result in (i) upward deviations of more than
+      five percent (5%) in the projected Total TDD Project Cost, as compared to
+      the then-existing TDD Budget, or (ii) upward deviation of more than 10% in
+      the projected Total TDD Project Cost, as compared to the then-existing TDD
+      Budget, when such change is combined with previously approved changes to
+      the Work Plans and Specifications underlying the then-current TDD Budget,
+      or (iii) delays in the completion of project milestones or deliverables of
+      more than two months as compared to the then-existing TDD Schedule, or
+      (iv) delays of more than four (4) months in the TDD Projection Completion,
+      as compared to such TDD Schedule, when such change is combined with
+      previously approved changes in the Work Plans and Specifications. PMM
+      decisions shall be made by agreement of IDC and Nokia and recorded in the
+      written minutes signed by the Program Managers of both IDC and Nokia.
+      Regardless of the number of individuals attending for each company, IDC
+      and Nokia shall each have one vote. Any such changes to the
+
+                                                                               5
+
+<PAGE>
+
+                            PROPRIETARY INFORMATION
+
+      Work Plans and Specifications not authorized to be made at the PMM as set
+      forth above must be approved in a Contract Review Meeting (described in
+      Section 2.6.5) prior to implementation. In addition, any deviations or
+      changes to the TDD Project Budget and TDD Project Schedule for which the
+      PMM cannot reach a consensus shall be referred to the Contract Review
+      Committee. All approvals and recommendations of the PMM shall be
+      documented in writing.
+
+2.6.5 Contract Review Meetings. Contract review meetings ("CRM") will be held at
+      major program milestones, as set forth in the Work Plans and
+      Specifications, or as otherwise needed but in no event less than once
+      every six months. The Contract Review Meetings will be used to approve
+      project results, define the Confidential Information available for
+      disclosure to third parties (unless already exempted under Master
+      Agreement or this Agreement), review the scope and the focus of the
+      project, review the actions taken at, or recommendations arising out of,
+      the PMM, approve the TDD Project Schedule or TDD Project Budget (to the
+      extent such approval was not attained by the Project Managers), track
+      external circumstances which will have an impact to the project and give
+      approval of plans and funding of the project for the following six months'
+      period. These meetings will be attended by four Nokia and four IDC senior
+      corporate representatives; provided, however, that Nokia and IDC shall
+      each have one vote per company, regardless of the number of
+      representatives attending the Contract Review Committee. Nokia will
+      nominate one of its representatives to act as a chairman of the Contract
+      Review Committee. The Chairman will have the responsibility to call the
+      meetings; provided, however, that IDC may call a meeting if required to
+      have TDD Technology deliverables approved. In addition to other matters,
+      any changes to the Work Plans and Specifications recommended by the
+      Program Managers but for which the PMM did not have the authority to
+      implement, shall be reviewed and voted on in the Contract Review Meeting.
+      Such changes to the Work Plans and Specifications, as well as any PMM
+      proposed changes to the Work Plans and Specifications, TDD Project
+      Schedule and/or TDD Project Budget to address Major Deviations
+
+                                                                               6
+
+<PAGE>
+
+                            PROPRIETARY INFORMATION
+
+      (described in Section 2.7.3 below), shall be agreed to in writing by IDC's
+      and Nokia's senior corporate representatives on the Contract Review
+      Committee, such agreement not to be unreasonably withheld or delayed;
+      provided, however, that the Contract Review Committee Chairman may, in
+      good faith and after consultation with IDC, unilaterally reduce the scope
+      of the work effort for the TDD Project, provided such change does not
+      materially impair the objective of IDC to have the development of useable
+      and licensable TDD Technology funded by Nokia in exchange for other
+      considerations in this Agreement and the Patent License Agreement. By way
+      of examples only, "material impairment" (i) includes reduction in the Work
+      Scope and Specifications that would significantly reduce the Total Project
+      Cost below the $40,000,000 amount contemplated by the initial Work Plans
+      and Specifications and materially reduce any development of TDD Technology
+      necessary for Third Generation, and (ii) excludes a significant reduction
+      to the Work Plans and Specifications (a) necessary to achieve TDD Project
+      Completion by the year 2002 or (b) that would significantly reduce a
+      future TDD Project Budget (which provided for higher than $40,000,000
+      spending) back to $40,000,000. To the extent that such changes are
+      approved or directed, the Work Plans and Specifications, TDD Project
+      Budget and TDD Project Schedule, as applicable, shall be revised by IDC,
+      and approved at the next PMM. In addition, the Contract Review Committee
+      shall direct IDC to revise the TDD Project Budget and TDD Project Schedule
+      to reflect the changes to the Work Plans and Specifications previously
+      approved by the PMM and within the PMM's authority. The Chairman shall
+      provide written directives to IDC to perform all such actions set forth
+      above. Such directive shall be a prerequiste for IDC to commence work
+      according to the revised Work Plans and Specifications for changes not
+      previously approved at a PMM, and within the PMM's authority.
+
+                                                                               7
+
+<PAGE>
+
+                            PROPRIETARY INFORMATION
+
+2.7  Progress Review/Penalty.
+
+     2.7.1 Monthly Reports. At the end of each month IDC will provide Nokia a
+           Monthly Report, which contains (i) expended hours for each person in
+           the project, (ii) actual labor cost, (iii) list of other expenses
+           with appropriate backup documentation for expenses, (iv) status of
+           the Deliverables having scheduled date in previous month and the
+           status of all delayed deliverables and (v) a short description of the
+           plan of next month activities. IDC monthly invoice to Nokia is based
+           on this report (See Compensation Schedule, Exhibit 2).
+
+     2.7.2 Quarterly Reports. At the first PMM after the end of each calendar
+           quarter, IDC shall make a report to Nokia describing the status of
+           the TDD Project. Such report shall provide information to Nokia as to
+           (i) actual TDD Project costs to date versus the budget cost, (ii) the
+           projected year-end cost versus the budgeted year-end costs, (iii) the
+           projected project-end costs versus budgeted project-end costs, (iv)
+           estimated delivery dates for key deliverables (as set forth in the
+           Work Plans and Specifications) as compared to the TDD Project
+           Schedule, and (v) the estimated date of TDD Project Completion as
+           compared to the TDD Project Schedule. The report will provide
+           suitable explanations for (i) any deviations of 5% or greater between
+           the actual costs or estimated costs, by appropriate cost category
+           (labor, travel, equipment, etc.) for the applicable period
+           (month-end, year-end, project-end) and the budget, and (ii) any
+           delays of greater than two months or more in the expected completion
+           of deliverables as compared to the TDD Schedule.
+
+     2.7.3 Major Deviations. If, at the PMM (as set forth in Section 2.6.2), IDC
+           identifies that either (i) the projected Total TDD Project Cost will
+           exceed the then-current TDD Project Budget by ten percent (10%), or
+           (ii) the projected TDD Project Completion date shall exceed the TDD
+           Project Schedule by more than four months ("Major Deviation"), the
+           Program Managers will devise a course of action to properly deal
+           address the causes for such Major Deviation, and a
+
+                                                                               8
+
+<PAGE>
+
+            meeting of the Contract Review Committee will be promptly convened.
+            The Contract Review Committee will review the proposal made by the
+            Program Managers for appropriate adjustments to the Work Plans and
+            Specifications and/or the TDD Project Budget or TDD Project Schedule
+            as set forth in Section 2.6.3.
+
+     2.7.4. IDC Penalty. The TDD Project is a research and development project,
+            with the attendant risks and uncertainties as regards, among other
+            things, schedule, cost and final results. As a result, the parties
+            understand that, IDC may not be able to complete the TDD Project in
+            accordance with the TDD Project Budget or TDD Project Schedule
+            adopted by the parties, and that IDC will require flexibility in
+            timing and cost estimates for the TDD Project. Notwithstanding the
+            foregoing, but subject to 2.7.5, if a Major Deviation occurs that
+            (i) was not caused by Nokia, (ii) was not the result of changes to
+            the Work Plans and Specifications approved at the PMM or by the
+            Contract Review Committee, (iii) cannot be attributed to the
+            inherent risks of R&D projects, or (iv) cannot be attributed to
+            situations or influences beyond the reasonable control of IDC, such
+            situations beyond IDC's control including without limitation changes
+            in Third Generation, shortage of qualified engineering resources
+            arising from changed conditions (as compared to those in effect as
+            of the Effective Date), failure of contractors selected by Nokia, or
+            failure of contractors selected by IDC (excluding contractors being
+            used to supplement IDC's internal work force) unless such failure is
+            solely attributable to IDC's failure to use commercially accepted
+            practices in managing such contractor, ("IDC-Caused Major
+            Deviation"), the parties agree that, subject to Nokia's rights to
+            terminate or reduce the TDD Project work scope, the Work Plans and
+            Specifications, TDD Project Budget, and/or TDD Project Schedule
+            shall be revised by mutual agreement of the parties, such approval
+            not to be unreasonably withheld or delayed, to properly address the
+            causes or causes for the Major Deviation. Nokia shall have the
+            burden of proving that a delay was an IDC-Caused Major Deviation.
+            Thereafter, if another IDC-Caused Major Deviation occurs without
+
+<PAGE>
+
+                            PROPRIETARY INFORMATION
+
+           there having been an intervening approved modification to the Work
+           Plans and Specifications, TDD Project Schedule or TDD Project Budget
+           for other than IDC-Caused Major Deviations ("Intervening Change"),
+           [**]. The Contract Review Committee will also make appropriate
+           changes to the Work Plans and Specifications, TDD Project Budget,
+           and/or TDD Project Schedule to properly address the IDC-Caused Major
+           Deviation. In the event of (i) a subsequent IDC-Caused Deviation as
+           regards such revised TDD Project Budget or TDD Project Schedule,
+           without Intervening Change, or (ii) two consecutive IDC-Caused
+           Deviations as regards a future adopted TDD Project Budget or TDD
+           Schedule, [**]
+
+     2.7.5 No Cumulative Remedies.[**], as set forth in Section 2.7.4, Nokia may
+           alternatively pursue the termination of the agreement pursuant to the
+           provisions of Section 9.3. Nokia shall not be permitted to avail
+           itself to both [**] and the remedies available under contract and law
+           for termination for breach with regard to the same IDC-Caused Major
+           Deviation.
+
+2.8  No Solicitation. During the term of the TDD Project and for one year
+     thereafter or for one year after the termination of this Agreement, the
+     parties' employees engaged in the TDD Project shall not actively seek to
+     employ, or make offers of employment to, either directly or indirectly, the
+     engineering, technical, or project-related supervisory personnel of the
+     other party engaged in the TDD Project without the prior written consent of
+     such other party; and further, irrespective of how such employment is
+     sought, neither party shall directly or indirectly actively seek to employ,
+     or make offers of employment to the engineering personnel occupying top two
+     organizational tiers on the TDD Project. IDC shall inform its employees of
+     such restrictions. The parties
+
+     ** Material has been omitted and filed separately with the Commission.
+
+                                                                              10
+
+<PAGE>
+
+                            PROPRIETARY INFORMATION
+
+     acknowledge that, in the event of a breach of this agreement, the affected
+     party will not have an adequate remedy at law. Therefore, in such event,
+     the affected party shall have the right, in addition to other rights and
+     remedies in law or in equity, to have the provision of this section
+     specifically enforced and to obtain a temporary or permanent injunction or
+     order prohibiting any of the breaching party from employing any individual
+     of the affected party in violation of this Section.
+
+                     ARTICLE 3 - STANDARDIZATION ASSISTANCE
+
+3.1  Standardization Commitment. Nokia will take an active role, with the
+     assistance of IDC, in promoting the adoption by the European Technical
+     Standards Institute ("ETSI"), the Telecommunications Industry Association
+     ("TIA") and International Telecommunication Union ("ITU") as well as other
+     standard setting groups where Nokia has influence, of wireless
+     communications standards for Third Generation applications embodying key
+     components of TDD.
+
+3.2  Standardization Efforts. Nokia and IDC will undertake the standardization
+     activities in accordance with the Work Plan and Specifications, such
+     efforts to include as minimum:
+
+     3.2.1  Nokia acting as the lead promoter of the TDD for inclusion of
+            technically and commercially desirable features in appropriate
+            telecommunications standards within its regular standardization
+            activities;
+
+     3.2.2  Nokia and IDC attending appropriate meetings and workshops,
+            preparing submittals and presentations, either jointly or
+            independently, regarding TDD;
+
+     3.2.3  IDC performing patent clearance reviews with regard to submittals
+            and presentations regarding TDD; and
+
+                                                                              11
+
+<PAGE>
+
+                            PROPRIETARY INFORMATION
+
+     3.2.4 IDC and Nokia keeping each other informed as to standardization
+           strategies, efforts and the like regarding TDD.
+
+3.3  Submittals. Prior to making a submission regarding specifically TDD
+     Technology to any standard setting body during the term of the TDD Project,
+     the submitting party shall first provide a copy of the proposed submission
+     to the other parties for review and comment in respect of the technical
+     quality and commercial feasibility of the proposed submission. All comments
+     shall be considered by the submitting party in good faith, and the parties
+     will use all reasonable efforts to resolve any disagreements as regards the
+     content of the submission including, if necessary, submitting the matter to
+     a Contract Review Meeting for discussion. Notwithstanding the foregoing, a
+     party, after complying with the foregoing provisions, may make the
+     submission without the consent of the other party provided that the
+     submission does not include the name of the dissenting party and that, in
+     any event, the submitting party has complied with the Proprietary
+     Information provisions of the Master Agreement, including but not limited
+     to patent bar review.
+
+3.4  Notification. Notwithstanding the provisions of Section 3.1 and 3.2, Nokia
+     and/or IDC may find it desirable to support other or multiple technologies
+     for inclusion in Third Generation. Nokia and IDC will use reasonable
+     efforts to keep each other informed on a regular basis as to each party's
+     standardization strategy.
+
+3.5  Complience with IPR Rules of Relevant Standardization Bodies. Both parties
+     undertake to comply with the IPR Rules of the relevant standardization
+     bodies in respect of the submissions made to the TDD standardization and
+     undertake to license under the rules of such bodies.
+
+                                                                              12
+
+<PAGE>
+
+                            PROPRIETARY INFORMATION
+
+                    ARTICLE 4 - INTELLECTUAL PROPERTY RIGHTS
+
+4.1  Ownership
+
+     4.1.1   Existing Patents, Copyrights and Know-How. InterDigital shall
+             continue to own its Existing TDD Technology and Existing Patents.
+             Nokia shall continue to own its Existing TDD Technology and
+             Existing Patents.
+
+     4.1.2   Developed Technology. Except as provided in Section 4.1.3,
+             InterDigital will own the Developed TDD Technology and Developed
+             Patents created by InterDigital, and Nokia will own any Developed
+             TDD Technology and Developed Patents created by Nokia. Except as
+             provided in Section 4.1.3, Developed TDD Technology jointly
+             developed by the parties shall be jointly owned by the parties with
+             the respective rights and responsibilities of the parties as to
+             jointly held Developed Patents being as set forth in Section 4.4.
+
+     4.1.3   Lab-Created Technology. Notwithstanding any provision herein to the
+             contrary, InterDigital will be the exclusive owner of all Developed
+             TDD Technology and Developed Patents created or invented solely by
+             a Laboratory Person(s). For the purpose of this Section, Laboratory
+             Person(s) shall mean (i) those InterDigital personnel (including
+             contractors, subcontractors, or consultants hired by InterDigital)
+             working principally at the IDC research and development
+             laboratories, and (ii) any Nokia personnel (including contractors,
+             subcontractors, or consultants hired by Nokia) assigned principally
+             to work at the IDC research and development laboratories, including
+             any such person for ninety days after the completion of such
+             assignment. Nokia will promptly execute, or cause its employees,
+             consultants and/or subcontractors, to execute, at Nokia's sole
+             expense, all appropriate assignments and other documents necessary
+             to accomplish or acknowledge IDC and/or ITC's ownership of
+             intellectual property consistent with this Section 4.1.3.
+
+                                                                              13
+
+<PAGE>
+
+                            PROPRIETARY INFORMATION
+
+4.2    ITC and IDC License Grants.
+
+       4.2.1 InterDigital Copyright and Know-How License Grant. InterDigital
+             hereby grants to the Nokia Group a non-exclusive, non-transferable,
+             personal, worldwide, royalty-free license under InterDigital
+             Licensed TDD Technology (including all related TDD Technical
+             Information as a result of the TDD Proejct) and Developed Patents,
+             to design, develop, manufacture and have manufactured (if
+             substantially designed by Nokia), market, sell, distribute and use
+             Subscriber Units and Infrastructure. The licenses granted pursuant
+             to this Section shall exclude any rights to sublicense, or any
+             rights to design, develop, manufacture and have manufactured,
+             market, sell and distribute BCDMA Products.
+
+       4.2.2 Technically Necessary TDD Patents. To the extent not covered by
+             Section above, IDC and ITC shall grant, and they shall cause any of
+             their Affiliates to grant, to the Nokia Group a non-exclusive,
+             non-transferable, personal, worldwide, royalty-free license to
+             design, develop, manufacture and have manufactured (if
+             substantially designed by Nokia), market, sell, distribute and use
+             TDD Products under (i) the InterDigital TDD Patents, and (ii) those
+             InterDigital Patents which would otherwise necessarily be infringed
+             when complying with any TDD standard for Third Generation;
+             provided, however, that such license shall only be with respect to
+             that portion of the TDD Product performing TDD functionality and
+             shall not apply to any non-TDD portion (e.g., FDD, GSM, etc) of a
+             TDD Product.
+
+       4.2.3 Components. The grant above shall not include, by implication or
+             otherwise, any license for components, except when used solely as a
+             part and within the licensed products defined above.
+
+       4.2.4 IDC Trademark License Grant. At the request of Nokia, IDC shall
+             grant Nokia and its affiliates a non-exclusive, non-transferable,
+             personal, world-
+
+                                                                              14
+
+<PAGE>
+
+                            PROPRIETARY INFORMATION
+
+             wide, royalty-free license to use the TDD Trademarks in conjunction
+             with Subscriber Units and Infrastructure employing TDD, such
+             license to be in accordance with standard trademark license terms
+             as to maintenance of quality, and recognition of InterDigital
+             trademark ownership.
+
+4.3    Nokia License Grants.
+       4.3.1 Nokia Grant of License. Nokia hereby grants to IDC and its
+             Affiliates a nonexclusive, personal, world-wide, royalty-free
+             license under the Developed Patents and Nokia Licensed TDD
+             Technology (including all related TDD Technical Information as a
+             result of the TDD Project) to design, develop, manufacture and have
+             manufactured (if substantially designed by InterDigital), market,
+             sell and distribute Subscriber Units and Infrastructure. The above
+             license shall include the right to grant sublicenses under the
+             Nokia Licensed TDD Technology but not under the Developed Patents
+             owned solely by Nokia.
+
+       4.3.2 Technically Necessary TDD Patents. To the extent not covered by
+             Section 4.3.1 above, Nokia shall grant, and it shall cause any of
+             its Affiliates to grant, to IDC and its Affiliates a non-exclusive,
+             non-transferable, personal, worldwide, royalty-free license to
+             design, develop, manufacture and have manufactured (if
+             substantially designed by InterDigital), market, sell, distribute
+             and use TDD Products under (i) the Nokia TDD Patents, and (ii)
+             those Nokia Group Patents which would otherwise necessarily be
+             infringed when complying with any TDD standard for Third
+             Generation; provided, however, that such license shall only be with
+             respect to that portion of the TDD Product performing TDD
+             functionality and shall not apply to any non-TDD portion (e.g.,
+             FDD, GSM, etc) of a TDD Product.
+
+       4.3.3 Components. [**]
+
+             ** Material has been omitted and filed separately with the
+                Commission.
+
+                                                                              15
+
+<PAGE>
+
+                            PROPRIETARY INFORMATION
+
+    4.3.4 Nokia Non-Assertion. Nokia shall not assert (and shall ensure that its
+          Affiliates do not assert) against IDC or its Affiliates any claims for
+          infringement of the Nokia Group Patents regarding IDC's or its
+          Affiliates' design, manufacture, have made, distribution, sale or use
+          of TDD ASICs or modems. In addition, Nokia shall not assert (and shall
+          ensure that its Affiliates do not assert) any claims of infringement
+          of the Nokia TDD Patents against (i) any purchaser of TDD ASICs or
+          modems from InterDigital regarding the use of such TDD ASICs or modems
+          in the TDD Products by such purchaser, or (ii) any TDD Licensee with
+          regard to the use of the TDD Technology in TDD Products by such TDD
+          Licensee; provided, however, that, with regard to (i) and (ii) such
+          non-assertion shall not apply as to any such purchaser or TDD Licensee
+          that asserts its Patents against the Nokia Group.
+
+4.4 Jointly Developed Patent Rights.
+
+    4.4.1 ITC shall have the primary responsibility for (a) preparing and filing
+          applications in the United States and other countries for all jointly
+          Developed Patents, (b) pursuing the issuance of such Patents, and (c)
+          maintaining such patents after issuance. ITC, in performing such
+          obligations, shall provide Nokia with copies of all material
+          correspondence with the U.S. Patent Office and any foreign counterpart
+          thereof concerning such Patents, and shall consult at regular
+          intervals with Nokia concerning the same. If ITC elects not to file or
+          prosecute a patent application, or maintain such a patent after
+          issuance, then Nokia may undertake such actions at its cost ("Nokia
+          Controlled Patent"). ITC will use reasonable efforts to provide Nokia
+          with adequate notice so as not to materially prejudice Nokia's rights
+          as regards such patent applications or patents.
+
+                                                                              16
+
+<PAGE>
+
+                            PROPRIETARY INFORMATION
+
+    4.4.2 Nokia and its Affiliates shall have the unrestricted right to use or
+          have used, for itself or its Affiliates, the inventions claimed under
+          such jointly owned Developed Patents. In addition, to the extent that
+          Nokia is sharing in the cost of patent filing, prosecution and
+          maintenance, Nokia shall have the right under the jointly owned
+          Developed Patents to grant sublicenses to any party, in any field, for
+          any purpose. Nokia shall also have the right under Nokia Controlled
+          Patents to use such Patents in any manner, and to grant sublicenses to
+          any party, in any field, for any purpose.
+
+    4.4.3 IDC and its Affiliates shall have the unrestricted right to use or
+          have used, for itself or its Affiliates, the inventions claimed under
+          such jointly owned Developed Patents. In addition, to the extent that
+          ITC is sharing in the cost of patent filing, prosecution and
+          maintenance, ITC shall have the right under the jointly owned
+          Developed Patents to grant sublicenses to any party, in any field, for
+          any purpose.
+
+    4.4.4 The parties agree that all attorneys fees and other out-of-pocket
+          expenses reasonably incurred by the parties in applying for,
+          maintaining and defending (as regards patent opposition proceedings
+          but not Declaratory Judgment actions) the jointly owned Developed
+          Patents shall be shared equally by the parties. In addition, the
+          parties will consult with each other prior to commencing any
+          litigation over infringement of jointly owned Developed Patents. The
+          parties will share in the recoveries of any such lawsuit in proportion
+          to the costs borne by each party in such lawsuit. Without the prior
+          written consent of the other party, a party that has not paid in a
+          timely manner for the filing, prosecution and maintenance of a jointly
+          owned Developed Patent shall not be permitted to commence litigation
+          over such patent or to share in any recoveries regarding such patent.
+
+    4.4.5 Each party agrees, at its own expense, to provide reasonable
+          cooperation to the other party in the application for and maintenance
+          of the jointly
+
+                                                                              17
+
+<PAGE>
+
+                            PROPRIETARY INFORMATION
+
+               Developed Patents. Without limiting the foregoing, each party, at
+               the other party's reasonable request, shall execute (or cause its
+               employees to execute) all applications for jointly Developed
+               patents and such other instruments as may be necessary to apply
+               for and maintain the jointly Developed Patents. Each party hereto
+               grants to the other party a limited power of attorney until the
+               expiration of the last to expire of the jointly owned Developed
+               Patent to execute such applications and other documents on the
+               first party's behalf and to the extent the first party is unable
+               or unwilling to execute the same upon second party's reasonable
+               request.
+
+     4.5 Patent Filing Coordination. Within sixty (60) days after the end of
+         each calendar quarter, each party shall submit to the other party a
+         summary of the patent application flings made during such quarter for
+         inventions related to TDD Project. Such summary shall provide an
+         abstract of the invention, the inventor(s), and the independent claims.
+         Each party shall have sixty (60) days to provide comments to the other
+         party as regards inventorship. In the event of a dispute over
+         inventorship or ownership, the parties shall engage an independent
+         patent lawyer, acceptable to both parties, to resolve the dispute. Such
+         resolution shall be final and binding absent material new facts that
+         affect inventorship.
+
+     4.6 Certain Acknowledgments and Representations. Each party represents that
+         it fully understands and willingly accepts the allocation of
+         intellectual property rights as set forth herein. Each party further
+         acknowledges that the patents covering the inventions licensed pursuant
+         to this Agreement are not perpetual, and that various Patents may
+         expire during the term of this Agreement. Each party represents and
+         acknowledges that all allocations of intellectual property rights set
+         forth in this Agreement, as well as the duration of the patents
+         covering such intellectual property rights, have been taken into
+         account in the negotiation of the economic terms set forth in this
+         Agreement.
+
+                                                                              18
+
+<PAGE>
+
+                            PROPRIETARY INFORMATION
+
+4.7    Additional Limitations and Conditions of the License Grant. The license
+       grants of this Article 4 are subject to the following conditions:
+
+       4.7.1 As used in Article 4, Infrastructure and Subscriber Units shall
+             mean Subscriber Units and Infrastructure designed by, or for, the
+             licensed party and which are sold by the licensed party or its
+             Affiliates as fully completed units to its customers, including but
+             not limited to end-users, operators or distributors (but not other
+             telecommunications equipment manufacturers). The Nokia Group shall
+             have no right to transfer licenses under the IDC Licensed TDD
+             Technology or InterDigital Patents through the sale of ASICs,
+             software or other parts to third parties; provided, however, the
+             foregoing limitation will not limit the Nokia Group's right to
+             provide spare parts and enhancements for licensed Subscriber Units
+             and Infrastructure. In addition, neither IDC nor its Affiliates
+             shall have no right to transfer licenses under the Nokia Group
+             Patents through the sale of ASICs, software or other parts to third
+             parties; provided, however, the foregoing limitation will not limit
+             the right of IDC or its Affiliates to provide spare parts and
+             enhancements for licensed Subscriber Units and Infrastructure.
+
+       4.7.2 Subject to the provisions of Section 4.2.2, 4.3.2, 4.3.4, and
+             4.7.1, third party purchasers of Subscriber Units and
+             Infrastructure licensed hereunder and purchased directly or
+             indirectly from, respectively, Nokia or its Affiliates on the one
+             hand or, IDC or its Affiliates or Licensees on the other hand,
+             shall have the right to use and sell such purchased products for
+             their normal or expected uses without further obligation under
+             InterDigital TDD Patents, InterDigital Licensed TDD Technology,
+             Nokia TDD Patents and Nokia Licensed TDD Technology licensed
+             hereunder.
+
+       4.7.3 Notwithstanding the terms of Section 4.7.2, no license is granted
+             by estoppel or implication under the Existing or Developed Patents
+             to any purchaser of Subscriber Units (which are licensed hereunder)
+             to make, use or sell
+
+                                                                              19
+
+<PAGE>
+
+                            PROPRIETARY INFORMATION
+
+             Infrastructure not licensed hereunder; and no license is granted by
+             estoppel or implication to any third party purchaser of
+             Infrastructure Units (which are licensed hereunder) to make, use or
+             sell Subscriber Units not licensed hereunder. Any claims that ITC
+             or Nokia may have against a third party manufacturer that such
+             units contributorily infringe or induce infringement of any claims
+             of the Existing or Developed Patents are expressly reserved by ITC
+             and Nokia hereunder; provided, however that in no event shall Nokia
+             or IDC be held liable for contributory infringement or inducing
+             infringement (or under any similar theory of liability) of Existing
+             or Developed Patents licensed in this Agreement based on the uses
+             made of Infrastructure and Subscriber Units licensed hereunder by
+             direct or indirect purchasers, regardless of the manner in which
+             such products are sold, marketed or promoted by Nokia or IDC.
+
+4.8    Cooperation in Patent Infringement Assessment/Litigation.
+
+       4.8.1 Cooperation. As part of the TDD Project, InterDigital and Nokia
+             will evaluate, on a regular basis, the applicability of third party
+             Patents and patent applications to the TDD Technology, and take
+             appropriate action to address any potential infringement issues.
+             Notwithstanding the foregoing, neither InterDigital nor Nokia shall
+             be required to undertake any TDD Project activity to the extent
+             that, in the reasonable opinion of patent counsel for either party,
+             the TDD Technology or may infringe, or otherwise create a potential
+             for liability, under third party patent rights.
+
+       4.8.2 Notice. To the extent known, each party shall provide timely notice
+             to the other party as to any theft or misappropriation of any
+             Know-How licensed hereunder.
+
+       4.8.3 Non-Inclusion. Unless otherwise agreed or known by Nokia, and
+             subject to the provisions of Section 4.8.1, IDC shall not knowingly
+             and willingly, and
+
+                                                                              20
+
+<PAGE>
+
+                            PROPRIETARY INFORMATION
+
+             based on actual knowledge of relevant third party Patents or
+             copyrights, nonetheless include as part of the Developed TDD
+             Technology Know-How any know-how that, when used by Nokia in its
+             intended manner would infringe such third party Patents or
+             copyrights. This Section shall not apply to Patents or copyrights
+             that are essential to the implementation of Third Generation.
+
+       4.8.4 Limited IPR Indemnity. To the extent, and only to the extent, that
+             IDC (i) is grossly negligent in the performance of patent clearance
+             reviews anticipated by the Work Plans and Specifications, or (ii)
+             withholds from Nokia reasonable and considered conclusions by
+             counsel that implementation of the TDD Technology would likely
+             infringe Patents held by third parties, ((i) and (ii) excluding
+             patents that are essential to Third Generation for which no
+             indemnity shall apply). IDC shall defend, indemnify and hold Nokia
+             and its Affiliates harmless against infringement of third party
+             Patent rights by the TDD Technology as follows. Such indemnity
+             shall be limited to 50% of the reasonable costs and damages
+             associated with such claims, capped at $1 million for each claim
+             asserted and in no event greater than $10 million in the aggregate.
+             In addition, such indemnity shall only apply only if Nokia (i)
+             completes the TDD Project with IDC, (ii) promptly informs IDC in
+             writing of any threatened infringement action against Nokia
+             regarding TDD Technology (iii) permits IDC to actively participate
+             in the defense of such suit, claim or proceeding, (iv) informs IDC
+             of any possible settlement, and (v) does not enter into any
+             settlement without the written consent of IDC, which consent shall
+             not be unreasonably withheld or delayed. IDC may, at its option,
+             supply non-infringing modification to the TDD Technology sufficient
+             to avoid the infringement. Notwithstanding anything in this
+             Agreement to the contrary, this indemnification obligation shall
+             apply only if the alleged infringement relates directly to the TDD
+             Technology provided to Nokia by IDC, and not any unintended
+             combination of such technology with technology provided by Nokia or
+             others
+
+                                                                              21
+
+<PAGE>
+
+                            PROPRIETARY INFORMATION
+
+
+4.9  InterDigital TDD Technology Licensing. Notwithstanding any provision in
+     this Agreement to the contrary, InterDigital's right to (i) market its
+     services and enter into agreements and transfer TDD Technology to TDD
+     Licensees, (ii) disclose Confidential Information developed in the TDD
+     Project, and (iii) permit laboratory visits by third parties, shall be
+     subject to the following restrictions:
+
+     4.9.1  Pre-Marketing. InterDigital may commence discussions with
+            prospective TDD Technology Licensees concerning non-confidential TDD
+            Technology commencing upon the earlier of July 1, 1999 or Nokia's
+            disclosure of the TDD development effort with InterDigital.
+            ("Pre-Marketing Date").
+
+     4.9.2  Technical Marketing. InterDigital may commence discussions with
+            prospective IDC TDD Technology Licensees involving confidential TDD
+            Technology (on a summary, non-use, confidential basis), including
+            visits to the IDC research and development laboratories, commencing
+            three months after the Pre-Marketing Date.
+
+     4.9.3  TDD Technology Transfer. Commencing April 1, 2000, InterDigital may
+            provide TDD Licensees with access to Developed TDD Technology based
+            on a marketing plan to be adopted by the Contract Review Committee
+            at the first such meeting of such committee after the Effective
+            Date. Such plan shall be consistent with the following guidelines
+            (which the parties may change from time to time to address changed
+            circumstances, approval to any proposed changes to the guidelines
+            not to be unreasonably withheld or delayed):
+
+            (i)  The transfer of TDD Technology may not occur earlier than
+                 sixty (60) days after such technology has been delivered to
+                 Nokia in final form
+
+                                                                              22
+
+<PAGE>
+
+                            PROPRIETARY INFORMATION
+
+
+                  as part of a complete deliverable contemplated by the Work
+                  Plans and Specifications;
+
+            (ii)  In the case of IP blocks, the grace period shall be three (3)
+                  months from testing and approval;
+
+            (iii) For ASIC samples, no grace period after testing and approval;
+
+            (iv)  For ASIC volume delivers, the grace period shall be three (3)
+                  months provided that Nokia has executed an agreement with
+                  InterDigital for supply of ASICs in non di minimus quantities;
+                  and
+
+            (v)   IDC's arrangements with TDD Licensees may not interfere with
+                  the TDD Project or require changes to the content, schedule or
+                  cost of the TDD Project without Nokia's approval.
+
+                            ARTICLE 5 - COMPENSATION
+
+5.1  Compensation. IDC will be paid for the TDD Development Project in
+     accordance with the Compensation Schedule set out in Exhibit 2. Nokia's
+     commitment hereunder shall only cover costs and fees which are incurred in
+     accordance with this Agreement, the Work Plans and Specifications, and the
+     Compensation Schedule, or future amendments or revisions thereto.
+
+                       ARTICLE 6 - TDD PRODUCT PURCHASES
+
+6.1  IDC Purchase. IDC is hereby granted the option to buy from Nokia generally
+     available standard single-mode TDD Products for sale in those markets for
+     which Nokia opted to allow non-exclusive distribution by third parties,
+     such sales to be on the nondiscriminatory terms and conditions as compared
+     to those customarily given by Nokia to similarly situated wholesale
+     customers; provided, however, that nothing in this Section shall obligate
+     Nokia to develop such TDD Products.
+
+                                                                              23
+
+<PAGE>
+
+                            PROPRIETARY INFORMATION
+
+
+                           ARTICLE 7 - TDD ASIC SALES
+
+7.1  Joint ASIC Sales. As part of the TDD Project, IDC and Nokia shall explore
+     the possibility of the joint development, manufacture and sale of
+     single-mode TDD ASICs. If Nokia determines that such a cooperative
+     manufacture and sales effort has commercial merit, Nokia shall first
+     negotiate such a cooperative alliance with InterDigital, which negotiation
+     shall be undertaken in good faith.
+
+               ARTICLE 8 - WARRANTIES; LIMITATION OF LIABILITIES
+
+8.1  Title Warranty. IDC and ITC, as applicable, represent and warrant that, to
+     the best of their knowledge, they have sufficient right, title and interest
+     in the InterDigital Licensed TDD Technology and TDD Trademarks to grant the
+     licenses contemplated by this Agreement. Nokia represents and warrants
+     that, to the best of its knowledge, it has sufficient right, title and
+     interest in the Nokia Licensed TDD Technology to grant the licenses
+     contemplated by this Agreement.
+
+8.2  Limitation of Liability. Neither of the parties hereto shall be liable to
+     the other party in tort, contract or otherwise for any consequential,
+     incidental, exemplary, punitive, indirect or special damages of any kind,
+     including, but not by way of limitation, damages for loss of profit by IDC,
+     ITC or Nokia, even if the possibility of such damages was disclosed to, or
+     could reasonably have been foreseen by, the injuring party. In addition,
+     IDC's and Nokia's total limit of liability under this Agreement, regardless
+     of claim or series of claims, shall not exceed fifty percent (50%) of the
+     amount paid to IDC under Article 5 hereto; provided, however, that the
+     fifty percent limitation shall not apply to Nokia's obligation to pay IDC
+     for services as required under Article 5, or either party's obligation
+     hereunder to reimburse the other for costs.
+
+8.3  Limitation of Warranties. THE PARTIES MAKE NO WARRANTIES EXPRESSED OR
+     IMPLIED, INCLUDING WITHOUT LIMITATION, IMPLIED WARRANTIES OF
+
+                                                                              24
+
+<PAGE>
+
+                            PROPRIETARY INFORMATION
+
+     MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE, WARRANTY AS TO PATENT
+     NON-INFRINGEMENT, OTHER THAN THE WARRANTIES SET FORTH IN THIS ARTICLE.
+
+                 ARTICLE 9 - EFFECTIVE DATE; TERM; TERMINATION
+
+9.1  Effective Date. The Effective Date of this Agreement shall be as set forth
+     in the Master Agreement.
+
+9.2  Term. The term of this Agreement shall be perpetual, unless terminated as
+     provided herein.
+
+9.3  Termination for Cause. A party may terminate this Agreement by written
+     notice to take effect immediately if the other party is in material breach
+     of this Agreement, and (i) the first Party previously notified the
+     breaching party in writing of the default and such other party's intention
+     to terminate the agreement, and (ii) the breaching party has failed to cure
+     its breach within at least sixty (60) days after such notice or to make
+     substantial progress towards curing such default or, in the case the breach
+     consists of the breaching party's failure to make payments due hereunder,
+     fails to cure such breach within at least thirty (30) days of such notice.
+
+9.4  Termination for Convenience. Nokia may terminate this Agreement for
+     convenience upon forty-five (45) days advance written notice to IDC. The
+     date of termination shall be forty-five (45) days after the date of Nokia's
+     notice to IDC. IDC shall be paid for all services rendered by IDC under and
+     in accordance with this Agreement up to and including the termination date.
+     In addition, to the extent that IDC does not continue the TDD Project
+     without Nokia, IDC shall be reimbursed, as a full and complete compensation
+     for the costs incurred by IDC as a consequence of the short termination
+     period, for the following documented out-of-pocket costs, arising due to
+     such project termination, such charges not to exceed [**] U.S.
+     DOLLARS ($US [**]), and provided further that IDC shall undertake
+     appropriate and
+
+     ** Material has been omitted and filed separately with the Commission.
+
+                                                                              25
+
+<PAGE>
+
+                            PROPRIETARY INFORMATION
+
+     commercially reasonable actions, including commencing the orderly shutdown
+     of the TDD Project promptly after receipt of the notice of termination from
+     Nokia, to minimize the termination liability costs to be paid by Nokia
+     hereunder,:
+
+     (a)  actual cancellation charges for equipment ordered prior to the notice
+          of termination pursuant to the Work Plans and Specifications except
+          that Nokia shall, at its option, be entitled to purchase any such
+          equipment by paying the actual amount due after the termination date;
+
+     (b)  actual cancellation charges under consulting and engineering services
+          agreements engaged pursuant to the Work Plans and Specifications and
+          executed prior to the notice of termination;
+
+     (c)  actual cancellation charges on equipment leases necessary for the TDD
+          Project and entered into prior to the notice of termination except
+          that Nokia shall, at its opition, be entitled to assign any leases to
+          it to the extent accepted by the leasor;
+
+     (d)  actual and documented severance benefits for IDC employees hired after
+          the Effective Date and to be laid-off as a result of the termination
+          of the TDD Project, such benefit not to exceed [**] [**] weeks of
+          pay per employee, at [**] of the rates set forth in Exhibit 2;
+
+     (e)  one-hundred percent (100%) of the laboratory and dedicated office
+          build-out, if such termination occurs in 1999, and [**] percent [**]
+          if such termination occurs in 2000;
+
+     (f)  other actual and out-of pocket costs arising from such termination and
+          approved by Nokia, such approval not to be unreasonably withheld or
+          delayed.
+
+9.5  Rights Upon Termination. Nokia shall be entitled to receive any TDD
+     Technical Information developed up to the termination date. The licenses
+     granted under Sections 4.2. and 4.3 shall survive termination of this
+     Agreement as to the results conceived as part of the TDD Project. To the
+     extent any of the Developed Patents are jointly owned, the provisions of
+     Section 4.4 shall survive termination as regards such Developed
+
+     ** Material has been omitted and filed separately with the Commission.
+
+                                                                              26
+
+<PAGE>
+
+                            PROPRIETARY INFORMATION
+
+     Patents. In addition, the following provisions will survive termination of
+     this Agreement: Section 2.4(but only as to Technical Information developed
+     prior to the date of termination), Section 2.8, Section 4.1.1, Section
+     4.1.2, Sections 4.1.3, 4.2.2 and 4.3.2 (but only as to those Patent claims
+     necessary for the implementation of the TDD Technology developed prior to
+     the date of termination), Section 8.2, Section 8.3, and Section 9.4.
+
+                           ARTICLE 10 - MISCELLANEOUS
+
+10.1 Incorporation by Reference. All of the terms and conditions of the Master
+     Agreement are hereby incorporated herein by reference.
+
+10.2 Exhibits. All Exhibits and other attachments to this Agreement which are
+     referred to herein or therein are hereby incorporated in and made a part of
+     this Agreement.
+
+10.3 Entire Agreement. This Agreement contains the complete and final agreement
+     between the parties, and supersedes all previous understandings relating to
+     the subject matter hereof and thereof whether oral or written. This
+     Agreement may only be modified by a written agreement signed by duly
+     authorized representatives of the parties.
+
+10.4 Counterparts; Faxed Signatures. This Agreement may be executed by the
+     parties in counterparts, each of which shall be deemed an original of the
+     applicable document. Signatures provided by facsimile or other electronic
+     means by any party shall be valid and enforceable upon delivery to the
+     other parties hereto.
+
+                                                                              27
+
+<PAGE>
+
+                             PROPRIETARY INFORMATION
+
+
+IN WITNESS WHEREOF, the parties have executed this Agreement by their duly
+authorized representatives.
+
+INTERDIGITAL COMMUNICATIONS CORPORATION
+
+
+BY: /s/ William A. Doyle
+    -----------------------------------
+      Name:  William A. Doyle
+      Title: President
+      Date:  January 29, 1999
+
+INTERDIGITAL TECHNOLOGY CORPORATION
+
+
+By: /s/ Howard E. Goldberg
+    -----------------------------------
+      Name:  Howard E. Goldberg
+      Title: President
+      Date:  January 29, 1999
+
+NOKIA CORPORATION
+
+
+By: /s/  [**]                                       [**]
+    -----------------------------------     -----------------------------------
+      Name:  [**]                           Name:  [**]
+      Title: SVP, Product Creation          Title: V.P. Licensing
+      Date:  January 28, 1999               Date:  January 28, 1999
+
+  ** Material has been omitted and filed separately with the Commission.
+
+                                                                              28
+
+<PAGE>
+
+
+                                    Exhibit 1:
+
+
+
+Program Plan, UTRA -TDD Mode Interdigital - Nokia Strategic Initiative
+December 22, 1998
+
+                                      [**]
+
+** Material has been omitted and filed separately with the Commission
+
+                                                                            29
+
+<PAGE>
+
+                             PROPRIETARY INFORMATION
+
+
+
+
+
+
+
+
+                                    Exhibit 2
+
+                                  COMPENSATION
+
+                                                                              30
+
+<PAGE>
+
+
+
+                                      DRAFT
+                              COMPENSATION SCHEDULE
+
+IDC will be paid by Nokia for IDC's Labor Cost and Expenses. The determination
+of those amounts is set forth below.
+
+1.   Labor Cost. IDC will be paid for the efforts of the Direct Labor involved
+     in the TDD Project. Direct Labor will be those engineering, technical,
+     software and other non-administrative or non-clerical personnel directly
+     involved in the performance of the Work Plans and Specifications. Except to
+     the extent of direct charges to the project by the individuals listed
+     below, the indirect involvement of management of IDC shall not be
+     separately recoverable. Direct Labor shall also include Patent Counsel
+     assigned for patent clearance and related issues according to Work Plan.
+     The reimbursement for Direct Labor will be determined based on the Hours
+     Charged times the applicable Billing Rate, where the Billable Hours shall
+     be the hours charged to the TDD Project for the Billing Period (see below).
+     Unless separately agreed, compensation for travel time shall be at one-half
+     of the actual time of travel, capped at four hours per one-way trip. The
+     Billing Rate is the applicable per hour rate set forth below:
+
+<TABLE>
+<CAPTION>
+------------------------------------------------------------------------------------------------------------------
+Direct Charge Category                                                           Per Hour Rate
+
+                                                            ------------------------------------------------------
+                                                            1999       2000       2001        2002       2003
+------------------------------------------------------------------------------------------------------------------
+<S>                                                         <C>        <C>        <C>         <C>        <C>
+Engineering Aides, Technicians, Technical Writers,          [**]       [**]       [**]        [**]       [**]
+Documentation Supervisors
+------------------------------------------------------------------------------------------------------------------
+Designers, Engineers, Project Administrators, Directors,    [**]       [**]       [**]        [**]       [**]
+Documentation Managers
+------------------------------------------------------------------------------------------------------------------
+Patent Counsel, Chief Technology Officer, General Manager   [**]       [**]       [**]        [**]       [**]
+------------------------------------------------------------------------------------------------------------------
+</TABLE>
+
+2.   Expenses. IDC shall be reimbursed for its expenses (excluding Incidental
+     Expenses) incurred related to the TDD Project, as set forth below.
+
+     A.   Reimbursable Expense.
+
+          i.   [**] IDC's Program Manager shall have authority to approve the
+               purchase of materials and equipment necessary for the
+               implementation of the Work Plans and Specifications such
+               purchases not exceeding on an individual basis or, if a series of
+               similar purchases is involved, in aggregate $10,000. Any purchase
+               in excess of $10,000 shall be approved by Nokia in advance in
+               writing. IDC will be reimbursed for actual, out-of-pocket expense
+               for such materials and equipment.
+
+          ii.  Consultants. Nokia will reimburse IDC for expenses incurred for
+               the services of consultants engaged by IDC for the implementation
+               of the
+
+** Material has been omitted and filed separately with the Commission
+
+<PAGE>
+
+Compensation Schedule
+Page 2
+
+               Work Plans and Specifications. The reimbursable expenses for
+               consultants shall be the greater of (i) the hours charged times
+               the Per Hour Rate for engineers, set forth above, or (ii) the
+               actual Consultant charge for the same period.
+
+          iii. Outside Services. Nokia will reimburse IDC for its costs related
+               to outside engineering, technical and other service companies
+               engaged for the performance of the Work Plans and Specifications.
+               Prior to any engagement of an outside services company for which
+               the estimated cost of services over the term of the engagement
+               will exceed $10,000, IDC shall first notify Nokia in writing with
+               the reasons for the engagement and the estimated cost, and Nokia
+               shall provide written approval not to be unreasonably withheld or
+               delayed. The reimbursable expense shall be the amount actually
+               charged to IDC by such outside service company.
+
+          iv.  Travel. Nokia will reimburse IDC for its travel, hotel costs
+               (including only the standard room rate, business center charges
+               for TDD-Project related work provided that Nokia or IDC
+               facilities are not readily available, plus tax but excluding any
+               other room charges) while travelling and a fixed amount of USD
+               [**] to cover living and related expenses incurred in the
+               performance of the Work Plans and Specifications. Unless
+               otherwise separately agreed, these expenses shall only be covered
+               for travelling to Project Management Meetings and Contract Review
+               Meetings and standardization meetings held outside the premises
+               of IDC. No administrative surcharge shall be applied to such
+               expenses. All IDC travel for the TDD Project shall comply with
+               IDC's corporate policies on travel and hotel, as amended from
+               time to time.
+
+          v.   Other Expense. Nokia shall reimburse IDC for other costs incurred
+               in the implementation of the Work Plans and Specifications, such
+               other costs to include without limitation shipping and related
+               insurance costs, technical data costs (necessary reports, patent
+               searches, etc.), personnel training costs necessary for the
+               implementation of the Work Plans and Specification (and
+               pre-approved by Nokia), and TDD Project related license, user or
+               application fees. Nokia shall have prior approval rights over any
+               expense greater than $10,000, which approval shall not be
+               unreasonably withheld or delayed.
+
+     B.   Incidental Expense. IDC shall not be directly reimbursed for the
+          incidental expense related to the implementation of the Work Plan and
+          Specifications. Incidental expense shall include stationery supplies,
+          internal xeroxing costs, utilities, telephone, basic internet access,
+          etc.
+
+     C.   Title to Equipment. All equipment shall be purchased in the name of
+          IDC and shall be the property of IDC; provided, however, that title to
+          any equipment or
+
+** Material has been omitted and filed separately with the Commission
+
+<PAGE>
+
+Compensation Schedule
+Page 3
+
+          components shipped to Nokia as required under the Work Plans and
+          Specifications shall transfer to Nokia in accordance with the terms of
+          the applicable shipping procedures (FOB, FCA, etc.).
+
+     D.   Billing/Reimbursement. On or before the last day of each month, IDC
+          shall remit a monthly invoice to Nokia for services rendered for the
+          previous month (the "Billing Period") along with a monthly report in
+          accordance with Section 2.6.2 of the TDD Development Agreement,
+          detailing with the break down of each of the items as to the level of
+          day/persons involved/ Billable Hours in respect of the following
+          categories: (i) the Billable Hours charged for the Billing Period,
+          (ii) the total Direct Labor cost, (iii) a listing of the Expenses and
+          the suitable backup documentation for expenses. Such invoice shall be
+          paid by Nokia within 30 days of receipt.
+
+
+
+</TEXT>
+</DOCUMENT>

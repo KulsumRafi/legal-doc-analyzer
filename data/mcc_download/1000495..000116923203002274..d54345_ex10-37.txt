@@ -1,0 +1,2774 @@
+<DOCUMENT>
+<TYPE>EX-10.37
+<SEQUENCE>7
+<FILENAME>d54345_ex10-37.txt
+<DESCRIPTION>LICENSE AGREEMENT
+<TEXT>
+                                                                   Exhibit 10.37
+
+                        OEM-IN SOFTWARE LICENSE AGREEMENT
+                           (with Reproduction Rights)
+
+       THIS OEM SOFTWARE LICENSE AGREEMENT, including the Exhibits
+("Agreement"), effective as of December 3, 2002 ("Effective Date"), is hereby
+made by and between Cisco Systems, Inc., a California corporation, having
+principal offices at 170 West Tasman Drive, San Jose, California 95134-1706
+(Cisco Systems, Inc. referred to herein as "Cisco") and Visual Networks
+Operations, Inc., a Delaware corporation, having principal offices at 2092
+Gaither Road, Rockville, Maryland, 20850 ("Licensor").
+
+      For good and valuable consideration, the receipt and sufficiency of which
+is hereby acknowledged, the parties agree as follows:
+
+1. SOFTWARE.
+
+      1.1 Software. Licensor hereby licenses to Cisco the Licensor software
+products described in Exhibit B, as it may be amended from time to time in
+accordance with the terms hereof (the "Software"). The Software includes copies
+of software provided on disks or other media or provided electronically, user
+documentation, packaging and any enhancements, modifications, updates, bug
+fixes, releases, patents, patent rights, copyrights, trade secrets, know-how and
+other intellectual property related thereto. The Software shall be provided by
+Licensor in conformance with the functional, technical and other specifications
+for the Software set forth in Exhibit B, as modified from time to time by
+written agreement of the parties (the "Specifications").
+
+      1.2 Additional; New Software Products. Current Licensor software not
+listed on Exhibit A may be added upon mutual agreement by the parties of the
+applicable price or royalties for such additional software, and any other terms
+specific to such software, which shall be contained in an Addendum hereto.
+Licensor shall keep Cisco informed of any new software products of Licensor.
+Cisco will notify Licensor if it wishes to add new software products to this
+Agreement. Cisco and Licensor shall then proceed to negotiate the applicable
+price or royalties for such additional software, and any other terms specific to
+such software, which shall be contained in an Addendum hereto. Upon reaching an
+agreement on these items, such software shall be considered Software under this
+Agreement and shall be licensed under the terms and conditions of this
+Agreement.
+
+      1.3 Upgrades. Licensor shall keep Cisco informed of all Software upgrades,
+enhancements, improvements and bug fixes. Licensor shall make such items
+available to Cisco no later than the date Licensor releases such items to any of
+its other licensees and at no additional charge unless otherwise expressly
+provided in this Agreement.
+
+      1.4 Project Managers. Each party has appointed a single project manager
+("Project Manager"). The names, addresses and telephone and fax numbers of the
+Project Managers are attached to this Agreement as Exhibit C. The Project
+Managers shall act as liaisons between the parties with respect to their
+respective performance of this Agreement and shall provide the parties from time
+to time with the names and telephone numbers of additional specific contact
+persons (e.g., to communicate specific information regarding support,
+enhancements, etc.) when such direct contact is preferable. In the event that
+either party appoints a new Project Manager, such party will promptly notify the
+other.
+
+2. OWNERSHIP; GRANT OF RIGHTS
+
+      2.1 Ownership. Licensor shall own all right, title, and interest in the
+Software, including any modifications, enhancements, improvements or derivative
+works thereof or thereto, made by Licensor or on behalf of Cisco by Licensor.
+
+      2.2 License Grant. Subject to the terms of this Agreement, Licensor hereby
+grants Cisco and its Affiliates (as defined below) a nonexclusive, worldwide,
+irrevocable (subject to the termination provisions of this Agreement) perpetual
+fee-bearing, non-transferable license, subject to the limitations contained
+herein, to:
+
+
+                                                                    Page 1 of 47
+<PAGE>
+
+            (a) use, manufacture and have manufactured, import, reproduce and
+have reproduced, and embed or have embedded into Cisco products object code
+copies of the Software;
+
+            (b) copy, have copied, distribute, sell and offer to sell the
+Software as stand-alone products or as incorporated into, or in connection with,
+or for use with, any Cisco product by any means now known or developed in the
+future in object code format in accordance with this Agreement, through multiple
+tiers of distribution, including without limitation resellers, distributors,
+VARS and OEMs ("Resellers"), to end users or directly to end users;
+
+            (c) provide customer support (including, without limitation, to fix
+Software bugs) pursuant to Section 7 below;
+
+            (d) sublicense to end users, directly or indirectly, the right to
+use the Software; and
+
+            (e) for manufacturing purposes only, authorize the granting of
+sublicenses of all of the license rights granted to Cisco and its Affiliates in
+this Section 2.2.
+
+"Affiliates" shall mean, with respect to any Person, any other Person who is
+directly or indirectly controlling, controlled by or under common control with
+such Person as of the Effective Date or thereafter. A Person shall be deemed to
+be an Affiliate of another Person only so long as the foregoing control
+relationship exists. For the purposes of this definition, the term "control",
+when used with respect to any Person, means the possession, directly or
+indirectly, of voting securities representing the right to elect a majority of
+the Board of Directors (or other governing body) of such Person. "Person" means
+an individual, corporation, partnership, association, trust or other entity or
+organization.
+
+      2.3 End User Restriction. Cisco shall, and shall require its Resellers to,
+include an end user software license with each copy of the Software distributed
+to a customer that is as protective as the form attached hereto as Exhibit I.
+Cisco agrees to promptly notify Licensor of any known or suspected breach of the
+software license with respect to the Software, and further agrees to, upon
+Licensor's request, assign the claim to Licensor.
+
+      2.4 Modification by Cisco. Neither Cisco nor its Resellers shall have the
+right, to modify the Software without Licensor's express written consent;
+provided, however, that Cisco shall have the right to modify the Software and
+any end user documentation, or have the Software modified, for the purpose of
+embedding the Software into Cisco products, and for branding purposes.
+Furthermore, Cisco shall not reverse assemble, decompile, reverse engineer or
+otherwise attempt to derive source code (or the underlying ideas, algorithms,
+structure or organization) from Software, except as specifically authorized in
+writing by Licensor. Except for the express licenses granted herein, no other
+licenses are granted by implication, estoppel or otherwise.
+
+      2.5 U.S. Government End Users. The Software and associated software
+documentation qualify as "commercial items," as that term is defined at 48
+C.F.R. 2.101, consisting of "commercial computer software" and "commercial
+computer software documentation" as such terms are used in 48 C.F.R. 12.212.
+Consistent with 48 C.F.R.12.212 and 48 C.F.R. 227.7202-1 through 227.7202-4,
+Licensee will provide to Government end user, or, if this Agreement is direct
+Government end user will acquire, the Software and software documentation with
+only those rights set forth herein that apply to non-governmental customers. Use
+of this Software and software documentation constitutes agreement by the
+government entity that the computer software and computer software documentation
+is commercial, and constitutes acceptance of the rights and restrictions herein.
+
+      2.6 Cisco Property.
+
+            (a) During the term of this Agreement Cisco may provide equipment,
+designs, materials, software and other property of Cisco (collectively "Cisco
+Property") to Licensor for its use in fulfilling its obligations hereunder. All
+Cisco Property furnished to Licensor by Cisco or paid for by Cisco in connection
+with this Agreement shall (i) be clearly marked or tagged as the property of
+Cisco; (ii) be and remain personal property;
+
+
+                                                                    Page 2 of 47
+<PAGE>
+
+(iii) be subject to inspection by Cisco at any time; (iv) be used only to
+provide Software to Cisco and Cisco's authorized subcontractors, if any; (v) be
+kept free of liens and encumbrances; (vi) be kept separate from other materials,
+tools, or property of Licensor or held by Licensor; and (vii) not be modified in
+any manner by Licensor.
+
+            (b) Cisco shall retain all rights, title and interest in the Cisco
+Property, and Licensor shall treat and maintain the Cisco Property with the same
+degree of care as Licensor uses with respect to its own valuable equipment, but
+in no event with less than a reasonable degree of care for equipment of a
+similar kind and importance. Licensor shall bear all risk of loss or damage to
+Cisco Property until it is returned to Cisco. Upon Cisco's request, Licensor
+shall deliver all Cisco Property to Cisco in good condition, normal wear and
+tear excepted, without cost to Cisco (exclusive of freight costs); the parties
+shall determine the manner and procedure for returning the Cisco Property, and
+Cisco shall pay the corresponding freight costs. Licensor waives any legal or
+equitable right it may have to withhold Cisco Property, and Licensor shall
+execute all documents, or instruments evidencing Cisco's ownership of the Cisco
+Property as Cisco may from time to time request.
+
+      2.7 Certain Patent Rights. Licensor hereby grants to Cisco and its
+Affiliates, and the customers, distributors or manufacturers of Cisco or Cisco's
+Affiliates a nonexclusive, perpetual, irrevocable, fully-paid, royalty-free, and
+worldwide license under all of Licensor's patent rights to use, make, have make,
+sell, offer for sale, and import the Suggested Enhancements (as defined in
+Section 7.2 below), and incorporate it or combine it with other products and
+services of any kind.
+
+      2.8 [***]
+
+3. FEES; PAYMENT; TAXES.
+
+      3.1 Royalties and License Fees.
+
+            (a) Subject to the terms and conditions of this Agreement, Cisco
+shall pay Licensor the royalties and/or license fees in the amounts and on the
+terms and conditions as specified in Exhibit A.
+
+            (b) Licensor shall be obligated to pay all license fees and
+royalties, if any, with respect to any third party proprietary rights and
+technologies which are required for the exercise of Cisco's rights under this
+Agreement.
+
+      3.2 Payment Terms. Any payments required to be made by Cisco hereunder
+shall be made in accordance with the terms set forth in Exhibit A.
+
+      3.3 Taxes. The amounts paid pursuant to this Agreement are not subject to
+sales and use tax. Cisco shall provide Licensor with satisfactory documentation
+(including but not limited to resale exemption or other certificates) supporting
+such status. All amounts payable by Cisco to Licensor pursuant to this Agreement
+shall be net of international withholding taxes, and Cisco will provide Licensor
+with written documentation (including but not limited to copies of receipts) of
+any and all such withholding taxes paid in connection with such license fees and
+royalties. All other items of tax based in whole or in part on the income of a
+party shall be the sole responsibility of such party.
+
+      3.4 Non-Revenue Uses. Cisco shall be entitled to use and copy the Software
+free of charge for development and testing purposes, as well as for distribution
+to Cisco's customers for evaluation purposes; provided, however, that if such
+free Software copies are thereafter licensed to customers, Cisco shall pay
+Licensor the license fee or royalty described in this Agreement. If requested by
+Cisco, the parties will mutually agree to a one-time internal operational use
+license fee that will entitle Cisco to unlimited internal operational use of the
+Software.
+
+***   Confidential Information has been omitted and filed separately with the
+      Securities and Exchange Commission pursuant to a confidential treatment
+      request.
+
+
+                                                                    Page 3 of 47
+<PAGE>
+
+      3.5 [***]
+
+4. DELIVERY OF MASTERS
+
+      Pursuant to the license in Section 2.2, Licensor will provide to Cisco, at
+no charge and in a format to be reasonably specified by Cisco, two (2) sets of
+golden masters ("Software Masters") for all Software made available by Licensor
+hereunder. The Software Masters will be in machine readable, binary form and
+will include Software release documentation and will be shipped to Cisco within
+(5) business days of first commercial availability, or the signing of an
+addendum including such software hereunder. Additionally, Licensor will provide
+beta versions of Software to Cisco for testing and evaluation purposes within
+(5) business days of release to other beta testers and other
+non-commercially-available versions of Software to Cisco for testing and
+evaluation purposes as commercially reasonable.
+
+5. SOFTWARE SPECIFICATIONS; CHANGES; DEPLOYMENT
+
+      5.1 Specifications. Licensor shall make best commercially reasonable
+efforts to provide Cisco with ninety (90) days' written notice of any intended
+changes in the function, revision level, design or appearance of any Software or
+to any specifications for any Software irrespective of impact on design or
+function.
+
+      5.2 Cisco's Change Request. When a design change is required by Cisco,
+Cisco shall provide Licensor with written notice of all the documentation,
+specifications and proposed effective date of such design change. Within fifteen
+(15) days of receipt of such notice, Licensor shall advise Cisco in writing as
+to the time frame, costs and pricing for implementation of such change.
+
+      5.3 Interoperability Testing. Licensor shall perform such tests and
+provide Cisco with the test results in accordance with the Interoperability and
+Acceptance Testing Guidelines attached hereto as Exhibit D as modified from time
+to time upon mutual written agreement of the parties. Cisco shall provide
+Licensor with each Cisco product required for Licensor to perform such tests.
+Licensor shall provide, at Cisco's request, all Licensor products, including
+beta copies of Software or other Software not yet commercially available, so
+that Cisco may perform its own interoperability testing.
+
+      5.4 Marketing and Deployment. Licensor shall adhere to the marketing and
+deployment guidelines set forth in Exhibit K.
+
+6. END USER DOCUMENTATION AND TRADEMARKS
+
+      6.1 End User Documentation. Licensor shall deliver end user documentation
+in accordance with Exhibit E and hereby grants Cisco a worldwide, perpetual,
+nonexclusive, non-transferable license to copy, have copied, modify, have
+modified, incorporate and have incorporated and distribute all or any portion of
+such end user documentation, provided such documentation is provided with, or in
+association to, the Software, in accordance with this Agreement.
+
+      6.2   Trademarks and Branding Guidelines. Cisco shall comply with
+            Licensor's trademark and branding guidelines as set forth in Exhibit
+            F.
+
+      6.3   Quality Control. Cisco will present and promote the Software fairly
+            and in compliance with all federal, state and local laws,
+            regulations and ordinances. Cisco may accurately use Licensor's
+            product names in Cisco's advertising and promotional media; provided
+            (i) that Cisco conspicuously indicates in each such medium that such
+            names are trademarks of Licensor, and (ii) that, as requested by
+            Licensor from time to time, Cisco submits all such media to Licensor
+            for prior approval and follows reasonable trademark usage guidelines
+            communicated by Licensor.
+
+***   Confidential Information has been omitted and filed separately with the
+      Securities and Exchange Commission pursuant to a confidential treatment
+      request.
+
+
+                                                                    Page 4 of 47
+<PAGE>
+
+      6.4   Obligation Upon Termination or Expiration. Upon expiration or
+            termination of this Agreement for any reason, Cisco will immediately
+            cease all use of Licensor trademarks, marks, and trade names that
+            Licensor may adopt from time to time and, at Licensor's election,
+            either destroy or deliver to Licensor all materials in Cisco's
+            control or possession which bear such marks or names.
+
+      6.5   Trademarks. In connection with its rights hereunder, Cisco may use
+            its name and any of its trademarks, trade names, logos and/or
+            slogans or those of any third party in connection with the license,
+            sublicense or distribution of the Software and any end-user
+            documentation, marketing, or sales literature used with the
+            Software. If Cisco contemplates the use or inclusion of a trademark,
+            trade name, logo and/or slogan of a direct competitor of Licensor
+            for a Cisco product which also contains the Software, Cisco will
+            consult with Licensor regarding how to reasonably avoid inaccuracy
+            or confusion as to the origin or ownership of the Software contained
+            in such Cisco product.
+
+      6.6   Copyright Notices. Cisco shall ensure that all copies of the
+            Software in Cisco's possession or control incorporate copyright and
+            other proprietary notices in the same manner that Licensor
+            incorporates such notices in the Software and Documentation or in
+            any manner reasonably requested by Licensor, subject to reasonable
+            modifications or removals pursuant to Cisco's branding of the
+            Software.
+
+      6.7   Packaging. Unless otherwise requested by Cisco, packaging for the
+            Software shall be Cisco's responsibility. Upon the request of Cisco,
+            Licensor shall package the Software according to the Cisco standard
+            packaging guidelines in effect at the time of the request. Within a
+            reasonable time after the request for Licensor to package the
+            Software, Cisco shall deliver its product packaging guidelines to
+            Licensor. Cisco and Licensor shall thereafter mutually agree upon
+            the price and the payment terms for such services.
+
+7. SUPPORT
+
+      7.1   Support. Licensor shall provide the support services described in
+            Exhibit G on the terms and conditions set forth therein.
+
+      7.2   Suggested Enhancements. Cisco shall communicate to Licensor its
+            knowledge of any problems encountered with the Software or any
+            modifications, design changes or improvements of the Software
+            suggested by a customer of the Software ("Suggestions"). Cisco
+            further agrees (i) that Licensor shall own all right, title and
+            interest in and to any modifications, enhancements or improvements
+            to the Software made by Licensor as the result of a Suggestion
+            provided by Cisco ("Suggested Enhancements") , without the payment
+            of any additional consideration thereof to Cisco and (ii) that, if
+            applicable upon Licensor's reasonable request, it will cooperate
+            with Licensor in connection with perfecting and enforcing Licensor's
+            rights, title and interest to any Suggested Enhancements.
+
+8. SOFTWARE ESCROW
+
+      Upon execution hereof, the parties shall enter into an "Escrow Agreement"
+in the form attached hereto as Exhibit H.
+
+9. REPRESENTATIONS AND WARRANTIES
+
+      9.1 Representations and Warranties of Licensor. Licensor hereby represents
+and warrants to Cisco and its Affiliates as follows:
+
+            (a) Licensor has the full power to enter into this Agreement, to
+carry out its obligations under this Agreement and to grant the rights and
+licenses granted to Cisco in this Agreement.
+
+
+                                                                    Page 5 of 47
+<PAGE>
+
+            (b) For a period of [***], the Software will (i) perform
+substantially in accordance with the applicable published or mutually agreed
+upon specifications and related documentation provided by Licensor and
+substantially achieve any function described therein and (ii) be free from
+defects in materials, workmanship or design. Licensor will promptly correct or
+replace (at its option) any defective Software. NO OTHER WARRANTIES ARE
+EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF QUALITY,
+PERFORMANCE, NONINFRINGEMENT, MERCHANTABILITY OR FITNESS FOR A PARTICULAR
+PURPOSE. NOR ARE THERE ANY WARRANTIES CREATED BY A COURSE OF DEALING, COURSE OF
+PERFORMANCE OR TRADE USAGE. LICENSOR DOES NOT WARRANT THAT THE SOFTWARE WILL
+MEET CISCO'S NEEDS OR BE FREE FROM ERRORS, OR THAT THE OPERATION OF THE SOFTWARE
+WILL BE UNINTERRUPTED. THE FOREGOING EXCLUSIONS AND DISCLAIMERS ARE AN ESSENTIAL
+PART OF THIS AGREEMENT AND FORMED THE BASIS FOR DETERMINING THE FEES CHARGED FOR
+THE SOFTWARE.
+
+      9.2 Representations and Warranties of Cisco. Cisco hereby warrants and
+represents to Licensor that Cisco has the full power to enter into this
+Agreement and to carry out its obligations under this Agreement.
+
+10. INDEMNIFICATION
+
+      10.1 Indemnification by Licensor. Licensor shall defend, indemnify and
+hold harmless Cisco and its Affiliates, officers, directors, employees,
+shareholders, customers, agents, successors and assigns from and against any and
+all loss, damages, liabilities, settlement, costs or expense (including legal
+expenses and the expenses of other professionals) as incurred, resulting from or
+arising out of (i) any claim of product liability in any way relating to the
+Software; or (ii) any claim which alleges that any Software provided to Cisco
+hereunder or the use, manufacture, import, service, support or distribution
+thereof, all solely as authorized herein, infringes upon, misappropriates or
+violates any trade secret under the laws of the United States, patent or
+trademark under the laws of the United States, Canada or a member country of the
+European Union and/or copyright under the laws of any adherent to the Berne
+Convention of persons, firms or entities who are not parties to this Agreement.
+As a condition to such defense and indemnification, Cisco will provide Licensor
+with prompt written notice of the claim and permit Licensor to control the
+defense, settlement, adjustment or compromise of any such claim. Cisco may
+employ counsel at its own expense to assist it with respect to any such claim;
+provided, however, that if such counsel is necessary because of a conflict of
+interest of either Licensor or its counsel or because Licensor does not assume
+control, Licensor will bear the expense of such counsel. Cisco shall have no
+authority to settle any claim on behalf of Licensor.
+
+      10.2 Licensor's Efforts. If the manufacture, use or distribution of the
+Software is enjoined or becomes the subject of a claim of infringement, Licensor
+shall use best commercially reasonable efforts at its option to: (i) obtain such
+licenses; or (ii) make such replacements or modifications as are necessary to
+the continue the manufacture, use or distribution of the Software without
+infringement and in compliance with the specifications, if any, and
+Documentation. If Licensor is unable to achieve either of the foregoing within
+thirty (30) days (or such longer period as determined by Cisco in good faith)
+after the holding of infringement or the entry of the injunction, as applicable,
+Licensor shall promptly refund to Cisco the license fees or royalties paid for
+any Software, the use, manufacture, import, support, service or distribution of
+which is legally prohibited. Except to the extent reduced by payments described
+in this paragraph, nothing in this paragraph shall limit any other remedy of
+Cisco.
+
+      10.3 Exceptions to Licensor Indemnity. Licensor shall have no obligation
+under paragraphs 10.1 and 10.2 to the extent any claim of infringement or
+misappropriation results from (i) use of the Software in combination with any
+other product, end item, or subassembly not intended by Licensor if the
+infringement would not have occurred but for such combination; (ii) any claim
+based on Cisco's use of the Software after Licensor has informed Cisco of
+modifications or changes in the Software required to avoid such claims and
+offered to implement those modifications or changes, if such claim would have
+been avoided by implementation of Licensor's suggestions; or (iii) use of the
+Software other than as permitted under this Agreement, if the infringement would
+not have occurred but for such use.
+
+***   Confidential Information has been omitted and filed separately with the
+      Securities and Exchange Commission pursuant to a confidential treatment
+      request.
+
+
+                                                                    Page 6 of 47
+<PAGE>
+
+11. CONFIDENTIALITY
+
+      11.1 Agreement as Confidential Information. The parties shall treat the
+terms and conditions and the existence of this Agreement as Confidential
+Information. Each party shall obtain the other's consent prior to any
+publication, presentation, public announcement or press release concerning the
+existence or terms and conditions of this Agreement. The parties understand and
+agree that, to the extent that either party is required to disclose the
+existence of this Agreement or the terms hereof pursuant to any applicable law,
+order or regulation of any government or regulatory entity, it is permitted to
+do so, but each party shall to the extent reasonably possible, provide the other
+party with prior notice and cooperate with the other party to limit or redact
+the required disclosure.
+
+      11.2 Confidential Information. The parties shall comply with the
+provisions of the Non-Disclosure Agreement attached hereto as Exhibit J (the
+"NDA"). To the extent that the term stated in the NDA terminates prior to the
+termination of this Agreement, the parties agree that the term of the NDA shall
+be automatically extended to the term of this Agreement.
+
+12. LIMITATION OF LIABILITY
+
+      EXCEPT AS PROVIDED UNDER SECTION 10 (INDEMNITY), UNDER NO CIRCUMSTANCES
+WILL EITHER PARTY (WHICH IN THE CASE OF CISCO, INCLUDES AFFILIATES OF CISCO) BE
+LIABLE TO THE OTHER UNDER ANY CONTRACT, STRICT LIABILITY, NEGLIGENCE OR OTHER
+LEGAL OR EQUITABLE THEORY, FOR ANY INCIDENTAL OR CONSEQUENTIAL DAMAGES OR LOST
+PROFITS IN CONNECTION WITH THE SUBJECT MATTER OF THIS AGREEMENT. THIS SECTION
+DOES NOT LIMIT EITHER PARTY'S LIABILITY FOR BODILY INJURY OF A PERSON, DEATH, OR
+PHYSICAL DAMAGE TO PROPERTY. THIS LIMITATION WILL APPLY NOTWITHSTANDING ANY
+FAILURE OF ESSENTIAL PURPOSE OF ANY LIMITED REMEDY PROVIDED HEREIN.
+
+13. TERM AND TERMINATION
+
+      13.1 Term. Unless terminated earlier as provided herein, this Agreement
+shall commence on the Effective Date and end on January 31, 2004, unless
+terminated sooner by written notice given by a party pursuant to this Section.
+This Agreement shall be renewed automatically for additional successive one (1)
+year periods, unless notice of non-renewal is given to the other no later than
+sixty (60) days prior to the expiration of the initial term or then current
+renewal term.
+
+      13.2 Termination for Convenience. Cisco may terminate this Agreement at
+any time for its convenience, for no reason or for any reason, upon delivery of
+written notice to Licensor. In the event of such termination, Licensor shall be
+entitled to receive and retain all License payments made or payable by Cisco in
+accordance with Exhibit A and otherwise pursuant to this Agreement.
+
+      13.3 Termination for Cause. This Agreement may be terminated by a party
+for cause immediately upon the occurrence of and in accordance with the
+following:
+
+            (a) Insolvency Event. Either may terminate this Agreement by
+delivering written notice to the other party upon the occurrence of any of the
+following events: (i) a receiver is appointed for either party or its property;
+(ii) either makes a general assignment for the benefit of its creditors; (iii)
+either party commences, or has commenced against it, proceedings under any
+bankruptcy, insolvency or debtor's relief law, which proceedings are not
+dismissed within sixty (60) days; or (iv) either party is liquidated or
+dissolved.
+
+            (b) Change of Control. If there is a change in ownership
+representing twenty percent (20%) or more of the equity ownership of a party,
+the other party may, at its option, terminate this Agreement upon written notice
+to the party undergoing such change in control.
+
+            (c) Default. Either party may terminate this Agreement effective
+upon written notice to the other if the other party violates any material
+covenant, agreement, representation or warranty contained herein in
+
+
+                                                                    Page 7 of 47
+<PAGE>
+
+any material respect or defaults or fails to perform any of its material
+obligations or agreements hereunder in any material respect, which violation,
+default or failure is not cured within thirty (30) days after notice thereof
+from the non-defaulting party stating its intention to terminate this Agreement
+by reason thereof. Possible material breaches by Cisco would include, but not be
+limited to,: (i) reverse engineering of Software by Cisco; (ii) violation of the
+license rights granted herein; or (iii) nonpayment of undisputed license and/or
+support fees. Possible material breaches by Licensor would include, but not
+limited to: (i) failure to provide support in accordance with Exhibit G hereto;
+(ii) failure to perform interoperability testing, (iii) failure to comply with
+the terms of the escrow agreement set forth in Exhibit H; or (iv) violation of
+Licensor's confidentiality or indemnity obligations.
+
+      13.4 Survival; Support After Termination. Sections 2.1, 2.3, 2.4, 2.5,
+2.6, 2.7, 3, 6.4, 8, 9, 10, 11, 12, 13 and 14 shall survive termination or
+expiration of this Agreement. Furthermore, in the event of any termination or
+expiration of this Agreement (i) all end-user licenses shall remain in effect,
+except to the extent that they are terminated pursuant to their own terms and
+conditions; and (ii) Licensor shall continue to make available maintenance
+support to Cisco at Licensor's prevailing rates for a minimum of two (2) years
+after termination or expiration in accordance with Exhibit G.
+
+Notwithstanding anything in the foregoing to the contrary, in the case of
+termination by Cisco for cause pursuant to Section 13.3, all end user licenses
+shall remain in effect and Cisco's license rights under Sections 2.2 shall
+survive only for a period of six (6) months following such termination and only
+with respect to Software then in inventory or subject to any pending purchase
+order.
+
+      13.5 Return of Materials Upon Termination. Within thirty (30) days after
+the termination or expiration of this Agreement, Cisco will return or destroy
+all sets of Software masters, all other copies of the Software, all
+Documentation, Proprietary Information and other materials delivered or
+furnished by or on behalf of Licensor to Cisco hereunder. Within thirty (30)
+days after the termination or expiration of this Agreement, Licensor will return
+or destroy all Proprietary Information and other materials delivered or
+furnished by or on behalf of Cisco to Licensor hereunder. Cisco shall be
+entitled to retain any required Licensor Confidential Information solely to
+continue to support the Software.
+
+14. MISCELLANEOUS
+
+      14.1 Force Majeure. Neither party shall be liable to the other for delays
+or failures in performance resulting from causes beyond the reasonable control
+of that party, including, but not limited to, acts of God, labor disputes or
+disturbances, material shortages or rationing, riots, acts of war, governmental
+regulations, communication or utility failures, or casualties. In the event
+Licensor fails to deliver any Software including without limitation, updates,
+bug fixes or maintenance releases due to such causes, Cisco may terminate this
+Agreement or any part hereof as to such Software not delivered. Licensor shall
+resume performance under this Agreement immediately after the delaying cause
+ceases and, at Cisco's option, extend the then current term period for a period
+equivalent to the length of time the excused delay endured.
+
+      14.2 Compliance with Laws. Each party agrees that in performance of its
+obligations under this Agreement it shall comply with all applicable federal,
+state, local laws and ordinances now or hereafter enacted.
+
+      14.3 Import and Export. Cisco hereby acknowledges that the Software
+supplied by Licensor under the Agreement is subject to export or import controls
+under the laws and regulations of the United States (U.S.). Cisco shall comply
+with such laws and regulations, and agrees not to knowingly export, re-export,
+import or re-import or transfer Software without first obtaining all required
+U.S. Government authorizations or licenses. Licensor and Cisco each agree to
+provide the other information and assistance as may be reasonably required by
+the other in connection with securing such authorizations or licenses, and to
+take timely action to obtain all required support documents. Licensor shall
+provide Cisco with information and assistance as may reasonably be required in
+connection with executing import, export, sales, and trade programs, including
+but not limited to, Manufacturer's Affidavits, Harmonized Tariff Schedule,
+Export Control Classification Number, qualification information (eg. origin),
+and U.S. Federal Communications Commission's identifier when applicable.
+
+
+                                                                    Page 8 of 47
+<PAGE>
+
+      14.4 Relationship of Parties. The parties are independent contractors
+under this Agreement and no other relationship is intended, including a
+partnership, franchise, joint venture, agency, employer/employee, fiduciary,
+master/servant relationship, or other special relationship. Neither party shall
+act in a manner which expresses or implies a relationship other than that of
+independent contractor, nor bind the other party.
+
+Contractors of both parties shall comply with all applicable environmental
+federal, state and local laws, regulations and ordinances, including but not
+limited to the laws and regulations of the United States, relating to this
+Agreement and the services and/or products provided hereunder. In the event that
+a party's performance of its obligations under this Agreement requires the
+delivery to or handling by the other party or the other party's contractors of
+hazardous materials as specified in the U.S. Department of Transportation, Title
+49 or OSHA standards or regulations, such party will promptly notify the other
+party and upon request will provide the other party and affected contractors of
+the other party with material safety data sheets and such other documentation
+reasonably necessary for compliance with applicable laws and regulations.
+Notwithstanding the foregoing, a party shall be fully responsible under this
+Agreement for any liability resulting from its actions in supplying or
+transporting hazardous materials or otherwise failing to comply with
+environmental laws and regulations.
+
+      14.5 No Third Party Beneficiaries. Unless otherwise expressly provided, no
+provisions of this Agreement are intended or shall be construed to confer upon
+or give to any person or entity other than Cisco and Licensor any rights,
+remedies or other benefits under or by reason of this Agreement.
+
+      14.6 Equitable Relief. Each party acknowledges that a breach by the other
+party of any confidentiality or proprietary rights provision of this Agreement
+may cause the non-breaching party irreparable damage, for which the award of
+damages would not be adequate compensation. Consequently, the non-breaching
+party may institute an action to enjoin the breaching party from any and all
+acts in violation of those provisions, which remedy shall be cumulative and not
+exclusive, and a party may seek the entry of an injunction enjoining any breach
+or threatened breach of those provisions, in addition to any other relief to
+which the non-breaching party may be entitled at law or in equity.
+
+      14.7 Attorneys' Fees. In addition to any other relief awarded, the
+prevailing party in any action arising out of this Agreement shall be entitled
+to its reasonable attorneys' fees and costs.
+
+      14.8 Notices. Any notice required or permitted to be given by either party
+under this Agreement shall be in writing and shall be personally delivered or
+sent by a reputable overnight mail service (e.g., Federal Express), to the
+Project Manager of the other party. Notices will be deemed effective the next
+business day after receipt by the party to be notified. A copy of any notice
+shall be sent to the following:
+
+        ---------------------------------------------------------------
+        Cisco Systems, Inc.                Visual Networks
+                                           Operations, Inc.
+        ---------------------------------------------------------------
+        170 West Tasman Drive              2092 Gaither Road
+        ---------------------------------------------------------------
+        San Jose, CA  95134                Rockville, MD 20850
+        ---------------------------------------------------------------
+        Attn: VP Legal Services and        Attn: Corporate Counsel
+        General Counsel
+        ---------------------------------------------------------------
+        Fax:  (408) 526-7019               Fax (301) 296-2731
+        ---------------------------------------------------------------
+
+      14.9 Assignment. Except for Affiliates of Cisco, who are permitted
+assignees of this Agreement, neither party may assign its rights or delegate its
+obligations hereunder, either in whole or in part, whether by operation of law
+or otherwise, without the prior written consent of the other party. Any
+attempted assignment or delegation by a party without the written consent of the
+other party will be void. The rights and liabilities of the parties under this
+Agreement will bind and inure to the benefit of the parties' respective
+successors and permitted assigns. For purposes of this Section, a twenty percent
+(20%) change in control shall constitute an assignment.
+
+      14.10 Waiver and Modification. Failure by either party to enforce any
+provision of this Agreement will not be deemed a waiver of future enforcement of
+that or any other provision. Any waiver, amendment or other modification of any
+provision of this Agreement will be effective only if in writing and signed by
+the parties.
+
+
+                                                                    Page 9 of 47
+<PAGE>
+
+      14.11 Severability. If for any reason a court of competent jurisdiction
+finds any provision of this Agreement to be unenforceable, that provision of the
+Agreement will be enforced to the maximum extent permissible so as to effect the
+intent of the parties, and the remainder of this Agreement will continue in full
+force and effect.
+
+      14.12 Controlling Law and Jurisdiction. This Agreement and any action
+related thereto shall be governed, controlled, interpreted and defined by and
+under the laws of the State of New York and the United States, without regard to
+the conflicts of laws provisions thereof. The exclusive jurisdiction and venue
+of any action with respect to the subject matter of this Agreement shall be the
+state or federal courts of the State of New York and each of the parties hereto
+submits itself to the exclusive jurisdiction and venue of such courts for the
+purpose of any such action. The parties specifically disclaim the UN Convention
+on Contracts for the International Sale of Goods.
+
+      14.13 Headings. Headings used in this Agreement are for ease of reference
+only and shall not be used to interpret any aspect of this Agreement.
+
+      14.14 Entire Agreement. This Agreement, including all exhibits which are
+incorporated herein by reference, constitutes the entire agreement between the
+parties with respect to the subject matter hereof, and supersedes and replaces
+all prior and contemporaneous understandings or agreements, written or oral,
+regarding such subject matter. For the avoidance of doubt, this Agreement does
+not replace or supercede the surviving terms of the Interoperability and
+Marketing Agreement and/or the New World Ecosystem Program Agreement, each
+between the parties hereto.
+
+      14.15 Counterparts. This Agreement may be executed in two counterparts,
+each of which shall be an original and together which shall constitute one and
+the same instrument.
+
+      14.16 Basis of Bargain. EACH PARTY RECOGNIZES AND AGREES THAT THE WARRANTY
+DISCLAIMERS AND LIABILITY AND REMEDY LIMITATIONS IN THIS AGREEMENT ARE MATERIAL
+BARGAINED FOR BASES OF THIS AGREEMENT AND THAT THEY HAVE BEEN TAKEN INTO ACCOUNT
+AND REFLECTED IN DETERMINING THE CONSIDERATION TO BE GIVEN BY EACH PARTY UNDER
+THIS AGREEMENT AND IN THE DECISION BY EACH PARTY TO ENTER INTO THIS AGREEMENT.
+
+      IN WITNESS WHEREOF, the parties hereto have executed this Agreement by
+persons duly authorized as of the date and year first above written.
+
+CISCO SYSTEMS, INC.                   VISUAL NETWORKS OPERATIONS, INC.
+"Cisco"                               "Licensor"
+
+By:   /s/ Anson Chen                  By:   /s/ Steven G. Hindman
+   --------------------------            -----------------------------
+
+Name:    Anson Chen                   Name:   Steven G. Hindman
+     ------------------------              ---------------------------
+
+Title:   VP/GM NMSTG                  Title:  Executive Vice President
+      -----------------------               --------------------------
+Date:    December 2, 2002             Date:    December 3, 2002
+     ------------------------              ---------------------------
+
+<PAGE>
+
+                                TABLE OF EXHIBITS
+
+ EXHIBIT A -  SOFTWARE AND ROYALTIES
+ EXHIBIT B -  SOFTWARE SPECIFICATIONS
+ EXHIBIT C -  PROJECT MANAGERS
+ EXHIBIT D -  INTEROPERABILITY TESTING GUIDELINES
+ EXHIBIT E -  END USER DOCUMENTATION
+ EXHIBIT F -  TRADEMARKS AND TRADEMARK USAGE GUIDELINES
+ EXHIBIT G -  LICENSOR SUPPORT
+ EXHIBIT H -  ESCROW AGREEMENT
+ EXHIBIT I -  END USER LICENSE
+ EXHIBIT J -  NON-DISCLOSURE AGREEMENT
+
+
+                                                                   Page 11 of 47
+<PAGE>
+
+                                    EXHIBIT A
+
+                             SOFTWARE AND ROYALTIES
+
+      1. Payment. For each Software copy reproduced and distributed for revenue
+by or under the sublicense rights of Cisco, Cisco shall pay a per copy royalty
+of [***] of Net Invoice Price received by Cisco from the distribution of the
+Software. In the event Software is sold on a stand-alone basis, "Net Invoice
+Price" shall mean the Cisco's actual revenue received from the distribution of
+the Software hereunder, less deductions for refunds, returns, taxes, export fees
+and duties.
+
+In the event Software is bundled with other Cisco products, "Net Invoice Price"
+shall mean the amount equal to Licensor's Proportionate Share (as determined
+below) of Cisco's actual revenue received from the distribution of the Software
+hereunder, less deductions for refunds, returns, taxes, export fees and duties.
+"Licensor's Proportionate Share" shall be determined by dividing the reference
+price of the Software by the sum of the list prices of the bundle components.
+
+[***]
+
+      2. Payment Terms. All undisputed royalties will be paid quarterly,
+pursuant to Cisco's fiscal year. Cisco will provide Licensor within forty-five
+(45) days after the end of a Cisco fiscal quarter, (a) a report, substantially
+in the form as follows, showing the total invoices sent to Cisco's customers in
+the previous quarter and the Net Revenue received therefrom; and (b) a payment
+equal to royalties owed to Licensor related thereto (or, if the credits owed to
+Cisco hereunder exceed the amount of royalties owed in a particular quarter, an
+invoice, payable by Visual within thirty (30) days of receipt, for the amount of
+the excess). Cisco shall be entitled to credit for returns of the Software
+within [***] days from the date Cisco ships the Software. Any such credit will
+be offset against or deducted from royalties or other fees due to Licensor
+hereunder. In the event a customer makes a return for which Cisco does not
+receive a credit, Cisco shall be entitled to a credit against a future purchase
+by the same customer of the returned Software (or a subsequent version of such
+Software). To the extent that any royalties are in dispute, the parties agree to
+reasonably cooperate to resolve such dispute as quickly as reasonably possible.
+
+Licensor retains complete discretion to change its software product price list
+or to discount the list price of its products. Notwithstanding any changes in
+Licensor's software product price list, the prices set forth in the Reference
+Price List shall not increase during the term of this Agreement. Licensor shall
+provide Cisco with written notice of a modification to its software product
+price list ninety (90) days before the effective date of any such modification
+unless the parties agree in writing to a shorter notice period. If Licensor's
+list price on its software products is reduced, Licensor will extend the price
+reduction to Cisco as of the date of written notice of such price reduction.
+
+CISCO SYSTEMS
+FY -YEAR-
+-QUARTER-
+
+-----------------------------------------------------------
+Software          Units Shipped      Net       Royalty
+                                     Invoice
+                                     Price
+-----------------------------------------------------------
+Xxxxx
+-----------------------------------------------------------
+
+-----------------------------------------------------------
+Yyyyy
+-----------------------------------------------------------
+TOTALS:
+-----------------------------------------------------------
+
+                                                          ------------
+                                     TOTAL ACCRUAL:       $0.0
+                                                          ------------
+
+***   Confidential Information has been omitted and filed separately with the
+      Securities and Exchange Commission pursuant to a confidential treatment
+      request.
+
+
+                                                                   Page 12 of 47
+<PAGE>
+
+      3. Audit Rights. Cisco shall maintain, for a period of [***] years after
+the end of the year to which they pertain, complete records of the Software
+manufactured and/or distributed by Cisco in order to calculate and confirm
+Cisco's royalty obligations hereunder. Upon reasonable prior notice, Licensor
+will have the right, exercisable not more than once every [***] to appoint an
+independent accounting firm or other agent reasonably acceptable to Cisco, at
+Licensor's expense, to examine such financial books, records and accounts during
+Cisco's normal business hours to verify the royalties due from Cisco to Licensor
+herein, subject to execution of Cisco's standard confidentiality agreement by
+the accounting firm or agent; provided, however, that execution of such
+agreement will not preclude such firm from reporting its results to Licensor. In
+the event an audit discloses an underpayment or overpayment of royalties due
+hereunder, the appropriate party will promptly remit the amounts due to the
+other party. If any such audit discloses a shortfall in payment to Licensor of
+more than five percent (5%) for any quarter, Cisco agrees to pay or reimburse
+Licensor for the expenses of such audit.
+
+      4. [***]
+
+      5. Support Compensation. Licensor shall be compensated for and shall
+perform Level 1 through Level 3 support, as follows:
+
+(a) Initial Support Agreements: Cisco shall pay Licensor [***] of the net
+revenue received by Cisco of the portion of each initial Single-Year SAS Support
+Agreement, initial Multi-Year SAS Support Agreement and Master SAS Support
+Agreement sold covering support for the Software attributable to support of the
+Software. [***]
+
+(b) Support Agreement Renewals: Cisco shall be responsible for generating all
+renewal sales and shall pay Licensor [***] of net revenue for each Support
+Agreement Renewal, provided that Licensor submits a report to Cisco within
+forty-five (45) days after each Cisco fiscal quarter end, detailing a list of
+Customers and Cisco support contracts expiring in the following quarter. Such
+report shall list the Customer name, Support Agreement number, term of support,
+effective date of support, the Software identification numbers being renewed,
+and the total list price. Cisco shall thereafter submit a quarterly renewal
+report to Licensor in accordance with subparagraph (e) below. Licensor's
+obligation to submit support renewal reports to Cisco is contingent upon Cisco
+providing report information identified in subparagraph (f) below to Licensor
+for Licensor to complete support renewal reports for otherwise new support
+contracts. Licensor's obligations to submit renewal reports shall cease when
+Cisco has implemented an automated ability to track Support Agreement renewals
+and has provided Licensor thirty (30) days' advance written notice of such
+automation.
+
+(c) [***]
+
+(d) Shared Support: Although Cisco will endeavor to discourage Support Agreement
+sales and Renewals to Customers by a Cisco service integrator through Cisco's
+SIS'98 or other shared support programs ("Shared Support") when such sale or
+renewals are identified and accepted, the same percentage compensation noted in
+subparagraph (b) above shall be paid to Licensor.
+
+(e) [***]
+
+(f) Quarterly Report: For Initial Support Agreements and Renewals, Cisco shall
+submit (a) a report to Licensor within forty-five (45) days after each Cisco
+fiscal quarter end, detailing each Customer invoiced for support during such
+quarter, the Customer name, Support Agreement number, term of support, effective
+date of support Software identification numbers, and the total list price; and
+(b) a payment equal to support fees owed to Licensor by Cisco in accordance with
+this Section 5. Licensor shall identify and advise Cisco of any issues
+pertaining to the quarterly reports within fifteen (15) business days after
+receipt of Cisco's report. If no issues are raised with such timeframe, the
+report shall be deemed accepted by Licensor. Cisco and Licensor will work in
+good faith to resolve any issues within a further thirty-day period.
+
+(g) Non-Payment: In the event that Cisco is not in receipt of the invoiced
+support fees due from a Customer, Cisco may terminate the support of that
+individual Customer, less a pro-rata amount for the Licensor's agreed support
+compensation commencing on the date support started through the date that Cisco
+notifies Licensor that it has
+
+***   Confidential Information has been omitted and filed separately with the
+      Securities and Exchange Commission pursuant to a confidential treatment
+      request.
+
+
+                                                                   Page 13 of 47
+<PAGE>
+
+terminated support
+
+(h) Credits: Section 3 of this Exhibit A to the Agreement regarding credit for
+returns or offsets against License fees due to Licensor also will apply with
+regard to maintenance and support fees. In addition, If a Cisco customer cancels
+or terminates its annual maintenance agreement with Cisco for which it has paid
+maintenance fees in advance and Cisco provides a pro-rata credit or refund to
+the customer of the unused portion of the maintenance fees paid, Licensor will
+provide Cisco with a credit or refund in the amount of the unused portion of the
+maintenance fees paid to Licensor. On a quarterly basis, Cisco will notify
+Licensor of such refund or credit.
+
+(i) Payment Schedule: Cisco shall pay Licensor the compensation reflected in
+subsection (a), (b), and (e) above, as applicable, for the term of such Support
+Agreement or Support Agreement Renewal together with any additional percentage
+based upon customer satisfaction bonus goals outlined in Exhibit G and any
+additional fees for Shared Support, within forty-five (45) days after Cisco's
+fiscal quarter end. Any supplement payment or credit shall be paid to Licensor
+during the immediate subsequent quarter; whereby Cisco shall make one payment
+during its fiscal quarter to Licensor for all then-current applicable
+compensation. Any credit or refund due Cisco shall be issued or paid by Licensor
+within forty-five (45) days following the Cisco fiscal quarter in which Cisco
+provides notice of such credit or refund to Licensor.
+
+(i) Change in Compensation: At any time after the first twelve (12) months from
+the effective date of Exhibit F, upon thirty (30) days' written notice to
+Licensor, Cisco may, at its election, request additional Software training above
+from Licensor so that Cisco may assume additional support obligations after such
+training. Such additional training shall be offered to Cisco at a [***] discount
+off Licensor's standard pricing for support training. If Cisco assumes
+additional support responsibilities, compensation to Licensor shall be
+negotiated in good faith at a lower compensation percentage.
+
+k) [***]
+
+***   Confidential Information has been omitted and filed separately with the
+      Securities and Exchange Commission pursuant to a confidential treatment
+      request.
+
+
+                                                                   Page 14 of 47
+<PAGE>
+
+                                   SCHEDULE 1
+[***]
+
+***   Confidential Information has been omitted and filed separately with the
+      Securities and Exchange Commission pursuant to a confidential treatment
+      request.
+
+
+                                                                   Page 15 of 47
+<PAGE>
+
+                                    EXHIBIT B
+
+                             SOFTWARE SPECIFICATIONS
+
+1. Software to be Licensed to Cisco - (a) Visual UpTime Performance Archive
+                                          Managers (PAMs); and
+                                      (b) license keys which enable PAMs to
+                                          manage Cisco products with Visual
+                                          UpTime functionality.
+
+2. Cisco Property - None
+
+
+                                                                   Page 16 of 47
+<PAGE>
+
+                                    EXHIBIT C
+
+                                PROJECT MANAGERS
+
+For Cisco:
+
+Program Manager
+Jayesh Ghia
+408 525-8675
+jghia@cisco.com
+
+Testing Project Manager
+Kui Zhang
+(408) 526-7603
+kzhang@cisco.com
+
+For Visual:
+
+              ----------------------------
+              Robin Brown
+              ----------------------------
+              Director, Product Management
+              ----------------------------
+              10169 N. Blaney Avenue
+              Cupertino, CA  95014
+              ----------------------------
+              (408) 996-2002
+              ----------------------------
+              rbrown@visualnetworks.com
+              ----------------------------
+
+
+                                                                   Page 17 of 47
+<PAGE>
+
+                                    EXHIBIT D
+
+               INTEROPERABILITY AND ACCEPTANCE TESTING GUIDELINES
+
+This Exhibit D specifies, or describes the process for specifying,
+interoperability, unit, and acceptance test criteria for tests, measures, and
+forms of test result reports required to test the ongoing interoperability of
+the Visual Networks products that will interact and integrate with Cisco's
+products under this Agreement.
+
+1.    Confidentiality. All test data, procedures and results will be treated as
+      Confidential Information subject to the Confidential Information section
+      in this Agreement.
+
+2.    Continued Operability and Improvement. The product components, including
+      but not limited to, IE2100, Visual Uptime, CNS Event Gateway, IOS Service
+      Assurance Agent (hereinafter referred to as "SAA") shall continue to
+      function as stated in their respective documentation sets, with necessary
+      deviations defined in the Technical Specifications. Any new releases of
+      the Software shall represent an increase in functionality, performance,
+      and usability, above and beyond the current available Visual Uptime, CNS
+      Event Gateway and IOS SAA individual products.
+
+3.    Joint Testing. Visual Networks and Cisco will jointly test their products
+      to determine compatibility, utilizing the test criteria herein. The
+      results will be shared between the two companies. Each company will own
+      their respective results.
+
+4.    Scope of Testing and Results. The features and functions shall be tested
+      by Visual Networks, at unit, development, interoperability with Cisco
+      products, scalability, performance and system testing levels, pursuant to
+      testing criteria jointly developed by the parties and defined in the
+      Engineering Test Plan. Visual Networks shall be able to demonstrate to
+      Cisco how features and functions are tested, accompanied by design
+      documentation, test procedures, and test results.
+
+5.    Final Look-and-Feel. The final acceptance of eventual Cisco look-and-feel,
+      icons, integration, documentation, etc. shall be done by Cisco
+      engineering, technical publications and marketing personnel as designated
+      by the Cisco project manager and in accordance with the Product
+      Requirements Document and for WAPMS and Exhibit E of this Agreement. This
+      acceptance will not be unreasonably withheld.
+
+6.    Unit and Development Testing. The Software, in object code form, will be
+      unit tested using simulators, code debugging tools, and lab equipment, as
+      appropriate and described in the testing criteria develop under Section 4
+      of this Exhibit D (lab equipment is comprised of routers and necessary
+      cards provided by Cisco solely for the purposes of developing and testing
+      the Software). This testing will be the responsibility of the Visual
+      Networks development team. The deliverable will be defined as: unit tested
+      code ready for Validation Testing.
+
+      6.1.  Deliverables. Validation Tested Code ready for Acceptance Testing
+            (the software deliverable will include an installable image, User
+            Guide Final Content, Support Plan Final, Installation Manual Final
+            Content) and a Unit Test Results Document including but not limited
+            to: test criteria, description of test methodology, results
+
+7.    Interoperability and General Testing. Visual Uptime shall interoperate
+      with the CNS Event Gateway, IOS devices, and all necessary software and
+      hardware components comprising the WAPMS product/solution. Cisco shall
+      make appropriate hardware and software available to Visual Networks in
+      order that Visual Networks may perform required scalability and system
+      testing. For the avoidance of doubt, it is understood that Cisco may
+      choose to make such hardware and software available in its labs or
+      otherwise on its premises. Interoperability testing shall be conducted by
+      Visual Networks to verify operability, reliability and performance and
+      test result reports shall be made available to Cisco. Cisco shall conduct
+      acceptance testing based on these reports. Content of the reports and
+      specific interoperability and acceptance test criteria will be jointly
+      defined by the parties in the Engineering Project Plan for WAPMS.
+
+
+                                                                   Page 18 of 47
+<PAGE>
+
+7.1.  Deliverables. Object Code certified to have passed interoperability and
+      general testing (scalability, performance and system). Interoperability
+      and general testing document including but not limited to: test criteria,
+      description of test methodology, results.
+
+8.    Acceptance Testing. Product code will be frozen and sent to Acceptance
+      Testing, which will use the test plan previously documented by the parties
+      pursuant to Section 4 of this Exhibit D. In the course of this testing, a
+      list of bugs will be generated in Cisco's internal Defect Tracking System
+      (hereinafter referred to as "DDTS") with assigned severities for
+      resolution based on standard Cisco severity definitions. This task is a
+      joint effort and requires the combined efforts of Cisco and Visual
+      Networks test personnel and Visual Networks development team personnel.
+      Throughout this effort, defect tracking will comply with Cisco's DDTS
+      process and will use Cisco's DDTS system.
+
+      8.1.  All entrance conditions must be met for Acceptance Testing, as
+            specified in the Program Plan. These are: functional test cases
+            executed, Validation Testing completed, all known bugs have been
+            entered into DDTS, all bugs resolved as per severities listed in the
+            program plan, all source code checked for memory leaks, all memory
+            leaks documented in DDTS, all hardcopy documents completed.
+
+      8.2.  Deliverables. System Tested software, Clearcase entries completed,
+            all hardcopy documents completed.
+
+      8.3.  The Cisco testing project manager will assess the conformance of the
+            Software to the Engineering Test Plan and provide either a written
+            acceptance or a written list of non-conformances to Visual Networks.
+
+9.    Retesting. Visual Networks and Cisco will seek to re-test products
+      whenever a significant functional change that may affect interoperability
+      is made to either party's product. The parties agree that it shall be the
+      responsibility of each party to inform the other party of any significant
+      functional change to its product(s) which may affect interoperability with
+      the other's products. A re-test of products(s) will only be conducted when
+      the parties agree that it is necessary.
+
+
+                                                                   Page 19 of 47
+<PAGE>
+
+                                    EXHIBIT E
+
+                             END USER DOCUMENTATION
+
+      1. Scope. Cisco may develop, write, manufacture and maintain all
+Software-related end user documentation so that it will have a Cisco
+"look-and-feel." (as defined below) and Licensor shall provide Cisco with such
+documentation on media sufficient to allow Cisco to reproduce such documentation
+as part of the Software pursuant to the licenses granted in this Agreement. In
+addition, Licensor hereby grants Cisco the right to modify, make derivative
+works of, and incorporate into Cisco product documentation the end user
+documentation provided by Licensor to Cisco hereunder.
+
+            (a) End user Software documentation content is determined by the
+Software, and Cisco's documentation guidelines. Documentation will include,
+without limitation, user guides, software configuration and command reference
+guides, release notes and errata.
+
+            (b) Cisco "look-and-feel" means Cisco's customer documentation
+templates, style guide, and printing standards, as defined and specified from
+time to time by Cisco.
+
+            (c) Licensor agrees not to modify Cisco documentation templates.
+
+      2. Electronic Publication. Licensor will provide an electronic copy of the
+end user documentation files (including all illustrations), for the life of the
+manual(s).
+
+      3. Ownership. Cisco shall own all right, title and interest in the end
+user documentation (in any format or medium) with Cisco "look and feel"
+developed by or for Cisco pursuant to this Agreement (the "Cisco
+Documentation"); provided, however, that Licensor retains ownership of its
+pre-existing standard documentation, and the content thereof. Licensor hereby
+assigns to Cisco all right, title and interest to the Cisco Documentation and
+shall execute such instruments as Cisco may reasonably request to effect and
+record such assignment. Licensor may not distribute the Cisco Documentation in
+any format or medium or for any purpose, to any third party without the prior
+written consent of Cisco.
+
+      4. Revision Cycles. Licensor will revise the end user manual(s) as
+necessary to accurately support the Software.
+
+      (a)   Licensor will issue Software release notes or errata in a timely
+            manner, and provide them to Cisco.
+
+      (b)   Licensor will notify Cisco within thirty (30) days of Licensor's
+            intent to revise a document.
+
+      (c)   Document revisions will include all relevant Software enhancements
+            and new technical information.
+
+      (d)   With each revision, Licensor will provide electronic copies of
+            files, as specified in Section 2 of this Exhibit.
+
+
+                                                                   Page 20 of 47
+<PAGE>
+
+                                    EXHIBIT F
+
+                    TRADEMARKS AND TRADEMARK USAGE GUIDLINES
+
+                            [VISUAL NETWORKS(R) LOG0]
+                     Trademark Policy and Proprietary Notice
+
+Visual Networks Technologies, Inc. is a Visual Networks holding company, which
+holds the rights to Visual Networks' intellectual property.
+
+Our Brand Name
+
+Our brand name is Visual Networks. The term "Visual" may not be used to refer to
+Visual Networks.
+
+Our Logo
+
+Please see Visual Networks' Logo Usage Guidelines.
+
+                               Proprietary Notice
+
+IF ONLY VISUAL NETWORKS MARKS APPEAR IN THE DOCUMENT:
+
+(C) 2002 Visual Networks Technologies, Inc. All Rights Reserved. [list Visual
+Networks marks referenced in the document] are trademarks or service marks of
+Visual Networks Technologies, Inc.
+
+IF NON-VISUAL NETWORKS MARKS APPEAR IN THE DOCUMENT:
+
+(C) 2002 Visual Networks Technologies, Inc. All Rights Reserved. [list Visual
+Networks marks referenced in the document] are trademarks or service marks of
+Visual Networks Technologies, Inc. Other product or service names may be
+trademarks or service marks of their respective owners.
+
+If there is a desire to specify the owner(s) of other marks, appropriate
+sentences may be added. For example: [mark] is a [service mark/trademark] of
+[owner name].
+
+IF THE DOCUMENT IS NOT BEING CREATED BY VISUAL NETWORKS:
+
+[list Visual Networks marks referenced in the document] are trademarks or
+service marks of Visual Networks Technologies, Inc.
+
+The entity creating the document would include this within their copyright and
+trademark notices on the document.
+
+For an up-to-date view of Visual Networks' proprietary notice, please visit the
+Visual Networks web site at www.visualnetworks.com.
+
+
+                                                                   Page 21 of 47
+<PAGE>
+
+Labeling Visual Networks Marks
+
+Obtaining and protecting legal trademarks and service marks is something that
+must be taken seriously. Adjustments such as changing spacing, changing which
+letters are capitalized, or incorrectly using (R) when you intend to use (TM),
+or vice versa, can seem like minor details, but can lead to serious legal
+consequences.
+
+It is common, and legally acceptable, to label a trademark or service mark with
+the (R) or (TM) symbol only once, at its initial usage in the body of a text
+document (as opposed to a title line or heading). It is not necessary to use the
+(R) or (TM) labels after the first occurrence of a trademark or service mark in
+a prose document.
+
+Questions? Contact Jeff Norton, Corporate Counsel, at 301.296.2742,
+jnorton@visualnetworks.com.
+
+
+                                                                   Page 22 of 47
+<PAGE>
+
+                                    EXHIBIT G
+                                LICENSOR SUPPORT
+                                   (Software)
+
+This Exhibit F pertains to support for Licensor's Software.
+
+Definitions: The following terms shall have the meaning assigned to them.
+Capitalized terms not defined herein shall have the meaning assigned to them in
+the Agreement.
+
+"Agreement" means that OEM Software License Agreement by and between Licensor
+and Cisco, effective December 3, 2002.
+
+"Customer" means Cisco's end-user of the Software who is requesting support.
+
+"INSMBU" means Cisco's Intelligent Network Services Management Business Unit.
+
+"Error" means a bug in the Software.
+
+"Maintenance Release" means an incremental release of Software that provides
+maintenance fixes and may provide additional Software features. Maintenance
+releases are designated by Cisco as a change in the digit(s) to the right of the
+tenths digit of the Software version number [x.x.(x)].
+
+"Major Release" means a release of Software that provides additional Software
+features and/or functions. Major Releases are designated by Cisco as a change in
+the ones digit of the Software version number [(x).x.x].
+
+"Minor Release" means an incremental release of Software that provides
+maintenance fixes and additional Software features. Minor releases are
+designated by Cisco as a change in the tenths digit(s) of the Software version
+number [x.(x).x].
+
+"Multi-Year Support Agreement" means a Support Agreement having a term greater
+than one (1) year.
+
+"SAS" means Cisco's current standard software application service offering which
+includes Software bug fixes and patches and maintenance Updates (Minor
+Releases). .
+
+"Single-Year Support Agreement" means a Customer Support Agreement having a term
+of at least one (1) year, but less than two (2) years.
+
+"Support Agreement" means a support contract between Cisco and a Customer for
+the provision by Cisco of support and maintenance for the Software and shall
+include contracts for the initial period of support, renewal of such support,
+and reinstatement of expired support.
+
+"Support Agreement Renewals" means Software maintenance, which is purchased by a
+Customer at least twelve (12) months after the initial Support Agreement.
+
+"Updates" means Maintenance Releases, Version Releases, and/or Major Releases
+which contain the same configuration as originally acquired.
+
+"Version Release" means an incremental release of Cisco Software that provides
+maintenance fixes and additional Software features. Version releases are
+designated by Cisco as a change in the tenths digit(s) of the Software version
+number [x.(x).x].
+
+1. SUPPORT LEVEL DEFINITIONS
+
+1.1 Level 0 Support. Level 0 Support means that Customer shall have access to
+Cisco's Global Call Center and shall have access to Cisco's Technical Assistance
+Center for verifying Software support entitlement. Level 0
+
+
+                                 Page 23 of 47
+<PAGE>
+
+Support shall be provided directly to Customer customers by Cisco.
+
+1.2 Level 1 Support. Level 1 Support includes the ability to provide general
+Software information and configuration support; collect relevant technical
+problem identification information; perform base problem determination; provide
+basic support on the standard protocols and features. Level 1 Support shall be
+provided directly to Customers by Licensor.
+
+1.3 Level 2 Support. Level 2 Support includes Level 1 Support plus the ability
+to support problem isolation and Software specification defect determination;
+provide lab simulation and interoperability testing; define an action plan;
+analyze traces; provide advanced support on all protocols and features; filter
+non-technical problems from technical problems, reproduce problems in a lab, and
+diagnose problems remotely. Level 2 Support shall be provided directly to
+Customers by Licensor.
+
+1.4 Level 3 Support. Level 3 Support includes fixing or generating workarounds
+for Software bugs and troubleshooting bugs that were not resolved during Second
+Level Support. Level 3 Support shall be provided directly to Customers by
+Licensor.
+
+2. PROBLEM PRIORITIES DEFINITIONS
+
+Problem priorities shall be classified as follows:
+
+2.1 Priority 1: Cisco's customer is experiencing problems with the Software,
+which is causing critical impact to business operations if service is not
+restored quickly. No work-around is available. If a work-around is available,
+the priority may be reduced to either a Priority 2, Priority 3 or Priority 4, as
+identified below. Cisco, Cisco's customer, and Licensor will commit full-time
+resources around the clock to resolve the situation.
+
+2.2 Priority 2: Cisco's customer is experiencing problems with the Software,
+which is impacting significant aspects of business operations. No work-around is
+available. If a work-around is available, the priority may be reduced to either
+a Priority 3 or Priority 4, as identified below. Cisco, Cisco's customer, and
+Licensor will commit full-time resources during Business Hours to resolve the
+situation.
+
+2.3 Priority 3: Cisco's customer's network performance is degraded. Network
+functionality is noticeably impaired, but most business operations continue.
+
+2.4 Priority 4: Cisco or Cisco's customer requires information or assistance on
+Software capabilities, installation, or configuration.
+
+2.5 "Business Hours" means 6:00 a.m. to 6:00 p.m., Pacific Standard Time, Monday
+through Friday, excluding Cisco-observed holidays.
+
+3. ESCALATION GUIDELINES
+
+3.1 The following table sets forth the escalation guidelines by which Licensor
+shall address customer support problems reported by Cisco and involve its
+management personnel to address such problems. Priority 1 problem escalation
+times are measured in calendar hours, twenty-four (24) hours per day, seven (7)
+days per week. Priority 2, Priority 3, and Priority 4 escalation times
+correspond with Business Hours. The Licensor manager to whom the problem is
+escalated will take ownership of the problem and ensure that updates are
+provided to the appropriate Cisco personnel. Cisco-initiated escalation's will
+begin at the Technical Support Group Leader level and proceed upward. This will
+allow those most closely associated with the support resources to correct any
+service problems quickly.
+
+3.2 It is Cisco's policy to work with its customer to establish the Priority for
+a problem and to accept the customer's determination of the Priority. Licensor
+shall accept the Priority designation agreed to by Cisco and
+
+
+                                 Page 24 of 47
+<PAGE>
+
+Customers and communicated to Licensor by Cisco. Licensor will work with Cisco
+according to the processes and procedures contained in this Exhibit F.
+
+-------------------------------------------------------------------------
+Elapsed Time  Priority 1       Priority 2     Priority 3     Priority 4
+
+-------------------------------------------------------------------------
+              Technical
+1-Hour        Support
+              Group Leader
+
+-------------------------------------------------------------------------
+              Technical        Technical
+4-Hour        Support          Support
+              Director         Group Leader
+-------------------------------------------------------------------------
+              Vice President   Technical
+24-Hour       Engineering      Support
+                               Director
+-------------------------------------------------------------------------
+48-Hour       President (CEO)  Vice
+                               President
+                               Engineering
+-------------------------------------------------------------------------
+72-Hour                                       Technical
+                                              Support
+                                              Group Leader
+-------------------------------------------------------------------------
+96-Hour                        President      Technical      Technical
+                               (CEO)          Support        Support
+                                              Director       Group
+                                                             Leader
+-------------------------------------------------------------------------
+
+        1.    Name: Linda Vargas
+              Title: Tech Support Lead
+              Phone: (301) 296-2738
+              Pager or Cell: (301) 529-9037
+              Email: lvargas@visualnetworks.com
+
+        2.    Name: Jeff Rotruck
+              Title: Director, Customer Service
+              Phone:   (301) 296-2328
+              Pager or Cell:  (240) 401-4406
+              Email: jrotruck@visualnetworks.com
+
+        3.    Name: Wayne Fuller
+              Title: EVP, Product Operations
+              Phone: (301) 296-2673
+              Pager or Cell:  (703) 629-3427
+              Email: wfuller@visualnetworks.com
+
+        4.    Name: Peter Minihane
+              Title: President & CEO
+              Phone: (301) 296-2365
+              Pager or Cell: (240) 401-4863
+              Email: pminihane.visualnetworks.com
+
+4. SUPPORT
+
+4.1 Software Support. Licensor will support any release of Software for the
+longer of: (a) the time until the general availability of the release that is
+two releases after such release; and (b) twenty-four (24) months, meaning that
+for that time period, Errors in that release will be corrected either by means
+of a patch or correction to that release. For a period of twelve (12) months
+after the initial Software Support term for a release referenced above, Software
+Support shall be offered to Cisco, if requested by Cisco, at Licensor's
+reasonable and customary time and materials
+
+
+                                                                   Page 25 of 47
+<PAGE>
+
+rates. Subject to the prior written approval of the Cisco Serviceability Design
+Engineer for the Software, which approval shall not be unreasonably withheld, a
+subsequent release may be substituted to correct an Error in any Software
+release. Software releases shall be downward compatible, so that new releases
+are compatible with pre-existing configurations and data formats. Whenever
+commercially reasonable, Licensor shall have the capability to electronically
+transfer Software updates, upgrades, and patches/fixes to Cisco.
+
+4.2 Customer Support. Cisco will provide Level 0 Support in the same manner that
+it provides such support for its other similar Software. Licensor will provide
+Level 1 Support, Level 2 Support, and Level 3 Support to a Customer by telephone
+and/or e-mail seven (7) days a week, twenty-four (24) hours per day, with a
+maximum one (1) hour telephone response time for all Priority 1 and Priority 2
+problems. In the event that diagnostics and troubleshooting are required at a
+Customer site, as reasonably determined by Cisco, Cisco and Licensor will
+provide, at their own expense, the necessary resources for problem resolution in
+accordance with each party's respective obligations hereunder. Each party shall
+be entitled to recover its actual and reasonable expenses from the other party
+or from the Customer if it is later determined that the cause of the problem is
+so attributable. Cisco shall provide Licensor feedback on any Software bugs and
+potential fixes. Licensor shall use commercially reasonable efforts to resolve
+Software bugs.
+
+4.3 Initial Call Flow Process
+
+(a) Customer contacts Cisco's Global Call Center ("GCC") via Cisco's "800"
+number or the Customer opens their own case on-line via Cisco Case Open Tool.
+The GCC shall perform Level 0 Support by verifying customer support entitlement
+and opening a case in Cisco's CARE database ("Clarify"). The case is then
+dispatched to the INSMBU-VISUAL NETWORKS CARE queue, which shall generate an
+internal case at nfm-Licensor-support@cisco.com, which shall be forwarded to
+Licensor's support email alias as provided to Cisco by Licensor Technical
+Support Group ("TSG"). INSMBU shall send a page for all P1 and P2 cases to the
+appropriate Licensor technical support pager and make reasonable efforts to send
+an email message and a message to support@visualnetworks.com and a message via
+phone to (800) 708-4784. In that respect, Licensor TSG shall provide its
+technical support schedule to Cisco and update such schedule if there are any
+changes via email. Licensor TSG shall report the time that it contacted the
+Customer, which is based on the support priority reflected in Section 4.4 below,
+and the associated Licensor case number to INSMBU within twenty-four hours after
+initial case response. Licensor TSG shall provide INSMBU with case updates on a
+weekly basis or more often if reasonably requested by Cisco. In turn, INSMBU
+will update cases in CARE on a weekly basis. While Licensor TSG is working on
+the case, INSMBU will update the case in CARE stating "This case is currently
+being supported by our third-party Licensor. The LICENSOR case reference is:
+XXXX. If you have any questions, please call 1-800-LICENSOR_TSG." Licensor TSG
+will notify INSMBU when the case is ready to be closed. INSMBU will close the
+case when resolved, with case details. A customer satisfaction survey, as
+reflected in Section 9 hereinbelow, will be sent via CARE to the Customer after
+the case is closed.
+
+(b) A troubleshooting tips document for the Software, prepared and maintained by
+Licensor TSG, will be made available to Cisco for Customer's on-line use in
+troubleshooting the problem, without Cisco's or Licensor's assistance. If the
+problem is not resolved, the case will be escalated to Licensor's TSG to perform
+Level 1, Level 2, and Level 3 Support, as appropriate. Licensor TSG may consult
+with INSMBU if necessary, but will work directly with the Customer to resolve a
+Software problem. INSMBU may occasionally call Licensor's TSG directly for case
+status.
+
+(c) When Cisco's Customer Support database is modified by Cisco to allow
+appropriate supplier access, Licensor and Cisco will work in good faith to
+develop a call flow transition plan so that all case information is updated and
+transferred to the Cisco database.
+
+4.4 Support Prioritization and Escalation Guidelines. To ensure that all
+Software problems and technical inquiries are reported in a standard format,
+Licensor will use and comply with the problem priority definitions and
+escalation guidelines herein pursuant to Section 3.2. Based on the priority of a
+Software problem, Licensor will provide to Cisco fixes or work-arounds in the
+following time frames:
+
+
+                                                                   Page 26 of 47
+<PAGE>
+
+o     Priority 1: Fix or work-around within eight (8) hours of problem report to
+      Licensor;
+
+o     Priority 2: Fix or work-around within two (2) business days of problem
+      report to Licensor;
+
+o     Priority 3: Fix or work-around within two (2) weeks of problem report to
+      Licensor;
+
+o     Priority 4: Fix or work-around within one (1) month of problem report to
+      Licensor.
+
+For Priority 3 or Priority 4 problems, if Licensor is unable to meet the time
+frames listed above, the Licensor will provide to Cisco within that time frame,
+at a minimum, a plan for addressing the problem.
+
+4.5 Support Documentation. Promptly upon Cisco's written request, Licensor will
+supply Cisco with all technical documentation and resources that Cisco
+reasonably determines to be useful or necessary to perform Customer support or
+to analyze the technical benefits and risks of introducing new releases of
+Software into the Customer base. Such support documentation will include,
+without limitation: (i) Software specifications, (ii) release notes, (iii)
+debugging/support tools, and (iv) where available, lists of all error messages
+with explanations as needed and recommended actions. Licensor will regularly
+supply Cisco with all release notes or other documentation defining the relevant
+Software information, symptoms, solutions or work-arounds for Software problems.
+Licensor will keep accurate records of Software bugs and make such reports
+available to Cisco at least quarterly. Licensor will maintain an electronic
+means (e.g., an FTP server) through which Cisco can obtain up-to-date
+information on Software bugs, fixes, and code updates. During the term of this
+Agreement, Licensor will provide such support to Cisco at no charge.
+
+5. Training.
+
+5.1 Upon Cisco's request, Licensor shall offer, at no cost to Cisco, prior to
+Licensor's first commercial shipment of any major Software release and at least
+annually thereafter, general Software training in the service and maintenance of
+Licensor's Software as mutually agreed by the parties, so that Cisco can perform
+its then-current support obligations hereunder. Cisco shall be responsible for
+all travel expenses, which Cisco may incur in connection with such training.
+Upon Licensor's request and as mutually agreed by the parties Cisco shall offer,
+at no cost to Licensor technical training on its software which is associated
+with Licensor's Software so that Licensor can perform its then-current support
+obligations hereunder. Licensor shall be responsible for all travel expenses,
+which Licensor may incur in connection with such training. The parties shall use
+commercially reasonable efforts to schedule such training concurrently to
+minimize travel costs.
+
+5.2 Upon Cisco's request, more detailed Software training shall be offered to
+Cisco at such time and place as reasonably and mutually agreed, which shall
+include, if necessary, compatibility issues and engineering debug capabilities.
+All of Licensor's reasonable expenses in connection with such additional
+training shall be pre-approved and reimbursed by Cisco, consistent with Cisco's
+standard policies. Such additional training shall be offered to Cisco at a [***]
+discount off Licensor's standard pricing for support training. Cisco shall be
+responsible for all travel expenses, which Cisco may incur in connection with
+such training.
+
+6. Global Business Reviews. Unless otherwise mutually agreed, business reviews
+will be held remotely on a quarterly basis, after the close of Cisco's fiscal
+quarter, to assess Licensor's performance against the support objectives.
+Reviews will include the resetting of support standards for subsequent periods,
+establishing and measuring the performance record of Licensor, reviewing levels
+of call escalations and resolutions, providing general business updates,
+identifying any process improvement opportunities, reviewing forecasts of
+anticipated demand for the next one-hundred and eighty (180) day period,
+reviewing any quality assurance issues, reviewing any customer satisfaction
+issues, and addressing any other issues raised with reasonable advance notice by
+either party. Each party will provide any information, which is reasonably
+requested by the other party and will work with the other party to resolve any
+issues, concerns or problems identified within a reasonable amount of time. The
+location and/or meeting method will be mutually agreed upon by the parties and
+will be attended by the respective parties' Account Representative and by such
+other personnel as are appropriate.
+
+7. Support Level Requirements:
+
+7.1 Licensor shall:
+
+***   Confidential Information has been omitted and filed separately with the
+      Securities and Exchange Commission pursuant to a confidential treatment
+      request.
+
+
+                                                                   Page 27 of 47
+<PAGE>
+
+(a) Provide all the labor, expertise, and skills necessary for the performance
+of the support services in a manner reasonably satisfactory to Cisco and Cisco's
+customers. Licensor shall provide a Technical Tips Sheet for Customer's access
+on-line, describing the top ten support problems and solutions and use Cisco's
+phone support script as provided to Licensor by Cisco . The Technical Tips Sheet
+shall be available to Cisco electronically and shall be updated by Licensor TSG
+from time to time.
+
+(b) [***]
+
+(c) Identify bugs in other Cisco Software, which is associated with the Software
+as well as the Software and communicate those bugs to Cisco's DE on a weekly
+basis.
+
+(d) Employ competent technical support and maintenance organizations, and use
+professional standards in the industry while performing services to Cisco and
+Customers hereunder.
+
+(e) Provide Software patches and bug fixes to Cisco electronically so that
+Customers can access such updates and upgrades from Cisco's software upgrade
+tool.
+
+(f) Upon Cisco's request, keep Cisco advised on the progress of the Customer
+support cases and the status of the support services.
+
+(g) Keep accurate records of support services performed, evidence of which
+Licensor shall provide to Cisco upon resolution of each customer case.
+
+(h) Upon reasonable advance notice, permit any designated representative of
+Cisco to periodically review during normal business hours Licensor's support
+center and observe the personnel who are performing support services for Cisco.
+
+(i) Establish a problem reporting and tracking mechanism of support services
+performed by Licensor, which is reasonably acceptable to Cisco.
+
+(j) Keep Cisco informed as to any problems, which involve the Software and/or
+Cisco technologies or impact Licensor's ability to deliver service or solutions
+to Cisco's customer, to communicate such problems promptly to Cisco, and to
+assist Cisco in the resolution of such problems.
+
+(k) Appoint a relationship manager whose primary responsibility will be to work
+with the designated Cisco Serviceability Design Engineer or Cisco DE to manage
+the implementation of the support model, act as the focal point for day-to-day
+support issues and problem escalations, and participate in Cisco support-related
+activities.
+
+Licensor shall not:
+
+(a) Subcontract its duties and responsibilities hereunder to any other person or
+entity, in whole or in part, without prior written notice to and approval by
+Cisco, which consent shall not be unreasonably withheld.
+
+(b) Disclose any Cisco customer support information to third parties without
+Cisco's prior written consent.
+
+(c) Assign this support exhibit or any rights hereunder, without Cisco's prior
+written consent.
+
+8. Customer Satisfaction
+
+8.1 Customer Satisfaction Survey: Cisco will survey its Customers under Software
+Support for the purpose of ensuring customer satisfaction with the Software and
+Licensor's support. For such purposes, Licensor shall provide Cisco with any
+necessary customer contact information to conduct such a survey. Cisco shall
+accumulate a monthly average of the customer satisfaction scores from these
+surveys (sample attached).
+
+8.2 Customer Satisfaction Scores: Customer satisfaction survey scores are
+defined as follows:
+
+***   Confidential Information has been omitted and filed separately with the
+      Securities and Exchange Commission pursuant to a confidential treatment
+      request.
+
+
+                                                                   Page 28 of 47
+<PAGE>
+
+"Delighted Score" means that all survey questions had a response of 5.
+
+"Dissatisfied Score" means that one or more survey questions had a response of 1
+or 2.
+
+"Satisfied Score" encompasses everything else, i.e. no 1's and 2's, but not all
+5's.
+
+8.3 Customer Satisfaction Goals and Bonus: Licensor's customer satisfaction
+goal, at a minimum, shall be to achieve a Satisfied Score. (c) During each Cisco
+fiscal quarter from the effective date of this Exhibit F and continuing through
+subsequent quarters thereafter, in the event that the customer satisfaction
+surveys average at least [***] during any Cisco fiscal quarter, Licensor shall
+receive a customer satisfaction bonus of [***] of the list price from the sale
+of an Initial Support Agreement or Support Agreement Renewal.
+
+8.4 Dissatified Score: In the event any customer satisfaction surveys contains a
+Dissatisfied Score in any Cisco fiscal quarter, Licensor shall promptly contact
+the Customer who submitted the Dissatisfied Score to gather input about such
+score and provide Cisco with a case report which contains the details for such
+score and Licensor's corrective action. At any time, if [***] or more of the
+customer satisfaction surveys contain a Dissatisfied Score in any Cisco fiscal
+quarter, Cisco shall notify Licensor and Licensor shall comply with
+subparagraphs (a) and (b) below:
+
+(a) Licensor will have five (5) business days from the date that Cisco gives
+Licensor a written notice of non-compliance to develop and present to Cisco a
+corrective action plan that will enable Licensor to meet the applicable customer
+satisfaction goals.
+
+(b) Licensor will have thirty (30) days from the date that Cisco gives Licensor
+a written notice of non-compliance to initiate the corrective action plan to
+meet the applicable customer satisfaction goals.
+
+8.5 Termination for Dissatisfaction Score: In the event that [***] or more of
+the customer satisfaction surveys contain a Dissatisfaction Score for two (2)
+consecutive Cisco fiscal quarters, at Cisco's option Cisco may (i) immediately
+terminate Licensor's support services, and (ii) invoke transition training, as
+reflected in Section 12 below. Cisco shall be invoiced for reasonable fees for
+services actually rendered by Licensor prior to termination.
+
+9. CISCO AND LICENSOR CONTACTS:
+
+Cisco Contact Information
+
+      1. For questions concerning this Exhibit:
+
+      Name:  Scott Mousley, Serviceability Design Engineer
+             (Office) phone number:  408 525-5945
+             (Pager) phone number:  800-365-4578
+      Email:  smousley@cisco.com
+
+      2. For questions concerning Software Support:
+
+      Name:  Kui Zhang, Mgr. Software Development
+             (Office) phone number: 408 526-7603
+             Email:  kzhang@cisco.com
+
+***   Confidential Information has been omitted and filed separately with the
+      Securities and Exchange Commission pursuant to a confidential treatment
+      request.
+
+
+                                                                   Page 29 of 47
+<PAGE>
+
+3. For questions concerning Entitlement:
+
+               Name: Rebecca Sanders,
+               Mgr. Joint Venture Engineering Group - INSMBU
+               (Office) phone number: 408 853 9754
+               Cell: 512 917-8720 Pager: (800) 365-4578
+               Email: resande@cisco.com
+
+               Name: Andrew Zielinski, Product  Mgr. - INSMBU
+               (Office) phone number: 408 527 4831
+               Pager: 408 322-9842
+               Email: azielins@cisco.com
+
+4. For legal notices under this Exhibit:
+
+               Cisco Systems, Inc.
+               170 West Tasman Drive
+               San Jose, CA  95134
+               Attn: VP Legal Services and General Counsel
+               Fax: (408) 526-7019
+               Phone: (408) 526-4000
+
+Licensor Contact Information
+
+       1. For questions concerning Software Support:
+
+               Name: Linda Vargas
+               Title: Tech Support Lead
+               Phone: (301) 296-2738
+               Pager or Cell: (301) 529-9037
+               Email: lvargas@visualnetworks.com
+
+       2. For questions concerning this Exhibit:
+
+               Name: Wayne Fuller
+               Title: VP, Engineering
+               Phone: (301) 296-2673
+               Pager or Cell:  (703) 629-3427
+               Email: wfuller@visualnetworks.com
+
+      3. For legal notices under this Exhibit:
+
+               Visual Networks Operations, Inc.
+               Attn: Corporate Counsel
+               2092 Gaither Road
+               Rockville, MD 20850
+               301.296.2731 - fax
+               301.296.2742 - voice
+
+
+                                                                   Page 30 of 47
+<PAGE>
+
+10. Support Compensation: In exhange for Licensor's support as reflected in this
+Exhibit, Cisco shall compensate Licensor pursuant to the terms of Section 5 of
+Exhibit A of the License Agreement.
+
+11. SUPPORT TERM AND TERMINATION.
+
+11.1 This support exhibit shall be co-terminous with the Agreement. In that
+respect, in addition to this Section, Sections 13.1, 13.3, and 13. 4 of the
+Agreement shall apply to this support exhibit.
+
+11.2 Cisco may terminate this support exhibit at any time for its convenience,
+for no reason or for any reason, with sixty (60) days' written notice to
+Licensor. In the event of such termination, Cisco shall be entitled to a
+prorated portion of any unused fees paid for support.
+
+11.3 Transition Training: Upon termination or expiration of Licensor's support
+services herein, if requested by Cisco, Licensor shall provide technical
+training to Cisco at such time and place as is reasonably requested by Cisco and
+shall include, but not be limited to, conventional engineering training and
+instruction classes in the service and maintenance of the Software as well as
+instruction on resolving compatibility issues and engineering debug
+capabilities. Such transition training shall continue until Cisco can
+efficiently perform Level 1 and Level 2 support for the Software. All of
+Licensor's reasonable expenses in connection with such transition training shall
+be pre-approved and reimbursed by Cisco, consistent with Cisco's standard
+policies. Such additional training shall be offered to Cisco at a [***] discount
+off Licensor's standard pricing for support training.
+
+          11.4 In the event of any termination or expiration of the Agreement,
+          at Cisco's request, Licensor shall make available to Cisco Level 3
+          support reflected in this Exhibit F, or other agreed support, at
+          Licensor's reasonable and customary rates for a minimum of two (2)
+          years after such termination or expiration.
+
+          11.5 The terms and conditions of this Section 11 supersede any terms
+          and conditions of the Agreement, which are inconsistent with these
+          terms and conditions.
+
+***   Confidential Information has been omitted and filed separately with the
+      Securities and Exchange Commission pursuant to a confidential treatment
+      request.
+
+
+                                                                   Page 31 of 47
+<PAGE>
+Customer Satisfaction Survey
+
+Subject: Cisco Systems Survey
+
+Recently you contacted the Cisco _To be filled in____.
+
+We appreciate the opportunity to assist you, and we hope we were responsive to
+your needs.
+
+CASE: CR-XXXXX OPENED: 00-XX-XXXX         AGENT:
+
+DESCRIPTION:
+
+On a scale of 1 to 5 (1= Unacceptable, 2 = Poor, 3 = Met your needs, 4 - Good, 5
+= Excellent) rate each of the following
+
+(PLACE YOUR ANSWERS IN THE SURVEY AFTER EACH COLON).
+
+<TABLE>
+<S>                                                                    <C>
+(Q1) Ease of Access to Help line....................................  (1-5): COMMENTS ON Q1:
+
+(Q2) Timeliness of Information......................................  (1-5): COMMENTS ON Q2:
+
+(Q3) Effectiveness of Information...................................  (1-5): COMMENTS ON Q3:
+
+
+(Q4) Software Knowledge of the Agent................................  (1-5): COMMENTS ON Q4:
+
+(Q5) Courteous Service..............................................  (1-5): COMMENTS ON Q5:
+
+(Q6) OVERALL satisfaction of customer regarding software support ...  (1-5): COMMENTS ON Q6:
+</TABLE>
+
+What could we do to better support you?
+
+---------------------------
+Thank you for letting us know how we're doing and giving us the opportunity to
+improve.
+
+Sincerely,
+
+
+                                                                   Page 32 of 47
+<PAGE>
+
+                                    EXHIBIT H
+
+                                ESCROW AGREEMENT
+
+      This Escrow Agreement ("Escrow Agreement"), is entered into as of
+________________ (the "Effective Date"), by and among Cisco Systems, Inc., a
+California corporation, with offices at 170 W. Tasman Drive, San Jose, CA 95134
+("Cisco"), Visual Networks Operations, Inc., a Delaware corporation, with
+offices at 2092 Gaither Road, Rockville, MD 20850 ("Licensor"), and "_______"
+with offices at _________ ("Escrow Agent").
+
+                                    RECITALS
+
+      WHEREAS, Cisco and Licensor have entered into that certain OEM Agreement
+dated December 3, 2002 between the parties (the "License Agreement") whereby
+Licensor has licensed to Cisco certain Software (as defined in the License
+Agreement);
+
+      WHEREAS, Licensor desires to provide assurance to Cisco that Cisco can use
+and distribute the Software as licensed under the License Agreement by providing
+Cisco with all of the materials identified in Attachment A hereto (collectively
+referred to as the "Escrow Materials"), pursuant to the release conditions set
+forth herein;
+
+      WHEREAS, Licensor desires to enter into an escrow arrangement with Cisco
+to provide for the deposit of the Escrow Materials and related documentation to
+be held by Escrow Agent pursuant to all of the terms and conditions of this
+Escrow Agreement;
+
+      WHEREAS, Escrow Agent is willing to act as escrow agent for Cisco and
+Licensor on the terms and conditions set forth herein;
+
+      WHEREAS, Cisco and Licensor desire this Escrow Agreement to be
+supplementary to the License Agreement pursuant to 11 U.S.C. Section 365(n); and
+
+      WHEREAS, all capitalized terms not defined herein shall have the meanings
+set forth in the License Agreement.
+
+                                    AGREEMENT
+
+      NOW, THEREFORE, IN CONSIDERATION OF THE MUTUAL COVENANTS, AGREEMENTS AND
+CONDITIONS SET FORTH HEREIN, THE PARTIES AGREE AS FOLLOWS:
+
+1. Appointment. Cisco and Licensor hereby appoint Escrow Agent as the escrow
+holder under this Escrow Agreement, and Escrow Agent accepts such appointment on
+the terms and conditions set forth herein.
+
+2. Deposit of Escrow Materials. Licensor shall deposit with Escrow Agent, within
+five (5) business days after execution of this Escrow Agreement one (1) complete
+copy of the Escrow Materials. Licensor further agrees to deposit one (1)
+complete copy of all Software updates, error corrections, enhancements and
+modifications (collectively, "Updates") within fifteen (15) days after Licensor
+provides such Updates to Cisco in accordance with the License Agreement. Cisco,
+after written notice to Licensor, may request that Escrow Agent inspect the
+Escrow Materials deposited by Licensor with Escrow Agent for the sole purpose of
+determining the existence and completeness of the deposited Escrow Materials;
+provided, however, that such inspection must be conducted on or at Escrow
+Agent's premises and in the presence of a Licensor representative. Licensor
+shall use its diligent efforts to make such representative available to
+facilitate any inspection requested by Cisco hereunder. Cisco shall have no
+right to be present at such inspections.
+
+
+                                                                   Page 33 of 47
+<PAGE>
+
+3. Purpose. The Escrow Materials shall constitute a reserve to be made available
+to Cisco, under the terms of this Escrow Agreement, only upon the occurrence of
+one of the events set forth herein. Cisco's use of the Escrow Materials released
+pursuant to this Agreement shall be as set forth in Section 5 below. Escrow
+Agent shall hold and dispose of the Escrow Materials only in accordance with the
+terms of this Escrow Agreement and the License Agreement.
+
+      Licensor hereby transfers title to the tangible embodiments of the Escrow
+Materials to the Escrow Agent; provided, however, that: (i) the Escrow Agent
+shall hold the Escrow Materials subject to all terms of this Escrow Agreement;
+(ii) the Escrow Agent shall not acquire any right or interest in any of the
+Intellectual Property Rights embodied in the Escrow Materials; and (iii) upon
+return to Licensor of the Escrow Materials in accordance with the terms of this
+Escrow Agreement, the Escrow Agent shall reconvey title thereto to Licensor.
+
+4. Releasing Events. The deposited Escrow Materials will be delivered to Cisco
+by Escrow Agent upon the earliest of one of the events set forth below:
+
+      (a) If Licensor discontinues its maintenance and/or support of the
+Software or if Cisco reasonably deems itself insecure with respect to Licensor's
+ability to continue to maintain and support the Software in accordance with the
+License Agreement; or
+
+      (b) If Licensor assigns, transfers or delegates its rights and obligations
+under the License Agreement to a direct competitor of Cisco without Cisco's
+prior written consent, including without limitation any transfer by sale, merger
+or other working combination of ownership of or control over more than twenty
+percent (20%) of the voting securities or control of Licensor; or
+
+      (c) If (a) a receiver is appointed for Licensor or its property; (b)
+Licensor makes a general assignment for the benefit of its creditors; (c)
+Licensor commences, or has commenced against it, proceedings under any
+bankruptcy, insolvency or debtor's relief law, which proceedings are not
+dismissed within sixty (60) days; or (d) Licensor is liquidated or dissolved.
+
+5. Use of Escrow Materials. Licensor hereby grants Cisco and its Affiliates a
+worldwide, nonexclusive, nontransferable, irrevocable right and license to use
+the Escrowed Materials in connection with Cisco's continued marketing,
+distribution and support of the Software pursuant to Section 2 of the License
+Agreement ("Escrow License Rights"), which Cisco may exercise at any time upon
+the occurrence of any of the events set forth in paragraph 4. For the avoidance
+of doubt, with respect to any distribution of the Software pursuant to this
+Section 5, Cisco shall continue to pay to Licensor the fees related thereto
+pursuant to Exhibit A of the License Agreement.
+
+6. Escrow Release. Subject to the provisions of Sections 7, 8, and 9 below,
+Escrow Agent shall be authorized to release the Escrow Materials to Cisco upon
+receiving written authorization from Cisco certifying that Cisco is entitled to
+the Escrow Materials (the "Notice") pursuant to Section 4 above. Cisco will
+include specific instructions to the Escrow Agent for this delivery.
+
+7. Counternotice. Within three (3) business days after receipt of the Notice,
+Escrow Agent shall deliver to Licensor a copy of the Notice and shall confirm
+such delivery in writing to Cisco. If Escrow Agent, within five (5) business
+days after delivery of the Notice by Escrow Agent to Licensor, does not receive
+(a) a written statement from Cisco withdrawing such notice, or (b) a
+counternotice from Licensor detailing the circumstances which it believes
+indicate that the release conditions specified by Cisco did not occur
+("Counternotice"), then Escrow Agent shall promptly deliver the Escrow Materials
+to Cisco.
+
+8. Disputed Notice. If Licensor disputes the existence of the conditions upon
+which the Notice is based, then Licensor shall, within five (5) business days
+following its receipt of Notice, submit a Counternotice to Escrow Agent. If the
+Counternotice is received by Escrow Agent before the close of business on the
+fifth (5th) business day following receipt of the Notice by Licensor, then
+Escrow Agent shall, within three (3) business days after receipt of the
+Counternotice, serve a copy of the Counternotice on Cisco and withhold delivery
+of the Escrow Materials pending receipt of (a) a decision evidencing the outcome
+of the arbitration provided for in Section 9 below, or (b)
+
+
+                                                                   Page 34 of 47
+<PAGE>
+
+other written instructions signed by both Licensor and Cisco. Upon receipt of
+said decision or other instruction, Escrow Agent shall deliver a copy of the
+Escrow Materials only in accordance with the decision or instruction.
+
+9. Arbitration.
+
+      (a) Licensor and Cisco agree that, if the Counternotice is given by
+Licensor pursuant to Section 7 above, then the parties shall submit the dispute
+to expedited binding arbitration in New York City, New York, under the
+Commercial Arbitration Rules of the American Arbitration Association (AAA) by
+one (1) arbitrator appointed in accordance with said rules. Judgment on the
+award rendered by the arbitrator may be entered in any court having jurisdiction
+thereof. The sole question before the arbitrator shall be whether there existed,
+at the time Cisco transmitted the Notice to Escrow Agent, the conditions
+permitting release of the Escrow Materials. The parties agree that the decision
+of the arbitrator shall be final and binding and that this decision shall be
+immediately delivered to the parties to the arbitration and to Escrow Agent. If
+the arbitrator finds that the Notice was properly given by Cisco, then Escrow
+Agent shall promptly and immediately release the Escrow Materials to Cisco. If
+the arbitrator finds to the contrary, then Escrow Agent shall not release the
+Escrow Materials. All fees and charges by the American Arbitration Association
+shall be paid by the nonprevailing party in the arbitration. Additionally, the
+prevailing party in any legal action brought by one party against the other and
+arising out of this Agreement will be entitled, in addition to any other rights
+and remedies it may have, to reimbursement for its expenses, including
+reasonable attorneys' fees. All costs of the arbitration incurred by Escrow
+Agent, including reasonable attorneys' fees and costs, shall be paid by the
+party which does not prevail in the arbitration, or as otherwise agreed by the
+Cisco and Licensor.
+
+      (b) Except with regard to matters involving equitable remedies, any
+dispute or claim arising out of or in connection with this Escrow Agreement will
+be finally settled by expedited binding arbitration in New York City, New York
+under the rules of the AAA as set forth in Section 9(a) above. Notwithstanding
+the foregoing, the parties may apply to any court of competent jurisdiction for
+injunctive relief without breach of this arbitration provision.
+
+10. Termination. This Escrow Agreement and the escrow established pursuant to
+this Escrow Agreement shall terminate upon (a) notice of such termination by
+Cisco, or (b) three (3) years after the termination of the License Agreement,
+and all materials comprising the Escrow Materials shall thereupon be returned to
+Licensor. Cisco shall notify Escrow Agent upon termination of this Escrow
+Agreement or the License Agreement.
+
+11. Notices.
+
+      11.1 No Liability. It is agreed that Escrow Agent will incur no liability
+for acting upon any instruction, notice, direction or other document believed by
+it in good faith to be genuine and to have been made, signed, sent or presented
+by the person or persons authorized to perform such act under the terms of this
+Escrow Agreement.
+
+      11.2 Delivery. All notices, instructions, deliveries and other
+communications required or permitted to be given hereunder or necessary or
+convenient in connection herewith shall be in writing and shall be deemed to
+have been given when personally delivered, when sent by facsimile, telex, or
+telegram, or (3) days after mailing if mailed by registered or certified mail,
+return receipt requested, as follows (provided that notice of change of address
+shall be deemed given only when received):
+
+To Escrow Agent:  To the address first set forth above, and to the attention of
+                  the person signing this Escrow Agreement on behalf of Escrow
+                  Agent.
+
+To Licensor:      To the address first set forth above, with a copy to Visual
+                  Networks Operations, Inc., Attn: Corporate Counsel, 2092
+                  Gaither Road, Rockville, MD 20850.
+
+To Cisco:         To the address first set forth above, with a copy to Cisco
+                  Systems, Inc., Attn: VP Legal Services and General Counsel,
+                  170 West Tasman Drive, San Jose, CA 95134.
+
+or to such other name or address as Escrow Agent, Licensor or Cisco, as the case
+may be, shall designate by notice to the other parties hereto in the manner
+specified in this section.
+
+
+                                                                   Page 35 of 47
+<PAGE>
+
+12. Liability of Escrow Agent. The duties and obligations of Escrow Agent shall
+be determined solely by the express provisions of this Escrow Agreement, and
+Escrow Agent shall not be liable except for the performance of such duties and
+obligations as are specifically set forth in this Escrow Agreement. In the event
+of any controversy hereunder or with respect to any questions as to the
+construction of this Escrow Agreement or any action to be taken by Escrow Agent,
+Escrow Agent may, at its expense, consult with counsel selected and employed by
+it, and Escrow Agent shall incur no liability for any action taken or suffered
+in good faith in accordance with the good faith opinion of such counsel. Escrow
+Agent shall not be responsible in any manner whatsoever for any failure or
+inability of Licensor, Cisco or anyone else to perform or comply with any of the
+provisions of this Escrow Agreement.
+
+13. Governing Law. This Escrow Agreement will be governed by the laws of the
+State of New Yorkwithout reference to conflict of laws principles.
+
+14. Entire Agreement. This Escrow Agreement and the License Agreement sets forth
+the entire understanding of the parties hereto with respect to the subject
+matter hereof and cannot be changed, modified, or terminated orally.
+
+15. Validity. No action taken by Escrow Agent in accordance with the terms and
+provisions hereof shall be deemed to constitute a representation of Escrow Agent
+as to the validity or value of any documents or instructions held by, or
+delivered to, it.
+
+16. Resignation/Replacement.
+
+      16.1 Resignation. Upon sixty (60) days' prior written notice given to
+Licensor and Cisco, Escrow Agent may resign. Within fifteen (15) days after the
+giving of such notice, Licensor and Cisco shall mutually designate a successor
+escrow agent. Such successor escrow agent shall be bound by the terms and
+provisions of this Escrow Agreement. In the event that no such agreement is
+reached within such fifteen (15) day period, Escrow Agent shall continue to hold
+the Escrow Materials then held by it until a successor can be found. Escrow
+Agent shall cooperate with its successor in order to effectuate the transfer of
+its duties to the successor escrow agent.
+
+      16.2 Replacement. Upon ninety (90) days' written notice to Escrow Agent,
+Licensor and Cisco may mutually agree to replace Escrow Agent with a successor
+and such successor shall be bound by all the terms and conditions of this Escrow
+Agreement.
+
+17. Fees and Expenses. Cisco shall pay the fees of Escrow Agent for its services
+hereunder during the term of this Escrow Agreement. Such fees shall consist of
+initiation fees, periodic escrow maintenance charges, at Escrow Agent's standard
+rates, fees charged for carrying out its duties hereunder. Escrow Agent's
+current schedule of fees for the first year of this Agreement is attached hereto
+as Attachment B. Escrow Agent shall have no obligation under this Agreement
+until the initial invoice has been paid in full.
+
+18. Indemnification. Licensor and Cisco jointly and severally agree to indemnify
+Escrow from and against any and all third party liabilities, claims, suits and
+other proceedings, all judgments and other awards against Escrow Agent in
+connection herewith, and all costs and expenses incurred in connection with the
+defense thereof, in each case which may be imposed on, or incurred by, or
+asserted against, Escrow Agent in any way relating to, or arising out of, this
+Escrow Agreement, or any action taken or omitted by Escrow Agent under this
+Escrow Agreement, provided that neither Licensor nor Cisco shall be liable for
+that portion of any such indemnification amount resulting from Escrow Agent's
+gross negligence or willful misconduct or violation by Escrow Agent of any terms
+or provisions of this Escrow Agreement.
+
+19. Limitation of Liability. Except for intentional misrepresentation, gross
+negligence or intentional misconduct, Escrow Agent shall not be liable to Cisco
+or Licensor for any act, or failure to act, by Escrow Agent in connection with
+this Agreement. Escrow Agent will not be liable for special, indirect,
+incidental or consequential damages hereunder.
+
+20. Counterparts. This Escrow Agreement may be executed in two or more
+counterparts, each of which shall be deemed an original and all of which
+together shall constitute one instrument.
+
+
+                                                                   Page 36 of 47
+<PAGE>
+
+21. Modification. No modifications to this Escrow Agreement, nor any waiver of
+any rights, shall be effective unless assented to in writing by the party to be
+charged and the waiver of any breach or default shall not constitute a waiver of
+any other right hereunder or any subsequent breach or default.
+
+      IN WITNESS WHEREOF, the parties by their duly authorized representatives
+have executed this Escrow Agreement as of the date set forth above.
+
+CISCO SYSTEMS, INC.                      VISUAL NETWORKS OPERATIONS, INC.
+
+By:                                      By:
+   ----------------------------             ------------------------------
+Name:                                    Name:
+     --------------------------               ----------------------------
+Title:                                   Title:
+      -------------------------                ---------------------------
+Date:                                    Date:
+     --------------------------               ----------------------------
+
+-------------------------------
+"Escrow Agent"
+
+By:
+   ----------------------------
+Name:
+     --------------------------
+Title:
+      -------------------------
+Date:
+     --------------------------
+
+
+                                                                   Page 37 of 47
+<PAGE>
+
+                                  ATTACHMENT A
+
+                                ESCROW MATERIALS
+
+[***]
+
+
+***   Confidential Information has been omitted and filed separately with the
+      Securities and Exchange Commission pursuant to a confidential treatment
+      request.
+
+
+                                                                   Page 38 of 47
+<PAGE>
+
+                                  ATTACHMENT B
+
+                     ESCROW AGENT'S CURRENT SCHEDULE OF FEES
+
+
+                                                                   Page 39 of 47
+<PAGE>
+
+                                    EXHIBIT I
+
+                                END USER LICENSE
+
+SOFTWARE LICENSE AGREEMENT
+
+YOU SHOULD CAREFULLY READ THE FOLLOWING TERMS AND CONDITIONS BEFORE LOADING THIS
+SOFTWARE. LOADING THIS SOFTWARE INDICATES YOUR ACCEPTANCE OF THESE TERMS AND
+CONDITIONS. IF YOU DO NOT AGREE WITH THEM, YOU SHOULD PROMPTLY RETURN THE
+SOFTWARE PACKAGE AND YOUR MONEY PAID WILL BE REFUNDED.
+
+This Software License Agreement (the "Agreement") grants you a non-exclusive
+license to use the software supplied to you by Visual Networks, Inc. ("VISUAL"),
+including the software supplied to you on disks, diskettes, on-line, and/or as
+part of the equipment supplied by VISUAL and any modifications, enhancements to
+and/or replacements of such software supplied to you by VISUAL (collectively the
+"Software") in return for payment of a license fee. This Agreement imposes
+certain restrictions on the use of the Software. VISUAL retains ownership of the
+Software and no rights are granted to you other than a license to use the
+Software on the terms expressly set forth in this Agreement.
+
+Permitted Uses
+
+You may make one (1) copy of the Software for backup purposes only. You may
+install and use one copy of Visual's server and console products. Per the
+conditions of your specific purchase agreement with Visual, you may install
+multiple copies of the client code component of Visual's product. You must
+reproduce and place all copyright/proprietary/patent notices on the backup copy,
+as indicated on the original. If the Software is an upgrade, you may now use
+that upgraded product only in accordance with this Agreement.
+
+Restricted Uses
+
+Without the express written consent of VISUAL, you may not:
+
+1. Use, copy (other than then as described above), modify, distribute, reverse
+engineer, reverse assemble, or reverse compile the Software or accompanying
+documentation except as expressly allowed in this Agreement.
+
+2. Transfer or assign your rights to use the Software except upon a transfer of
+any VISUAL equipment with which or for which it was supplied, and then only if
+VISUAL receives written agreement of the transferee to be bound by all of the
+terms of this Agreement.
+
+3. Sublicense or lease this Software or its documentation.
+
+Term
+
+This license is effective from your date of purchase and shall remain in force
+until terminated. You may terminate this license and Agreement by destroying the
+Software and its documentation, together with all copies in any form or by
+returning to VISUAL, the Software and its documentation, together with all
+copies in any form. This Agreement will also terminate if you fail to comply
+with any term of this Agreement. You agree upon any such termination to either
+(i) destroy the Software and documentation, together with all copies in any form
+or (ii) return to VISUAL the Software and its documentation, together with all
+copies in any form.
+
+Exclusion of Warranty
+
+
+                                                                   Page 40 of 47
+<PAGE>
+
+THIS SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS
+OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
+MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. THE ENTIRE RISK AS TO THE
+QUALITY AND PERFORMANCE OF THE SOFTWARE IS WITH YOU.
+
+Intellectual Property Indemnity
+
+VISUAL will defend, at its own expense, any claim, suit or proceeding brought
+against you to the extent it is based upon a claim that the Products infringe
+upon any patent, copyright or trade secret of any third party. You agree that
+you shall promptly notify VISUAL in writing of any such claim or action and give
+VISUAL full information and assistance in connection therewith. VISUAL shall
+have the sole right to control the defense of any such claim or action and the
+sole right to settle or compromise any such claim or action. If you comply with
+the provisions hereof, VISUAL will pay all damages, costs and expenses finally
+awarded by court order or final settlement to third parties against you in such
+action. VISUAL will have no liability for any claim of infringement arising as a
+result of your sale or use of a Product in combination with any items not
+supplied by VISUAL or any modification of a Product by you or third parties. THE
+FOREGOING STATES THE ENTIRE LIABILITY OF VISUAL TO YOU CONCERNING INFRINGEMENT
+OF INTELLECTUAL PROPERTY RIGHTS, INCLUDING BUT NOT LIMITED TO PATENT, COPYRIGHT
+AND TRADE SECRET RIGHTS.
+
+LIMITATION ON LIABILITY
+
+IN NO EVENT SHALL VISUAL, ITS SELLING REPRESENTATIVES, DEALERS OR DISTRIBUTORS,
+BE LIABLE FOR LOST PROFITS, DATA OR INFORMATION OF ANY KIND OR FOR
+CONSEQUENTIAL, SPECIAL, INDIRECT, INCIDENTAL, PUNITIVE OR OTHER DAMAGES THAT MAY
+ARISE THROUGH THE SALE OF, USE OF, OR INABILITY TO USE ANY VISUAL PRODUCT OR
+SERVICE, EVEN IF VISUAL HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+CUSTOMERS SOLE AND EXCLUSIVE REMEDY FOR ANY DAMAGE OR LOSS IN ANY WAY IN
+CONNECTION WITH THE PRODUCTS, INCLUDING, BUT NOT LIMITED TO, THE INSTALLATION
+AND MAINTENANCE THEREOF, SHALL BE AT VISUAL'S OPTION: (I) REPAIR OR REPLACEMENT
+OF THE RELEVANT PRODUCT, OR IN THE CASE OF INSTALLATION OR MAINTENANCE THE
+REPERFORMANCE OF THE INSTALLATION OR MAINTENANCE, RESPECTIVELY, OR (II) RETURN
+OF THE MONIES PAID BY YOU TO VISUAL FOR THE RELEVANT PRODUCT OR INSTALLATION OR
+MAINTENANCE.
+
+
+                                                                   Page 41 of 47
+<PAGE>
+
+                                    EXHIBIT J
+
+                            NON-DISCLOSURE AGREEMENT
+
+This Non-Disclosure Agreement ("Agreement") is entered into as of the date last
+written below between Cisco Systems, Inc. a California corporation having its
+principal place of business at 170 West Tasman Drive, San Jose, California
+95134-1706 and its affiliates (Cisco Systems, Inc. and its affiliates
+collectively referred to herein as "Cisco") and Visual Networks Operations,
+Inc., a Delaware corporation having its principal place of business at 2092
+Gaither Road, Rockville, Maryland 20850.
+
+In consideration of the mutual promises and covenants contained in this
+Agreement and the disclosure of confidential information to each other, the
+parties to this Agreement agree as follows:
+
+1. DEFINITION. "Confidential Information" means the terms and conditions of this
+Agreement, the existence of the discussions between the parties, the information
+described in Section 2 below, and any other information concerning the Purpose
+defined below, including but not limited to, information regarding each party's
+product plans, product designs, product costs, product prices, finances,
+marketing plans, business opportunities, personnel, research and development
+activities, know-how and pre-release products; provided that information
+disclosed by the disclosing party ("Disclosing Party") in written or other
+tangible form will be considered Confidential Information by the receiving party
+("Receiving Party") only if such information is conspicuously designated as
+"Confidential," "Proprietary" or a similar legend. Information disclosed orally
+shall only be considered Confidential Information if: (i) identified as
+confidential, proprietary or the like at the time of disclosure, and (ii)
+confirmed in writing within thirty (30) days of disclosure. Confidential
+Information disclosed to the Receiving Party by any affiliate or agent of the
+Disclosing Party is subject to this Agreement.
+
+2. DESCRIPTION. The Confidential Information to be disclosed under this
+Agreement is information related to the OEM Agreement dated December 3, 2002
+between the parties.
+
+3. PURPOSE. The Receiving Party may use the Confidential Information solely for
+the purpose of ("Purpose"):
+
+Exercising its rights and performing its obligations under the OEM Agreement
+dated December 3, 2002 between the parties.
+
+4. DISCLOSURE. The Receiving Party shall not disclose the Confidential
+Information to any third party other than employees and contractors of the
+Receiving Party who have a need to have access to and knowledge of the
+Confidential Information solely for the Purpose authorized above. The Receiving
+Party shall have entered into non-disclosure agreements with such employees and
+contractors having obligations of confidentiality as strict as those herein
+prior to disclosure to such employees and contractors to assure against
+unauthorized use or disclosure.
+
+5. EXCEPTIONS TO CONFIDENTIAL INFORMATION. The Receiving Party shall have no
+obligation with respect to information which (i) was rightfully in possession of
+or known to the Receiving Party without any obligation of confidentiality prior
+to receiving it from the Disclosing Party; (ii) is, or subsequently becomes,
+legally and publicly available without breach of this Agreement; (iii) is
+rightfully obtained by the Receiving Party from a source other than the
+Disclosing Party without any obligation of confidentiality; (iv) is developed by
+or for the Receiving Party without use of the Confidential Information and such
+independent development can be shown by documentary evidence; (v) becomes
+available to the Receiving Party by wholly lawful inspection or analysis of
+products offered for sale; and (vi) is transmitted by a party more than five (5)
+business days after receiving written notification from the other party that it
+does not desire to receive any further Confidential Information. Further, the
+Receiving Party may disclose Confidential Information pursuant to a valid order
+issued by a court or government
+
+
+                                                                   Page 42 of 47
+<PAGE>
+
+agency, provided that, to the extent possible, the Receiving Party provides the
+Disclosing Party: (a) prior written notice of such obligation; and (b) the
+opportunity to oppose such disclosure or obtain a protective order.
+
+6. RETURN OR DESTRUCTION OF CONFIDENTIAL INFORMATION. Upon written demand by the
+Disclosing Party, the Receiving Party shall: (i) cease using the Confidential
+Information, (ii) return the Confidential Information and all copies, notes or
+extracts thereof to the Disclosing Party within seven (7) days of receipt of
+demand; and (iii) upon request of the Disclosing Party, certify in writing that
+the Receiving Party has complied with the obligations set forth in this
+paragraph.
+
+7. INDEPENDENT DEVELOPMENT AND RESIDUALS. The terms of confidentiality under
+this Agreement shall not be construed to limit either party's right to develop
+independently or acquire products without use of the other party's Confidential
+Information. The Disclosing Party acknowledges that the Receiving Party may
+currently or in the future be developing information internally, or receiving
+information from other parties, that is similar to the Confidential Information.
+Accordingly, nothing in this Agreement will prohibit the Receiving Party from
+developing or having developed for it products, concepts, systems or techniques
+that are similar to or compete with the products, concepts, systems or
+techniques contemplated by or embodied in the Confidential Information provided
+that the Receiving Party does not violate any of its obligations under this
+Agreement in connection with such development. Further, subject to Section 8,
+the residuals resulting from access to or work with such Confidential
+Information shall not be subject to the confidentiality obligations contained in
+this Agreement. The term "residuals" means information in non-tangible form,
+which may be retained in the unaided memories of persons who have had access to
+the Confidential Information, including ideas, concepts, know-how or techniques
+contained therein. A person's memory is unaided if the person has not
+intentionally memorized the Confidential Information for the purpose of
+retaining and subsequently using or disclosing it. Neither party shall have any
+obligation to limit or restrict the assignment of such persons or to pay
+royalties for any work resulting from the use of residuals.
+
+8. NO LICENSES. Each party shall retain all right, title and interest to such
+party's Confidential Information. No license under any trademark, patent or
+copyright, or application for same which are now or thereafter may be obtained
+by such party is either granted or implied by the disclosure of Confidential
+Information.
+
+9. DISCLAIMER. CONFIDENTIAL INFORMATION IS PROVIDED "AS IS" WITH ALL FAULTS. IN
+NO EVENT SHALL THE DISCLOSING PARTY BE LIABLE FOR THE ACCURACY OR COMPLETENESS
+OF THE CONFIDENTIAL INFORMATION.
+
+None of the Confidential Information disclosed by the parties constitutes any
+representation, warranty, assurance, guarantee or inducement by either party to
+the other with respect to the infringement of trademarks, patents, copyrights,
+any right of privacy, or any rights of third persons.
+
+10. EXPORT. The parties acknowledge that the Confidential Information disclosed
+by each of them under this Agreement may be subject to export controls under the
+laws of the United States. Each party shall comply with such laws and agrees not
+to knowingly export, re-export or transfer Confidential Information of the other
+party without first obtaining all required United States authorizations or
+licenses.
+
+11. TERM. This Agreement shall continue from the date last written below until
+terminated by either party by giving thirty (30) days written notice to the
+other party of its intent to terminate this Agreement. Notwithstanding such
+termination, the obligations of the Receiving Party concerning confidentiality
+shall terminate five (5) years following receipt of the Confidential
+Information.
+
+12. GENERAL. Each party acknowledges that monetary remedies may be inadequate to
+protect Confidential Information and that injunctive relief may be appropriate
+to protect such Confidential Information.
+
+The Receiving Party shall not reverse-engineer, decompile, or disassemble any
+software disclosed to it under this Agreement and shall not remove, overprint or
+deface any notice of confidentiality, copyright, trademark, logo, legend or
+other notices of ownership or confidentiality from any originals or copies of
+Confidential Information it obtains from the Disclosing Party.
+
+
+                                                                   Page 43 of 47
+<PAGE>
+
+The parties hereto are independent contractors. Neither this Agreement nor any
+right granted hereunder shall be assignable or otherwise transferable.
+
+If any term of this Agreement shall be held to be illegal or unenforceable by a
+court of competent jurisdiction, the remaining terms shall remain in full force
+and effect.
+
+This Agreement may be modified only by a writing signed by both parties.
+
+This Agreement shall be construed in accordance with the laws of the State of
+New York.
+
+This Agreement represents the entire agreement of the parties hereto pertaining
+to the subject matter of this Agreement, and supersedes any and all prior oral
+discussions and/or written correspondence or agreements between the parties with
+respect thereto.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date last
+written below.
+
+CISCO SYSTEMS, INC.                 VISUAL NETWORKS OPERATIONS, INC.
+
+By __________________________       By  _____________________________
+
+Name_________________________       Name_____________________________
+
+Title _______________________       Title____________________________
+
+Date_________________________       Date ____________________________
+
+
+                                                                   Page 44 of 47
+<PAGE>
+
+                                    EXHIBIT K
+
+                        MARKETING & DEPLOYMENT GUIDELINES
+
+This Exhibit specifies marketing and deployment criteria for activities required
+to bring to market, install and maintain the products and solutions in this
+Agreement. Details per project will be stipulated in the Statements of Work.
+
+The parties agree to engage in the cooperative marketing and sales efforts set
+forth herein to promote their respective products and the products/solutions
+created through this Agreement, as mutually agreed to and when consistent with
+both parties' business interests.
+
+The following terms and conditions stipulate parties' obligations as well as the
+structure of the information to be provided in the marketing and deployment
+sections of each Statement of Work attached to this Agreement.
+
+1.    Marketing
+
+      1.1.  Obligations and Execution. The parties shall use reasonable
+            commercial efforts to conduct marketing activities defined in the
+            Product Requirements Document and deliver the Deliverables pursuant
+            to the terms and/or conditions provided therein.
+
+      1.2.  Activities. It is foreseen that the parties will engage in the
+            following such activities:
+
+            o     Laboratories - A demo lab will be available at Cisco for
+                  supporting customer visits and an internal team of sales,
+                  marketing, and TMEs who will be providing demos in the field.
+                  Visual Networks will provide any required support of such
+                  activities on site, as appropriate
+
+            o     Marketing Materials, Product Information Creation, Joint
+                  Collateral and Sales Tools - Cisco and Visual Networks will
+                  jointly develop such information and materials (as data
+                  sheets, customer success stories, web-enabled information
+                  etc.) with the intent of using uniquely the Cisco brand by the
+                  second release of WAPMS
+
+            o     Joint Sales Calls - Initially led by Visual Networks, Cisco
+                  and Visual will jointly attend sales calls and visits and
+                  support RFP responses, with the intent of training Cisco sales
+                  people on selling the WAPMS solution
+
+            o     Advertising and Media Campaigns - Cisco and Visual Networks
+                  will jointly establish and advertising and media strategy
+                  including but not limited to press releases, video/multimedia
+                  presentations, interviews, and placement of advertisements in
+                  print, online, radio, television media.
+
+            o     Customer Training, Seminars and Forums - All customer
+                  training, seminars and forums will be driven and coordinated
+                  through the Cisco INSMBU Residency Program. Cisco and Visual
+                  Networks will work together to develop content and schedule
+                  activities. Deliverables include but are not limited to: SEVT
+                  training and product demo, pre-launch presentations to Cisco's
+                  Sales team members, technical publications, solution
+                  deployment documentation, and white papers
+
+            o     Participate in Trade Shows and Conferences - Cisco and Visual
+                  Networks will establish a one-year moving schedule of trade
+                  shows and events in which they will jointly participate to
+                  market the WAPMS solution
+
+            o     Web-enabled Information Sharing, Exchanging and/or
+                  Cross-referencing - Cisco and Visual Networks will share
+                  appropriate online information and cross-reference each
+                  other's web sites as appropriate. Over time, a Cisco web area
+                  will be developed to support the majority of field information
+                  requirements
+
+
+                                                                   Page 45 of 47
+<PAGE>
+
+      1.3.  Description of Tasks and Responsibilities. Set forth in each
+            Statement of Work, the parties will undertake and provide a detailed
+            description of the tasks and responsibilities for each party
+            therefor, including a reasonably detailed target schedule for
+            marketing activities, deliverables and fulfillment of the parties'
+            responsibilities including but not limited to the activities listed
+            in Section 1.2 of this Exhibit..
+
+      1.4.  Product Requirements Information Exchange. Cisco and Visual Networks
+            agree to disclose to one another information, which may be in the
+            form of an Agent Development Kit or a Software Development Kit, a
+            Product Requirements Document, Statements of Work in the format of
+            Exhibits attached to this Agreement, email or other communication
+            that will facilitate the integration of Cisco products and Visual
+            Networks products that they mutually desire and agree to be
+            integrated. Examples of information that will be disclosed to one
+            another include:
+
+            o     Any proposed or mutually agreed interface or protocol
+                  specifications (as used herein, "Specifications" shall mean
+                  any mutually agreed written specifications relating to
+                  interoperation of Cisco product and Visual Network products.)
+
+            o     Product and/or feature requirements, specifications and
+                  roadmap
+
+            o     Application Interface specifications
+
+            o     Listings of recommended tools needed for development and
+                  testing
+
+            o     Import/Export data format
+
+            o     Test and interoperability functional specifications
+
+            o     Definition and implementation of MIBs or equivalent statistics
+
+            o     Communication protocols
+
+      1.5   Product Marketing Contacts. The following people shall be deemed as
+            primary marketing contacts with Cisco and Visual Networks
+
+              ------------------------------------------------------------------
+                                 Cisco                 Visual Networks
+              ------------------------------------------------------------------
+                           Joe Zhao               Robin Brown
+              Name
+              ------------------------------------------------------------------
+              Title        Product Manager        Director, Product Management
+              ------------------------------------------------------------------
+              Address      170 E. Tasman Drive    10169 N. Blaney Avenue
+                           San Jose, CA 95134     Cupertino, CA  95014
+              ------------------------------------------------------------------
+              Phone/Fax    (408) 525-9712         (408) 996-2002
+              ------------------------------------------------------------------
+              Email        jzhao@cisco.com        rbrown@visualnetworks.com
+              ------------------------------------------------------------------
+
+2.    Deployment
+
+      2.1   General. Upon signature of this Agreement (or shortly before, upon
+            mutual consent of the parties,) Cisco and Visual Networks agree to
+            convene a team to establish a Deployment Plan including but not
+            limited to defining a schedule by which the various deployment
+            activities and deliverables will be executed and to participate in
+            the next Cisco SEVT.
+
+                  The Deployment Plan will cover: assess the customer
+            environment; determine a standard level of preparation required
+            before going to a customer site; create an on-site checklist
+            including but not limited to such items as: loading sequence, test
+            criteria, success factors; partner qualification and training
+            guidelines; analyze and resolve any potential channel conflicts,
+            design customer training; and a back-up support plan.
+
+      2.3   Cisco Deliverables and Resources. Cisco will provide hardware
+            resources for testing and demos, lab space, testing Program
+            Management, and training program development leadership.
+
+
+                                                                   Page 46 of 47
+<PAGE>
+
+      2.4   Visual Networks Deliverables and Resources. Visual Networks will
+            provide content for the Deployment and Installation guides, subject
+            matter expertise for designing customer scenarios and support Cisco
+            in the building of a 4-day training course. Visual Networks will
+            provide personnel, as necessary, to support the teaching effort
+            during the 4-day training seminar and a TME. For the EFT, mentioned
+            below, Visual Networks will provide a support plan, user guide,
+            engineering support, and any on-site support required by the EFT
+            customer.
+
+      2.5   Initial Phases. Initially, 2 Phases of deployment shall be defined.
+            These phases are intended to provide a clear path to meeting
+            short-term time-to-market minimal requirements (in Phase 1) and to
+            provide for a more complete deployment process in (Phase 2). More
+            phases may be established through execution of these initial Phases
+            as feedback is collected and demand for deployment services is more
+            clearly defined.
+
+            2.5.1 Phase 1 deliverables shall be defined as a Deployment Guide
+                  and an Installation Guide with Cisco Branding, knowledge
+                  transfer between the parties, and an Early Field Trail (EFT)
+                  using an event gateway on the Windows 2000 platform.
+
+            2.5.2 Phase 2 deliverables will be defined as updated Deployment and
+                  Installation Guides, fully developed demos, testing plans
+                  complete, testing and demo labs in place and staffed,
+                  configuration scenarios defined for training purposes and a
+                  4-day course developed.
+
+
+                                                                   Page 47 of 47
+
+</TEXT>
+</DOCUMENT>

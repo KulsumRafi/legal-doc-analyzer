@@ -1,0 +1,333 @@
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>42
+<FILENAME>ex10-40.txt
+<DESCRIPTION>EXHIBIT 10.40
+<TEXT>
+<PAGE>
+
+Date: 11 February 2003
+
+
+Halifax Plaza Associates, L.P.
+c/o Cedar Bay Realty Advisors, Inc.
+44 South Bayles Avenue - Suite 304
+Port Washington, New York 11050
+
+
+Dear Sirs:
+
+                             Our Reference: CMD00079
+                      Re: USD Amortizing Interest Rate Swap
+
+The purpose of this document is to set forth the terms and conditions of the
+transaction entered into between Citizens Bank of Pennsylvania ("CBPA") and
+yourselves ("Counterparty") on the trade date specified below (the
+"Transaction"). This document will constitute a "Confirmation" as referred to in
+the ISDA Master Agreement specified below.
+
+The definitions and provisions contained in the 2000 ISDA Definitions,(the
+"Definitions"), as published by the International Swaps and Derivatives
+Association, Inc.("ISDA")are incorporated into this Confirmation. In the event
+of any inconsistency between the Definitions and provisions and this
+Confirmation, this Confirmation will govern.
+
+This Confirmation evidences a complete and binding agreement between
+Counterparty and CBPA as to the terms of the Transaction to which this
+Confirmation relates. In addition, Counterparty and CBPA agree to use all
+reasonable efforts promptly to negotiate, execute and deliver an agreement in
+the form of the ISDA Master Agreement (Multicurrency-Cross Border) (the "ISDA
+Form") published by the ISDA, with such modifications as Counterparty and CBPA
+shall in good faith agree (the "Agreement"). Upon the execution by Counterparty
+and CBPA of such Agreement, this Confirmation will supplement, form part of, and
+be subject to the Agreement. Until we execute and deliver that Agreement, this
+Confirmation, together with all other documents referring to the ISDA Form (each
+a "Confirmation") confirming transactions (each a "Transaction") entered into
+between us (notwithstanding anything to the contrary in a Confirmation), shall
+supplement, form part of, and be subject to an agreement in the form of the ISDA
+Form as if we had executed an agreement in such form (but without any Schedule)
+on the Trade Date of the first such Transaction between us. For purposes
+thereof, the Second Method and Loss shall apply. All provisions contained in the
+Agreement shall govern this Confirmation except as expressly modified below. In
+the event of any inconsistency between this Confirmation and either the ISDA
+Form or the Agreement, this Confirmation will govern for the purpose of this
+transaction.
+
+The terms of the particular transaction to which this confirmation relates are
+as follows:
+
+<TABLE>
+<CAPTION>
+<S>                                                   <C>
+Notional Amount                                       See Schedule A
+
+Trade Date                                            06 February 2003
+
+Effective Date                                        10 February 2003
+
+</TABLE>
+
+<PAGE>
+
+
+<TABLE>
+<CAPTION>
+<S>                                                    <C>
+Termination Date                                      06 February 2010, subject to adjustment in
+                                                      accordance with the Modified Following Business Day
+                                                      Convention.
+
+Fixed Amounts
+-------------
+
+Fixed Rate Payer                                      Halifax Plaza Associates, L.P.
+
+Fixed Rate Payer Payment Dates                        The 6th day of each month from and including
+                                                      06 March 2003 to and including the Termination Date
+                                                      subject to adjustment in accordance with the
+                                                      Modified Following Business Day Convention.
+
+Fixed Rate                                            4.33 pct
+
+Fixed Rate Day Count Fraction                         Actual / 360
+
+
+Floating Amounts
+----------------
+
+Floating Rate Payer                                   CBPA
+
+Floating Rate Payer Payment Dates                     The 6th day of each month from and including
+                                                      06 March 2003 to and including the Termination Date
+                                                      subject to adjustment in accordance with the
+                                                      Modified Following Business Day Convention.
+
+Floating Rate for initial Calculation Period          1.34 pct
+
+Floating Rate Option                                  USD-LIBOR-BBA
+
+Designated Maturity                                   1 Month
+
+Spread                                                None
+
+Floating Rate Day Count Fraction                      Actual / 360
+
+Reset Dates                                           The first day of each Calculation Period.
+
+Business Days                                         New York and London
+
+Calculation Agent                                     CBPA
+
+Payments to Counterparty:
+
+         Account Number:                              6202093157
+         Account Name:                                Halifax Plaza Associates, L.P.
+         Bank:                                        CBPA
+
+</TABLE>
+
+
+
+<PAGE>
+
+
+So long as no Event of Default or Termination Event shall have occurred and then
+be continuing with respect to [Party B], the parties hereto agree that [Party B]
+may terminate this Transaction by at least [5] Business days prior notice to
+Party A of its intention to do so, whereupon (a) the obligations of the parties
+to make any further payments under Section 2(a)(i) of the Agreement in respect
+of such Transaction shall terminate, (b) the Calculation Agent shall determine a
+Settlement Amount in accordance with the provisions of the ISDA Master Agreement
+and provide a statement with respect thereto, and (c) a termination payment
+shall be made on the Early Termination Date as if such Transaction were a
+Terminated Transaction and Party B was the Affected Party.
+
+Counterparty and CBPA represent that each party is acting for its own account
+and, that each party has made its own independent decisions to enter into this
+Transaction and as to whether this transaction is appropriate or proper for it
+based on its own judgement and upon advice from such advisors as it has deemed
+necessary. Neither party is relying upon any communication (written or oral)
+from the other party as investment advice or as a recommendation to enter into
+this Transaction. Information and explanations related to the terms and
+conditions of this Transaction shall not be considered investment advice or a
+recommendation to enter into this Transaction. No assurances or guarantees
+(written or oral) as to the expected results of this Transaction have been
+received by either party. Each party is capable of evaluating and understanding
+the terms, risks and conditions of this Transaction. Each party is capable of
+assuming, and assumes, the financial and other risks of this Transaction.
+
+Counterparty understands that the Transaction entered into under this agreement
+does not constitute a deposit and is not insured by the Federal Deposit
+Insurance Corporation, Federal Reserve Board, Office of the Comptroller of the
+Currency or any state or federal banking agency.
+
+
+All inquiries regarding payments and/or rate re-settings should be sent to:
+
+CBPA:
+Citizens Bank of Pennsylvania
+One Citizens Plaza
+Providence, RI 02903
+Attn: Treasury
+Michael Smith   Phone 401-282-7250
+                Fax   401-282-7718
+
+
+
+Counterparty:
+Halifax Plaza Associates, L.P.
+c/o Cedar Bay Realty Advisors, Inc.
+44 South Bayles Avenue - Suite 304
+Port Washington, New York 11050
+
+
+
+
+<PAGE>
+
+
+
+Please confirm that the foregoing correctly sets forth the terms of our
+agreement by executing a copy of this Confirmation enclosed for that purpose and
+returning it to us via mail at the address listed above.
+
+
+         For and on behalf of Citizens Bank of Pennsylvania
+
+
+         By:___________________________
+
+         Name:
+         Title: Authorized Signatory
+
+
+
+Halifax Plaza Associates, L.P.
+
+
+By:___________________________
+
+Name:
+Title:
+
+
+<PAGE>
+
+
+SCHEDULE A - CMD00079
+
+
+Calculation Period                                        Notional Amount (USD)
+
+   10 February 2003         to         06 March 2003          3,965,000.00
+     06 March 2003          to         06 April 2003          3,958,028.00
+     06 April 2003          to          06 May 2003           3,951,056.00
+      06 May 2003           to          06 June 2003          3,944,084.00
+     06 June 2003           to          06 July 2003          3,937,112.00
+     06 July 2003           to         06 August 2003         3,930,140.00
+    06 August 2003          to       06 September 2003        3,923,168.00
+   06 September 2003        to        06 October 2003         3,916,196.00
+    06 October 2003         to        06 November 2003        3,909,224.00
+   06 November 2003         to        06 December 2003        3,902,252.00
+   06 December 2003         to        06 January 2004         3,895,280.00
+    06 January 2004         to        06 February 2004        3,888,308.00
+   06 February 2004         to         06 March 2004          3,881,336.00
+     06 March 2004          to         06 April 2004          3,874,364.00
+     06 April 2004          to          06 May 2004           3,867,392.00
+      06 May 2004           to          06 June 2004          3,860,420.00
+     06 June 2004           to          06 July 2004          3,853,448.00
+     06 July 2004           to         06 August 2004         3,846,476.00
+    06 August 2004          to       06 September 2004        3,839,504.00
+   06 September 2004        to        06 October 2004         3,832,532.00
+    06 October 2004         to        06 November 2004        3,825,560.00
+   06 November 2004         to        06 December 2004        3,818,588.00
+   06 December 2004         to        06 January 2005         3,811,616.00
+    06 January 2005         to        06 February 2005        3,804,644.00
+   06 February 2005         to         06 March 2005          3,797,672.00
+     06 March 2005          to         06 April 2005          3,790,700.00
+     06 April 2005          to          06 May 2005           3,783,728.00
+      06 May 2005           to          06 June 2005          3,776,756.00
+     06 June 2005           to          06 July 2005          3,769,784.00
+     06 July 2005           to         06 August 2005         3,762,812.00
+    06 August 2005          to       06 September 2005        3,755,840.00
+   06 September 2005        to        06 October 2005         3,748,868.00
+    06 October 2005         to        06 November 2005        3,741,896.00
+   06 November 2005         to        06 December 2005        3,734,924.00
+   06 December 2005         to        06 January 2006         3,727,952.00
+    06 January 2006         to        06 February 2006        3,720,980.00
+   06 February 2006         to         06 March 2006          3,714,008.00
+     06 March 2006          to         06 April 2006          3,707,036.00
+     06 April 2006          to          06 May 2006           3,700,064.00
+      06 May 2006           to          06 June 2006          3,693,092.00
+
+
+<PAGE>
+
+
+SCHEDULE A - CMD00079
+
+
+Calculation Period                                       Notional Amount (USD)
+
+      06 June 2006       to      06 July 2006                3,686,120.00
+      06 July 2006       to     06 August 2006               3,679,148.00
+     06 August 2006      to    06 September 2006             3,672,176.00
+    06 September 2006    to     06 October 2006              3,665,204.00
+     06 October 2006     to    06 November 2006              3,658,232.00
+    06 November 2006     to    06 December 2006              3,651,260.00
+    06 December 2006     to     06 January 2007              3,644,288.00
+     06 January 2007     to    06 February 2007              3,637,316.00
+    06 February 2007     to      06 March 2007               3,630,344.00
+      06 March 2007      to      06 April 2007               3,623,372.00
+      06 April 2007      to       06 May 2007                3,616,400.00
+       06 May 2007       to      06 June 2007                3,609,428.00
+      06 June 2007       to      06 July 2007                3,602,456.00
+      06 July 2007       to     06 August 2007               3,595,484.00
+     06 August 2007      to    06 September 2007             3,588,512.00
+    06 September 2007    to     06 October 2007              3,581,540.00
+     06 October 2007     to    06 November 2007              3,574,568.00
+    06 November 2007     to    06 December 2007              3,567,596.00
+    06 December 2007     to     06 January 2008              3,560,624.00
+     06 January 2008     to    06 February 2008              3,553,652.00
+    06 February 2008     to      06 March 2008               3,546,680.00
+      06 March 2008      to      06 April 2008               3,539,708.00
+      06 April 2008      to       06 May 2008                3,532,736.00
+       06 May 2008       to      06 June 2008                3,525,764.00
+      06 June 2008       to      06 July 2008                3,518,792.00
+      06 July 2008       to     06 August 2008               3,511,820.00
+     06 August 2008      to    06 September 2008             3,504,848.00
+    06 September 2008    to     06 October 2008              3,497,876.00
+     06 October 2008     to    06 November 2008              3,490,904.00
+    06 November 2008     to    06 December 2008              3,483,932.00
+    06 December 2008     to     06 January 2009              3,476,960.00
+     06 January 2009     to    06 February 2009              3,469,988.00
+    06 February 2009     to      06 March 2009               3,463,016.00
+      06 March 2009      to      06 April 2009               3,456,044.00
+      06 April 2009      to       06 May 2009                3,449,072.00
+       06 May 2009       to      06 June 2009                3,442,100.00
+      06 June 2009       to      06 July 2009                3,435,128.00
+      06 July 2009       to     06 August 2009               3,428,156.00
+     06 August 2009      to    06 September 2009             3,421,184.00
+    06 September 2009    to     06 October 2009              3,414,212.00
+
+
+<PAGE>
+
+
+SCHEDULE A - CMD00079
+
+
+Calculation Period                                       Notional Amount (USD)
+
+     06 October 2009     to    06 November 2009             3,407,240.00
+    06 November 2009     to    06 December 2009             3,400,268.00
+    06 December 2009     to     06 January 2010             3,393,296.00
+     06 January 2010     to    06 February 2010             3,386,324.00
+
+
+Please be advised that all dates will be subject to adjustment in accordance
+with the Modified Following Business Day Convention.
+
+
+</TEXT>
+</DOCUMENT>

@@ -1,0 +1,1774 @@
+<DOCUMENT>
+<TYPE>EX-10.C
+<SEQUENCE>4
+<FILENAME>g80245exv10wc.txt
+<DESCRIPTION>AMENDED AND RESTATED MASTER CREDIT AGREEMENT
+<TEXT>
+<PAGE>
+
+EXHIBIT 10(c)
+
+
+                               WACHOVIA BANK, N.A.
+
+
+                           SEA PINES ASSOCIATES, INC.
+                                       AND
+                             SEA PINES COMPANY, INC.
+
+
+                              AMENDED AND RESTATED
+                             MASTER CREDIT AGREEMENT
+
+
+                                OCTOBER 31, 2002
+<PAGE>
+                                TABLE OF CONTENTS
+
+ARTICLE I.     DEFINITIONS...........................................   1
+
+ARTICLE II.    CROSS COLLATERALIZATION, CROSS DEFAULT, AND
+               JOINT AND SEVERAL LIABILITY...........................   10
+
+ARTICLE III.   THE REVOLVING LOAN FACILITY ..........................   10
+
+ARTICLE IV.    THE SEASONAL LINE OF CREDIT FACILITY .................   16
+
+ARTICLE V.     THE TERM LOAN FACILITY................................   17
+
+ARTICLE VI.    CONDITIONS PRECEDENT..................................   18
+
+ARTICLE VII.   REPRESENTATIONS AND WARRANTIES........................   19
+
+ARTICLE VIII.  BORROWER'S AFFIRMATIVE COVENANTS......................   22
+
+ARTICLE IX.    BORROWER'S NEGATIVE COVENANTS.........................   30
+
+ARTICLE X.     EVENTS OF DEFAULT.....................................   33
+
+ARTICLE XI.    REMEDIES..............................................   36
+
+ARTICLE XII.   MISCELLANEOUS PROVISIONS..............................   38
+
+SCHEDULE I     COMPLIANCE CERTIFICATE................................  S-1
+
+SCHEDULE II    ASSET RELEASE SCHEDULE................................  S-3
+
+                                       i
+<PAGE>
+      THIS AMENDED AND RESTATED MASTER CREDIT AGREEMENT (the "Agreement") is
+entered into as of October 31, 2002 by SEA PINES ASSOCIATES, INC. and SEA PINES
+COMPANY, INC., both corporations organized and existing under the laws of the
+State of South Carolina (collectively, the "Borrower") and WACHOVIA BANK, N.A.,
+a national banking association (the "Bank").
+
+      WHEREAS, the Borrower and the Bank desire to establish uniform agreements,
+obligations, covenants and other matters for all Obligations (as defined below)
+whether now existing or hereinafter arising, owed to the Bank and to
+collateralize and cross-default all said Obligations (as defined below).
+
+      WHEREAS, the Borrower and the Bank also desire to re-establish, re-state
+and modify: (1) the Borrower's term loan facility in an amount up to Fifteen
+Million Nine Hundred Thirty-Nine Thousand Seven Hundred Fifty-Eight Dollars
+($15,939,758.00) (the "Term Loan Facility"); (2) the Borrower's revolving line
+of credit facility in an amount up to Eighteen Million Three Hundred Thousand
+Dollars ($18,300,000) (the "Revolving Line of Credit Facility"); and (3) the
+Borrower's seasonal line of credit facility in an amount up to Four Million Five
+Hundred Thousand Dollars ($4,500,000) (the "Seasonal Line of Credit Facility").
+
+      NOW, THEREFORE, in consideration of these premises and the following
+promises and undertakings, the Bank and the Borrower agree as follows:
+
+                             ARTICLE I. DEFINITIONS
+
+      1.01 The following terms shall have the following meanings unless the
+context otherwise expressly requires:
+
+                                       1
+<PAGE>
+            "Adjusted LIBOR Index" for an applicable Interest Period shall mean
+a rate per annum equal to the quotient obtained by dividing (i) the applicable
+"LIBOR Index" for such Interest Period by (ii) 1.00 minus the "Eurodollar
+Reserve Percentage."
+
+            "Advance" means each advance, re-advance or loan made to the
+Borrower in accordance with this Agreement in any amount designated by the
+Borrower.
+
+            "Applicable Margin" as to each Note shall mean One and 50/100
+percent (1.50%) (150 basis points); provided, that for the Revolving Line of
+Credit Note and the Term Loan Note, the Applicable Margin shall be adjusted to
+the percentage indicated below based on the Borrower's DSC Ratio (as defined in
+Section 8.02 hereof):
+
+<TABLE>
+<CAPTION>
+                         DSC Ratio           Applicable Margin
+                         ---------           -----------------
+<S>                                          <C>
+                         < 1.50              1.65% (165 basis points)
+                         > 1.50 but <1.75    1.50% (150 basis points)
+                         > 1.75              1.40% (140 basis points)
+</TABLE>
+
+      The Applicable Margin shall be adjusted as of the first Business Day of
+each fiscal quarter based upon the quarterly compliance certificate required by
+Section 8.01(d) hereof and shall be, in the case of fiscal quarters ending
+January 31, April 30, and July 31, effective as of the first day of the next
+fiscal quarter succeeding receipt of the certificate, and in the case of fiscal
+quarters ending October 31, effective as of the first day of the fiscal second
+quarter (February 1).
+
+      Notwithstanding the foregoing, in the event the above required certificate
+is not received by the Bank within the time period required hereby, the
+Applicable Margin shall automatically be 1.50% for each of the subsequent fiscal
+quarters until such a certificate is timely received, after which the Applicable
+Margin shall be applied pursuant to the previous paragraph.
+
+                                       2
+<PAGE>
+            "Approved Project" means development and construction projects
+undertaken by the Borrower located on the Secured Properties which have been
+underwritten and approved in writing by the Bank.
+
+            "Assignment Modification" means modification to the outstanding
+Assignments granted to the Bank modified so as to cross-collateralize and secure
+the Obligations, as well as provide for cross-default with the Obligations and
+other modifications.
+
+            "Assignments" mean the Assignment of Rents, Leases and Profits, the
+Collateral Assignment of Contracts, the Assignment of Tournament Contracts and
+Agreements, the Assignment of Permits and Licenses, the Collateral Assignment of
+Rights and Easements, the Collateral Assignment of Trademarks, Trade Names,
+Intangibles and Proprietary Rights, the Security Agreement, and the Stock
+Pledge, all dated November 17, 1987, as amended by the Assignment Modification
+and other amendments and all other assignments and pledges granting security
+interests to the Bank in the Secured Personalty.
+
+            "Collateral" means the Secured Properties and the Secured Personalty
+and any and all other security or collateral now or hereafter pledged to the
+Bank to secure the Obligations.
+
+            "Default Rate" shall mean the then applicable Adjusted LIBOR Index
+plus the Applicable Margin and an additional Two (2.00%) percent (200 basis
+points).
+
+            "Documents" mean this Agreement, the Notes, the Mortgages, the
+Assignments, the ISDA Agreement, the FMA Agreement and all other documents,
+instruments, financing statements, certificates and other items deemed
+reasonably necessary to document or evidence the Advances or the Obligations,
+all of which are incorporated herein as if set forth in full.
+
+            "Eurodollar Reserve Percentage" means for any day that percentage
+(expressed as a decimal) which is in effect on such day, as prescribed by the
+Board of Governors of the Federal
+
+                                       3
+<PAGE>
+Reserve System (or any successor) for determining the maximum reserve
+requirement for a member bank of the Federal Reserve System in respect of
+"Eurocurrency liabilities" (as adjusted automatically on and as of the effective
+date of any change in the Eurodollar Reserve Percentage).
+
+            "FMA Agreement" means that certain agreement dated May 30, 1997
+entered into by and between the Bank and the Borrower relating to the automated
+investing and borrowing feature of the Seasonal Line of Credit Facility and any
+modification, amendment or replacement of said Agreement.
+
+            "Facilities" mean the Term Loan Facility, the Revolving Line of
+Credit Facility and the Seasonal Line of Credit Facility, as set forth herein.
+
+            "Facility Fees" means (i) such nonrecurring fees as may be agreed
+upon between the Borrower and the Bank from time to time, (ii) a fee of
+Twenty-Five Thousand ($25,000.00) Dollars paid annually (November 1st)
+commencing November 1, 2003 by the Borrower to the Bank for the Revolving Line
+of Credit Facility, and (iii) any additional fees charged for any extension of
+any of the Facilities; all of which fees shall be fully earned when paid and
+nonrefundable.
+
+            "Fiscal Year" means November 1 to October 31.
+
+            "GAAP" means generally accepted accounting principles set forth in
+the opinions and pronouncements of the Accounting Principles Board of the
+American Institute of Certified Public Accountants and statements and
+pronouncements of the Financial Accounting Standards Board.
+
+            "Hazardous Materials" mean and shall include, without limitation,
+any flammable explosives, radioactive materials, hazardous materials, hazardous
+wastes, hazardous or toxic substances, or related or similar materials, asbestos
+or any material containing asbestos, or any
+
+                                       4
+<PAGE>
+other hazardous substance or material as defined by any federal, state or local
+environmental law, ordinance, rule or regulation including, without limitation,
+the Comprehensive Environmental Response, Compensation, and Liability Act of
+1980, as amended, the Hazardous Materials Transportation Act, as amended, the
+Resource Conservation and Recovery Act, as amended, the South Carolina Hazardous
+Waste Management Act, the South Carolina Pollution Control Act, and in the
+regulations adopted and publications promulgated pursuant to any such laws.
+
+            "ISDA Agreement" means any agreements and related schedules and
+transactions executed by and between the Borrower and the Bank in connection
+with any interest rate derivative product; including, but not limited to, an
+interest rate swap transaction, interest rate cap transaction, interest rate
+floor transaction, interest rate collar transaction or other similar
+transaction.
+
+            "Interest Period" shall mean each successive calendar month, with
+the first Interest Period being the period from the date of the applicable Note
+until the last day of that calendar month.
+
+            "Interest Rate" means the rate of interest as to any Advance or
+Obligation as specified in each of the Notes, this Agreement or other Documents.
+
+            "LIBOR Index" shall mean for the Interest Period the rate per annum,
+at which deposits of United States dollars with maturities comparable to the
+applicable Interest Period, that appears on the display designated as page
+"3750" of the Telerate Service (or such other page as may replace page 3750 of
+that service or such other service or services as may be designated by the
+British Bankers' Association for the purpose of displaying London Interbank
+Offered Rates for U.S. dollar deposits), determined as of 11:00 a.m. (London
+time) (rounded upward to the next higher of 1/10,000 of 1%), two (2) business
+days prior to the commencement of the applicable Interest Period. If the Bank
+should at any time determine that it is not possible to
+
+                                       5
+<PAGE>
+determine the LIBOR Index or that the LIBOR Index is no longer available, then
+the applicable Note(s) shall continue to bear interest at the rate in effect
+during the last Interest Period in which the LIBOR Index was available or
+determinable until the beginning of the next Interest Period in which the LIBOR
+Index is available or determinable.
+
+            "Material Agreement" means any agreement, lease, contract or other
+instrument creating liabilities (whether actual or contingent) or revenues
+(whether actual or projected) for the Borrower in excess of $250,000.00 within
+any Fiscal Year.
+
+            "Material Adverse Effect" means an event or action which would
+impair the ability of the Borrower and its Subsidiaries on a consolidated basis
+to carry on its business substantially as now conducted or would materially and
+adversely affect the financial condition, business or operations of the Borrower
+and its Subsidiaries on a consolidated basis or has a material adverse impact on
+the intended uses or the valuation of the Collateral.
+
+            "Modification Fee" means a fee of Seventy-Five Thousand ($75,000.00)
+Dollars which shall be due and payable upon execution of this Agreement, all of
+which fee shall be fully earned when paid and nonrefundable.
+
+            "Mortgage Modifications" mean modifications to the outstanding
+Mortgages granted to the Bank modified to extend the maturity dates,
+cross-collateralize and secure the Obligations, as well as provide for
+cross-default with the Obligations and other modifications.
+
+            "Mortgages" mean the Bank's first lien mortgage, security agreement
+and fixture filing(s) as applicable encumbering the Secured Properties (as
+hereinafter defined), as modified by the Mortgage Modifications, including,
+without limitation, the following:
+
+            (i) Mortgage, Security Agreement and Financing Statement dated
+      November 17, 1987 as amended;
+
+                                       6
+<PAGE>
+            (ii) Mortgage and Security Agreement dated January 17, 1992 as
+      amended; and
+
+            (iii) Mortgage, Security Agreement and Financing Statement dated
+      October 15, 1993 as amended.
+
+            "Notes" mean all promissory notes of the Borrower or any Subsidiary,
+whether now existing or hereafter arising, evidencing the Obligations as
+appropriately completed, duly authorized and issued to the Bank, including
+without limitation the following:
+
+                  (i) $18,300,000 Second Amended and Restated Revolving Line of
+Credit Note of the Borrower dated as of October 31, 2002 (the "Revolving Line of
+Credit Note");
+
+                  (ii) $4,500,000 Second Amended and Restated Seasonal Line of
+Credit Note of the Borrower dated as of October 31, 2002 (the "Seasonal Line of
+Credit Note"); and
+
+                  (iii) $15,939,758 Second Amended and Restated Term Note of the
+Borrower dated as of October 31, 2002 (the "Term Note").
+
+            "Obligations" means the joint and several indebtedness evidenced by
+the Documents, including but not limited to the Notes, ISDA Agreement, FMA
+Agreement and any and all other indebtedness or liabilities of the Borrower or
+any Subsidiary to the Bank, now or hereafter incurred, however and whenever
+evidenced, whether direct or indirect, absolute or contingent, together with all
+interest accrued thereon.
+
+            "Permitted Encumbrances" mean any third-party lien, security
+interest, charge or encumbrance upon the Collateral created or existing with the
+express written consent of the Bank, any purchase money debt for equipment, or
+operating leases, entered into in the ordinary course of business.
+
+                                       7
+<PAGE>
+            "Project Funds" means the maximum amount of funds designated in
+writing by the Bank as available to be disbursed from the Revolving Line of
+Credit Facility for the development and construction of Approved Project(s);
+provided in no event will Project Funds exceed the amounts specified in the
+Development Cost Analysis (as defined in Section 3.05) without the prior written
+consent of the Bank or except as provided in Section 3.10.
+
+            "Project Completion" means the determination by the Bank of the
+completion of an Approved Project based upon receipt by the Bank of the
+following: (i) an affidavit from the contractor(s) that all labor and materials
+supplied in connection with the Approved Project have been (or will with such
+final disbursement be) fully paid for and that no rights exist on the part of
+any party to claim a lien against the Approved Project or any portion thereof
+and/or other evidence that arrangements satisfactory to the Bank have been made
+with respect to any such rights or potential claims or claimants; (ii) a
+certificate from the record architect that the Approved Project has been
+constructed and completed in substantial accordance with the Plans and
+Specifications; (iii) a copy of the certificate of occupancy or other document
+from appropriate governmental authority evidencing that all the improvements
+have been completed in accordance with the applicable governmental requirements;
+and (iv) a final as-built survey showing the location of the completed
+improvements.
+
+            "Revolving Line of Credit Note Maturity Date" means November 1, 2007
+or as extended pursuant to any future commitment letter or modification hereof
+executed by the Borrower and the Bank.
+
+            "Seasonal Line of Credit Note Maturity Date" means November 1, 2007
+or as extended pursuant to any future commitment letter or modification hereof
+executed by the Borrower and the Bank.
+
+                                       8
+<PAGE>
+            "Secured Personalty" means all receivables, related contracts and
+other personal property now or hereafter pledged to the Bank pursuant to the
+Assignments or other Documents.
+
+            "Secured Properties" mean the real properties, fixtures and/or
+facilities as described in the Mortgages.
+
+            "Subsidiary" or "Subsidiaries" means Sea Pines Real Estate Company,
+Inc., Fifth Golf Course Club, Inc., and any other wholly owned subsidiary,
+entity or enterprise of the Borrower, excepting, however, Sea Pines Company,
+Inc. as Borrower.
+
+            "Term Note Maturity Date" means November 1, 2008 or as extended
+pursuant to any future commitment letter or modification hereof executed by the
+Borrower and the Bank.
+
+
+               ARTICLE II. CROSS COLLATERALIZATION, CROSS DEFAULT
+                         AND JOINT AND SEVERAL LIABILITY
+
+
+      2.01 All Obligations, including specifically, without limitation, all
+Notes, are secured by the Collateral given by the Borrower or its Subsidiaries
+to the Bank.
+
+      2.02 The Collateral given by the Borrower or any Subsidiary pursuant to
+the Mortgages, the Assignments or other Documents shall secure and
+cross-collateralize all Obligations, including, without limitation, all Notes,
+owed to the Bank whether now outstanding or arising in the future.
+
+      2.03 An Event of Default or declaration of default under this Agreement or
+any of the Obligations, including specifically, without limitation, the Notes,
+after the expiration of any applicable grace period contained therein, shall
+constitute a default under all other Notes, all Documents, Mortgages or other
+instruments securing said Notes and shall entitle the Bank, at its option to
+exercise all rights and remedies thereunder.
+
+                                       9
+<PAGE>
+      2.04 An Event of Default or declaration of default under any of the Notes,
+Documents or Mortgages or other instruments after the expiration of any
+applicable grace period contained therein, securing said Notes shall constitute
+a default under this Agreement.
+
+      2.05 Each of Sea Pines Associates, Inc. and Sea Pines Company, Inc. is
+jointly and severally liable for all of the Obligations, including specifically,
+without limitation, all Notes owed to the Bank, whether now outstanding or
+arising in the future.
+
+               ARTICLE III. THE REVOLVING LINE OF CREDIT FACILITY
+
+      3.01 Subject to the terms and conditions of this Agreement, the Bank
+agrees to lend to the Borrower and the Borrower agrees to borrow from the Bank
+up to EIGHTEEN MILLION, THREE HUNDRED THOUSAND ($18,300,00.00) DOLLARS on a
+revolving line of credit basis (the "Revolving Line of Credit Facility").
+Advances under the Revolving Line of Credit Facility are to be used only as
+Project Funds for the development, construction and completion of Approved
+Projects or for the Borrower's general business purposes.
+
+      3.02 The Revolving Line of Credit Note shall bear interest from the date
+of the note at a rate per annum equal to the Adjusted LIBOR Index for the
+Interest Period plus the Applicable Margin.
+
+      3.03 So long as there exists no Event of Default (as herein defined), the
+Bank will disburse the Project Funds out of the Revolving Line of Credit
+Facility for Approved Project construction costs in proportion to progress of
+construction (less applicable retainage) and as to costs other than construction
+costs as such costs are incurred, provided the obligation of the Bank to
+disburse proceeds shall be subject to the Bank's reservation of the right to
+retain availability under this Facility of funds that the Bank deems sufficient
+to complete and pay for the Approved
+
+                                       10
+<PAGE>
+Project(s). Disbursements of Project Funds shall be limited to one (1) per month
+unless otherwise expressly permitted by the Bank, shall be made by wiring or
+depositing the same to an account of the Borrower, or at the Bank's election, by
+the issuance of one or more checks payable to the Borrower, the Borrower's
+counsel, the general contractor, subcontractors, materialmen, or any one or more
+of them.
+
+      3.04 Any material changes in the scope of an Approved Project, the
+Development Cost Analysis (as defined), the construction contract for the
+Approved Project, as approved by the Bank (the "Construction Contract") or the
+final plans and specifications for the Approved Project as approved by the Bank
+(the "Plans and Specifications") shall require the prior written approval of the
+Bank with the Bank having the right to make corresponding changes to the amount
+of designated Project Funds.
+
+      3.05 Prior to any disbursement hereunder of Project Funds and in addition
+to other requirements set forth in this Agreement, the Bank shall receive a cost
+breakdown for the planned project approved by the Bank on the Bank's form,
+certified by the Borrower to be correct to the best of the Borrower's knowledge,
+showing the costs of the Approved Project and the sources for the payment of
+such costs (the "Development Cost Analysis").
+
+      3.06 Each request for disbursement of the Project Funds for work performed
+under the Construction Contract shall be accompanied by (i) a written request of
+the Borrower stating the amount requested and (ii) an appropriate AIA Form G702,
+G702A or G703, signed by the contractor(s) for the Approved Project, the
+architect of record and the Borrower or other similar documentation satisfactory
+to the Bank and shall in all cases be limited to items and certifiable costs set
+forth in the Development Cost Analysis.
+
+                                       11
+<PAGE>
+      3.07 The Borrower will begin construction of the Approved Project in a
+timely manner and will make reasonable efforts to continually prosecute the work
+in accordance with the applicable Plans and Specifications. The work shall be
+performed in conformity with the Plans and Specifications and in compliance with
+building and zoning codes and all other applicable legal requirements and
+restrictions. The Borrower will keep the Secured Properties free from all liens
+for services, labor and materials other than Permitted Encumbrances and as
+permitted by Section 9.01 (a).
+
+      3.08 The Bank shall have the right, during construction, to inspect the
+Approved Project or to cause the construction to be inspected by an independent
+inspecting representative. Should there occur any discrepancy in quantity or
+quality of workmanship in connection with the construction of the Approved
+Project, the Bank shall be relieved of the obligation to make an Advance of
+Project Funds until such time as the discrepancy shall have been corrected to
+the satisfaction of the Bank (and any independent inspecting representative
+appointed by the Bank pursuant to this Section). The reasonable costs and
+expenses incurred in connection with the use of any independent inspecting
+representative shall be paid by the Borrower.
+
+      3.09 Prior to any disbursement of Project Funds, the Bank must have
+received, in addition to other requirements set forth in this Agreement, the
+following as to each Approved Project:
+
+            (a) Evidence satisfactory to the Bank that the Plans and
+Specifications have been approved by the Borrower and all government agencies
+having jurisdiction that require approval.
+
+            (b) Copies of the development, grading, building and any other
+governmental permits and approvals required for construction.
+
+                                       12
+<PAGE>
+            (c) Written evidence from the appropriate governmental authority
+(ies) that the Approved Project and its intended use are in compliance with all
+applicable zoning ordinances and land use laws and regulations.
+
+            (d) A certificate from the record architect (i) that the Approved
+Project if constructed and completed in substantial accordance with the Plans
+and Specifications will comply with the applicable ANSI Standard under the Fair
+Housing Act (as amended) and applicable regulations, if applicable, and/or with
+the requirements of Title III of the Americans with Disabilities Act of 1990 (as
+amended) and the implementing physical accessibility regulations promulgated
+thereunder by the Department of Justice and the Americans with Disabilities Act
+Accessibility Guidelines (ADAAG) associated therewith, if applicable; (ii) that
+all required licenses, permits and other governmental approvals for the
+construction of the Approved Project have been issued; and (iii) that the
+Approved Project, if completed in accordance with the final Plans and
+Specifications, will comply with all zoning, fire and building code, etc.
+statutes and regulations to which the Approved Project is subject.
+
+            (e) A current survey prepared, certified and sealed by a surveyor
+satisfactory to the Bank showing, among other things, the location of any
+existing or proposed improvements, any setback lines or building lines, the
+location of all easements and rights-of-way and all matters affecting title, to
+the extent such matters can be shown, and any jurisdictional wetlands area. The
+survey shall also be revised periodically during construction, as required by
+the Bank, to show footings, foundations, easements, rights-of-way, building
+setback lines and progress in construction.
+
+            (f) A collateral assignment of the Construction Contract and Plans
+and Specifications.
+
+                                       13
+<PAGE>
+            (g) An appraisal of the Approved Project satisfactory in all
+respects to the Bank.
+
+      3.10 Notwithstanding the foregoing relating to the disbursement of Project
+Funds for construction purposes, the Bank reserves the right based on the
+complexity or scope of each Approved Project to require additional matters in
+order to monitor construction of the Approved Project and/or to waive compliance
+with, or reduce the extent of, the aforesaid provisions should circumstances so
+warrant.
+
+      3.11 Upon the occurrence of an Event of Default, the Bank may, at its
+option and in lieu of resorting to any other remedy available to it and without
+the appointment of a receiver for the Approved Project or the Borrower, take
+possession of the Approved Project and all materials, tools, machinery and other
+equipment used for said project or in possession of the Borrower being used in
+connection with and in the construction of the project, and, in the name of and
+for the account of the Borrower, may complete the improvements either in
+accordance with the Plans and Specifications or in accordance with such change
+or changes in the Plans and Specifications as may be considered necessary or
+desirable by the Bank and may take such other and further action as may be
+required to achieve completion of the Approved Project. For such purposes, the
+Bank may use any funds of the Borrower at any time in the hands of the Bank by
+deposit or otherwise, including the undisbursed proceeds of the Revolving Line
+of Credit Facility. Any money advanced by the Bank for such purposes shall be
+payable by the Borrower upon demand, shall bear interest at the rate set forth
+in the Revolving Line of Credit Note, and its payment shall be secured by the
+Mortgages and other Documents. The Bank, however, shall be under no obligation
+to complete the Approved Project, and the Bank's action in this respect shall be
+wholly at its option.
+
+                                       14
+<PAGE>
+      3.12 The Revolving Line of Credit Facility and all Advances thereunder
+shall be repaid by the Borrower to the Bank in strict accordance with the terms
+and provisions as set forth in this Agreement and the Revolving Line of Credit
+Note.
+
+      3.13 Funds from the Revolving Line of Credit Facility may be borrowed,
+reborrowed, paid and repaid throughout the term at the Borrower's discretion,
+subject to and as limited herein.
+
+      3.14 In no event shall the Bank be under any obligation to make an Advance
+after the occurrence of an Event of Default or the Revolving Line of Credit Note
+Maturity Date for the occurrence of an event which with notice or the passage of
+time or both would constitute an Event of Default, and all amounts due and owing
+shall be paid on said Revolving Line of Credit Note Maturity Date.
+
+      3.15 Interest on the funds drawn by the Borrower under this Revolving Line
+of Credit Facility shall be calculated on the basis of actual days elapsed in a
+360-day year based on the Interest Rate set forth in the Revolving Line of
+Credit Note.
+
+                ARTICLE IV. THE SEASONAL LINE OF CREDIT FACILITY
+
+      4.01 Subject to the terms and conditions of this Agreement, the Bank
+agrees to lend to the Borrower and the Borrower agrees to borrow from the Bank
+up to FOUR MILLION, FIVE HUNDRED THOUSAND ($4,500,000.00) DOLLARS on a seasonal
+line of credit basis (the "Seasonal Line of Credit Facility").
+
+      4.02 The Seasonal Line of Credit Note shall bear interest from the date of
+the note at a rate per annum equal to the Adjusted LIBOR Index for the Interest
+Period plus the Applicable Margin.
+
+                                       15
+<PAGE>
+      4.03 Advances under the Seasonal Line of Credit Facility are to be used
+only for the Borrower's general working capital purposes and such cash needs as
+relate to the Borrower's operations.
+
+      4.04 The Seasonal Line of Credit Facility and all Advances thereunder
+shall be repaid by the Borrower to the Bank in strict accordance with the terms
+and provisions as set forth in this Agreement, the Seasonal Line of Credit Note
+and the FMA Account Agreement.
+
+      4.05 Funds from the Seasonal Line of Credit Facility may be borrowed,
+reborrowed, paid and repaid throughout the term at the Borrower's discretion,
+subject to and as limited herein.
+
+      4.06 In no event shall the Bank be under any obligation to make an Advance
+after the occurrence of an Event of Default or the Seasonal Line of Credit
+Maturity Date or after the Bank has given notice that the Seasonal Line of
+Credit Note will be called on a "Call Date" (as defined in the Seasonal Line of
+Credit Note) subsequent to the first day of March preceding the Call Date or the
+occurrence of an event which with notice or the passage of time or both would
+constitute an Event of Default, and all amounts due and owing shall be paid on
+said Seasonal Line of Credit Maturity Date or Call Date or as otherwise provided
+in the Seasonal Line of Credit Note.
+
+      4.07 Interest on the funds drawn by the Borrower under this Seasonal Line
+of Credit Facility shall be calculated on the basis of actual days elapsed in a
+360-day year based on the Interest Rate set forth in the Seasonal Line of Credit
+Note.
+
+                       ARTICLE V. THE TERM LOAN FACILITY
+
+      5.01 Subject to the terms and conditions of this Agreement, the Bank
+agrees to lend to the Borrower and the Borrower agrees to borrow from the Bank
+up to Fifteen Million Nine
+
+                                       16
+<PAGE>
+Hundred Thirty-Nine Thousand Seven Hundred Fifty-Eight Dollars ($15,939,758.00)
+on a term basis (the "Term Loan Facility").
+
+      5.02 The Term Note shall bear interest from the date of the note at a rate
+per annum equal to the Adjusted LIBOR Index for the applicable Interest Period
+plus the Applicable Margin.
+
+      5.03 The Borrower acknowledges that the balance of the Term Loan Facility
+is $[$15,939,758], as of the date hereof. No re-Advances or additional Advances
+will be made under the Term Loan Facility. All amounts due and owing on the Term
+Loan Facility shall be paid on the Term Note Maturity Date.
+
+      5.04 The Term Loan Facility and all Advances thereunder shall be repaid by
+the Borrower to the Bank in strict accordance with the terms and provisions as
+set forth in this Agreement and the Term Note, provided, that the Bank, in its
+sole discretion, may agree to reduce or delay certain principal payments
+required by the Term Note should Advances of Project Funds be delayed or reduced
+below projected amounts.
+
+      5.05 Interest on the funds drawn by the Borrower under this Term Loan
+Facility shall be calculated on the basis of actual days elapsed in a 360-day
+year based on the Interest Rate set forth in the Term Note.
+
+                                       17
+<PAGE>
+                        ARTICLE VI. CONDITIONS PRECEDENT
+
+      6.01 The Bank shall not be required to make any Facility available nor
+make any initial or subsequent Advance thereunder unless each of the following
+conditions have been fulfilled to the Bank's satisfaction on or before the date
+of each Advance:
+
+            (a) The Borrower shall deliver to the Bank the Documents duly
+executed and delivered in accordance with all agreed-upon terms and provisions
+including appropriate organizational documents and authorization for the
+Borrower to enter into the Documents;
+
+            (b) The Borrower shall pay all fees and costs due the Bank,
+including, without limitation, any Facility Fee, the Modification Fee, the
+Bank's attorney's fees and all other fees and costs payable pursuant to the
+Documents;
+
+            (c) Upon the Bank's request with respect to any particular aspect of
+the Borrower's financial condition, business or prospects, the Borrower shall
+provide evidence satisfactory to the Bank as to such request that there has been
+no Material Adverse Effect on the financial condition of the Borrower from that
+reflected in the annual Financial Statements for the year ended October 31,
+2001, audited by Ernst and Young, LLP nor in any subsequent Financial Statements
+submitted to the Bank;
+
+            (d) The Borrower shall remain in substantial compliance with all
+covenants contained in the Documents, excepting those covenants set forth in
+Section 8.02 herein in which specific compliance will be required, all
+representations and warranties made to the Bank in the Documents shall remain
+valid and accurate in all material respects and no Event of Default shall have
+occurred nor any event which with notice or lapse of time or both would
+constitute an Event of Default; and
+
+                                       18
+<PAGE>
+            (e) The Borrower shall deliver such other papers and documents as
+may be reasonably required in the opinion of the Bank's counsel to comply with
+the conditions of this Agreement.
+
+
+                  ARTICLE VII. REPRESENTATIONS AND WARRANTIES
+
+      7.01 To induce the Bank to enter into this Agreement, to make the Advances
+provided for herein and to extend credit evidenced by the Obligations, the
+Borrower represents and warrants to the Bank that:
+
+            (a) Each Borrower is a corporation duly organized, validly existing,
+and in good standing under the laws of the State of South Carolina; each
+Borrower has the corporate power and authority to own its properties and assets
+and to carry on its business as now being conducted and is qualified to do
+business in every jurisdiction in which, by reason of the character of its
+business, it is required to qualify as a foreign corporation and in which
+failure to be so qualified would have a Material Adverse Effect; the Borrower
+has the corporate power to borrow hereunder and execute and perform all the
+Documents, and when executed and delivered, the Documents shall be valid and
+binding obligations of each Borrower enforceable in accordance with their terms;
+
+            (b) The execution, delivery and performance of the Documents and the
+borrowings thereunder by the Borrower have been duly authorized by all
+corporation action required for the lawful creation and issuance of the
+Documents and shall not violate any provision of law, any order of any court or
+other agency of government, the charter documents or bylaws of each Borrower,
+any provision of any Material Agreement, or be in conflict with, result in a
+breach of or constitute a default under any such Material Agreement;
+
+                                       19
+<PAGE>
+            (c) The Financial Statements which the Borrower has submitted to the
+Bank to induce the Bank to extend the credit evidenced by the Notes have been
+prepared from the Borrower's books and records in accordance with GAAP, except
+that the quarterly financial statements are subject to year end audit
+adjustments, and fairly represent the financial condition of the Borrower at the
+respective dates stated therein;
+
+            (d) Except as set forth in the Financial Statements, there is no
+action, suit or proceeding at law or in equity or by or before any governmental
+instrumentality or other agency now pending, or to the knowledge of the
+Borrower, threatened by or against or affecting either Borrower or any
+properties or rights of either Borrower which, if adversely determined, would
+have a Material Adverse Effect;
+
+            (e) The Borrower has filed or caused to be filed all federal, state
+and local tax returns which are required to be filed and has paid or caused to
+be paid all taxes as shown on said returns or on any assessment received by
+them, to the extent that such taxes have become due, except where the failure to
+do so would not have a Material Adverse Effect;
+
+            (f) The Borrower is not a party to any judgment, order, decree or
+any agreement or instrument, nor is subject to any corporate restrictions having
+a Material Adverse Effect and is in substantial compliance in the performance,
+observance of fulfillment of any of the obligations, covenants or conditions
+contained in any Material Agreement;
+
+            (g) No part of any Advances under the Notes shall be used to
+purchase or carry, or to reduce or retire any loan incurred to purchase or
+carry, any margin stocks (within the meaning of Regulation U of the Board of
+Governors of the Federal Reserve System) or to extend credit to others for the
+purpose of purchasing or carrying any such margin stocks. If requested by the
+Bank, the Borrower shall furnish the Bank in connection with any loan hereunder
+a statement in
+
+                                       20
+<PAGE>
+conformance with the requirements of Federal Reserve Form U-1 referred to in
+said Regulation. In addition, no part of any Advances hereunder shall be used
+for the purchase of commodity future contracts (or margins therefor for short
+sales) for any commodity not required for the normal inventory of the Borrower;
+
+            (h) The Documents considered as a whole do not contain any material
+misrepresentation or untrue statement of fact, or omit to state a material fact
+necessary in order to make any representation or statement contained therein not
+misleading;
+
+            (i) This Agreement and the issuance and delivery of the Notes as
+contemplated hereby will not involve any prohibited transaction within the
+meaning of the Employee Retirement Income Security Act of 1974, as amended
+(hereinafter as in effect from time to time called "ERISA") or Section 4975 of
+the Internal Revenue Code, as amended. Based upon ERISA and the regulations and
+published interpretations thereunder, the Borrower and each Subsidiary is in
+compliance in all material respects with the applicable provisions of ERISA. No
+Reportable Event, as defined in Section 4043 (b) of Title IV of ERISA, has
+occurred with respect to any of the plans maintained by the Borrower or any
+Subsidiary;
+
+            (j) Except for the Borrower's use of Hazardous Materials in the
+ordinary course of its business, which uses have been and are in substantial
+compliance with all applicable laws and regulations, no properties of the
+Borrower have or are now being used by Borrower to generate, manufacture,
+refine, transport, treat, store, handle, dispose, transfer, produce, process or
+in any manner deal with Hazardous Materials;
+
+            (k) Except for uses in compliance with subparagraph (j) above, to
+the best of the Borrower's knowledge, no Hazardous Materials have ever been
+previously installed, placed, or in any manner dealt with on said properties in
+violation of applicable laws and regulations other than
+
+                                       21
+<PAGE>
+as has been disclosed in writing to the Bank pursuant to reports or documents
+previously provided to the Bank;
+
+            (l) The Mortgages and Assignments continue to constitute valid and
+perfected security interests in the property described therein, ranking prior to
+any liens, security interest, mortgages or encumbrances of others, except any
+Permitted Encumbrances and as permitted under Section 9.01(a); and
+
+            (m) The Borrower has made and will continue to make all regulatory
+filings, and has complied in all material respects with all reporting and
+disclosure requirements, as required by applicable state and federal securities
+laws.
+
+
+                 ARTICLE VIII. BORROWER'S AFFIRMATIVE COVENANTS
+
+      8.01 Until the expiration of this Agreement as hereinafter provided, the
+Borrower shall:
+
+            (a) Promptly pay to the Bank the Obligations due or to become due at
+the times and places and in the amounts and manner specified in the Notes and/or
+any other Documents, including without limitation, any Facility Fees and
+Modification Fees, promptly perform in all material respects with respect to all
+covenants contained in the Documents, and take all necessary actions for the
+representation and warranties made to the Bank in the Documents to remain valid
+and accurate in all material respects;
+
+            (b) At all times keep proper books and records of accounts for the
+Borrower and any Subsidiaries in which full, true and correct entries shall be
+made of their transactions in accordance with GAAP and permit representatives of
+the Bank to examine such books and records upon reasonable request;
+
+                                       22
+<PAGE>
+            (c) Deliver to the Bank with respect to the Borrower and the
+Subsidiaries on a consolidated basis (the "Financial Statements"):
+
+                  (i) As soon as practicable and in any event within forty-five
+(45) days after the end of each fiscal quarter: (x) income statement for the
+quarter period just ended, (y) balance sheet in reasonable detail as of the end
+of such quarter; and (z) cash flow statements. Borrower is to provide Bank with
+a copy of all Certifications of Disclosure as required by U.S. Securities and
+Exchange Commission Rules 13a-14 and 15d-14.
+
+                  (ii) As soon as practicable and in any event within one
+hundred twenty (120) days after the end of each Fiscal Year of the Borrower: (x)
+an audit report including an income statement for such Fiscal Year, (y) a
+balance sheet as of the end of such year, and (z) such other cash flow
+statements, reconciliations of net worth, and notes as are customary; all
+prepared in accordance with GAAP and bearing an auditor's unqualified opinion
+from a certified public accountant or firm of certified public accountants
+satisfactory to the Bank (who may be Ernst and Young, LLP or another certified
+public accounting firm acceptable to the Bank). Such consolidated reports and
+statements shall set forth in reasonable detail the results of operations and
+the financial condition of the Borrower. Borrower is to provide Bank with a copy
+of all Certifications of Disclosure as required by U.S. Securities and Exchange
+Commission Rules 13a-14 and 15d-14.
+
+                  (iii) As soon as practicable and in any event within ten (10)
+days after filing, copies of all reports or other documents filed by the
+Borrower with the United States Securities Exchange Commission;
+
+                  (iv) The Borrower shall also provide to the Bank on written
+request such other information as the Bank may reasonably request regarding the
+Collateral, the Borrower and any Subsidiary;
+
+                                       23
+<PAGE>
+            (d) Deliver to the Bank with each delivery of the annual and
+quarterly Financial Statements, a quarterly compliance certificate substantially
+in the form attached as Schedule I, being acceptable to the Bank, and setting
+forth in reasonable detail such information as may be necessary for the Bank to
+determine the Net Worth and DSC Ratios, as defined in Section 8.02 herein;
+
+            (e) Preserve and maintain its corporate existence in good standing;
+
+            (f) In addition to the requirements of any other Documents, maintain
+and preserve in good working order and condition, ordinary wear and tear
+excepted, the Secured Properties with respect to which failure to so maintain
+and preserve would have a Material Adverse Effect;
+
+            (g) Expend sufficient funds during each Fiscal Year as may be
+necessary to operate and maintain the Secured Properties and especially the
+recreational and resort amenities; including specifically, but not limited to,
+all golf courses, tennis courts, transportation systems, conference centers,
+racquet club facilities, pro shop facilities, and restaurants, in substantially
+the same manner and of substantially the same quality as the Secured Properties
+are operated and maintained as of the date of this Agreement (a "First Class
+Premier Resort Operation");
+
+            (h) Make all payments under, and otherwise perform in all material
+respects all of its Material Agreements;
+
+            (i) Preserve and keep in force all licenses, permits, contracts,
+management agreements, franchises, trade names, trademarks, rights, easements,
+intangibles and leases and other Secured Personalty, as more particularly
+described in the Assignments and other Documents;
+
+                                       24
+<PAGE>
+            (j) Permit any person designated by the Bank to visit and inspect
+any of the properties of the Borrower and to discuss its affairs, finances and
+accounts with its officers, all at such reasonable times, and as often, as the
+Bank may reasonably request;
+
+            (k) Execute the necessary Documents required by the Bank to evidence
+the indebtedness created under the Notes or the Obligations and to provide the
+Bank with such evidence of the accuracy of the Borrower's representations as the
+Bank shall reasonably request;
+
+            (l) Pay to the Bank, upon demand, any amount necessary to compensate
+the Bank for any cost, expense, lost benefit, reduction in rate of return, or
+reduced receivable attributable to (i) any change in taxation, reserve
+requirements, capital adequacy requirement, or any other government regulation
+applicable to the Notes or Obligations or payments to the Bank thereunder, or
+(ii) any improper prepayments in accordance with this Agreement. A certificate
+by the Bank as to any amounts payable under this subparagraph shall be
+conclusive proof of the amount owed, absent manifest error. The Borrower's
+obligations under this subparagraph shall survive the later of (i) the
+termination of this Agreement or (ii) the payment of all amounts payable
+hereunder;
+
+            (m) Furnish the Bank within five (5) business days after the
+Borrower's executive management obtains knowledge of, or should have known of,
+an Event of Default hereunder, including any failure to comply with the
+covenants herein, written notice setting forth the details thereof;
+
+            (n) Maintain appropriate and reasonable insurance as to the
+Collateral including hazard, general liability, builders risk (where
+appropriate) and business interruption insurance with such insurers and in such
+amounts and coverage as is acceptable to the Bank, which insurance shall
+
+                                       25
+<PAGE>
+name the Bank as insured, certificate holder, loss payee or mortgagee, as
+applicable, and provide the Bank with satisfactory evidence thereof;
+
+            (o) Preserve and maintain, and cause each of its Subsidiaries to
+preserve and maintain, all of its and their rights, privileges and franchises
+(including, without limitation, licenses) necessary or desirable in the normal
+conduct of its business, and conduct its business in an orderly, efficient and
+regular manner and continuously except for periodic shut-downs in the ordinary
+course of business and interruptions caused by strike, labor dispute, lack of
+materials or labor, catastrophe, or other events over which it has no control.
+Nothing herein contained shall prevent the termination of the business or
+corporate existence of any such Subsidiary which in the judgment of the Borrower
+is no longer necessary or desirable, the temporary suspension of the normal
+conduct of a portion of the Borrower's business in accordance with the Plans and
+Specifications for an Approved Project, or the temporary closing of either the
+Harbour Town or Sea Marsh golf course for no more than a ten (10) month period
+each, in connection with major renovations to said golf courses.
+
+            (p) Use its best efforts to ensure preservation of a gate entry
+policy for Sea Pines Plantation, preservation of ingress and egress over the
+roads of Sea Pines Plantation to the Secured Properties and preservation of all
+easements for parking and access to and over open space and common areas in Sea
+Pines Plantation in a manner which is reasonably intended to promote the use of
+recreational and resort facilities, (including, but not limited to, the golf
+courses, tennis courts and beach access facilities) included in the Secured
+Properties by tourists, guests, licensees, and invitees of the Borrower,
+encourage the maintenance of a First Class Premiere Resort Operation, enhance
+Borrower's ability to produce optimum annual net revenue from said Secured
+Properties and/or the Secured Personalty, and enhance Borrower's ability to
+
+                                       26
+<PAGE>
+produce optimal annual real estate sales commission revenue from its real estate
+sales brokerage Subsidiaries;
+
+            (q) Until such time as the Obligations are fully paid and satisfied,
+Borrower shall keep and maintain with the Bank its primary banking accounts
+(investment, disbursement, operating, etc.) of the Borrower and its
+Subsidiaries; including, but not limited to, working capital accounts, real
+estate brokerage accounts, investment accounts, operating accounts, property
+management accounts, securities escrow accounts and corporate accounts;
+
+            (r) In the event Borrower or any Subsidiary utilizes Advances under
+the Revolving Line of Credit Facility to acquire additional assets, either real
+or personal, or develops new facilities, the Borrower agrees to cause such
+additional security instruments, mortgages and assignments to be executed as the
+Bank may from time to time request and the Borrower agrees said assets shall be
+deemed additional Secured Properties and shall become subject to the Bank's
+mortgage or security interest, all as more particularly set forth in the
+Mortgages;
+
+            (s) At all times until and through November 1, 2007, Borrower agrees
+to maintain its existing interest rate hedge position, unless the Bank approves
+modifications or substitute position(s) in writing, in an amount no less than
+fifty percent (50%) of the aggregate commitment under the Term Facility and the
+Revolving Line of Credit Facility (said hedge amount currently minimum of
+$17,119,879); and
+
+            (t) Upon the Bank's request, the Borrower shall reimburse the Bank
+for the cost of appraisals by duly certified appraisers acceptable to Bank for
+any or all of the Secured Properties or other Collateral, as may be required of
+the Bank by statutes or other regulatory directives.
+
+                                       27
+<PAGE>
+      8.02 For the term of this Agreement:
+
+            (a) (i)The Borrower shall not allow the amount of its Total
+Liabilities at the end of each fiscal year (October 31) to exceed Three Hundred
+Percent (300%) of the amount of its Tangible Net Worth, as defined below (the
+"Net Worth Ratio"); The Borrower shall provide, upon request of the Bank, such
+information, in addition to other information required hereby, as may be
+necessary to verify compliance therewith on any fiscal year end, commencing with
+the fiscal year ending October 31,2003. "Tangible Net Worth" means the remainder
+after subtracting Total Liabilities from the book value of total tangible assets
+(total assets less goodwill and other intangible assets) based upon GAAP. "Total
+Liabilities" means the book value of total liabilities based upon GAAP plus the
+amount of indebtedness for which the Borrower is liable on a contingent or
+conditional basis, including guarantees.
+
+            (b) The Borrower shall maintain a debt service coverage ratio ("DSC
+Ratio") of at least 1.25 to be measured as of the end of each fiscal quarter on
+a rolling four-quarter basis. The DSC ratio will be calculated as the quotient
+of Cash Flow divided by Debt Service with "Cash Flow" equaling the sum of net
+income, depreciation and amortization and "Debt Service" equaling the sum of
+current maturities of long term debt, current portion of capital leases and
+dividends paid, all based upon GAAP; and
+
+            (c) In the event the Borrower fails to meet either the Net Worth or
+DSC Ratios and such failure is not waived by the Bank, the Borrower shall have
+thirty (30) days from the date when the Borrower's executive management knew or
+should have known of such a failure in which to cure any such failure. During
+such cure period, the Bank shall have no obligation to make any Advance
+hereunder to the Borrower. Upon the Borrower's cure of any such default, the
+Borrower shall provide the Bank with satisfactory written evidence thereof prior
+to the end of the cure period.
+
+                                       28
+<PAGE>
+Failure to cure any such default within the time period described herein shall
+constitute an Event of Default under of this Agreement; provided, however, that
+there shall be no requirement that the Bank give written notice of such default
+and there shall be no additional thirty (30) day cure period pursuant to this
+Agreement.
+
+      8.03 The Borrower shall protect, defend, indemnify and save harmless the
+Bank and its employees, officers and agents from and against all liabilities,
+obligations, claims, damages, penalties, causes of action, costs and expenses
+(including attorneys' fees and expenses) imposed upon or incurred by the Bank or
+its employees, officers or agents by reason of (a) any claim for brokerage fees
+or other such commissions relating to the Collateral, the Notes or the
+Obligations, or (b) the condition of the Collateral, including, without
+limitation, any Hazardous Materials which are currently on or affecting the
+Secured Properties (including Secured Properties owned by any Subsidiary), which
+come on, from or affect such Secured Properties or which are hereafter placed
+upon or under such Secured Properties, or (c) failure to pay recording,
+mortgage, intangibles or similar taxes, roll back taxes, fees or charges
+relating to the Obligations or any one or more of the Documents, or (d) the
+Documents or any claim or demand whatsoever which may be asserted against the
+Bank or its employees, officers or agents by reason of any alleged action,
+obligation or undertaking of the Bank or its employees, officers or agents
+relating in any way to the Obligations or matter contemplated by the Documents,
+or (e) any and all liability arising from any of the Collateral or any
+negligence (other than the Bank's gross negligence or wilful misconduct) in the
+management, operation, upkeep, repair or control of the Collateral resulting in
+loss or injury or death to any tenant, occupant, licensee, employee or stranger.
+In the event the Bank or its employees, officers or agents incurs any liability,
+loss or damage arising out of or in any way relating to the transactions
+contemplated by the Documents (including any of the matters referred to
+
+                                       29
+<PAGE>
+in this section but not the gross negligence or wilful misconduct of the Bank or
+its employees, officers or agents), the amounts of such liability, loss or
+damage shall be added to the Obligations, shall bear interest at the Interest
+Rate specified in the appropriate Note from the date incurred until paid and
+shall be payable on demand.
+
+
+                   ARTICLE IX. BORROWER'S NEGATIVE COVENANTS
+
+      9.01 Until payment in full of all of the Obligations, the Borrower agrees
+that, unless expressly permitted by this Agreement or the Bank shall have
+otherwise consented in writing:
+
+            (a) Other than Permitted Encumbrances, the Borrower will not create,
+incur, assume, or suffer to exist any mortgages, liens or security interests of
+any kind representing aggregate claims in excess of $100,000 upon any of the
+Collateral, whether now owned or hereafter acquired, except: (i) liens in
+connection with workers' compensation or any statutory employment provision,
+unemployment insurance, or other social security obligations; (ii) deposits or
+pledges to secure the performance of bids, tenders, contracts (other than
+contracts for the payment of moneys), statutory obligations, surety and appeal
+bonds, and other obligations of like nature arising in the ordinary course of
+business; (iii) liens for taxes which are not delinquent or are being contested
+in good faith; or (iv) mechanics', workmen's, materialmen's, and other like
+liens arising in the ordinary course of business in respect of obligations which
+are not overdue or which are being contested in good faith; provided, however
+that said liens described by items (i) - (iv) above shall be allowed only if
+they do not have a Material Adverse Effect;
+
+            (b) Neither Borrower nor any Subsidiary will enter into any merger
+or consolidation (except with the Borrower or any Subsidiary), or issue or sell
+any shares of any Subsidiary;
+
+                                       30
+<PAGE>
+            (c) The Borrower shall not sell or lease, or otherwise dispose of
+any of the Collateral other than pursuant to the provisions of the Asset Release
+Schedule attached hereto as Schedule II, which Schedule is incorporated as if
+repeated fully herein, or sell all or substantially all of its assets, whether
+through sale of stock in a subsidiary or otherwise, or change its corporate
+name. Nothing herein contained shall prevent a public or private offering of
+common stock by Sea Pines Associates, Inc.
+
+            (d) The Borrower will not consent to, acknowledge or otherwise
+permit any encumbrance on any of the capital stock of any Subsidiary, except
+such lien(s) as may be granted to the Bank;
+
+            (e) Except as required by pronouncements of the Financial Accounting
+Standards Board, the Borrower will not change, in any material fashion, any
+accounting method used in preparation of its financial statements or change its
+Fiscal Year;
+
+            (f) Except as otherwise permitted hereunder, the Borrower shall not
+invest cash of more than $250,000 representing its working capital in any
+investments other than marketable securities rated "A" or higher by Standard &
+Poor's or Moody's and other investments made by the Borrower in the ordinary
+course of business;
+
+            (g) The Borrower shall not enter into or invest in any corporate
+joint ventures, partnerships or other similar entities involving less than 100%
+ownership by the Borrower which involve an aggregate investment of more than One
+Million ($1,000,000) Dollars, except as may be permitted by written approval of
+the Bank;
+
+            (h) The Borrower shall not, and shall not permit any Subsidiary to,
+engage in any business activity or operation until the Obligations are fully
+paid and satisfied other than the operation, maintenance and orderly expansion
+of resort service and community activities
+
+                                       31
+<PAGE>
+(including food and beverage facilities), operation of lodging facilities and
+operation of sports facilities, real estate and business brokerage activities,
+real estate securities brokerage activities, and the provision of various
+community services to Hilton Head Island property owners;
+
+            (i) Borrower and its Subsidiaries shall not take or consent to any
+actions to further restrict rights of access, ingress or egress over the roads
+of Sea Pines Plantation or limit parking rights, or modify gate entry policies
+as currently provided under applicable easements, covenants and operating
+policies in such a way as to materially diminish, impair, or inhibit the use by
+tourists, guests, licensees and invitees of Borrower of the recreational or
+resort facilities, (including, but not limited to, the golf courses, tennis
+courts, and beach access facilities) included in the Secured Properties or
+otherwise adversely or materially reduce Borrower's ability to produce optimal
+annual net revenue from the said recreational or resort facilities and/or
+materially reduce Borrower's ability to produce optimal real estate commission
+revenue from the Borrower's real estate sales brokerage Subsidiary;
+
+            (j) Borrower shall not take or consent to any actions to further
+restrict or diminish access to and/or use of the recreational or resort
+facilities included in the Secured Properties by tourists, guests, licensees,
+and invitees of Borrower or in any way attempt to create private clubs with such
+facilities or impose special use rights, not currently existing, available only
+to Sea Pines Plantation Property Owners or other selected classes of membership
+which would materially reduce Borrower's ability to produce optimal annual net
+revenue from said facilities or otherwise encumber the Secured Property with use
+limitations not currently existing;
+
+            (k) To the extent that such action or omission would have a Material
+Adverse Effect, Borrower will not, without the prior written consent of Bank,
+(i) initiate or support any zoning reclassification of the Secured Properties,
+seek any variance under existing zoning
+
+                                       32
+<PAGE>
+ordinances applicable to the Secured Properties, or modify or agree to the
+modification of any recorded covenants or the Master Plan of Sea Pines
+Plantation, or use or permit the use of the Secured Properties in a manner which
+would result in such use becoming a non-conforming use under applicable zoning
+ordinances, covenants and/or the Master Plan or otherwise change the existing
+classification of the Secured Properties or further restrict the Secured
+Properties, (ii) modify or amend any of the Permitted Encumbrances, (iii) impose
+any restrictive covenants or encumbrances upon the Secured Properties, (iv)
+execute or file any subdivision plat affecting the Secured Properties or consent
+to the annexation of the Secured Properties to any municipality, or (v) permit
+or suffer the Secured Properties to be used by the public or any person in such
+manner as might make possible a claim of adverse usage or possession or of any
+implied dedication or easement; and
+
+            (l) The Borrower shall not declare or pay any dividend or return of
+capital if it is aware of an Event of Default under this Agreement or any event
+which, with notice or passage of time or both, would become such an Event of
+Default or default.
+
+
+                          ARTICLE X. EVENTS OF DEFAULT
+
+      10.01 Upon the occurrence of any of the following events ("Events of
+Default"), the Borrower shall be in default under this Agreement:
+
+            (a) Failure to pay any of the Obligations when due, including,
+without limitation, scheduled payments of principal or interest or upon any
+original, accelerated, renewed or extended maturity, within fifteen (15) days
+after written notice thereof;
+
+            (b) If the Borrower shall breach or fail to comply with any other
+covenant, term or condition of, or any other of its obligations under this
+Agreement, including, without limitation,
+
+                                       33
+<PAGE>
+the obligation for all representations and warranties to remain continually
+valid and accurate, and the same is not cured by the Borrower within thirty (30)
+days after written notice from the Bank;
+
+            (c) Upon the occurrence of a default under any of the Documents
+other than this Agreement, including, without limitation, the Notes, the
+Mortgages or the Assignments, all of which are cumulative to this Agreement and
+to each other, whether specifically set forth above or not, and such default is
+not cured within the cure time, if any, provided therein;
+
+            (d) If the Borrower or any Subsidiary (i) files a petition under the
+Federal Bankruptcy Code or initiates any other proceeding for the relief of
+insolvent debtors; (ii) generally fails to pay its debts as such debts become
+due; (iii) shall seek or consent to the appointment of a custodian or receiver
+for all or a substantial portion of its assets; (iv) benefits from or is subject
+to the entry of an order for relief by any court of insolvency; (v) makes an
+admission of insolvency seeking the relief provided in the Federal Bankruptcy
+Code or any other insolvency law;
+
+            (e) If the Borrower or any Subsidiary defaults in the payment of the
+principal of, premium, if any, or interest with respect to any indebtedness for
+or guaranty of borrowed money to any other person or entity, or commits or
+permits to exist any default or event of default under any Material Agreement
+for or guaranty of borrowed money to any person or entity not remedied within
+any applicable cure period, whether or not such indebtedness shall have been
+accelerated;
+
+            (f) Failure of the Borrower or any Subsidiary within sixty (60) days
+after the commencement of any proceeding against it seeking any reorganization,
+arrangement, liquidation, dissolution or similar relief under present or future
+law, to have such proceeding dismissed or stayed, to the extent such proceeding
+affects the operations of the Borrower;
+
+                                       34
+<PAGE>
+            (g) If any warranty, representation or statement made or furnished
+to the Bank by or on behalf of the Borrower in connection with the Obligations
+and/or covenants contained in the Documents, be or proves to have been
+materially false or misleading when made or furnished;
+
+            (h) If an order, judgment or decree shall be entered by any court
+appointing a receiver of the property of the Borrower (unless said appointment
+shall have been sought by the Bank or its assigns to enforce any of the
+Documents or other agreement made or executed in connection herewith), and such
+order, judgment or decree be not appealed from within the time allowed by law,
+or if appealed, if such order, judgment or decree shall have been affirmed;
+
+            (i) Subject to the provisions of the Mortgages, if the Secured
+Properties described in the Mortgages, or any part or parcel thereof, be
+condemned under power of eminent domain by any legally constituted authority and
+such condemnation, in the reasonable opinion of the Bank, has a Material Adverse
+Effect;
+
+            (j) In the event a final judgment or judgments is/are filed or
+rendered against the Borrower in excess of $100,000.00 in the aggregate, and (i)
+such judgments have not been appealed from within the time provided by law, or
+if appealed, such judgments shall have been affirmed, and (ii) such judgments
+have not been paid or bonded off by the Borrower within ninety (90) days after
+they become final and no longer appealable;
+
+            (k) Any actual or threatened demolition or injury or waste to the
+Collateral for the Obligations which has a Material Adverse Effect; or
+
+            (l) If the Bank deems itself insecure of the prospect of payment or
+performance impaired for any reason whatsoever, including but not limited to,
+dissolution, termination of existence, insolvency, business failure, appointment
+of a receiver of any part of the property of, assignment for the benefit of
+creditors by, or the commencement of any proceeding under any
+
+                                       35
+<PAGE>
+bankruptcy or insolvency laws by or against, the Borrower, or entry of any
+judgment against any of them, or failure of the Borrower to provide the Bank
+with financial information promptly when requested.
+
+      10.02 No Event of Default shall be waived by the Bank except in writing
+and no waiver of any Event of Default shall operate as a waiver of any other
+Event of Default or of the same Event of Default on future occasions.
+
+
+                              ARTICLE XI. REMEDIES
+
+      11.01 Upon the occurrence of any Event of Default, and at any time
+thereafter, the Bank shall have the following rights and remedies:
+
+            (a) The Bank shall be under no obligation to make any further
+Advances hereunder and may terminate the Facilities;
+
+            (b) The Bank may, at its option, without presentment, demand, notice
+of dishonor, or protest, declare one or more or all of the Obligations and all
+amounts advanced hereunder immediately due and payable in full;
+
+            (c) The Bank shall have the right from time to time to sue for all
+or any part of the Obligations, whether interest, principal or any installment
+of either or both, taxes, fees, penalties or any other sums required to be paid
+under the terms of the Documents, without regard to whether all of the
+Obligations shall be then due and without prejudice to the right of the Bank
+thereafter to enforce any appropriate remedy against the Borrower, including
+actions for a default or defaults by the Borrower existing at the time such
+earlier action was commenced; or
+
+                                       36
+<PAGE>
+            (d) The Bank may, at its option, pursue any and all rights and
+remedies under the Notes, and/or the Mortgages or other Documents as to any or
+all of the Collateral, including but not limited to any or all of the Secured
+Properties or the Secured Personalty.
+
+      11.02 The rights of the Bank, granted and arising under the Documents
+shall be separate, distinct and cumulative of other rights and powers herein
+granted and all other rights which the Bank may have at law or in equity, and
+none of them shall be in exclusion of the others; and all of them are cumulative
+to the remedies for collection of the security provided by law. Any foreclosure
+or other sale of less than all of the Collateral or any defective or irregular
+sale made in connection herewith shall not exhaust the power of foreclosure or
+of sale provided for in the Documents; and subsequent sales may be made until
+all of the Obligations have been satisfied or all of the Collateral has been
+sold. No act of the Bank shall be construed as an election to proceed under any
+one provision of any of the Documents to the exclusion of any other provision or
+an election of remedies to the bar of any other remedy allowed at law or in
+equity, anything herein or otherwise to the contrary notwithstanding.
+
+      11.03 The Borrower hereby waives, in the event of the foreclosure of as to
+any of the Collateral or the enforcement by the Bank of any rights and remedies
+hereunder, any right otherwise available in respect to marshalling of assets
+which secure the Obligations or to require the Bank to pursue or delay the
+pursuit of its remedies against any such assets. Further, the Borrower agrees
+that neither the Borrower nor anyone claiming through or under the Borrower
+shall or will set up, claim or seek an advantage of any exemption (including
+homestead exemptions), stay, extension or redemption laws now or hereafter in
+force, in order to prevent or hinder the enforcement or foreclosure of any
+Collateral, or the absolute sale of the Collateral, or the final and absolute
+putting into possession thereof, immediately after such sale, of the purchasers
+thereat and
+
+                                       37
+<PAGE>
+the Borrower does hereby waive the benefit of all such laws or right of
+redemption, exemption or stay.
+
+
+                      ARTICLE XII MISCELLANEOUS PROVISIONS
+
+      12.01 In no event shall the Bank be liable to the Borrower for indirect,
+special or consequential damages, or the loss of anticipated profits, which may
+arise out of or are in any way connected with the Obligations or the Documents.
+
+      12.02 The covenants and all representations and warranties of the Borrower
+shall survive the execution and delivery of the Documents and shall remain in
+full force and effect until the expiration of this Agreement as hereinafter
+provided. No investigation by the Bank shall affect the representations or
+warranties or the right of the Bank to rely upon and enforce them.
+
+      12.03 Regardless of the amount of the Obligations outstanding at any time
+and regardless of whether there is any indebtedness outstanding at all, it is
+the intention of the Bank and the Borrower that this Agreement and all of the
+Documents shall remain in full force and effect until the last to occur of the
+following events: (a) the Obligations have been fully paid; (b) all covenants in
+the Documents have been fully and adequately performed; and (c) the Bank has not
+agreed to make and is not obligated to make any further Advance to or on behalf
+of the Borrower.
+
+      12.04 All demands, notices and other communications hereunder shall be in
+writing and shall be deemed to have been given upon receipt when the writing is
+delivered in person, sent by facsimile transmission, provided that a
+confirmation copy of the notice is also sent by mail as provided herein or is
+mailed by first class, registered or certified mail, postage prepaid, addressed
+as follows:
+
+                                       38
+<PAGE>
+To the Bank:      Wachovia Bank, N.A.
+                  Post Office Box 700
+                  16 Broad Street
+                  Charleston, SC  29402
+                  Attention:  Donald R. Sanders
+
+To the Borrower:  Sea Pines Associates, Inc.
+                  Post Office Box 7000
+                  32 Greenwood Drive
+                  Hilton Head Island, SC  29938
+                  Attention:  President
+
+                           AND
+
+                  Sea Pines Company, Inc.
+                  Post Office Box 7000
+                  32 Greenwood Drive
+                  Hilton Head Island, SC  29938
+                  Attention:  President
+
+      12.05 The Borrower shall pay to the Bank upon demand: (a) all expenses
+incurred or to be incurred at, before and/or in connection with the execution of
+this Agreement and any subsequent Advances, including without limitation;
+reasonable attorney's fees incurred for or by the Bank's legal counsel; and (b)
+other expenses incurred by the Bank in connection with the maintenance of the
+Facilities or other Obligations; including, but not limited to: (i) reasonable
+attorney's fees incurred by the Bank in connection with the negotiation,
+alteration, amendment or modification in any respect of the Documents or in the
+preparation of additional documents or other legal work rendered as a part of
+such alterations, amendments or modifications; and (ii) all costs and expenses
+of the Bank in connection with the collection of the Obligations and enforcement
+of the covenants, including reasonable attorney's fees.
+
+      12.06 Absent manifest error, this Agreement, the Documents and the books
+and records of the Bank shall constitute prima facie evidence of all matters
+with respect to the Obligations and amounts due hereunder.
+
+                                       39
+<PAGE>
+      12.07 If any provision or any part thereof of any of the Documents shall
+be invalid or unenforceable under applicable law, said part shall be ineffective
+to the extent of such invalidity only, without in any way affecting the
+remaining parts of said provision or the remaining provisions of said Document.
+
+      12.08 The Borrower agrees that where, by the terms of the Documents a day
+is named or a time fixed for the payment of any of the Obligations or the
+performance of any of the covenants, the time stated enters into the
+consideration and is of the essence of the whole contract.
+
+      12.09 To the extent permitted by applicable law, if the Bank shall refuse
+to make Advances hereunder because the Bank reasonably believes it is not
+required to do so, the Bank shall not be liable to the Borrower for any
+consequential damages resulting therefrom.
+
+      12.10 The Bank and the Borrower do not intend to be partners or joint
+venturers by reason of the transactions contemplated in the Documents.
+Notwithstanding any provision in any of the Documents to the contrary, the
+Borrower has no authority to act for or on behalf of or to legally bind the Bank
+and the Bank possesses only such authority as is provided by law or in the
+Documents which authority is intended only to preserve and protect the
+Obligations and any security therefor.
+
+      12.11 The Obligations, the covenants and the Documents are made under and
+governed by the laws of the State of South Carolina and the Borrower hereby
+consents to the jurisdiction of all courts in said State.
+
+      12.12 This Agreement may be executed in several counterparts, each of
+which shall be an original and all collectively shall constitute but one
+instrument.
+
+      12.13 The Documents constitute the entire agreement of the parties on the
+subject matter hereof, and may not be modified except in writing signed by the
+parties.
+
+                                       40
+<PAGE>
+      12.14 The Borrower may not assign or otherwise transfer or convey its
+interest in the Documents.
+
+      12.15 The agreements, obligations and covenants established hereby shall
+supersede and replace all agreements, obligations and covenants set forth in
+that certain Master Credit Agreement between the Borrower and the Bank dated as
+of October 31, 1998, as amended.
+
+      IN WITNESS WHEREOF, the undersigned have duly executed and delivered this
+Agreement as of the 31st day of October, 2002.
+
+
+                                    WACHOVIA BANK, N.A.
+
+
+/s/ Donna M. Bucci                  By: /s/ R. Ross Campbell, Jr.
+                                            Its:  Vice President
+
+
+/s/ Elisabeth Peavy
+
+
+                                    SEA PINES ASSOCIATES, INC.
+
+
+/s/ Steven P. Birdwell              By:  /s/ Michael E. Lawrence
+                                             Its:  Chief Executive Officer
+
+
+/s/ Marion L. Dennis
+
+                                    SEA PINES COMPANY, INC.
+
+
+/s/ Steven P. Birdwell              By:  /s/ Michael E. Lawrence
+                                         Its:  President
+
+
+/s/ Marion L. Dennis
+
+                                       41
+<PAGE>
+                                   SCHEDULE I
+                             COMPLIANCE CERTIFICATE
+
+
+I.DEBT SERVICE COVERAGE RATIO CALCULATION (AS OF __________, 20___)
+
+
+<TABLE>
+<CAPTION>
+                                                                                                   FOUR QUARTERS
+                                                          QUARTER ENDED                                ENDED
+<S>                                          <C>          <C>            <C>           <C>         <C>
+
+                                             _______       _______       _______      _______      ____________
+
+
+Net Income (Loss)                            _______       _______       _______      _______      ____________
+
+Non Cash Expenses - Section IV               _______       _______       _______      _______      ____________
+
+
+      Total Numerator                         _______       _______       _______      _______      ____________
+
+
+Current Portion of Long Term Debt            ________      _______       ________     ________     ____________*
+
+Current Portion of Capital Leases            ________      _______       ________     ________     ____________*
+
+Dividends Paid                               ________      _______       ________     ________     ____________*
+
+
+      Total Denominator                      _______       _______       _______      _______      ____________
+
+
+      DEBT SERVICE
+      COVERAGE RATIO
+                                                                                                   ____________
+      Minimum Debt Service                                                                         125%
+      Coverage Ratio
+</TABLE>
+
+
+Incentive Debt Service
+Coverage Ratio and
+Applicable Margins:
+
+<TABLE>
+<CAPTION>
+                              DSC Ratio              Applicable Margin
+                              ---------              -----------------
+<S>                  <C>                             <C>
+                     <1.50                           1.65% (165 basis points)
+                     >(or equal to) 1.50 but <1.75   1.50% (150 basis points)
+                     >(or equal to) 1.75             1.40% (140 basis points)
+</TABLE>
+
+
+*   Current quarter balances
+**  Dividends accrued or paid during the past four quarters
+
+                                       1
+<PAGE>
+II.   NET WORTH RATIO CALCULATION (AS OF ____________________, 20__)
+
+<TABLE>
+<S>                                                               <C>
+      Total Liabilities (including contingent and conditional
+      liabilities)                                                __________
+
+
+      Tangible Net Worth                                          __________
+
+      NET WORTH RATIO                                             __________
+
+
+      MAXIMUM NET WORTH RATIO                                           3.00
+</TABLE>
+
+III.  OFFICER CERTIFICATION
+
+      To the best of my knowledge, the loan covenant calculations above are
+      correct and have been prepared in accordance with the definitions included
+      in the Master Credit Agreement. No Event of Default exists under the
+      Master Credit Agreement or any other governing loan document.
+
+
+                                         SEA PINES ASSOCIATES, INC.
+
+
+                                          By:
+      --------------------------              --------------------------------
+      Date
+                                                  Its:
+                                                       -----------------------
+
+
+IV.   DEBT SERVICE COVERAGE RATIO CALCULATION (AS OF ___________, ____)
+
+<TABLE>
+<CAPTION>
+                                                                                                         FOUR QUARTERS
+                                                                           QUARTER ENDED                     ENDED
+<S>                                                    <C>         <C>         <C>          <C>          <C>
+
+                                                       _______     _______     _______      _______      _____________
+
+NON CASH EXPENSES:
+
+Depreciation and amortization                          _______     _______     _______      _______       _______
+Health Care Operations/Sale                            _______     _______     _______      _______       _______
+[Equity Loss in TidePonte Partners]                    _______     _______     _______      _______       _______
+Tax Provision Adjustment                               _______     _______     _______      _______       _______
+Accrued Interest on Trust Preferred Securities         _______     _______     _______      _______       _______
+Unrecognized Interest Rate SWAP Agreement Valuations   _______     _______     _______      _______       _______
+
+Total Non Cash Expenses                                _______     _______     _______      _______       ____________
+
+</TABLE>
+
+                                       2
+<PAGE>
+                                   SCHEDULE II
+
+
+                                  ASSET RELEASE
+                                    SCHEDULE
+
+      Certain of the Collateral, as hereinafter described, shall be released
+from the lien of the Assignments, Mortgages or other Documents upon request of
+the Borrower and payment or delivery of the consideration described herein (the
+"Release Price") in accordance with the following terms and conditions.
+
+      The Bank shall not be obligated to release any Collateral if (i) an Event
+of Default has occurred under the Agreement, (ii) an event has occurred which
+with the passage of time or the giving of notice the Bank reasonably anticipates
+would constitute an Event of Default under the Agreement, or (iii) the Bank
+reasonably anticipates that the requested release may result in an Event of
+Default or cause a Material Adverse Effect under the Agreement.
+
+      The Bank reserves the right to apply all Release Price payments to any
+Note or Notes, in its sole discretion, and, notwithstanding any provision in the
+Notes, such payments will be applied to the principal balances outstanding under
+any such Note(s) (and to pay any applicable prepayment charge) unless the Bank
+chooses, in its sole discretion, to apply such payments to accrued interest or
+other Obligations. Any payments attributable to Major Groups of Collateral as
+described in Section I below may also result in a reduction of funds available
+under the Facilities in the Bank's sole discretion.
+
+      The term "Gross Proceeds" as used in this Asset Release Schedule shall
+mean the amount equal to the gross sales price payable to the Borrower as stated
+in the Contract (as defined below) from or in connection with any sale or
+transfer of all or any part of any of the Collateral, including, without
+limitation, the proceeds of any reserves or escrows (other than those reserves
+or escrows established by the Borrower).
+
+      The term "Current Obligations" as used in this Asset Release Schedule
+shall mean the then-current principal amount outstanding and any unfunded
+commitments under the Obligations (as defined in the Agreement) of the Borrower,
+including, without limitation, in the Bank's sole discretion, estimates of the
+potential exposure, if any, of the Borrower to the Bank for contingent,
+conditional and indirect liabilities constituting a portion of said Obligations.
+
+      The term "Contract" as used in this Asset Release Schedule shall mean the
+applicable contract of sale or purchase agreement including any and all
+amendments and other related documents pertaining to a sale or other transfer of
+any Collateral as submitted to the Bank for its review.
+
+      The property references below are abbreviated commonly used descriptions,
+and the legal descriptions for said parcels are contained in the Mortgages,
+which descriptions shall be controlling as to actual acreage and location.
+Certain legal descriptions are indicated by reference to specific exhibits of
+the Mortgages.
+
+                                       3
+<PAGE>
+      COLLATERAL TYPES TO BE RELEASED:
+
+      I. Major Groups of Collateral which must be released in the groups
+indicated below and may not be released separately unless otherwise agreed to by
+the Bank in its sole discretion:
+
+            (1) Harbour Town Golf Course (A-2), Clubhouse (A-5), Recreation Area
+      (A-5) and Driving Range (A-3), Conference Center (A-5):
+
+                Release Price Greater of:
+
+                   75% of Gross Proceeds or 60% of Current Obligations or
+                   Note 1 Calculation
+
+
+            (2) Ocean Golf Course (A-16), Sea Marsh Golf Course (A-6), and
+      Ocean/Sea Marsh Driving Range (A-28) (to include Collateral connected with
+      the pro shop operations for these courses):
+
+                Release Price Greater of:
+
+                   75% of Gross Proceeds or 60% of Current Obligations or
+                   Note 1 Calculation
+
+
+
+      Note 1.The Release Price shall be the greater of (a) the above percentage
+      of Gross Proceeds, or (b) the above percentage of Current Obligations, or
+      (c) the dollar amount calculated by applying the following formula:
+
+                  75% x (8 x net annual Cash Flow from Collateral being
+                  released)
+
+
+      "Cash Flow" equals operating revenues minus operating expenses, not
+      including depreciation or debt service.
+
+
+II.   Stock or Assets of Sea Pines Real Estate Company. Inc.:
+
+                Release Price Greater of:
+
+                  70% of Gross Proceeds or 4% of Current Obligations
+
+                                        4
+<PAGE>
+      III. Welcome Center/Administrative Building (A-33):
+
+                  Release Price Greater of:
+
+                        80% of Gross Proceeds or 5% of Current Obligations
+
+      IV. Harbour Town Inn:
+
+                  Release Price Greater of:
+
+                        80% of Gross Proceeds or 20% of Current Obligations
+
+      V. Plantation Club (A-32):
+
+                  Release Price Greater of:
+
+                        80% of Gross Proceeds or 4% of Current Obligations
+
+
+            The release of the Plantation Club property will be subject to the
+      Bank's prior approval of a satisfactory alternative plan for providing pro
+      shop facilities for the Ocean Golf Course and/or the Sea Marsh Golf Course
+      if either of those courses are to continue as Collateral following release
+      of the Plantation Club.
+
+      VI.The Bank and the Borrower acknowledge and agree that the Borrower may
+determine it is in its best financial interest to enter into a joint venture or
+other development or investment entity for the purpose of developing or
+improving certain parcels included within the Secured Properties and in that
+regard the Borrower may be required to contribute to said entity the property to
+be developed or improved free and clear of the lien of the Mortgages. Subject to
+the provisions of Section 9.01(g) and other provisions oF the Agreement and
+other Documents and the Bank's approval of the nature of the proposed
+development or improvements of Secured Properties, the Bank shall release
+portions of the Secured Properties to be contributed by the Borrower from the
+lien of the Mortgages upon receipt of a collateral assignment and first security
+interest in the Borrower's interest in said development or investment entity in
+such form as may be acceptable to the Bank in its discretion; provided, however,
+the Bank shall not be required to release the Harbour Town Golf Links Golf
+Course, the Ocean Course or the Sea Marsh Course or any ancillary or support
+facilities related thereto or used in connection therewith for said purposes.
+
+      VII.All remaining Collateral except for Trademarks, Trade names,
+Servicemarks and Logos described in the Assignment of Trademarks, Trade Names,
+Intangibles and Proprietary Rights dated November 17, 1987, as amended, the
+rights to the various tournaments held on the Secured Properties, if any, and
+the various rights described in the Collateral Assignment of Rights and
+Easements dated November 17, 1987, as amended, all remaining Collateral may be
+sold at the Borrower's option in the ordinary course of business and shall be
+released without
+
+                                       5
+<PAGE>
+payment of any Release Price from the liens of the Assignments, Mortgages or
+other Documents.
+
+      The Bank reserves the right to review this Schedule annually with the
+Borrower and make such amendments as may be mutually agreed upon as may be
+necessary to insure that the Bank's collateral position and/or cash flow/debt
+service coverage have not been or will not be adversely affected.
+
+      All requests for release of Collateral shall be in writing, and
+accompanied by a release instrument in a form and content approved by the Bank.
+For all releases for collateral other than as described in section VII above,
+the Borrower shall also provide a current recordable survey, identifying the
+parcel or parcels to be released, the Borrower's calculations regarding Cash
+Flow and prospective covenant compliance, if applicable, and a copy of the
+Contract and closing statement signed by an attorney establishing the Gross
+Proceeds. For approved releases, the release instruments shall be executed and
+tendered to the Borrower or its purchaser upon receipt by the Bank of the
+Release Price in certified funds or by fed bank wire. All costs and expenses
+incurred by the Bank in connection with providing said release to the Borrower
+including the Bank's attorney's fees shall be paid by the Borrower.
+
+                                       6
+
+</TEXT>
+</DOCUMENT>

@@ -1,0 +1,201 @@
+<DOCUMENT>
+<TYPE>EX-10.8
+<SEQUENCE>7
+<FILENAME>doc6.txt
+<TEXT>
+<PAGE>
+
+                                  EXHIBIT 10.8
+[HP LOGO]
+ENTERPRISE SYSTEM GROUP
+AMERICAS SUPPLY CHAIN
+901 PAGE AVE.
+FREMONT, CA  94538
+
+Wednesday, October 30, 2002
+
+
+Mr. Bill Heye CEO and President SBE, Inc.
+4550 Canyon Road
+San Ramon, CA 94583
+
+
+RE:  Final Proposal dated 10/28/02
+
+Dear Bill,
+
+Thank you for your updated proposal dated October 28, 2002. We have reviewed it
+and are ready to execute it as follows:
+
+1.   HP agrees to issue a Non-Cancelable Purchase Order, by October 30, 2002 for
+     the following VCOM deliveries:
+
+     a.   281 units by November 15, 2002
+     b.   281 units on February 1, 2003
+
+2.   HP agrees to use best efforts to identify any additional  requirements  for
+     VCOM products and provide such requirements to SBE by mid November 2002, or
+     promptly after HP's customer  provides such additional  requirements to HP.
+     In  addition  HP  agrees  that  after  HP  has  identified  any  additional
+     requirements,  HP will issue the appropriate  Non-Cancelable Purchase Order
+     for the  additional  units by January 31, 2003,  and take delivery of those
+     units by May 1, 2003.
+
+3.   SBE agrees to sell HP all  remaining  VCOM units  (both the 562 minimum and
+     "any additional units") at the following price through May 1, 2003.
+
+     a.       U32887-992:       $3,125           Frame Relay, VCOM-34 (iDEN)
+     b.       U25022-A04        $2,860           SS7, VCOM-34 (SuperCell)
+     c.       U40567-A01        $2,825           Token Ring, VCOM-33 (SuperCell)
+     d.       T90944-002        $2,875           SS7, VCOM-34 (Helix)
+     e.       U32031-A03        $2,870           Token Ring, VCOM-33 (Helix)
+
+4.   SBE agrees to issue a $447,000 rebate,  (via a credit memo), on February 1,
+     2003.  This  credit  memo can be  applied  to the  payment HP makes for the
+     February 1, 2003 delivery.
+
+5.   Except for the amount in item 4, above,  HP agrees to forfeit the remaining
+     rebate amount of $4,423,000 upon the parties' agreement.
+
+
+                                       1
+<PAGE>
+
+6.   SBE  agrees  to  retain,  for  production  or  repair,  the VCOM  parts and
+     equipment financed by HP for the products listed in item 3, above,  through
+     October 31st, 2005, unless otherwise notified by HP.
+
+7.   TECHNICAL  INFORMATION  ESCROW:  SBE  agrees  to  place,  with  a  mutually
+     agreeable third party escrow agent, all technical  information necessary or
+     beneficial  for the  manufacturing  of the Products  identified  in item 3,
+     above. Such technical  information  includes all the information  listed in
+     Exhibit A,  attached  to this  amendment,  and  incorporated  by  reference
+     herein,  which may  include,  but is not limited to: a  description  of the
+     development system, hardware,  software, compilers and the like, sufficient
+     for manufacturing and support purposes;  all proprietary tools,  compilers,
+     interpreters  and other  materials  reasonably  necessary to create  object
+     code, hardware,  component parts and related  documentation for purposes of
+     manufacturing  the  Products;  a  functioning  replica  of the  development
+     environment; mask work designs; any modifications, enhancements, additions,
+     code corrections and workarounds.
+
+     SBE will  further  provide HP with all  intellectual  property  rights on a
+     worldwide,  royalty-free,  fully-paid  up basis,  sufficient  to assist and
+     enable HP to make,  have made,  market,  sell or otherwise  dispose of such
+     Products.  HP will have  immediate  rights to access and use this technical
+     information,  documentation and all necessary  intellectual property rights
+     if SBE: i) fails to meet its  obligations in items 1, 2, 3, 4, and 6 above,
+     or any  other  obligations  not  superceded  by this  letter,  ii) fails to
+     fulfill its support  obligations and to cure any such failure after written
+     notification from HP; iii) fails to do business in the ordinary course; iv)
+     files for relief under the U.S.  Bankruptcy  Code or a general  receiver or
+     trustee in bankruptcy is appointed for SBE's business or property; v) takes
+     action  under any state  insolvency  or similar  law for  purposes of SBE's
+     bankruptcy, reorganization or liquidation.
+
+8.   This Amendment  supercedes all previous  Agreements and Amendments covering
+     items 1 through 7, above.
+
+9.   The Parties agree to negotiate, in good faith, to have a Services Agreement
+     in place by December 31, 2002.
+
+Sincerely,
+
+
+
+
+Robbie Stewart
+
+Attachment
+
+
+AGREED:
+
+SBE, Inc.                                                     Hewlett Packard
+
+
+By: /s/ Kirk Anderson                               By: /s/ Thomas Fickett
+   -----------------------------------------           -------------------
+
+Name: Kirk Anderson                                 Name: Thomas Fickett
+
+Title: Vice President, Operations                   Title: NED Controller
+
+                                       2
+<PAGE>
+
+Date: 10/30/02                                      Date: 10/30/02
+     ---------------------------------------              ---------
+
+
+
+                                       3
+<PAGE>
+
+
+
+                                    EXHIBIT A
+
+                       INTELLECTUAL PROPERTY REQUIREMENTS
+
+HP and SBE agree that the following are the minimal requirements that would
+enable HP to manufacture the product(s) currently provided by SBE and addressed
+in item 7, above.
+
+A.   Functional specification
+
+     1.   Schematic database (electronic) & support files:
+          -    Schematic sheets/pages
+          -    Symbols (including vendor libraries)
+          -    Netlist/output files - Configuration files
+          -    definition of required  environment  for modifying,  recompiling,
+               and  verifying  design  changes  including  hardware   platforms,
+               software,  software revision levels,  etc.
+          2.   Programmable  device  data & support  files for all  programmable
+               devices (e.g. Flash, PLDs, SEEROMs, FPGA's, etc.)
+               -    Design  specifications  -  Source  code (or  source  data) -
+                    Assembled object code
+               -    Test vectors and Test vector source code
+               -    Definition   of   required    environment   for   modifying,
+                    recompiling,  and  verifying  source or test vector  changes
+                    including hardware  platforms,  software,  software revision
+                    levels, etc.
+          3.   Design  documentation  for SBE  custom  devices  (ASICs,  etc.) -
+               Design specifications
+               -    Users guides
+               -    Timing data
+               -    List of known bugs and workarounds
+B.   PWB database (electronic) & support files:
+     1.   Board file
+     2.   Symbols/footprints/pad stacks
+     3.   Configuration files
+     4.   Fabrication files
+     5.   Gerber files
+     6.   Definition of required  environment  for modifying,  recompiling,  and
+          verifying  design  changes  including  hardware  platforms,  software,
+          software revision levels, etc
+C.   Manufacturing  Bill  of  Material   (including  approved  vendor  list  and
+     component specifications)
+     1.   Test specification
+     2.   Design verification/test results (including agency approvals)
+     3.   Test fixtures (ATE or other)
+     4.   Test software  (source and executable,  and all  support/configuration
+          files required for compiling, etc.).
+          -    definition of required  environment  for modifying,  recompiling,
+               and  verifying  design  changes  including  hardware   platforms,
+               software, software revision levels, etc.
+     5.   Driver software (source and executable), and all support/configuration
+          files required for compiling, etc.)
+     -    definition of required  environment  for modifying,  recompiling,  and
+          verifying  design  changes  including  hardware  platforms,  software,
+          software revision levels, etc
+     6.   Database of problem reports and fixes (Hardware and Software)
+     7.   Historical Field Return and defect data.
+     8.   Where possible data should be provided in paper and electronic format
+
+
+                                       4
+<PAGE>
+
+</TEXT>
+</DOCUMENT>

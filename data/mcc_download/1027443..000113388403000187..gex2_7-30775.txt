@@ -1,0 +1,2822 @@
+<DOCUMENT>
+<TYPE>EX-2.7
+<SEQUENCE>3
+<FILENAME>gex2_7-30775.txt
+<DESCRIPTION>EX-2.7
+<TEXT>
+<PAGE>
+
+                                                                    EXHIBIT 2.07
+
+[** Confidential treatment has been requested for certain provisions of this
+document, which information has been separately filed with the Commission and
+the appropriate Section marked with a [*].]
+
+
+
+                            ASSET PURCHASE AGREEMENT
+
+
+
+                                 BY AND BETWEEN
+
+
+
+                             MIDBAR TECH (1998) LTD.
+
+
+
+                                       AND
+
+
+
+                             MACROVISION EUROPE LTD.
+
+
+
+
+
+
+                                NOVEMBER 4, 2002
+
+
+<PAGE>
+
+                                  CONFIDENTIAL
+
+                            ASSET PURCHASE AGREEMENT
+
+                                TABLE OF CONTENTS
+                                                                           Page
+                                                                           ----
+
+
+1   PURCHASE AND SALE OF ASSETS...............................................1
+    1.1   ASSETS TO BE TRANSFERRED............................................1
+    1.2   EXCLUDED ASSETS.....................................................3
+
+2   ASSUMPTION OF LIABILITIES.................................................4
+    2.1   LIABILITIES TO BE ASSUMED...........................................4
+    2.2   LIABILITIES NOT TO BE ASSUMED.......................................5
+
+3   PURCHASE PRICE - PAYMENT..................................................6
+    3.1   PURCHASE PRICE......................................................6
+    3.2   PAYMENT OF PURCHASE PRICE...........................................7
+    3.3   SALE OF THE AUDIO BUSINESS..........................................8
+
+4   REPRESENTATIONS AND WARRANTIES OF SELLER..................................9
+    4.1   CORPORATE...........................................................10
+    4.2   AUTHORITY...........................................................10
+    4.3   NO VIOLATION........................................................10
+    4.4   FINANCIAL STATEMENTS................................................11
+    4.5   TAX MATTERS.........................................................11
+    4.6   ABSENCE OF CERTAIN CHANGES..........................................13
+    4.7   ABSENCE OF UNDISCLOSED LIABILITIES..................................14
+    4.8   NO LITIGATION.......................................................14
+    4.9   COMPLIANCE WITH LAWS AND ORDERS.....................................14
+    4.10  TITLE TO AND CONDITION OF PROPERTIES................................15
+    4.11  INSURANCE...........................................................16
+    4.13  LABOR MATTERS.......................................................18
+    4.14  EMPLOYEE BENEFIT AND STOCK OPTION PLANS.............................19
+    4.15  EMPLOYMENT COMPENSATION.............................................19
+    4.16  TRADE RIGHTS........................................................20
+    4.17  MAJOR CUSTOMERS AND SUPPLIERS.......................................21
+    4.18  PRODUCT WARRANTY AND PRODUCT LIABILITY..............................22
+    4.19  AFFILIATES' RELATIONSHIPS TO SELLER.................................22
+    4.20  SHAREHOLDER LIST....................................................22
+    4.21  ASSETS NECESSARY TO BUSINESS........................................22
+    4.22  NO BROKERS OR FINDERS...............................................23
+    4.23  DISCLOSURE..........................................................23
+
+                                        i
+
+<PAGE>
+
+5   REPRESENTATIONS AND WARRANTIES OF BUYER...................................23
+    5.1    CORPORATE..........................................................23
+    5.2    AUTHORITY..........................................................23
+    5.3    NO BROKERS OR FINDERS..............................................24
+    5.4    LITIGATION.........................................................24
+    5.5    DISCLOSURE.........................................................24
+
+6   OTHER MATTERS.............................................................24
+    6.1    ESCROW AGREEMENT...................................................24
+    6.2    CONFIDENTIAL INFORMATION...........................................24
+    6.3    USE OF SELLER'S NAME...............................................25
+    6.4    SALES TAX MATTERS..................................................25
+    6.5    NON-COMPETITION....................................................25
+    6.6    ...................................................................25
+    COVENANTS OF BUYER........................................................25
+
+7   FURTHER COVENANTS OF SELLER...............................................26
+    7.1    ACCESS TO INFORMATION AND RECORDS..................................26
+    7.2    CONDUCT OF BUSINESS PENDING THE CLOSING............................26
+    7.3    CHANGE OF CORPORATE NAME...........................................27
+    7.4    EMPLOYEES..........................................................27
+    7.5    CONSENTS...........................................................28
+    7.7    OTHER ACTION.......................................................29
+    7.8    DISCLOSURE.........................................................29
+    7.9    USE OF PROCEEDS....................................................29
+
+8   CONDITIONS PRECEDENT TO BUYER'S OBLIGATIONS...............................29
+    8.1    REPRESENTATIONS AND WARRANTIES TRUE ON THE CLOSING DATE............29
+    8.2    COMPLIANCE WITH AGREEMENT..........................................30
+    8.3    ABSENCE OF LITIGATION..............................................30
+    8.4    CONSENTS AND APPROVALS.............................................30
+
+9   CONDITIONS PRECEDENT TO SELLER'S OBLIGATIONS..............................31
+    9.1    REPRESENTATIONS AND WARRANTIES TRUE ON THE CLOSING DATE............31
+    9.2    COMPLIANCE WITH AGREEMENT..........................................31
+    9.3    ABSENCE OF LITIGATION..............................................31
+    9.4    TAX RULING
+
+10  INDEMNIFICATION...........................................................31
+    10.1   BY SELLER..........................................................31
+    10.2   BY BUYER...........................................................32
+    10.3   INDEMNIFICATION OF THIRD-PARTY CLAIMS..............................32
+    10.4   INDEMNIFICATION FOR REIMBURSEMENT THAT DOES NOT INVOLVE A
+           THIRD PARTY CLAIM..................................................33
+    10.5   PROCEDURE FOR INDEMNIFICATION......................................34
+    10.6   NO WAIVER..........................................................34
+
+                                       ii
+<PAGE>
+
+11  CLOSING...................................................................34
+    11.1   ITEMS TO BE DELIVERED BY SELLER....................................34
+    11.2   ITEMS TO BE DELIVERED BY BUYER.....................................36
+
+12  TERMINATION...............................................................38
+    12.1   RIGHT OF TERMINATION WITHOUT BREACH................................38
+    12.2   TERMINATION FOR BREACH.............................................38
+
+13  MISCELLANEOUS.............................................................39
+    13.1   DISCLOSURE SCHEDULE................................................39
+    13.2   FURTHER ASSURANCE..................................................39
+    13.3   DISCLOSURES AND ANNOUNCEMENTS......................................39
+    13.4   ASSIGNMENT; PARTIES IN INTEREST....................................39
+    13.5   EQUITABLE RELIEF...................................................40
+    13.6   LAW GOVERNING AGREEMENT............................................40
+    13.7   AMENDMENT AND MODIFICATION.........................................40
+    13.8   NOTICE.............................................................40
+    13.9   EXPENSES...........................................................41
+    13.10  SEVERABILITY.......................................................42
+    13.11  FORCE MAJEURE......................................................42
+    13.12  ENTIRE AGREEMENT...................................................42
+    13.13  COUNTERPARTS.......................................................43
+    13.14  HEADINGS...........................................................43
+    13.15  GLOSSARY OF TERMS..................................................43
+
+
+
+
+
+
+
+
+                                      iii
+<PAGE>
+
+DISCLOSURE SCHEDULE
+
+Schedule 1.1(a)       -    Leased Real Property
+Schedule 1.1(b)       -    Personal Property
+Schedule 1.1(d)       -    Personal Property Leases
+Schedule 1.1(f)       -    Assumed Contracts
+Schedule 3.2(d)       -    Allocation of Purchase Price
+Schedule 4.1(b)       -    Officers and Directors
+Schedule 4.1(c)       -    Foreign Corporation Qualification
+Schedule 4.1(d)       -    Subsidiaries
+Schedule 4.3(b)       -    Government Consent
+Schedule 4.3(c)       -    Violation, Conflict, Default
+Schedule 4.4          -    Financial Statements
+Schedule 4.6(c)       -    Increases in Compensation
+Schedule 4.6(e)       -    Commitments Other than in the Ordinary Course
+Schedule 4.6(h)       -    Indebtedness
+Schedule 4.6(j)       -    Contract Amendments
+Schedule 4.6(k)       -    Loans and Advances
+Schedule 4.6(n)       -    Unusual Events
+Schedule 4.7          -    Off-Balance Sheet Liabilities
+Schedule 4.8          -    Litigation Matters
+Schedule 4.9(a)       -    Orders
+Schedule 4.9(b)       -    Licenses and Permits
+Schedule 4.9(c)       -    Investment Center Approvals
+Schedule 4.10(a)      -    Marketable Title
+Schedule 4.10(b)      -    Condition of Properties
+Schedule 4.10(c)      -    Condemnation and Expropriation
+Schedule 4.11(a)      -    Insurance Policies
+Schedule 4.11(b)      -    Insurance Claims
+Schedule 4.12(a)      -    Real Property Leases
+Schedule 4.12(b)      -    Personal Property Leases
+Schedule 4.12(e)      -    Contracts for Services
+Schedule 4.12(f)      -    Power of Attorney
+Schedule 4.12(g)      -    Collective Bargaining Agreement
+Schedule 4.12(h)      -    Loan Agreements
+Schedule 4.12(i)      -    Guarantees
+Schedule 4.12(k)      -    Burdensome or Restrictive Agreements
+Schedule 4.12(l)      -    Material Contracts
+Schedule 4.12(m)      -    Defaults
+Schedule 4.13         -    Labor Matters
+Schedule 4.14(a)      -    Employee Equity and Options
+Schedule 4.15         -    Employment Compensation
+Schedule 4.16(a)      -    Trade Rights List
+Schedule 4.16(b)(i)   -    Proprietary Information and Confidentiality Agreement
+
+                                       iv
+<PAGE>
+
+Schedule 4.16(b)(ii)  -    Non-Disclosure Agreement
+Schedule 4.16(c)      -    Interest in Trade Rights
+Schedule 4.16(d)      -    Infringement
+Schedule 4.16(e)      -    Licenses, Assignments and Third Party Compensation
+Schedule 4.16(g)      -    Governmental Entity Grant
+Schedule 4.17(a)      -    Major Customers
+Schedule 4.17(b)      -    Dealers and Distributors
+Schedule 4.18(a)      -    Product Warranty
+Schedule 4.18(b)      -    Liability Claims
+Schedule 4.19(a)      -    Contracts with Affiliates
+Schedule 4.19(c)      -    Obligations of and to Affiliates
+Schedule 4.20         -    Shareholder List
+Schedule 4.22         -    Brokers or Finders
+Schedule 7.4(a)       -    Transferred Employees
+
+Exhibit A             -    Escrow Agreement
+Exhibit B             -    Seller Non-Competition Agreement
+Exhibit C             -    Opinion of Counsel of Seller
+Exhibit D             -    Joint Defense Agreement
+Exhibit E             -    Employee Waiver and Consent
+Exhibit F             -    Bills of Sale
+
+
+
+
+
+
+
+
+                                       v
+
+<PAGE>
+
+                            ASSET PURCHASE AGREEMENT
+
+
+This ASSET PURCHASE AGREEMENT (the "Agreement") is made as of the 4th day of
+November, 2002 (the "Effective Date"), by and between MACROVISION EUROPE LTD., a
+corporation organized under the laws of the United Kingdom ("Buyer"), having its
+principal place of business at Woodley House, Crockhamwell Road, Woodley,
+Reading, Berkshire, United Kingdom RG5 3JP, telephone number +44-118961111,
+facsimile number +44-1189691161, and MIDBAR TECH (1998) LTD., an Israeli
+corporation ("Seller"), having its principal place of business at 34 Kibbutz
+Galuyot Street, Tel Aviv, Israel 66550, telephone number +972-3-518-6666, fax
+number +972-3-518-6677.
+
+                                    RECITALS
+
+      A.   Seller designs, develops, markets and licenses technological
+solutions that protect copyright material from unauthorized and illegal
+duplication and copyright infringement ("Seller's Business").
+
+      B.   Seller desires to sell to Buyer, and Buyer desires to purchase from
+Seller substantially all of the assets related to Seller's Business on the terms
+set forth in this Agreement.
+
+NOW THEREFORE, in consideration of the foregoing and the respective
+representations, warranties, covenants, agreements and conditions hereinafter
+set forth, and intending to be legally bound hereby, the parties hereto agree as
+follows.
+
+1     PURCHASE AND SALE OF ASSETS
+
+1.1   ASSETS TO BE TRANSFERRED.
+
+Subject to the terms and conditions of this Agreement, on the Closing Date (as
+defined in Section 11 hereof) Seller shall sell, transfer, convey, assign, and
+deliver to Buyer, and Buyer shall purchase and accept from Seller, free and
+clear of any Liens (as defined in Section 4.10 hereof), all of the assets used
+to conduct the Seller's Business, including, without limitation, the property
+identified in Schedule 1.1 hereto, other than the Excluded Assets (as defined in
+Section 1.2 hereof) (collectively the "Purchased Assets"). The Purchased Assets
+shall include, but not be limited to, the following:
+
+(a)   LEASED REAL PROPERTY. All of the leases of real property with respect to
+      real property leased by Seller, including the leases (the "Real Property
+      Leases") described on SCHEDULE 1.1(a) with respect to the real property
+      described thereon (the "Leased Real Property").
+
+(b)   PERSONAL PROPERTY. All machinery, equipment, vehicles, tools, supplies,
+      spare parts, furniture and all other personal property (other than
+      personal property leased pursuant to Personal Property Leases
+      as hereinafter defined) owned, utilized or held for use by Seller on the
+      Closing Date as set forth in SCHEDULE 1.1(b).
+<PAGE>
+
+(c)   INVENTORY. All inventories of raw materials, work-in-process and finished
+      goods (including all such in transit), and service and repair parts,
+      supplies and components held for resale by Seller on the Closing Date,
+      together with related packaging materials (collectively the "Inventory").
+
+(d)   PERSONAL PROPERTY Leases. All leases of machinery, equipment, vehicles,
+      furniture and other personal property leased by Seller, including all such
+      leases (the "Personal Property Leases") described in SCHEDULE 1.1(d).
+
+(e)   TRADE RIGHTS. All Seller's interest in any Trade Rights used in the
+      Seller's Business, including, without limitation, those identified in
+      Schedule 4.16(a). As used herein, the term "Trade Rights" shall mean and
+      include: (i) all trademark rights, business identifiers, trade dress,
+      service marks, trade names (including without limitation the trade names
+      "Cactus Data Shield", "CDS" and "BurnShield"), brand names, and domain
+      names; (ii) all copyrights and all other rights associated therewith and
+      the underlying works of authorship; (iii) all patents and all proprietary
+      rights associated therewith; (iv) all contracts or agreements granting any
+      right, title, license or privilege under the intellectual property rights
+      of any third party; (v) all inventions, mask works and mask work
+      registrations, know-how, discoveries, improvements, designs, trade
+      secrets, shop and royalty rights, employee covenants and agreements
+      respecting intellectual property and non-competition and all other types
+      of intellectual property; (vi) all ideas and concepts conceived of or
+      first reduced to practice by Employees of Seller; and (vii) all
+      registrations of any of the foregoing, all applications therefor, all
+      goodwill associated with any of the foregoing, and all claims for
+      infringement or breach thereof. To the extent that the term "Trade Rights"
+      includes patents, the term "Trade Rights" shall include any patents,
+      patent applications, provisional patents, divisions, substitutions,
+      continuations, continuations-in-part, modifications or improvements, or
+      reissue applications, renewals, extensions, re-examinations or refilings
+      of the application for said patents whether related thereto directly or
+      through one or more intervening applications and to any patentable
+      apparatus, method or design encompassed within the scope of the drawings
+      or the claims of such patents. Without limiting the generality of the
+      foregoing, the term "Trade Rights" includes the Midbar patents set out in
+      SCHEDULE 4.16(a).
+
+(f)   ASSUMED CONTRACTS. All Seller's rights in, to and under all contracts
+      (including sales contracts), purchase orders and sales orders (hereinafter
+      "Contracts") of Seller as set forth in SCHEDULE 1.1(f), but no other
+      Contracts. To the extent that any Contract for which assignment to Buyer
+      is provided herein is not assignable without the consent of another party,
+      this Agreement shall not constitute an assignment or an attempted
+      assignment thereof if such assignment or attempted assignment would
+      constitute a breach thereof. Seller and Buyer agree to use their
+      reasonable best efforts (without any requirement on the part of Buyer to
+      pay any money or agree to any material change in the terms of any such
+      Contract) to obtain the consent of such other party to the assignment of
+      any such Contract to Buyer in all cases in which such consent is or may be
+      required for such assignment. If any such consent shall not be obtained,
+      Seller agrees to cooperate with Buyer in any reasonable arrangement
+      designed to provide for Buyer the benefits intended to be assigned to
+      Buyer under the relevant Contract, including enforcement at the cost and
+
+                                       2
+<PAGE>
+
+      for the account of Buyer of any and all rights of Seller against the
+      other party thereto arising out of the breach or cancellation thereof
+      by such other party or otherwise, and Buyer undertakes to cooperate
+      with Seller to allow the fulfillment of the Seller's Liabilities under
+      any such Contract, as if such Contract had been assigned to Buyer,
+      until such time as Seller completes its liquidation proceedings (which it
+      intends to commence following the Closing), provided, however, that Buyer
+      shall not bear any liability in excess of the liability that Buyer would
+      have borne had Buyer assumed and taken assignment of such Contracts. If
+      and to the extent that such arrangement cannot be made, any such Contract
+      shall not be deemed to be a Purchased Asset hereunder.
+
+(g)   COMPUTER SOFTWARE. All computer Source Codes, programs and other software
+      of Seller, including all machine-readable code, printed listings of code,
+      documentation and related property and information of Seller. The term
+      "Source Codes" means the form of software that is intelligible to trained
+      programmers and is capable of being translated into object code form by
+      means of a compiler. The term "object code" means the executable,
+      machine-readable form of software.
+
+(h)   LITERATURE. All sales literature, promotional literature, catalogs and
+      similar materials of Seller.
+
+(i)   RECORDS AND FILES. All existing records and files of Seller pertaining to
+      the Seller's Business of every kind including, without limitation,
+      invoices, customer and vendor lists and contracts, blueprints,
+      specifications, designs, drawings, and operating and marketing plans, and
+      all other documents, tapes, discs, programs or other embodiments of
+      information of Seller.
+
+(j)   LICENSES; PERMITS. All licenses, permits, approvals, certifications and
+      listings of Seller necessary to operate Seller's Business.
+
+(k)   CORPORATE NAME. The names "Midbar," "Midbar Tech Ltd.," "Midbar Tech
+      (1998) Ltd." or any derivatives thereof and all rights to use or allow
+      others to use such names.
+
+(l)   GENERAL INTANGIBLES. All prepaid items, all causes of action arising out
+      of occurrences before or after the Closing, and other intangible rights
+      and assets, including title to the goodwill of Seller's Business.
+
+(m)   EMPLOYMENT AGREEMENTS. Seller's employment agreements with Transferred
+      Employees, as defined and set forth in Section 7.4(a).
+
+(n)   ACCOUNTS RECEIVABLE. Seller's accounts receivable attributable (in
+      accordance with GAAP) to the period after the Closing Date with respect to
+      the Purchased Assets. For the avoidance of doubt, any payments made to
+      Seller that, in whole or in part, represent an advance payment with
+      respect to the Purchased Assets attributabe (in accordance with GAAP) in
+      whole or in part to the period after the Closing Date, shall be pro rated
+      as of the Closing; and Seller shall account to Buyer for such pro rated
+      amount at Closing.
+
+1.2   EXCLUDED ASSETS.
+
+                                       3
+<PAGE>
+
+The provisions of Section 1.1 notwithstanding, Seller shall not sell, transfer,
+assign, convey or deliver to Buyer, and Buyer will not purchase or accept, the
+following assets of Seller (collectively the "Excluded Assets"):
+
+(a)   CASH AND CASH EQUIVALENTS. All cash, cash equivalents, accounts receivable
+      in respect of the Seller's Business prior to the Closing Date and other
+      current assets determined in accordance with U.S. generally accepted
+      accounting principles ("U.S. GAAP"). Any amounts attributable to such
+      accounts receivable that are collected by the Buyer following the Closing
+      Date, shall be delivered by Buyer to the Seller promptly following their
+      collection.
+
+(b)   CONSIDERATION. The consideration delivered by Buyer to Seller pursuant to
+      this Agreement.
+
+(c)   EMPLOYMENT AGREEMENTS. Seller's employment agreements with any and all
+      Employees who are not Transferred Employees under Section 7.4(a).
+
+(d)   Tax Credits and Records. Income credits and tax refund claims and
+      associated returns and records for the period ending on the Closing Date.
+      Buyer shall have reasonable access to returns and records attributable to
+      the Purchased Assets or Assumed Liabilities and may make excerpts
+      therefrom and copies thereof.
+
+(e)   CORPORATE FRANCHISE. Seller's franchise to be a corporation, its
+      certificate of incorporation, corporate seal, stock books, minute books
+      and other corporate records. Buyer shall have reasonable access to such
+      books and records and may make excerpts therefrom and copies thereof.
+
+(f)   OBLIGATIONS OF AFFILIATES. Notes, drafts, accounts receivable or other
+      obligations for the payment of money, made or owed by any Affiliate of
+      Seller. For purposes of this Agreement, an "Affiliate" of a specified
+      person or entity shall mean a person or entity that directly, or
+      indirectly through one or more intermediaries, controls or is controlled
+      by, or is under common control with, the person or entity specified. For
+      this purpose, "control" shall mean the possession of the direct or
+      indirect power to direct or cause the direction of the management and
+      policies of a person or entity, whether through the ownership of voting
+      securities, by contract or otherwise.
+
+(g)   EMPLOYEE LOANS. All outstanding monetary loans between any existing or
+      former employees of Seller and Seller.
+
+(h)   ENTERPRISE STATUS. The benefit of Seller's "approved enterprise" status
+      with the Investment Center of the Israeli Ministry of Industry and Trade.
+
+2     ASSUMPTION OF LIABILITIES
+
+2.1   LIABILITIES TO BE ASSUMED.
+
+                                       4
+<PAGE>
+
+As used in this Agreement, the term "Liability" shall mean and include any
+direct or indirect indebtedness, guaranty, endorsement, claim, loss, damage,
+deficiency, cost, expense, obligation or responsibility, fixed or unfixed, known
+or unknown, asserted or unasserted, liquidated or unliquidated, secured or
+unsecured. Subject to the terms and conditions of this Agreement, on the Closing
+Date, Buyer shall assume and agree to perform and discharge the following, and
+only the following Liabilities of Seller (collectively the "Assumed
+Liabilities"):
+
+(a)   CONTRACTUAL LIABILITIES. Seller's Liabilities arising or required to be
+      performed from and after the Closing Date under and pursuant to all
+      Contracts assumed by Buyer and described in any of SCHEDULES 1.1(a),
+      1.1(d), 1.1(f) or 1.1(m).
+
+(b)   LIABILITIES UNDER PERMITS AND LICENSES. Seller's Liabilities arising from
+      and after the Closing Date under any permits or licenses assigned to Buyer
+      at the Closing pursuant to Section 1.1(j).
+
+(c)   ACCOUNTS PAYABLE. Seller's accounts payable due from and after the Closing
+      Date with respect to the Purchased Assets.
+
+(d)   PRODUCT WARRANTY. The Seller's existing product warranty obligations
+      arising out of any assumed Contract.
+
+2.2   LIABILITIES NOT TO BE ASSUMED.
+
+Except as and to the extent specifically set forth in Section 2.1, Buyer is not
+assuming any Liabilities of Seller and all such Liabilities shall be and remain
+the responsibility of Seller (the "Retained Liabilities"). Without limiting the
+generality of the foregoing, Buyer is not assuming and Seller shall not be
+deemed to have transferred to Buyer the following Retained Liabilities of
+Seller:
+
+(a)   TAXES ARISING FROM TRANSACTION. Any taxes applicable to, imposed upon or
+      arising out of the sale or transfer of the Purchased Assets to Buyer and
+      the other transactions contemplated by this Agreement, including but not
+      limited to any income, transfer, sales, use, gross receipts or documentary
+      stamp taxes.
+
+(b)   INCOME TAXES. Any Liability of Seller for income taxes or profit taxes
+      (and any penalties or interest due on account thereof).
+
+(c)   INSURED CLAIMS. Any Liability of Seller insured against, to the extent
+      such Liability is or will be paid by an insurer.
+
+(d)   PRODUCT LIABILITY. Any Liability of Seller arising out of or in any way
+      relating to or resulting from any product sold prior to the Closing Date
+      (including any Liability of Seller for claims made for damage to property
+      or other damage, whether made in product liability, tort, breach of
+      warranty or otherwise) other than Liabilities assumed by the Buyer
+      pursuant to Section 2.1(a) and 2.1(d).
+
+                                       5
+<PAGE>
+
+(e)   LITIGATION MATTERS. Any Liability with respect to any action, suit,
+      proceeding, arbitration, investigation or inquiry, whether civil, criminal
+      or administrative ("Litigation") relating solely to the period prior to
+      the Closing Date, whether or not described in Schedule 4.8.
+
+(f)   INFRINGEMENTS. Any Liability to a third party for infringement of such
+      third party's Trade Rights.
+
+(g)   TRANSACTION EXPENSES. All Liabilities incurred by Seller in connection
+      with this Agreement and the transactions contemplated herein.
+
+(h)   LIABILITY FOR BREACH. Liabilities of Seller for any breach or failure to
+      perform any of Seller's covenants and agreements contained in, or made
+      pursuant to, this Agreement, or, prior to the Closing, any other contract,
+      whether or not assumed hereunder, including breach arising from assignment
+      of contracts hereunder without consent of third parties and breach arising
+      from the Buyer's performance of the undertaking to cooperate with Seller
+      to allow the fulfillment of Seller's Liabilities under certain Contracts
+      under Section 1.1(f) without the consent of third parties to such
+      Contracts. (i) Liabilities to Affiliates. Liabilities of Seller to its
+      present or former Affiliates.
+
+(j)   VIOLATION OF LAWS OR ORDERS. Liabilities of Seller for any violation of or
+      failure to comply with any statute, law, ordinance, rule or regulation
+      (collectively, "Laws") or any order, writ, injunction, judgment, plan or
+      decree (collectively, "Orders") of any court, arbitrator, department,
+      commission, board, bureau, agency, authority, instrumentality or other
+      body, whether U.S., Israeli or other (collectively, "Government Entities")
+      relating solely to the period prior to the Closing Date.
+
+(k)   EMPLOYEE LIABILITIES. Liabilities with respect to Seller's current or
+      former Employees, whether hereinafter terminated or not, at any time
+      prior, during or following the Closing Date, excluding any Liabilities
+      arising immediately following the Closing Date with respect to Transferred
+      Employees, as more fully set forth in Section 7.4(d) (taking into account
+      Seller's obligation to transfer all Benefits and Liabilities concerning
+      all Transferred Employee that have accrued through the Closing, pursuant
+      to Section 7.4(b)).
+
+(l)   COLLECTIVE BARGAINING AGREEMENT. The rights, obligations, benefits and
+      burden of all collective bargaining agreements in place between Seller's
+      employees and Seller, if any, including, without limitation, the
+      Collective Bargaining Agreement for the Metal, Electricity, Electronics
+      and Software Sectors.
+
+(m)   CERTAIN CONTRACTS. The liabilities of Seller under and pursuant to those
+      Contracts not referenced in Section 2.1(a).
+
+3     PURCHASE PRICE - PAYMENT
+
+3.1   PURCHASE PRICE.
+
+The purchase price (the "Purchase Price") for the Purchased Assets shall be:
+
+                                       6
+<PAGE>
+
+(a)   MINIMUM PAYMENT. A minimum payment of seventeen million U.S. dollars
+      ($17,000,000.00) plus value added tax ("VAT"), to the extent applicable
+      (the "Minimum Payment"); plus
+
+(b)   ADDITIONAL CONTINGENT PAYMENTS. Additional contingent payments (the
+      "Additional CONTINGENT Payments") totaling a maximum of eight million U.S.
+      dollars ($8,000,000.00) plus VAT, to the extent applicable, payable in
+      performance installments calculated as a percentage of Performance Revenue
+      recognized during the respective installment periods identified in the
+      table below (the "Installment Periods"). "Performance Revenue" shall mean
+      [*] percent ([*]%) of Buyer's Net Revenue from Buyer's audio copy
+      protection and audio digital rights management business (the "Audio
+      Business") included in Buyer's published financial statements reported in
+      accordance with U.S. GAAP from the period beginning on the Closing Date
+      and ending the earlier of (1) the date of cumulative payment of eight
+      million U.S. dollars ($8,000,000.00) plus VAT, to the extent applicable,
+      in Additional Contingent Payments or (2) [*] (the "Performance Period").
+      Buyer shall have no further obligation to make Additional Contingent
+      Payments with respect to all or any portion of the Performance Revenue
+      that has not been earned during the Performance Period. The Additional
+      Contingent Payments shall be calculated as follows:
+
+      ------------------------------- ----------------------------------
+            Installment Periods           % of Performance Revenue
+      ------------------------------- ----------------------------------
+         Closing Date through [*]                   [*]%
+      ------------------------------- ----------------------------------
+              [*] through [*]                       [*]%
+      ------------------------------- ----------------------------------
+              [*] through [*]                       [*]%
+      ------------------------------- ----------------------------------
+              [*] through [*]                       [*]%
+      ------------------------------- ----------------------------------
+              [*] through [*]                       [*]%
+      ------------------------------- ----------------------------------
+
+For the purpose of assisting Seller with determining net revenue from the Audio
+Business, Buyer, during the Performance Period, will not bundle, solely in its
+internal management accounting records, the revenues obtained from the Audio
+Business with any other revenues earned by Buyer. In addition, for purposes
+hereof, any change in Buyer accounting methods, practices or reporting shall not
+apply.
+
+Notwithstanding anything to the contrary herein, Buyer may, at its sole
+discretion, substitute other products for Seller's products subsequent to the
+Closing Date, without any effect on Buyer's obligation to make the Additional
+Contingent Payments set forth above.
+
+3.2   PAYMENT OF PURCHASE PRICE.
+
+The Purchase Price shall be paid by Buyer as follows:
+
+(a)   Cash to Escrow Agent. At the Closing, Buyer shall deliver to Wells Fargo
+      Bank, National Association, a national banking association, having a place
+      of business at 555 Montgomery Street, 10th Floor, San Francisco,
+      California 94111, telephone number (415) 396-0135, facsimile number (415)
+      395-9064 (the "Escrow Agent"), under the terms of the attached escrow
+      agreement set out in Exhibit A, to be entered into by and among the
+
+                                       7
+<PAGE>
+
+     Escrow Agent, Buyer and Seller on the Closing Date (the "Escrow
+     Agreement"), the sum of [*] U.S. dollars ($[*]) out of the Minimum Payment
+     (the "Initial Escrow Amount"), which Initial Escrow Amount, together with
+     the Additional Escrow Amount (defined below), shall be available to secure
+     the indemnification obligations of Seller as provided in Section 10. In
+     addition, at the time of each Additional Contingent Payment, Buyer shall
+     withhold from such payment to Seller and deliver to the Escrow Agent, to be
+     held in accordance with the terms of the Escrow Agreement, an amount equal
+     to [*] percent ([*]%) of the Additional Contingent Payments due in respect
+     of the [*] through [*] Installment Periods, and [*] percent ([*]%) of the
+     Additional Contingent Payments due in respect of the [*] through [*]
+     Installment Periods (collectively, the "Additional Escrow Amount" and,
+     together with the Initial Escrow Amount, the "Escrow Account")), which
+     shall be available to secure the indemnification obligations of the Seller
+     as provided in Section 10. The Escrow Account shall be the sole and
+     exclusive remedy of Buyer with respect to any claims it may have against
+     Seller under or in connection with this Agreement, other than in the case
+     of fraud, and shall be held by the Escrow Agent until the termination of
+     the Applicable Escrow Period (as such term is defined in the Escrow
+     Agreement).
+
+(b)  CASH TO SELLER AT CLOSING. At Closing, Buyer shall deliver to Seller the
+     Minimum Payment in immediately available funds, less the Initial Escrow
+     Amount delivered to the Escrow Agent under the terms of the Escrow
+     Agreement, to a bank account of Seller as shall be designated by Seller in
+     writing at least seven (7) days prior to Closing.
+
+(c)  ADDITIONAL CONTINGENT PAYMENTS. Additional Contingent Payments shall be due
+     sixty (60) days after the last day of each respective Installment Period
+     based on the amount of revenue billed during such Installment Period from
+     the Audio Business; provided that (i) the Additional Contingent Payments
+     due in respect of each Installment Period shall be adjusted in the
+     following Installment Periods for amounts paid to Seller with respect to
+     preceding Installment Periods that have not been collected, and (ii) the
+     Additional Contingent Payment due with respect to the last Installment
+     Period shall be paid based on amounts actually collected and any such
+     amounts not collected within 60 days following the last installment period
+     shall be paid within 10 days of collection thereof (whenever collected). No
+     further Additional Contingent Payments will be due thereafter.
+
+(d)  Allocation of Purchase Price. The aggregate consideration shall be
+     allocated among the tangible and intangible Purchased Assets sold
+     hereunder, as shall be determined by Buyer (with the consent of Seller,
+     which shall not be unreasonably withheld), and set forth in Schedule 3.2(d)
+     hereto at Closing or promptly after the Closing.
+
+3.3  SALE OF THE AUDIO BUSINESS.
+
+In the event Buyer sells the Audio Business prior to [*] to a third party which
+is not an Affiliate of Buyer, then Buyer, at its option, either:
+
+(a)  will pay the Seller an amount (the "Final Payment") equal to the lesser of:
+     (1) twenty-five million U.S. dollars ($25,000,000.00) and (2) a cash or
+     cash equivalent (on the basis of
+
+                                       8
+<PAGE>
+
+     the fair market value of non-cash consideration received) amount equal to
+     [*]% of the total consideration received for the sale of the Audio
+     Business, minus
+
+     (i)  the total of the Minimum Payment and the cumulative Additional
+          Contingent Payments paid as of the date of the same, minus
+
+     (ii) [*] percent ([*]%) of any escrow amount retained by the buyer of such
+          Audio Business (the "New Escrow"), reduced by the total amounts held
+          in the Escrow Account that have not been released to Seller as of such
+          date (the "Seller Portion of New Escrow); provided, however, that such
+          Seller Portion of New Escrow shall be paid to the Seller as and when
+          (if at all) such New Escrow is released from escrow to Buyer;
+
+     provided, however, that, in any event, such Final Payment shall not exceed
+     the sum equal to $8,000,000 less the cumulative Additional Contingent
+     Payments paid to Seller as of the date of the sale; or
+
+(b)  will require such third party, as a condition of such sale, to assume the
+     obligations to make payments of the Additional Contingent Payments required
+     above (subject to their terms).
+
+     All the above amounts shall be supplemented by VAT, to the extent
+applicable.
+
+     By way of example, if as of the date of sale, Buyer paid a total of $[*]
+     million from the Minimum Payment and any Additional Contingent Payments
+     paid by Buyer, and Buyer sold the Audio Business for $[*] million subject
+     to a $[*] million New Escrow Account with a $[*] balance on the original
+     Escrow Account, Seller would receive a partial Final Payment of $[*] on the
+     date of sale and additional Final Payments totaling $[*] upon the release
+     of the New Escrow, when and if released, in accordance with the pro rata
+     share of the aggregate amount released from the New Escrow (and, for the
+     avoidance of doubt, the $[*] remaining in the Escrow Account and already
+     paid by Buyer as part of the Minimum Payment and Additional Contingent
+     Payments, when and if released under the terms of the Escrow Agreement. If
+     the sales price after the deduction of the New Escrow Account was greater
+     than $[*] million, Seller would receive a Final Payment of $[*] million
+     less the unreleased portion of the Escrow Account. If the sales price in
+     this example was equal to or less than $[*] million before the deduction of
+     the New Escrow Account, Seller would not receive a Final Payment and the
+     Buyer will continue to hold the unreleased portion of the Escrow Account.
+
+4    REPRESENTATIONS AND WARRANTIES OF SELLER
+
+Seller makes the following representations and warranties to Buyer, each of
+which is true and correct on the date hereof and as of the Closing Date, and
+shall survive the Closing of the
+
+                                       9
+<PAGE>
+
+transactions provided for herein. The representations of Seller set forth below
+are subject only to the exceptions set forth in Sellers' Disclosure Schedule and
+should be read in conjunction therewith.
+
+4.1  Corporate.
+
+(a)  ORGANIZATION. Seller is a corporation duly organized and validly existing
+     under the laws of the state of Israel.
+
+(b)  CORPORATE POWER. Seller has all requisite corporate power and authority to
+     own, operate and lease its properties, to carry on its business as and
+     where such is now being conducted, to enter into this Agreement and the
+     other documents and instruments to be executed and delivered by Seller
+     pursuant hereto and to carry out the transactions contemplated hereby and
+     thereby. SCHEDULE 4.1(b) accurately sets forth (i) the names of the members
+     of Seller's board of directors, (ii) the names of the members of each
+     committee of Seller's board of directors, and (iii) the names and titles of
+     Seller's officers.
+
+(c)  QUALIFICATION. Seller is duly licensed or qualified to do business as a
+     foreign corporation, and is in good standing, in each jurisdiction wherein
+     the character of the properties owned or leased by it, or the nature of its
+     business, makes such licensing or qualification necessary. The
+     jurisdictions in which Seller is licensed or qualified to do business are
+     listed in SCHEDULE 4.1(c). Seller has not conducted any business under or
+     otherwise used, for any purpose or in any jurisdiction, any fictitious
+     name, assumed name, trade name or the like, other than its own name.
+
+(d)  NO SUBSIDIARIES. Except as set forth in SCHEDULE 4.1(d), Seller does not
+     now nor has it ever owned any interest, beneficially or otherwise, in any
+     corporation, partnership or other entity. Seller has not agreed and is not
+     obligated to make any future investment in or capital contribution to any
+     such entities.
+
+4.2  AUTHORITY.
+
+The execution and delivery of this Agreement and the other documents and
+instruments to be executed and delivered by Seller pursuant hereto and the
+consummation of the transactions contemplated hereby and thereby have been duly
+authorized by the Board of Directors and the requisite vote of the shareholders
+of Seller. No other or further corporate act or proceeding on the part of Seller
+is necessary to authorize this Agreement or the other documents and instruments
+to be executed and delivered by Seller pursuant hereto or the consummation of
+the transactions contemplated hereby and thereby. This Agreement constitutes,
+and when executed and delivered, the other documents and instruments to be
+executed and delivered by Seller pursuant hereto will constitute, valid binding
+agreements of Seller, enforceable in accordance with their respective terms.
+
+4.3  NO VIOLATION.
+
+Neither the execution and delivery of this Agreement or the other documents and
+instruments to be executed and delivered by Seller pursuant hereto, nor the
+consummation by Seller of the
+
+                                       10
+<PAGE>
+
+transactions contemplated hereby and thereby (a) will violate or conflict with
+any applicable Law or Order, (b) except as set forth in Schedule 4.3(b), will
+require any authorization, consent, approval, exemption or other action by or
+notice to any Government Entities (including, without limitation, under any
+"plant-closing" or similar law), or (c) subject to obtaining the consents
+described in Schedule 4.3(c), will violate or conflict with, or constitute a
+default (or an event which, with notice or lapse of time, or both, would
+constitute a default) under, or will result in or give rise to the termination
+of, or accelerate the performance required by, or result in the creation of any
+Lien (as defined in Section 4.10(a)) upon any of the Purchased Assets under, any
+term or provision of the Memorandum of Association or Articles of Association of
+Seller or of any contract, indenture, commitment, understanding, arrangement,
+agreement or restriction of any kind or character to which Seller is a party or
+by which Seller or any of its assets or properties may be bound or affected.
+
+4.4  FINANCIAL STATEMENTS.
+
+Included as SCHEDULE 4.4 are true and complete copies of all audited and
+unaudited financial statements for the last three fiscal years (including,
+without limitation, the unaudited financial statement for the period ended
+September 30, 2002) and interim reports as of the most recent quarter for which
+such reports are available (including the notes and schedules contained therein
+or annexed thereto) (the "Financial Statements"). All of such financial
+statements (including all notes and schedules contained therein or annexed
+thereto) are true, complete and accurate in accordance with U.S. GAAP (except,
+in the case of unaudited statements, for the absence of footnote disclosure)
+applied on a consistent basis, have been prepared in accordance with the books
+and records of Seller, and fairly present, in accordance with U.S. GAAP, the
+assets, liabilities and financial position, the results of operations and cash
+flows of Seller as of the dates and for the years and periods indicated.
+
+4.5  TAX MATTERS.
+
+(a)  Seller and any consolidated, combined, unitary or aggregate group for Tax
+     purposes of which Seller is or has been a member, have properly completed
+     and timely filed all Tax Returns required to be filed by them and have paid
+     all Taxes shown thereon to be due. The Financial Statements reflect any
+     unpaid Taxes of Seller for periods (or portions of periods) through
+     September 30, 2002 (the "Recent Balance Sheet"). Seller has no liability
+     for unpaid Taxes accruing after the Recent Balance Sheet except for Taxes
+     incurred in the ordinary course of business subsequent to the Recent
+     Balance Sheet. There is (i) no claim for Taxes that is a Lien against the
+     property of Seller or is being asserted against Seller and (ii) no audit of
+     any Tax Return of Seller is being conducted by a Tax Authority. Seller is
+     not a party to any Tax sharing or Tax allocation agreement nor does Seller
+     have any liability or potential liability to another party under any such
+     agreement. Seller has not filed any disclosures to prevent the imposition
+     of penalties with respect to any Tax reporting position taken on any Tax
+     Return. Seller has never been a member of a consolidated, combined, unitary
+     or aggregate group of which Seller was not the ultimate parent corporation.
+     Seller has in its possession receipts for any Taxes paid to foreign tax
+     authorities or governmental authorities.
+
+                                       11
+<PAGE>
+
+(b)  Seller has withheld all amounts required to be withheld by Law, including
+     in connection to its Employees. Seller has timely paid to the appropriate
+     tax authorities or governmental entity all amounts so withheld or otherwise
+     due, including in connection with the employment by Seller of its
+     Employees, and has timely filed all requisite Tax Returns with the tax
+     authorities or Governmental Entities with respect to said Taxes. Seller is
+     not a party to any Tax proceedings with respect to the withholding of Taxes
+     from its Employees and/or payment to the tax authorities or Governmental
+     Entities of withholding Taxes or other amounts due with respect to their
+     employment with Seller. To the best Knowledge of Seller, no investigation
+     is being conducted against Seller by any tax authority or Governmental
+     Entities with respect to any of the above withholding, payment, filing or
+     any other obligations in connection with the above. Seller shall not
+     recover or attempt to recover from any of its Employees any Taxes asserted
+     against Seller and/or collected from it whether prior, upon or after the
+     Closing. For the purpose of this Section 4.5(b), (i) "Tax" shall include,
+     without limitation, income Taxes, levies, social security dues, compulsory
+     loans and any other compulsory payments with respect to the employment of
+     the Employees of Seller under the laws of Israel, and the term "tax
+     authority" shall be construed accordingly, and (ii) Seller shall also
+     include, where applicable, the trustee under Seller's stock option plan, if
+     any.
+
+(c)  Seller has had an opportunity to review with its own tax advisors the tax
+     consequences to it of the transactions contemplated hereunder and the other
+     transactions contemplated by this Agreement. Seller understands that it
+     must rely solely on its advisors and not on any statements or
+     representations by Buyer or any of its attorneys, investment advisors,
+     accountants or other agents with respect to tax matters.
+
+(d)  "Tax", "Taxes" or "Taxable" means (i) any and all net income, alternative
+     or add-on minimum tax, gross income or adjusted gross income, gross
+     receipts, sales, use, real or VAT, ad valorem, transfer, franchise,
+     profits, or excess profits tax, license, withholding or back up
+     withholding, payroll, employment, excise, severance, stamp, occupation,
+     premium, property, production, environmental or windfall profit tax, custom
+     duty, social security tax (national insurance), health insurance tax,
+     severance, prohibited transaction, intangibles or other tax, governmental
+     fee or other like assessment or charge of any kind whatsoever, together
+     with any interest or any penalty, addition to tax or additional amount
+     imposed by any governmental entity or responsible for the imposition of any
+     such tax (domestic or foreign), (ii) any and all liability for the payment
+     of any amounts of the type described in (i) as a result of being a member
+     of an affiliated, consolidated, combined, unitary or aggregate group for
+     any taxable period, and (iii) any and all liability for the payment of any
+     amounts of the type described in (i) or (ii) as a result of being a
+     transferee of or successor to any person or as a result of any express or
+     implied obligation to indemnify any other person. "Tax Returns" means all
+     returns, declarations, reports, estimates, forms, information returns and
+     statements or other information (including, without limitation, estimated
+     tax returns and reports, withholding tax returns and reports and
+     information returns and reports) required to be filed with respect to any
+     Tax.
+
+4.6  ABSENCE OF CERTAIN CHANGES.
+
+                                       12
+<PAGE>
+
+Since the Recent Balance Sheet there has not been:
+
+(a)  NO ADVERSE CHANGE. Any material adverse change in the financial condition,
+     assets, Liabilities, business or operations of Seller;
+
+(b)  NO DAMAGE. Any loss, damage or destruction in excess of ten thousand
+     dollars ($10,000.00), whether covered by insurance or not, pertaining to
+     Seller's business or properties;
+
+(c)  NO INCREASE IN COMPENSATION. Except as set forth in Schedule 4.6(c), any
+     increase in the compensation, salaries or wages payable or to become
+     payable to any Employee or agent of Seller (including, without limitation,
+     any increase or change pursuant to any bonus, pension, profit sharing,
+     retirement or other plan or commitment), or any bonus or other employee
+     benefit declared, obligated, granted, made or accrued;
+
+(d)  NO LABOR DISPUTES. Any labor dispute or disturbance, other than routine
+     individual grievances which are not material to the business, financial
+     condition or results of operations of Seller;
+
+(e)  NO COMMITMENTS. Except as set forth in Schedule 4.6(e), any commitment or
+     transaction by Seller (including, without limitation, any borrowing or
+     capital expenditure) other than in the ordinary course of business
+     consistent with past practice;
+
+(f)  NO DIVIDENDS. Any declaration, setting aside, or payment of any dividend or
+     any other distribution in respect of Seller's capital stock; any
+     redemption, purchase or other acquisition by Seller of any capital stock of
+     Seller, or any security relating thereto; or any other payment to any
+     shareholder of Seller as such a shareholder;
+
+(g)  NO DISPOSITION OF PROPERTY. Any sale, lease or other transfer or
+     disposition of any properties or assets of Seller, except in the ordinary
+     course of business;
+
+(h)  NO INDEBTEDNESS. Except as set forth in Schedule 4.6(h), any indebtedness
+     for borrowed money incurred, assumed or guaranteed by Seller;
+
+(i)  NO LIENS. Any Lien made on any of the properties or assets of Seller;
+
+(j)  NO AMENDMENT OF CONTRACTS. Except as set forth in Schedule 4.6(j), any
+     entering into, amendment or termination by Seller of any contract, or any
+     waiver or release of material rights or claims thereunder including any
+     write-off or other compromise of any account receivable of Seller, related
+     to the Purchased Assets, other than in the ordinary course of business;
+
+(k)  LOANS AND ADVANCES. Except as set forth in Schedule 4.6(k), any loan or
+     advance (other than advances to Employees in the ordinary course of
+     business for travel and entertainment in accordance with past practice) to
+     any person including, but not limited to, any officers, directors or
+     Employees of Seller, or any shareholders or Affiliates;
+
+                                       13
+<PAGE>
+
+(l)  CREDIT. Any grant of credit to any customer or distributor on terms or in
+     amounts more favorable than those which have been extended to such customer
+     or distributor in the past, any other change in the terms of any credit
+     heretofore extended, or any other change of Seller's policies or practices
+     with respect to the granting of credit;
+
+(m)  ACCOUNTING METHODS. Any change in accounting methods or practices
+     (including any change in depreciation or amortization policies or rates) by
+     Seller;
+
+(n)  NO UNUSUAL EVENTS. Except as set forth in SCHEDULE 4.6(n), any other event
+     or condition not in the ordinary course of business of Seller; or
+
+(o)  MISCELLANEOUS. Any agreement (whether written or oral) to do any of the
+     things described in the preceding clauses.
+
+4.7  ABSENCE OF UNDISCLOSED LIABILITIES.
+
+Except as set forth in SCHEDULE 4.7, Seller does not have any Liabilities other
+than in connection with the consummation of the transactions contemplated by
+this Agreement and commercial liabilities and obligations incurred since the
+date of the Recent Balance Sheet in the ordinary course of business and
+consistent with past practice and none of which has or will have a material
+adverse effect on the business, assets, financial condition or results of
+operations of Seller. Except as and to the extent described in the Recent
+Balance Sheet or in SCHEDULE 4.7, Seller has no Knowledge of any basis for the
+assertion against Seller of any Liability and Seller has no Knowledge of any
+circumstances, conditions, happenings, events or arrangements, contractual or
+otherwise, which may give rise to Liabilities, except commercial liabilities and
+obligations incurred in the ordinary course of Seller's business and consistent
+with past practice. For the purposes of this Agreement, the term "Knowledge"
+means (i) the actual knowledge of the party's President, CEO, VPs, Executive VPs
+or Directors (collectively the "Executive Team") and (ii) the constructive
+knowledge that a member of the Executive Team could reasonably be expected to
+become aware of in the ordinary course of business regarding the accuracy of any
+representation or warranty contained in this Agreement.
+
+4.8  NO LITIGATION.
+
+Except as set forth in SCHEDULE 4.8, there is no Litigation pending or
+threatened against Seller, its directors (in such capacity), its business or any
+of its assets. Seller does not have any Knowledge of any basis for any
+Litigation. SCHEDULE 4.8 also identifies all Litigation to which Seller or any
+of its directors (in their capacity as such) have been parties during the last
+five years. Except as set forth in SCHEDULE 4.8, neither Seller nor its business
+or assets is subject to any Order.
+
+4.9  COMPLIANCE WITH LAWS AND ORDERS.
+
+(a)  COMPLIANCE. Except as set forth in SCHEDULE 4.9(a), seller (including each
+     and all of its operations, practices, properties and assets) is in
+     compliance with all applicable Laws and Orders, including, without
+     limitation, those applicable to discrimination in employment, occupational
+     safety and health, trade practices, competition and pricing, product
+     warranties, zoning, building and sanitation, employment, retirement and
+     labor relations,
+
+                                       14
+<PAGE>
+
+      product advertising, encryption regulations and environmental laws. Seller
+      has not received notice of any violation or alleged violation of any Laws
+      or Orders. All reports and returns required to be filed by Seller with any
+      Government Entities have been filed in a timely manner, and were accurate
+      and complete in all material respects when filed. Without limiting the
+      generality of the foregoing, the operation of Seller's business as it is
+      now conducted does not, nor does any condition existing at any of the
+      Leased Real Property, in any manner constitute a nuisance or other
+      tortious interference with the rights of any person or persons in such a
+      manner as to give rise to or constitute the grounds for a suit, action,
+      claim or demand by any such person or persons seeking compensation or
+      damages or seeking to restrain, enjoin or otherwise prohibit any aspect of
+      the conduct of such business or the manner in which it is now conducted.
+
+(b)   LICENSES AND PERMITS. Seller has all licenses, permits, approvals,
+      authorizations and consents of all Government Entities and all
+      certification organizations required for the conduct of the business as
+      presently conducted and operation of the Leased Real Property. All such
+      licenses, permits, approvals, authorizations and consents are described in
+      SCHEDULE 4.9(b), are in full force and effect and are assignable to Buyer
+      in accordance with their respective terms. Except as set forth in SCHEDULE
+      4.9(b), Seller (including its operations, properties and assets) is and
+      has been in compliance with all such permits and licenses, approvals,
+      authorizations and consents.
+
+(c)   INVESTMENT CENTER. Correct copies of all applications submitted by Seller
+      to the Investment Center of the Ministry of Industry and Commerce for
+      receipt of a status of Approved Enterprise under the Law for the
+      Encouragement of Capital Investments, 1959, and all letters of approval,
+      and supplements thereto, granted by the Investment Center of the Ministry
+      of Industry and Commerce have been delivered to Buyer and are listed in
+      SCHEDULE 4.9(c). Seller is in compliance with all such letters of
+      approval, supplements thereto and with the Law for the Encouragement of
+      Capital Investments, 1959 and the regulations promulgated thereunder.
+
+(d)   FOREIGN CORRUPT PRACTICES ACT. Neither Seller nor, to Seller's best
+      Knowledge, any agent, Employee or other entity associated with or acting
+      on behalf of Seller, has, directly or indirectly, used any corporate funds
+      for unlawful contributions, gifts, entertainment or other unlawful
+      expenses relating to political activity, made any unlawful payment to any
+      government official or Employee or to any political party or campaign from
+      corporate funds, violated any applicable provision of the U.S. Foreign
+      Corrupt Practices Act of 1977, as amended, or made any bribe, rebate,
+      payoff, influence payment, kickback or other similar unlawful payment.
+
+4.10  TITLE TO AND CONDITION OF PROPERTIES.
+
+(a)   MARKETABLE TITLE. Except as set forth in SCHEDULE 10.4(a), Seller has
+      good, valid and marketable title to or, in the case of leased properties
+      and assets, good, valid and marketable leasehold interests in, all the
+      Purchased Assets, free and clear of all mortgages, liens (statutory or
+      otherwise), security interests, pledges, licenses, equities, options,
+      conditional sales contracts, levies, charges or encumbrances of any nature
+
+                                       15
+<PAGE>
+
+      whatsoever (collectively, "Liens"). Except as set forth in SCHEDULE
+      10.4(a), none of the Purchased Assets are subject to any restrictions with
+      respect to the transferability thereof. Seller has complete and
+      unrestricted power and right to sell, assign, convey and deliver the
+      Purchased Assets to Buyer as contemplated hereby, including with regard to
+      all relevant laws pertaining to the export of encryption technology.
+      Except as set forth in SCHEDULE 10.4(a), at Closing, Buyer will receive
+      good and marketable title to all the Purchased Assets, free and clear of
+      all Liens of any nature whatsoever.
+
+(b)   CONDITION. Excect as set forth in SCHEDULE 10.4(b), all tangible assets
+      constituting Purchased Assets hereunder are in good operating condition
+      and repair, free from any defects (except such defects as do not interfere
+      with the use thereof in the conduct of the normal operations of Seller),
+      have been maintained consistent with the standards generally followed in
+      the industry and are sufficient to carry on the business of Seller as
+      conducted during the preceding 12 months.
+
+(c)   NO CONDEMNATION OR EXPROPRIATION. Except as set forth in SCHEDULE 10.4(c),
+      neither the whole nor any portion of the property or any other assets of
+      Seller is subject to any Order to be sold or is being condemned,
+      expropriated or otherwise taken by any Government Entities with or without
+      payment of compensation therefor, nor to the best of Seller's Knowledge
+      has any such condemnation, expropriation or taking been proposed.
+
+4.11  INSURANCE.
+
+(a)   INSURANCE POLICIES. Set forth in SCHEDULE 4.11(a) is a complete and
+      accurate list and description of all policies of fire, liability, product
+      liability, workers compensation, health and other forms of insurance
+      presently in effect with respect to the business and properties of Seller,
+      true and correct copies of which have heretofore been delivered to Buyer.
+      SCHEDULE 4.11(a) includes, without limitation, the carrier, the
+      description of coverage, the limits of coverage, retention or deductible
+      amounts, amount of annual premiums, date of expiration and the date
+      through which premiums have been paid with respect to each such policy,
+      and any pending claims. All such policies are valid, outstanding and
+      enforceable policies and provide insurance coverage for the properties,
+      assets and operations of Seller, of the kinds, in the amounts and against
+      the risks customarily maintained by organizations similarly situated; and
+      no such policy (nor any previous policy) provides for or is subject to any
+      currently enforceable retroactive rate or premium adjustment, loss sharing
+      arrangement or other actual or contingent liability arising wholly or
+      partially out of events arising prior to the date hereof. No notice of
+      cancellation or termination has been received with respect to any such
+      policy, and Seller has no Knowledge of any act or omission of Seller that
+      could result in cancellation of any such policy prior to its scheduled
+      expiration date. Seller has not been refused any insurance with respect to
+      any aspect of the operations of the business nor has its coverage been
+      limited by any insurance carrier to which it has applied for insurance or
+      with which it has carried insurance during the last three years. Seller
+      has duly and timely made all claims it has been entitled to make under
+      each policy of insurance. There is no claim by Seller pending under any
+      such policies as to which coverage has been questioned, denied or disputed
+      by the underwriters of such policies, and Seller does not know of any
+      basis for
+
+                                       16
+<PAGE>
+
+      denial of any claim under any such policy. Seller has not received any
+      written notice from or on behalf of any insurance carrier issuing any such
+      policy that insurance rates therefor will hereafter be substantially
+      increased (except to the extent that insurance rates may be increased for
+      all similarly situated risks) or that there will hereafter be a
+      cancellation or an increase in a deductible (or an increase in premiums in
+      order to maintain an existing deductible) or nonrenewal of any such
+      policy. Such policies are sufficient in all material respects for
+      compliance by Seller with all requirements of law and with the
+      requirements of all material contracts to which Seller is a party.
+
+(b)   INSURANCE CLAIMS. Set forth in SCHEDULE 4.11(b) is a true and correct copy
+      of an extract from Seller's insurers setting forth all claims directed or
+      handled by the insurers of Seller in the last 3 years.
+
+4.12  CONTRACTS AND COMMITMENTS.
+
+(a)   REAL PROPERTY LEASES. Except as set forth in SCHEDULE 4.12(a), Seller has
+      no leases of real property.
+
+(b)   PERSONAL PROPERTY LEASES. Except as set forth in SCHEDULE 4.12(d), Seller
+      has no leases of personal property.
+
+(c)   PURCHASE COMMITMENTS. Seller has no purchase commitments for inventory
+      items or supplies that, together with amounts on hand, constitute in
+      excess of three months normal usage, or which are at an excessive price.
+
+(d)   SALES COMMITMENTS. Seller has no sales contracts or commitments except
+      those made in the ordinary course of business, at arm's length, and no
+      such contracts or commitments are for a sales price that would result in
+      a loss to Seller.
+
+(e)   CONTRACTS FOR SERVICES. Except as set forth in SCHEDULE 4.12(e), Seller
+      has no agreement, understanding, contract or commitment (written or oral)
+      with any officer, shareholder, Employee, agent, consultant, distributor,
+      dealer or franchisee that is not cancelable by Seller on notice of not
+      longer than 30 days without liability, penalty or premium of any nature
+      or kind whatsoever.
+
+(f)   POWERS OF ATTORNEY. Except as set forth in SCHEDULE 4.12(f), Seller has
+      not given a power of attorney, which is currently in effect, to any
+      person, firm or corporation for any purpose whatsoever.
+
+(g)   COLLECTIVE BARGAINING AGREEMENTS. Except as set forth in Schedule 4.12(g),
+      Seller is not a party to, or bound by, any collective bargaining
+      agreements with any unions, guilds, shop committees or other collective
+      bargaining groups or any applicable Order in connection therewith.
+
+(h)   LOAN AGREEMENTS. Except as set forth in SCHEDULE 4.12(h), Seller is not
+      obligated under any loan agreement, promissory note, letter of credit, or
+      other evidence of indebtedness as a signatory, guarantor or otherwise.
+
+                                       17
+<PAGE>
+
+(i)   GUARANTEES. Except as set forth in SCHEDULE 4.12(i), Seller has not
+      guaranteed the payment or performance of any person, firm or corporation,
+      agreed to indemnify any person or act as a surety, or otherwise agreed to
+      be contingently or secondarily liable for the obligations of any person.
+
+(j)   CONTRACTS SUBJECT TO RENEGOTIATION. Seller is not a party to any contract
+      with any governmental body that is subject to renegotiation.
+
+(k)   BURDENSOME OR RESTRICTIVE AGREEMENTS. Except as set forth in SCHEDULE
+      4.12(k), Seller is not a party to nor is it bound by any agreement
+      requiring Seller to assign any interest in any trade secret or proprietary
+      information, or prohibiting or restricting Seller from competing in any
+      business or geographical area or soliciting customers or otherwise
+      restricting it from carrying on its business anywhere in the world.
+
+(l)   OTHER MATERIAL CONTRACTS. Seller has no lease, license, contract or
+      commitment of any nature that is individually material to the operations
+      of Seller, except as explicitly described in Schedule 4.12(l) or in any
+      other Schedule.
+
+(m)   NO DEFAULT. Except as set forth in SCHEDULE 4.12(m), each lease, contract
+      or commitment of Seller is in full force and effect and Seller is not in
+      default under any lease, contract or commitment, nor has any event or
+      omission occurred which through the passage of time or the giving of
+      notice, or both, would constitute a default thereunder or cause the
+      acceleration of any of Seller's obligations or result in the creation of
+      any Lien on any of the assets owned, used or occupied by Seller. Except as
+      set forth in SCHEDULE 4.12(m), no third party is, to the Seller's
+      Knowledge, in default under any lease, contract or commitment to which
+      Seller is a party, nor does the Seller have any Knowledge of an event or
+      omission occurred which, through the passage of time or the giving of
+      notice, or both, would constitute a default thereunder or give rise to an
+      automatic termination, or the right of discretionary termination, thereof.
+
+(n)   MOST FAVORED NATIONS. Seller has not engaged in any act which would have
+      the effect, before or after Closing, of triggering any "most favored
+      nations" or similar preferential treatment clause in any material contract
+      to which Seller is or has been a party.
+
+4.13  LABOR MATTERS.
+
+Except as set forth in SCHEDULE 4.13, Seller is in compliance in all material
+respects with all applicable (including, without limitation, the Severance
+Compensation Act - 1963, the Equal Opportunities in Labor Act - 1988, the
+Employment of Employees by Manpower Contractors Act - 1996, the Protection of
+Salary Act - 1958 and the Minimum Salary Act - 1987) laws, policies, procedures
+and agreements relating to employment, terms and conditions of employment and to
+the proper withholding and remission to the proper tax authorities of all sums
+required to be withheld from the Employees (as defined below), and Seller has
+paid in full to the Employees all wages, salaries, commissions, bonuses,
+Benefits (as defined below) and other compensation due and payable to such
+Employees as of the Closing Date, including, without limitation, in connection
+with the termination by Seller of the employment of the Employees
+
+                                       18
+<PAGE>
+
+(who will not be Transferred Employees). All the Benefits to which any Employee
+or former Employee is or may be entitled including, INTER ALIA, severance pay,
+accrued and unpaid vacation days, convalescent pay, leave and health, have been
+paid or reserved for in the Financial Statements in accordance with U.S. GAAP.
+All contributions to benefit plans (including employer contributions and
+employee salary reduction contributions), including insurance and education
+funds, that are due as of the Closing Date have been paid to each Employee's
+benefit plan.
+
+No work stoppage or labor strike against Seller is pending or threatened. Seller
+is not involved in or, to its Knowledge, threatened with, any labor dispute,
+grievance, or litigation relating to labor or safety matters involving any of
+the Employees. Seller is not presently, nor has it been in the past, a party to,
+or bound by, any collective bargaining agreement or union contract or Order
+(including, without limitation, any Order issued by the Histadrut (General
+Federation of Labor in Israel) or the Industrialists Association in Israel) with
+respect to any of the Employees and no such collective bargaining agreement is
+being negotiated by Seller.
+
+4.14  EMPLOYEE BENEFIT AND STOCK OPTION PLANS.
+
+(a)   EMPLOYEE EQUITY AND OPTIONS. Set forth in SCHEDULE 4.14(a) is a complete
+      and accurate list of all currently outstanding equity of Seller or any
+      Affiliate thereof issued to, and options to acquire any such equity
+      currently held by, officers, directors, Employees or consultants of Seller
+      or its Affiliates, indicating the number of shares covered, the name and
+      title (or relationship) of the holder, the vesting schedule of each such
+      option and all such shares and exercise prices therefor. Except as set
+      forth therein, Seller does not operate any share incentive scheme, share
+      option scheme or profit sharing scheme for the benefit of any of its
+      officers, directors, Employees or consultants.
+
+(b)   EMPLOYEE BENEFIT PLANS. Except as contemplated hereby, neither the
+      execution, delivery or performance of this Agreement, nor the consummation
+      of any of the other transactions contemplated by this Agreement, will
+      result in any payment (including any bonus, golden parachute or severance
+      payment) to any current or former Employees or directors of Seller
+      (whether or not under any benefit plan), or increase the Benefits payable
+      under any benefit plan, or result in any acceleration of the time of
+      payment or vesting of any such Benefits, except as provided therein.
+
+4.15  EMPLOYMENT COMPENSATION.
+
+SCHEDULE 4.15 contains a true and correct list of all employees and consultants
+to whom Seller is paying compensation and/or salary ("Employees"), including
+description of their compensation and/or salary and other basic terms of
+employment or consultancy, bonuses and incentives for services rendered or
+otherwise; and in the case of salaried Employees such list identifies the
+current annual rate of compensation for each Employee and in the case of hourly
+or commission Employees identifies certain reasonable ranges of rates and the
+number of Employees falling within each such range. SCHEDULE 4.15 contains a
+true and correct list of all employees and consultants of the Seller. SCHEDULE
+4.15 also identifies each Employee who is not fully available to perform work
+because of disability or other leave and sets forth the basis of such leave and
+the
+
+                                       19
+<PAGE>
+
+anticipated date of return to full service. Seller has provided Buyer with
+either a copy of the agreements between Seller and each Employee or a full and
+accurate description of the terms of employment or retention of each Employee,
+and all benefits, including, without limitation, salaries, directors' fees,
+social benefits, bonuses, commissions, profit shares, automobile, reimbursement
+of expenses and benefits in kind ("Benefits") payable or which Seller is bound
+to provide (whether now or in the future) to each Employee. The Seller has not
+adopted any policy or custom with respect to any Benefit that would materially
+change the terms of such Benefit to which an Employee is entitled, under an
+employment agreement or applicable law, excluding only the policy and custom to
+pay employee severance pay upon termination even when such termination is due to
+such employee's voluntary termination.
+
+4.16  TRADE RIGHTS.
+
+(a)   TRADE RIGHTS LIST. SCHEDULE 4.16(a) lists all Trade Rights of the type
+      described in clauses (i), (ii), (iii) and (iv) of Section 1.1(e) in which
+      Seller now has any interest, specifying whether such Trade Rights are
+      owned, controlled, used or held (under license or otherwise) by Seller,
+      and also indicating which of such Trade Rights are registered. All Trade
+      Rights shown as registered in SCHEDULE 4.16(a) have been properly
+      registered, all pending registrations and applications have been properly
+      made and filed and all annuity, maintenance, renewal and other fees
+      relating to registrations or applications are current. All such
+      registrations, filings and issuances remain in full force and effect, all
+      fees and other charges with respect thereto are current, and there are no
+      fees or charges due or that would become due or payable with respect
+      thereto within the ninety (90) days following the Closing Date.
+
+(b)   CONFIDENTIALITY AND NON-DISCLOSURE AGREEMENTS. None of the former or
+      present Employees, consultants, officers or directors of Seller or any
+      distributor, reseller or customer of Seller, owns, directly or indirectly,
+      or has any other right or interest in, or claim to, in whole or in part,
+      any of the Trade Rights. Each current and former Employee, consultant or
+      contractor of Seller, who invented, participated in the invention or
+      reduction to practice of, or was granted access to, any of the Trade
+      Rights, executed (i) in the case of Employees, a proprietary information
+      and confidentiality agreement substantially in the form of SCHEDULE
+      4.16(b)(i) and (ii) in the case of consultants and contractors, a
+      non-disclosure agreement substantially in the form of SCHEDULE 4.16(b)
+      (ii). All technical information which is proprietary to Seller has been
+      kept confidential by Seller, with the exception of technical information
+      that has been disclosed in the ordinary course of business under
+      non-disclosure or similar agreements and information that has been
+      submitted in the course of filing patent applications.
+
+(c)   INTEREST IN TRADE RIGHTS. In order to conduct the business of Seller, as
+      such is currently being conducted, except as set forth in SCHEDULE
+      4.16(c), Seller does not require any Trade Rights that it does not already
+      have.
+
+(d)   NO INFRINGEMENT. Except as set forth in Schedule 4.16(d), Seller is not
+      infringing and has not infringed any Trade Rights of another in the
+      operation of the business of Seller, including, without limitation, the
+      Trade Rights of Philips, Sony, Thompson multimedia or
+
+                                       20
+<PAGE>
+
+      TTR Technologies; nor, to Seller's Knowledge, is any other person
+      infringing the Trade Rights of Seller.
+
+(e)   NO LICENSE OR ASSIGNMENT; NO THIRD PARTY COMPENSATION; NO ROYALTIES.
+      Except as set forth in SCHEDULE 4.16(e), Seller has not granted any
+      license or made any assignment of any Trade Right listed on SCHEDULE
+      4.16(a), and no other person has any right to use any Trade Right owned or
+      held by Seller. Seller is not obligated, under contract or by law, to pay
+      any compensation to any third party in respect of the use, transfer or
+      sale of any portion of the Trade Rights. Seller does not pay any royalties
+      or other consideration for the right to use any Trade Rights of others.
+
+(f)   NO LITIGATION. There is no Litigation pending or, to Seller's Knowledge,
+      threatened to challenge Seller's right, title and interest with respect to
+      its continued use and right to preclude others from using any Trade Rights
+      of Seller.
+
+(g)   GOVERNMENTAL ENTITY GRANT. Except as set forth in SCHEDULE 4.16(g), at no
+      time during the conception of or reduction of any of the Trade Rights to
+      practice was any developer, inventor or other contributor to the Trade
+      rights operating under any grants from any Governmental Entity, performing
+      research sponsored by any Governmental Entity or private source or other
+      obligation with any third party that in each case could adversely affect
+      Seller's rights in the Trade Rights. Seller has not requested from, made
+      any application to, nor received any benefits from, the Office of the
+      Chief Scientist of the Israeli Ministry of Industry and Trade for receipt
+      of research and development funding in accordance with the Law for the
+      Encouragement of Industrial Research and Development, 1984.
+
+4.17  MAJOR CUSTOMERS AND SUPPLIERS.
+
+(a)   MAJOR CUSTOMERS. SCHEDULE 4.17(a) contains a list of all customers,
+      including distributors, of Seller for each of the two (2) most recent
+      fiscal years (determined on the basis of the total dollar amount of net
+      sales) showing the total dollar amount of net sales to each such customer
+      during each such year. Seller has no Knowledge nor information of any
+      facts indicating, nor any other reason to believe, that any of the
+      customers listed on SCHEDULE 4.17(a) would not have continued to be
+      customers of the business of Seller after the Closing at substantially the
+      same level of purchases as heretofore had Buyer taken assignment of all of
+      Seller's agreements with such customers in accordance with their
+      respective terms.
+
+(b)   DEALERS AND DISTRIBUTORS. SCHEDULE 4.17(b) contains a list by product line
+      of all sales representatives, dealers, distributors and franchisees of
+      Seller. Seller has furnished to Buyer representative copies of all sales
+      representative, dealer, distributor and franchise contracts and policy
+      statements, and all substantial modifications or exceptions thereto.
+
+4.18  PRODUCT WARRANTY AND PRODUCT LIABILITY.
+
+                                       21
+<PAGE>
+
+SCHEDULE 4.18(a) contains a true, correct and complete copy of Seller's standard
+warranty or warranties for sales of Products (as defined below) and, except as
+stated therein, there are no warranties, commitments or obligations with respect
+to the return, repair or replacement of Products. SCHEDULE 4.18(b) contains a
+description of all product liability claims and similar Litigation relating to
+Products that are presently pending or that to Seller's Knowledge are
+threatened, or which have been asserted or commenced against Seller within the
+last five (5) years (whether or not covered by insurance). Except as set forth
+in SCHEDULE 4.18(c), there are no defects in the Products, to Seller's
+Knowledge, that would adversely affect performance or create an unusual risk of
+injury to property. None of the Products has been the subject of any
+replacement, field fix, retrofit, modification or recall campaign and, to
+Seller's Knowledge, no facts or conditions exist which could reasonably be
+expected to result in such a recall campaign. The Products have been designed
+and manufactured so as to meet and comply with all applicable governmental
+standards and specifications currently in effect, and have received all
+governmental approvals necessary to allow their sale and use. As used in this
+Section 4.18, the term "Products" means any and all products currently or at any
+time previously distributed or sold by Seller, or by any predecessor of Seller
+under any brand name or mark under which products are or have been distributed
+or sold by Seller.
+
+4.19  AFFILIATES' RELATIONSHIPS TO SELLER.
+
+(a)   CONTRACTS WITH AFFILIATES. All leases, contracts, agreements or other
+      arrangements between Seller and any Affiliate are described on Schedule
+      4.19(a).
+
+(b)   NO ADVERSE INTERESTS. No Affiliate has any direct or indirect interest in
+      (i) any entity that does business with Seller or is competitive with
+      Seller's business, or (ii) any property, asset or right that is used by
+      Seller in the conduct of its business.
+
+(c)   OBLIGATIONS. All obligations of any Affiliate to Seller, and all
+      obligations of Seller to any Affiliate, are listed on Schedule 4.19(c).
+
+4.20  SHAREHOLDER LIST.
+
+All shareholders and warrant or option holders of Seller's share capital are
+listed on SCHEDULE 4.20 hereto, together with the number of shares, options or
+warrants held by each. Other than creditors, no person, other than those listed
+on SCHEDULE 4.20, is entitled to participate in any distribution of assets by
+Seller in the event of the liquidation or dissolution of Seller. Except as set
+forth in SCHEDULE 4.20, each person so listed is a competent adult and is the
+record and the beneficial owner of all shares so listed in his or her name, with
+the sole right to vote, dispose of, and receive dividends or distributions with
+respect to such shares.
+
+4.21  ASSETS NECESSARY TO BUSINESS.
+
+The Purchased Assets include all property and assets (except for the Excluded
+Assets), tangible and intangible, and all leases, licenses and other agreements,
+which are necessary to permit Buyer to carry on, as currently used or held for
+use in, the business of Seller as presently conducted.
+
+                                       22
+<PAGE>
+
+4.22  NO BROKERS OR FINDERS.
+
+Except as set forth in SCHEDULE 4.22, neither Seller nor any of its directors,
+officers, shareholders, Employees or agents have retained, employed or used any
+broker or finder in connection with the transactions provided for herein or the
+negotiation thereof. Without limiting the generality of the foregoing, Seller
+acknowledges that Buyer shall not be responsible for any brokerage fees, if any,
+payable by Seller to SG Cowen in connection with the transaction contemplated
+herein.
+
+4.23  DISCLOSURE.
+
+No representation or warranty by Seller in this Agreement, nor any statement,
+certificate, schedule, document or exhibit hereto furnished or to be furnished
+by or on behalf of Seller pursuant to this Agreement, contains or shall contain
+any untrue statement of material fact or omits or shall omit a material fact
+necessary to make the statements contained therein not misleading. All
+statements and information contained in any certificate, instrument, Disclosure
+Schedule or document delivered by or on behalf of Seller pursuant to this
+Agreement shall be deemed representations and warranties by Seller.
+
+5     REPRESENTATIONS AND WARRANTIES OF BUYER
+
+Buyer makes the following representations and warranties to Seller, each of
+which is true and correct on the date hereof and as of the Closing Date, and
+shall survive the Closing of the transactions provided for herein.
+
+5.1   CORPORATE.
+
+(a)   ORGANIZATION. Buyer is a corporation duly organized, validly existing and
+      in good standing under the laws of England and Wales.
+
+(b)   CORPORATE POWER. Buyer has all requisite corporate power to enter into
+      this Agreement and the other documents and instruments to be executed and
+      delivered by Buyer and to carry out the transactions contemplated hereby
+      and thereby.
+
+5.2   AUTHORITY.
+
+The execution and delivery of this Agreement and the other documents and
+instruments to be executed and delivered by Buyer pursuant hereto and the
+consummation of the transactions contemplated hereby and thereby have been duly
+authorized by the Board of Directors of Buyer. No other corporate act or
+proceeding on the part of Buyer or its shareholders is necessary to authorize
+this Agreement or the other documents and instruments to be executed and
+delivered by Buyer pursuant hereto or the consummation of the transactions
+contemplated hereby and thereby. This Agreement constitutes, and when executed
+and delivered, the other documents and instruments to be executed and delivered
+by Buyer pursuant hereto will constitute, valid and binding agreements of Buyer,
+enforceable in accordance with their respective terms, except as such may be
+limited by bankruptcy, insolvency, reorganization or other laws affecting
+creditors' rights generally, and by general equitable principles.
+
+                                       23
+<PAGE>
+
+5.3   NO BROKERS OR FINDERS.
+
+Neither Buyer nor any of its directors, officers, shareholders, Employees or
+agents have retained, employed or used any broker or finder in connection with
+the transactions provided for herein or the negotiation thereof.
+
+5.4   LITIGATION.
+
+To Buyer's Knowledge, no person has threatened to commence any Litigation: (i)
+that involves Buyer or the Buyer's Audio Business as conducted immediately prior
+to the Closing Date; or (ii) that challenges, or that may have the effect of
+preventing, delaying, making illegal or otherwise interfering with, any of the
+transactions contemplated by this Agreement. To Buyer's Knowledge, no event has
+occurred, and no claim, dispute or other condition or circumstance exists, that
+will, or that could reasonably be expected to, give rise to or serve as a basis
+for the commencement of any such legal proceeding.
+
+5.5   DISCLOSURE.
+
+No representation or warranty by Buyer in this Agreement, nor any statement,
+certificate, schedule, document or exhibit hereto furnished or to be furnished
+by or on behalf of Buyer pursuant to this Agreement, contains or shall contain
+any untrue statement of material fact or omits or shall omit a material fact
+necessary to make the statements contained therein not misleading.
+
+6     OTHER MATTERS
+
+6.1   ESCROW AGREEMENT.
+
+At the Closing, Seller and Buyer shall execute and deliver an Escrow Agreement
+in the form of Exhibit A hereto.
+
+6.2   CONFIDENTIAL INFORMATION.
+
+Seller shall not at any time subsequent to the Closing, except as explicitly
+requested by Buyer, use for any purpose, disclose to any person, or keep or make
+copies of documents, tapes, discs, programs or other information storage media
+(collectively "Records") containing, any Confidential Information concerning the
+Seller's Business, the Purchased Assets, or the Assumed Liabilities, all such
+information being deemed to be transferred to Buyer hereunder. For purposes
+hereof, "Confidential Information" shall mean and include, without limitation,
+all Trade Rights in which Seller has an interest, all customer and vendor lists
+and related information, all information concerning Seller's processes,
+products, costs, prices, sales, marketing and distribution methods, properties
+and assets, liabilities, finances, Employees, all privileged communications and
+work product, and any other information not previously disclosed to the public
+directly by Seller. The foregoing provisions shall not apply to any information
+which is an Excluded Asset as defined in Section 1.2, or which relates solely to
+one or more Excluded Assets. If at any time after Closing Seller should discover
+that it is in possession of any Records containing the Confidential Information
+of Buyer, then Seller shall immediately turn such Records over to Buyer, which
+shall upon request make available to Seller any information contained therein
+which is not Confidential Information. Seller agrees that it will not assert a
+
+                                       24
+<PAGE>
+
+waiver or loss of confidential or privileged status of the information based
+upon such possession or discovery. Seller hereby consents to Buyer's
+consultation with legal, accounting and other professional advisors to Seller
+concerning advice rendered to Seller prior to the Closing regarding Seller's
+Business, the Purchased Assets or the Assumed Liabilities, excluding, however,
+the negotiation and drafting of this Agreement and the transactions entered into
+pursuant hereto.
+
+6.3   USE OF SELLER'S NAME.
+
+Following the Closing, neither Seller nor any Affiliate shall, without the prior
+written consent of Buyer, make any use of the name "Midbar," "Midbar Tech Ltd.,"
+"Midbar Tech (1998) Ltd." or any other name confusingly similar thereto, except
+as may be necessary for Seller to pay its liabilities, prepare tax returns and
+other reports, and to otherwise wind up and conclude its business.
+
+6.4   SALES TAX MATTERS.
+
+Seller shall pay and be responsible for all capital gains and other Taxes
+applicable under any applicable law in connection with this Agreement and the
+transactions contemplated hereby. In addition and without deviating from the
+above, Buyer will withhold and deduct from the Purchase Price all applicable
+Israeli deductions and withholding Taxes, provided that Buyer will reduce such
+deduction or withholding to the extent provided by applicable law in the event
+Seller provides to Buyer certificates or other documentation, in form and
+substance reasonably satisfactory to Buyer, evidencing any valid exemption from
+such deduction or withholding.
+
+6.5   NON-COMPETITION.
+
+As a condition to the Closing, and as an inducement to Buyer to execute this
+Agreement and complete the transaction contemplated hereby, and in order to
+preserve the goodwill associated with Seller's Business being acquired pursuant
+to this Agreement, Seller shall sign a non-competition agreement substantially
+in the form of Exhibit B (the "Seller Non-Competition Agreement").
+
+6.6   COVENANTS OF BUYER.
+
+(a)   REPORTS. The Buyer shall furnish to the Seller, within sixty (60) days of
+      the termination of each Installment Period, a report setting forth in
+      reasonable detail, the sales and amounts collected by Buyer during such
+      Installment Period, which reports shall include names of customers,
+      products purchased, amounts billed, terms of payment and amounts
+      collected.
+
+(b)   ACCESS TO BOOKS AND RECORDS. Seller shall have the right, at its own
+      expense, during the Performance Period and for a period of one (1) year
+      thereafter, to have an independent public accountant located in the San
+      Francisco Bay area examine not more than once in each Installment Period
+      the financial books and records of account relevant to the Buyer's Audio
+      Business, which examination shall be conducted during normal business
+      hours and upon reasonable notice to Buyer, to determine the Buyer's
+      compliance with its obligations hereunder. If errors in the Seller's favor
+      are discovered as a result of such
+
+                                       25
+<PAGE>
+
+      examination, Buyer shall promptly pay to Seller the amount of any such
+      deficiency and if such error is equal to or exceeds 5%, the Buyer shall,
+      in addition to the payment of any such deficiency, reimburse Seller for
+      twice the expense of such examination, not including travel fees. Such
+      reimbursement of audit expenses shall be capped in any event at Twenty
+      Thousand U.S. Dollars ($20,000.00). For this purpose, the Buyer shall
+      grant the Seller's representatives the right of access to all relevant
+      business documents, have copies prepared thereof and provide all necessary
+      information. As a condition to such examination, the independent public
+      accountant selected by Seller shall execute a written agreement,
+      reasonably satisfactory in form and substance to Buyer, to maintain in
+      confidence all information obtained during the course of any such
+      examination except for disclosure to Seller as necessary for the above
+      purpose. The findings of such independent public accountant shall be
+      binding on the parties hereto.
+
+7     FURTHER COVENANTS OF SELLER
+
+Seller covenants and agrees as follows:
+
+7.1   ACCESS TO INFORMATION AND RECORDS.
+
+During the period prior to the Closing:
+
+(a)   Seller shall, and shall cause its officers, Employees, agents, independent
+      accountants and advisors to, furnish to Buyer, its officers, employees,
+      agents, independent accountants and advisors, at reasonable times and
+      places, all information in their possession concerning Seller as may be
+      requested, and give such persons access to all of the properties, books,
+      records, contracts and other documents of or pertaining to Seller that
+      Seller or its officers, Employees, agents, independent accountants or
+      advisors shall have in their custody.
+
+(b)   With the prior consent of Seller in each instance (which consent shall not
+      be unreasonably withheld), Buyer and its officers, employees, agents,
+      independent accountants and advisors, shall have access to vendors,
+      customers, and others having business dealings with Seller.
+
+7.2   CONDUCT OF BUSINESS PENDING THE CLOSING.
+
+From the date hereof until the Closing, except as otherwise approved in writing
+by Buyer:
+
+(a)   NO CHANGES. Seller will carry on its business diligently and in the same
+      manner as heretofore and will not make or institute any changes in its
+      methods of purchase, sale, management, accounting or operation.
+
+(b)   MAINTAIN ORGANIZATION. Seller will take such action as may be necessary to
+      maintain, preserve, renew and keep in favor and effect the existence,
+      rights and franchises of Seller and will use its best efforts to preserve
+      the business organization of Seller intact and to preserve for Buyer its
+      present relationships with suppliers and customers and others having
+      business relationships with Seller.
+
+                                       26
+<PAGE>
+
+(c)   NO BREACH. Seller will not do or omit any act, or permit any omission to
+      act, which may cause a breach of any material contract, commitment or
+      obligation, or any breach of any representation, warranty, covenant or
+      agreement made by Seller herein.
+
+(d)   NO MATERIAL CONTRACTS. No contract or commitment will be entered into, and
+      no purchase of raw materials or supplies and no sale of goods or services
+      (real, personal, or mixed, tangible or intangible) will be made, by or on
+      behalf of Seller, except contracts, commitments, purchases or sales which
+      are in the ordinary course of business and consistent with past practice,
+      are not material to Seller (individually or in the aggregate) and would
+      not have been required to be disclosed in the Disclosure Schedule had they
+      been in existence on the date of this Agreement.
+
+(e)   NO CORPORATE CHANGES. Seller shall not amend its Memorandum or Articles of
+      Association or make any changes in authorized or issued capital stock.
+
+(f)   MAINTENANCE OF INSURANCE. Seller shall maintain all of the insurance in
+      effect as of the date hereof.
+
+(g)   MAINTENANCE OF PROPERTY. Seller shall use, operate, maintain and repair
+      all property of Seller in a normal business manner.
+
+(h)   INTERIM FINANCIALS. Seller will provide Buyer with interim monthly
+      financial statements and other management reports as and when they are
+      available. Seller will report regularly (but in no event less frequently
+      than weekly) to Buyer concerning the status of the Seller's Business.
+
+(i)   NO NEGOTIATIONS. Seller will not directly or indirectly (through a
+      representative or otherwise) solicit or furnish any information to any
+      prospective buyer, commence, or conduct presently ongoing, negotiations
+      with any other party or enter into any agreement with any other party
+      concerning the sale of Seller, Seller's assets or business or any part
+      thereof or any equity securities of Seller (an "Acquisition Proposal"),
+      and Seller shall immediately advise Buyer of the receipt of any
+      Acquisition Proposal.
+
+7.3   CHANGE OF CORPORATE NAME.
+
+Concurrently with the Closing, Seller shall change its corporate name to a new
+name bearing no resemblance to its present name so as to permit the use of its
+present name by Buyer.
+
+7.4   EMPLOYEES.
+
+(a)   As of the Closing Date, Seller shall terminate all Employees of Seller who
+      do not become Transferred Employees (as defined below). During the
+      pre-Closing period, Buyer shall offer to assume the employment agreements
+      of those Employees of Seller identified in SCHEDULE 7.4(a), effective as
+      of the day after the Closing, and who execute the waiver and consent
+      attached hereto as Exhibit E (the "Employee Waiver and Consent"). Such
+      individuals who consent to Buyer's assumption of his/her employment
+      agreement, as well as Seller's assignment of such agreement to Buyer, and
+      execute an Employee Waiver and
+
+                                       27
+<PAGE>
+
+      Consent shall be referred to herein as "Transferred Employees". SCHEDULE
+      7.4(a) also identifies those Employees who are considered Key Employees
+      and whose execution of an employment agreement with Buyer and whose
+      execution of the Employee Waiver and Consent shall be a condition
+      precedent to the Closing obligations of Buyer.
+
+(b)   At or before Closing, Seller shall pay and release to all Employees or to
+      Buyer for the benefit of Transferred Employees (where applicable), based
+      on such Employees' last salary and level of seniority, any and all
+      applicable payments or rights, including, without limitation, salaries,
+      retention bonuses, vacation pay, managers' insurance policies, employer's
+      social security matching funds, workers' compensation payments, education
+      funds, pension funds, severance pay funds, and any other funds, (including
+      with respect to stock options or similar equity rights granted to such
+      Employee in Seller ("Employee Options")) to which any of such Employees is
+      entitled through the Closing Date (by applicable Law or agreement), and
+      pay to such Employee the balance of employment and severance benefits, if
+      any, payable to him or her by applicable Law or agreement) and provide
+      equitable compensation with respect to Employee Options.
+
+(c)   Notwithstanding any confidentiality, non-compete or intellectual property
+      ownership obligations of any Employee to Seller, or any Affiliate thereof,
+      all Employees shall be permitted, as of the Closing Date, to engage in the
+      Seller's Business on behalf of Buyer and its Affiliates. At the sole
+      discretion of Buyer, the Transferred Employees shall be deemed as intended
+      third parties beneficiaries of this Section 7.4(c).
+
+(d)   Seller shall retain all obligations and liabilities (including, without
+      limitation, any and all prior notice payments and other employment and
+      severance benefits as is required by applicable Law, custom or agreement,
+      as well as liability with respect to employee stock options) related to
+      the employment (and termination, if applicable) of any Employee that
+      accrued before, during or after the Closing Date; provided, however, that
+      any liability with respect to any Transferred Employees relating to the
+      agreements between Buyer and such Transferred Employees or to the period
+      following the Closing Date shall be Buyer's (taking into account Seller's
+      obligation to transfer all Benefits and Liabilities concerning all
+      Transferred Employee that have accrued through the Closing, pursuant to
+      Section 7.4(b)).
+
+7.5   CONSENTS.
+
+Seller will use its best efforts prior to Closing to obtain all consents
+necessary for the consummation of the transactions contemplated hereby.
+
+7.6   ONGOING INSURANCE COMMITMENT.
+
+Seller shall maintain in effect for sixty (60) days following Closing all
+insurance policies that were in effect as of January 1, 2002 (other than the D&O
+insurance); provided that the electronic equipment insurance will be maintained
+only until December 31, 2002. As a condition to the Closing, Buyer and
+Macrovision Corporation shall be listed as a named insured under all such
+insurance policies.
+
+                                       28
+<PAGE>
+
+7.7   OTHER ACTION.
+
+Seller shall use its best efforts to cause the fulfillment at the earliest
+practicable date of all of the conditions to Seller's obligations to consummate
+the transactions contemplated in this Agreement.
+
+7.8   DISCLOSURE.
+
+Seller shall have a continuing obligation, during the period prior to the
+Closing, to promptly notify Buyer in writing with respect to any matter
+hereafter arising or discovered which, if existing or known at the date of this
+Agreement, would have been required to be set forth or described in the
+Disclosure Schedule.
+
+7.9   USE OF PROCEEDS
+
+(a)   SATISFACTION OF INDEBTEDNESS. Seller undertakes, immediately following the
+      Closing, to use the proceeds from the Minimum Payment to satisfy all
+      amounts owed to creditors in full prior to making any distribution or
+      other payment to its shareholders.
+
+(b)   BANKRUPTCY EVENT. Following the Closing, and unless Seller is solvent,
+      Seller undertakes (i) not to initiate a Bankruptcy Event; (ii) to notify
+      Buyer immediately upon the commencement of any Bankruptcy Event or any
+      other event that could lead to a Bankruptcy Event; and (iii) to take
+      promptly, at its expense, all measures as are required for preventing,
+      discharging, terminating, removing or achieving a stay of a Bankruptcy
+      Event. "Bankruptcy Event" shall mean any of the following events: (1)
+      application for or consent by Seller to the appointment of any liquidator,
+      receiver, trustee or administrator for all or a substantial part of its
+      business, properties, assets or revenues; (2) the appointment of a
+      liquidator, receiver, trustee or administrator for Seller; (3) any
+      bankruptcy, arrangement, readjustment of debt, dissolution, liquidation or
+      similar executory or judicial proceeding instituted by Seller (by
+      petition, application, answer, consent or otherwise); (4) a bankruptcy,
+      arrangement, readjustment of debt, dissolution, liquidation or similar
+      executory or judicial proceeding instituted against Seller; or (5) a
+      creditors' meeting called by Seller for the purpose of entering into an
+      arrangement with them.
+
+8     CONDITIONS PRECEDENT TO BUYER'S OBLIGATIONS
+
+Each and every obligation of Buyer to be performed on the Closing Date shall be
+subject to the satisfaction prior to or at the Closing of each of the following
+conditions, any of which may be waived, in writing, exclusively by Buyer:
+
+8.1   REPRESENTATIONS AND WARRANTIES TRUE ON THE CLOSING DATE.
+
+Each of the representations and warranties made by Seller in this Agreement, and
+the statements contained in the Disclosure Schedule or in any instrument, list,
+certificate or writing delivered by Seller pursuant to this Agreement, shall be
+true and correct in all material respects when made and shall be true and
+correct in all material respects at and as of the Closing Date as though such
+
+                                       29
+<PAGE>
+
+representations and warranties were made or given on and as of the Closing Date,
+except for any changes permitted by the terms of this Agreement or consented to
+in writing by Buyer.
+
+8.2   COMPLIANCE WITH AGREEMENT.
+
+Seller shall have in all material respects performed and complied with all of
+its agreements and obligations under this Agreement which are to be performed or
+complied with by it prior to or on the Closing Date, including the delivery of
+the closing documents specified in Section 11.1.
+
+8.3   ABSENCE OF LITIGATION.
+
+No Litigation shall have been commenced or threatened, and no investigation by
+any Government Entities shall have been commenced, against Buyer, Seller or any
+of the Affiliates, officers or directors of any of them, with respect to the
+transactions contemplated hereby.
+
+8.4   CONSENTS AND APPROVALS.
+
+All approvals, consents and waivers that are required to effect the transactions
+contemplated hereby shall have been received, and executed counterparts thereof
+shall have been delivered to Buyer not less than two business days prior to the
+Closing; and all notices required to have been given in connection with the
+transaction contemplated herein shall have been duly given.
+
+8.5   EMPLOYMENT AGREEMENTS SIGNED.
+
+Employment agreements in a form reasonably acceptable to Buyer shall have been
+entered into by all Key Employees, and such persons shall have executed the
+Employee Waiver and Consent.
+
+8.6   CONTINUED EMPLOYMENT OF CERTAIN EMPLOYEES.
+
+All Support Employees, as identified and defined in Schedule 7.4(a), shall
+remain in the continued employment of Seller until the Closing.
+
+8.7   TERMINATION OF CONTRACTS.
+
+On or prior to Closing, all of Seller's oral contracts, as well as all expired
+agreements that may have been extended by action of the parties, shall have been
+terminated in writing, a copy of which termination letters Seller shall provide
+to Buyer at Closing together with proof of delivery. Additionally, Seller shall
+have terminated its distribution agreement with Midbar BV and shall have
+commenced winding-up the Midbar BV entity.
+
+8.8   JOINT DEFENSE AGREEMENT.
+
+Seller shall have executed a Joint Defense Agreement substantially in the form
+set out in Exhibit D attached hereto.
+
+8.9   CHANGED DISCLOSURE SCHEDULE.
+
+                                       30
+<PAGE>
+
+In the event that there are any changes to the Disclosure Schedule made by
+Seller between the Effective Date and Closing Date, Buyer shall have approved
+any such changes prior to Closing.
+
+9     CONDITIONS PRECEDENT TO SELLER'S OBLIGATIONS
+
+Each and every obligation of Seller to be performed on the Closing Date shall be
+subject to the satisfaction prior to or at the Closing of the following
+conditions, any of which may be waived, in writing, exclusively by Seller.
+
+9.1   REPRESENTATIONS AND WARRANTIES TRUE ON THE CLOSING DATE.
+
+Each of the representations and warranties made by Buyer in this Agreement shall
+be true and correct in all material respects when made and shall be true and
+correct in all material respects at and as of the Closing Date as though such
+representations and warranties were made or given on and as of the Closing Date.
+
+9.2   COMPLIANCE WITH AGREEMENT.
+
+Buyer shall have in all material respects performed and complied with all of
+Buyer's agreements and obligations under this Agreement which are to be
+performed or complied with by Buyer prior to or on the Closing Date, including
+the delivery of the closing documents specified in Section 11.2.
+
+9.3   ABSENCE OF LITIGATION.
+
+No Litigation shall have been commenced or threatened, and no investigation by
+any Government Entities shall have been commenced, against Buyer, Seller or any
+of the Affiliates, officers or directors of any of them, with respect to the
+transactions contemplated hereby.
+
+9.4   TAX RULING.
+
+Seller shall have obtained a pre-ruling from the Income Tax Commission in a form
+and substance reasonably satisfactory to it (the "Tax Ruling").
+
+10    INDEMNIFICATION
+
+10.1  BY SELLER.
+
+Subject to the terms and conditions of this Article 10, Seller hereby agrees to
+indemnify, defend and hold harmless Buyer, and its directors, officers,
+employees and controlled and controlling persons (hereinafter "Buyer's
+Affiliates"), from and against all Claims asserted against, resulting to,
+imposed upon, or incurred by Buyer, Buyer's Affiliates or the business and
+assets transferred to Buyer pursuant to this Agreement, directly or indirectly,
+by reason of, arising out of or resulting from:
+
+(a)   The inaccuracy or breach of any representation or warranty of Seller
+      contained in this Agreement (regardless of whether such breach is deemed
+      "material") to the extent
+
+                                       31
+<PAGE>
+
+      affecting or relating to the Purchased Assets or the ability of the Buyer
+      to consummate the transactions contemplated herein;
+
+(b)   The breach of any covenant of Seller contained in this Agreement
+      (regardless of whether such breach is deemed "material") to the extent
+      affecting or relating to the Purchased Assets or the ability of the Buyer
+      to consummate the transactions contemplated herein; or
+
+(c)   Any Claim brought by or on behalf of any broker or finder retained,
+      employed or used by Seller or any of its directors, officers, Employees,
+      shareholders or agents in connection with the transactions provided for
+      herein or the negotiation thereof, whether or not disclosed herein; or
+
+(d)   Any Claim of or against Seller, the Purchased Assets or the business of
+      Seller with respect to Retained Liabilities;
+
+provided, however, that notwithstanding anything set forth in this Agreement,
+except in the case of fraud, Buyer's remedies with respect to any such claim
+shall be recouped solely and exclusively from the Escrow Account in accordance
+with the provisions of the Escrow Agreement.
+
+As used in this Article 10, the term "Claim" shall include (i) all Liabilities;
+(ii) all losses, deficiencies, damages (including, without limitation,
+consequential damages), judgments, awards, penalties and settlements; (iii) all
+demands, claims, suits, actions, causes of action, proceedings and assessments,
+whether or not ultimately determined to be valid; and (iv) all costs and
+expenses (including, without limitation, interest (including prejudgment
+interest in any litigated or arbitrated matter), court costs and fees and
+expenses of attorneys and expert witnesses) of investigating, defending or
+asserting any of the foregoing or of enforcing this Agreement.
+
+10.2  BY BUYER.
+
+Subject to the terms and conditions of this Article 10, Buyer hereby agrees to
+indemnify, defend and hold harmless Seller, its directors, officers,
+shareholders, Employees and controlling persons from and against all Claims
+asserted against, resulting to, imposed upon or incurred by any such person,
+directly or indirectly, by reason of or resulting from (a) the inaccuracy or
+breach of any representation or warranty of Buyer contained in or made pursuant
+to this Agreement (regardless of whether such breach is deemed "material"); (b)
+the breach of any covenant of Buyer contained in this Agreement (regardless of
+whether such breach is deemed "material"); or (c) all Claims of or against
+Seller with respect to Assumed Liabilities.
+
+10.3  INDEMNIFICATION OF THIRD-PARTY CLAIMS.
+
+The following provisions shall apply to any Claim subject to indemnification
+pursuant to Sections 10.1 and 10.2 that is (i) a suit, action or arbitration
+proceeding filed or instituted by any third party, or (ii) any other form of
+proceeding or assessment instituted by any Government Entities:
+
+                                       32
+<PAGE>
+
+(a)   NOTICE AND DEFENSE. The party to be indemnified (the "Indemnified Party")
+      will give the party from whom indemnification is sought (the "Indemnifying
+      Party") prompt written notice of any such Claim, and the Indemnifying
+      Party will undertake the defense thereof by representatives chosen by it.
+      The assumption of defense shall constitute an admission by the
+      Indemnifying Party of its indemnification obligation hereunder with
+      respect to such Claim, and its undertaking to pay directly all costs,
+      expenses, damages, judgments, awards, penalties and assessments incurred
+      in connection therewith. Failure to give such notice shall not affect the
+      Indemnifying Party's duty or obligations under this Article 10, except to
+      the extent the Indemnifying Party is materially prejudiced thereby. So
+      long as the Indemnifying Party is defending any such Claim actively and in
+      good faith, the Indemnified Party shall not settle such Claim. The
+      Indemnified Party shall make available to the Indemnifying Party or its
+      representatives all records and other materials required by them and in
+      the possession or under the control of the Indemnified Party, for the use
+      of the Indemnifying Party and its representatives in defending any such
+      Claim, and shall in all other respects give reasonable cooperation in
+      such defense.
+
+(b)   FAILURE TO DEFEND. If the Indemnifying Party, within a reasonable time
+      after notice of any such Claim, fails to defend such Claim actively and in
+      good faith, the Indemnified Party will (upon further notice) have the
+      right to undertake the defense, compromise or settlement of such Claim or
+      consent to the entry of a judgment with respect to such Claim, on behalf
+      of and for the account and risk of the Indemnifying Party, and the
+      Indemnifying Party shall thereafter have no right to challenge the
+      Indemnified Party's defense, compromise, settlement or consent to
+      judgment; provided the Indemnified Party promptly notifies the other
+      party, and consults the other party in good faith with respect to any
+      proposed compromise or settlement.
+
+(c)   INDEMNIFIED PARTY'S RIGHTS. Anything in this Article 10 to the contrary
+      notwithstanding, (i) if there is a reasonable probability that a Claim may
+      materially and adversely affect the Indemnified Party other than as a
+      result of money damages or other money payments, the Indemnified Party
+      shall have the right to defend, compromise or settle such Claim (other
+      than with respect to the payment of money damages or money payments), and
+      (ii) the Indemnifying Party shall not, without the written consent of the
+      Indemnified Party, settle or compromise any Claim or consent to the entry
+      of any judgment which does not include as an unconditional term thereof
+      the giving by the claimant or the plaintiff to the Indemnified Party of a
+      release from all Liability in respect of such Claim.
+
+10.4  INDEMNIFICATION FOR REIMBURSEMENT THAT DOES NOT INVOLVE A THIRD PARTY
+      CLAIM.
+
+In the event of a Claim which does not involve a third party (a "Direct Claim"),
+the party requested to be indemnified shall notify the other party of such
+Direct Claim with reasonable promptness, specifying, to the extent known, the
+nature, circumstances and amount of such Direct Claim (a "Direct Claim Notice").
+If the other party notifies the party giving the Direct Claim Notice that it
+disputes the other party's right of indemnification with respect to the Claim
+set forth in a Direct Claim Notice, the parties shall use reasonable efforts to
+resolve such dispute and, in the event that such efforts are unsuccessful within
+thirty (30) days, shall resolve such dispute in accordance with the provisions
+of Section 13.6.
+
+                                       33
+<PAGE>
+
+10.5  PROCEDURE FOR INDEMNIFICATION.
+
+The Indemnifying Party shall promptly pay the Indemnified Party any amount due
+under this Article 10. Upon judgment, determination, settlement or compromise of
+any third party Claim, the Indemnifying Party shall pay promptly on behalf of
+the Indemnified Party, and/or to the Indemnified Party in reimbursement of any
+amount theretofore required to be paid by it, the amount so determined by
+judgment, determination, settlement or compromise and all other Claims of the
+Indemnified Party with respect thereto, unless in the case of a judgment an
+appeal is made from the judgment. If the Indemnifying Party desires to appeal
+from an adverse judgment, then the Indemnifying Party shall post and pay the
+cost of the security or bond to stay execution of the judgment pending appeal.
+Upon the payment in full by the Indemnifying Party of such amounts, the
+Indemnifying Party shall succeed to the rights of such Indemnified Party, to the
+extent not waived in settlement, against the third party who made such third
+party Claim.
+
+10.6  NO WAIVER.
+
+The closing of the transactions contemplated by this Agreement shall not
+constitute a waiver by any party of its rights to indemnification hereunder.
+
+11    CLOSING
+
+The closing of this transaction (the "Closing") shall take place at Buyer's
+London, England offices located at Charlwood House, The Runway, South Ruislip,
+Middlesex, HA4 6SE, England, at 11:00 a.m. local time on November 15, 2002, or
+at such other time and place as the parties hereto may agree upon in advance in
+writing. Such date is referred to in this Agreement as the "Closing Date".
+
+11.1  ITEMS TO BE DELIVERED BY SELLER.
+
+(a)   EFFECTIVE DATE. On the Effective Date, Seller shall deliver to Buyer the
+      following documents, in each case duly executed or otherwise in proper
+      form:
+
+           (i)      CERTIFIED RESOLUTIONS. Certified copies of
+                    resolutions of the Board of Directors of Seller and,
+                    to the extent required, of Seller's shareholders,
+                    authorizing and approving this Agreement and the
+                    consummation of the transactions contemplated by this
+                    Agreement in a form reasonably acceptable to Buyer.
+
+           (ii)     MEMORANDUM; ARTICLES OF ASSOCIATION. Copies of the
+                    Memorandum and Articles of Association of Seller
+                    certified by an officer of Seller.
+
+           (iii)    ASSIGNMENT OF AGREEMENTS. All documents necessary for
+                    the assignments of the agreements herein being
+                    assumed by Buyer, including, without
+
+                                       34
+<PAGE>
+
+                    limitation, the consent of the landlord of assignment
+                    of the Leased Real Property, duly executed by Seller.
+
+           (iv)     PATENT ASSIGNMENTS. All documents necessary for the
+                    assignment of all right, title and interest in and to
+                    those patents constituting Trade Rights hereunder to
+                    the Buyer, duly executed by the Seller, in a form
+                    acceptable to the U.S. Patent and Trademark Office,
+                    and so as to clearly indicate the chain of title from
+                    the appropriate inventor to Seller
+
+           (v)      NAME CHANGE. All documents required to effect a
+                    change of the Seller's corporate name to a new name
+                    bearing no resemblance to its present name, duly
+                    executed by Seller.
+
+           (vi)     OTHER DOCUMENTS. All other documents, instruments or
+                    writings required to be delivered to Buyer at or
+                    prior to the Closing pursuant to this Agreement and
+                    such other certificates of authority and documents as
+                    Buyer may reasonably request.
+
+(b)   AT CLOSING. At the Closing, Seller shall deliver to Buyer the following
+      documents and deliverables, in each case duly executed or otherwise in
+      proper form:
+
+           (i)      BILLS OF SALE. Bills of sale and such other
+                    instruments of assignment, transfer, conveyance and
+                    endorsement in the form attached as Exhibit F hereto,
+                    required to transfer, assign, convey and deliver to
+                    Buyer the Purchased Assets as contemplated hereby.
+
+           (ii)     COMPLIANCE CERTIFICATE. A certificate signed by the chief
+                    executive officer of Seller (without personal liability
+                    thereto) that each of the representations and warranties
+                    made by Seller in this Agreement is true and correct in all
+                    respects on and as of the Closing Date with the same effect
+                    as though such representations and warranties had been made
+                    or given on and as of the Closing Date (except for any
+                    changes permitted by the terms of this Agreement or
+                    disclosed in writing to Buyer), and that Seller has
+                    performed and complied with all of Seller's obligations
+                    under this Agreement which are to be
+
+                                       35
+<PAGE>
+
+                    performed or complied with on or prior to the Closing
+                    Date.
+
+           (iii)    ESCROW AGREEMENT. The Escrow Agreement duly executed
+                    by Seller and the Escrow Agent in the Form of Exhibit
+                    A hereto.
+
+           (iv)     OPINION OF COUNSEL. A written opinion of Naschitz,
+                    Brandes & Co., counsel to Seller, dated as of the
+                    Closing Date, addressed to Buyer, substantially in
+                    the form of Exhibit C hereto.
+
+           (v)      TRADE RIGHTS. All Trade Rights in Seller's possession
+                    or control that are in tangible form, including
+                    without limitation all source codes, copyrights,
+                    trademarks, assignments of domain names and other
+                    items of like nature applicable to the transaction
+                    contemplated herein.
+
+           (vi)     TERMINATION LETTERS. A copy of the termination
+                    letters with regard to the oral contracts, as well as
+                    all expired agreements that may have been extended by
+                    action of the parties, together with proof of
+                    delivery pursuant to Section 8.6 of this Agreement.
+
+           (vii)    SOURCE CODE. Back-up magnetic media containing all
+                    Source Code of the Seller shall be delivered to
+                    Goldarb, Levy, Eran & Co. Trustees Ltd., to hold on
+                    behalf of the Buyer.
+
+           (viii)   EMPLOYMENT AGREEMENTS. The employment agreements and
+                    Employee Waiver and Consent referred to in Section
+                    7.4(a), duly executed by the Key Employees referred
+                    to in Schedule 7.4(a).
+
+           (ix)     OTHER DOCUMENTS. All other documents, instruments or
+                    writings required to be delivered to Buyer at or
+                    prior to the Closing pursuant to this Agreement and
+                    such other certificates of authority and documents as
+                    Buyer may reasonably request.
+
+11.2  ITEMS TO BE DELIVERED BY BUYER.
+
+(a)   EFFECTIVE DATE. On the Effective Date, Buyer shall deliver to Seller the
+      following documents, in each case duly executed or otherwise in proper
+      form:
+
+                                       36
+<PAGE>
+
+           (i)      CERTIFIED RESOLUTIONS. A certified copy of the
+                    resolutions of the Board of Directors of Buyer
+                    authorizing and approving this Agreement and the
+                    consummation of the transactions contemplated by this
+                    Agreement.
+
+           (ii)     OTHER DOCUMENTS. All other documents, instruments or
+                    writings required to be delivered to Seller at or
+                    prior to the Effective Date pursuant to this
+                    Agreement and such other certificates of authority
+                    and documents as Seller may reasonably request.
+
+(b)   AT CLOSING. At the Closing, Buyer shall deliver to Seller the following
+      documents, in each case duly executed or otherwise in proper form:
+
+           (i)      CASH PURCHASE PRICE. The Minimum Payment in
+                    immediately available funds as required by Section
+                    3.2(b) hereof, less the Initial Escrow Amount
+                    delivered to the Escrow Agent in accordance with
+                    Section 3.2(a), and documentation evidencing delivery
+                    of the Initial Escrow Amount to the Escrow Agent.
+
+           (ii)     COMPLIANCE CERTIFICATE. A certificate signed by the chief
+                    executive officer of Buyer (without personal liability
+                    thereto) that the representations and warranties made by
+                    Buyer in this Agreement are true and correct in all
+                    material respects on and as of the Closing Date with the
+                    same effect as though such representations and warranties
+                    had been made or given on and as of the Closing Date
+                    (except for any changes permitted by the terms of this
+                    Agreement or disclosed in writing to Seller), and that
+                    Buyer has performed and complied with all of Buyer's
+                    obligations under this Agreement which are to be performed
+                    or complied with on or prior to the Closing Date.
+
+           (iii)    ESCROW AGREEMENT. The Escrow Agreement duly executed
+                    by Buyer and Escrow Agent in the form of Exhibit A
+                    hereto.
+
+           (iv)     OTHER DOCUMENTS. All other documents, instruments or
+                    writings required to be delivered to Seller at or
+                    prior to the Closing pursuant to this
+
+                                       37
+<PAGE>
+
+                    Agreement and such other certificates of authority and
+                    documents as Seller may reasonably request.
+
+12    TERMINATION
+
+12.1  RIGHT OF TERMINATION WITHOUT BREACH.
+
+This Agreement may be terminated without further liability of any party at any
+time prior to the Closing:
+
+(a)   By mutual written agreement of Buyer and Seller, or
+
+(b)   By either Buyer or Seller if the Closing shall not have occurred on or
+      before December 31, 2002, provided however, the terminating party has
+      not, through breach of a representation, warranty or covenant,
+      prevented the Closing from occurring on or before such date.
+
+(c)   By Buyer, if the Closing shall not have occurred on or before November
+      30, 2002 due to Seller's failure to obtain the Tax Ruling unless Seller
+      has waived in writing the condition set forth in Section 9.4. For the
+      avoidance of doubt, the Buyer shall have the right to terminate this
+      Agreement under this subsection (c) if the Closing shall not have
+      occurred by November 30, 2002 under circumstances in which the Seller
+      either (i) has not received any pre-ruling from the Income Tax
+      Commission, or (ii) has received a pre-ruling that is unacceptable to
+      the Seller and/or its shareholders, and in either case Seller has not
+      waived in writing the condition set forth in Section 9.4.
+
+12.2  TERMINATION FOR BREACH.
+
+(a)   TERMINATION BY BUYER. If, prior to Closing, (i) there has been a
+      material violation or breach by Seller of any of the agreements,
+      representations or warranties contained in this Agreement which has not
+      been waived in writing by Buyer, or (ii) there has been a failure of
+      satisfaction of a condition to the obligations of Buyer which has not
+      been so waived, then Buyer may, by written notice to Seller reasonably
+      specifying the nature of the breach or failure, terminate this Agreement
+      with the effect set forth in Section 12.2(c) hereof.
+
+(b)   Termination by Seller. If, prior to Closing, (i) there has been a
+      material violation or breach by Buyer of any of the agreements,
+      representations or warranties contained in this Agreement which has not
+      been waived in writing by Seller, or (ii) there has been a failure of
+      satisfaction of a condition to the obligations of Seller which has not
+      been so waived, then Seller may, by written notice to Buyer reasonably
+      specifying the nature of the breach or failure, terminate this Agreement
+      with the effect set forth in Section 12.2(c) hereof.
+
+(c)   EFFECT OF TERMINATION. Termination of this Agreement pursuant to this
+      Section 12.2 shall not in any way terminate, limit or restrict the rights
+      and remedies of either party hereto against the other party which has
+      violated, breached or failed to satisfy any of the representations,
+      warranties, covenants, agreements, conditions or other provisions of this
+      Agreement prior to termination hereof. In addition to the right of either
+      party under
+
+                                       38
+<PAGE>
+
+      common law to redress for any such breach or violation, either party whose
+      breach or violation has occurred prior to termination shall indemnify the
+      other party for whose benefit such representation, warranty, covenant,
+      agreement or other provision was made from and against all losses, damages
+      (including, without limitation, consequential damages), costs and expenses
+      (including, without limitation, interest (including prejudgment interest
+      in any litigated matter), penalties, court costs, and attorneys' fees and
+      expenses) asserted against, resulting to, imposed upon, or incurred by the
+      Indemnified Party, directly or indirectly, by reason of, arising out of or
+      resulting from such breach or violation. Subject to the foregoing, the
+      parties' obligations under Section 13.9 of this Agreement shall survive
+      termination.
+
+13    MISCELLANEOUS
+
+13.1  DISCLOSURE SCHEDULE.
+
+Information set forth in the Disclosure Schedule specifically refers to the
+article and section of this Agreement to which such information is responsive.
+The Disclosure Schedule shall not vary, change or alter the language of the
+representations and warranties contained in this Agreement except to the extent
+specifically set forth therein. The Disclosure Schedule is qualified in its
+entirety by references to specific provisions of the Agreement and is not
+intended to constitute, and shall not be construed as constituting, any
+representation and/or warranty of the Seller except as and to the extent
+provided in the Agreement.
+
+13.2  FURTHER ASSURANCE.
+
+From time to time before, during and after the Closing, at a party's request and
+without further consideration, Seller or Buyer, as the case may be, will execute
+and deliver to the other party such documents, instruments and consents and take
+such other action as the other party may reasonably request in order to
+consummate more effectively the transactions contemplated hereby.
+
+13.3  DISCLOSURES AND ANNOUNCEMENTS.
+
+Both the timing and the content of all disclosure to third parties and public
+announcements concerning the transactions provided for in this Agreement by
+either Seller or Buyer shall be subject to the approval of the other in all
+essential respects, except that the other party's approval shall not be required
+as to any statements and other information which Buyer may submit to the
+Securities and Exchange Commission, the Nasdaq National Market or that a party
+may submit to its stockholders or be required to make pursuant to any rule or
+regulation of the Securities and Exchange Commission or the Nasdaq National
+Market, or otherwise required by law.
+
+13.4  ASSIGNMENT; PARTIES IN INTEREST.
+
+(a)   ASSIGNMENT. Except as expressly provided herein, the rights and
+      obligations of a party hereunder may not be assigned, transferred or
+      encumbered without the prior written consent of the other party.
+      Notwithstanding the foregoing, Buyer may, without consent of the Seller,
+      cause one or more subsidiaries of Buyer to carry out all or part of the
+
+                                       39
+<PAGE>
+
+      transactions contemplated hereby; provided, however, that Buyer shall,
+      nevertheless, remain liable for all of its obligations, and those of any
+      such subsidiary, to Seller hereunder.
+
+(b)   PARTIES IN INTEREST. This Agreement shall be binding upon, inure to the
+      benefit of, and be enforceable by the respective successors and permitted
+      assigns of the parties hereto. Nothing contained herein shall be deemed to
+      confer upon any other person any right or remedy under or by reason of
+      this Agreement.
+
+13.5  EQUITABLE RELIEF.
+
+The parties agree that any breach of a party's obligation to consummate the sale
+of the Purchased Assets on the Closing Date, or with respect to any breach by
+Seller of its obligations imposed by Section 6.3 hereof, will result in
+irreparable injury to the other party for which a remedy at law would be
+inadequate; and that, in addition to any relief at law which may be available to
+the non breaching party for such breach and regardless of any other provision
+contained in this Agreement, the non breaching party shall be entitled to
+injunctive and other equitable relief as a court may grant. This Section 13.5
+shall not be construed to limit any party's right to obtain equitable relief for
+other breaches of this Agreement under general equitable standards.
+
+13.6  LAW GOVERNING AGREEMENT.
+
+This Agreement shall be construed in accordance with, and governed in all
+respects by, the laws of the state of New York. The parties hereby stipulate
+that any action or other legal proceeding arising under or in connection with
+this Agreement shall be commenced and prosecuted in its entirety exclusively in
+the federal courts in the Southern District of New York, New York and, in the
+event such federal courts do not have subject matter jurisdiction, the competent
+state courts located in New York, New York), each party hereby submitting to the
+personal jurisdiction thereof, and the parties agree not to raise the objection
+that such courts are not a convenient forum. Process and pleadings mailed to a
+party at the address provided in Section 13.8 shall be deemed properly served
+and accepted for all purposes.
+
+13.7  AMENDMENT AND MODIFICATION.
+
+Buyer and Seller may amend, modify and supplement this Agreement in such manner
+as may be agreed upon by them in writing.
+
+13.8  NOTICE.
+
+All notices, requests, demands and other communications hereunder shall be given
+in writing and shall be: (a) personally delivered; (b) sent by telecopier,
+facsimile transmission or other electronic means of transmitting written
+documents; or (c) sent to the parties at their respective addresses indicated
+herein by registered or certified mail, return receipt requested and postage
+prepaid, or by private overnight mail courier service. The respective addresses
+to be used for all such notices, demands or requests are as follows:
+
+                                       40
+<PAGE>
+
+(a)   IF TO BUYER, TO:
+
+Macrovision Corporation
+2830 De La Cruz Boulevard
+Santa Clara, California 95050
+Attention: Chief Financial Officer
+Facsimile: (408) 743-9659
+Email:  LEGAL@MACROVISION.COM
+
+(with a copy, which shall not constitute notice, to)
+
+Goldfarb, Levy, Eran & Co.
+2 Ibn Gvirol Street
+Tel Aviv, Israel
+Attention: Oded Eran and Michael A. Heller
+Facsimile: 03-608-9908
+
+or to such other person or address as Buyer shall furnish to Seller in writing.
+
+(b)   IF TO SELLER, TO:
+
+Midbar Tech (1998) Ltd.
+34 Kibbutz Galuyot Street
+Tel Aviv, Israel 66550
+Attention: Roy Machnes_
+Facsimile: 972-3-518-6677
+
+(with a copy, which shall not constitute notice, to)
+
+Naschitz, Brandes & Co.
+5 Tuval St.
+Tel Aviv, Israel 67897
+Attention :  Sharon A. Amir
+Facsimile: 972-3-6235005
+
+or to such other person or address as Seller shall furnish to Buyer in writing.
+
+If personally delivered, such communication shall be deemed delivered upon
+actual receipt; if electronically transmitted pursuant to this paragraph, such
+communication shall be deemed delivered the next business day after transmission
+(and sender shall bear the burden of proof of delivery); if sent by overnight
+courier pursuant to this paragraph, such communication shall be deemed delivered
+upon receipt; and if sent by certified mail pursuant to this paragraph, such
+communication shall be deemed delivered as of the date of delivery indicated on
+the receipt
+
+                                       41
+<PAGE>
+
+issued by the relevant postal service, or, if the addressee fails or refuses to
+accept delivery, as of the date of such failure or refusal. Any party to this
+Agreement may change its address for the purposes of this Agreement by giving
+notice thereof in accordance with this Section.
+
+13.9  EXPENSES.
+
+Regardless of whether or not the transactions contemplated hereby are
+consummated:
+
+(a)   EXPENSES TO BE PAID BY SELLER. Seller shall pay, and shall indemnify,
+      defend and hold Buyer harmless from and against, each of the following:
+
+           (i)      TRANSFER TAXES. Any sales, use, excise, transfer,
+                    stamp or other similar tax imposed with respect to
+                    the transactions provided for in this Agreement, and
+                    any interest or penalties related thereto.
+
+           (ii)     PROFESSIONAL FEES. All fees and expenses of Seller's
+                    legal, accounting, investment banking and other
+                    professional counsel in connection with the
+                    transactions contemplated hereby.
+
+(b)   OTHER. Except as otherwise provided herein, each of the parties shall bear
+      its own expenses and the expenses of its counsel and other agents in
+      connection with the transactions contemplated hereby.
+
+(c)   COSTS OF LITIGATION. The parties agree that the prevailing party in any
+      action brought with respect to or to enforce any right or remedy under
+      this Agreement shall be entitled to recover from the other party all
+      reasonable costs and expenses of any nature whatsoever incurred by the
+      prevailing party in connection with such action, including without
+      limitation attorneys' fees and prejudgment interest.
+
+13.10  SEVERABILITY.
+
+In the event any provision of this Agreement is held to be invalid, illegal or
+unenforceable for any reason or in any respect, such invalidity, illegality or
+unenforceability shall in no event affect, prejudice or disturb the validity of
+the remainder of this Agreement, which shall be and remain in full force and
+effect, enforceable in accordance with its terms.
+
+13.11  FORCE MAJEURE.
+
+Each party shall be excused from any breach or default with respect to this
+Agreement to the extent that the party was prevented from performance by reason
+of anything beyond the party's control and not reasonably avoidable such as a
+strike or other labor disturbance, act of any governmental authority or agency,
+fire, flood, wind storm, or any act of God, or the act or omission of any person
+or entity not controlled by that party ("Force Majeure"). No party shall be
+liable to the other party for any delay in or failure of performance under this
+Agreement due to a Force Majeure. Any such delay or failure shall extend the
+period of performance to such extent
+
+                                       42
+<PAGE>
+
+as is mutually determined by the parties to be necessary to enable complete
+performance by a party if reasonable diligence is exercised after the causes or
+delay or failure have been removed.
+
+13.12  ENTIRE AGREEMENT.
+
+This instrument embodies the entire agreement between the parties hereto with
+respect to the transactions contemplated herein, and there have been and are no
+agreements, representations or warranties between the parties other than those
+set forth or provided for herein, except that for so long as the transactions
+set forth herein are not consummated, the NDA executed by the parties on July
+30, 2002 shall survive in accordance with its terms.
+
+13.13  COUNTERPARTS.
+
+This Agreement may be executed in one or more counterparts, each of which shall
+be deemed an original, but all of which together shall constitute one and the
+same instrument.
+
+13.14  HEADINGS.
+
+The headings in this Agreement are inserted for convenience only and shall not
+constitute a part hereof.
+
+13.15  GLOSSARY OF TERMS.
+
+The following sets forth the location of definitions of capitalized terms
+defined in the body of this Agreement:
+
+"Acquisition Proposal" - Section 7.2(i)
+"Additional Contingent Payments" - Section 3.1(b)
+"Additional Escrow Amount" - Section 3.2(a)
+"Affiliate" - Section 1.2(f)
+"Agreement" - Introduction.
+"Assumed Liabilities" - Section 2.1
+"Audio Business" - Section 3.1(b)
+"Bankruptcy Event" - Section 7.8(b)
+"Benefits" - Section 4.15
+"Buyer" - Introduction.
+"Buyer's Affiliates" - Section 10.1
+"Buyer SEC Documents" - Section 5.4(a)
+"Claim" - Section 10.1
+"Closing" - Preamble to Article 11
+"Closing Date" - Preamble to Article 11
+"Confidential Information" - Section 6.3
+"Contracts" - Section 1.1(f)
+"Direct Claim" - Section 10.4
+"Direct Claim Notice" - Section 10.4
+"Effective Date" - Introduction
+"Employee Options" - Section 7.4(b)
+
+                                       43
+<PAGE>
+
+"Employee Waiver and Consent" - Section 7.4(a)
+"Employees" - Section 4.15
+"Escrow Account" - Section 3.2(a)
+"Escrow Agent" - Section 3.2(a)
+"Escrow Agreement" - Section 3.2(a)
+"Exchange Act" - Section 5.4(a)
+"Excluded Assets" - Section 1.2
+"Executive Team" - Section 4.7
+"Final Payment" - Section 3.3
+"Financial Statements" - Section 4.4
+"Force Majeure" - Section 13.11
+"Government Entities" - Section 2.2(j)
+"Indemnified Party" - Section 10.3(a)
+"Indemnifying Party" - Section 10.3(a)
+"Initial Escrow Amount" - Section 3.2(a)
+"Installment Periods" - 3.1(b)
+"Inventory" - Section 1.1(c)
+"Key Employees" - Schedule 7.4(a)
+"Knowledge" - Section 4.7
+"Laws" - Section 2.2(j)
+"Leased Real Property" - Section 1.1(a)
+"Liability" - Section 2.1
+"Liens" - Section 4.10(a)
+"Litigation" - Section 2.2(e)
+"Minimum Payment" - Section 3.1(a)
+"Net Revenue" - Section 3.1(b)
+"Orders" - Section 2.2(j)
+"Performance Period" - Section 3.1(b)
+"Performance Revenue" - Section 3.1(b)
+"Personal Property Leases" - Section 1.1(d)
+"Products" - Section 4.18
+"Purchased Assets" - Section 1.1
+"Purchase Price" - Section 3.1
+"Real Property Leases" - Section 1.1(a)
+"Recent Balance Sheet" - Section 4.5(a)
+"Records" - Section 6.3
+"Retained Liabilities" - Preamble to Section 2.2
+"Securities Act" - Section 5.4(a)
+"Seller" - Intro.
+"Seller Non-Competition Agreement" - Section 6.6
+"Seller's Business" - Recitals
+"Source Codes" - Section 1.1(g)
+"Support Employees" - Schedule 7.4(a)
+"Tax", "Taxes" and "Taxable" - Section 4.5(d)
+"Tax Returns" - Section 4.5(d)
+
+                                       44
+<PAGE>
+
+"Tax Ruling" - Section 9.4
+"Trade Rights" - Section 1.1(e)
+"Transferred Employees" - Section 7.4(a)
+"U.S. GAAP" - Section 1.2(a)
+"VAT" - Section 3.1(a)
+
+Where any group or category of items or matters is defined collectively in the
+plural number, any item or matter within such definition may be referred to
+using such defined term in the singular number.
+
+                      [SIGNATURE PAGE IMMEDIATELY FOLLOWS]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                       45
+<PAGE>
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the Effective
+Date.
+
+MACROVISION EUROPE LTD.
+
+-----------------------------------
+(Authorized Signature)
+
+-----------------------------------
+(Printed Name)
+
+-----------------------------------
+(Title)
+
+-----------------------------------
+(Date)
+
+
+MIDBAR TECH (1998) LTD.
+
+
+----------------------
+
+Name:  Ran Alcalay
+
+Title :Chief Executive Officer
+
+Date: November    , 2002
+
+
+
+----------------------
+
+Name:  Roy Machnes
+
+Title :Authorized Signatory
+
+Date: November    , 2002
+
+
+
+                                       46
+<PAGE>
+
+
+
+                  [Signature Page to Asset Purchase Agreement]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                       47
+
+</TEXT>
+</DOCUMENT>

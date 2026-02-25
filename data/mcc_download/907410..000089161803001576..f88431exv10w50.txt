@@ -1,0 +1,1113 @@
+<DOCUMENT>
+<TYPE>EX-10.50
+<SEQUENCE>5
+<FILENAME>f88431exv10w50.txt
+<DESCRIPTION>EXHIBIT 10.50
+<TEXT>
+<PAGE>
+
+                                                                   EXHIBIT 10.50
+
+                          JOINT DEVELOPMENT AGREEMENT
+
+        This Joint Development Agreement ("Agreement") is made and entered into
+effective as of this 14th day of December, 2001 ("Effective Date"), by and
+between ESS Technology, Inc., ("ESS"), a California corporation, with its
+principal place of business at 48401 Fremont Blvd., Fremont, CA 94538, USA, and
+*** ("Counterparty*"), a corporation organized under the laws of ***, with its
+principal place of business at ***.
+
+                                    RECITALS
+
+WHEREAS, ESS is engaged in the business of designing and developing MPEG 2
+controller and other certain integrated circuits;
+
+WHEREAS, Counterparty* is engaged in the business of designing and developing
+*** and other certain integrated circuits;
+
+WHEREAS, ESS and Counterparty* desire to work closely together to jointly
+develop a *** product that combines the respective parties' MPEG 2 controller
+and *** for DVD player application technology, and Counterparty* desires to
+provide ESS ***;
+
+WHEREAS, ESS and Counterparty* desire to enter into this Agreement to clarify
+their respective rights and obligations to each other with respect to the joint
+development of such new products among other things;
+
+NOW, THEREFORE, in consideration of the mutual promises and covenants set forth
+below, the parties agree as follows:
+
+                                    AGREEMENT
+
+1.      DEFINITIONS. As used in this Agreement, these terms shall have the
+        following definitions:
+
+        1.1 "Counterparty* Component" shall mean ***.
+
+        1.2 "Counterparty* Deliverables" means the services and materials
+        designated as "*** Deliverables" on the Development Schedule.
+
+        1.3 "Counterparty* Existing IPR" shall mean the patents, copyrights,
+        trade secrets, know-how and mask works based on inventions (whether
+        patentable or not) developed on or prior to the Effective Date which are
+        (a) owned or licensed by Counterparty* and which Counterparty* has the
+        right to license or sublicense, (b) related to Counterparty* Component,
+        and (c) reasonably necessary to develop, manufacture, use and sell the
+        Combined Product.
+
+        1.4 "Counterparty* Improvements" shall mean any modification, invention,
+        discovery, development, or works of authorship, whether or not
+        patentable, that modifies, improves upon, extends, enhances or
+        constitutes a derivative work of the Counterparty* Existing IPR by
+        either or both patties during the Term of this Agreement.
+
+
+----------
+* All references to the counterparty on this page have been replaced with the
+term "Counterparty*." Confidential treatment has been requested with respect to
+the replaced reference.
+
+*** Certain information on this page has been omitted and filed separately with
+the Commission. Confidential treatment has been requested with respect to the
+omitted portions.
+
+<PAGE>
+
+        1.5 "Counterparty* IPR" shall mean the Counterparty* Existing IPR and
+        Counterparty* Improvements. Counterparty* IPR does not include any trade
+        name, trademark or service mark owned and/or used by Counterparty*.
+
+        1.6 "Combined Product" shall mean all single chip devices, which
+        integrates ESS Component and Counterparty* Component, developed jointly
+        by the parties pursuant to this Agreement and which incorporates the
+        functional specifications for the Combined Product set forth in Exhibit
+        A. There are two major categories of Combined Product as set forth in
+        Exhibit A.
+
+        1.7 "Confidential Information" shall mean the information of either
+        party ("Disclosing Party") which is disclosed to the other party
+        (`Receiving Party') pursuant to this Agreement, in written form and
+        marked "Confidential" or if disclosed orally, the Disclosing Party shall
+        send a written summary of such information to the Receiving Party within
+        thirty (30) days of the date of the initial disclosure and mark such
+        summary "Confidential." Confidential Information shall include, but not
+        be limited to, trade secrets, know-how, inventions, techniques,
+        processes, algorithms, software programs, schematics, designs,
+        contracts, financial information, and non-public business information.
+
+        1.8 "Deliverables" shall mean the Counterparty* Deliverables and ESS
+        Deliverables.
+
+        1.9 "Development Schedule" shall mean the schedule of Deliverables and
+        timetable set forth in Exhibit B for the development of the Combined
+        Product.
+
+        1.10 "Engineering NRE" shall mean the engineering fees, costs, expenses
+        and other charges of the independent companies to produce and package
+        the engineering silicon for Combined Product. The Engineering NRE is
+        limited to the cost of the masks, engineering fabrication, engineering
+        packaging and all third-party testing costs related thereto. Unless
+        agreed by both parties in writing, any other cost not related to the
+        masks, engineering fabrication, engineering packaging and all
+        third-party testing, shall not included in Engineering NRE.
+
+        1.11 "Specifications" shall mean the functional specifications, set
+        forth in Exhibit A, developed by Counterparty* and ESS for the Combined
+        Product, and as amended from time to time by mutual written agreement of
+        the Parties.
+
+        1.12 "ESS Component" shall mean ESS's MPEG 2 controller.
+
+        1.13 "ESS Deliverables" shall mean the services and materials designated
+        as ESS Deliverables on the Development Schedule.
+
+        1.14 "ESS Existing IPR" shall mean the patents, copyrights, trade
+        secrets, know how and mask works based on inventions (whether patentable
+        or not) developed on or prior to the Effective Date which are (a) owned
+        or licensed to ESS and which ESS has the right to
+
+----------
+* All references to the counterparty on this page have been replaced with the
+term "Counterparty*." Confidential treatment has been requested with respect to
+the replaced reference.
+
+*** Certain information on this page has been omitted and filed separately with
+the Commission. Confidential treatment has been requested with respect to the
+omitted portions.
+
+
+                                      -2-
+<PAGE>
+
+        license or sublicense, (b) related to Counterparty*, and (c) reasonably
+        necessary to develop, manufacture, use and sell the Combined Product.
+
+        1.15 "ESS Improvements" shall mean any modification, invention,
+        discovery, development, or works of authorship, whether or not
+        patentable, that modifies, improves upon, extends, enhances or
+        constitutes a derivative work of the ESS Existing IPR by either or both
+        parties during the Term of this Agreement.
+
+        1.16 "ESS IPR" shall mean ESS Existing IPR and ESS Improvements. ESS IPR
+        does not include any trade name, trademark or service mark owned and/or
+        used by ESS.
+
+        1.17 "R&D" shall mean Research and development.
+
+        1.18 "Sales cost" shall mean (a) direct marketing/sales costs,
+        including but not limited to commission and related cost, calculated at
+        ***% of total sales; (b) Indirect sales cost charge is limited to the
+        maximum ***% of total sales only. Items and amount of each indirect
+        sales cost shall be discussed and agreed by both parties in writing
+        prior to the release of the Profit Sharing Report; (c) Inventory costs
+        shall be calculated at ***% of total sales; (d) Handling charge is
+        limited to the maximum of ***% of total sales in *** only. Items and
+        amount of each handling charge shall be discussed and agreed by both
+        parties in writing prior to the release of the Profit Sharing Report;
+        (e) Sales rebate and marketing developing fund ("MDF") shall be counted
+        as a portion of the cost of total sales, with the actual figure agree by
+        both parties.
+
+        1.19 "***" shall mean the *** provided by Counterparty*.
+
+2.      R&D RESPONSIBILITIES
+
+        2.1 ESS'S R&D OBLIGATIONS. ESS will perform the design, develop, and
+        integrate the Combined Product.
+
+        2.2 COUNTERPARTY* R&D OBLIGATIONS. Counterparty* will provide necessary
+        help and materials set forth in Exhibit B, Deliverables & Development
+        Schedule, under the heading "Counterparty* Deliverables".
+
+        2.3     R&D COST.
+
+                2.3.1 Counterparty* and ESS will each be responsible for ***% of
+                the Engineering NRE.
+
+                2.3.2 Each party shall be responsible for their own internal
+                engineering costs necessary to produce the Deliverables and the
+                Combined Product.
+
+        2.4 WORK AND TIME TABLE. The Counterparty*, ESS Deliverables, and
+        Development set forth in Exhibit B shall be provided by both parties
+        within thirty (30) after the Effective Day. The parties will also use
+        their reasonable diligent efforts to meet the
+
+----------
+* All references to the counterparty on this page have been replaced with the
+term "Counterparty*." Confidential treatment has been requested with respect to
+the replaced reference.
+
+*** Certain information on this page has been omitted and filed separately with
+the Commission. Confidential treatment has been requested with respect to the
+omitted portions.
+
+
+                                      -3-
+<PAGE>
+
+        target date of the Development Schedule set forth in Exhibit B. The
+        parties may mutually agree to amend the Development Schedule.
+
+3.      INTERNAL USE LICENSES
+
+        3.1 INTERNAL USE LICENSE TO COUNTERPARTY*. ESS hereby grants to
+        Counterparty* during the Term a nonexclusive, nontransferable,
+        worldwide, royalty-free license to use, reproduce and modify the ESS IPR
+        and any materials delivered to Counterparty* under this Agreement,
+        internally at Counterparty*, for the sole purpose of developing the
+        Combined Product.
+
+        3.2 INTERNAL USE LICENSE TO ESS. Counterparty* hereby grants to ESS
+        during the Term a nonexclusive, nontransferable, worldwide, royalty-free
+        license to use, reproduce and modify the Counterparty* IPR and any
+        materials delivered to ESS under this Agreement, internally at ESS, for
+        the sole purpose of developing the Combined Product.
+
+4.      MANUFACTURING, MARKETING AND DISTRIBUTION
+
+        4.1 LICENSE TO ESS. Counterparty* hereby grants to ESS, and ESS accepts,
+        an *** license to utilize during the Term the Counterparty* IPR solely
+        on or in connection with the development, manufacture, promotion,
+        distribution and sale of the Combined Product. The license includes the
+        right to sublicense to ESS's fab foundries the right to manufacture the
+        Counterparty* IPR solely as a component of the Combined Product.
+
+        4.2 LICENSE TO COUNTERPARTY*. ESS hereby grants to Counterparty*, and
+        Counterparty* accepts, an *** license to utilize during the Term the ESS
+        IPR solely on or in connection with the distribution and sale of the
+        Combined Product. The license includes the right to sublicense to
+        Counterparty*'s fab foundries the right to manufacture the ESS IPR
+        solely as a component of the Combined Product..
+
+        4.3 ESS SUBLICENSE. The licenses of Section 4.1 shall be non
+        sublicensable except: (a) the right of ESS to sublicense the software
+        object code of the Counterparty* IPR to end users of the Combined
+        Product; (b) the right to sublicense the software source code to
+        customers of Combined Product upon terms to be negotiated by the parties
+        in good faith.
+
+        4.4 COUNTERPARTY* SUBLICENSE. The licenses of Section 4.2 shall be non
+        sublicensable except: (a) the right of Counterparty* to sublicense the
+        software object code of the ESS IPR to end users of the Combined
+        Product; (b) the right to sublicense the software source code to
+        customers of Combined Product upon terms to be negotiated by the parties
+        in good faith.
+
+        4.5 MANUFACTURING. *** have the manufacturing right of the Combined
+        Product. ESS shall place all Combined Product purchase orders to
+        Counterparty*. After receiving purchase orders from ESS, *** shall
+        operate the manufacturing of Combined Product.
+
+----------
+* All references to the counterparty on this page have been replaced with the
+term "Counterparty*." Confidential treatment has been requested with respect to
+the replaced reference.
+
+*** Certain information on this page has been omitted and filed separately with
+the Commission. Confidential treatment has been requested with respect to the
+omitted portions.
+
+
+                                      -4-
+<PAGE>
+
+        ESS shall pay for all inventory of Combined Product, including but not
+        limited to the wafer and packaged integrated circuit, ***.
+
+        4.6 MARKETING. ESS shall be entitled to market, promote, and sell the
+        Combined Product utilizing the ESS sales channel.
+
+        4.7 PROFIT-SHARING. The profit sharing scheme is subject to Exhibit C of
+        the Agreement.
+
+        4.8 MODIFICATIONS TO PROFIT SHARING STRUCTURE. The parties reserve the
+        right to alter the terms of Exhibit C as they may agree from time to
+        time in writing.
+
+        4.9 SUPPORT. Each party shall bear its own engineering support costs,
+        and each party shall provide the necessary manpower, support and service
+        to customers utilizing the ESS sales channel.
+
+        4.10 MAINTENANCE. ESS agrees to use reasonable commercial efforts to
+        make bug fixes as requested by Counterparty* to the ESS Component of the
+        Combined Product to the extent that such proprietary information and
+        technology are incorporated as part of the Combined Product.
+        Counterparty* agrees to use reasonable commercial efforts to make bug
+        fixes as requested by ESS to the Counterparty* Component of the Combined
+        Product to the extent that such proprietary information and technology
+        are incorporated as part of the Combined Product. Any such bug fixes
+        shall be deemed to constitute ESS IPR or Counterparty* IPR, as
+        applicable.
+
+        4.11 ***. Counterparty* agrees to provide ESS *** with a reasonable
+        price, where reason price means the cost of *** plus handling charge.
+
+5.      ACCOUNTING; AUDIT; PAYMENT
+
+        5.1 REPORTS AND-PAYMENT. ESS shall (i) render a profit sharing report
+        ("Profit Sharing Report") within thirty (30) days after the close of
+        each calendar month during the Term hereof, whether or not any payment
+        is shown to be due thereunder, and (ii) remit the Profit Payments
+        (defined in Exhibit C) due Counterparty*, if any, within thirty (30)
+        days after the close of each calendar month during the Term hereof. The
+        Profit Sharing Payments shall be paid in U.S. Dollars and acceptance
+        thereof by the payee and shall not preclude the payee from questioning
+        the correctness of the Profit Sharing Payment at any time. All Profit
+        Sharing Payments shall be paid without set-off of any amount whatsoever.
+        The Profit Sharing Reports shall be in a form mutually agreeable to the
+        Parties and be consistent with the revenue and profit sharing
+        arrangement described in section 4.6 hereof. The Profit Sharing Report
+        shall contain at least the following information for the previous
+        calendar quarter: (i) the *** of the Combined Product sold; (ii) the ***
+        of Combined Product; (iii) all *** of the Combined Product thereof; (iv)
+        each item of ***; and (v) the amount of the Profit Sharing Payment.
+
+----------
+* All references to the counterparty on this page have been replaced with the
+term "Counterparty*." Confidential treatment has been requested with respect to
+the replaced reference.
+
+*** Certain information on this page has been omitted and filed separately with
+the Commission. Confidential treatment has been requested with respect to the
+omitted portions.
+
+
+                                      -5-
+<PAGE>
+
+        5.2 Each party shall keep complete and accurate records and accounts
+        with respect to its manufacturing, sales and distribution of the
+        Combined Product. These records shall be retained by each party for a
+        period of not less than three (3) years after expiration or termination
+        of this Agreement. Not more than twice per calendar year, the Parties
+        shall be entitled to audit, through an independent auditor retained by
+        the auditing party the other Parties books and records, upon at least
+        thirty (30) days prior written notice to the other party. Each party
+        shall pay to the other party an amount corresponding to the net amount
+        of any underpayment of the profit sharings due hereunder within thirty
+        (30) days after notice by the auditor of such underpayment or
+        overpayment, as applicable, as well as an interest on such underpayment
+        or overpayment at the rate of twelve percent (12%) per year, or the
+        maximum rate permitted by law, whichever is lower. A failure to complete
+        an audit and assert a claim within a three-year period after delivery of
+        a Revenue and Profit Sharing Report shall constitute a waiver of the
+        right to audit and/or assert a claim with respect to such Revenue and
+        Profit Sharing Report. If a Party's duly authorized representative
+        discovers a deficiency in the amounts due under this Agreement (an
+        "Audit Deficiency") the audited Party shall promptly pay such Audit
+        Deficiency to the auditing Party and, if such Audit Deficiency is five
+        percent (5%) or more of the amount paid to the auditing Party for such
+        audit period, the audited Party shall also reimburse the auditing Party
+        for all reasonable costs and expenses incurred by the auditing Party in
+        connection with such audit and collection of the Audit Deficiency. The
+        results of such audit shall be deemed Confidential Information pursuant
+        to Section 10 hereof.
+
+6.      RESPONSIBILITY FOR TAXES
+
+        Each party agrees to pay, indemnify and, hold the other party harmless
+        from any sales, use, excise, import or export, value-added, or similar
+        tax or duty, and any other tax or duty not based on the other party's
+        net income ("Taxes"), and all government permit fees, license fees,
+        royalty fees, customs fees or similar fees ("Fees"), levied upon any
+        deliverables by such party under this Agreement or due to any payment to
+        be made pursuant to this Agreement, and any penalties, interest,
+        collection costs and withholding costs associated with any of the
+        foregoing items ("Additional Costs"). Taxes, Fees and Additional Costs
+        required to be paid by each party pursuant to this Section 6 are in
+        addition to, and may not be claimed as a reduction or offset against,
+        any payments due to the other party under this Agreement.
+
+7.      DISCLAIMER OF WARRANTIES
+
+        NEITHER PARTY MAKES ANY WARRANTIES IN THIS AGREEMENT AS TO ESS
+        COMPONENT, COUNTERPARTY* COMPONENT, THE COMBINED PRODUCT, ESS IPR,
+        COUNTERPARTY* IPR, TECHNOLOGY, MATERIALS, SERVICES, INFORMATION OR OTHER
+        ITEMS IT FURNISHES PURSUANT TO THIS AGREEMENT, EXPRESS, IMPLIED, OR
+        STATUTORY, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY
+        AND FITNESS FOR A PARTICULAR PURCHASE, OR THAT SUCH ITEMS ARE FREE FROM
+        THE
+
+----------
+* All references to the counterparty on this page have been replaced with the
+term "Counterparty*." Confidential treatment has been requested with respect to
+the replaced reference.
+
+*** Certain information on this page has been omitted and filed separately with
+the Commission. Confidential treatment has been requested with respect to the
+omitted portions.
+
+
+                                      -6-
+<PAGE>
+
+        RIGHTFUL CLAIM OF ANY THIRD PARTY BY WAY OF INFRINGEMENT OR THE LIKE.
+
+8.      REPRESENTATIONS AND WARRANTIES
+
+        8.1 ESS REPRESENTATIONS AND WARRANTIES. ESS represents and warrants to
+        Counterparty* that ESS has the corporate power, legal capacity and
+        authority to enter into and perform its obligations under this Agreement
+        and to consummate the transactions contemplated hereby. ESS further
+        represents and warrants to Counterparty* that no approval or consent of,
+        notice to, filing or registration with any third party or governmental
+        agency is necessary in connection with ESS's performance of ESS's
+        obligations hereunder that have not been obtained.
+
+        8.2 COUNTERPARTY* REPRESENTATIONS AND WARRANTIES. Counterparty*
+        represents and warrants to ESS that Counterparty* has the corporate
+        power, legal capacity and authority to enter into and perform its
+        obligations under this Agreement and to consummate the transactions
+        contemplated hereby. Counterparty* further represents and warrants to
+        ESS that no approval or consent of, notice to, filing or registration
+        with any third party or governmental agency is necessary in connection
+        with Counterparty*'s performance of Counterparty*'s obligations
+        hereunder that have not been obtained.
+
+9.      PROPRIETARY RIGHTS OWNERSHIP
+
+        9.1 PRIOR RIGHTS. All intellectual property rights, including patents,
+        patent applications, copyrights and trade secrets, owned by a party as
+        of the Effective Date shall remain the property of such party and no
+        licenses or other rights with respect to such intellectual property are
+        granted to the other party except as expressly set forth in this
+        Agreement. Without limiting the foregoing, ESS shall own all right,
+        title and interest in and to the ESS Existing IPR, and Counterparty*
+        shall own all right, title and interest in and to the Counterparty* IPR,
+        subject only to the terms of this Agreement.
+
+        9.2 ***. Both parties, ESS and Counterparty*, agree that the
+        manufacturing kits, including but not limited to mask set of the
+        Combined Products are intellectual properties of *** and are ***. *** is
+        allowed to use the manufacturing kits to manufacture Combined Product
+        without the approval from *** in writing.
+
+        9.3     IMPROVEMENTS.
+
+                9.3.1 COUNTERPARTY* IMPROVEMENTS. To the extent ESS or
+                Counterparty* develops any Counterparty* Improvements, whether
+                or not as a joint invention, Counterparty* shall own all
+                intellectual property rights in such Counterparty* Improvements.
+                ESS hereby assigns to Counterparty* all ESS's right, title and
+                interest, worldwide, if any, in all intellectual property rights
+                in the Counterparty* Improvements.
+
+----------
+* All references to the counterparty on this page have been replaced with the
+term "Counterparty*." Confidential treatment has been requested with respect to
+the replaced reference.
+
+*** Certain information on this page has been omitted and filed separately with
+the Commission. Confidential treatment has been requested with respect to the
+omitted portions.
+
+
+                                      -7-
+<PAGE>
+
+                9.3.2 ESS IMPROVEMENTS. To the extent Counterparty* develops any
+                ESS improvements, whether or not as a joint invention, ESS shall
+                own all intellectual property rights in such ESS Improvements.
+                Counterparty* hereby assigns to ESS all Counterparty's right,
+                title and interest, worldwide, if any, in all intellectual
+                property rights in the ESS Improvements.
+
+10.     CONFIDENTIALITY
+
+        10.1 CONFIDENTIALITY OBLIGATIONS. Each party acknowledges that in the
+        course of the performance of this Agreement, it may obtain the
+        Confidential Information of the other party. The Receiving Party (as
+        defined in Section 1.7 "Confidential Information") shall at all times,
+        both during the Term of this Agreement and thereafter, keep in
+        confidence all of the Disclosing Party's (as defined herein)
+        Confidential Information received by it. The Receiving Party shall not
+        use the Confidential Information of the Disclosing Party other than as
+        expressly permitted under the Terms of this Agreement or by a separate
+        written agreement. The Receiving Party shall take all reasonable steps
+        to prevent unauthorized disclosure or use of the Disclosing Party's
+        Confidential Information and to prevent it from failing into the public
+        domain or into the possession of unauthorized persons. The Receiving
+        Party shall not disclose Confidential Information of the Disclosing
+        Party to any person or entity other than its officers, employees and
+        consultants who need access to such Confidential Information in order to
+        effect the intent of this Agreement and who have entered into written
+        confidentiality agreements with the Receiving Party which protects the
+        Confidential Information of the Disclosing Party. The Receiving Party
+        shall immediately give notice to the Disclosing Party of any
+        unauthorized use or disclosure of Disclosing Party's Confidential
+        Information. The Receiving Party agrees to assist the Disclosing Party
+        in remedying such unauthorized use or disclosure of its Confidential
+        Information. The foregoing obligations shall not apply to the extent
+        that Confidential Information includes information which:
+
+                10.1.1 is already known to the Receiving Party at the time of
+                disclosure, which knowledge the Receiving Party shall have the
+                burden of proving;
+
+                10.1.2 is, or, through no act or failure to act of the Receiving
+                Party, becomes publicly known;
+
+                10.1.3 is received by the Receiving Party from a third party
+                without restriction on disclosure;
+
+                10.1.4 is independently developed by the Receiving Party without
+                reference to the Confidential information of the Disclosing
+                Party, which independent development the Receiving Party will
+                have the burden of proving;
+
+                10.1.5 is approved for release by written authorization of the
+                Disclosing Party, or
+
+----------
+* All references to the counterparty on this page have been replaced with the
+term "Counterparty*." Confidential treatment has been requested with respect to
+the replaced reference.
+
+*** Certain information on this page has been omitted and filed separately with
+the Commission. Confidential treatment has been requested with respect to the
+omitted portions.
+
+
+                                      -8-
+<PAGE>
+
+                10.1.6 is required to be disclosed by a government agency to
+                further the objectives of this Agreement or by a proper order of
+                a court of competent jurisdiction; provided, however that the
+                Receiving Party will use its best efforts to minimize such
+                disclosure and will consult with and assist the Disclosing Party
+                in obtaining a protective order prior to such disclosure.
+
+        10.2 Except as expressly provided herein, the Confidential Information
+        disclosed, delivered to or required hereunder shall be and remain the
+        sole property of the Disclosing Party. Upon the termination or
+        expiration of this Agreement, and the Disclosing Party's request, the
+        Receiving Party agrees to return or destroy all of the Confidential
+        information of the Disclosing Party and any copies of the same promptly
+        to the Disclosing Party.
+
+11.     INDEMNIFICATION
+
+        11.1 ESS INDEMNIFICATION. ESS shall at it's sole expense indemnify,
+        defend and hold harmless Counterparty* and it's officers, directors and
+        employees, against any claims, liabilities, demands, causes of action,
+        judgements, settlements, and expenses (including reasonable attorneys
+        fees) relating to, arising out of or resulting from (i) any breach of
+        the warranties and/or representations in Section 8 hereof, or (ii)
+        Counterparty*'s use of the ESS Component, ESS IPR, or ESS contributions
+        to the Counterparty* Improvements.
+
+                11.1.1 ESS's obligations hereunder are contingent upon (a)
+                Counterparty* giving prompt written notice to ESS of any such
+                claim, action or demand, (b) Counterparty* allowing ESS to
+                control the defense and related settlement negotiations;
+                provided, however, that ESS shall not enter into any agreement
+                which results in any liability to Counterparty* without
+                Counterparty*'s prior written consent and (c) Counterparty*
+                fully assisting in the defense so long as ESS reimburses
+                Counterparty* for its reasonable fees, expenses and employee
+                time.
+
+                11.1.2 ESS will have no obligation hereunder for any such
+                claims, actions or demands that result from:
+
+                        (a) Counterparty*'s use of the Combined Product in a
+                        combination with materials or products not supplied by
+                        ESS which violates the rights of third parties to the
+                        extent that such infringement would not have arisen
+                        except for such combination, or
+
+                        (b) The modification or attempted modification of the
+                        Combined Product by parties other than ESS (without
+                        ESS's consent).
+
+                11.1.3 In the event that any such claim, action or demand is
+                made against Counterparty*, Counterparty* will promptly furnish
+                ESS with copies of any and
+
+----------
+* All references to the counterparty on this page have been replaced with the
+term "Counterparty*." Confidential treatment has been requested with respect to
+the replaced reference.
+
+*** Certain information on this page has been omitted and filed separately with
+the Commission. Confidential treatment has been requested with respect to the
+omitted portions.
+
+
+                                      -9-
+<PAGE>
+
+                all documents (inclusive of all correspondence and pleadings
+                other than attorney-client communications) pertaining thereto.
+
+                11.1.4 THE TOTAL MONETARY AMOUNT OF ESS'S INDEMNIFICATION TO
+                COUNTERPARTY* SHALL BE LIMITED TO A MAXIMUM OF ***.
+
+                11.1.5 THE FOREGOING STATES COUNTERPARTY*'S SOLE AND EXCLUSIVE
+                REMEDY WITH RESPECT TO CLAIMS OF INFRINGEMENT OF PROPRIETARY
+                RIGHTS OF ANY KIND,
+
+        11.2 COUNTERPARTY*'S INDEMNIFICATION. Counterparty* shall at it's sole
+        expense, indemnify, defend and hold harmless ESS and its officers,
+        directors and employees, against any claims, liabilities, demands,
+        causes of action, judgments, settlements, and expenses (including
+        reasonable attorneys' fees) relating to, arising out of or resulting
+        from (i) any breach of the warranties and/or representations in Section
+        8 hereof, or (ii) ESS's use of the Counterparty* Component,
+        Counterparty* IPR or Counterparty* contributions, to the ESS
+        Improvements.
+
+                11.2.1 Counterparty*'s obligations hereunder are contingent upon
+                (a) ESS giving prompt written notice to Counterparty* of any
+                such claim, action or demand, (b) ESS allowing Counterparty* to
+                control the defense and related settlement negotiations;
+                provided, however, that Counterparty* shall not enter into any
+                agreement which results in any liability to ESS without ESS's
+                prior written consent and (c) ESS fully assisting in the defense
+                so long as Counterparty* reimburses ESS for its reasonable fees,
+                expenses and employee time.
+
+                11.2.2 Counterparty* will have no obligation hereunder for any
+                such claims, actions or demands that result from:
+
+                        (a) ESS's use of the Combined Product in a combination
+                        with materials or products not supplied by Counterparty*
+                        which violates the rights of third parties to the extent
+                        that such infringement would not have arisen except for
+                        such combination, or
+
+                        (b) The modification or attempted modification of the
+                        Combined Product by parties other than Counterparty*
+                        (without Counterparty*'s consent).
+
+                11.2.3 In the event that any such claim, action or demand is
+                made against ESS, ESS will promptly furnish Counterparty* with
+                copies of any and all documents (inclusive of all correspondence
+                and pleadings other than attorney-client communications)
+                pertaining thereto.
+
+----------
+* All references to the counterparty on this page have been replaced with the
+term "Counterparty*." Confidential treatment has been requested with respect to
+the replaced reference.
+
+*** Certain information on this page has been omitted and filed separately with
+the Commission. Confidential treatment has been requested with respect to the
+omitted portions.
+
+
+                                      -10-
+<PAGE>
+
+                11.2.4 THE TOTAL MONETARY AMOUNT OF COUNTERPARTY*'S
+                INDEMNIFICATION TO ESS SHALL BE LIMITED TO A MAXIMUM OF ***.
+
+                11.2.5 THE FOREGOING STATES ESS's SOLE AND EXCLUSIVE REMEDY WITH
+                RESPECT TO CLAIMS OF INFRINGEMENT OF PROPRIETARY RIGHTS OF ANY
+                KIND.
+
+12.     WAIVER OF CONSEQUENTIAL DAMAGES
+
+        12.1 IN NO EVENT, WHETHER BASED IN CONTRACT OR TORT (INCLUDING
+        NEGLIGENCE) SHALL EITHER PARTY BE LIABLE FOR INCIDENTAL, CONSEQUENTIAL,
+        INDIRECT OR SPECIAL DAMAGES OF ANY KIND OR FOR LOSS OF REVENUE, LOSS OF
+        BUSINESS OR OTHER FINANCIAL LOSS ARISING OUT OF OR RELATING TO THIS
+        AGREEMENT OR THE BREACH THEREOF, WHETHER OR NOT THE PARTY WAS ADVISED OF
+        THE POSSIBILITY OF SUCH DAMAGE.
+
+13.     TERM AND TERMINATION
+
+        13.1 TERM. This Agreement will be in effect for a one (1) year period
+        commencing from the Effective Date, unless terminated earlier by either
+        party pursuant to the provisions in this section 13 (the "Original
+        Term"). This Agreement will be automatically renewed for a successive
+        one (1) year period each time(the "Additional Term" and, together with
+        the Original Term, the "Term")unless either party provides written
+        notice of intent to terminate at least (30) days prior to the end of
+        each Term. The Exhibit A "Specifications" and the Exhibit B
+        "Deliverables & Development Schedule" of the Agreement may be amended
+        upon the mutual agreement of the parties in writing during the Term.
+
+        13.2 DEFAULT BY COUNTERPARTY*. ESS has the right to terminate this
+        Agreement and its further obligations hereunder upon the occurrence of
+        any of the following events of default (subject to Counterparty*'s
+        ability to cure or remedy such event as described in Section 13.2.3):
+
+                13.2.1 Counterparty* is involved in any voluntary or involuntary
+                bankruptcy proceeding or any other proceeding concerning
+                insolvency, dissolution, cessation of operations, reorganization
+                or indebtedness or the like, and the proceeding is not dismissed
+                within sixty (60) days,
+
+                13.2.2 Counterparty* becomes insolvent or unable to pay its
+                debts as they mature in the ordinary course of business or makes
+                an assignment for the benefit of its creditors; or
+
+                13.2.3 Counterparty* is in material default of any provision of
+                this Agreement,
+
+----------
+* All references to the counterparty on this page have been replaced with the
+term "Counterparty*." Confidential treatment has been requested with respect to
+the replaced reference.
+
+*** Certain information on this page has been omitted and filed separately with
+the Commission. Confidential treatment has been requested with respect to the
+omitted portions.
+
+
+                                      -11-
+<PAGE>
+
+        13.3 DEFAULT BY ESS. Counterparty* has the right to terminate this
+        Agreement and its further obligations hereunder upon the occurrence of
+        any of the following events of default (subject to ESS's ability to cure
+        or remedy such event as described in Section 13.3.3):
+
+                13.3.1 ESS is involved in any voluntary or involuntary
+                bankruptcy proceeding or any other proceeding concerning
+                insolvency, dissolution, cessation of operations, reorganization
+                or indebtedness or the like, and the proceeding is not dismissed
+                within sixty (60) days,
+
+                13.3.2 ESS becomes insolvent or unable to pay its debts as they
+                mature in the ordinary course of business or makes an assignment
+                for the benefit of its creditors; or
+
+                13.3.3 ESS is in material default of any provision of this
+                Agreement,
+
+        13.4 RIGHT TO CURE EVENT OF DEFAULT. Upon the occurrence of any event of
+        default entitling a party to terminate this Agreement, the
+        non-defaulting party may send notice of termination, specifying the
+        nature of the default, to the other party. The non-defaulting party will
+        permit thirty (30) days following the date of such notice to enable the
+        other party to cure the default. Failure to cure the default will result
+        in termination without further notice by the non-defaulting party,
+        unless such non-defaulting party extends the cure period by written
+        notice or withdraws the default notice.
+
+        13.5 EFFECT OF TERMINATION. Upon termination or expiration of this
+        Agreement:
+
+                13.5.1 All rights and licenses granted hereunder shall terminate
+                immediately; provided, however, that each party may sell its
+                inventory of the Combined Product in existence on the
+                termination date.
+
+                13.5.2 All sublicense agreements entered into pursuant to this
+                Agreement shall terminate immediately.
+
+        13.6 SURVIVAL. The termination or expiration of this Agreement shall in
+        no way relieve either party from its obligations to pay the other any
+        sums accrued hereunder prior to such termination. The parties agree that
+        their respective rights, obligations and duties under Section 4.7
+        ("Profit Sharing"); Section 5 ("Accounting; Audit; Payment"), Section 7
+        ("Disclaimer of Warranties"), Section 9 ("Propriety Rights Ownership"),
+        Section 10 ("Confidentiality"), Section 11 ("Indemnification"), Section
+        13 ("Term and Termination") and Section 14 ("General Provisions") of
+        this Agreement shall survive any termination or expiration of this
+        Agreement.
+
+14.     GENERAL PROVISIONS
+
+----------
+* All references to the counterparty on this page have been replaced with the
+term "Counterparty*." Confidential treatment has been requested with respect to
+the replaced reference.
+
+*** Certain information on this page has been omitted and filed separately with
+the Commission. Confidential treatment has been requested with respect to the
+omitted portions.
+
+
+                                      -12-
+<PAGE>
+
+        14.1 NOTICE. Any notice provided for or permitted under this Agreement
+        will be treated as having been given when (a) delivered personally, (b)
+        sent by confirmed telex or telecopy, (c) sent by commercial overnight
+        courier with written verification of receipt (d) mailed postage prepaid
+        by certified or registered mail, return receipt requested, to the party
+        to be notified, at the addresses set forth below, or at such other place
+        of which the other party has been notified in accordance with the
+        provisions of this Section 14.
+
+        If to ESS:           ESS Technology, Inc.
+                             48401 Fremont Blvd.,
+                             Fremont, California 94538
+                             Attn:
+
+        If to Counterparty*: ***
+                             ***
+                             ***
+                             ***
+
+        Such notice will be treated as having been received upon the earlier of
+        actual receipt or five (5) days after posting.
+
+        14.2 NO MODIFICATION WAIVER. The terms of this Agreement shall not be
+        modified except by an agreement in writing signed by both parties
+        hereto. No waiver by either party of a breach or default hereunder shall
+        be deemed a waiver by such party of a subsequent breach or default of a
+        like or similar nature.
+
+        14.3 ENTIRE-AGREEMENT. This Agreement, including Exhibits, shall
+        constitute the entire understanding of the parties with respect to the
+        subject matter, superseding all prior and contemporaneous promises,
+        agreements and understandings, whether written or oral pertaining
+        thereto.
+
+        14.4 RELATIONSHIP OF THE PARTIES. This Agreement does not appoint either
+        party as the agent of the other party, or create a partnership of joint
+        venture between the parties.
+
+        14.5 GOVERNING-LAW. This Agreement shall be construed and interpreted
+        pursuant to the laws of the State of California, and the parties hereto
+        submit and consent to the jurisdiction of the courts of the State of
+        California, excluding its choice of law provisions.
+
+        14.6 SEVERABILITY. In the event that any provision of this Agreement
+        shall be unenforceable or invalid under any applicable law or be so held
+        by applicable court decision, such unenforceability or invalidity shall
+        not render this Agreement unenforceable or invalid as a whole, and, in
+        such event, such provision shall be changed and interpreted so as to
+        best accomplish the objectives of such unenforceable or invalid
+        provision within the limits of applicable law or applicable court
+        decisions.
+
+----------
+* All references to the counterparty on this page have been replaced with the
+term "Counterparty*." Confidential treatment has been requested with respect to
+the replaced reference.
+
+*** Certain information on this page has been omitted and filed separately with
+the Commission. Confidential treatment has been requested with respect to the
+omitted portions.
+
+
+                                      -13-
+<PAGE>
+
+        14.7 COUNTERPARTS. This Agreement may be executed in any number of
+        counterparts; each of which shall be deemed to be an original and all of
+        which together shall be deemed to be one and the same Agreement.
+
+        14.8 FURTHER ASSURANCES. The parties hereto shall execute such further
+        documents and perform such further acts as may be necessary to comply
+        with the Terms of this Agreement and consummate the transactions herein
+        provided.
+
+        14.9 ATTORNEY'S FEES. If any legal action or any other proceeding is
+        brought for the enforcement of this Agreement, or if a dispute arises
+        under this Agreement, the successful or prevailing party shall be
+        entitled to recover reasonable attorneys' fees and other costs incurred
+        in that action or proceeding, in addition to any other relief to which
+        it may be entitled.
+
+        14.10 HEADINGS. The headings contained in this Agreement are for
+        convenience and reference purposes only. They do not form a part hereof
+        and shall not affect the meaning or interpretation of this Agreement.
+
+        14.11 ASSIGNMENT. Except as provided in this Agreement and in the event
+        of acquisition, neither party may assign any of its rights hereunder
+        (whether voluntarily, involuntarily, by operation of law or otherwise)
+        unless it has obtained the prior written consent of the other party to
+        the assignment of such rights. Except as provided in this Agreement and
+        in the event of acquisition, neither party may delegate any of its
+        obligations hereunder (whether voluntarily, involuntarily, by operation
+        of law or otherwise) unless it has obtained the prior written consent of
+        the other party to the delegation of such obligations. Any purported
+        assignment or delegation by either party of any rights or obligations
+        hereunder without the other parties prior written approval shall be void
+        and of no further force and effect.
+
+        14.12 EQUITABLE REMEDIES. Each party acknowledges that its failure to
+        perform any of the material terms or conditions of this Agreement shall
+        result in immediate and irreparable damage. The Parties also acknowledge
+        that there may be no adequate remedy at law for such failures and that
+        in the event thereof, each party shall be entitled to equitable relief
+        in the nature of an injunction and to all other available relief, at law
+        or in equity.
+
+----------
+* All references to the counterparty on this page have been replaced with the
+term "Counterparty*." Confidential treatment has been requested with respect to
+the replaced reference.
+
+*** Certain information on this page has been omitted and filed separately with
+the Commission. Confidential treatment has been requested with respect to the
+omitted portions.
+
+
+                                      -14-
+<PAGE>
+
+        IN WITNESS WHEREOF, the parties have caused this Agreement to be as of
+        the Effective Date.
+
+        ESS TECHNOLOGY INC.                 ***
+
+        By: /s/ Fred S. L. Chan             By:  /s/ ***
+           -------------------------           -----------------------------
+           Authorized Representative           Authorized Representative
+
+        Name:  Fred S. L. Chan              Name: ***
+
+        Title: Chairman                     Title: President
+
+        Date: 12/14/2001                    Date: 12/14/2001
+
+----------
+* All references to the counterparty on this page have been replaced with the
+term "Counterparty*." Confidential treatment has been requested with respect to
+the replaced reference.
+
+*** Certain information on this page has been omitted and filed separately with
+the Commission. Confidential treatment has been requested with respect to the
+omitted portions.
+
+
+                                      -15-
+<PAGE>
+
+        Exhibit A     Specifications
+
+        Exhibit B     Deliverables & Development Schedule
+
+        Exhibit C     Profit Sharing
+
+----------
+* All references to the counterparty on this page have been replaced with the
+term "Counterparty*." Confidential treatment has been requested with respect to
+the replaced reference.
+
+*** Certain information on this page has been omitted and filed separately with
+the Commission. Confidential treatment has been requested with respect to the
+omitted portions.
+
+
+                                      -16-
+<PAGE>
+
+                                    EXHIBIT A
+
+                                 SPECIFICATIONS
+
+        ***
+
+
+        1.      CLASSIFICATION OF THE ***
+
+                *** can be classified into two major categories, one with Basic
+                Features while the other with Advanced Features. The Basic
+                Features and Advanced Features shall be mutually acceptable by
+                both Parties in writing and can be updated by both Parties from
+                time to time in writing during the Term of this Agreement.
+
+        2.      FEATURES OF EACH OF ***
+
+                This section lists the Basic Features, Advanced features of ***.
+
+                The product specification is defined in EXHIBITION A.  All the
+                products with one of the following features are defined as ***
+                with Advanced Features :
+                1. ***
+                2. ***
+                3. ***
+                4. ***
+
+                All the products which are not ***s with Advanced Features are
+                defined as *** with Basic features.
+
+----------
+* All references to the counterparty on this page have been replaced with the
+term "Counterparty*." Confidential treatment has been requested with respect to
+the replaced reference.
+
+*** Certain information on this page has been omitted and filed separately with
+the Commission. Confidential treatment has been requested with respect to the
+omitted portions.
+
+
+                                      -17-
+<PAGE>
+
+                                    EXHIBIT B
+
+        1.      COUNTERPARTY* DELIVERABLES
+
+<TABLE>
+        <S>                        <C>                      <C>
+        -------------------------- ------------------------ --------------------
+        Item                       Deliverables             Due Date
+        -------------------------- ------------------------ --------------------
+
+        -------------------------- ------------------------ --------------------
+
+        -------------------------- ------------------------ --------------------
+</TABLE>
+
+
+        2.    ESS DELIVERABLES
+
+<TABLE>
+        <S>                        <C>                      <C>
+        -------------------------- ------------------------ --------------------
+        Item                       Deliverables             Due Date
+        -------------------------- ------------------------ --------------------
+
+        -------------------------- ------------------------ --------------------
+
+        -------------------------- ------------------------ --------------------
+</TABLE>
+
+        3.      Development Schedule
+
+                Project                                  Target Completion Date
+
+                1.     Tape out
+
+                2.     Demonstration
+
+                3.     Production
+
+
+----------
+* All references to the counterparty on this page have been replaced with the
+term "Counterparty*." Confidential treatment has been requested with respect to
+the replaced reference.
+
+*** Certain information on this page has been omitted and filed separately with
+the Commission. Confidential treatment has been requested with respect to the
+omitted portions.
+
+
+
+                                      -18-
+<PAGE>
+
+                                    EXHIBIT C
+
+                                 PROFIT SHARING
+
+        1.      DEFINITIONS
+
+                1.1     "Combined Product B" shall mean Combined Product with
+                        Basic Features.
+
+                1.2     Combined Product A" shall mean Combined Product with
+                        Advanced Features.
+
+                1.3     "Combined Product Price B" means the average selling
+                        price of Combined Product B sold.
+
+                1.4     "Combined Product Price A" means the average selling
+                        price of Combined Product A sold.
+
+                1.5     "Combined Product Cost" shall mean ***.
+
+                1.6     "Extra Die Cost" shall mean extra cost of each die due
+                        to Advanced Features.
+
+                1.7     "Extra Testing Cost" shall mean extra testing cost due
+                        to Advanced Features.
+
+                1.8     "Extra Sales Cost" = ***
+
+                1.9     "Total Extra Cost" = ***
+
+        2.      PROFIT SHARING OF PRODUCT B
+
+                The Profit of each Combined Product B will be shared with the
+                following equations:
+
+                ***
+
+        3.      PROFIT SHARING OF PRODUCT A
+
+                The Profit of each Combined Product A will be shared with the
+                following equations:
+
+                ***
+
+        4.      PRICING OF COMBINED PRODUCT B
+
+                ***
+
+----------
+* All references to the counterparty on this page have been replaced with the
+term "Counterparty*." Confidential treatment has been requested with respect to
+the replaced reference.
+
+*** Certain information on this page has been omitted and filed separately with
+the Commission. Confidential treatment has been requested with respect to the
+omitted portions.
+
+
+                                      -19-
+
+</TEXT>
+</DOCUMENT>

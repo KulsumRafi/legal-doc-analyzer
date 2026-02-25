@@ -1,0 +1,667 @@
+<DOCUMENT>
+<TYPE>EX-99.7
+<SEQUENCE>11
+<FILENAME>dex997.txt
+<DESCRIPTION>LETTER AGREEMENT - CLASS A-3B NOTES - 1/15/03
+<TEXT>
+<PAGE>
+
+                                                                    Exhibit 99.7
+
+                                January 15, 2003
+
+Morgan Stanley Capital Services Inc.
+1585 Broadway
+3/rd/ Floor, FID-Controller
+New York, NY 10036
+
+           RE: Confirmation of Primary Swap Relating to the Capital Auto
+                 Receivables Asset Trust 2003-1 Class A-3b Notes (MS Ref. ARKS3)
+
+Dear Ladies and Gentlemen:
+
+     The purpose of this letter agreement is to confirm the terms and conditions
+of the Swap Transaction (the "Primary Swap") entered into between Morgan Stanley
+Capital Services Inc. (the "Counterparty") and Capital Auto Receivables Asset
+Trust 2003-1 (the "Trust") as of the Trade Date listed below (the
+"Transaction"). This letter constitutes a "Confirmation" as referred to in the
+Primary ISDA Agreement specified below.
+
+1.   The definitions and provisions contained in the 2000 ISDA Definitions (the
+     "Definitions"), as published by the International Swaps and Derivatives
+     Association, Inc. ("ISDA"), are incorporated into this Confirmation. In the
+     event of any inconsistency between those definitions and provisions and
+     this Confirmation, this Confirmation will govern. The parties agree that
+     this transaction is a Transaction under the ISDA Master Agreement of the
+     parties dated as of January 15, 2003. The agreement is comprised of the
+     printed form of such agreement as published by ISDA, as supplemented and
+     modified by a Schedule (the "Primary ISDA Agreement").
+
+     This Confirmation constitutes a binding agreement between you and us and
+     will supplement, form a part of, and be subject to the Primary ISDA
+     Agreement described above as amended and supplemented from time to time.
+
+     The Counterparty and the Trust acknowledge that this Transaction relates to
+     the Class A-3b Floating Rate Asset Backed Notes (the "Reference Notes")
+     issued by the Trust for value pursuant to and subject to the Indenture.
+
+     Capitalized terms used and not otherwise defined herein, in the Primary
+     ISDA Agreement or in the Definitions shall have the meanings assigned to
+     them in Exhibit A or Exhibit B hereto, as applicable.
+
+     All references to "dollars" or to "$" shall be references to amounts in
+     United States Dollars.
+
+2.   The terms of the particular Transaction to which this Confirmation relates
+     are as follows:
+
+     Type of Transaction: Interest Rate Swap.
+
+     Notional Amount: $528,000,000.00 with respect to the initial Calculation
+     Period. The Notional Amount with respect to each Calculation Period
+     thereafter shall be equal to the Reference Note Balance as of the close of
+     business on the Distribution Date at the beginning of the relevant
+     Calculation Period (as set forth in the Calculation Statement (defined
+     below) delivered by the Trust to the Counterparty on or prior to the
+     Determination Date relating to such Calculation Period pursuant to Section
+     3 below).
+
+     Trade Date: January 7, 2003.
+
+<PAGE>
+
+     Effective Date: January 15, 2003.
+
+     Termination Date: The earlier of the close of business on (i) April 16,
+     2007, and (ii) the Fixed Rate Payer Payment Date on which the Notional
+     Amount is reduced to zero.
+
+     Fixed Amounts:
+
+          Fixed Rate Payer: The Trust.
+
+          Fixed Rate Payer Period End Dates: The 15th calendar day of each
+          month, commencing February 18, 2003 to and including April 16, 2007
+          with, in each case, subject to adjustment in accordance with the
+          Following Business Day Convention.
+
+          Fixed Rate Payer Payment Date: One Business Day prior to each
+          Distribution Date.
+
+          Fixed Rate: 2.727%.
+
+          Fixed Rate Day Count Fraction: 30/360.
+
+     Floating Amounts:
+
+          Floating Rate Payer: The Counterparty.
+
+          Floating Rate Payer Period End Dates: Each Fixed Rate Payer Period End
+          Date.
+
+          Floating Rate Payer Payment Dates: Each Fixed Rate Payer Payment Date.
+
+          Reset Dates: Each Distribution Date.
+
+          Floating Rate: LIBOR (as defined in Exhibit A hereto).
+
+          Spread: 9 Basis Points.
+
+          Floating Rate Day Count Fraction: Actual/360.
+
+          Compounding: Inapplicable.
+
+     Business Days for Payment: New York (New York), Detroit (Michigan) and
+     Chicago (Illinois).
+
+     Calculation Agent: The Trust, or General Motors Acceptance Corporation, as
+     agent for and on behalf of the Trust.
+
+     Default Rate: For any United States Dollar payments, the rate determined
+     under the option entitled "USD Federal Funds - H.15" plus 1% using daily
+     Reset Dates. The Default Rate will be applied on the basis of Compounding
+     as if the overdue amount were a Notional Amount and using daily Compounding
+     Dates, and interest will accrue and be payable before as well as after
+     judgment.
+
+3.   Calculations and Notifications: On or before each Determination Date, the
+     Calculation Agent shall determine the Fixed Amount due to the Counterparty
+     on the next succeeding Fixed Rate Payer Payment Date and the Floating
+     Amount due to the Trust on the next succeeding Floating Rate Payer Payment
+     Date and the Calculation Agent shall notify the Counterparty in writing of
+     both (i) the Floating Rate and (ii) the amount of such payment.
+
+                                       2
+
+<PAGE>
+
+     In addition, on each Determination Date the Trust shall deliver to the
+     Counterparty (by facsimile with hard copy to follow) a statement (the
+     "Calculation Statement") setting forth with respect to the close of
+     business on the immediately preceding Distribution Date the Reference Note
+     Balance as of such Distribution Date.
+
+     The Trust will give the Counterparty prompt written notice of any Default
+     under the Indenture.
+
+4.   Credit Downgrade: In the event that the Joint Probability is reduced below
+     AA- in the case of S&P or Aa3, in the case of Moody's, the Offsetting
+     Counterparty shall promptly notify the Trust (and any permitted assignee or
+     transferee of the Trust) and the Counterparty of such event and (unless,
+     within thirty (30) days after such reduction, the applicable Rating Agency
+     has reconfirmed the ratings of the Reference Notes and the Other Securities
+     that were in effect immediately prior to such reduction) the Counterparty
+     shall within thirty (30) days of receipt of notice of such reduction, with
+     the prior written confirmation of the applicable Rating Agency that such
+     arrangement will not result in the reduction of the rating of any of the
+     Reference Notes or the Other Securities existing immediately prior to the
+     reduction of the applicable Joint Probability, either:
+
+               (1) (x) obtain a substitute swap provider (the "Substitute Swap
+               Provider") acceptable to the Trust (such acceptance not to be
+               unreasonably withheld) and replace this Transaction with a swap
+               transaction on substantially similar terms or with such other
+               amendments as consented to in writing by the Trust (which consent
+               shall not be unreasonably withheld), provided such replacement
+               would result in an S&P Joint Probability of at least AA- and a
+               Moody's Joint Probability of at least Aa3, except that such
+               Substitute Swap Provider shall thenceforth be the "Counterparty"
+               hereunder; or (y) replace, with the consent of the then current
+               Offsetting Counterparty, the swap transaction with the then
+               current Offsetting Counterparty with a swap transaction with a
+               replacement Offsetting Counterparty on terms approved by S&P and
+               Moody's or enter into a swap transaction with another party such
+               that such party shall be acting as an intermediary between the
+               Counterparty and the then current Offsetting Counterparty (such
+               replacement or intermediary being the "Replacement Offsetting
+               Counterparty"); or
+
+               (2) enter into an ISDA Credit Support Annex with the Trust
+               mutually acceptable to the Trust and the Counterparty; or
+
+               (3) enter into such other credit support arrangements to assure
+               performance by the Counterparty of its obligations under this
+               Transaction.
+
+     Notwithstanding the foregoing, in the event that the Joint Probability is
+     reduced below A- in the case of S&P, or A3, in the case of Moody's, then
+     the Offsetting Counterparty shall promptly notify the Trust (and any
+     permitted assignee or transferee of the Trust) and the Counterparty of such
+     event and (unless, within thirty (30) days after such reduction the
+     applicable Rating Agency has reconfirmed the ratings of the Reference Notes
+     and the Other Securities that were in effect immediately prior to such
+     reduction) the Counterparty shall within thirty (30) days of receipt of
+     notice of such reduction, with the prior written confirmation of the
+     applicable Rating Agency that such arrangement will not result in the
+     reduction of the rating of any of the Reference Notes or the Other
+     Securities existing immediately prior to the reduction of the applicable
+     Joint Probability as a direct result of the reduction of such Joint
+     Probability, obtain a Substitute Swap Provider acceptable to the Trust
+     (such acceptance not to be unreasonably withheld) and replace this
+     Transaction with a swap transaction on substantially similar terms or with
+     such other amendments as consented to in writing by the Trust (which
+     consent shall not
+
+                                       3
+
+<PAGE>
+
+     be unreasonably withheld) provided such replacement would result in an S&P
+     Joint Probability of at least AA- or a Moody's Joint Probability of Aa3
+     except that such Substitute Swap Provider shall thenceforth be the
+     "Counterparty" hereunder.
+
+     Upon any replacement of this Transaction with a swap transaction with a
+     Substitute Swap Provider, this Transaction shall terminate without any
+     payment by either party hereto and any and all collateral posted by the
+     Counterparty shall be returned to it within three (3) Business Days and any
+     other form of collateral arrangement (including letters of credit, surety
+     bond or other guarantee) provided by or on behalf of the Counterparty shall
+     terminate.
+
+     In the event that the Counterparty fails to satisfy its obligations set
+     forth above in this Section 4, the Trust or any permitted assignee or
+     transferee of the Trust shall have the option, exercisable in its
+     discretion and with regard to the interests of the Noteholders, within ten
+     (10) Business Days following the date of expiry of the thirty (30) day
+     period after the date of receipt of notice of the reduction (unless, within
+     thirty (30) days of receipt of notice of such reduction, the applicable
+     Rating Agency has reconfirmed the rating of the Reference Notes that was in
+     effect immediately prior to such reduction), to designate (in writing) an
+     Early Termination Date on the basis that such failure shall be treated as a
+     Termination Event with the Counterparty as the Affected Party. For the
+     avoidance of doubt, the Counterparty and the Trust acknowledge and agree
+     that any such failure shall not constitute an Event of Default.
+
+5.   Account Details:
+
+          Payments to Fixed Rate Payer:
+
+                  Bank One, National Association
+                  ABA No.: 071000013
+                  A/C:  No.: 10-43256 further credit to CARAT 2003-1
+                          Collection Account No. 2600104000
+                  Attn: Keith Richardson
+
+          Payments to Floating Rate Payer:
+
+                  Citibank, New York
+                  ABA No.: 021-000-089
+                  Ref:    Morgan Stanley Capital Services Inc.
+                  A/C No.: 4072-4601
+
+6.   Limited Recourse: Notwithstanding anything to the contrary contained herein
+     but without limiting the Counterparty's rights under Section 5(a)(i) of the
+     Primary ISDA Agreement, all of the obligations of the Trust shall be
+     payable by the Trust only at the times and to the extent of funds available
+     therefor under the Trust Sale and Servicing Agreement and, to the extent
+     such funds are not available or are insufficient for the payment thereof,
+     shall not constitute a claim against the Trust to the extent of such
+     unavailability or insufficiency until such time as, and then to the extent
+     that, the Trust has assets sufficient to pay such prior deficiency. This
+     paragraph shall survive the termination of this Agreement but in all cases
+     shall expire one year and one day after the final payment with respect to
+     all notes and certificates issued by the Trust.
+
+7.   Limitation of Liability: It is expressly understood and agreed by the
+     parties hereto that (a) this Agreement is executed and delivered by
+     Deutsche Bank Trust Company Delaware, not individually or personally but
+     solely as Owner Trustee of the Trust in the exercise of the powers and
+     authority conferred and vested in it, (b) each of the representations,
+     undertakings and agreements herein made on the part of the Trust is made
+     and intended not as personal representations, undertakings and
+
+                                       4
+
+<PAGE>
+
+     agreements by Deutsche Bank Trust Company Delaware but is made and intended
+     for the purpose for binding only the Trust, (c) nothing herein contained
+     shall be construed as creating any liability on Deutsche Bank Trust Company
+     Delaware, individually or personally, to perform any covenant either
+     expressed or implied contained herein, all such liability, if any, being
+     expressly waived by the parties hereto and by any Person claiming by,
+     through or under the parties hereto and (d) under no circumstances shall
+     Deutsche Bank Trust Company Delaware be personally liable for the payment
+     of any indebtedness or expenses of the Trust or be liable for the breach or
+     failure of any obligation, representation, warranty or covenant made or
+     undertaken by the Trust under this Agreement or any other related
+     documents.
+
+8.   To the extent that a capitalized term in this Transaction is defined by
+     reference to a related definition contained in any Trust Document, for
+     purposes of this Transaction only, such capitalized term shall be deemed to
+     be amended only if the amendment of the term in a Trust Document relating
+     to such capitalized term occurs with the prior written consent of the
+     Counterparty.
+
+                                     * * * *
+
+                                       5
+
+<PAGE>
+
+     Please confirm that the foregoing correctly sets forth the terms of our
+agreement by executing the copy of this Confirmation enclosed for that purpose
+and returning it to us.
+
+                                CAPITAL AUTO RECEIVABLES ASSET
+                                TRUST 2003-1
+
+                                By:    DEUTSCHE BANK TRUST COMPANY DELAWARE,
+                                       not in its individual capacity
+                                       but solely as Owner Trustee
+
+                                By:_________________________________
+                                Name:
+                                Title:
+
+
+Accepted and confirmed as
+of the date first written above:
+
+MORGAN STANLEY CAPITAL SERVICES INC.
+
+
+By:__________________________
+Name:
+Title:
+
+
+Acknowledged and agreed as
+of the date first written above:
+
+GENERAL MOTORS ACCEPTANCE CORPORATION,
+solely as Calculation Agent
+
+By:__________________________
+Name:
+Title:
+
+<PAGE>
+
+                                    EXHIBIT A
+
+The following terms shall have the following meanings in this Confirmation:
+
+     "Determination Date": the tenth (10th) day of each calendar month, or if
+such tenth (10th) day is not a Business Day, the next succeeding Business Day.
+
+     "Distribution Date": the fifteenth (15th) day of each succeeding calendar
+month following the Effective Date or, if such fifteenth (15th) day is not a
+Business Day, the next such succeeding Business Day, commencing February 18,
+2003.
+
+     "Indenture": the Indenture, dated as of January 15, 2003 between the Trust
+and the Indenture Trustee, as amended and supplemented from time to time in
+accordance with its terms.
+
+     "Indenture Trustee": Bank One, National Association, not in its individual
+capacity but solely as trustee under the Indenture, or any successor trustee
+under the Indenture.
+
+     "LIBOR": with respect to each Floating Rate Payer Payment Date, the rate
+for deposits in U.S. Dollars for a period of one month which appears on the
+Telerate Service Page 3750 as of 11:00 a.m., London time, on the day that is two
+LIBOR Business Days prior to the Distribution Date (or, in the case of the
+initial Floating Rate Payer Payment Date, two LIBOR Business Days prior to
+Closing Date) preceding such Floating Rate Payer Payment Date. If the rate does
+not appear on that date on the Telerate Service Page 3750 (or any other page as
+may replace that page on that service, or if that service is no longer offered,
+any other service for displaying LIBOR or comparable rates as may be selected by
+the Indenture Trustee after consultation with the Seller), then LIBOR will be
+the Reference Bank Rate.
+
+     "LIBOR Business Day": any day other than a Saturday, Sunday or any other
+day on which banks in London are required or authorized to be closed.
+
+     "Other Securities": Class A-1 Notes, Class A-2 Notes, Class A-3a Notes,
+Class A-4 Notes and Certificates issued by the Trust.
+
+     "Reference Bank Rate": for any Floating Rate Payer Payment Date, the per
+annum rate determined on the basis of the rates at which deposits in U.S.
+Dollars are offered by the reference banks (which will be four major banks that
+are engaged in transactions in the London interbank market, selected by the
+Calculation Agent) as of 11:00 a.m., London time, on the day that is two LIBOR
+Business Days prior to the Distribution Date preceding such Floating Rate Payer
+Payment Date to prime banks in the London interbank market for a period of one
+month, in amounts approximately equal to the principal amount of the Reference
+Notes then outstanding. The Calculation Agent will request the principal London
+office of each of the reference banks to provide a quotation of its rate. If at
+least two quotations are provided, the rate will be the arithmetic mean of the
+quotations, rounded upwards to the nearest one-sixteenth of one percent. If on
+that date fewer than two quotations are provided as requested, the rate will be
+the arithmetic mean, rounded upwards to the nearest one-sixteenth of one
+percent, of the rates quoted by one or more major banks in New York City,
+selected by the Calculation Agent, as of 11:00 a.m., New York City time, on that
+date to leading European banks for United States dollar deposits for a period of
+one month in amounts approximately equal to the principal amount of the
+Reference Notes then outstanding. If no quotation can be obtained, then LIBOR
+will be the rate for the prior Floating Rate Payer Payment Date.
+
+     "Reference Note Balance": as of the Effective Date, $528,000,000.00 and,
+with respect to each Distribution Date thereafter, the aggregate principal
+balance of any and all outstanding Reference Notes.
+
+                                      A-1
+
+<PAGE>
+
+     "Seller": Capital Auto Receivables, Inc., which has executed the Trust Sale
+and Servicing Agreement as the Seller, or its successor in interest pursuant to
+Section 3.03 of the Trust Sale and Servicing Agreement.
+
+     "Trust Sale and Servicing Agreement": the Trust Sale and Servicing
+Agreement, dated as of January 15, 2003 between the Seller, General Motors
+Acceptance Corporation, as Servicer, and the Trust, as amended, modified and
+supplemented from time to time in accordance with its terms.
+
+                                      A-2
+
+<PAGE>
+
+                                    EXHIBIT B
+
+     "Contingent Party": the Offsetting Counterparty or the Replacement
+Offsetting Counterparty, as applicable.
+
+     "Fallback Swap Transaction": the swap transaction entered into by the Trust
+and Offsetting Counterparty relating to the Class A-3b Notes.
+
+     "Joint Probability": the Moody's Joint Probability or the S&P Joint
+Probability, as applicable.
+
+     "Moody's": Moody's Investors Service, Inc. and its successors.
+
+     "Moody's Joint Probability" means the joint probability determined by
+Moody's of the long-term likelihood of payment under this interest rate swap
+determined by locating the intersection of the long-term unsecured debt ratings
+of the Primary Party and the Contingent Party on the table below headed "Implied
+Joint Support Rating for Medium Correlation Case" (except that, for any pairing
+other than the initial Primary Party with the initial Contingent Party, the
+table below to be used shall be the table headed "Implied Joint Support Rating
+for Low Correlation Case" or the table headed "Implied Joint Support Rating for
+High Correlation Case" if so specified by Moody's within five days after Moody's
+has received notice of a potential pairing of a Primary Party with a Contingent
+Party).
+
+             IMPLIED JOINT SUPPORT RATING FOR HIGH CORRELATION CASE
+
+           Rating of the Higher Rated Party
+
+<TABLE>
+<CAPTION>
+            --------------------------------------------------------------------------------------------------------
+            Aaa   Aa1   Aa2   Aa3   A1    A2    A3   Baa1   Baa2  Baa3  Ba1   Ba2   Ba3   B1    B2    B3   Caa
+            --------------------------------------------------------------------------------------------------------
+<S>         <C>   <C>   <C>   <C>   <C>   <C>   <C>   <C>  <C>    <C>   <C>   <C>   <C>   <C>   <C>   <C>   <C>
+    Rating  Aaa   Aaa
+            --------------------------------------------------------------------------------------------------------
+    of      Aa1   Aaa   Aaa
+            --------------------------------------------------------------------------------------------------------
+    the     Aa2   Aaa   Aaa   Aa1
+            --------------------------------------------------------------------------------------------------------
+    Lower   Aa3   Aaa   Aaa   Aa1   Aa2
+            --------------------------------------------------------------------------------------------------------
+    Rated   A1    Aaa   Aaa   Aa1   Aa2   Aa3
+            --------------------------------------------------------------------------------------------------------
+    Party   A2    Aaa   Aaa   Aa1   Aa2   Aa3   A1
+            --------------------------------------------------------------------------------------------------------
+            A3    Aaa   Aaa   Aa1   Aa2   Aa3   A1    A2
+            --------------------------------------------------------------------------------------------------------
+            Baa1  Aaa   Aaa   Aa1   Aa2   Aa3   A1    A2   A3
+            --------------------------------------------------------------------------------------------------------
+            Baa2  Aaa   Aaa   Aa1   Aa2   Aa3   A1    A2   A3     Baa1
+            --------------------------------------------------------------------------------------------------------
+            Baa3  Aaa   Aaa   Aa1   Aa2   Aa3   A1    A2   A3     Baa1  Baa2
+            --------------------------------------------------------------------------------------------------------
+            Ba1   Aaa   Aa1   Aa2   Aa3   A1    A2    A3   Baa1   Baa2  Baa3  Ba1
+            --------------------------------------------------------------------------------------------------------
+            Ba2   Aaa   Aa1   Aa2   Aa3   A1    A2    A3   Baa1   Baa2  Baa3  Ba1   Ba2
+            --------------------------------------------------------------------------------------------------------
+            Ba3   Aaa   Aa1   Aa2   Aa3   A1    A2    A3   Baa1   Baa2  Baa3  Ba1   Ba2   Ba3
+            --------------------------------------------------------------------------------------------------------
+            B1    Aaa   Aa1   Aa2   Aa3   A1    A2    A3   Baa1   Baa2  Baa3  Ba1   Ba2   Ba3   B1
+            --------------------------------------------------------------------------------------------------------
+            B2    Aaa   Aa1   Aa2   Aa3   A1    A2    A3   Baa1   Baa2  Baa3  Ba1   Ba2   Ba3   B1    B2
+            --------------------------------------------------------------------------------------------------------
+            B3    Aaa   Aa1   Aa2   Aa3   A1    A2    A3   Baa1   Baa2  Baa3  Ba1   Ba2   Ba3   B1    B2    B3
+            --------------------------------------------------------------------------------------------------------
+            Caa   Aaa   Aa1   Aa2   Aa3   A1    A2    A3   Baa1   Baa2  Baa3  Ba1   Ba2   Ba3   B1    B2    B3   Caa
+            --------------------------------------------------------------------------------------------------------
+</TABLE>
+
+                                       B-1
+
+<PAGE>
+
+            IMPLIED JOINT SUPPORT RATING FOR MEDIUM CORRELATION CASE
+
+         Rating of the Higher Rated Party
+
+<TABLE>
+<CAPTION>
+          --------------------------------------------------------------------------------------------------------
+                 Aaa  Aa1  Aa2   Aa3  A1    A2   A3     Baa1   Baa2  Baa3   Ba1   Ba2   Ba3    B1   B2    B3   Caa
+          --------------------------------------------------------------------------------------------------------
+<S>       <C>    <C>  <C>  <C>   <C>  <C>   <C>  <C>    <C>    <C>   <C>    <C>  <C>   <C>     <C>  <C>   <C>   <C>
+  Rating  Aaa    Aaa
+          --------------------------------------------------------------------------------------------------------
+  of      Aa1    Aaa  Aaa
+          --------------------------------------------------------------------------------------------------------
+  the     Aa2    Aaa  Aaa  Aa1
+          --------------------------------------------------------------------------------------------------------
+  Lower   Aa3    Aaa  Aaa  Aa1   Aa1
+          --------------------------------------------------------------------------------------------------------
+  Rated   A1     Aaa  Aaa  Aa1   Aa1  Aa1
+          --------------------------------------------------------------------------------------------------------
+  Party   A2     Aaa  Aaa  Aa1   Aa1  Aa2   Aa2
+          --------------------------------------------------------------------------------------------------------
+          A3     Aaa  Aaa  Aa1   Aa1  Aa2   Aa2  Aa3
+          --------------------------------------------------------------------------------------------------------
+          Baa1   Aaa  Aaa  Aa1   Aa1  Aa2   Aa3  A1     A2
+          --------------------------------------------------------------------------------------------------------
+          Baa2   Aaa  Aaa  Aa1   Aa1  Aa2   Aa3  A1     A2     A3
+          --------------------------------------------------------------------------------------------------------
+          Baa3   Aaa  Aaa  Aa1   Aa1  Aa2   Aa3  A1     A2     A3    Baa2
+          --------------------------------------------------------------------------------------------------------
+          Ba1    Aaa  Aa1  Aa1   Aa2  Aa3   A1   A2     A3     Baa1  Baa2   Baa3
+          --------------------------------------------------------------------------------------------------------
+          Ba2    Aaa  Aa1  Aa1   Aa2  Aa3   A1   A2     A3     Baa1  Baa2   Ba1   Ba1
+          --------------------------------------------------------------------------------------------------------
+          Ba3    Aaa  Aa1  Aa1   Aa2  Aa3   A1   A2     A3     Baa1  Baa3   Ba1   Ba1   Ba2
+          --------------------------------------------------------------------------------------------------------
+</TABLE>
+
+              IMPLIED JOINT SUPPORT RATING FOR LOW CORRELATION CASE
+
+         Rating of the Higher Rated Party
+
+<TABLE>
+<CAPTION>
+          --------------------------------------------------------------------------------------------------------
+               Aaa   Aa1  Aa2   Aa3  A1    A2   A3    Baa1  Baa2   Baa3   Ba1   Ba2    Ba3  B1    B2   B3    Caa
+          --------------------------------------------------------------------------------------------------------
+<S>       <C>  <C>   <C>  <C>   <C>  <C>   <C>  <C>   <C>   <C>    <C>    <C>   <C>    <C>  <C>   <C> <C>   <C>
+  Rating   Aaa  Aaa
+          --------------------------------------------------------------------------------------------------------
+  of       Aa1  Aaa   Aaa
+          --------------------------------------------------------------------------------------------------------
+  the      Aa2  Aaa   Aaa  Aaa
+          --------------------------------------------------------------------------------------------------------
+  Lower    Aa3  Aaa   Aaa  Aaa   Aaa
+          --------------------------------------------------------------------------------------------------------
+  Rated    A1   Aaa   Aaa  Aaa   Aaa  Aaa
+          --------------------------------------------------------------------------------------------------------
+  Party    A2   Aaa   Aaa  Aaa   Aaa  Aaa   Aa1
+          --------------------------------------------------------------------------------------------------------
+          A3   Aaa   Aaa  Aaa   Aaa  Aaa   Aa1  Aa2
+          --------------------------------------------------------------------------------------------------------
+          Baa1 Aaa   Aaa  Aaa   Aaa  Aaa   Aa1  Aa3   Aa3
+          --------------------------------------------------------------------------------------------------------
+          Baa2 Aaa   Aaa  Aaa   Aaa  Aaa   Aa1  Aa3   A1    A1
+          --------------------------------------------------------------------------------------------------------
+          Baa3 Aaa   Aaa  Aaa   Aaa  Aa1   Aa1  Aa3   A1    A1     Baa1
+          --------------------------------------------------------------------------------------------------------
+          Ba1  Aaa   Aaa  Aaa   Aa1  Aa1   Aa2  A1    A1    A2     Baa1   Baa3
+          --------------------------------------------------------------------------------------------------------
+          Ba2  Aaa   Aaa  Aa1   Aa1  Aa1   Aa2  A1    A1    A2     Baa2   Baa3  Ba1
+          --------------------------------------------------------------------------------------------------------
+          Ba3  Aaa   Aaa  Aa1   Aa1  Aa2   Aa3  A1    A2    A3     Baa2   Baa3  Ba1    Ba2
+          --------------------------------------------------------------------------------------------------------
+          B1   Aaa   Aa1  Aa1   Aa2  Aa3   Aa3  A1    A3    Baa1   Baa2   Ba1   Ba1    Ba2  Ba3
+          --------------------------------------------------------------------------------------------------------
+          B2   Aaa   Aa1  Aa2   Aa2  Aa3   A1   A2    A3    Baa1   Baa3   Ba1   Ba1    Ba3  Ba3   B1
+          --------------------------------------------------------------------------------------------------------
+          B3   Aaa   Aa1  Aa2   Aa3  A1    A1   A3    Baa1  Baa2   Baa3   Ba1   Ba2    Ba3  B1    B1   B3
+          --------------------------------------------------------------------------------------------------------
+          Caa  Aaa   Aa1  Aa2   Aa3  A1    A2   A3    Baa1  Baa2   Baa3   Ba1   Ba2    Ba3  B1    B2   B3    Caa
+          --------------------------------------------------------------------------------------------------------
+</TABLE>
+
+Notwithstanding the foregoing, in the event that under the Triparty Agreement
+the Offsetting Counterparty has acceded to the rights of the Counterparty and no
+swap transaction has been effected with an additional contingent counterparty or
+replacement swap counterparty under the circumstances contemplated by Section
+
+                                       B-2
+
+<PAGE>
+
+2.02 of the Triparty Agreement, then the term "Moody's Joint Probability" shall
+refer to the Offsetting Counterparty's long term senior unsecured credit rating
+assigned by Moody's (and, for avoidance of doubt, the obligations of the
+Counterparty specified in Section 4 of this Confirmation shall constitute
+obligations of the Offsetting Counterparty).
+
+     "Offsetting Counterparty" means General Motors Acceptance Corporation or
+any successor thereto ("GMAC") under the Fallback Swap Transactions entered into
+between the Trust and GMAC.
+
+     "Primary Party": the Counterparty, unless a Substitute Swap Provider has
+been obtained, in which case it shall be the Substitute Swap Provider or, if
+applicable, a guarantor thereof.
+
+     "Rating Agency": each of S&P and Moody's.
+
+     "S&P": Standard & Poor's Ratings Services and its successors.
+
+     "S&P Joint Probability" means the joint probability determined by S&P of
+the long-term likelihood of payment under the interest rate swap determined by
+locating the intersection of the Counterparty's long term senior unsecured debt
+rating and the Offsetting Counterparty's long-term senior unsecured debt rating
+in the following table:
+
+                          IMPLIED JOINT SUPPORT RATING
+
+       PRIMARY PARTY
+<TABLE>
+<CAPTION>
+                  ------------------------------------------------------------------------------------------------------
+                   AAA      AA+       AA        AA-      A+        A         A-        BBB+     BBB     BBB-
+                   -----------------------------------------------------------------------------------------------------
+<S>                <C>       <C>      <C>       <C>       <C>      <C>       <C>        <C>      <C>      <C>      <C>
+      CONTINGENT   AAA       AAA      AAA       AAA       AAA      AAA       AAA       AAA       AAA      AAA      AAA
+                   -----------------------------------------------------------------------------------------------------
+      PARTY        AA+       AAA      AAA       AAA       AAA      AAA       AAA       AAA       AAA      AAA      AAA
+                   -----------------------------------------------------------------------------------------------------
+                   AA        AAA      AAA       AAA       AAA      AAA       AAA       AAA       AA+      AA+      AA+
+                   -----------------------------------------------------------------------------------------------------
+                   AA-       AAA      AAA       AAA       AA+      AA+       AA+       AA+       AA+      AA+      AA
+                   -----------------------------------------------------------------------------------------------------
+                   A+        AAA      AAA       AAA       AA+      AA+       AA+       AA+       AA       AA       AA-
+                   -----------------------------------------------------------------------------------------------------
+                   A         AAA      AAA       AAA       AA+      AA+       AA        AA        AA-      AA-      A+
+                   -----------------------------------------------------------------------------------------------------
+                   A-        AAA      AAA       AAA       AA+      AA+       AA        AA-       A+       A+       A
+                   -----------------------------------------------------------------------------------------------------
+                   BBB+      AAA      AAA       AA+       AA+      AA        AA-       A+        A        A        A-
+                   -----------------------------------------------------------------------------------------------------
+                   BBB       AAA      AAA       AA+       AA+      AA        AA-       A+        A        A-       BBB+
+                   -----------------------------------------------------------------------------------------------------
+                   BBB-      AAA      AAA       AA+       AA       AA-       A+        A         A-       BBB+     BBB
+                   -----------------------------------------------------------------------------------------------------
+</TABLE>
+
+Notwithstanding the foregoing, (i) in the event that the long-term senior
+unsecured debt rating of either the Primary Party or the Contingent Party is
+rated below BBB- by S&P, then the S&P Joint Probability shall be the higher of
+the then current long-term senior unsecured debt rating of the Primary Party and
+the Contingent Party and (ii) in the event that under the Triparty Agreement the
+Offsetting Counterparty has acceded to the rights of the Counterparty and no
+swap transaction has been effected with an additional contingent counterparty or
+replacement swap counterparty under the circumstances contemplated by Section
+2.02 of the Triparty Agreement, then the term "S&P Joint Probability" shall
+refer to the Offsetting Counterparty's long-term senior unsecured credit rating
+assigned by S&P (and, for the avoidance of doubt, the obligations of the
+Counterparty specified in Section 4 of this Confirmation shall constitute
+obligations of the Offsetting Counterparty.
+
+     "Triparty Agreement": the Triparty Contingent Assignment Agreement dated as
+of the Effective Date among the Trust, the Offsetting Counterparty and the
+Counterparty.
+
+                                      B-3
+
+</TEXT>
+</DOCUMENT>

@@ -1,0 +1,2301 @@
+<DOCUMENT>
+<TYPE>EX-2.1
+<SEQUENCE>3
+<FILENAME>w84721exv2w1.txt
+<DESCRIPTION>AMENDED JOINT PLAN OF REORGANIZATION
+<TEXT>
+<PAGE>
+                                                                     Exhibit 2.1
+
+
+                         UNITED STATES BANKRUPTCY COURT
+                          FOR THE DISTRICT OF DELAWARE
+
+In re                                 )
+                                      )
+HIGHLANDS INSURANCE GROUP, INC.,      )     Chapter 11
+HIGHLANDS HOLDING COMPANY, INC.,      )
+HIGHLANDS CLAIMS AND SAFETY           )     Case No. 02-13196(LK)
+ SERVICES, INC.,                      )     through 02-13201(LK)
+HIGHLANDS SERVICES CORPORATION,       )
+AMERICAN RELIANCE, INC.,              )     (Jointly Administered)
+NORTHWESTERN NATIONAL HOLDING         )
+ COMPANY, INC.,                       )
+                                      )
+                  Debtors.            )
+--------------------------------------)
+
+
+                  DEBTORS' AMENDED JOINT PLAN OF REORGANIZATION
+                     UNDER CHAPTER 11 OF THE BANKRUPTCY CODE
+
+                                        Dated:  March 17, 2003
+                                                Wilmington, Delaware
+
+                                        DUANE MORRIS LLP
+                                        Richard W. Riley, Esquire (DE 4052)
+                                        William K. Harrington, Esquire (DE 4051)
+                                        1100 North Market Street, Suite 1200
+                                        Wilmington, Delaware 19801
+                                        Telephone:  (302) 657-4900
+                                        Telefax:  (302) 657-4901
+                                        rwriley@duanemorris.com
+                                        wkharrington@duanemorris.com
+
+                                        Lawrence J. Kotler, Esquire
+                                        Christopher J. Redd, Esquire
+                                        4200 One Liberty Place
+                                        Philadelphia, PA  19103-7396
+                                        Telephone: (215) 979-1517
+                                        Telecopy: (215) 970-1020
+                                        ljkotler@duanemorris.com
+                                        cjredd@duanemorris.com
+
+<PAGE>
+
+
+
+                               TABLE OF CONTENTS
+
+<TABLE>
+<CAPTION>
+                                                                                                    Page
+<S>                                                                                                 <C>
+INTRODUCTION .....................................................................................    1
+
+Article 1 DEFINITIONS; RULES OF CONSTRUCTION .....................................................    1
+      1.1   Defined Terms ........................................................................    1
+      1.2   Rules of Construction ................................................................    9
+            (a)   Generally ......................................................................    9
+            (b)   Exhibits .......................................................................    9
+            (c)   Time Periods ...................................................................    9
+            (d)   Miscellaneous Rules ............................................................    9
+
+Article 2 CLASSIFICATION OF CLAIMS AND INTERESTS .................................................   10
+      2.1   General Rules of Classification ......................................................   10
+      2.2   Summary ..............................................................................   10
+
+Article 3 TREATMENT OF UNCLASSIFIED CLAIMS .......................................................   10
+      3.1   No Classification ....................................................................   10
+      3.2   Administrative Claims ................................................................   11
+      3.3   Priority Tax Claims ..................................................................   11
+
+Article 4 TREATMENT OF CLASSIFIED CLAIMS AND INTERESTS ...........................................   11
+      4.1   Class 1:  Priority Claims ............................................................   11
+      4.2   Class 2:  Bank Group Claims ..........................................................   11
+      4.3   Class 2(a):  Other Secured Claims ....................................................   11
+      4.4   Class 3:  General Unsecured Claims ...................................................   12
+      4.5   Class 4:  LMI Interest ...............................................................   12
+      4.6   Class 5:  HIGI Interests .............................................................   12
+
+Article 5 IMPLEMENTATION OF PLAN .................................................................   13
+      5.1   The Liquidating Trust ................................................................   13
+            (a)   Establishment of the Trust .....................................................   13
+            (b)   Issuance of New HIGI Stock and Transfer of Other Trust Assets ..................   13
+            (c)   Transfer for the Benefit of Trust Holders ......................................   13
+            (d)   Purpose of the Liquidating Trust ...............................................   13
+            (e)   Valuation of Trust Assets ......................................................   14
+            (f)   Termination ....................................................................   14
+      5.2   Liquidating Trustee and Trust Advisory Board .........................................   14
+            (a)   Appointment ....................................................................   14
+            (b)   Action by Trust Advisory Board .................................................   14
+      5.3   Issuance of Liquidating Trust Units and Applicability of Securities Laws .............   15
+            (a)   Stated Value and Accrued Interest ..............................................   15
+            (b)   Issuance by Book Entry .........................................................   15
+            (c)   Securities Laws ................................................................   15
+            (d)   Transfer of Liquidating Trust Units ............................................   15
+</TABLE>
+
+
+                                       i
+
+<PAGE>
+
+
+
+<TABLE>
+<S>                                                                                                 <C>
+      5.4   Surviving Debtor Entities and Insurance Company Subsidiaries .........................   16
+            (a)   Corporate Structure ............................................................   16
+            (b)   Liquidating Trustee as Director ................................................   16
+            (c)   Regulatory Authority of State Departments of Insurance .........................   16
+      5.5   Distribution Provisions ..............................................................   17
+            (a)   Annual Distributions from the Liquidating Trust ................................   17
+            (b)   Quarterly Distributions from the Liquidating Trust .............................   17
+            (c)   Distributions from HIGI and HIGI Subsidiaries ..................................   17
+            (d)   Manner of Payment of Distributions .............................................   17
+            (e)   Distributions on Non-Business Days .............................................   17
+            (f)   No Distribution Pending Allowance ..............................................   17
+            (g)   No Distribution in Excess of Allowed Amounts ...................................   18
+            (h)   De Minimis Distributions .......................................................   18
+            (i)   Unclaimed Distributions ........................................................   18
+      5.6   Allocation of Tax Items ..............................................................   19
+      5.7   Setoffs ..............................................................................   19
+      5.8   Distributions to Holders of Disputed Claims and Interests ............................   19
+            (a)   Resolution of Disputed Claims ..................................................   19
+            (b)   Distributions when a Disputed Claim or Interest Becomes Allowed or is Disallowed   19
+            (c)   Late Claims ....................................................................   20
+            (d)   Estimation of Claims ...........................................................   20
+            (e)   Procedure ......................................................................   20
+      5.9   Intercompany Claims ..................................................................   20
+      5.10  Expense Reimbursement and Indemnity ..................................................   20
+      5.11  Claims Payment Success Fees ..........................................................   21
+      5.12  Exemption from Transfer Tax ..........................................................   21
+      5.13  Cancellation of the HIGI Interests ...................................................   21
+      5.14  Cancellation of Agreements ...........................................................   21
+      5.15  Debtors' Continued Corporate Existence and Vesting of Assets .........................   21
+      5.16  Obligations Incurred After the Confirmation Date .....................................   22
+      5.17  Remedies Upon Default ................................................................   22
+
+Article 6 EXECUTORY CONTRACTS ....................................................................   22
+      6.1   Assumption, Assignment and Rejection .................................................   22
+      6.2   Cure of Monetary Defaults ............................................................   22
+      6.3   Rejection Damages Bar Date ...........................................................   22
+      6.4   Contracts and Leases Entered Into After the Petition Date ............................   23
+
+Article 7 EFFECT OF THE PLAN ON CLAIMS AND INTERESTS .............................................   23
+      7.1   Jurisdiction of Court ................................................................   23
+      7.2   Binding Effect .......................................................................   23
+      7.3   Term of Existing Injunctions or Stays ................................................   23
+      7.4   Injunction ...........................................................................   23
+      7.5   Release of Collateral ................................................................   24
+      7.6   Liquidating Trustee's Rights and Causes of Action ....................................   24
+      7.7   Preservation of Insurance ............................................................   24
+</TABLE>
+
+
+                                       ii
+
+<PAGE>
+
+
+
+<TABLE>
+<S>                                                                                                 <C>
+Article 8 ACCEPTANCE OR REJECTION OF THE PLAN ....................................................   24
+      8.1   Voting Classes .......................................................................   24
+      8.2   Acceptance by Impaired Classes .......................................................   25
+      8.3   Presumed Acceptance of Plan ..........................................................   25
+      8.4   Presumed Rejection of Plan ...........................................................   25
+      8.5   Non-Consensual Confirmation ..........................................................   25
+
+Article 9 CONDITIONS TO CONFIRMATION AND OCCURRENCE OF EFFECTIVE DATE ............................   25
+      9.1   Conditions to Confirmation ...........................................................   25
+      9.2   Conditions to Occurrence of Effective Date ...........................................   25
+      9.3   Effect of Nonoccurrence of the Conditions to Occurrence of Effective Date ............   25
+
+Article 10 SEVERABILITY OF AND AMENDMENTS TO THE PLAN ............................................   26
+      10.1  Severability of Plan .................................................................   26
+      10.2  Amendments ...........................................................................   26
+            (a)   Preconfirmation Amendment ......................................................   26
+            (b)   Post-confirmation Amendment Not Requiring Resolicitation .......................   26
+            (c)   Post-confirmation Amendment Requiring Resolicitation ...........................   27
+
+Article 11 ADMINISTRATIVE PROVISIONS .............................................................   27
+      11.1  Administrative Bar Date ..............................................................   27
+            (a)   General Provisions .............................................................   27
+            (b)   Professionals ..................................................................   27
+      11.2  Retention of Jurisdiction ............................................................   27
+      11.3  Payment of Statutory Fees ............................................................   28
+      11.4  Effectuating Documents and Further Transactions ......................................   28
+      11.5  Limitation of Liability ..............................................................   28
+      11.6  Releases .............................................................................   29
+            (a)   Release by Debtors .............................................................   29
+            (b)   Release by Holders of Claims and Interests .....................................   29
+      11.7  Reservation of Rights ................................................................   29
+      11.8  Successors and Assigns ...............................................................   29
+      11.9  Governing Law ........................................................................   30
+      11.10 Relation to Disclosure Statement, Confirmation Order and Agreements ..................   31
+
+      Schedule 1.1  Surviving Debtor Entities
+
+      Schedule 5.15  Officers and Directors
+</TABLE>
+
+
+                                      iii
+<PAGE>
+
+
+
+      Schedule 6.1  Executory Contracts to be Assumed or Assumed and Assigned
+
+                    Debtor:  Highlands Insurance Group, Inc.
+                    Debtor:  American Reliance, Inc.
+                    Debtor:  Highlands Claims and Safety, Inc.
+
+         EXHIBIT A  Liquidating Trust Agreement
+
+         EXHIBIT B  Success Fee Agreement
+
+
+                                       iv
+<PAGE>
+
+
+                                  INTRODUCTION
+
+      Highlands Insurance Group, Inc., Highlands Holding Company, Inc.,
+Highlands Claims and Safety Services, Inc., Highlands Services Corporation,
+American Reliance, Inc., and Northwestern National Holding Company, Inc.
+(collectively, the "Debtors") as debtors and debtors-in-possession in the
+above-captioned chapter 11 cases, hereby propose the following joint plan of
+reorganization pursuant to section 1121(a) of title 11 of the Bankruptcy Code.
+Reference is made to the Disclosure Statement for a discussion of the Debtors'
+history, businesses, properties, results of operations, projections for future
+recoveries, as well as a summary and analysis of the Plan and other related
+matters. The Debtors are the proponents of the Plan within the meaning of
+section 1129 of the Bankruptcy Code.
+
+      These reorganization cases have been consolidated for procedural purposes
+and are being jointly administered pursuant to an order of the United States
+Bankruptcy Court for the District of Delaware. This Plan contemplates the
+substantive consolidation of the Debtors for purposes of distribution and
+voting.
+
+      Under section 1125(b) of the Bankruptcy Code, a vote to accept or reject
+the Plan cannot be solicited from a holder of a Claim or Interest until such
+time as the Disclosure Statement has been approved by the Bankruptcy Court and
+distributed to such holders. ALL HOLDERS OF CLAIMS AGAINST AND INTERESTS IN THE
+DEBTORS ARE ENCOURAGED TO READ THE PLAN AND THE RELATED DISCLOSURE STATEMENT IN
+THEIR ENTIRETY BEFORE VOTING TO ACCEPT OR TO REJECT THE PLAN. SUBJECT TO CERTAIN
+RESTRICTIONS AND REQUIREMENTS SET FORTH IN THE PLAN, THE DEBTORS RESERVE THE
+RIGHT TO ALTER, AMEND, MODIFY, REVOKE OR WITHDRAW THIS PLAN PRIOR TO ITS
+SUBSTANTIAL CONSUMMATION.
+
+                                   ARTICLE 1
+                       DEFINITIONS; RULES OF CONSTRUCTION
+
+      1.1 Defined Terms. As used herein, the following terms have the respective
+meanings specified below, unless the context otherwise requires (such meanings
+to be equally applicable to both the singular and plural and masculine and
+feminine forms of the terms defined). Any term used in this Plan but not defined
+herein and that is used in the Bankruptcy Code or Bankruptcy Rules shall have
+the meaning assigned to that term in the Bankruptcy Code or Bankruptcy Rules.
+
+            "Administrative Claim" means any Claim under sections 503(b) and
+      507(a)(1) of the Bankruptcy Code, including, without limitation: (a) the
+      actual, necessary costs and expenses incurred by the Debtors after the
+      Petition Date, and (b) compensation for legal and other services and
+      reimbursement of expenses awarded pursuant to sections 330(a), 331 or 1103
+      of the Bankruptcy Code.
+
+            "Allowed" means, with respect to a Claim, (i) the extent to which a
+      Claim is not objected to within the period fixed by the Bankruptcy Code,
+      the Bankruptcy Rules or orders of the Court and (a) scheduled by the
+      Debtors pursuant to the Bankruptcy Code and the Bankruptcy Rules in a
+      liquidated amount and not listed as contingent,
+
+
+                                       1
+<PAGE>
+
+      unliquidated or disputed, (b) Proof of which is timely Filed under
+      applicable law with the Court pursuant to the Bankruptcy Code, the
+      Bankruptcy Rules or any applicable orders of the Court, or (c) Proof of
+      which is late-Filed and allowed by Final Order after notice and a hearing,
+      (ii) any Claim which is otherwise allowed by a Final Order, including,
+      without limitation, the Confirmation Order, or (iii) any Claim Allowed
+      under this Plan. With respect to an Interest, "Allowed" means (i) the
+      extent to which the Interest is not objected to within the period fixed by
+      the Bankruptcy Code, the Bankruptcy Rules or orders of the Court and (a)
+      identified on the Debtors' lists of equity security holders or other
+      records, (b) Proof of which is timely Filed under applicable law with the
+      Court pursuant to the Bankruptcy Code, the Bankruptcy Rules or any
+      applicable orders of the Court, or (c) Proof of which is late-Filed and
+      allowed by Final Order after notice and a hearing, or (ii) any Interest
+      which is otherwise allowed by a Final Order, including, without
+      limitation, the Confirmation Order.
+
+            "Allowed Administrative Claim" means an Administrative Claim to the
+      extent it is Allowed.
+
+            "Allowed Claim" means a Claim to the extent that such Claim is
+      Allowed, except that, unless otherwise specified herein, in section 506(b)
+      of the Bankruptcy Code, or by order of the Bankruptcy Court, "Allowed
+      Claim" shall not include (x) for Prepetition Claims, interest on such
+      Claim or Claims accruing from or after the Petition Date, (y) punitive or
+      exemplary damages, or (z) any fine, penalty or forfeiture.
+
+            "Allowed Priority Claim" means a Priority Claim to the extent it is
+      Allowed.
+
+            "Annual Distribution" means any Distribution made on an Annual
+      Distribution Date to holders of Liquidating Trust Units then entitled to
+      Distributions from the Liquidating Trust, as set forth in the Plan and the
+      Liquidating Trust Agreement.
+
+            "Annual Distribution Date" means the fifth Business Day after the
+      end of each calendar year from and after the Effective Date upon which a
+      Distribution can be made.
+
+            "Assets" means all assets, rights, Interests and property of the
+      Debtors of any nature whatsoever, including, without limitation, all Cash,
+      Causes of Action, and other property of the Estates pursuant to section
+      541 of the Bankruptcy Code.
+
+            "Available Cash" means all Cash of the Liquidating Trust, including
+      all net Cash proceeds from the liquidation of Trust Assets and Cash income
+      from all sources, including income on any investments held pursuant to the
+      Section 5.5. of the Liquidating Trust Agreement, less any Cash required
+      for the payment of taxes and any other expenses (including unpaid amounts
+      for Allowed Administrative Claims, Allowed Priority Claims and Allowed
+      Priority Tax Claims) necessary, or which will become necessary, for the
+      administration of the Liquidating Trust, as determined in the reasonable
+      discretion of the Liquidating Trustee and the Trust Advisory Board.
+
+            "Bank Group Agent" means JPMorgan Chase Bank, as Administrative
+      Agent of the Bank Group under the Credit Agreement, and any successor
+      thereto.
+
+
+                                       2
+<PAGE>
+
+
+            "Bank Group" means the Bank Group Agent, each other financial
+      institution that is a party to the Credit Agreement, and each of their
+      respective successors and assigns.
+
+            "Bank Group Claim" means the Claim of any member of the Bank Group
+      arising under the Credit Agreement.
+
+            "Bank Group Liens" means the Liens on Collateral constituting
+      Interests in various of the HIGI Subsidiaries which are pledged to the
+      Bank Group or the Bank group Agent, as the case may be, to secure the Bank
+      Group Claims.
+
+            "Bankruptcy Code" means the Bankruptcy Reform Act of 1978, as
+      amended and codified at title 11 of the United States Code, 11 U.S.C.
+      Sections 101 et seq.
+
+            "Bankruptcy Court" means the United States Bankruptcy Court for the
+      District of Delaware which has jurisdiction over the Chapter 11 Cases.
+
+            "Bankruptcy Rules" means the Federal Rules of Bankruptcy Procedure
+      and the Official Bankruptcy Forms, as amended, including the Federal Rules
+      of Civil Procedure, as amended, made applicable through the Federal Rules
+      of Bankruptcy Procedure, and the Local Rules of the Bankruptcy Court.
+
+            "Bar Date" means such date(s) fixed by Final Order(s) of the
+      Bankruptcy Court by which Proofs of Claim, Proofs of Interest, or requests
+      for allowance of Administrative Claims must be Filed.
+
+            "Business Day" means any day except a Saturday, Sunday, or "legal
+      holiday" as such term is defined in Bankruptcy Rule 9006(a).
+
+            "Cash" means cash and cash equivalents in dollar denominated
+      currency of the United States of America.
+
+            "Cause of Action" means any and all claims, rights and causes of
+      action belonging to the Debtors or their Estates including, but not
+      limited to, any and all claims, rights and causes of action described or
+      identified in the Disclosure Statement or which the Debtors or the Estates
+      may have against any Person arising under sections 544 through 550 of the
+      Bankruptcy Code, or any similar provision of state law or any other law,
+      rule, regulation, decree, order, statute or otherwise.
+
+            "Chapter 11 Cases" means case numbers 02-13196(LK) through
+      02-13201(LK), inclusive, commenced by the Debtors under chapter 11 of the
+      Bankruptcy Code on the Petition Date in the Bankruptcy Court.
+
+            "Claim" means a claim, as such term is defined in section 101(5) of
+      the Bankruptcy Code, against the Debtors.
+
+            "Class" means a group of (i) Claims or Interests as classified in
+      Article 2 of the Plan, or (ii) Liquidating Trust Units as classified in
+      Article 2 of the Liquidating Trust Agreement.
+
+
+                                       3
+<PAGE>
+
+
+            "Class [ ] Claim" means a Claim in the particular Class of Claims
+      identified and described in Article 2 and Article 4 of the Plan.
+
+            "Class [ ] Trust Unit" means a Liquidating Trust Unit in the
+      particular Class of Liquidating Trust Units issued to the Class of Claims
+      identified and described in Article 2 and Article 4 of the Plan.
+
+            "Collateral" means any property or interest in property of the
+      Estates of the Debtors that is subject to an unavoidable Lien to secure
+      the payment of performance of a Claim.
+
+            "Confirmation Date" means the date on which the Clerk of the
+      Bankruptcy Court enters the Confirmation Order.
+
+            "Confirmation Hearing" means the hearing conducted by the Bankruptcy
+      Court to consider confirmation of the Plan.
+
+            "Confirmation Order" means the order, entered by the Clerk of the
+      Bankruptcy Court, confirming the Plan in accordance with the provisions of
+      the Bankruptcy Code.
+
+            "Court" shall have the same meaning as Bankruptcy Court.
+
+            "Credit Agreement" means that certain Credit Agreement, dated as of
+      April 30, 1997 and amended from time to time, among HIGI, the lenders
+      signatory thereto and the Bank Group Agent, and any of the documents or
+      instruments related thereto.
+
+            "D&O Insurance" means the officers and directors insurance
+      maintained by the Debtors which covers the Debtors' present and former
+      officers and directors.
+
+            "Debentures" means the collective reference to each of those certain
+      debentures due December 31, 2005 issued by HIGI as follows: (i) the 10%
+      Convertible Subordinated Debentures; (ii) the 12.5% Convertible
+      Subordinated Debentures; and (iii) the 10% Convertible Subordinated
+      Debentures, Series 2.
+
+            "Debenture Claim" means the Claim of any Person arising under the
+      Debentures.
+
+            "Debtors" shall have the meaning set forth in the Introduction.
+
+            "Disallowed" means the extent to which a Disputed Claim is not
+      Allowed whether by Final Order of the Court, by agreement of the parties,
+      or otherwise.
+
+            "Disclosure Statement" means the written disclosure statement that
+      relates to the Plan, as amended, supplemented or modified from time to
+      time, and as approved by the Bankruptcy Court under section 1125 of the
+      Bankruptcy Code.
+
+            "Disclosure Statement Order" means the order of the Court approving
+      the Disclosure Statement as containing adequate information pursuant to
+      section 1125 of the Bankruptcy Code.
+
+
+                                       4
+<PAGE>
+
+
+            "Disputed" means, with respect to a Claim (i) if no Proof of Claim
+      has been timely Filed or deemed timely Filed under applicable law or order
+      of the Court, a Claim that has been listed on a Debtor's Schedules as
+      disputed, contingent or unliquidated, or (ii) if a Proof of Claim has been
+      timely Filed or deemed timely Filed under applicable law or order of the
+      Court, a Proof of Claim as to which an objection has been timely Filed and
+      not withdrawn, overruled or denied or granted in whole by a Final Order.
+      With respect to an Interest, "Disputed" means an Interest with respect to
+      which a Proof has been Filed which is inconsistent with the list of equity
+      security holders or other records of the Debtors and as to which an
+      objection has been timely Filed and not withdrawn, overruled or denied or
+      granted in whole by a Final Order.
+
+            "Distribution" means the distribution of Available Cash from the
+      Liquidating Trust on account of Liquidating Trust Units in accordance with
+      this Plan and the Liquidating Trust Agreement.
+
+            "Distribution Address" means the address of the holders of any Claim
+      as set forth in the Proof of Claim filed by such Person, as such address
+      may have been updated pursuant to Bankruptcy Rule 2002(g), or if no Proof
+      of Claim is Filed by such Person, the address set forth in the relevant
+      Debtor's Schedules or other books and records as the same may be updated
+      from time to time.
+
+            "Distribution Date" means any date on which a Distribution is made,
+      including, without limitation, any Annual Distribution Date or Quarterly
+      Distribution Date.
+
+            "Effective Date" means a Business Day selected by the Debtors which
+      is not later than eleven (11) days after the Confirmation Order is entered
+      by the Bankruptcy Court, or as soon thereafter as practicable.
+
+            "Estates" means, as to each Debtor, the estate of such Debtor in its
+      Chapter 11 Case created by section 541 of the Bankruptcy Code upon the
+      commencement of such Chapter 11 Case.
+
+            "Exhibit" means an exhibit to either the Plan or the Disclosure
+      Statement.
+
+            "File" or "Filed" means filed with the Bankruptcy Court in the
+      Chapter 11 Cases.
+
+            "Final Claims Resolution Date" means the date on which the last
+      Disputed Claim has been resolved, either by consent, order of the
+      Bankruptcy Court or otherwise.
+
+            "Final Order" means any order as to which the time to appeal,
+      petition for certiorari, or move for reargument or rehearing has expired
+      or shall have been waived in writing and as to which no appeal, petition
+      for certiorari, or other proceedings for reargument or rehearing shall
+      then be pending, or, in the event that an appeal, writ of certiorari, or
+      reargument or rehearing thereof has been sought, such order shall have
+      been affirmed (or certiorari has been denied) by the highest court to
+      which such order was appealed, or from which reargument or rehearing was
+      sought, and the time to take any further appeal, petition for certiorari
+      or motion for reargument or rehearing shall have expired.
+
+
+                                       5
+<PAGE>
+
+
+            "General Unsecured Claim" means an any Claim, including any
+      Debenture Claim, that is not an Administrative Claim, Priority Tax Claim,
+      Priority Claim, or a Bank Group Claim or other Secured Claim.
+
+            "HIGI" means Highlands Insurance Group, Inc., a Delaware
+      corporation.
+
+            "HIGI Interests" means all classes and shares of Interests in HIGI
+      authorized, issued and held by any Person immediately prior to the
+      Effective Date, including, without limitation, any and all shares of
+      preferred stock, common stock, stock held by HIGI as treasury stock, any
+      outstanding warrants or options for any of the foregoing, and any other
+      "equity security" of HIGI as defined by section 101(16) of the Bankruptcy
+      Code, but excluding the LMI Interest.
+
+            "HIGI Subsidiaries" means the Insurance Company Subsidiaries and the
+      Surviving Debtor Entities, other than HIGI.
+
+            "Insurance Company Subsidiaries" means each insurance company
+      affiliated with the Debtors or any of the Surviving Debtor Entities which
+      is not the subject of any rehabilitation or liquidation order of any court
+      of competent jurisdiction.
+
+            "Intercompany Claim" means any Claims between and among the
+      Surviving Debtor Entities.
+
+            "Interest" means (a) a share in a corporation, whether or not
+      transferable or denominated "stock," or similar security, (b) a membership
+      interest in a limited liability company, (c) the interest of a limited
+      partner in a limited partnership, (d) a warrant, option or right (other
+      than a right to convert) to purchase, sell or subscribe to a share,
+      security or interest of a kind specified in subparagraphs (a), (b) or (c)
+      of this paragraph, or (e) an interest of a general partner in a limited or
+      general partnership.
+
+            "IRC" means the Internal Revenue Code of 1986, as amended.
+
+            "IRS" means the Internal Revenue Service.
+
+            "Lien" means any charge against or interest in property to secure
+      payment of a debt or performance of an obligation.
+
+            "Liquidating Trust" means the liquidating trust to be created on the
+      Effective Date, in accordance with Article V of the Plan and the
+      Liquidating Trust Agreement.
+
+            "Liquidating Trust Agreement" means the agreement, substantially in
+      the form annexed hereto as Exhibit A, to be dated as of the Effective
+      Date, which establishes and describes the Liquidating Trust.
+
+            "Liquidating Trust Unit" means an undivided, but classified,
+      beneficial interest in the Liquidating Trust evidenced by the Liquidating
+      Trust Agreement.
+
+
+                                       6
+<PAGE>
+
+
+            "Liquidating Trustee" means the Person appointed in accordance with
+      the Liquidating Trust Agreement to administer the Liquidating Trust. "LMI
+      Interest" means the shares of Series One Preferred Stock of HIGI issued to
+      LMI Insurance Company with a stated liquidation value of $1,000 per share.
+
+             "LMI Interest" means the shares of Series One Preferred Stock of
+      HIGI issued to LMI Insurance Company with a stated liquidation value of
+      $1,000 per share.
+
+            "New HIGI Stock" means one hundred (100) shares of newly authorized
+      common stock of HIGI, $0.01 par value, to be issued to the Liquidating
+      Trust pursuant to Article V of the Plan.
+
+            "Other Secured Claims" means all Secured Claims, other than the Bank
+      Group Claims, against any of the Debtors held by any Person.
+
+            "Paying Agent" means the Bank Group Agent with respect to the Bank
+      Group Claims and any other agent (other than the Liquidating Trustee)
+      contractually authorized and/or obligated to make Distributions to holders
+      of Claims.
+
+            "Person" means an individual, corporation, general partnership,
+      limited partnership, limited liability company, limited liability
+      partnership, association, joint venture, trust, estate, unincorporated
+      organization, or a government or any agency or political subdivision
+      thereof.
+
+            "Petition Date" means October 31, 2002, the date upon which the
+      chapter 11 petitions of each of the Debtors were filed.
+
+            "Plan" means this joint chapter 11 plan of reorganization,
+      including, without limitation, the Exhibits and schedules hereto, as such
+      may be altered, amended, or otherwise modified from time to time.
+
+            "Prepetition Claim" means any Claim arising on or prior to the
+      Petition Date.
+
+            "Priority Claim" means any Claim entitled to priority pursuant to
+      section 507(a) of the Bankruptcy Code, other than (a) an Administrative
+      Claim or (b) a Priority Tax Claim.
+
+            "Priority Tax Claim" means any Claim entitled to priority pursuant
+      to section 507(a)(8) of the Bankruptcy Code.
+
+            "Professionals" means the attorneys, accountants and other
+      professionals whose retention has been approved by the Court in these
+      Chapter 11 Cases.
+
+            "Proof" or "Proof of" means, as the context requires, either a proof
+      of claim or a proof of interest filed in accordance with the Bankruptcy
+      Code, Bankruptcy Rules and any Final Order setting a Bar Date in the
+      Chapter 11 Cases.
+
+            "Quarterly Distribution" means any Distribution made on a Quarterly
+      Distribution Date to holders of Liquidating Trust Units then entitled to
+      Distributions from the Liquidating Trust, as set forth in the Plan and the
+      Liquidating Trust Agreement.
+
+
+                                       7
+<PAGE>
+
+
+            "Quarterly Distribution Date" means the fifth Business Day after the
+      end of each calendar quarter (i.e., March 31, June 30, September 30 and
+      December 31 for each calendar year) from and after the Effective Date upon
+      which Quarterly Distributions can be made.
+
+            "Ratable" or "Ratable Share" means a number (expressed as a
+      percentage) equal to the proportion that an Allowed Claim bears to the
+      aggregate amount or number of Allowed Claims in such Class as of the date
+      of determination.
+
+            "Reinstated" means leaving unaltered the legal, equitable and
+      contractual rights to which a Claim entitles the holder of such Claim, in
+      accordance with section 1124 of the Bankruptcy Code.
+
+            "Schedules" means the schedules of assets and liabilities and the
+      statement of financial affairs, as each may be amended from time to time,
+      Filed by the Debtors as required by section 521 of the Bankruptcy Code and
+      the Bankruptcy Rules.
+
+            "Secured Claim" means a Claim secured by a Lien on any Asset or
+      right of setoff, which Lien or right of setoff, as the case may be, is
+      valid, perfected and enforceable under applicable law and is not subject
+      to avoidance under the Bankruptcy Code or applicable nonbankruptcy law,
+      but only to the extent of the value, pursuant to section 506(a) of the
+      Bankruptcy Code, of any interest of the holder of the Claim in property of
+      the Estate(s) securing such Claim.
+
+            "State Departments of Insurance" means the collective reference to
+      any Department of Insurance, Office of the Commissioner of Insurance, or
+      any other regulatory board or authority authorized by State statute and
+      having jurisdiction over the businesses, operations, and activities of the
+      Insurance Company Subsidiaries on or after the Petition Date.
+
+            "Success Fee Agreement" means that certain agreement made and
+      entered into by the Liquidating Trust substantially in the form annexed
+      hereto as Exhibit B, which provides for the payment of various fees upon
+      and after the payment of Distributions to Trust Holders in certain
+      predetermined amounts.
+
+            "Surviving Debtor Entities" means each Debtor and any non-debtor
+      affiliate of the Debtors (other than the Insurance Company Subsidiaries)
+      whose corporate existence continues at any time after the Effective Date,
+      including without limitation those entities listed on Schedule 1.1 hereto.
+
+            "Treasury Regulations" means those regulations promulgated pursuant
+      to the IRC.
+
+            "Trust Advisory Board" means the board designated as such and
+      composed of the Liquidating Trustee and a maximum of four (4) other
+      individual persons designated by the Trust Holders from time to time as
+      set forth in the Liquidating Trust Agreement.
+
+
+                                       8
+<PAGE>
+
+
+            "Trust Assets" means (i) the New HIGI Stock issued to the
+      Liquidating Trust on the Effective Date, and (ii) all right, title and
+      interest of the Debtors in any Assets existing on or as of the Effective
+      Date, but excluding any Interests in the HIGI Subsidiaries.
+
+            "Trust Holders" is as defined in Section 5.1(a).
+
+            "Trust Holders of Record" means Trust Holders of record as set forth
+      in the register maintained by the Liquidating Trustee and shall not mean
+      any beneficial owner not recorded on such official registry.
+
+            "Unclaimed Distribution" means any Distribution, other than
+      Distributions to holders of Bank Group Claims, which have not been
+      claimed, including funds for any check (i) mailed to a Distribution
+      Address and returned as undeliverable without a proper forwarding address,
+      (ii) not mailed or delivered because no Distribution Address to mail or
+      deliver such Distribution was available, or (iii) delivered but not cashed
+      or deposited.
+
+            "U.S. Trustee Fees" means all fees and charges assessed against the
+      Estates by the United States Trustee and due pursuant to section 1930 of
+      title 28 of the United States Code.
+
+      1.2 Rules of Construction.
+
+            (a) Generally. For purposes of this Plan, (a) any reference in the
+Plan to an existing document, schedule or Exhibit Filed or to be Filed means
+such document, schedule or Exhibit as it may have been or may be amended,
+modified or supplemented; (b) unless otherwise specified, all references in the
+Plan to Sections, Articles, schedules and Exhibits are references to Sections,
+Articles, schedules and Exhibits of or to the Plan; and (c) the rules of
+construction set forth in section 102 of the Bankruptcy Code and the Bankruptcy
+Rules shall apply unless superseded herein or in the Confirmation Order.
+
+            (b) Exhibits. All schedules and Exhibits are incorporated into and
+are a part of this Plan as if set forth in full herein. Copies of schedules and
+Exhibits, after being Filed, can be obtained upon written request to Duane
+Morris LLP, 4200 One Liberty Place, Philadelphia, Pennsylvania, 19103 (Attn:
+Christopher J. Redd, Esq.), counsel to the Debtors.
+
+            (c) Time Periods. In computing any period of time prescribed or
+allowed by this Plan, the provisions of Bankruptcy Rule 9006(a) shall apply.
+
+            (d) Miscellaneous Rules. (i) The words "herein," "hereof,"
+"hereunder," and other words of similar import refer to this Plan as a whole,
+not to any particular Section, subsection, or clause, unless the context
+requires otherwise; (ii) whenever it appears appropriate from the context, each
+term stated in the singular or the plural includes the singular and the plural,
+and each pronoun stated in the masculine, feminine or neuter includes the
+masculine, feminine and the neuter; and (iii) captions and headings to Articles
+and Sections of the Plan are inserted for convenience or reference only and are
+not intended to be a part or to affect the interpretation of the Plan.
+
+
+                                       9
+<PAGE>
+
+
+                                   ARTICLE 2
+                     CLASSIFICATION OF CLAIMS AND INTERESTS
+
+      2.1 General Rules of Classification. The categories of Claims and
+Interests listed in Section 2.2 below classify Claims and Interests for all
+purposes, including voting on, confirmation of, and Distributions under the Plan
+and pursuant to sections 1122 and 1123(a)(1) of the Bankruptcy Code. A Claim or
+Interest is classified in a particular Class only to the extent that the Claim
+or Interest falls within the description of that Class, and is classified in a
+different Class to the extent that any remainder of such Claim or Interest falls
+within the description of such different Class. A Claim is in a particular Class
+only to extent that such Claim is an Allowed Claim in that Class and has not
+been paid, released, or otherwise settled prior to the Effective Date.
+
+      2.2 Summary. Claims, other than Administrative Claims and Priority Tax
+Claims, are classified for all purposes, including voting, confirmation, and
+distribution, as follows:
+
+<TABLE>
+<CAPTION>
+ CLASS                   CLAIM                     STATUS; DISTRIBUTIONS                VOTING RIGHTS
+ -----                   -----                     ---------------------                -------------
+<S>                <C>                             <C>                               <C>
+Class 1            Priority Claims                 Unimpaired                        Not Entitled to Vote
+
+Class 2            Bank Group Claims               Impaired; Will Receive            Entitled to Vote
+                                                   Class A Trust Units
+
+Class 2(a)         Other Secured Claims            Unimpaired                        Not Entitled to Vote
+
+Class 3            General Unsecured Claims        Impaired; Will Receive            Entitled to Vote
+                                                   Class B Trust Units
+
+Class 4            LMI Interest                    Impaired; Will Receive            Entitled to Vote
+                                                   Class C Trust Units
+
+Class 5            HIGI Interests                  Cancelled; No Distribution        Not entitled to Vote
+</TABLE>
+
+                                   ARTICLE 3
+                        TREATMENT OF UNCLASSIFIED CLAIMS
+
+      3.1 No Classification. In accordance with section 1123(a)(1) of the
+Bankruptcy Code, Administrative Claims and Priority Tax Claims have not been
+classified and thus are excluded from the Classes described in Section 2.2.
+
+
+                                       10
+<PAGE>
+
+
+      3.2 Administrative Claims. Subject to the Bar Date provisions in Section
+11.1, and except to the extent the Debtors and the holder of an Allowed
+Administrative Claim agree to a different treatment, the Liquidating Trustee
+shall pay to each holder of an Allowed Administrative Claim an amount equal to
+such Allowed Administrative Claim in Cash, on the later of (i) the Effective
+Date or (ii) five days after the date on which said Administrative Claim becomes
+an Allowed Administrative Claim, or as soon thereafter as is practicable;
+provided, however, that Allowed Administrative Claims representing obligations
+incurred in the ordinary course of business of the Debtors shall be paid by the
+Debtors or the Liquidating Trustee, as the case may be, in accordance with the
+terms and conditions of the particular agreements from which such Allowed
+Administrative Claims arose.
+
+      3.3 Priority Tax Claims. Except to the extent the Debtors and the holder
+of an Allowed Priority Tax Claim agree to different treatment, the Liquidating
+Trustee shall make deferred Cash payments over a period not exceeding six years
+from the date of assessment of such tax as required by section 1129(a)(9)(C) of
+the Bankruptcy Code; provided, however, that the Liquidating Trust shall have
+the right to pay any Priority Tax Claim, or any remaining balance of such Claim,
+in full, at any time on or after the Effective Date, without premium or penalty.
+
+                                   ARTICLE 4
+                  TREATMENT OF CLASSIFIED CLAIMS AND INTERESTS
+
+      4.1 Class 1: Priority Claims. Except to the extent the Debtors and the
+holder of an Allowed Priority Claim agree to different treatment, the
+Liquidating Trustee shall pay to each holder of an Allowed Priority Claim an
+amount equal to such Allowed Priority Claim in Cash, on the later of (i) the
+Effective Date or (ii) five days after the date on which said Priority Claim
+becomes an Allowed Priority Claim, or as soon thereafter as is practicable.
+
+      4.2 Class 2: Bank Group Claims. The Bank Group Claims shall be deemed
+Allowed Claims as of the Petition Date in the aggregate of all amounts due and
+owing under the Credit Agreement on account of principal and accrued but unpaid
+interest through the Petition Date. The approximate amount of the Bank Group
+Claims (which is subject to verification) is $49,096,586.44. On the Effective
+Date, the holders of Bank Group Claims shall each be issued Class A Trust Units
+in accordance with the provisions of the Liquidating Trust Agreement in the
+amount of their Allowed Claims. The Liquidating Trust Agreement shall provide
+that the Bank Group Claims represented by the Class A Trust Units will be paid
+in full, with interest, before any Distributions are made to the holders of any
+other Claims or Class of Claims or Liquidating Trust Units, except for Allowed
+Administrative Claims, Allowed Priority Tax Claims, and Allowed Priority Claims,
+if any. Interest on the Bank Group Claims will accrue and be paid, if paid, on
+the Allowed amount of such Claims as of the Petition Date and at the applicable
+non-default contract rate specified in the Credit Agreement. In addition to the
+foregoing, the Bank Group (or the Bank Group Agent, as the case may be) will
+retain the Bank Group Liens. The Bank Group Claims are impaired and, thus, each
+holder of the Bank Group Claim is entitled to vote to accept or reject the Plan.
+
+      4.3 Class 2(a): Other Secured Claims. At the sole option of the Debtors or
+the Liquidating Trustee, as the case may be, on the later of (x) the Effective
+Date, or (y) for Claims
+
+
+                                       11
+<PAGE>
+
+in Class 2(a) that were Disputed Claims and have become Allowed Secured Claims,
+as soon thereafter as is practicable, such Allowed Secured Claims shall: (i) be
+Reinstated; or (ii) receive the Collateral securing such Allowed Secured Claim;
+or (iii) receive Cash in an amount, not to exceed the Allowed amount of such
+Claim or equal to the proceeds actually realized from the sale of any Collateral
+securing such Claim, less the actual costs and expenses of disposing of such
+Collateral; or (iv) receive such other treatment as may be agreed upon by the
+Debtors or the Liquidating Trustee, as the case may be, and the holder of an
+Allowed Secured Claim. In the event that the Debtors or the Liquidating Trustee
+elects, pursuant to option (ii) above, to distribute to the holder of an Allowed
+Secured Claim, the Collateral securing such Allowed Secured Claim, the holder of
+such Allowed Secured Claim shall bear all expenses relating to the transfer of
+possession and rights in the Collateral, including, but not limited to, storage
+expenses. Holders of Allowed claims in Class 2(a) are not impaired and, thus,
+each such holder is not entitled to vote to accept or reject the Plan in its
+capacity as a holder of such Claim.
+
+      4.4 Class 3: General Unsecured Claims. On the Effective Date, each holder
+of an Allowed General Unsecured Claim in Class 3 shall be issued Class B
+Liquidating Trust Units in accordance with the provisions of the Liquidating
+Trust Agreement in the amount of each holder's Allowed General Unsecured Claim.
+Class 3 Claims shall include the Debenture Claims, which shall be deemed Allowed
+Claims as of the Petition Date in the aggregate amount of $71,412,251.59 on
+account of principal and accrued, but unpaid, interest through the Petition
+Date. The Liquidating Trust Agreement shall provide that Allowed General
+Unsecured Claims represented by the Class B Trust Units will be paid in full,
+with interest, prior to the payment of any amounts to the holder of the LMI
+Interest represented by Class C Trust Units, but only after full payment of the
+Bank Group Claims in accordance with Section 4.2 of this Plan and the
+Liquidating Trust Agreement. Interest on Allowed General Unsecured Claims will
+accrue and be paid, if paid, on the Allowed amount of such Claims as of the
+Petition Date and at the applicable non-default rate specified in any valid
+contract upon which such Allowed General Unsecured Claim is or was based or, if
+no rate is specified or no such contract exists, at the federal judgment rate as
+of the Petition Date. Holders of Allowed General Unsecured Claims in Class 3 are
+impaired and are entitled to vote to accept or reject the Plan.
+
+      4.5 Class 4: LMI Interest. On the Effective Date, the holder of the LMI
+Interest shall be issued Class C Liquidating Trust Units in accordance with the
+provisions of the Liquidating Trust Agreement in an amount equal to the stated
+liquidation value of the LMI Interest. The Liquidating Trust Agreement shall
+provide that the LMI Interest represented by the Class C Trust Units will be
+paid only after the Bank Group Claims and all Allowed General Unsecured Claims
+have been paid in full and proper reserve for any Disputed Claims has been made
+in accordance with this Article 4 and the Liquidating Trust Agreement. As of the
+Effective Date, all dividends on or relating to the LMI Interest shall cease to
+accrue and shall not be issued or paid by the issuance of Liquidating Trust
+Units or in any other manner or form. The LMI Interest is impaired and, thus,
+the holder of the LMI Interest is entitled to vote to accept or reject the Plan
+in its capacity as a holder of such Interest.
+
+      4.6 Class 5: HIGI Interests. Holders of HIGI Interests shall receive no
+property under the Plan and the HIGI Interests shall be cancelled on and as of
+the Effective Date. The holders of the HIGI Interests are impaired and, for
+purposes of the Plan, each holder of a HIGI
+
+
+                                       12
+<PAGE>
+
+Interest is conclusively presumed to have rejected the Plan and is not entitled
+to vote to accept or reject the Plan.
+
+                                   ARTICLE 5
+                             IMPLEMENTATION OF PLAN
+
+      5.1 The Liquidating Trust.
+
+            (a) Establishment of the Trust. On the Effective Date, the Debtors,
+on their own behalf and on behalf of holders of Allowed Claims and Allowed
+Interests in Classes 2 through 4 (hereinafter, collectively referred to as the
+"Trust Holders") shall execute the Liquidating Trust Agreement and shall take
+all other steps necessary to establish the Liquidating Trust. The Liquidating
+Trust Agreement shall contain provisions customary to trust agreements utilized
+in comparable circumstances, including, but not limited to, any and all
+provisions necessary to ensure the treatment of the Liquidating Trust as a
+liquidating trust for United States federal income tax purposes.
+
+            (b) Issuance of New HIGI Stock and Transfer of Other Trust Assets.
+On the Effective Date, the Debtors shall issue the New HIGI Stock and transfer
+(as described in Section 5.1(c) below) all of their right, title and interest in
+and to all other Trust Assets to the Liquidating Trust, free and clear of any
+lien, Claim or Interest in such property of any other Person except for the Bank
+Group Liens or as otherwise provided for in this Plan or the Liquidating Trust
+Agreement. Title to all Trust Assets shall vest in the Liquidating Trust on the
+Effective Date. The Debtors or such other Persons that may have possession or
+control of such Trust Assets shall transfer possession or control of such Trust
+Assets to the Liquidating Trustee and shall execute documents or instruments
+necessary to effectuate such transfers.
+
+            (c) Transfer for the Benefit of Trust Holders. The transfer of the
+Trust Assets to the Liquidating Trust shall be made for the benefit of the Trust
+Holders, whether the Claims of Trust Holders are Allowed on or after the
+Effective Date of the Plan. In this regard, the Trust Assets will be transferred
+to the Trust Holders to be held by the Debtors on their behalf. Immediately
+thereafter, on behalf of the Trust Holders, the Debtors shall transfer the Trust
+Assets to the Liquidating Trust in exchange for the Liquidating Trust Units,
+which units shall be distributed by the Liquidating Trustee to the Trust Holders
+in exchange for their Allowed Claims or Interests in accordance with Article 4
+hereof and the Liquidating Trust Agreement. Upon the transfer of the Trust
+Assets, the Liquidating Trustee shall succeed to all of the Debtors' right,
+title and interest in the Trust Assets and the Debtors will have no further
+interest in or with respect to the Trust Assets or the Liquidating Trust. For
+all United States federal income tax purposes, all parties (including, without
+limitation, the Debtors, the Liquidating Trustee, and the Trust Holders) shall
+treat the transfer of Trust Assets to the Liquidating Trust described in Section
+1.2 of the Liquidating Trust Agreement and herein (and any subsequent transfers
+of Assets) as a transfer to the Trust Holders followed by a transfer by such
+Trust Holders to the Liquidating Trust, and the beneficiaries of the Liquidating
+Trust shall be treated as the grantors and owners thereof.
+
+            (d) Purpose of the Liquidating Trust. The Liquidating Trust shall be
+established for the sole purpose of liquidating the Trust Assets, in accordance
+with Treasury
+
+
+                                       13
+<PAGE>
+
+Regulation section 301.7701-4(d), with no objective to continue or engage in the
+conduct of a trade or business, except to the extent reasonably necessary to,
+and consistent with, the liquidating purpose of the Liquidating Trust. Subject
+to definitive guidance from the IRS, all parties shall treat the Liquidating
+Trust as a liquidating trust for United States federal income tax purposes.
+
+            (e) Valuation of Trust Assets. From time to time as necessary, the
+Liquidating Trustee shall in good faith determine the fair market value of the
+Trust Assets and any other Assets transferred to the Liquidating Trust and
+thereafter apprise the Trust Advisory Board and the Trust Holders of Record in
+writing regarding such valuation. Any such valuation shall be used consistently
+by all parties (including, without limitation, the Debtors, the Liquidating
+Trustee and the Trust Holders) for all purposes, including United States federal
+income tax purposes.
+
+            (f) Termination. The Liquidating Trust will terminate on the earlier
+of (a) thirty (30) days after the full and final Distribution of the Trust
+Assets or proceeds thereof in accordance with the terms of the Liquidating Trust
+Agreement and this Plan, and (b) the fifth (5th) anniversary of the Effective
+Date; provided, however, that within six months of the fifth (5th) anniversary
+of the Effective Date, the Court, upon a motion by the Liquidating Trustee or
+any party in interest, may extend the term of the Liquidating Trust for an
+additional term of not more than five (5) years if it is necessary for the
+liquidation of the Trust Assets. Multiple extensions may be obtained so long as
+Court approval is obtained within six months of the beginning of each such
+extended term. The Liquidating Trustee shall seek all necessary extensions the
+term of the Liquidating Trust in order to fully implement this Plan.
+Notwithstanding the foregoing, the Liquidating Trustee shall not unduly prolong
+the duration of the Liquidating Trust and shall at all times endeavor to
+resolve, settle or otherwise dispose of all property and Claims that constitute
+Trust Assets and to effect the full and final Distribution of the Trust Assets
+to the Trust Holders in accordance with the terms hereof and the Liquidating
+Trust Agreement and thereafter terminate the Liquidating Trust as soon as
+practicable.
+
+      5.2 Liquidating Trustee and Trust Advisory Board.
+
+            (a) Appointment. Stephen L. Kibblehouse shall be appointed as the
+Liquidating Trustee and shall hold such position until his removal, resignation
+or death. There shall also be appointed a Trust Advisory Board composed of the
+Liquidating Trustee and a maximum of four (4) other individual persons
+designated by the Trust Holders as set forth in the Liquidating Trust Agreement.
+In the event that the Trust Advisory Board is not formed or ceases to exist for
+any reason, all references in the Liquidating Trust Agreement to required
+approval or other action of such Trust Advisory Board shall be of no force or
+effect or shall be deemed to be references to the Liquidating Trustee, as
+appropriate.
+
+            (b) Action by Trust Advisory Board. The Trust Advisory Board will
+direct the actions of Liquidating Trustee in the exercise of the authority
+granted to the Liquidating Trustee under the Liquidating Trust Agreement and
+this Plan. Unless otherwise specified in the Liquidating Trust Agreement, any
+action taken or direction given by the Trust Advisory Board shall be taken or
+given by a majority of the members of the Trust Advisory Board. The Liquidating
+Trust shall not and shall not be authorized to enter into any agreement or
+
+
+                                       14
+<PAGE>
+
+consummate any transaction involving the sale of the stock, assets, operations
+or business of any Surviving Debtor Entity or Insurance Company Subsidiary
+unless at least eighty percent (80%) of the members then comprising the Trust
+Advisory Board have voted in favor of any such sale. The Trust Advisory Board
+shall be authorized to adopt by-laws consistent with this Plan and the
+Liquidating Trust Agreement to govern its activities.
+
+      5.3 Issuance of Liquidating Trust Units and Applicability of Securities
+Laws.
+
+            (a) Stated Value and Accrued Interest. The stated value of each
+Liquidating Trust Unit shall be one dollar. Interest accruing on or with respect
+to a Claim or Class of Claims shall accrue on the basis of one Liquidating Trust
+Unit for every dollar of interest accrued. Notwithstanding any other provisions
+of this Plan, only whole numbers of Liquidating Trust Units shall be issued and
+all Claims, and any interest accruing on Claim, shall be rounded to the nearest
+dollar.
+
+            (b) Issuance by Book Entry. All Liquidating Trust Units shall be
+uncertificated and issued to Trust Holders by book entry only in the register
+maintained by the Liquidating Trustee. The Liquidating Trustee shall not be
+required to send any notice to Trust Holders upon the issuance of the
+Liquidating Trust Units or the updating of any book entries on account of
+accrued interest on Claims or otherwise. Notwithstanding the foregoing, upon
+request made to the Liquidating Trustee in writing by a Trust Holder, the
+Liquidating Trustee shall confirm the amount and class of Liquidating Trust
+Units then issued in the name of such Trust Holder.
+
+            (c) Securities Laws. Under section 1145 of the Bankruptcy Code, the
+issuance of Liquidating Trust Units shall be exempt from registration under the
+Securities Act of 1933 and applicable state and local laws requiring
+registration of securities. The Liquidating Trustee will not attempt to register
+the Liquidating Trust Units under any state or federal securities law at any
+time, and the Liquidating Trustee, with the advice of counsel, will take such
+action (including, without limitation, any action described in Section 5.3(d)
+below) as it deems necessary to ensure that the Liquidating Trust will not at
+any time be required to comply with the registration and reporting requirements
+of the Securities Exchange Act of 1934, as amended, the Investment Company Act
+of 1940, as amended or any other state or local law requiring the registration
+of securities.
+
+            (d) Transfer of Liquidating Trust Units. The Liquidating Trust Units
+shall be transferable by the Trust Holders upon and after issuance, however,
+neither the Liquidating Trustee nor the Trust Advisory Board will at any time
+shall seek to have the Liquidating Trust Units listed on any exchange or on the
+over-the-counter market after the Effective Date. The Liquidating Trustee, with
+the advice and consent of the Trust Advisory Board, may at any time establish
+procedures governing the transfer of Liquidating Trust Units, including, without
+limitation, the imposition of fees in such amounts as may be deemed necessary or
+appropriate in relation to the costs of maintaining the register of Trust
+Holders. Notwithstanding the foregoing, no assignment, pledge, mortgage, sale,
+transfer or other disposition (as used in this Section 5.3(d), a "Transfer") of
+any Liquidating Trust Units shall be permitted until the proposed transferor has
+delivered to the Liquidating Trustee at the proposed transferor's sole expense a
+written opinion satisfactory to the Liquidating Trustee from legal counsel
+satisfactory to the
+
+
+                                       15
+<PAGE>
+
+Liquidating Trustee providing, and the Liquidating Trustee has concluded, that
+such Transfer would not (i) result in a violation of, or require registration of
+the Liquidating Trust Units under, the Securities Act of 1933, as amended, or
+any state securities laws; (ii) result in a violation of, or require the
+Liquidating Trust to register as an investment company under, the Investment
+Company Act of 1940, as amended; (iii) result in a violation of, or require the
+Liquidating Trust to make any filings or obtain approvals or qualifications
+under, the Trust Indenture Act of 1939, as amended; (iv) result in a violation
+of any other law, rule or regulation by the Liquidating Trust or any Trust
+Holder; (v) result in the Liquidating Trust being subjected to any additional
+regulatory requirements or restrictions; (vi) cause an "ownership change" within
+the meaning of section 382 of the IRC within two years following the Effective
+Date; (vii) if the Liquidating Trust is deemed to be a partnership for United
+States federal income tax purposes, result in the treatment of the Liquidating
+Trust as a "publicly traded partnership" within the meaning of section 7704 of
+the IRC and the Treasury Regulations promulgated thereunder; or (viii) result or
+potentially result in any adverse tax or other consequences to the Liquidating
+Trust, the assets held by it, or the Debtors. Any purported Transfer in
+violation of the foregoing will not be registered on the register maintained by
+the Liquidating Trustee. The Liquidating Trustee shall provide the proposed
+transferor with any and all information necessary to enable such proposed
+transferor to provide the opinion required by this Section 5.3(d).
+
+      5.4 Surviving Debtor Entities and Insurance Company Subsidiaries.
+
+            (a) Corporate Structure. Through the Liquidating Trust's position as
+direct or indirect equity owner of each of the Surviving Debtor Entities, the
+Liquidating Trustee shall cause the Surviving Debtor Entities to act
+consistently with the purposes and provisions of the Liquidating Trust and the
+Liquidating Trust Agreement. The Liquidating Trustee may authorize and direct
+the merger, consolidation, dissolution of or other restructuring transaction
+with respect to any of the Surviving Debtor Entities to the extent deemed
+necessary and appropriate by the Liquidating Trustee and Trust Advisory Board.
+Through the Liquidating Trust's position as direct or indirect equity owner of
+each of the Insurance Company Subsidiaries, the Liquidating Trustee shall cause
+the Insurance Company Subsidiaries to act consistently with the purposes and
+provisions of the Liquidating Trust and the Liquidating Trust Agreement and, in
+addition, any and all supervisory orders, protective orders or other
+requirements of the State Departments of Insurance. Subject to any and all
+consents, conditions, or requirements of the State Departments of Insurance, the
+Liquidating Trustee and Trust Advisory Board may authorize and direct the
+merger, consolidation, dissolution of or other restructuring transaction with
+respect to any of the Insurance Company Subsidiaries to the extent deemed
+necessary and appropriate by the Liquidating Trustee and Trust Advisory Board.
+
+            (b) Liquidating Trustee as Director. Subject to the requirements of
+other applicable law or the State Departments of Insurance, the Liquidating
+Trustee may serve or continue to serve as a member of the board of directors of
+any Surviving Debtor Entity or Insurance Company Subsidiary.
+
+            (c) Regulatory Authority of State Departments of Insurance. Nothing
+in this Plan attempts to limit the authority or ability of the State Departments
+of Insurance to regulate the businesses, operations or activities of the
+Insurance Company Subsidiaries.
+
+                                       16
+<PAGE>
+      5.5 Distribution Provisions.
+
+            (a) Annual Distributions from the Liquidating Trust. On each Annual
+Distribution Date, the Liquidating Trust shall distribute all Available Cash
+from the Liquidating Trust to the Trust Holders (or the relevant Paying Agent,
+as the case may be), after making reserve for Disputed Claims as provided for in
+Section 5.8(b) below; provided, however, that the Liquidating Trustee shall not
+be required to distribute Available Cash on each Annual Distribution Date if the
+aggregate Distribution on such date would not exceed $10,000 in value.
+
+            (b) Quarterly Distributions from the Liquidating Trust. On each
+Quarterly Distribution Date, the Liquidating Trust shall distribute all
+Available Cash from the Liquidating Trust to the Trust Holders (or the relevant
+Paying Agent, as the case may be), after making reserve for Disputed Claims as
+provided for in Section 5.8(b) below; provided, however, that the Liquidating
+Trustee shall not be required to distribute Available Cash on each Quarterly
+Distribution Date if the aggregate Distribution on such date would not exceed
+$300,000 in value.
+
+            (c) Distributions from HIGI and HIGI Subsidiaries. In furtherance of
+the foregoing, the Liquidating Trustee shall cause HIGI and HIGI shall cause
+each other Surviving Debtor Entity and, to the extent permitted by the
+applicable State Departments of Insurance, the Liquidating Trustee and each
+Surviving Debtor Entity shall cause each Insurance Company Subsidiary to
+distribute to the Liquidating Trust on or before each Distribution Date (or such
+earlier time as required to be included in the Distribution by the Liquidating
+Trust on such Distribution Date) all of the Cash of HIGI and each such HIGI
+Subsidiary, less (i) any amounts required or which may be required for the
+payment of taxes, (ii) subject to Trust Advisory Board approval, any other
+reasonable and necessary expenses of HIGI and each such HIGI Subsidiary, and
+(iii) such other amounts as are determined necessary by the Trust Advisory Board
+to cover anticipated future expenses of the Liquidating Trust. Notwithstanding
+the foregoing, HIGI and the HIGI Subsidiaries need not, and the Liquidating
+Trustee shall not direct HIGI or the HIGI Subsidiaries to, distribute Cash in
+amounts which fall below certain minimum thresholds established by the Trust
+Advisory Board and the Liquidating Trustee from time to time.
+
+            (d) Manner of Payment of Distributions. All Distributions to Trust
+Holders from the Liquidating Trust shall be made according to the priorities set
+forth in Article 4, payable only to Trust Holders of Record and, as to each such
+Trust Holder within a Class then entitled to payment, in amounts equal to such
+Trust Holders' Ratable Share of the Distribution. All Distributions to Trust
+Holders from the Liquidating Trust shall be payable in Cash by wire transfer,
+check, or such other method as the Liquidating Trustee deems appropriate under
+the circumstances. The Liquidating Trustee shall withhold from the Distribution
+of any Trust Holder any amount which the Liquidating Trustee determines to be
+required by any federal, state, local or foreign taxing authority, or by any
+other law, regulation, rule, ruling, directive or other governmental
+requirement.
+
+            (e) Distributions on Non-Business Days. Any payment or Distribution
+due on a day other than a Business Day shall be made, without interest, on the
+next Business Day.
+
+            (f) No Distribution Pending Allowance. Notwithstanding any other
+provision of this Plan, no Cash or other property shall be distributed, and no
+Liquidating Trust Units shall
+
+                                       17
+<PAGE>
+be issued, under this Plan on account of any Disputed Claim or Interest, unless
+and until such Claim or Interest becomes an Allowed Claim or Interest.
+
+            (g) No Distribution in Excess of Allowed Amounts. Notwithstanding
+anything to the contrary contained in this Plan or the Liquidating Trust
+Agreement, no holder of an Allowed Claim or Interest shall receive Distributions
+of a value which exceed the Allowed amount of such Claim or Interest as of the
+Petition Date, plus any accrued interest provided for in this Plan. The
+foregoing shall not limit holders of Disputed Claims from receiving accrued
+interest as provided in this Plan, if such holders' Disputed Claims become
+Allowed. In the event that the Allowed Claims and Interests of all Trust Holders
+shall have been paid in full in accordance with this Plan and the Liquidating
+Trust Agreement, all excess or subsequent Distributions, and any Unclaimed
+Distributions which become excess Distributions, shall be made to the Clerk of
+the Bankruptcy Court for distribution to creditors who shall make their claims
+upon the Clerk in accordance with Bankruptcy Rule 3011 and section 347(a) of the
+Bankruptcy Code (notwithstanding the usual inapplicability of such provisions in
+chapter 11 bankruptcy cases). Upon full and final tender of such Distributions
+to the Clerk of the Bankruptcy Court, the Liquidating Trustee, the Trust
+Advisory Board and each of their respective employees, representatives and
+agents shall be fully discharged and released from any claims of any Person to
+such Distributions.
+
+            (h) De Minimis Distributions. Notwithstanding anything to the
+contrary contained in this Plan or the Liquidating Trust Agreement, the
+Liquidating Trustee shall not be required to distribute Cash to the holder of an
+Allowed Claim or Interest if the amount of Cash to be distributed on account of
+such Claim is less than $25. Any holder of an Allowed Claim on account of which
+the amount of Cash to be distributed is less than $25 shall have such Claim
+discharged and shall be forever barred from asserting any such Claim against the
+Debtors, the Liquidating Trust, or their respective property. Any Cash not
+distributed pursuant to this provision shall be the property of the Liquidating
+Trust, free of any restrictions thereon.
+
+            (i) Unclaimed Distributions. Any Unclaimed Distributions, and all
+interest, dividends, and other earnings thereon, shall be held and segregated in
+sub-accounts of the Liquidating Trust for the benefit of the Trust Holders
+entitled thereto under the terms of this Plan and the Liquidating Trust
+Agreement. All such Unclaimed Distributions shall be held for a period of one
+year following the applicable Distribution Date and during such period shall be
+released from the Liquidating Trust and delivered to Trust Holders entitled
+thereto only upon presentation of proper proof by such Trust Holders of such
+entitlement. At the end of one year following the relevant Distribution Date of
+any Unclaimed Distributions, the Trust Holders theretofore entitled to such
+Unclaimed Distributions shall cease to be entitled thereto and the Unclaimed
+Distributions for each such Trust Holder shall then be distributed on a Ratable
+basis to the Trust Holders who have received and have claimed Distributions and
+who are otherwise entitled to further Distributions pursuant to the Plan and if
+no such Trust Holders then exist, such Unclaimed Distributions shall be
+distributed as set forth in Section 5.5(g) above. The Liquidating Trustee shall
+pay, or cause to be paid, out of the funds held in any sub-account, all taxes
+imposed by any federal, state and local taxing authorities, and any foreign
+taxing authorities, on the income generated by the funds held in such
+sub-account. The Liquidating Trustee shall also file, or cause to be filed any
+tax or information return related to any sub-account. All Cash held in such
+sub-accounts shall be invested in accordance with section 5.5 of
+
+                                       18
+<PAGE>
+the Liquidating Trust Agreement and section 345 of the Bankruptcy Code, as
+modified by the relevant Orders of the Court for investments made by the Debtors
+during the Chapter 11 Cases. The earnings on such investments shall be held in
+trust as an addition to the balance of the sub-accounts for the benefit of the
+Trust Holders entitled to such Unclaimed Distributions, and shall not constitute
+property of the Liquidating Trust.
+
+      5.6 Allocation of Tax Items. Unless otherwise required by applicable tax
+law, items of income, gain, loss and deduction recognized or incurred by the
+Liquidating Trust and the amount of distributions received by the Liquidating
+Trust shall be allocated ratably among the Trust Holders who are entitled to
+receive Distributions in the tax year in accordance with the priorities set
+forth in Article 4 hereof and section 4.4 of the Liquidating Trust Agreement,
+provided that where more than one Class of Trust Holders actually receives a
+Distribution in a tax year, such items of income, gain, loss and deduction, and
+such distributions received by the Liquidating Trust, shall be allocated ratably
+based upon the amount of each Distribution made to such Classes of Trust
+Holders.
+
+      5.7 Setoffs. The Debtors and the Liquidating Trustee, as the case may be,
+are authorized, pursuant to section 553 of the Bankruptcy Code, to set off
+against any Allowed Claim and the Distributions to be made on account of such
+Allowed Claim, the claims, rights and Causes of Action of any nature that the
+Debtors or the Liquidating Trustee may at any time hold against the holder of
+such Allowed Claim; provided, however, that neither the failure to effect such a
+setoff nor the allowance of any Claim shall constitute a waiver or release by
+the Debtors or the Liquidating Trustee of any such claims, rights and Causes of
+Action that the Debtors or the Liquidating Trustee may at any time possess
+against such holder.
+
+      5.8 Distributions to Holders of Disputed Claims and Interests.
+
+            (a) Resolution of Disputed Claims. No Liquidating Trust Units shall
+be issued and no Distribution or payment shall be made on account of a Disputed
+Claim or Interest until such Disputed Claim or Interest becomes an Allowed Claim
+or Interest. Unless otherwise ordered by the Bankruptcy Court, after the
+Effective Date, the Liquidating Trustee, under the direction of the Trust
+Advisory Board, shall succeed to the Debtors' right to make and file objections
+to Claims and Interests and settle, compromise or otherwise resolve all such
+objections previously made or filed by the Debtors. The Debtors or the
+Liquidating Trustee, as the case may be, shall file all objections to Claims and
+Interests as soon as practicable, but in no event later than (i) ninety (90)
+days after the later to occur of the Effective Date or the applicable Bar Date,
+or (ii) such other time as may be fixed or extended by the order of the
+Bankruptcy Court. All objections to Claims and Interests filed by the Debtors
+and the Liquidating Trustee shall be filed and resolved in accordance with all
+applicable provisions of the Bankruptcy Code and Bankruptcy Rules and the
+Bankruptcy Court will retain jurisdiction to resolve such objections pursuant to
+section 502 of the Bankruptcy Code after the Effective Date.
+
+            (b) Distributions when a Disputed Claim or Interest Becomes Allowed
+or is Disallowed. On each Distribution Date, the Liquidating Trustee shall
+reserve and segregate Cash sufficient to pay holders of Disputed Claims and
+Interests their Ratable Share, if any, of the Available Cash distributed to
+Trust Holders on such Distribution Date. Any such Cash reserved shall be held
+and segregated in sub-accounts of the Liquidating Trust for the benefit of
+holders of
+
+                                       19
+<PAGE>
+Disputed Claims and Interests. In the event a Disputed Claim or Interest is
+ultimately Allowed, the holder of such previously Disputed Claim or Interest
+shall be issued Liquidating Trust Units in accordance with the treatment of
+Classes of Claims or Interests set forth in Article 4, and on the next
+succeeding Distribution Date, shall be entitled to such holder's Ratable Share
+of any Distributions previously made on account of the Class of Liquidating
+Trust Units issued to such holder. Any Cash reserved and held in sub-accounts
+for the benefit of a holder of a Disputed Claim or Interest which is
+subsequently Disallowed, in whole or in part, shall be distributed as Available
+Cash on the next succeeding Distribution Date in accordance with the provisions
+of this Plan and the Liquidating Trust Agreement. The Liquidating Trustee shall
+pay, or cause to be paid, out of the funds held in any sub-account, all taxes
+imposed by any federal, state and local taxing authorities, and any foreign
+taxing authorities, on the income generated by the funds held in such
+sub-account. The Liquidating Trustee shall also file, or cause to be filed, any
+tax or information return related to any sub-account. All Cash held in such
+sub-accounts shall be invested in accordance with section 5.5 of the Liquidating
+Trust Agreement and section 345 of the Bankruptcy Code, as modified by the
+relevant Orders of the Court for investments made by the Debtors during the
+Chapter 11 Cases. The earnings on such investments shall be held in trust as an
+addition to the balance of the sub-accounts for the benefit of the Trust Holders
+entitled to such Distributions, and shall not constitute property of the
+Liquidating Trust.
+
+            (c) Late Claims. Except as otherwise expressly provided in this
+Plan, any Claim which is not deemed filed pursuant to section 1111(a) of the
+Bankruptcy Code, or for which a Proof of Claim is not timely filed pursuant to
+the Bankruptcy Code, Bankruptcy Rules or any order of the Court setting a Bar
+Date, shall not be treated as an Allowed Claim and shall be expunged from the
+Claims register in the Chapter 11 Cases without need for any further notice,
+motion, objection or order.
+
+            (d) Estimation of Claims. The Debtors or the Liquidating Trustee, as
+the case may be, may request that the Bankruptcy Court estimate any Claim
+subject to estimation under section 502(c) of the Bankruptcy Code and for which
+the Debtors may be liable under this Plan, including any Claim for taxes, to the
+extent permitted by section 502(c) of the Bankruptcy Code, regardless of whether
+any party in interest previously objected to such Claim. The Bankruptcy Court
+will retain jurisdiction to estimate any Claim pursuant to section 502(c) of the
+Bankruptcy Code at any time during litigation concerning any objection to any
+Claim.
+
+            (e) Procedure. All of the Claims objection, estimation and
+resolution procedures described in this Plan are cumulative and not necessarily
+exclusive of one another. Claims may be estimated and subsequently objected to,
+compromised, settled, withdrawn or resolved by any mechanism set forth in this
+Plan, the Bankruptcy Code, or otherwise approved by the Bankruptcy Court.
+
+      5.9 Intercompany Claims. On and as of the Effective Date, the Debtors'
+Estates shall be substantively consolidated for purposes of distributions under
+the Plan and the Liquidating Trust, and all Intercompany Claims shall be deemed
+forever released, waived and discharged.
+
+      5.10 Expense Reimbursement and Indemnity. The Liquidating Trustee and each
+member of the Trust Advisory Board shall be entitled to receive reimbursement
+for actual out-of-pocket expenses reasonably incurred by such persons in the
+performance of their duties under the
+
+                                       20
+<PAGE>
+Liquidating Trust Agreement and which are not otherwise reimbursed or
+reimbursable to such persons from another source. Such Persons shall also be
+entitled to indemnification as provided for in the Liquidating Trust Agreement.
+
+      5.11 Claims Payment Success Fees. On or after the Effective Date, the
+Liquidating Trust shall enter into the Success Fee Agreement with a limited
+liability company formed or to be formed by the Liquidating Trustee.
+
+      5.12 Exemption from Transfer Tax. Pursuant to section 1146(c) of the
+Bankruptcy Code, the issuance and transfer of the Trust Assets to the
+Liquidating Trust on or shortly after the Effective Date by the Debtors or the
+holders of Allowed Claims shall not be subject to any stamp, real estate
+transfer, mortgage, recording or other similar tax.
+
+      5.13 Cancellation of the HIGI Interests. As of the Effective Date, the
+HIGI Interests shall be cancelled and retired and no consideration will be paid
+or delivered with respect thereto. Notwithstanding the foregoing, the holders of
+HIGI Interests will not be required to surrender any stock certificate, warrants
+or other evidence of such Interests.
+
+      5.14 Cancellation of Agreements. On the Effective Date, except as
+otherwise provided for herein, the Credit Agreement, the Debentures, and any
+other agreement, note, bond, indenture, instrument or document evidencing or
+creating a Claim (as used in this Section 5.14, collectively, the "Instruments")
+will be deemed cancelled and of no further force or effect with respect to the
+Debtors without any further action on the part of the Bankruptcy Court or any
+other Person. The holders of such cancelled Instruments will have no Claims
+against the Debtors for payment of or on such Instruments except for the rights
+provided pursuant to this Plan. Each Instrument that is administered by a Paying
+Agent shall continue in effect solely for the purposes of (a) allowing such
+Paying Agent to further distribute Distributions to Trust Holders under this
+Plan and the Liquidating Trust Agreement, and (b) permitting such Paying Agent
+to maintain any rights or liens it may have for fees, costs, expenses and
+indemnification under such Instrument (all of which such fees, costs, expenses
+and indemnification shall be paid only from the Distributions made to such
+Paying Agent under this Plan and the Liquidating Trust Agreement).
+
+      5.15 Debtors' Continued Corporate Existence and Vesting of Assets.
+Notwithstanding anything to the contrary contained herein, the Liquidating Trust
+Agreement or any other agreement or instrument relating thereto, each Debtor
+shall continue to exist on and after the Effective Date as a separate entity
+with all the powers of a corporation under the laws of its respective state of
+incorporation and without prejudice to any right to alter or terminate such
+existence (whether by merger or otherwise) under such applicable law.
+Notwithstanding the foregoing, to the extent necessary in order to comply with
+the Bankruptcy Code, the certificates of incorporation for each Debtor shall be
+amended to prohibit the issuance of nonvoting equity securities. Except as
+provided herein or in the Liquidating Trust Agreement regarding the transfer to
+the Liquidating Trust of the Trust Assets, or any other agreement or instrument
+relating thereto, on and after the Effective Date all remaining Assets of the
+Debtors (i.e. Interests in subsidiaries) shall vest in each respective Debtor,
+free and clear of all Liens, Claims or other encumbrances, except, to the extent
+applicable, the Bank Group Liens. Schedule 5.15 sets forth the identity of all
+individual persons proposed to serve as officers and directors of the Debtors
+after confirmation of the Plan.
+
+
+
+                                       21
+<PAGE>
+      5.16 Obligations Incurred After the Confirmation Date. Payment obligations
+incurred after the date and time of entry of the Confirmation Order, including,
+without limitation, the Professional fees of the Debtors through the Effective
+Date, shall not be subject to application or Proof of Claim and may be paid by
+the Debtors or the Liquidating Trust, as the case may be, in the ordinary course
+of business and without further Bankruptcy Court approval, as Administrative
+Claims.
+
+      5.17 Remedies Upon Default. In the event any of the Debtors or the
+Liquidating Trustee defaults in any obligation to make any payment or
+Distribution, or to do or perform or any other act when required pursuant to
+this Plan or the Liquidating Trust Agreement, the aggrieved holder of any
+Allowed Claim or Allowed Interest shall have and retain (i) all rights and
+remedies available to such holder under any applicable non-bankruptcy law, and
+(ii) the right to seek relief with and in the Bankruptcy Court to the full
+extent of the Bankruptcy Court's retained jurisdiction in the Chapter 11 Cases.
+
+                                    ARTICLE 6
+                               EXECUTORY CONTRACTS
+
+      6.1 Assumption, Assignment and Rejection. As of the Effective Date, all
+executory contracts and unexpired leases of each Debtor, including, without
+limitation, those executory contracts identified by the Debtors in the
+Schedules, shall be deemed rejected by such Debtor pursuant to the provisions of
+section 365 of the Bankruptcy Code, except (a) any executory contract or
+unexpired lease that has been or is the subject of a motion to reject, assume,
+or assume and assign Filed pursuant to section 365 of the Bankruptcy Code by any
+of the Debtors before the Effective Date, or (b) any executory contract or
+unexpired lease listed in the Schedule attached hereto as Schedule 6.1. Schedule
+6.1 lists all contracts that will be assumed or assumed and assigned on and as
+of the Effective Date and sets forth, for each contract identified thereon, the
+name and address of the counterparty or counterparties to the contract and the
+dollar amount of any cure payment that the Debtors will pay to such counterparty
+or counterparties on and as of the Effective Date.
+
+      6.2 Cure of Monetary Defaults. At the election of the relevant Debtor, any
+monetary defaults under each executory contract and unexpired lease to be
+assumed under this Plan shall be satisfied pursuant to section 365(b)(1) of the
+Bankruptcy Code, in one of the following ways: (a) by payment of the default
+amount in Cash on the Effective Date; or (b) on such other terms as agreed to by
+the parties to such executory contract or unexpired lease. In the event of a
+dispute regarding (i) the amount of any cure payments, (ii) the ability of the
+Debtor that is a party thereto to provide adequate assurance of future
+performance under the contract or lease to be assumed, or (iii) any other matter
+pertaining to assumption, then the cure payments required by section 365(b)(1)
+of the Bankruptcy Code shall be made following the entry of a Final Order
+resolving the dispute and approving assumption.
+
+      6.3 Rejection Damages Bar Date. If the rejection by any Debtor, pursuant
+to the Plan or otherwise, of an executory contract or unexpired lease results in
+a Claim, then such Claim shall be forever barred and shall not be enforceable
+against such Debtor or the Liquidating Trust or the properties of either of them
+unless a Proof of Claim is filed with the clerk of the Bankruptcy Court and
+served upon counsel to the Debtors and Liquidating Trustee on or before
+
+                                       22
+<PAGE>
+the earlier of (i) thirty (30) days after the date of service of an order of the
+Court authorizing such rejection including the Confirmation Order, or (ii) such
+other period set by the Court. If and when Allowed, any such rejection damages
+Claim for which a Proof is filed pursuant to this Section 6.3 shall be
+classified as a General Unsecured Claim and shall be entitled to the treatment
+afforded such Claims as set forth in Section 4.4.
+
+      6.4 Contracts and Leases Entered Into After the Petition Date. Executory
+contracts and unexpired leases entered into and other obligations incurred after
+the Petition Date by any Debtor shall be performed by the Liquidating Trust, and
+any such executory contracts, unexpired leases and other obligations shall
+survive and remain unaffected by entry of the Confirmation Order.
+
+                                    ARTICLE 7
+                   EFFECT OF THE PLAN ON CLAIMS AND INTERESTS
+
+      7.1 Jurisdiction of Court. Until the Effective Date, the Court shall
+retain jurisdiction over the Debtors and their Estates. Thereafter, jurisdiction
+of the Court shall be limited to the subject matters set forth in Section 11.2
+of this Plan.
+
+      7.2 Binding Effect. Except as otherwise provided in section 1141(d) of the
+Bankruptcy Code, on and after the Confirmation Date, the provisions of this Plan
+shall bind any holder of a Claim against, or Interest in, the Debtors and their
+respective successors and assigns, whether or not the Claim or Interest of such
+holder is impaired under this Plan and whether or not such holder has voted to
+accept this Plan.
+
+      7.3 Term of Existing Injunctions or Stays. Unless otherwise provided
+herein, all injunctions or stays provided for in the Chapter 11 Cases pursuant
+to sections 105 or 362 of the Bankruptcy Code, or otherwise, and in existence on
+the Confirmation Date, shall remain in full force and effect until the later of:
+(1) the Final Claims Resolution Date or (2) the Effective Date.
+
+      7.4 Injunction. Except as otherwise provided herein or in the Confirmation
+Order, the Confirmation Order, when entered, shall constitute an injunction
+operative against all holders of debts of, Claims against, or Interests or other
+rights of an equity security holder that are terminated pursuant to the terms of
+this Plan in each of the Debtors and any holders of Liens on the Assets, which
+arose at any time before the entry of the Petition Date. Pursuant to the
+Confirmation Order, all such holders of debts, Claims, Interests or other rights
+shall be permanently enjoined from taking any of the following actions on
+account of such debts, Claims, Interests or other rights: (i) commencing or
+continuing in any manner any action or other proceeding against the Debtors, the
+Assets, the Liquidating Trust or the Trust Assets; (ii) enforcing, attaching,
+collecting or recovering in any manner any judgment, award, decree or order
+against the Debtors, the Assets, the Liquidating Trust or the Trust Assets;
+(iii) creating, perfecting or enforcing any Lien or encumbrance against the
+Debtors, the Assets, the Liquidating Trust or the Trust Assets; (iv) except to
+the extent any such rights are expressly preserved by section 553 of the
+Bankruptcy Code, asserting a setoff, right of subrogation or recoupment of any
+kind against the Debtors, the Assets, the Liquidating Trust or the Trust Assets;
+and (v) asserting against the Debtors, the Assets, the Liquidating Trust or the
+Trust Assets any other or further debt, Claim, Interest or other right based
+upon any document, instrument, act, omission,
+
+                                       23
+<PAGE>
+transaction, or other activity of any kind or nature that existed or occurred
+before the Petition Date. The injunction provided for herein shall be effective
+against all holders of any debt, Claim, Interest or other right regardless of
+whether such holder has filed a Proof of Claim or Interest in respect thereof,
+whether the Claim or Interest is at any time becomes an Allowed Claim or
+Interest, or whether such holder has voted to accept this Plan.
+
+      7.5 Release of Collateral. Except with respect to the Liens of the Bank
+Group and/or Bank Group Agent, and unless a particular Secured Claim is
+Reinstated or the holder thereof receives the return of its Collateral in
+respect of such Claim under this Plan: (i) each holder of a Secured Claim shall
+on or immediately before the Effective Date (x) turn over and release to the
+Liquidating Trust any and all property that secures or purportedly secures such
+Claim; and (y) execute such documents and instruments as the Debtors or the
+Liquidating Trust requires to evidence such claimant's release of such property;
+and (ii) on the Effective Date, all claims, right, title and interest in such
+property shall revert to the Liquidating Trust, free and clear of all Claims and
+Interests, including (without limitation) Liens, charges, pledges, encumbrances
+and/or security interests of any kind. No Distribution hereunder shall be made
+to or on behalf of any holder of such Claim unless and until such holder
+executes and delivers to the Liquidating Trust such release of Liens. Any such
+holder that fails to execute and deliver such release of Liens within 180 days
+of the Effective Date shall be deemed to have no further Claim and shall not
+participate in any distribution hereunder. Notwithstanding the immediately
+preceding sentence, any holder of a Disputed Claim shall not be required to
+execute and deliver such release of Liens until the time such Claim is Allowed
+or Disallowed.
+
+      7.6 Liquidating Trustee's Rights and Causes of Action. On the Effective
+Date, the Liquidating Trust shall be deemed to have taken an assignment of, and
+shall thereafter retain and have the right to enforce, any and all present or
+future rights, claims or Causes of Action of the Debtors against any Person,
+including, without limitation, any rights of the Debtors that arose after the
+Petition Date. The Liquidating Trust may pursue, abandon, settle or release any
+or all such claims, rights or Causes of Action as it deems appropriate. On and
+after the Effective Date, all Persons other than the Liquidating Trustee will be
+permanently enjoined from commencing or continuing in any manner any action or
+proceeding (whether directly, indirectly, derivatively or otherwise) on account
+of any claim, debt, right or Cause of Action that the Liquidating Trust retains
+sole and exclusive authority to pursue in accordance with the Liquidating Trust
+Agreement.
+
+      7.7 Preservation of Insurance. The provisions of this Plan shall not
+diminish or impair in any manner the enforceability and coverage of any
+insurance policies that may cover Claims against the Debtors or any other Person
+including, without limitation, the D&O Insurance.
+
+                                    ARTICLE 8
+                       ACCEPTANCE OR REJECTION OF THE PLAN
+
+      8.1 Voting Classes. Each holder of an Allowed Claim in Classes 2, 3, and 4
+shall be entitled to vote to accept or reject this Plan.
+
+
+
+                                       24
+<PAGE>
+      8.2 Acceptance by Impaired Classes. An impaired Class of Claims shall be
+deemed to have accepted the Plan if (a) the holders (other than any Person
+designated under section 1126(e) of the Bankruptcy Code) of at least two-thirds
+in dollar amount of the Allowed Claims actually voting in such Class have voted
+to accept the Plan, and (b) the holders (other than any Person designated under
+section 1126(e) of the Bankruptcy Code) of more than one-half in number of the
+Allowed Claims actually voting in such Class have voted to accept the Plan.
+
+      8.3 Presumed Acceptance of Plan. Classes 1 and 2(a) are unimpaired under
+the Plan and, therefore, are conclusively presumed to have accepted the Plan
+pursuant to section 1126(f) of the Bankruptcy Code.
+
+      8.4 Presumed Rejection of Plan. Class 5 is impaired and shall receive no
+distribution of any property under the Plan and, therefore, is conclusively
+presumed to have rejected the Plan pursuant to section 1126(g) of the Bankruptcy
+Code.
+
+      8.5 Non-Consensual Confirmation. Due to the deemed rejection of the Plan
+by Class 5, the Debtors will request the Bankruptcy Court to confirm the Plan as
+to Class 5 in accordance with the provisions of section 1129(b) of the
+Bankruptcy Code. In the event that any impaired Class of Claims shall fail to
+accept the Plan in accordance with section 1129(a)(8) of the Bankruptcy Code,
+the Debtors reserve the right to request that the Court confirm the Plan as to
+such Class in accordance with the provisions of section 1129(b) of the
+Bankruptcy Code.
+
+                                    ARTICLE 9
+                           CONDITIONS TO CONFIRMATION
+                        AND OCCURRENCE OF EFFECTIVE DATE
+
+      9.1 Conditions to Confirmation. This Plan may not be confirmed unless the
+Disclosure Statement Order shall have been entered and shall have become a Final
+Order, and the Confirmation Order shall have been entered and is in form and
+substance reasonably acceptable to the Debtors.
+
+      9.2 Conditions to Occurrence of Effective Date. The Effective Date of this
+Plan may not occur unless (i) the Confirmation Order shall have been entered and
+shall have become a Final Order, (ii) the Liquidating Trust Agreement and the
+Success Fee Agreement, both in form and substance reasonably acceptable to the
+Debtors, the Bank Group and the Liquidating Trustee, shall have been approved by
+the Court pursuant to a Final Order (which may be the Confirmation Order) and
+duly authorized, executed and delivered by the parties thereto, and (iii) all
+Administrative Claims of Professionals requesting compensation or reimbursement
+of expenses pursuant to sections 327, 328, 330, and 331 of the Bankruptcy Code
+for services rendered before the Confirmation Date shall have been paid in
+accordance with the provisions of Section 11.1(b).
+
+      9.3 Effect of Nonoccurrence of the Conditions to Occurrence of Effective
+Date. If each of the conditions to the occurrence of the Effective Date have not
+been satisfied or duly waived, with the consent of the Bank Group, on or before
+the date which is no later than the first Business Day after ninety (90) days
+after the Confirmation Order is entered, or by such later date as is approved by
+the Court after notice and a hearing, then, upon motion by any party in
+interest,
+
+                                       25
+<PAGE>
+the Confirmation Order may be vacated by the Court; provided, however, that,
+notwithstanding the filing of such a motion, the Confirmation Order shall not be
+vacated if each of the conditions to occurrence of the Effective Date is either
+satisfied or duly waived, with the consent of the Bank Group, before the Court
+enters an order granting the relief requested in such motion. If the
+Confirmation Order is vacated pursuant to this Section, this Plan shall be null
+and void in all respects, and nothing contained herein shall (a) constitute a
+waiver or release of any Claims by or against, or Interests in, the Debtors, or
+(b) prejudice in any manner the rights of any of the Debtors or of any other
+party in interest, including, without limitation, the right to seek an extension
+of the exclusivity periods under section 1121(d) of the Bankruptcy Code.
+
+                                   ARTICLE 10
+                   SEVERABILITY OF AND AMENDMENTS TO THE PLAN
+
+      10.1 Severability of Plan. The Debtors reserve the right to alter, amend,
+modify, revoke or withdraw this Plan as it applies to any particular Debtor. The
+Debtors reserve the right to make non-substantive changes in this Plan to the
+extent such changes are necessary to facilitate the withdrawal of a Debtor from
+the Plan. The revocation or withdrawal by a Debtor shall not affect this Plan as
+the plan of reorganization of the other Debtors. If a Debtor revokes or
+withdraws from this Plan (a) nothing contained herein shall be deemed to
+constitute a waiver or release of any Claims by or against such Debtor, or to
+prejudice in any manner the rights of such Debtor or any persons in any further
+proceedings involving such Debtor, and (b) any provisions of any Confirmation
+Order with respect to such Debtor shall be null and void and all such rights of
+or against such Debtor shall exist as though this Plan had not been filed and no
+actions taken to effectuate it. A determination by the Bankruptcy Court that
+this Plan, as it applies to any particular Debtors, is not confirmable pursuant
+to section 1129 of the Bankruptcy Code shall not limit or affect the
+confirmability of the Plan as it applies to any other Debtor, or the Debtors'
+ability to modify the Plan as it applies to any particular Debtor to satisfy the
+confirmation requirements of section 1129 of the Bankruptcy Code. Each provision
+of this Plan shall be considered severable and, if for any reason any provision
+or provisions herein are determined to be invalid and contrary to any existing
+or future law, the balance of this Plan shall be given effect without relation
+to the invalid provision.
+
+      10.2 Amendments.
+
+            (a) Preconfirmation Amendment. The Debtors may, with the consent of
+the Bank Group, modify this Plan at any time prior to the entry of the
+Confirmation Order provided that this Plan, as modified, and the Disclosure
+Statement pertaining thereto meet applicable Bankruptcy Code requirements of
+sections 1125 and 1127.
+
+            (b) Post-confirmation Amendment Not Requiring Resolicitation. After
+the entry of the Confirmation Order, the Debtors may, with the consent of the
+Bank Group, modify this Plan to remedy any defect or omission, to clarify the
+language of any provision, or to reconcile any inconsistencies in the Plan or in
+the Confirmation Order, as may be necessary to carry out the purposes and
+effects of the Plan, provided that (i) the Debtors obtain approval of the
+Bankruptcy Court for such modification, after notice and a hearing, and (ii)
+such modification shall not materially and adversely affect the interests,
+rights, treatment, or Distributions of any Class of Claims or Interests under
+this Plan
+
+
+
+                                       26
+<PAGE>
+            (c) Post-confirmation Amendment Requiring Resolicitation. After the
+Confirmation Date and before the Effective Date of the Plan, the Debtors may
+modify this Plan in a way that materially or adversely affects the interests,
+rights, treatment, or Distributions of a Class of Claims or Interests provided
+that (i) the Plan, as modified, meets applicable Bankruptcy Code requirements,
+(ii) the Debtors obtain Bankruptcy Court approval for such modification, after
+notice and a hearing, (iii) such modification is accepted by at least two-thirds
+in amount, and more than one-half in number, of Allowed Claims or Interests
+voting in each class affected by such modification, and (iv) the Debtors comply
+with section 1125 of the Bankruptcy Code with respect to the Plan as modified.
+
+                                   ARTICLE 11
+                            ADMINISTRATIVE PROVISIONS
+
+      11.1 Administrative Bar Date.
+
+            (a) General Provisions. Except as provided below in Section 11.1(b)
+for Administrative Claims of Professionals requesting compensation or
+reimbursement of expenses, requests for payment of Administrative Claims must be
+Filed no later than 30 days after entry of the Confirmation Order. Holders of
+Administrative Claims who do not timely File such requests as set forth above
+shall be forever barred from asserting such Claims against the Debtors, the
+Liquidating Trust or their respective property.
+
+            (b) Professionals. All Professionals or other entities requesting
+compensation or reimbursement of expenses pursuant to sections 327, 328, 330,
+and 331 of the Bankruptcy Code for services rendered before the Confirmation
+Date shall File an application for final allowance of compensation and
+reimbursement of expenses no later than 45 days after the Confirmation Date.
+Objections to applications of Professionals or other entities for compensation
+or reimbursement of expenses must be Filed no later than 75 days after the
+Confirmation Date. All compensation and reimbursement of expenses allowed by
+order of the Court shall be paid to the applicable Professional immediately
+thereafter.
+
+      11.2 Retention of Jurisdiction. Notwithstanding confirmation of this Plan
+or occurrence of the Effective Date, the Court shall retain jurisdiction for all
+purposes permitted under applicable law, including, without limitation, the
+following purposes:
+
+            (i) the determination of the allowability of Claims upon objection
+to such Claims by Debtors or the Liquidating Trustee, as the case may be, and
+the validity, extent, priority and nonavoidability of consensual and
+nonconsensual Liens and other encumbrances;
+
+            (ii) the determination of any tax liability pursuant to section 505
+of the Bankruptcy Code;
+
+            (iii) the approval, pursuant to section 365 of the Bankruptcy Code,
+of all matters related to the assumption, assumption and assignment, or
+rejection of any executory contract or unexpired lease of any of the Debtors;
+
+
+
+                                       27
+<PAGE>
+            (iv) the determination of requests for payment of administrative
+expenses entitled to priority under section 507(a)(1) of the Bankruptcy Code,
+including the compensation of Professionals under section 330 of the Bankruptcy
+Code;
+
+            (v) the resolution of controversies and disputes regarding the
+interpretation of this Plan;
+
+            (vi) the implementation of the provisions of this Plan and entry of
+orders in aid of confirmation and consummation, including, without limitation,
+appropriate orders to protect the Debtors and their successors from actions by
+creditors and/or holders of HIGI Interests or any of them, and resolving
+disputes and controversies regarding the Assets, the Liquidating Trust, Trust
+Assets, or the powers of the Liquidating Trustee;
+
+            (vii) the modification of the Plan pursuant to section 1127 of the
+Bankruptcy Code;
+
+            (viii) the adjudication of any Causes of Action; and
+
+            (ix) the entry of a Final Order closing the Chapter 11 Cases.
+
+      11.3 Payment of Statutory Fees. The Debtors or the Liquidating Trust, as
+the case may be, shall pay all U.S. Trustee Fees until such time as the Court
+enters a final decree closing each of the Chapter 11 Cases.
+
+      11.4 Effectuating Documents and Further Transactions. Each Debtor shall
+and shall be authorized to execute, deliver, file, or record such documents,
+contracts, instruments, releases, and other agreements and take such other
+action as may be necessary to effectuate and further evidence the terms and
+conditions of the Plan.
+
+      11.5 Limitation of Liability. None of the Debtors, the Bank Group, the
+Bank Group Agent, the holders of Debentures, or any of their respective current
+or former officers, directors, subsidiaries, affiliates, members, managers,
+shareholders, partners, representatives, employees, attorneys, advisors and
+agents, or any of their respective successors and assigns, or any of their
+respective properties, shall have or incur any liability to any holder of a
+Claim against or Interest in any of the Debtors for any act taken or omitted to
+be taken in connection with, relating to, or arising out of (i) the operations,
+administration or liquidation of the Debtors during the Chapter 11 Cases, (ii)
+the administration of the Chapter 11 Cases, (iii) the Disclosure Statement, the
+formulation thereof or any information provided or statement made therein or
+omitted therefrom, (iv) the Plan, or the negotiation, filing, prosecution,
+administration, formulation, implementation, confirmation or consummation of the
+Plan or the property to be distributed thereunder, including all prepetition
+activities in connection therewith, or (v) the formulation, negotiation,
+execution or delivery of any contract, instrument, release or other agreement or
+document created in connection with or related to the Plan, excepting, however,
+any act or omission arising out of the gross negligence or willful misconduct
+(as determined in a Final Order by a court of competent jurisdiction) of any
+Person to whom this Section applies, provided, nevertheless, that any such
+Person shall not be deemed grossly negligent or determined to have engaged in
+willful misconduct if such Person reasonably relied upon the advice of counsel.
+
+
+
+                                       28
+<PAGE>
+      11.6 Releases.
+
+            (a) Release by Debtors. Effective on the Confirmation Date, but
+subject to the occurrence of the Effective Date, and except as otherwise
+provided in the Confirmation Order, for good and valuable consideration,
+including, without limitation, the granting of releases pursuant to Section
+11.6(b) hereof, the adequacy of which is hereby confirmed, the Debtors shall be
+deemed to have forever released, waived and discharged the Bank Group and the
+Bank Group Agent from any and all claims, obligations, rights, causes of action,
+choses in action, demands, suits proceedings and liabilities, whether for fraud,
+tort, contract, violations of applicable securities laws, or otherwise, whether
+known or unknown, foreseen or unforeseen, liquidated or unliquidated, contingent
+or non-contingent, existing or hereafter arising, in law, equity or otherwise
+that are based in whole or in part upon any act, omission, transaction, state of
+facts, circumstances or other occurrence or failure of an event to occur, taking
+place on or prior to the Effective Date and in any way relating to the Debtors,
+the Chapter 11 Cases, or the Plan.
+
+            (b) Release by Holders of Claims and Interests. Effective on the
+Confirmation Date, but subject to the occurrence of the Effective Date, and
+except as otherwise provided in the Confirmation Order, in consideration for the
+obligations of such Persons under the Plan and the property to be delivered in
+connection with the Plan, each holder of a Claim against or Interest in the
+Debtors, shall be deemed to have forever released, waived and discharged each of
+the Debtors or any of their respective successors and assigns, or any of their
+respective properties, from any and all debts, Claims, Interests, obligations,
+rights, causes of action, choses in action, demands, suits, proceedings and
+liabilities, whether for fraud, tort, contract, violations of applicable
+securities laws, or otherwise, whether known or unknown, foreseen or unforeseen,
+liquidated or unliquidated, contingent or non-contingent, existing, or hereafter
+arising, in law, equity or otherwise that are based in whole or in part upon any
+act, omission, transaction, state of facts, circumstances or other occurrence or
+failure of an event to occur, taking place on or prior to the Effective Date and
+in any way relating to the Debtors, the Chapter 11 Cases, or the Plan; provided,
+however, that nothing herein shall constitute a release or be deemed a release
+or compromise of (i) any claims, obligations, rights, causes of action, choses
+in action, demands, suits, proceedings against or liabilities of any Person
+based upon any act or omission arising out of such Person's actual fraud; (ii)
+the rights or Liens granted to the holders of Claims and Interests under the
+Plan, or (iii) the claims or rights of any Person under any validly existing
+insurance policy issued by, or any reinsurance agreement or other contract with,
+any Insurance Company Subsidiary.
+
+      11.7 Reservation of Rights. Except as expressly set forth herein, this
+Plan shall have no force or effect unless the Court shall enter the Confirmation
+Order. Neither the Filing of the Plan, any statement or provision contained in
+the Plan or any schedule, Exhibit or agreement attached to the Plan, nor the
+taking of any action by the Debtors with respect to the Plan shall be or shall
+be deemed to be an admission or waiver of any rights of the Debtors with respect
+to the holders of any Claims or Interests prior to the Effective Date.
+
+      11.8 Successors and Assigns. The rights, benefits, and obligations of any
+Person named or referred to in the Plan shall be binding upon, and shall inure
+to the benefit of, the heir, executor, administrator, successor or assign of
+such Person.
+
+
+
+                                       29
+<PAGE>
+      11.9 Governing Law. Except to the extent the Bankruptcy Code, Bankruptcy
+Rules, or other federal laws apply and except for Reinstated Secured Claims
+governed by another jurisdiction's law, the rights and obligations arising under
+this Plan shall be governed by the laws of the State of Delaware, without giving
+effect to principles of conflicts of law.
+
+                  [REMAINDER OF PAGE INTENTIONALLY LEFT BLANK]
+
+
+
+                                       30
+<PAGE>
+      11.10 Relation to Disclosure Statement, Confirmation Order and Agreements.
+To the extent the Confirmation Order and/or this Plan is inconsistent with the
+Disclosure Statement, this Plan controls the Disclosure Statement, and the
+Confirmation Order (and any other subsequent order of the Court) controls this
+Plan. To the extent any provision of the Liquidating Trust Agreement is found to
+be inconsistent with the provisions of this Plan, the provisions of the
+Liquidating Trust Agreement shall control. Notwithstanding the preceding
+sentence, the Confirmation Order (and any other subsequent order of the Court)
+shall control the Liquidating Trust Agreement.
+
+                                          Respectfully Submitted,
+
+                                          HIGHLANDS INSURANCE GROUP,
+                                          INC., HIGHLANDS HOLDING
+                                          COMPANY, INC., HIGHLANDS CLAIMS
+                                          AND SAFETY SERVICES, INC.,
+                                          HIGHLANDS SERVICES
+                                          CORPORATION, AMERICAN
+                                          RELIANCE, INC. and NORTHWESTERN
+                                          NATIONAL HOLDING COMPANY, INC.,
+
+                                          DEBTORS.
+
+
+                                          By:   /s/ Stephen L. Kibblehouse
+                                               ----------------------------
+                                               Stephen L. Kibblehouse
+                                               Authorized Signatory
+
+                                               Date: January 16, 2003
+
+Prepared by:
+DUANE MORRIS LLP
+Richard W. Riley, Esquire (DE 4052)
+William K. Harrington, Esquire (DE 4051)
+1100 North Market Street, Suite 1200
+Wilmington, Delaware 19801
+Telephone:  (302) 657-4900
+Telefax:  (302) 657-4901
+wkharrington@duanemorris.com
+
+Lawrence J. Kotler, Esquire
+Christopher J. Redd, Esquire
+4200 One Liberty Place
+Philadelphia, PA  19103-7396
+Telephone: (215) 979-1517
+Telecopy: (215) 970-1020
+ljkotler@duanemorris.com
+cjredd@duanemorris.com
+
+
+                                       31
+<PAGE>
+                                  SCHEDULE 1.1
+
+                            SURVIVING DEBTOR ENTITIES
+
+
+Highlands Insurance Group, Inc.
+Highlands Holding Company, Inc.
+Highlands Claims and Safety Services, Inc.
+Highlands Services Corporation
+American Reliance, Inc.
+Northwestern National Holding Company, Inc.
+Underwriter Special Risks, Inc.
+Highlands Holdings (UK) Ltd.
+Highlands Ltd.
+Highlands Overseas Limited
+
+
+                                       1
+<PAGE>
+                                  SCHEDULE 5.15
+
+                             OFFICERS AND DIRECTORS
+
+<TABLE>
+<S>   <C>                                             <C>
+1.    HIGHLANDS INSURANCE GROUP, INC.
+
+      Stephen L. Kibblehouse                          CEO, President, General Counsel, Director
+      Albert J. Marino                                CFO, Treasurer
+      Georgean M. Wardzinski                          Vice President, Secretary
+      Alexandra Rio                                   Assistant Secretary
+
+
+2.    HIGHLANDS HOLDING COMPANY, INC.
+
+      Stephen L. Kibblehouse                          CEO, President, General Counsel, Director
+      Albert J. Marino                                CFO, Treasurer, Director
+      Robert J. Brookes                               Vice President, Secretary, Director
+
+
+3.    HIGHLANDS SERVICES CORPORATION
+
+      Stephen L. Kibblehouse                          CEO, President, General Counsel, Director
+      Albert J. Marino                                CFO, Treasurer
+      Robert J. Brookes                               Vice President
+
+
+4.    HIGHLANDS CLAIMS AND SAFETY SERVICES, INC.
+
+      Stephen L. Kibblehouse                          CEO, President, General Counsel, Director
+      Albert J. Marino                                CFO, Treasurer, Director
+      Robert J. Brookes                               Vice President, Assistant General Counsel, Secretary, Director
+      Georgean M. Wardzinski                          Director
+
+
+5.    AMERICAN RELIANCE, INC.
+
+      Stephen L. Kibblehouse                          CEO, President, General Counsel, Director
+      Albert J. Marino                                CFO, Treasurer, Director
+      Robert J. Brookes                               Vice President, Assistant General Counsel, Secretary, Director
+      David C. Donaldson                              Director
+</TABLE>
+
+
+                                       1
+<PAGE>
+<TABLE>
+<S>   <C>                                             <C>
+6.    NORTHWESTERN NATIONAL HOLDING COMPANY, INC.
+
+      Stephen L. Kibblehouse                          CEO, President, General Counsel, Director
+      Albert J. Marino                                CFO, Treasurer
+      Robert J. Brookes                               Vice President, Secretary, Director
+</TABLE>
+
+
+                                       2
+<PAGE>
+                                  SCHEDULE 6.1
+
+            EXECUTORY CONTRACTS TO BE ASSUMED OR ASSUMED AND ASSIGNED
+
+                     DEBTOR: HIGHLANDS INSURANCE GROUP, INC.
+
+<TABLE>
+<CAPTION>
+                                                                                                  CURE
+      NAME OF CONTRACT           NAME/ADDRESS OF COUNTERPARTY(IES)           ASSIGNEE           PAYMENT
+----------------------------     ---------------------------------    ----------------------    -------
+<S>                              <C>                                  <C>                       <C>
+Records Management and           Iron Mountain Records                Highlands Insurance        $0.00
+ Service Agreement dated         Management, Inc.                     Company
+ as of 2/16/01
+----------------------------     ---------------------------------    ----------------------    -------
+Participation Agreement          Ivans, Inc.                          Highlands Insurance        $0.00
+dated as of 4/13/98                                                   Company
+----------------------------     ---------------------------------    ----------------------    -------
+Reinsurance Agreement            Hartford Steam Boiler Inspection     Highlands Insurance        $0.00
+ effective 1/1/99                and Insurance Company                Company
+----------------------------     ---------------------------------    ----------------------    -------
+Claims Servicing                 Old Lyme Insurance Co., of Rhode     Highlands Insurance        $0.00
+Agreement, effective              Island, Inc.                        Company
+8/1/99
+----------------------------     ---------------------------------    ----------------------    -------
+Trust Agreement dated as         Old Lyme Insurance Co., of Rhode     Highlands Insurance        $0.00
+ of 8/1/99                        Island, Inc.                         Company
+
+                                 The Bank of New York
+                                 Insurance Trust and Escrow Dept.
+----------------------------     ---------------------------------    ----------------------    -------
+Reinsurance Treaty Trust         Old Lyme Insurance Co., of Rhode     Highlands Insurance        $0.00
+Account Agreement, dated         Island, Inc.                         Company
+ as of 8/1/99
+----------------------------     ---------------------------------    ----------------------    -------
+Agreement of                     Old Lyme Insurance Co., of Rhode     Highlands Insurance        $0.00
+Reinsurance, dated as of         Island, Inc.                         Company
+8/1/99 (as amended)
+----------------------------     ---------------------------------    ----------------------    -------
+ISO's Master License             Insurance Services Office, Inc.      Highlands Insurance        $0.00
+Agreement For                                                         Company
+Participating Insurers,
+dated as of June, 1998 (as
+amended)
+----------------------------     ---------------------------------    ----------------------    -------
+ISO Internet Delivery -          Insurance Services Office, Inc.      Highlands Insurance        $0.00
+Circulars, Manuals, Loss                                               Company
+Costs and Forms,
+dated as of June, 1999 (as
+amended)
+----------------------------     ---------------------------------    ----------------------    -------
+</TABLE>
+
+
+                                       1
+<PAGE>
+<TABLE>
+<CAPTION>
+                                                                                                  CURE
+      NAME OF CONTRACT           NAME/ADDRESS OF COUNTERPARTY(IES)           ASSIGNEE           PAYMENT
+----------------------------     ---------------------------------    ----------------------    -------
+<S>                              <C>                                  <C>                       <C>
+Master Software License          DocuCorp International               Highlands Insurance        $0.00
+Agreement, dated as of                                                Company
+5/29/01
+----------------------------     ---------------------------------    ----------------------    -------
+Master Services                  DocuCorp International               Highlands Insurance        $0.00
+Agreement, dated as of                                                Company
+12/31/97
+----------------------------     ---------------------------------    ----------------------    -------
+Product License                  Information Engineering LLP          Highlands Insurance        $0.00
+Agreement, dated as of                                                Company
+1/14/99
+----------------------------     ---------------------------------    ----------------------    -------
+Master Professional              Information Engineering LLP          Highlands Insurance        $0.00
+Services Agreement, dated                                             Company
+as of 1/14/99
+----------------------------     ---------------------------------    ----------------------    -------
+NCCI Affiliation                 National Council on Compensation     Highlands Insurance        $0.00
+Agreement, dated as of                                                Company
+6/1/00
+----------------------------     ---------------------------------    ----------------------    -------
+Glass Claim                      Strategic Claim Services, Inc.       Highlands Insurance        $0.00
+Administration                                                        Company
+Agreement, dated as of
+12/23/98
+----------------------------     ---------------------------------    ----------------------    -------
+Program Administrator            Capital Bonding Corporation          Highlands Insurance        $0.00
+Agreement, dated as of                                                Company and
+12/15/99                                                              Northwestern National
+                                                                      Casualty Company
+----------------------------     ---------------------------------    ----------------------    -------
+Program Administrator            Capital Bonding Corporation          Highlands Insurance        $0.00
+Agreement, dated as of                                                Company and
+9/28/00                                                               Northwestern National
+                                                                      Casualty Company
+----------------------------     ---------------------------------    ----------------------    -------
+Cut-Through / Guarantee          American Healthcare Indemnity        N/A                        $0.00
+Endorsement Agreement,           Company
+dated as of 1/1/00
+----------------------------     ---------------------------------    ----------------------    -------
+Brokerage Service                Guy Carpenter & Company, Inc.        N/A                        $0.00
+Agreement, dated as of
+7/1/00
+----------------------------     ---------------------------------    ----------------------    -------
+Distribution Agreement,          Halliburton Company                  N/A                        $0.00
+dated as of 10/10/95 (as
+amended)
+----------------------------     ---------------------------------    ----------------------    -------
+Investment Agreement,            Halliburton Company                  N/A                        $0.00
+dated as of 10/10/95 (as
+amended)
+----------------------------     ---------------------------------    ----------------------    -------
+Tax Agreement, dated as          Halliburton Company                  N/A                        $0.00
+of 1/12/96
+----------------------------     ---------------------------------    ----------------------    -------
+</TABLE>
+
+
+                                       2
+<PAGE>
+<TABLE>
+<CAPTION>
+                                                                                                  CURE
+      NAME OF CONTRACT           NAME/ADDRESS OF COUNTERPARTY(IES)           ASSIGNEE           PAYMENT
+----------------------------     ---------------------------------    ----------------------    -------
+<S>                              <C>                                  <C>                       <C>
+Halliburton                      Halliburton Company                  N/A                        $0.00
+Indemnification
+Agreement, dated as of
+1/22/96
+----------------------------     ---------------------------------    ----------------------    -------
+Brown & Root                     Brown & Root Corporate Services,     N/A                        $0.00
+Indemnification                  Inc.
+----------------------------     ---------------------------------    ----------------------    -------
+Agreement, dated as of           Brown & Root Holdings, Inc.
+1/22/96                          Halliburton Company
+Lease Agreement, dated as        Redhill Investors LLC                Pacific National           $0.00
+ of 11/24/99 (as amended)                                             Insurance Company
+----------------------------     ---------------------------------    ----------------------    -------
+Agreement dated as of            Hartford Fire Insurance Company      Highlands Insurance        $0.00
+9/30/98                                                               Company
+----------------------------     ---------------------------------    ----------------------    -------
+</TABLE>
+
+
+                         DEBTOR: AMERICAN RELIANCE, INC.
+
+<TABLE>
+<CAPTION>
+                                                                                                  CURE
+      NAME OF CONTRACT           NAME/ADDRESS OF COUNTERPARTY(IES)           ASSIGNEE           PAYMENT
+----------------------------     ---------------------------------    ----------------------    -------
+<S>                              <C>                                  <C>                       <C>
+Master License Agreement         SERENA Software, Inc.                Highlands Insurance        $0.00
+ (on behalf of Highlands                                              Company
+Insurance Group) dated as
+ of 4/30/99
+----------------------------     ---------------------------------    ----------------------    -------
+Master License                   SERENA Software, Inc.                Highlands Insurance        $0.00
+Agreement, dated as of                                                Company
+6/10/99
+----------------------------     ---------------------------------    ----------------------    -------
+Software License                 Cognos Corp.                         Highlands Insurance        $0.00
+Agreement, dated as of                                                Company
+8/31/96
+----------------------------     ---------------------------------    ----------------------    -------
+Letter agreement, dated as       Cognos Corp.                         Highlands Insurance        $0.00
+of 12/23/96                                                           Company
+----------------------------     ---------------------------------    ----------------------    -------
+License Agreement, dated         Policy Management Sys. Corp.         Highlands Insurance        $0.00
+as of 11/8/94                                                         Company
+----------------------------     ---------------------------------    ----------------------    -------
+Master Agreement for             Policy Management Sys. Corp.         Highlands Insurance        $0.00
+Data Processing Services,                                             Company
+dated as of 11/8/94
+----------------------------     ---------------------------------    ----------------------    -------
+</TABLE>
+
+
+                                       3
+<PAGE>
+                    DEBTOR: HIGHLANDS CLAIMS AND SAFETY, INC.
+
+<TABLE>
+<CAPTION>
+                                                                                                  CURE
+      NAME OF CONTRACT           NAME/ADDRESS OF COUNTERPARTY(IES)           ASSIGNEE           PAYMENT
+----------------------------     ---------------------------------    ----------------------    -------
+<S>                              <C>                                  <C>                       <C>
+Claims Handling Service          Sunbelt Insurance Company            N/A                        $0.00
+Agreement
+----------------------------     ---------------------------------    ----------------------    -------
+</TABLE>
+
+
+                                       4
+<PAGE>
+                                    EXHIBIT A
+
+                           LIQUIDATING TRUST AGREEMENT
+
+
+                                       A-1
+<PAGE>
+                                    EXHIBIT B
+
+                              SUCCESS FEE AGREEMENT
+
+
+                                       B-1
+
+</TEXT>
+</DOCUMENT>

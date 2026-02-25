@@ -1,0 +1,3042 @@
+<DOCUMENT>
+<TYPE>EX-10.5
+<SEQUENCE>4
+<FILENAME>a2105030zex-10_5.txt
+<DESCRIPTION>EXHIBIT 10.5
+<TEXT>
+<Page>
+                                                                    EXHIBIT 10.5
+
+                                                                  EXECUTION COPY
+
+
+                            AESOP FUNDING II L.L.C.,
+                                    as Issuer
+
+                          AVIS RENT A CAR SYSTEM, INC.,
+                                as Administrator
+
+                      PARK AVENUE RECEIVABLES CORPORATION,
+                           as a CP Conduit Purchaser,
+
+                              JPMORGAN CHASE BANK,
+                       as a Funding Agent and an APA Bank
+
+                                       and
+
+                              THE BANK OF NEW YORK,
+                       as Trustee and Series 2002-3 Agent
+
+                              ---------------------
+
+                            SERIES 2002-3 SUPPLEMENT
+                         dated as of September 12, 2002
+
+                                       to
+
+                       AMENDED AND RESTATED BASE INDENTURE
+                            dated as of July 30, 1997
+
+                              ---------------------
+
+<Page>
+
+                                TABLE OF CONTENTS
+
+<Table>
+<Caption>
+                                                                                                               Page
+                                                                                                               ----
+<S>                                                                                                              <C>
+ARTICLE I     DEFINITIONS.........................................................................................2
+
+ARTICLE II    PURCHASE AND SALE OF SERIES 2002-3 NOTES; INCREASES AND DECREASES OF SERIES 2002-3 INVESTED
+              AMOUNT.............................................................................................17
+
+     Section 2.1.   Purchase of the Series 2002-3 Notes..........................................................17
+     Section 2.2.   Delivery.....................................................................................18
+     Section 2.3.   Procedure for Initial Issuance and for Increasing the Series 2002-3 Invested
+                    Amount.......................................................................................18
+     Section 2.4.   Sales by CP Conduit Purchaser of Series 2002-3 Notes to APA Bank.............................19
+     Section 2.5.   Procedure for Decreasing the Series 2002-3 Invested Amount; Optional
+                    Termination..................................................................................20
+     Section 2.6.   Increases and Reductions of the Commitment; Extensions of the Commitment.....................20
+     Section 2.7.   Interest; Fees...............................................................................21
+     Section 2.8.   Indemnification by AFC-II....................................................................21
+     Section 2.9.   Funding Agents...............................................................................21
+
+ARTICLE III   SERIES 2002-3 ALLOCATIONS..........................................................................22
+
+     Section 3.1.   Establishment of Series 2002-3 Collection Account, Series 2002-3 Excess
+                    Collection Account and Series 2002-3 Accrued Interest Account................................22
+     Section 3.2.   Allocations with Respect to the Series 2002-3 Notes..........................................22
+     Section 3.3.   Payments to Noteholders......................................................................25
+     Section 3.4.   Payment of Note Interest and Commitment Fee..................................................27
+     Section 3.5.   Payment of Note Principal....................................................................28
+     Section 3.6.   Administrator's Failure to Instruct the Trustee to Make a Deposit or Payment.................29
+     Section 3.7.   Series 2002-3 Reserve Account................................................................29
+     Section 3.8.   Series 2002-3 Distribution Account...........................................................31
+
+ARTICLE IV    AMORTIZATION EVENTS................................................................................32
+
+ARTICLE V     CONDITIONS PRECEDENT...............................................................................33
+
+     Section 5.1.   Conditions Precedent to Effectiveness of Supplement..........................................33
+
+ARTICLE VI    CHANGE IN CIRCUMSTANCES............................................................................36
+
+     Section 6.1.   Increased Costs..............................................................................36
+     Section 6.2.   Taxes........................................................................................37
+     Section 6.3.   Mitigation Obligations.......................................................................39
+     Section 6.4.   Break Funding Payments.......................................................................39
+</Table>
+
+                                       (i)
+<Page>
+
+                                TABLE OF CONTENTS
+                                   (continued)
+
+<Table>
+<Caption>
+                                                                                                               Page
+                                                                                                               ----
+<S>                                                                                                              <C>
+ARTICLE VII   REPRESENTATIONS AND WARRANTIES, COVENANTS..........................................................40
+
+     Section 7.1.   Representations and Warranties of AFC-II and the Administrator...............................40
+     Section 7.2.   Covenants of AFC-II and the Administrator....................................................40
+
+ARTICLE VIII  THE FUNDING AGENT..................................................................................41
+
+     Section 8.1.   Appointment..................................................................................41
+     Section 8.2.   Delegation of Duties.........................................................................41
+     Section 8.3.   Exculpatory Provisions.......................................................................42
+     Section 8.4.   Reliance by the Funding Agent................................................................42
+     Section 8.5.   Notice of Administrator Default or Amortization Event or Potential
+                    Amortization Event...........................................................................42
+     Section 8.6.   Non-Reliance on the Funding Agent, the CP Conduit Purchaser and the APA Bank.................43
+     Section 8.7.   Indemnification..............................................................................43
+
+ARTICLE IX    GENERAL............................................................................................43
+
+     Section 9.1.   Successors and Assigns.......................................................................43
+     Section 9.2.   Securities Law...............................................................................45
+     Section 9.3.   No Bankruptcy Petition.......................................................................45
+     Section 9.4.   Limited Recourse.............................................................................46
+     Section 9.5.   Costs and Expenses...........................................................................47
+     Section 9.6.   Exhibits.....................................................................................47
+     Section 9.7.   Ratification of Base Indenture...............................................................47
+     Section 9.8.   Counterparts.................................................................................47
+     Section 9.9.   Governing Law................................................................................47
+     Section 9.10.  Amendments...................................................................................47
+     Section 9.11.  Discharge of Indenture.......................................................................47
+     Section 9.12.  Capitalization of AFC-II.....................................................................47
+     Section 9.13.  Series 2002-3 Required Non-Program Enhancement Percentage....................................48
+     Section 9.14.  Termination of Supplement....................................................................48
+     Section 9.15.  Collateral Representations and Warranties of AFC-II..........................................48
+     Section 9.16.  No Waiver; Cumulative Remedies...............................................................49
+     Section 9.17.  Waiver of Setoff.............................................................................49
+     Section 9.18.  Notices......................................................................................49
+</Table>
+
+                                      (ii)
+<Page>
+
+                                                                  EXECUTION COPY
+
+          SERIES 2002-3 SUPPLEMENT, dated as of September 12, 2002 (this
+"SUPPLEMENT"), among AESOP FUNDING II L.L.C., a special purpose limited
+liability company established under the laws of Delaware ("AFC-II"), AVIS RENT A
+CAR SYSTEM, INC., a Delaware corporation, as administrator (the
+"ADMINISTRATOR"), PARK AVENUE RECEIVABLES CORPORATION, a Delaware corporation,
+as CP Conduit Purchaser (the "CP CONDUIT PURCHASER"), JPMORGAN CHASE BANK
+("JPMORGAN CHASE"), a New York banking corporation, as a Funding Agent on behalf
+of the CP Conduit Purchaser (the "FUNDING AGENT") and as the APA Bank for the CP
+Conduit Purchaser (the "APA BANK") and THE BANK OF NEW YORK, a New York banking
+corporation, as successor in interest to the corporate trust administration of
+Harris Trust and Savings Bank, as trustee (together with its successors in trust
+thereunder as provided in the Base Indenture referred to below, the "TRUSTEE"),
+THE BANK OF NEW YORK, a New York banking corporation, as agent for the benefit
+of the Series 2002-3 Noteholders (the "SERIES 2002-3 AGENT"), to the Amended and
+Restated Base Indenture, dated as of July 30, 1997, between AFC-II and the
+Trustee (as amended, modified or supplemented from time to time, exclusive of
+Supplements creating a new Series of Notes, the "BASE INDENTURE").
+
+                              PRELIMINARY STATEMENT
+
+          WHEREAS, Sections 2.2 and 12.1 of the Base Indenture provide, among
+other things, that AFC-II and the Trustee may at any time and from time to time
+enter into a supplement to the Base Indenture for the purpose of authorizing the
+issuance of one or more Series of Notes;
+
+          NOW, THEREFORE, the parties hereto agree as follows:
+
+                                   DESIGNATION
+
+          There is hereby created a Series of Notes to be issued pursuant to the
+Base Indenture and this Supplement and such Series of Notes shall be designated
+generally as Floating Rate Rental Car Asset Backed Variable Funding Notes,
+Series 2002-3.
+
+          The proceeds from the sale of the Series 2002-3 Notes shall be
+deposited in the Collection Account and shall be paid to AFC-II and used to make
+Loans under the Loan Agreements to the extent that the Borrowers have requested
+Loans thereunder and Eligible Vehicles are available for acquisition or
+refinancing thereunder on the date hereof. Any such portion of proceeds not so
+used to make Loans shall be deemed to be Principal Collections.
+
+          The Series 2002-3 Notes are a non-Segregated Series of Notes (as more
+fully described in the Base Indenture). Accordingly, all references in this
+Supplement to "all" Series of Notes (and all references in this Supplement to
+terms defined in the Base Indenture that contain references to "all" Series of
+Notes) shall refer to all Series of Notes other than Segregated Series of Notes.
+
+<Page>
+
+                                    ARTICLE I
+
+                                   DEFINITIONS
+
+          (a)    All capitalized terms not otherwise defined herein are defined
+in the Definitions List attached to the Base Indenture as Schedule I thereto.
+All Article, Section or Subsection references herein shall refer to Articles,
+Sections or Subsections of this Supplement, except as otherwise provided herein.
+Unless otherwise stated herein, as the context otherwise requires or if such
+term is otherwise defined in the Base Indenture, each capitalized term used or
+defined herein shall relate only to the Series 2002-3 Notes and not to any other
+Series of Notes issued by AFC-II.
+
+          (b)    The following words and phrases shall have the following
+meanings with respect to the Series 2002-3 Notes and the definitions of such
+terms are applicable to the singular as well as the plural form of such terms
+and to the masculine as well as the feminine and neuter genders of such terms:
+
+          "ACQUIRING APA BANK" is defined in Section 9.1(b).
+
+          "ADMINISTRATOR" is defined in the recitals hereto.
+
+          "AFFECTED PARTY" means the CP Conduit Purchaser and any Program
+Support Provider.
+
+          "AGH" means Avis Group Holdings, Inc., a Delaware corporation.
+
+          "ALTERNATE BASE RATE" means, for any day, a rate per annum equal to
+the greater of (a) the Prime Rate in effect on such day and (b) the Federal
+Funds Effective Rate in effect on such day PLUS 1/2 of 1%. Any change in the
+Alternate Base Rate due to a change in the Prime Rate or the Federal Funds
+Effective Rate shall be effective from and including the effective day of such
+change in the Prime Rate or the Federal Funds Effective Rate, respectively.
+
+          "APA BANK FUNDED AMOUNT" means for any day, the excess, if any, of the
+Series 2002-3 Invested Amount over the CP Conduit Funded Amount for such day.
+
+          "APA BANK" is defined in the recitals hereto.
+
+          "ARTICLE VI COSTS" means any amounts due pursuant to Article VI.
+
+          "ASSET PURCHASE AGREEMENT" means the asset purchase agreement,
+liquidity agreement or other agreement among the CP Conduit Purchaser, the
+Funding Agent and the APA Bank as amended, modified or supplemented from time to
+time.
+
+          "BANK ACCOUNTS" is defined in Section 9.15(f).
+
+          "BOARD" means the Board of Governors of the Federal Reserve System or
+any successor thereto.
+
+                                       -2-
+<Page>
+
+          "BUSINESS DAY" means any day other than (a) a Saturday or a Sunday or
+(b) a day on which banking institutions in New York, New York or in the city in
+which the corporate trust office of the Trustee is located are authorized or
+obligated by law or executive order to close.
+
+          "CENDANT" means Cendant Corporation, a Delaware corporation.
+
+          "CHANGE IN LAW" means (a) any law, rule or regulation or any change
+therein or in the interpretation or application thereof (whether or not having
+the force of law), in each case, adopted, issued or occurring after the Series
+2002-3 Closing Date or (b) any request, guideline or directive (whether or not
+having the force of law) from any government or political subdivision or agency,
+authority, bureau, central bank, commission, department or instrumentality
+thereof, or any court, tribunal, grand jury or arbitrator, in each case, whether
+foreign or domestic (each an "OFFICIAL BODY") charged with the administration,
+interpretation or application thereof, or the compliance with any request or
+directive of any Official Body (whether or not having the force of law) made,
+issued or occurring after the Series 2002-3 Closing Date.
+
+          "CLAIM" is defined in Section 2.8.
+
+          "COMMERCIAL PAPER" means the promissory notes issued by, or for the
+benefit of, the CP Conduit Purchaser in the commercial paper market.
+
+          "COMMITMENT" means the obligation of the APA Bank to purchase a Series
+2002-3 Note on the Series 2002-3 Closing Date and, thereafter, to maintain and,
+subject to certain conditions, increase the Series 2002-3 Invested Amount, in
+each case, in an amount up to the Series 2002-3 Maximum Invested Amount.
+
+          "COMMITMENT AMOUNT" means, with respect to the APA Bank, an amount
+equal to 102% of the Series 2002-3 Maximum Invested Amount.
+
+          "COMMITMENT FEE" is defined in Section 2.7(b).
+
+          "COMMITMENT FEE RATE" means 0.175% per annum.
+
+          "COMMITMENT PERIOD" means the period of time commencing on the Series
+2002-3 Closing Date to, but excluding, the Swing-Line Commitment Termination
+Date.
+
+          "COMPANY INDEMNIFIED PERSON" is defined in Section 2.8.
+
+          "CONDUIT ASSIGNEE" means any commercial paper conduit administered by
+the Funding Agent and designated by the Funding Agent to accept an assignment
+from the CP Conduit Purchaser of the Series 2002-3 Invested Amount or a portion
+thereof pursuant to Section 9.1(b).
+
+          "CP CONDUIT FUNDED AMOUNT" means the portion of the Series 2002-3
+Invested Amount funded through the issuance of Commercial Paper outstanding on
+such day.
+
+          "CP CONDUIT PURCHASER" is defined in the recitals hereto.
+
+                                       -3-
+<Page>
+
+          "DECREASE" is defined in Section 2.5(a).
+
+          "DISCOUNT" means the amount of interest or discount to accrue on or in
+respect of the Commercial Paper issued by the CP Conduit Purchaser to fund the
+CP Conduit Funded Amount or otherwise allocated, in whole or in part, by the
+Funding Agent to fund the purchase or maintenance of the CP Conduit Funded
+Amount (including, without limitation, any interest attributable to the
+commissions of placement agents and dealers in respect of such Commercial Paper
+and any costs associated with funding small or odd-lot amounts, to the extent
+that such commissions or costs are allocated, in whole or in part, to such
+Commercial Paper by the Funding Agent).
+
+          "EFFECTIVE DATE" is defined in Section 5.1.
+
+          "ELIGIBLE ASSIGNEE" means a financial institution having short-term
+debt ratings of at least A-1 from Standard & Poor's and P-1 from Moody's.
+
+          "EXCESS COLLECTIONS" is defined in Section 3.3(c)(i).
+
+          "EXCLUDED TAXES" means, with respect to the CP Conduit Purchaser, the
+APA Bank, the Funding Agent, any Program Support Provider or any other recipient
+of any payment to be made by or on account of any obligation of AFC-II
+hereunder, (a) income or franchise taxes imposed on (or measured by) its net
+income by the United States of America or by any other Governmental Authority,
+in each case, as a result of a present or former connection between the United
+States of America or the jurisdiction of such Governmental Authority imposing
+such tax, as the case may be, and the CP Conduit Purchaser, the APA Bank, the
+Funding Agent, such Program Support Provider or any other such recipient (except
+a connection arising solely from the CP Conduit Purchaser's, the Funding
+Agent's, the APA Bank's, such Program Support Provider's or such recipient's
+having executed, delivered or performed its obligations hereunder, receiving a
+payment hereunder or enforcing the Series 2002-3 Notes) and (b) any branch
+profits tax imposed by the United States of America or any similar tax imposed
+by any other jurisdiction in which AFC-II is located (except any such branch
+profits or similar tax imposed as a result of a connection with the United
+States of America or other jurisdiction as a result of a connection arising
+solely from the CP Conduit Purchaser's, the APA Bank's, the Funding Agent's,
+such Program Support Provider's or such recipient's having executed, delivered
+or performed its obligations hereunder, receiving a payment hereunder or
+enforcing the Series 2002-3 Notes).
+
+          "FEDERAL FUNDS EFFECTIVE RATE" means, for any day, the weighted
+average (rounded upwards, if necessary, to the next 1/100 of 1%) of the rates on
+overnight Federal funds transactions with members of the Federal Reserve System
+arranged by Federal funds brokers, as published on the next succeeding Business
+Day by the Federal Reserve Bank of New York, or, if such rate is not so
+published for any day that is a Business Day, the average (rounded upwards, if
+necessary, to the next 1/100 of 1%) of the quotations for such day of such
+transactions received by the Funding Agent from three Federal funds brokers of
+recognized standing selected by it.
+
+                                       -4-
+<Page>
+
+          "FINANCED VEHICLE CAP AMOUNT" means (i) on any date prior to March 10,
+2003, $125,000,000, (ii) on any date on or after March 10, 2003 and prior to
+September 10, 2003, $75,000,000 and (iii) on any date on or after September 11,
+2003, $0.
+
+          "FUNDING AGENT" is defined in the recitals hereto.
+
+          "INCREASE" is defined in Section 2.3(a).
+
+          "INCREASE AMOUNT" is defined in Section 2.3(a).
+
+          "INCREASE DATE" is defined in Section 2.3(a).
+
+          "INDEMNIFIED TAXES" means Taxes other than Excluded Taxes.
+
+          "JPMORGAN CHASE" is defined in the recitals hereto.
+
+          "MONTHLY FUNDING COSTS" means, with respect to each Series 2002-3
+Interest Period, the sum of:
+
+          (a)    for each day during such Series 2002-3 Interest Period, the
+     aggregate amount of Discount accruing on or otherwise in respect of the
+     Commercial Paper issued by, or for the benefit of, the CP Conduit Purchaser
+     allocated, in whole or in part, by the Funding Agent to fund the purchase
+     or maintenance of the CP Conduit Funded Amount; PLUS
+
+          (b)    for each day during such Series 2002-3 Interest Period, the sum
+     of: the product of (A) the portion of the APA Bank Funded Amount on such
+     day TIMES (B) the Alternate Base Rate, DIVIDED by (C) 365 (or 366, as the
+     case may be); PLUS
+
+          (c)    for each day during such Series 2002-3 Interest Period, the
+     product of (A) the CP Conduit Funded Amount on such day TIMES (B) the
+     Program Fee Rate DIVIDED by (C) 360.
+
+          "MONTHLY TOTAL PRINCIPAL ALLOCATION" means for any Related Month the
+sum of all Series 2002-3 Principal Allocations with respect to such Related
+Month.
+
+          "MOODY'S" means Moody's Investors Service.
+
+          "OPTIONAL TERMINATION DATE" is defined in Section 2.5(b).
+
+          "OPTIONAL TERMINATION NOTICE" is defined in Section 2.5(b).
+
+          "OTHER TAXES" means any and all current or future stamp or documentary
+taxes or other excise or property taxes, charges or similar levies arising from
+any payment made under this Supplement, the Base Indenture, or any Related
+Documents or from the execution, delivery or enforcement of, or otherwise with
+respect to, this Supplement, the Base Indenture or any Related Document.
+
+                                       -5-
+<Page>
+
+          "OUTSTANDING" means, with respect to the Series 2002-3 Notes, the
+Series 2002-3 Invested Amount shall not have been reduced to zero and all
+accrued interest and other amounts owing on the Series 2002-3 Notes and to the
+CP Conduit Purchaser, the Funding Agent and the APA Bank hereunder shall not
+have been paid in full.
+
+          "PARTICIPANTS" is defined in Section 9.1(d).
+
+          "PAST DUE RENT PAYMENT" is defined in Section 3.2(f).
+
+          "PRIME RATE" means the rate of interest per annum publicly announced
+from time to time by JPMorgan Chase as its prime rate in effect at its principal
+office in New York, New York; each change in the Prime Rate shall be effective
+from and including the date such change is publicly announced as being
+effective.
+
+          "PRINCIPAL DEFICIT AMOUNT" means, with respect to any day, the excess,
+if any, of (i) the Series 2002-3 Invested Amount on such day (after giving
+effect to the distribution of the Monthly Total Principal Allocation for the
+Related Month if such day is a Distribution Date) day over (ii) the sum of the
+Series 2002-3 AESOP I Operating Lease Loan Agreement Borrowing Base, the Series
+2002-3 VFN Percentage of the AESOP II Loan Agreement Borrowing Base and the
+Series 2002-3 VFN Percentage of the AESOP I Finance Lease Loan Agreement
+Borrowing Base on such day.
+
+          "PROGRAM FEE RATE" means 0.375%, or such other rate as may be agreed
+from time to time in writing between the Funding Agent and AFC-II.
+
+          "PROGRAM SUPPORT PROVIDER" means the APA Bank and any other or
+additional Person now or hereafter extending credit, or having a commitment to
+extend credit to or for the account of, or to make purchases from, the CP
+Conduit Purchaser or issuing a letter of credit, surety bond or other instrument
+to support any obligations arising under or in connection with the CP Conduit
+Purchaser's securitization program.
+
+          "RECORD DATE" means, with respect to each Distribution Date, the
+immediately preceding Business Day.
+
+          "SCHEDULED COMMITMENT TERMINATION DATE" shall mean September 11, 2003,
+as such date may be extended from time to time by the written agreement of each
+of AFC-II, the CP Conduit Purchaser and the APA Bank.
+
+          "SERIES 1997-1 NOTES" means the Series of Notes designated as the
+Series 1997-1 Notes.
+
+          "SERIES 1998-1 NOTES" means the Series of Notes designated as the
+Series 1998-1 Notes.
+
+          "SERIES 2000-1 NOTES" means the Series of Notes designated as the
+Series 2000-1 Notes.
+
+                                       -6-
+<Page>
+
+          "SERIES 2000-2 NOTES" means the Series of Notes designated as the
+Series 2000-2 Notes.
+
+          "SERIES 2000-3 NOTES" means the Series of Notes designated as the
+Series 2000-3 Notes.
+
+          "SERIES 2000-4 NOTES" means the Series of Notes designated as the
+Series 2000-4 Notes.
+
+          "SERIES 2001-1 NOTES" means the Series of Notes designated as the
+Series 2001-1 Notes.
+
+          "SERIES 2001-2 NOTES" means the Series of Notes designated as the
+Series 2001-2 Notes.
+
+          "SERIES 2002-1 NOTES" means the Series of Notes designated as the
+Series 2002-1 Notes.
+
+          "SERIES 2002-2 EXCESS COLLECTION ACCOUNT" has the meaning specified in
+the Series 2002-2 Supplement.
+
+          "SERIES 2002-2 NOTES" means the Series of Notes designated as the
+Series 2002-2 Notes.
+
+          "SERIES 2002-2 OVERCOLLATERALIZATION AMOUNT" is defined in the Series
+2002-2 Supplement.
+
+          "SERIES 2002-2 SUPPLEMENT" means the Series 2002-2 Supplement to the
+Base Indenture, dated as of the date hereof, among AFC-II, ARAC, as
+Administrator, JPMorgan Chase Bank, as Administrative Agent, certain CP Conduit
+Purchasers named therein, certain Funding Agents named therein, certain APA
+Banks named therein and The Bank of New York as Trustee and Series 2002-2 Agent.
+
+          "SERIES 2002-3 ACCOUNTS" means each of the Series 2002-3 Distribution
+Account, the Series 2002-3 Reserve Account, the Series 2002-3 Collection
+Account, the Series 2002-3 Excess Collection Account and the Series 2002-3
+Accrued Interest Account.
+
+          "SERIES 2002-3 ACCRUED INTEREST ACCOUNT" is defined in Section 3.1(b).
+
+          "SERIES 2002-3 AESOP I OPERATING LEASE LOAN AGREEMENT BORROWING BASE"
+means, as of any date of determination, the product of (a) the Series 2002-3
+AESOP I Operating Lease Vehicle Percentage as of such date and (b) the AESOP I
+Operating Lease Loan Agreement Borrowing Base as of such date.
+
+          "SERIES 2002-3 AESOP I OPERATING LEASE VEHICLE PERCENTAGE" means, as
+of any date of determination, a fraction, expressed as a percentage (which
+percentage shall never exceed 100%), the numerator of which is the Series 2002-3
+Required AESOP I Operating Lease Vehicle
+
+                                       -7-
+<Page>
+
+Amount as of such date and the denominator of which is the sum of the Required
+AESOP I Operating Lease Vehicle Amounts for all Series of Notes as of such date.
+
+          "SERIES 2002-3 AGENT" is defined in the recitals hereto.
+
+          "SERIES 2002-3 AMORTIZATION PERIOD" means the period beginning at the
+earliest to occur of (a) the close of business on the Business Day immediately
+preceding the date on which the Swing-Line Commitment Termination Date shall
+have occurred, (b) the close of business on the Optional Termination Date and
+(c) the close of business on the Business Day immediately preceding the day on
+which an Amortization Event is deemed to have occurred or been declared with
+respect to the Series 2002-3 Notes and ending upon the earlier to occur of (i)
+the date on which the Series 2002-3 Notes are fully paid and (ii) the
+termination of the Indenture.
+
+          "SERIES 2002-3 AVAILABLE RESERVE ACCOUNT AMOUNT" means, as of any date
+of determination, the amount on deposit in the Series 2002-3 Reserve Account
+(after giving effect to any deposits thereto and withdrawals and releases
+therefrom on such date).
+
+          "SERIES 2002-3 CLOSING DATE" means the date hereof.
+
+          "SERIES 2002-3 COLLATERAL" means the Collateral, the Series 2002-3
+Distribution Account Collateral and the Series 2002-3 Reserve Account
+Collateral.
+
+          "SERIES 2002-3 COLLECTION ACCOUNT" is defined in Section 3.1(b).
+
+          "SERIES 2002-3 DEPOSIT DATE" is defined in Section 3.2.
+
+          "SERIES 2002-3 DISTRIBUTION ACCOUNT" is defined in Section 3.8(a).
+
+          "SERIES 2002-3 DISTRIBUTION ACCOUNT COLLATERAL" is defined in Section
+3.8(d) of this Supplement.
+
+          "SERIES 2002-3 ENHANCEMENT" means the Series 2002-3
+Overcollateralization Amount and the Series 2002-3 Reserve Account Amount.
+
+          "SERIES 2002-3 ENHANCEMENT AMOUNT" means, as of any date of
+determination, the sum of (i) the Series 2002-3 Overcollateralization Amount as
+of such date, (ii) the Series 2002-3 Available Reserve Account Amount as of such
+date and (iii) the amount of cash and Permitted Investments on deposit in the
+Series 2002-3 Collection Account (not including amounts allocable to the Series
+2002-3 Accrued Interest Account) and the Series 2002-3 Excess Collection Account
+as of such date.
+
+          "SERIES 2002-3 ENHANCEMENT DEFICIENCY" means, on any date of
+determination, the amount by which the Series 2002-3 Enhancement Amount is less
+than the Series 2002-3 Required Enhancement Amount as of such date.
+
+          "SERIES 2002-3 EXCESS COLLECTION ACCOUNT" is defined in Section
+3.1(b).
+
+                                       -8-
+<Page>
+
+          "SERIES 2002-3 EXPECTED FINAL DISTRIBUTION DATE" means the
+Distribution Date falling in the calendar month after the calendar month in
+which the Series 2002-3 Revolving Period ends.
+
+          "SERIES 2002-3 INITIAL INVESTED AMOUNT" is defined in Section 2.3(a).
+
+          "SERIES 2002-3 INTEREST PERIOD" means a period commencing on and
+including a Distribution Date and ending on and including the day preceding the
+next succeeding Distribution Date; PROVIDED, HOWEVER, that the initial Series
+2002-3 Interest Period shall commence on and include the Series 2002-3 Closing
+Date and end on and include October 20, 2002.
+
+          "SERIES 2002-3 INVESTED AMOUNT" means, on any date of determination,
+the Series 2002-3 Invested Amount on the immediately preceding Business Day PLUS
+the Increase Amount on such date MINUS the amount of principal payments made
+pursuant to Section 3.5(e) on such date; PROVIDED that the Series 2002-3
+Invested Amount on the Swing-Line Initial Funding Date shall be the Series
+2002-3 Initial Invested Amount.
+
+          "SERIES 2002-3 INVESTED PERCENTAGE" means as of any date of
+determination:
+
+          (a)    when used with respect to Principal Collections, the percentage
+     equivalent (which percentage shall never exceed 100%) of a fraction the
+     numerator of which shall be equal to the sum of the Series 2002-3 Invested
+     Amount and the Series 2002-3 Overcollateralization Amount, determined
+     during the Series 2002-3 Revolving Period as of the end of the immediately
+     preceding Business Day, or, during the Series 2002-3 Amortization Period,
+     as of the end of the Series 2002-3 Revolving Period, and the denominator of
+     which shall be the greater as of the end of the immediately preceding
+     Business Day of (I) the Aggregate Asset Amount and (II) the sum of the
+     numerators used to determine (i) invested percentages for allocations with
+     respect to Principal Collections (for all Series of Notes and all classes
+     of such Series of Notes) and (ii) overcollateralization percentages for
+     allocations with respect to Principal Collections (for all Series of Notes
+     that provide for credit enhancement in the form of overcollateralization);
+     and
+
+          (b)    when used with respect to Interest Collections, the percentage
+     equivalent (which percentage shall never exceed 100%) of a fraction the
+     numerator of which shall be the Accrued Amounts with respect to the Series
+     2002-3 Notes on such date of determination, and the denominator of which
+     shall be the aggregate Accrued Amounts with respect to all Series of Notes
+     on such date of determination.
+
+          "SERIES 2002-3 LEASE INTEREST PAYMENT DEFICIT" means on any
+Distribution Date an amount equal to the excess, if any, of (a) the aggregate
+amount of Interest Collections which pursuant to Section 3.2(a), (b) or (c)
+would have been allocated to the Series 2002-3 Accrued Interest Account if all
+payments of Monthly Base Rent required to have been made under the Leases from
+and excluding the preceding Distribution Date to and including such Distribution
+Date were made in full over (b) the aggregate amount of Interest Collections
+which pursuant to Section 3.2(a), (b) or (c) have been allocated to the Series
+2002-3 Accrued Interest Account (excluding any amounts paid into the Series
+2002-3 Accrued Interest Account pursuant to the
+
+                                       -9-
+<Page>
+
+proviso in Sections 3.2(b)(ii) and/or 3.2(c)(ii)) from and excluding the
+preceding Distribution Date to and including such Distribution Date.
+
+          "SERIES 2002-3 LEASE PAYMENT DEFICIT" means either a Series 2002-3
+Lease Interest Payment Deficit or a Series 2002-3 Lease Principal Payment
+Deficit.
+
+          "SERIES 2002-3 LEASE PRINCIPAL PAYMENT DEFICIT" means on any
+Distribution Date an amount equal to the excess, if any, of (a) the aggregate
+amount of Principal Collections which pursuant to Section 3.2(a), (b) or (c)
+would have been allocated to the Series 2002-3 Collection Account if all
+payments required to have been made under the Leases from and excluding the
+preceding Distribution Date to and including such Distribution Date were made in
+full over (b) the aggregate amount of Principal Collections which pursuant to
+Section 3.2(a), (b) or (c) have been allocated to the Series 2002-3 Collection
+Account (without giving effect to any amounts paid into the Series 2002-3
+Accrued Interest Account pursuant to the proviso in Sections 3.2(b)(ii) and/or
+3.2(c)(ii)) from and excluding the preceding Distribution Date to and including
+such Distribution Date.
+
+          "SERIES 2002-3 LIMITED LIQUIDATION EVENT OF DEFAULT" means, so long as
+such event or condition continues, any event or condition of the type specified
+in clauses (a) through (g) of Article IV; PROVIDED, HOWEVER, that any event or
+condition of the type specified in clauses (a) through (g) of Article IV shall
+not constitute a Series 2002-3 Limited Liquidation Event of Default if (i)
+within such thirty (30) day period, such Amortization Event shall have been
+cured, or (ii) the Trustee shall have received the written consent of the Series
+2002-3 Noteholders waiving the occurrence of such Series 2002-3 Limited
+Liquidation Event of Default.
+
+          "SERIES 2002-3 MAXIMUM AGGREGATE SUBARU/HYUNDAI/SUZUKI AMOUNT" means,
+as of any day, with respect to Subaru, Hyundai and Suzuki, in the aggregate, an
+amount equal to 10% of the aggregate Net Book Value of all Vehicles leased under
+the Leases on such day.
+
+          "SERIES 2002-3 MAXIMUM INVESTED AMOUNT" means, as of any day, the
+lesser of (i) $75,000,000 and (ii) the excess of the Series 2002-2 Maximum
+Invested Amount (as defined in the Series 2002-2 Supplement) over the Series
+2002-2 Invested Amount (as defined in the Series 2002-2 Supplement). The Series
+2002-3 Maximum Invested Amount shall be reduced to zero on the Swing-Line
+Commitment Termination Date.
+
+          "SERIES 2002-3 MAXIMUM AMOUNT" means any of the Series 2002-3 Maximum
+Manufacturer Amounts, the Series 2002-3 Maximum Financed Vehicle Amount, the
+Series 2002-3 Maximum Non-Eligible Manufacturer Amount, the Series 2002-3
+Maximum Non-Program Vehicle Amount or the Series 2002-3 Maximum Specified States
+Amount.
+
+          "SERIES 2002-3 MAXIMUM FINANCED VEHICLE AMOUNT" means, as of any day,
+an amount equal to the lesser of (i) 10% of the aggregate Net Book Value of all
+Vehicles leased under the Leases on such day and (ii) the Financed Vehicle Cap
+Amount on such day.
+
+          "SERIES 2002-3 MAXIMUM INDIVIDUAL SUBARU/HYUNDAI/SUZUKI AMOUNT" means,
+as of any day, with respect to Subaru, Hyundai or Suzuki, individually, an
+amount equal to 5% of the aggregate Net Book Value of all Vehicles leased under
+the Leases on such day.
+
+                                      -10-
+<Page>
+
+          "SERIES 2002-3 MAXIMUM MANUFACTURER AMOUNT" means, as of any day, any
+of the Series 2002-3 Maximum Mitsubishi Amount, the Series 2002-3 Maximum Nissan
+Amount, the Series 2002-3 Maximum Individual Subaru/Hyundai/Suzuki Amount or the
+Series 2002-3 Maximum Aggregate Subaru/Hyundai/Suzuki Amount.
+
+          "SERIES 2002-3 MAXIMUM MITSUBISHI AMOUNT" means, as of any day, an
+amount equal to 10% of the aggregate Net Book Value of all Vehicles leased under
+the Leases on such day.
+
+          "SERIES 2002-3 MAXIMUM NISSAN AMOUNT" means, as of any day, an amount
+equal to 5% of the aggregate Net Book Value of all Vehicles leased under the
+Leases on such day.
+
+          "SERIES 2002-3 MAXIMUM NON-ELIGIBLE MANUFACTURER AMOUNT" means, as of
+any day, an amount equal to 3% of the aggregate Net Book Value of all Vehicles
+leased under the Leases on such day.
+
+          "SERIES 2002-3 MAXIMUM NON-PROGRAM VEHICLE AMOUNT" means, as of any
+day, an amount equal to 25% of the aggregate Net Book Value of all Vehicles
+leased under the Leases on such day.
+
+          "SERIES 2002-3 MAXIMUM SPECIFIED STATES AMOUNT" means, as of any day,
+an amount equal to 7.5% of the aggregate Net Book Value of all Vehicles leased
+under the Leases on such day.
+
+          "SERIES 2002-3 MONTHLY INTEREST" means, with respect to any Series
+2002-3 Interest Period, an amount equal to the product of (a) the average daily
+Series 2002-3 Invested Amount during such Series 2002-3 Interest Period, (b) the
+Series 2002-3 Note Rate for such Series 2002-3 Interest Period and (c) the
+number of days in such Series 2002-3 Interest Rate Period divided by 365 (or
+366, as the case may be).
+
+          "SERIES 2002-3 NON-PROGRAM VEHICLE PERCENTAGE" means, as of any date
+of determination, the higher of (a) a fraction, expressed as a percentage, the
+numerator of which is the sum of (i) the Series 2002-3 VFN Percentage of the
+aggregate Net Book Value of all Non-Program Vehicles leased under the Finance
+Lease and (ii) the Series 2002-3 AESOP I Operating Lease Vehicle Percentage of
+the aggregate Net Book Value of all Non-Program Vehicles leased under the AESOP
+I Operating Lease on such date and the denominator of which is the sum of (x)
+the Series 2002-3 VFN Percentage of the aggregate Net Book Value of all Vehicles
+leased under the Finance Lease, (y) the Series 2002-3 AESOP I Operating Lease
+Vehicle Percentage of the aggregate Net Book Value of all Vehicles leased under
+the AESOP I Operating Lease and (z) the Series 2002-3 VFN Percentage of the
+aggregate Net Book Value of all Vehicles leased under the AESOP II Operating
+Lease on such date and (b) a fraction, expressed as a percentage, the numerator
+of which is the aggregate Net Book Value of all Non-Program Vehicles leased
+under the Leases and the denominator of which is the aggregate Net Book Value of
+all Vehicles leased under the Leases.
+
+                                      -11-
+<Page>
+
+          "SERIES 2002-3 NOTE" means any one of the Series 2002-3 Floating Rate
+Rental Car Asset Backed Variable Funding Notes, executed by AFC-II authenticated
+and delivered by or on behalf of the Trustee, substantially in the form of
+EXHIBIT A.
+
+          "SERIES 2002-3 NOTE RATE" means for any Series 2002-3 Interest Period,
+the interest rate equal to the product of (a) the percentage equivalent of a
+fraction, the numerator of which is equal to the sum of the Monthly Funding
+Costs for such Series 2002-3 Interest Period and the denominator of which is
+equal to the average daily Series 2002-3 Invested Amount during such Series
+2002-3 Interest Period and (b) a fraction, the numerator of which is 365 (or
+366, as the case may be) and the denominator of which is the number of days in
+such Series 2002-3 Interest Period; PROVIDED, HOWEVER, that the Series 2002-3
+Note Rate will in no event be higher than the maximum rate permitted by
+applicable law.
+
+          "SERIES 2002-3 NOTEHOLDER" means a Person in whose name a Series
+2002-3 Note is registered in the Note Register.
+
+          "SERIES 2002-3 OVERCOLLATERALIZATION AMOUNT" means, (i) as of any date
+on which no AESOP I Operating Lease Vehicle Deficiency exists, the Series 2002-3
+Required Overcollateralization Amount as of such date and (ii) as of any date on
+which an AESOP I Operating Lease Vehicle Deficiency exists, the excess, if any,
+of (x) the sum of the Series 2002-3 AESOP I Operating Lease Loan Agreement
+Borrowing Base, the Series 2002-3 VFN Percentage of the AESOP II Loan Agreement
+Borrowing Base and the Series 2002-3 VFN Percentage of the Finance Lease Loan
+Agreement Borrowing Base as of such date over (y) the Series 2002-3 Invested
+Amount as of such date.
+
+          "SERIES 2002-3 PAST DUE RENT PAYMENT" is defined in Section 3.2(f).
+
+          "SERIES 2002-3 PERCENTAGE" means, as of any date of determination, a
+fraction, expressed as a percentage, the numerator of which is the Series 2002-3
+Invested Amount as of such date and the denominator of which is the sum of the
+Invested Amount of each Series of Notes outstanding as of such date.
+
+          "SERIES 2002-3 PRINCIPAL ALLOCATION" is defined in Section 3.2(a)(ii).
+
+          "SERIES 2002-3 PROGRAM VEHICLE PERCENTAGE" means, as of any date of
+determination 100% minus the Series 2002-3 Non-Program Vehicle Percentage as of
+such date.
+
+          "SERIES 2002-3 REQUIRED AESOP I OPERATING LEASE VEHICLE AMOUNT" means,
+as of any date of determination, the excess, if any, of (x) the sum of the
+Series 2002-3 Required Overcollateralization Amount and the Series 2002-3
+Invested Amount as of such date over (y) the sum of the Series 2002-3 VFN
+Percentage of the AESOP I Finance Lease Loan Agreement Borrowing Base and the
+Series 2002-3 VFN Percentage of the AESOP II Loan Agreement Borrowing Base as of
+such date.
+
+          "SERIES 2002-3 REQUIRED ENHANCEMENT AMOUNT" means, as of any date of
+determination, the sum of:
+
+                                      -12-
+<Page>
+
+          (i)    the product of the Series 2002-3 Required Enhancement
+     Percentage as of such date and the Series 2002-3 Invested Amount as of such
+     date;
+
+          (ii)   the greater of (x) the Series 2002-3 Percentage of the excess,
+     if any, of the Non-Program Vehicle Amount as of the immediately preceding
+     Business Day over the Series 2002-3 Maximum Non-Program Vehicle Amount as
+     of the immediately preceding Business Day and (y) the excess, if any, of
+     (A) the sum of (1) the Series 2002-3 VFN Percentage of the Net Book Value
+     of all Non-Program Vehicles leased under the AESOP I Finance Lease as of
+     the immediately preceding Business Day and (2) the Series 2002-3 AESOP I
+     Operating Lease Vehicle Percentage of the Net Book Value of all Non-Program
+     Vehicles leased under the AESOP I Operating Lease as of the immediately
+     preceding Business Day over (B) 25% of the sum of (1) the Series 2002-3 VFN
+     Percentage of the Net Book Value of all Vehicles leased under the AESOP I
+     Finance Lease and the AESOP II Operating Lease as of the immediately
+     preceding Business Day and (2) the Series 2002-3 AESOP I Operating Lease
+     Vehicle Percentage of the Net Book Value of all Vehicles leased under the
+     AESOP I Operating Lease as of the immediately preceding Business Day;
+
+          (iii)  the greater of (x) the Series 2002-3 Percentage of the excess,
+     if any, of the aggregate Net Book Value of all Vehicles manufactured by
+     Mitsubishi and leased under the Leases as of the immediately preceding
+     Business Day over the Series 2002-3 Maximum Mitsubishi Amount as of the
+     immediately preceding Business Day and (y) the excess, if any, of (A) the
+     sum of (1) the Series 2002-3 VFN Percentage of the aggregate Net Book Value
+     of all Vehicles manufactured by Mitsubishi and leased under the AESOP I
+     Finance Lease and the AESOP II Operating Lease as of the immediately
+     preceding Business Day and (2) the Series 2002-3 AESOP I Operating Lease
+     Vehicle Percentage of the Net Book Value of all Vehicles manufactured by
+     Mitsubishi and leased under the AESOP I Operating Lease as of the
+     immediately preceding Business Day over (B) 10% of the sum of (1) the
+     Series 2002-3 VFN Percentage of the Net Book Value of all Vehicles leased
+     under the AESOP I Finance Lease and the AESOP II Operating Lease as of the
+     immediately preceding Business Day and (2) the Series 2002-3 AESOP I
+     Operating Lease Vehicle Percentage of the Net Book Value of all Vehicles
+     leased under the AESOP I Operating Lease as of the immediately preceding
+     Business Day;
+
+          (iv)   the greater of (x) the Series 2002-3 Percentage of the excess,
+     if any, of the aggregate Net Book Value of all Vehicles manufactured by
+     Subaru, Hyundai or Suzuki, individually, and leased under the Leases as of
+     the immediately preceding Business Day over the Series 2002-3 Maximum
+     Individual Subaru/Hyundai/Suzuki Amount as of the immediately preceding
+     Business Day and (y) the excess, if any, of (A) the sum of (1) the Series
+     2002-3 VFN Percentage of the aggregate Net Book Value of all Vehicles
+     manufactured by Subaru, Hyundai or Suzuki, individually, and leased under
+     the AESOP II Operating Lease as of the immediately preceding Business Day
+     and (2) the Series 2002-3 AESOP I Operating Lease Vehicle Percentage of the
+     Net Book Value of all Vehicles manufactured by Subaru, Hyundai or Suzuki,
+     individually, and leased under the AESOP I Operating Lease as of the
+     immediately preceding Business Day over (B) 5% of the sum of (1) the Series
+     2002-3 VFN Percentage of the Net Book Value of all Vehicles leased under
+     the AESOP I Finance Lease and the AESOP II Operating Lease as of the
+
+                                      -13-
+<Page>
+
+     immediately preceding Business Day and (2) the Series 2002-3 AESOP I
+     Operating Lease Vehicle Percentage of the Net Book Value of all Vehicles
+     leased under the AESOP I Operating Lease as of the immediately preceding
+     Business Day;
+
+          (v)    the greater of (x) the Series 2002-3 Percentage of the excess,
+     if any, of the aggregate Net Book Value of all Vehicles manufactured by
+     Subaru, Hyundai or Suzuki, in the aggregate, and leased under the Leases as
+     of the immediately preceding Business Day over the Series 2002-3 Maximum
+     Aggregate Subaru/Hyundai/Suzuki Amount as of the immediately preceding
+     Business Day and (y) the excess, if any, of (A) the sum of (1) the Series
+     2002-3 VFN Percentage of the aggregate Net Book Value of all Vehicles
+     manufactured by Subaru, Hyundai or Suzuki, in the aggregate, and leased
+     under the AESOP I Finance Lease and the AESOP II Operating Lease as of the
+     immediately preceding Business Day and (2) the Series 2002-3 AESOP I
+     Operating Lease Vehicle Percentage of the Net Book Value of all Vehicles
+     manufactured by Subaru, Hyundai or Suzuki, in the aggregate, and leased
+     under the AESOP I Operating Lease as of the immediately preceding Business
+     Day over (B) 10% of the sum of (1) the Series 2002-3 VFN Percentage of the
+     Net Book Value of all Vehicles leased under the AESOP I Finance Lease and
+     the AESOP II Operating Lease as of the immediately preceding Business Day
+     and (2) the Series 2002-3 AESOP I Operating Lease Vehicle Percentage of the
+     Net Book Value of all Vehicles leased under the AESOP I Operating Lease as
+     of the immediately preceding Business Day;
+
+          (vi)   the greater of (x) the Series 2002-3 Percentage of the excess,
+     if any, of the Specified States Amount as of the immediately preceding
+     Business Day over the Series 2002-3 Maximum Specified States Amount as of
+     the immediately preceding Business Day and (y) the excess, if any, of (A)
+     the sum of (1) the Series 2002-3 VFN Percentage of the Net Book Value of
+     all Vehicles titled in the States of Ohio, Oklahoma and Nebraska and leased
+     under the AESOP I Finance Lease and the AESOP II Operating Lease as of the
+     immediately preceding Business Day and (2) the Series 2002-3 AESOP I
+     Operating Lease Vehicle Percentage of the Net Book Value of all Vehicles
+     titled in the States of Ohio, Oklahoma and Nebraska and leased under the
+     AESOP I Operating Lease as of the immediately preceding Business Day over
+     (B) 7.5% of the sum of (1) the Series 2002-3 VFN Percentage of the Net Book
+     Value of all Vehicles leased under the AESOP I Finance Lease and the AESOP
+     II Operating Lease as of the immediately preceding Business Day and (2) the
+     Series 2002-3 AESOP I Operating Lease Vehicle Percentage of the Net Book
+     Value of all Vehicles leased under the AESOP I Operating Lease as of the
+     immediately preceding Business Day;
+
+          (vii)  the greater of (x) the Series 2002-3 Percentage of the excess,
+     if any, of the Non-Eligible Manufacturer Amount as of the immediately
+     preceding Business Day over the Series 2002-3 Maximum Non-Eligible
+     Manufacturer Amount as of the immediately preceding Business Day and (y)
+     the excess, if any, of (A) the sum of (1) the Series 2002-3 VFN Percentage
+     of the aggregate Net Book Value of all Vehicles manufactured by
+     Manufacturers other than Eligible Non-Program Manufacturers and leased
+     under the AESOP I Finance Lease as of the immediately preceding Business
+     Day and (2) the Series 2002-3 AESOP I Operating Lease Vehicle Percentage of
+     the Net Book Value of all Vehicles manufactured by Manufacturers other than
+     Eligible Non-Program
+
+                                      -14-
+<Page>
+
+     Manufacturers and leased under the AESOP I Operating Lease as of the
+     immediately preceding Business Day over (B) 3% of the sum of (1) the Series
+     2002-3 VFN Percentage of the Net Book Value of all Vehicles leased under
+     the AESOP I Finance Lease and the AESOP II Operating Lease as of the
+     immediately preceding Business Day and (2) the Series 2002-3 AESOP I
+     Operating Lease Vehicle Percentage of the Net Book Value of all Vehicles
+     leased under the AESOP I Operating Lease as of the immediately preceding
+     Business Day;
+
+          (viii) at any time that the long-term senior unsecured debt rating of
+     Nissan is "BBB-" or above from Standard & Poor's and "Baa3" or above from
+     Moody's, 0 and in all other cases the greater of (x) the Series 2002-3
+     Percentage of the excess, if any, of the aggregate Net Book Value of all
+     Vehicles manufactured by Nissan and leased under the Leases as of the
+     immediately preceding Business Day over the Series 2002-3 Maximum Nissan
+     Amount as of the immediately preceding Business Day and (y) the excess, if
+     any, of (A) the sum of (1) the Series 2002-3 VFN Percentage of the
+     aggregate Net Book Value of all Vehicles manufactured by Nissan and leased
+     under the AESOP I Finance Lease and the AESOP II Operating Lease as of the
+     immediately preceding Business Day and (2) the Series 2002-3 AESOP I
+     Operating Lease Vehicle Percentage of the Net Book Value of all Vehicles
+     manufactured by Nissan and leased under the AESOP I Operating Lease as of
+     the immediately preceding Business Day over (B) 5% of the sum of (1) the
+     Series 2002-3 VFN Percentage of the Net Book Value of all Vehicles leased
+     under the AESOP I Finance Lease and the AESOP II Operating Lease as of the
+     immediately preceding Business Day and (2) the Series 2002-3 AESOP I
+     Operating Lease Vehicle Percentage of the Net Book Value of all Vehicles
+     leased under the AESOP I Operating Lease as of the immediately preceding
+     Business Day; and
+
+          (ix)   the Series 2002-3 VFN Percentage of the excess, if any, of the
+     Financed Vehicle Amount as of the immediately preceding Business Day over
+     the Series 2002-3 Maximum Financed Vehicle Amount as of the immediately
+     preceding Business Day.
+
+          "SERIES 2002-3 REQUIRED ENHANCEMENT PERCENTAGE" means, as of any date
+of determination, the sum of (i) the product of (A) 22.25% times (B) the Series
+2002-3 Program Vehicle Percentage as of the immediately preceding Business Day
+and (ii) the product of (A) the Series 2002-3 Required Non-Program Enhancement
+Percentage as of such date times (B) the Series 2002-3 Non-Program Vehicle
+Percentage as of the immediately preceding Business Day.
+
+          "SERIES 2002-3 REQUIRED NON-PROGRAM ENHANCEMENT PERCENTAGE" means, as
+of any date of determination, the greater of (a) 22.25% and (b) the sum of (i)
+22.25% and (ii) the highest, for any calendar month within the preceding twelve
+calendar months, of the greater of (x) an amount (not less than zero) equal to
+100% minus the Measurement Month Average for the immediately preceding
+Measurement Month and (y) an amount (not less than zero) equal to 100% minus the
+Market Value Average as of the Determination Date within such calendar month
+(excluding the Market Value Average for any Determination Date which has not yet
+occurred).
+
+          "SERIES 2002-3 REQUIRED OVERCOLLATERALIZATION AMOUNT" means, as of any
+date of determination, the excess, if any, of the Series 2002-3 Required
+Enhancement Amount over the
+
+                                      -15-
+<Page>
+
+sum of (i) the Series 2002-3 Available Reserve Account Amount on such date and
+(ii) the amount of cash and Permitted Investments on deposit in the Series
+2002-3 Collection Account (not including amounts allocable to the Series 2002-3
+Accrued Interest Account) and the Series 2002-3 Excess Collection Account on
+such date.
+
+          "SERIES 2002-3 REQUIRED RESERVE ACCOUNT AMOUNT" means, with respect to
+any Distribution Date, an amount equal to the greater of (a) 3.5% of the Series
+2002-3 Invested Amount on such Distribution Date (after giving effect to any
+payments of principal to be made on the Series 2002-3 Notes on such Distribution
+Date) and (b) the excess, if any, of the Series 2002-3 Required Enhancement
+Amount over the Series 2002-3 Enhancement Amount (excluding therefrom the Series
+2002-3 Available Reserve Account Amount and calculated after giving effect to
+any payments of principal to be made on the Series 2002-3 Notes) on such
+Distribution Date.
+
+          "SERIES 2002-3 RESERVE ACCOUNT" is defined in Section 3.7(a).
+
+          "SERIES 2002-3 RESERVE ACCOUNT COLLATERAL" is defined in Section
+3.7(d).
+
+          "SERIES 2002-3 RESERVE ACCOUNT SURPLUS" means, with respect to any
+Distribution Date, the excess, if any, of the Series 2002-3 Available Reserve
+Account Amount over the Series 2002-3 Required Reserve Account Amount on such
+Distribution Date.
+
+          "SERIES 2002-3 REVOLVING PERIOD" means the period from and including,
+the Series 2002-3 Closing Date to the commencement of the Series 2002-3
+Amortization Period.
+
+          "SERIES 2002-3 SHORTFALL" is defined in Section 3.3(d).
+
+          "SERIES 2002-3 SPECIAL VFN COLLECTION ALLOCATION PERCENTAGE" means as
+of any date of determination: (a) when used with respect to Principal
+Collections, the Series 2002-3 VFN Percentage as of the end of the Series 2002-3
+Revolving Period and (b) when used with respect to Interest Collections, the
+percentage equivalent of a fraction the numerator of which shall be Accrued
+Amounts with respect to the Series 2002-3 Notes on such date of determination
+and the denominator of which shall be the aggregate Accrued Amounts with respect
+to the Series 2002-2 Notes and the Series 2002-3 Notes on such date of
+determination.
+
+          "SERIES 2002-3 TERMINATION DATE" means the Distribution Date falling
+in the thirteenth calendar month after the calendar month in which the Series
+2002-3 Revolving Period ends.
+
+          "SERIES 2002-3 VFN PERCENTAGE" means, as of any date, the percentage
+equivalent of a fraction the numerator of which is the sum of the Series 2002-3
+Invested Amount and the Series 2002-3 Overcollateralization Amount as of such
+date and the denominator of which is the sum of the Series 2002-2 Invested
+Amount, the Series 2002-2 Overcollateralization Amount, the Series 2002-3
+Invested Amount and the Series 2002-3 Overcollateralization Amount.
+
+          "STANDARD & POOR'S" means Standard & Poor's Ratings Services, a
+division of The McGraw-Hill Companies, Inc.
+
+                                      -16-
+<Page>
+
+          "SUPPLEMENT" is defined in the recitals hereto.
+
+          "SWING-LINE COMMITMENT TERMINATION DATE" means the earliest to occur
+of (i) the Scheduled Commitment Termination Date, (ii) the commencement of the
+Series 2002-2 Amortization Period under the Series 2002-2 Supplement and (iii)
+the date on which an Amortization Event shall have been declared or shall have
+automatically occurred.
+
+          "SWING-LINE INITIAL FUNDING DATE" is defined in Section 2.3(a).
+
+          "SWING-LINE PURCHASER" means, collectively, the CP Conduit Purchaser
+and the APA Bank.
+
+          "TAXES" means any and all present or future taxes, levies, imposts,
+duties, deductions, charges or withholdings imposed by any Governmental
+Authority.
+
+          "TRANSFER SUPPLEMENT" is defined in Section 9.1(c).
+
+          "TRANSFEREE" is defined in Section 9.1(e).
+
+          "TRUSTEE" is defined in the recitals hereto.
+
+                                   ARTICLE II
+
+                    PURCHASE AND SALE OF SERIES 2002-3 NOTES;
+            INCREASES AND DECREASES OF SERIES 2002-3 INVESTED AMOUNT
+
+          Section 2.1. PURCHASE OF THE SERIES 2002-3 NOTES. (a) INITIAL
+PURCHASE. Subject to the terms and conditions of this Supplement, including
+delivery of notice in accordance with Section 2.3, (i) the CP Conduit Purchaser
+may, in its sole discretion, purchase a Series 2002-3 Note in an amount equal to
+the Series 2002-3 Initial Invested Amount on any Business Day during the period
+from the Effective Date to and including the Swing-Line Commitment Termination
+Date, and if the CP Conduit Purchaser shall have notified the Funding Agent that
+it has elected not to fund a Series 2002-3 Note in an amount equal to the Series
+2002-3 Initial Invested Amount on the Swing-Line Initial Funding Date, the APA
+Bank shall fund on the Swing-Line Initial Funding Date that portion of such
+Series 2002-3 Note not to be funded by the CP Conduit Purchaser and (ii)
+thereafter, (A) if the CP Conduit Purchaser shall have purchased a Series 2002-3
+Note on the Series 2002-3 Closing Date, the CP Conduit Purchaser may, in its
+sole discretion, maintain its Series 2002-3 Note, subject to increase or
+decrease during the Commitment Period in accordance with the provisions of this
+Supplement and (B) the APA Bank shall maintain the Series 2002-3 Note, subject
+to increase or decrease during the Commitment Period in accordance with the
+provisions of this Supplement. Payments by the CP Conduit Purchaser and/or the
+APA Bank shall be made in immediately available funds on the Swing-Line Initial
+Funding Date to the Funding Agent for remittance to the Trustee for deposit into
+the Series 2002-3 Collection Account.
+
+          (b)    SERIES 2002-3 MAXIMUM INVESTED AMOUNTS. Notwithstanding
+anything to the contrary contained in this Supplement, at no time shall the
+Series 2002-3 Invested Amount exceed the Series 2002-3 Maximum Invested Amount.
+
+                                      -17-
+<Page>
+
+          (c) FORM OF SERIES 2002-3 NOTES. A Series 2002-3 Note shall be issued
+in fully registered form without interest coupons, substantially in the form set
+forth in EXHIBIT A hereto.
+
+          Section 2.2. DELIVERY. (a) On the Series 2002-3 Closing Date, AFC-II
+shall sign and shall direct the Trustee in writing pursuant to Section 2.2 of
+the Base Indenture to duly authenticate, and the Trustee, upon receiving such
+direction, shall so authenticate a Series 2002-3 Note in the name of the Funding
+Agent in an amount equal to the Series 2002-3 Maximum Invested Amount and
+deliver such Series 2002-3 Note to the Funding Agent.
+
+          (b)    The Funding Agent shall maintain a record of the actual Series
+2002-3 Invested Amount outstanding on any date of determination, which, absent
+manifest error, shall constitute PRIMA FACIE evidence of the outstanding Series
+2002-3 Invested Amount.
+
+          Section 2.3. PROCEDURE FOR INITIAL ISSUANCE AND FOR INCREASING THE
+SERIES 2002-3 INVESTED AMOUNT. (a) Subject to Section 2.3(c), (i) on the first
+Business Day (the "SWING-LINE INITIAL FUNDING DATE") during the Commitment
+Period on which the Funding Agent receives a written notice from AFC-II as
+described below, the CP Conduit Purchaser may agree, in its sole discretion, to
+fund, and the APA Bank shall fund, a Series 2002-3 Note issued in accordance
+with Section 2.1 and (ii) on any Business Day during the Commitment Period, the
+CP Conduit Purchaser may agree, in its sole discretion, and the APA Bank hereby
+agrees that the Series 2002-3 Invested Amount may be increased by an amount
+equal to the Increase Amount (an "INCREASE"), upon the request of AFC-II (each
+date on which an increase in the Series 2002-3 Invested Amount occurs hereunder
+being herein referred to as the "INCREASE DATE" applicable to such Increase);
+PROVIDED, HOWEVER, that AFC-II shall have given the Funding Agent (with a copy
+to the Trustee) irrevocable written notice (effective upon receipt), by telecopy
+(receipt confirmed), substantially in the form of EXHIBIT B hereto, of such
+request no later than 11:00 a.m. (New York City time) on the Swing-Line Initial
+Funding Date or such Increase Date, as the case may be. Such notice shall state
+(x) the Swing-Line Initial Funding Date or the Increase Date, as the case may
+be, and (y) the initial invested amount (the "SERIES 2002-3 INITIAL INVESTED
+AMOUNT") or the proposed amount of the Increase in the Series 2002-3 Invested
+Amount (an "INCREASE AMOUNT"), as the case may be.
+
+          (b)    If the CP Conduit Purchaser elects not to fund the full amount
+of the Series 2002-3 Initial Invested Amount or a requested Increase, the CP
+Conduit Purchaser shall notify the Funding Agent, and the APA Bank shall fund
+the portion of the Series 2002-3 Initial Invested Amount or such Increase, as
+the case may be, not funded by the CP Conduit Purchaser.
+
+          (c)    The Swing-Line Purchaser shall not be required to fund the
+initial purchase of a Series 2002-3 Note on the Swing-Line Initial Funding Date
+or to increase the Series 2002-3 Invested Amount on any Increase Date hereunder
+unless:
+
+          (i)    such Series 2002-3 Initial Invested Amount or such Increase
+     Amount is equal to (A) $1,000,000 or an integral multiple of $100,000 in
+     excess thereof or (B) if less, the excess of the Series 2002-3 Maximum
+     Invested Amount over the Series 2002-3 Invested Amount;
+
+                                      -18-
+<Page>
+
+          (ii)   after giving effect to the Series 2002-3 Initial Invested
+     Amount or such Increase Amount, the Series 2002-3 Invested Amount would not
+     exceed the Series 2002-3 Maximum Invested Amount;
+
+          (iii)  after giving effect to the Series 2002-3 Initial Invested
+     Amount or such Increase Amount, no AESOP I Operating Lease Vehicle
+     Deficiency would occur and be continuing;
+
+          (iv)   no Amortization Event or Potential Amortization Event would
+     occur and be continuing prior to or after giving effect to such Series
+     2002-3 Initial Invested Amount or such Increase;
+
+          (v)    all conditions precedent to an increase in the Series 2002-2
+     Invested Amount in an amount equal to the Series 2002-3 Initial Invested
+     Amount or such Increase Amount under Section 2.3(c) of the Series 2002-2
+     Supplement (other than the conditions set forth in Section 2.3(c)(i)
+     thereof) would be satisfied;
+
+          (vi)   all of the representations and warranties made by each of
+     AFC-II, the Lessees, the Lessors and the Administrator in the Base
+     Indenture, this Supplement and the Related Documents to which each is a
+     party are true and correct in all material respects on and as of the
+     Swing-Line Initial Funding Date or such Increase Date, as the case may be,
+     as if made on and as of such date (except to the extent such
+     representations and warranties are expressly made as of another date); and
+
+          (vii)  all conditions precedent to the making of any Loan under the
+     applicable Loan Agreements would be satisfied.
+
+AFC-II's acceptance of funds in connection with (x) the initial purchase of
+Series 2002-3 Notes on the Swing-Line Initial Funding Date and (y) each Increase
+occurring on any Increase Date shall constitute a representation and warranty by
+AFC-II to the Swing-Line Purchaser as of the Swing-Line Initial Funding Date or
+such Increase Date (except to the extent such representations and warranties are
+expressly made as of another date), as the case may be, that all of the
+conditions contained in this Section 2.3(c) have been satisfied.
+
+          (d)    Upon receipt of any notice required by Section 2.3(a) from
+AFC-II, the Funding Agent shall, so long as the conditions set forth in Sections
+2.3(a) and (c) are satisfied, promptly provide telephonic notice to the CP
+Conduit Purchaser and the APA Bank, of the Increase Date and the Increase
+Amount. If the CP Conduit Purchaser elects to fund all or a portion of the
+Increase Amount, the CP Conduit Purchaser shall pay in immediately available
+funds the amount of such Increase on the related Increase Date to the Funding
+Agent for deposit into the Series 2002-3 Collection Account. If the CP Conduit
+Purchaser does not fund the full Increase Amount and the APA Bank is required to
+fund the portion thereof not funded by the CP Conduit Purchaser, the APA Bank
+shall pay in immediately available funds such portion to the Series 2002-3
+Collection Account.
+
+          Section 2.4. SALES BY CP CONDUIT PURCHASER OF SERIES 2002-3 NOTES TO
+APA BANK. Notwithstanding any limitation to the contrary contained herein, the
+CP Conduit Purchaser may, in its own discretion, at any time, sell or assign all
+or any portion of its interest in
+
+                                      -19-
+<Page>
+
+its Series 2002-3 Note to any Conduit Assignee or to the APA Bank pursuant to,
+and subject to the terms and conditions of, the Asset Purchase Agreement.
+
+          Section 2.5. PROCEDURE FOR DECREASING THE SERIES 2002-3 INVESTED
+AMOUNT; OPTIONAL TERMINATION. (a) Prior to 11:00 a.m. (New York City time) on
+each Business Day prior to the occurrence of an Amortization Event, AFC-II or
+the Administrator on behalf of AFC-II, shall provide irrevocable written notice
+(effective upon receipt) in the form of Exhibit B to the Funding Agent (with a
+copy to the Trustee) of the reduction, if any, in the Series 2002-3 Invested
+Amount (such reduction, a "DECREASE") to be effected on such Business Day by the
+Trustee's withdrawing from the Series 2002-3 Excess Collection Account,
+depositing into the Series 2002-3 Distribution Account and distributing to the
+Funding Agent funds on deposit in the Series 2002-3 Excess Collection Account on
+such day in accordance with Section 3.5(b) in an amount not to exceed the amount
+of such funds on deposit on such day. Upon each Decrease, the Funding Agent
+shall indicate in its records such Decrease and the Series 2002-3 Invested
+Amount outstanding after giving effect to such Decrease.
+
+          (b)    On any Business Day, AFC-II shall have the right to deliver an
+irrevocable written notice (an "OPTIONAL TERMINATION NOTICE") to the Funding
+Agent in which AFC-II declares that the Commitment shall terminate on the date
+(the "OPTIONAL TERMINATION DATE") set forth in such notice (which date, in any
+event, shall be a Distribution Date not less than three Business Days from the
+date on which such notice is delivered).
+
+          (c)    From and after the Optional Termination Date, the Series 2002-3
+Amortization Period shall commence for all purposes under this Supplement, the
+Base Indenture and the Related Documents.
+
+          Section 2.6. INCREASES AND REDUCTIONS OF THE COMMITMENT; EXTENSIONS OF
+THE COMMITMENT. (a) AFC-II may from time to time request that the Swing-Line
+Purchaser agree to increase the Series 2002-3 Maximum Invested Amount. An
+increase in the Series 2002-3 Maximum Invested Amount shall be effective
+hereunder if (i) the CP Conduit Purchaser shall have agreed in writing in its
+sole discretion to such increase and (ii) the APA Bank shall have agreed in
+writing in its sole discretion to increase the Commitment Amount by an amount
+equal to 102% of the increase in the Series 2002-3 Maximum Invested Amount.
+
+          (b)    If AFC-II desires to extend the Scheduled Commitment
+Termination Date, AFC-II shall notify the Funding Agent at least 60 days (or
+such shorter period agreed to by the Funding Agent) prior to such Scheduled
+Commitment Termination Date of its desire to extend the Scheduled Commitment
+Termination Date. The decision to extend or not extend shall be made by each of
+the CP Conduit Purchaser and the APA Bank in its sole discretion.
+
+          (c)    On any Business Day during the Series 2002-3 Revolving Period,
+AFC-II may, upon two (2) Business Days' prior written notice to the Funding
+Agent (effective upon receipt) reduce the Series 2002-3 Maximum Invested Amount
+in an amount equal to $1,000,000 or a whole multiple of $100,000 in excess
+thereof; PROVIDED that no such termination or reduction shall be permitted if,
+after giving effect thereto, the Series 2002-3 Invested Amount would exceed the
+Series 2002-3 Maximum Invested Amount then in effect.
+
+                                      -20-
+<Page>
+
+          Section 2.7. INTEREST; FEES. (a) Interest shall be payable on the
+Series 2002-3 Note on each Distribution Date pursuant to Section 3.3.
+
+          (b)    AFC-II shall pay with funds available pursuant to Section
+3.3(a) to the Funding Agent for the account of the Swing-Line Purchaser, on each
+Distribution Date, a commitment fee with respect to the Series 2002-3 Interest
+Period ending on the day preceding such Distribution Date (the "COMMITMENT FEE")
+during the Commitment Period at the Commitment Fee Rate of the average daily
+Commitment Amount during such Series 2002-3 Interest Period less the average
+daily Series 2002-3 Invested Amount during such Series 2002-3 Interest Period.
+The Commitment Fee shall be payable monthly in arrears on each Distribution
+Date.
+
+          (c)    Calculations of per annum rates under this Supplement shall be
+made on the basis of a 365-/366-day year. Calculations of the Commitment Fee
+shall be made on the basis of a 360-day year.
+
+          Section 2.8. INDEMNIFICATION BY AFC-II. AFC-II agrees to indemnify and
+hold harmless the Trustee, the CP Conduit Purchaser, the Funding Agent and the
+APA Bank and each of their respective officers, directors, agents and employees
+(each, a "COMPANY INDEMNIFIED PERSON") from and against any loss, liability,
+expense, damage or injury suffered or sustained by (a "CLAIM") such Company
+indemnified person by reason of (i) any acts, omissions or alleged acts or
+omissions arising out of, or relating to, activities of AFC-II pursuant to the
+Indenture or the other Related Documents to which it is a party, (ii) a breach
+of any representation or warranty made or deemed made by AFC-II (or any of its
+officers) in the Indenture or other Related Document or (iii) a failure by
+AFC-II to comply with any applicable law or regulation or to perform its
+covenants, agreements, duties or obligations required to be performed or
+observed by it in accordance with the provisions of the Indenture or the other
+Related Documents, including, but not limited to, any judgment, award,
+settlement, reasonable attorneys' fees and other reasonable costs or expenses
+incurred in connection with the defense of any actual or threatened action,
+proceeding or claim, except to the extent such loss, liability, expense, damage
+or injury resulted from the gross negligence, bad faith or wilful misconduct of
+such Company indemnified person or its officers, directors, agents, principals,
+employees or employers or includes any Excluded Taxes; PROVIDED that any
+payments made by AFC-II pursuant to this Section 2.8 shall be made solely from
+funds available pursuant to Section 3.3(c), shall be non-recourse other than
+with respect to such funds, and shall not constitute a claim against AFC-II to
+the extent that such funds are insufficient to make such payment.
+
+          Section 2.9. FUNDING AGENTS. (a) The Funding Agent is hereby
+authorized to record on each Business Day the CP Funded Amount and the aggregate
+amount of Discount accruing with respect thereto on such Business Day and the
+APA Bank Funded Amount and the amount of interest accruing with respect thereto
+on such Business Day and, based on such recordations, to determine the Monthly
+Funding Costs with respect to each Series 2002-3 Interest Period. Any such
+recordation by the Funding Agent, absent manifest error, shall constitute prima
+facie evidence of the accuracy of the information so recorded.
+
+          (b)    Upon receipt of funds from the Paying Agent on each
+Distribution Date and the date of any Decrease, the Funding Agent shall pay such
+funds to the CP Conduit
+
+                                      -21-
+<Page>
+
+Purchaser and/or the APA Bank owed such funds in accordance with the
+recordations maintained by it in accordance with Section 2.9(a) and the Asset
+Purchase Agreement. If the Funding Agent shall have paid to the CP Conduit
+Purchaser or the APA Bank any funds that (i) must be returned for any reason
+(including bankruptcy) or (ii) exceeds that which the CP Conduit Purchaser or
+the APA Bank was entitled to receive, such amount shall be promptly repaid to
+the Funding Agent by the CP Conduit Purchaser or the APA Bank.
+
+                                   ARTICLE III
+
+                            SERIES 2002-3 ALLOCATIONS
+
+          With respect to the Series 2002-3 Notes, the following shall apply:
+
+          Section 3.1. ESTABLISHMENT OF SERIES 2002-3 COLLECTION ACCOUNT, SERIES
+2002-3 EXCESS COLLECTION ACCOUNT AND SERIES 2002-3 ACCRUED INTEREST ACCOUNT. (a)
+All Collections allocable to the Series 2002-3 Notes shall be allocated to the
+Collection Account.
+
+          (b)    The Trustee will create three administrative subaccounts within
+the Collection Account for the benefit of the Series 2002-3 Noteholders: the
+Series 2002-3 Collection Account (such sub-account, the "SERIES 2002-3
+COLLECTION ACCOUNT"), the Series 2002-3 Excess Collection Account (such
+sub-account, the "SERIES 2002-3 EXCESS COLLECTION ACCOUNT") and the Series
+2002-3 Accrued Interest Account (such sub-account, the "SERIES 2002-3 ACCRUED
+INTEREST ACCOUNT").
+
+          Section 3.2. ALLOCATIONS WITH RESPECT TO THE SERIES 2002-3 NOTES. The
+net proceeds from the initial sale of the Series 2002-3 Notes and any Increase
+shall be deposited into the Collection Account. On each Business Day on which
+Collections are deposited into the Collection Account (each such date, a "SERIES
+2002-3 DEPOSIT DATE"), the Administrator will direct the Trustee in writing
+pursuant to the Administration Agreement to allocate all amounts deposited into
+the Collection Account in accordance with the provisions of this Section 3.2:
+
+          (a)    ALLOCATIONS OF COLLECTIONS DURING THE SERIES 2002-3 REVOLVING
+     PERIOD. During the Series 2002-3 Revolving Period, the Administrator will
+     direct the Trustee in writing pursuant to the Administration Agreement to
+     allocate on each day, prior to 11:00 a.m. (New York City time) on each
+     Series 2002-3 Deposit Date, all amounts deposited into the Collection
+     Account as set forth below:
+
+                 (i)    allocate to the Series 2002-3 Collection Account an
+          amount equal to the Series 2002-3 Invested Percentage (as of such day)
+          of the aggregate amount of the Interest Collections on such day. All
+          such amounts allocated to the Series 2002-3 Collection Account shall
+          be further allocated to the Series 2002-3 Accrued Interest Account;
+          and
+
+                 (ii)   allocate to the Series 2002-3 Excess Collection Account
+          the sum of (A) the Series 2002-3 Invested Percentage (as of such day)
+          of the aggregate amount of Principal Collections on such day (for any
+          such day, the "SERIES 2002-3 PRINCIPAL ALLOCATION") and (B) the
+          proceeds from the initial issuance of the Series 2002-3 Notes and from
+          any Increase.
+
+                                      -22-
+<Page>
+
+          (b)    ALLOCATIONS OF COLLECTIONS DURING THE SERIES 2002-3
+     AMORTIZATION PERIOD. With respect to the Series 2002-3 Amortization Period,
+     other than after the occurrence of an Event of Bankruptcy with respect to
+     ARAC, any other Lessee or AGH, the Administrator will direct the Trustee in
+     writing pursuant to the Administration Agreement to allocate, prior to
+     11:00 a.m. (New York City time) on any Series 2002-3 Deposit Date, all
+     amounts deposited into the Collection Account as set forth below:
+
+                 (i)    allocate to the Series 2002-3 Collection Account an
+          amount determined as set forth in Section 3.2(a)(i) above for such
+          day, which amount shall be further allocated to the Series 2002-3
+          Accrued Interest Account; and
+
+                 (ii)   allocate to the Series 2002-3 Collection Account an
+          amount equal to the Series 2002-3 Principal Allocation for such day,
+          which amount shall be used to make principal payments in respect of
+          the Series 2002-3 Notes, ratably, without preference or priority of
+          any kind, until the Series 2002-3 Invested Amount is paid in full;
+          PROVIDED that if on any Determination Date (A) the Administrator
+          determines that the amount anticipated to be available from Interest
+          Collections allocable to the Series 2002-3 Notes and other amounts
+          available pursuant to Section 3.3 to pay Series 2002-3 Monthly
+          Interest and the Commitment Fee on the next succeeding Distribution
+          Date will be less than the Series 2002-3 Monthly Interest and the
+          Commitment Fee for the Series 2002-3 Interest Period ending on the day
+          preceding such Distribution Date and (B) the Series 2002-3 Enhancement
+          Amount is greater than zero, then the Administrator shall direct the
+          Trustee in writing to reallocate a portion of the Principal
+          Collections allocated to the Series 2002-3 Notes during the Related
+          Month equal to the lesser of such insufficiency and the Series 2002-3
+          Enhancement Amount to the Series 2002-3 Accrued Interest Account to be
+          treated as Interest Collections on such Distribution Date.
+
+          (c)    ALLOCATIONS OF COLLECTIONS AFTER THE OCCURRENCE OF AN EVENT OF
+     BANKRUPTCY. After the occurrence of an Event of Bankruptcy with respect to
+     ARAC, any other Lessee or AGH, the Administrator will direct the Trustee in
+     writing pursuant to the Administration Agreement to allocate, prior to
+     11:00 a.m. (New York City time) on any Series 2002-3 Deposit Date, all
+     amounts deposited into the Collection Account as set forth below:
+
+                 (i)    allocate to the Series 2002-3 Collection Account an
+          amount equal to the sum of (A) the Series 2002-3 AESOP I Operating
+          Lease Vehicle Percentage as of the date of the occurrence of such
+          Event of Bankruptcy of the aggregate amount of Interest Collections
+          made under the AESOP I Operating Lease Loan Agreement, (B) the Series
+          2002-3 Special VFN Collection Allocation Percentage of the aggregate
+          amount of Interest Collections made under the AESOP I Finance Lease
+          Loan Agreement and (C) the Series 2002-3 Special VFN Collection
+          Allocation Percentage of the aggregate amount of Interest Collections
+          made under the AESOP II Loan Agreement. All such amounts allocated to
+          the Series 2002-3 Collection Account shall be further allocated to the
+          Series 2002-3 Accrued Interest Account;
+
+                                      -23-
+<Page>
+
+                 (ii)   allocate to the Series 2002-3 Collection Account an
+          amount equal to the sum of (A) the Series 2002-3 AESOP I Operating
+          Lease Vehicle Percentage as of the date of the occurrence of such
+          Event of Bankruptcy of the aggregate amount of Principal Collections
+          made under the AESOP I Operating Lease Loan Agreement, (B) the Series
+          2002-3 Special VFN Collection Allocation Percentage of the aggregate
+          amount of Principal Collections made under the AESOP I Finance Lease
+          Loan Agreement and (C) the Series 2002-3 Special VFN Collection
+          Allocation Percentage of the aggregate amount of Principal Collections
+          made under the AESOP II Loan Agreement, which amount shall be used to
+          make principal payments in respect of the Series 2002-3 Notes until
+          the Series 2002-3 Notes have been paid in full; PROVIDED that if on
+          any Determination Date (A) the Administrator determines that the
+          amount anticipated to be available from Interest Collections allocable
+          to the Series 2002-3 Notes and other amounts available pursuant to
+          Section 3.3 to pay Series 2002-3 Monthly Interest and the Commitment
+          Fee on the next succeeding Distribution Date will be less than the
+          Series 2002-3 Monthly Interest and the Commitment Fee for the Series
+          2002-3 Interest Period ending on the day preceding such Distribution
+          Date and (B) the Series 2002-3 Enhancement Amount is greater than
+          zero, then the Administrator shall direct the Trustee in writing to
+          reallocate a portion of the Principal Collections allocated to the
+          Series 2002-3 Notes during the Related Month equal to the lesser of
+          such insufficiency and the Series 2002-3 Enhancement Amount to the
+          Series 2002-3 Accrued Interest Account to be treated as Interest
+          Collections on such Distribution Date.
+
+          (d)    ALLOCATIONS FROM OTHER SERIES. Amounts allocated to other
+     Series of Notes that have been reallocated by AFC-II to the Series 2002-3
+     Notes (i) during the Series 2002-3 Revolving Period shall be allocated to
+     the Series 2002-3 Excess Collection Account and applied in accordance with
+     Section 3.2(e) and (ii) during the Series 2002-3 Amortization Period shall
+     be allocated to the Series 2002-3 Collection Account and applied in
+     accordance with Section 3.2(b) to make principal payments in respect of the
+     Series 2002-3 Notes.
+
+          (e)    SERIES 2002-3 EXCESS COLLECTION ACCOUNT. Amounts allocated to
+     the Series 2002-3 Excess Collection Account on any Series 2002-3 Deposit
+     Date will be (i) first, at the written direction of the Administrator, used
+     to make a Decrease in the Series 2002-3 Invested Amount in an amount equal
+     to the excess, if any, of the amount allocated to the Series 2002-3 Excess
+     Collection Account on such Series 2002-3 Deposit Date over the Increase
+     Amount on such Series 2002-3 Deposit Date if such Series 2002-3 Deposit
+     Date is an Increase Date, (ii) second, deposited in the Series 2002-3
+     Reserve Account in an amount up to the excess, if any, of the Series 2002-3
+     Required Reserve Account Amount for such date, after giving effect to any
+     Increase or Decrease on such date, over the Series 2002-3 Available Reserve
+     Account Amount for such date, (iii) third, released to AESOP Leasing in an
+     amount equal to the product of (A) the Loan Agreement's Share with respect
+     to the AESOP I Operating Lease Loan Agreement as of such date times (B)
+     100% minus the Loan Payment Allocation Percentage with respect to the AESOP
+     I Operating Lease Loan Agreement as of such date times (C) the amount of
+     any remaining funds and (iv) fourth, paid to AFC-II and used to make Loans
+     under the
+
+                                      -24-
+<Page>
+
+     Loan Agreements to the extent the Borrowers have requested Loans thereunder
+     and Eligible Vehicles are available for financing thereunder; PROVIDED, in
+     the case of clauses (iii) and (iv), that no AESOP I Operating Lease Vehicle
+     Deficiency would result therefrom or exist immediately thereafter. Upon the
+     occurrence of an Amortization Event, if the Series 2002-3 Invested Amount
+     is greater than zero, funds on deposit in the Series 2002-3 Excess
+     Collection Account will be withdrawn by the Trustee, deposited in the
+     Series 2002-3 Collection Account and allocated as Principal Collections to
+     reduce the Series 2002-3 Invested Amount on the immediately succeeding
+     Distribution Date.
+
+          (f)    PAST DUE RENTAL PAYMENTS. Notwithstanding Section 3.2(a), if
+     after the occurrence of a Series 2002-3 Lease Payment Deficit, the Lessees
+     shall make payments of Monthly Base Rent or other amounts payable by the
+     Lessees under the Leases on or prior to the fifth Business Day after the
+     occurrence of such Series 2002-3 Lease Payment Deficit (a "PAST DUE RENT
+     PAYMENT"), the Administrator shall direct the Trustee in writing pursuant
+     to the Administration Agreement to allocate to the Series 2002-3 Collection
+     Account an amount equal to the Series 2002-3 Invested Percentage as of the
+     date of the occurrence of such Series 2002-3 Lease Payment Deficit of the
+     Collections attributable to such Past Due Rent Payment (the "SERIES 2002-3
+     PAST DUE RENT PAYMENT"). The Administrator shall instruct the Trustee in
+     writing pursuant to the Administration Agreement to withdraw from the
+     Series 2002-3 Collection Account and apply the Series 2002-3 Past Due Rent
+     Payment in the following order:
+
+                 (i)    if the occurrence of such Series 2002-3 Lease Payment
+          Deficit resulted in a withdrawal being made from the Series 2002-3
+          Reserve Account pursuant to Section 3.3(b), deposit in the Series
+          2002-3 Reserve Account an amount equal to the lesser of (x) the amount
+          of the Series 2002-3 Past Due Rent Payment and (y) the excess, if any,
+          of the Series 2002-3 Required Reserve Account Amount over the Series
+          2002-3 Available Reserve Account Amount on such day;
+
+                 (ii)   allocate to the Series 2002-3 Accrued Interest Account
+          the amount, if any, by which the Series 2002-3 Lease Interest Payment
+          Deficit, if any, relating to such Series 2002-3 Lease Payment Deficit
+          exceeds the amount of the Series 2002-3 Past Due Rent Payment applied
+          pursuant to clause (i) above; and
+
+                 (iii)  treat the remaining amount of the Series 2002-3 Past Due
+          Rent Payment as Principal Collections allocated to the Series 2002-3
+          Notes in accordance with Section 3.2(a)(ii) or 3.2(b)(ii), as the case
+          may be.
+
+          Section 3.3. PAYMENTS TO NOTEHOLDERS. On each Determination Date, the
+Funding Agent shall provide written notice to the Administrator of the Monthly
+Funding Costs for the current Series 2002-3 Interest Period, and the
+Administrator shall determine the Series 2002-3 Note Rate for the current Series
+2002-3 Interest Period. For the purposes of determining the Monthly Funding
+Costs for each Series 2002-3 Interest Period (other than the final Series 2002-3
+Interest Period the), Funding Agent may make a reasonable estimation of the
+components of Monthly Funding Costs to accrue during the portion of such Series
+2002-3 Interest Period succeeding such Determination Date. If the actual amount
+of Monthly Funding Costs are less
+
+                                      -25-
+<Page>
+
+than or greater than the amount thereof estimated by the Funding Agent on a
+Determination Date, the Funding Agent shall reduce or increase the Monthly
+Funding Costs for the next succeeding Series 2002-3 Interest Period accordingly.
+The Funding Agent shall determine the Monthly Funding Costs for the Series
+2002-3 Interest Period immediately preceding the Series 2002-3 Termination Date
+on the Determination Date immediately preceding the last day of such Series
+2002-3 Interest Period. If the Funding Agent determines that the Monthly Funding
+Costs for the last Series 2002-3 Interest Period will be more or less than the
+amount thereof provided to the Administrator, the Funding Agent shall inform the
+Administrator of such variance prior to the Distribution Date for such Series
+2002-3 Interest Period. On each Determination Date, as provided below, the
+Administrator shall instruct the Paying Agent in writing pursuant to the
+Administration Agreement to withdraw, and on the following Distribution Date,
+the Paying Agent, acting in accordance with such instructions, shall withdraw
+the amounts required to be withdrawn from the Collection Account pursuant to
+Sections 3.3(a) below in respect of all funds available from Interest
+Collections processed since the preceding Distribution Date and allocated to the
+holders of the Series 2002-3 Notes.
+
+          (a)    NOTE INTEREST WITH RESPECT TO THE SERIES 2002-3 NOTES. On each
+     Determination Date, the Administrator shall instruct the Trustee and the
+     Paying Agent in writing pursuant to the Administration Agreement as to the
+     amount to be withdrawn and paid pursuant to Section 3.4 from the Series
+     2002-3 Accrued Interest Account to the extent funds are anticipated to be
+     available from Interest Collections allocable to the Series 2002-3 Notes
+     processed from, but not including, the preceding Distribution Date through
+     the succeeding Distribution Date in respect of (x) first, an amount equal
+     to the Series 2002-3 Monthly Interest for the Series 2002-3 Interest Period
+     ending on the day preceding the related Distribution Date, (y) second, an
+     amount equal to the Commitment Fee for the Series 2002-3 Interest Period
+     ending on the day preceding the related Distribution Date and (z) third, an
+     amount equal to the amount of any unpaid Series 2002-3 Shortfall as of the
+     preceding Distribution Date (together with any accrued interest on such
+     Series 2002-3 Shortfall). On the following Distribution Date, the Trustee
+     shall withdraw the amounts described in the first sentence of this Section
+     3.3(a) from the Series 2002-3 Accrued Interest Account and deposit such
+     amounts in the Series 2002-3 Distribution Account.
+
+          (b)    WITHDRAWALS FROM SERIES 2002-3 RESERVE ACCOUNT. If the
+     Administrator determines on any Distribution Date that the amounts
+     available from the Series 2002-3 Accrued Interest Account are insufficient
+     to pay the sum of the amounts described in clauses (x), (y) and (z) of
+     Section 3.3(a) above on such Distribution Date, the Administrator shall
+     instruct the Trustee in writing to withdraw from the Series 2002-3 Reserve
+     Account and deposit in the Series 2002-3 Distribution Account on such
+     Distribution Date an amount equal to the lesser of the Series 2002-3
+     Available Reserve Account Amount and such insufficiency. The Trustee shall
+     withdraw such amount from the Series 2002-3 Reserve Account and deposit
+     such amount in the Series 2002-3 Distribution Account.
+
+          (c)    BALANCE. On or prior to the second Business Day preceding each
+     Distribution Date, the Administrator shall instruct the Trustee and the
+     Paying Agent in writing pursuant to the Administration Agreement to pay the
+     balance (after making the
+
+                                      -26-
+<Page>
+
+     payments required in Section 3.3(a)), if any, of the amounts available from
+     the Series 2002-3 Accrued Interest Account as follows:
+
+                 (i)    on each Distribution Date during the Series 2002-3
+          Revolving Period, (1) first, to the Administrator, an amount equal to
+          the Series 2002-3 Percentage as of the beginning of such Series 2002-3
+          Interest Period of the portion of the Monthly Administration Fee
+          payable by AFC-II (as specified in clause (iii) of the definition
+          thereof) for such Series 2002-3 Interest Period, (2) second, to the
+          Trustee, an amount equal to the Series 2002-3 Percentage as of the
+          beginning of such Series 2002-3 Interest Period of the Trustee's fees
+          for such Series 2002-3 Interest Period, (3) third, to the Series
+          2002-3 Distribution Account to pay any Article VI Costs, (4) fourth,
+          to pay any Carrying Charges (other than Carrying Charges provided for
+          above) to the Persons to whom such amounts are owed, an amount equal
+          to the Series 2002-3 Percentage as of the beginning of such Series
+          2002-3 Interest Period of such Carrying Charges (other than Carrying
+          Charges provided for above) for such Series 2002-3 Interest Period and
+          (5) fifth, the balance, if any ("EXCESS COLLECTIONS"), shall be
+          withdrawn by the Paying Agent from the Series 2002-3 Collection
+          Account and deposited in the Series 2002-3 Excess Collection Account;
+          and
+
+                 (ii)   on each Distribution Date during the Series 2002-3
+          Amortization Period, (1) first, to the Trustee, an amount equal to the
+          Series 2002-3 Percentage as of the beginning of such Series 2002-3
+          Interest Period of the Trustee's fees for such Series 2002-3 Interest
+          Period, (2) second, to the Administrator, an amount equal to the
+          Series 2002-3 Percentage as of the beginning of such Series 2002-3
+          Interest Period of the portion of the Monthly Administration Fee (as
+          specified in clause (iii) of the definition thereof) payable by AFC-II
+          for such Series 2002-3 Interest Period, (3) third, to the Series
+          2002-3 Distribution Account to pay any Article VI Costs, (4) fourth,
+          to pay any Carrying Charges (other than Carrying Charges provided for
+          above) to the Persons to whom such amounts are owed, an amount equal
+          to the Series 2002-3 Percentage as of the beginning of such Series
+          2002-3 Interest Period of such Carrying Charges (other than Carrying
+          Charges provided for above) for such Series 2002-3 Interest Period and
+          (5) fifth, the balance, if any, shall be treated as Principal
+          Collections.
+
+          (d)    SHORTFALLS. If the amounts described in Section 3.3 are
+     insufficient to pay the Series 2002-3 Monthly Interest and the Commitment
+     Fee on any Distribution Date, such deficiency shall be referred to as the
+     "SERIES 2002-3 SHORTFALL" and interest shall accrue on the Series 2002-3
+     Shortfall at the Alternate Base Rate plus 2% per annum.
+
+          Section 3.4. PAYMENT OF NOTE INTEREST AND COMMITMENT FEE. On each
+Distribution Date, subject to Section 9.8 of the Base Indenture, the Paying
+Agent shall, in accordance with Section 6.1 of the Base Indenture, pay to the
+Funding Agent from the Series 2002-3 Distribution Account the amounts deposited
+in the Series 2002-3 Distribution Account pursuant to Section 3.3.
+
+                                      -27-
+<Page>
+
+          Section 3.5. PAYMENT OF NOTE PRINCIPAL. (a) MONTHLY PAYMENTS DURING
+SERIES 2002-3 AMORTIZATION PERIOD. Commencing on the first Determination Date
+after the commencement of the Series 2002-3 Amortization Period, the
+Administrator shall instruct the Trustee and the Paying Agent in writing
+pursuant to the Administration Agreement and in accordance with this Section 3.5
+as to (i) the amount allocated to the Series 2002-3 Notes during the Related
+Month pursuant to Section 3.2(b)(ii) or (c)(ii), as the case may be or (ii) any
+amounts to be withdrawn from the Series 2002-3 Reserve Account and deposited
+into the Series 2002-3 Distribution Account. On the Distribution Date following
+each such Determination Date, the Trustee shall withdraw the amount allocated to
+the Series 2002-3 Notes during the Related Month pursuant to Section 3.2(b)(ii)
+or (c)(ii), as the case may be, from the Series 2002-3 Collection Account and
+deposit such amount in the Series 2002-3 Distribution Account, to be paid to the
+holders of the Series 2002-3 Notes.
+
+          (b)    DECREASES. On any Business Day during the Series 2002-3
+     Revolving Period on which a Decrease is to be made pursuant to Section 2.5,
+     the Trustee shall withdraw from the Series 2002-3 Excess Collection Account
+     in accordance with the written instructions of the Administrator an amount
+     equal to the lesser of (i) the funds then allocated to the Series 2002-3
+     Excess Collection Account and (ii) the amount of such Decrease, and deposit
+     such amount in the Series 2002-3 Distribution Account, to be paid to the
+     Funding Agent.
+
+          (c)    SERIES 2002-3 TERMINATION DATE. The entire Series 2002-3
+     Invested Amount shall be due and payable on the Series 2002-3 Termination
+     Date. If, after giving effect to the deposit into the Series 2002-3
+     Distribution Account of the amount to be deposited in accordance with
+     Section 3.5(a) on the Series 2002-3 Termination Date, the amount to be
+     deposited in the Series 2002-3 Distribution Account with respect to the
+     Series 2002-3 Termination Date is or will be less than the Series 2002-3
+     Invested Amount, then, prior to 12:00 noon (New York City time) on the
+     second Business Day prior to the Series 2002-3 Termination Date, the
+     Administrator shall instruct the Trustee in writing to withdraw from the
+     Series 2002-3 Reserve Account, an amount equal to the lesser of the Series
+     2002-3 Available Reserve Account Amount and such insufficiency and deposit
+     it in the Series 2002-3 Distribution Account on the Series 2002-3
+     Termination Date.
+
+          (d)    PRINCIPAL DEFICIT AMOUNT. Prior to 12:00 noon (New York City
+     time) on the second Business Day prior to any Distribution Date on which
+     the Principal Deficit Amount is greater than zero, the Administrator shall
+     instruct the Trustee in writing to withdraw from the Series 2002-3 Reserve
+     Account and deposit into the Series 2002-3 Distribution Account, an amount
+     equal to the lesser of (x) the Series 2002-3 Available Reserve Account
+     Amount and (y) the amount of the Principal Deficit Amount on such
+     Distribution Date.
+
+          (e)    DISTRIBUTION. On each Distribution Date occurring on or after
+     the date a withdrawal is made from the Series 2002-3 Collection Account
+     pursuant to Section 3.5(a) or (b) or amounts are deposited in the Series
+     2002-3 Distribution Account pursuant to Section 3.5(c) and/or (d), the
+     Paying Agent shall, in accordance with Section 6.1 of the Base Indenture,
+     pay to the Funding Agent from the Series 2002-3 Distribution Account the
+     amount deposited therein pursuant to Section 3.5(a), (b), (c), and/or (d).
+
+                                      -28-
+<Page>
+
+          Section 3.6. ADMINISTRATOR'S FAILURE TO INSTRUCT THE TRUSTEE TO MAKE A
+DEPOSIT OR PAYMENT. If the Administrator fails to give notice or instructions to
+make any payment from or deposit into the Collection Account required to be
+given by the Administrator, at the time specified in the Administration
+Agreement or any other Related Document (including applicable grace periods),
+the Trustee shall make such payment or deposit into or from the Collection
+Account without such notice or instruction from the Administrator, PROVIDED that
+the Administrator, upon request of the Trustee, promptly provides the Trustee
+with all information necessary to allow the Trustee to make such a payment or
+deposit. When any payment or deposit hereunder or under any other Related
+Document is required to be made by the Trustee or the Paying Agent at or prior
+to a specified time, the Administrator shall deliver any applicable written
+instructions with respect thereto reasonably in advance of such specified time.
+
+          Section 3.7. SERIES 2002-3 RESERVE ACCOUNT. (a) ESTABLISHMENT OF
+SERIES 2002-3 RESERVE ACCOUNT. AFC-II shall establish and maintain in the name
+of the Series 2002-3 Agent for the benefit of the Series 2002-3 Noteholders, or
+cause to be established and maintained, an account (the "SERIES 2002-3 RESERVE
+ACCOUNT"), bearing a designation clearly indicating that the funds deposited
+therein are held for the benefit of the Series 2002-3 Noteholders. The Series
+2002-3 Reserve Account shall be maintained (i) with a Qualified Institution, or
+(ii) as a segregated trust account with the corporate trust department of a
+depository institution or trust company having corporate trust powers and acting
+as trustee for funds deposited in the Series 2002-3 Reserve Account; PROVIDED
+that, if at any time such Qualified Institution is no longer a Qualified
+Institution or the credit rating of any securities issued by such depositary
+institution or trust company shall be reduced to below BBB- by S&P or Baa2 by
+Moody's, then AFC-II shall, within 30 days of such reduction, establish a new
+Series 2002-3 Reserve Account with a new Qualified Institution. If the Series
+2002-3 Reserve Account is not maintained in accordance with the previous
+sentence, AFC-II shall establish a new Series 2002-3 Reserve Account, within ten
+(10) Business Days after obtaining knowledge of such fact, which complies with
+such sentence, and shall instruct the Series 2002-3 Agent in writing to transfer
+all cash and investments from the non-qualifying Series 2002-3 Reserve Account
+into the new Series 2002-3 Reserve Account. Initially, the Series 2002-3 Reserve
+Account will be established with The Bank of New York.
+
+          (b)    ADMINISTRATION OF THE SERIES 2002-3 RESERVE ACCOUNT. The
+Administrator may instruct the institution maintaining the Series 2002-3 Reserve
+Account to invest funds on deposit in the Series 2002-3 Reserve Account from
+time to time in Permitted Investments; PROVIDED, HOWEVER, that any such
+investment shall mature not later than the Business Day prior to the
+Distribution Date following the date on which such funds were received, unless
+any Permitted Investment held in the Series 2002-3 Reserve Account is held with
+the Paying Agent, then such investment may mature on such Distribution Date and
+such funds shall be available for withdrawal on or prior to such Distribution
+Date. All such Permitted Investments will be credited to the Series 2002-3
+Reserve Account and any such Permitted Investments that constitute (i) physical
+property (and that is not either a United States security entitlement or a
+security entitlement) shall be physically delivered to the Trustee; (ii) United
+States security entitlements or security entitlements shall be controlled (as
+defined in Section 8-106 of the New York UCC) by the Trustee pending maturity or
+disposition, and (iii) uncertificated securities (and not United States security
+entitlements) shall be delivered to the Trustee by causing the Trustee to become
+the registered holder of such securities.
+
+                                      -29-
+<Page>
+
+          (c)    EARNINGS FROM SERIES 2002-3 RESERVE ACCOUNT. All interest and
+earnings (net of losses and investment expenses) paid on funds on deposit in the
+Series 2002-3 Reserve Account shall be deemed to be on deposit therein and
+available for distribution.
+
+          (d)    SERIES 2002-3 RESERVE ACCOUNT CONSTITUTES ADDITIONAL COLLATERAL
+FOR SERIES 2002-3 NOTES. In order to secure and provide for the repayment and
+payment of the AFC-II Obligations with respect to the Series 2002-3 Notes,
+AFC-II hereby grants a security interest in and assigns, pledges, grants,
+transfers and sets over to the Series 2002-3 Agent, for the benefit of the
+Series 2002-3 Noteholders, all of AFC-II's right, title and interest in and to
+the following (whether now or hereafter existing or acquired): (i) the Series
+2002-3 Reserve Account, including any security entitlement thereto; (ii) all
+funds on deposit therein from time to time; (iii) all certificates and
+instruments, if any, representing or evidencing any or all of the Series 2002-3
+Reserve Account or the funds on deposit therein from time to time; (iv) all
+investments made at any time and from time to time with monies in the Series
+2002-3 Reserve Account, whether constituting securities, instruments, general
+intangibles, investment property, financial assets or other property; (v) all
+interest, dividends, cash, instruments and other property from time to time
+received, receivable or otherwise distributed in respect of or in exchange for
+the Series 2002-3 Reserve Account, the funds on deposit therein from time to
+time or the investments made with such funds; and (vi) all proceeds of any and
+all of the foregoing, including, without limitation, cash (the items in the
+foregoing clauses (i) through (vi) are referred to, collectively, as the "SERIES
+2002-3 RESERVE ACCOUNT COLLATERAL"). The Series 2002-3 Agent shall possess all
+right, title and interest in and to all funds on deposit from time to time in
+the Series 2002-3 Reserve Account and in all proceeds thereof, and shall be the
+only person authorized to originate entitlement orders in respect of the Series
+2002-3 Reserve Account. The Series 2002-3 Reserve Account Collateral shall be
+under the sole dominion and control of the Series 2002-3 Agent for the benefit
+of the Series 2002-3 Noteholders. The Series 2002-3 Agent hereby agrees (i) to
+act as the securities intermediary (as defined in Section 8-102(a)(14) of the
+New York UCC) with respect to the Series 2002-3 Reserve Account; (ii) that each
+item of property (whether investment property, financial asset, security,
+instrument or cash) credited to the Series 2002-3 Reserve Account shall be
+treated as a financial asset (as defined in Section 8-102(a)(9) of the New York
+UCC) and (iii) to comply with any entitlement order (as defined in Section
+8-102(a)(8) of the New York UCC) issued by the Trustee.
+
+          (e)    SERIES 2002-3 RESERVE ACCOUNT SURPLUS. In the event that the
+Series 2002-3 Reserve Account Surplus on any Distribution Date, after giving
+effect to all withdrawals from the Series 2002-3 Reserve Account, is greater
+than zero, the Trustee, acting in accordance with the written instructions of
+the Administrator pursuant to the Administration Agreement, shall withdraw from
+the Series 2002-3 Reserve Account an amount equal to the Series 2002-3 Reserve
+Account Surplus and shall pay such amount to AFC-II.
+
+          (f)    TERMINATION OF SERIES 2002-3 RESERVE ACCOUNT. Upon the
+termination of the Indenture pursuant to Section 11.1 of the Base Indenture, the
+Trustee, acting in accordance with the written instructions of the
+Administrator, after the prior payment of all amounts owing to the Series 2002-3
+Noteholders and payable from the Series 2002-3 Reserve Account as provided
+herein, shall withdraw from the Series 2002-3 Reserve Account all amounts on
+deposit therein for payment to AFC-II.
+
+                                      -30-
+<Page>
+
+          Section 3.8. SERIES 2002-3 DISTRIBUTION ACCOUNT. (a) ESTABLISHMENT OF
+SERIES 2002-3 DISTRIBUTION ACCOUNT. The Trustee shall establish and maintain in
+the name of the Series 2002-3 Agent for the benefit of the Series 2002-3
+Noteholders, or cause to be established and maintained, an account (the "SERIES
+2002-3 DISTRIBUTION Account"), bearing a designation clearly indicating that the
+funds deposited therein are held for the benefit of the Series 2002-3
+Noteholders. The Series 2002-3 Distribution Account shall be maintained (i) with
+a Qualified Institution, or (ii) as a segregated trust account with the
+corporate trust department of a depository institution or trust company having
+corporate trust powers and acting as trustee for funds deposited in the Series
+2002-3 Distribution Account; PROVIDED that, if at any time such Qualified
+Institution is no longer a Qualified Institution or the credit rating of any
+securities issued by such depositary institution or trust company shall be
+reduced to below BBB- by S&P or Baa3 by Moody's, then AFC-II shall, within 30
+days of such reduction, establish a new Series 2002-3 Distribution Account with
+a new Qualified Institution. If the Series 2002-3 Distribution Account is not
+maintained in accordance with the previous sentence, AFC-II shall establish a
+new Series 2002-3 Distribution Account, within ten (10) Business Days after
+obtaining knowledge of such fact, which complies with such sentence, and shall
+instruct the Series 2002-3 Agent in writing to transfer all cash and investments
+from the non-qualifying Series 2002-3 Distribution Account into the new Series
+2002-3 Distribution Account. Initially, the Series 2002-3 Distribution Account
+will be established with The Bank of New York.
+
+          (b)    ADMINISTRATION OF THE SERIES 2002-3 DISTRIBUTION ACCOUNT. The
+Administrator may instruct the institution maintaining the Series 2002-3
+Distribution Account to invest funds on deposit in the Series 2002-3
+Distribution Account from time to time in Permitted Investments; PROVIDED,
+HOWEVER, that any such investment shall mature not later than the Business Day
+prior to the Distribution Date following the date on which such funds were
+received, unless any Permitted Investment held in the Series 2002-3 Distribution
+Account is held with the Paying Agent, then such investment may mature on such
+Distribution Date and such funds shall be available for withdrawal on or prior
+to such Distribution Date. All such Permitted Investments will be credited to
+the Series 2002-3 Distribution Account and any such Permitted Investments that
+constitute (i) physical property (and that is not either a United States
+security entitlement or a security entitlement) shall be physically delivered to
+the Trustee; (ii) United States security entitlements or security entitlements
+shall be controlled (as defined in Section 8-106 of the New York UCC) by the
+Trustee pending maturity or disposition, and (iii) uncertificated securities
+(and not United States security entitlements) shall be delivered to the Trustee
+by causing the Trustee to become the registered holder of such securities.
+
+          (c)    EARNINGS FROM SERIES 2002-3 DISTRIBUTION ACCOUNT. All interest
+and earnings (net of losses and investment expenses) paid on funds on deposit in
+the Series 2002-3 Distribution Account shall be deemed to be on deposit and
+available for distribution.
+
+          (d)    SERIES 2002-3 DISTRIBUTION ACCOUNT CONSTITUTES ADDITIONAL
+COLLATERAL FOR SERIES 2002-3 NOTES. In order to secure and provide for the
+repayment and payment of the AFC-II Obligations with respect to the Series
+2002-3 Notes, AFC-II hereby grants a security interest in and assigns, pledges,
+grants, transfers and sets over to the Series 2002-3 Agent, for the benefit of
+the Series 2002-3 Noteholders, all of AFC-II's right, title and interest in and
+to the following (whether now or hereafter existing or acquired): (i) the Series
+2002-3 Distribution Account, including any security entitlement thereto; (ii)
+all funds on deposit therein from time to time;
+
+                                      -31-
+<Page>
+
+(iii) all certificates and instruments, if any, representing or evidencing any
+or all of the Series 2002-3 Distribution Account or the funds on deposit therein
+from time to time; (iv) all investments made at any time and from time to time
+with monies in the Series 2002-3 Distribution Account, whether constituting
+securities, instruments, general intangibles, investment property, financial
+assets or other property; (v) all interest, dividends, cash, instruments and
+other property from time to time received, receivable or otherwise distributed
+in respect of or in exchange for the Series 2002-3 Distribution Account, the
+funds on deposit therein from time to time or the investments made with such
+funds; and (vi) all proceeds of any and all of the foregoing, including, without
+limitation, cash (the items in the foregoing clauses (i) through (vi) are
+referred to, collectively, as the "SERIES 2002-3 DISTRIBUTION ACCOUNT
+COLLATERAL"). The Series 2002-3 Agent shall possess all right, title and
+interest in all funds on deposit from time to time in the Series 2002-3
+Distribution Account and in and to all proceeds thereof, and shall be the only
+person authorized to originate entitlement orders in respect of the Series
+2002-3 Distribution Account. The Series 2002-3 Distribution Account Collateral
+shall be under the sole dominion and control of the Series 2002-3 Agent for the
+benefit of the Series 2002-3 Noteholders. The Series 2002-3 Agent hereby agrees
+(i) to act as the securities intermediary (as defined in Section 8-102(a)(14) of
+the New York UCC) with respect to the Series 2002-3 Distribution Account; (ii)
+that each item of property (whether investment property, financial asset,
+security, instrument or cash) credited to the Series 2002-3 Distribution Account
+shall be treated as a financial asset (as defined in Section 8-102(a)(9) of the
+New York UCC) and (iii) to comply with any entitlement order (as defined in
+Section 8-102(a)(8) of the New York UCC) issued by the Trustee.
+
+                                   ARTICLE IV
+
+                               AMORTIZATION EVENTS
+
+          In addition to the Amortization Events set forth in Section 9.1 of the
+Base Indenture, any of the following shall be an Amortization Event with respect
+to the Series 2002-3 Notes and collectively shall constitute the Amortization
+Events set forth in Section 9.1(n) of the Base Indenture with respect to the
+Series 2002-3 Notes (without notice or other action on the part of the Trustee
+or the Series 2002-3 Noteholder) and shall not be subject to waiver:
+
+          (a)    a Series 2002-3 Enhancement Deficiency shall occur and continue
+     for at least two (2) Business Days; PROVIDED, HOWEVER, that such event or
+     condition shall not be an Amortization Event if during such two (2)
+     Business Day period such Series 2002-3 Enhancement Deficiency shall have
+     been cured in accordance with the terms and conditions of the Indenture and
+     the Related Documents;
+
+          (b)    the Series 2002-3 Available Reserve Account Amount shall be
+     less than the Series 2002-3 Required Reserve Account Amount for at least
+     two (2) Business Days; PROVIDED, HOWEVER, that such event or condition
+     shall not be an Amortization Event if during such two (2) Business Day
+     period such insufficiency shall have been cured in accordance with the
+     terms and conditions of the Indenture and the Related Documents;
+
+          (c)    an AESOP I Operating Lease Vehicle Deficiency shall occur and
+     continue for at least two (2) Business Days;
+
+                                      -32-
+<Page>
+
+          (d)    the Collection Account, the Series 2002-3 Collection Account,
+     the Series 2002-3 Excess Collection Account or the Series 2002-3 Reserve
+     Account shall be subject to an injunction, estoppel or other stay or a Lien
+     (other than Liens permitted under the Related Documents);
+
+          (e)    during the Series 2002-3 Revolving Period, (i) the portion of
+     Series 2002-3 Invested Amount constituting the Series 2002-3 Initial
+     Invested Amount is not reduced to zero on the fifth Business Day following
+     the Swing-Line Initial Funding Date or (ii) any portion of the Series
+     2002-3 Invested Amount resulting from an Increase on an Increase Date is
+     not reduced to zero on the fifth Business Day following such Increase Date;
+
+          (f)    all principal of and interest on the Series 2002-3 Notes is not
+     paid on the Series 2002-3 Expected Final Distribution Date;
+
+          (g)    the occurrence of an Amortization Event with respect to the
+     Series 2002-2 Supplement;
+
+          (h)    the occurrence of an Event of Bankruptcy with respect to
+     Cendant; and
+
+          (i)    at any time when the AESOP I Finance Lease Loan Agreement
+     Borrowing Base is greater than zero, an "event of default" shall have
+     occurred and be continuing under the Amended and Restated Credit Agreement,
+     dated as of October 5, 2001, among Cendant, the lenders referred to
+     therein, JPMorgan Chase Bank (formerly known as The Chase Manhattan Bank),
+     The Bank of Nova Scotia, Credit Lyonnais, New York Branch, Citibank, N.A.,
+     Bank of America, N.A. and J.P. Morgan Securities Inc. (the "Cendant Credit
+     Agreement") as a result of the breach of Sections 2.8(a), 2.8(b), 6.7 or
+     6.8 thereof, without giving effect to any amendment to such agreement or
+     any waiver of any such event of default in each case on or subsequent to
+     the date hereof not approved in an instrument in writing signed by the APA
+     Bank and the CP Conduit Purchaser and provided that for purposes of this
+     Supplement the "events of default" set forth in Section 7(c) of the Cendant
+     Credit Agreement arising from the breach of Sections 6.7 or 6.8 thereof
+     shall survive the termination of the Cendant Credit Agreement.
+
+          In the case of any event described in clause (e) or (i) above, an
+Amortization Event shall have occurred with respect to the Series 2002-3 Notes
+only if either the Trustee or the Swing-Line Purchaser declares that an
+Amortization Event has occurred. In the case of an event described in (a), (b),
+(c), (d), (f), (g), or (h), an Amortization Event with respect to the Series
+2002-3 Notes shall have occurred without any notice or other action on the part
+of the Trustee or any Series 2002-3 Noteholders, immediately upon the occurrence
+of such event.
+
+                                    ARTICLE V
+
+                              CONDITIONS PRECEDENT
+
+          Section 5.1. CONDITIONS PRECEDENT TO EFFECTIVENESS OF SUPPLEMENT. This
+Supplement shall become effective on the date (the "EFFECTIVE DATE") on which
+the following conditions precedent have been satisfied:
+
+                                      -33-
+<Page>
+
+          (a)    DOCUMENTS. The Funding Agent shall have received copies, each
+     executed and delivered in form and substance satisfactory to it of (i) the
+     Base Indenture, executed by a duly authorized officer of each of AFC-II and
+     the Trustee, (ii) this Supplement, executed by a duly authorized officer of
+     each of AFC-II, the Trustee, the Administrator and the Swing-Line
+     Purchaser, (iii) each Lease, executed by a duly authorized officer of each
+     of AGH, ARAC, as Lessee and Administrator and the Lessor party thereto,
+     (iv) each Loan Agreement, executed by a duly authorized officer of each of
+     AFC-II, the Lessor party thereto and the Permitted Nominees party thereto,
+     (v) each Vehicle Title and Lienholder Nominee Agreement, executed by the
+     duly authorized officer of each of the Permitted Nominee party thereto,
+     ARAC, AGH, the Lessor party thereto and the Trustee and (vi) the
+     Administration Agreement, executed by a duly authorized officer of each of
+     AFC-II and the Administrator. All of the conditions to the effectiveness of
+     the Series 2002-2 Supplement shall have been satisfied.
+
+          (b)    CORPORATE DOCUMENTS; PROCEEDINGS OF AFC-II, AESOP LEASING,
+     AESOP LEASING II, ORIGINAL AESOP, ARAC AND AGH. The Funding Agent shall
+     have received from AFC-II, the Administrator, AESOP Leasing, AESOP Leasing
+     II, Original AESOP, ARAC and AGH true and complete copies of:
+
+                 (i)    to the extent applicable, the certificate of
+          incorporation or certificate of formation, including all amendments
+          thereto, of such Person, certified as of a recent date by the
+          Secretary of State or other appropriate authority of the state of
+          incorporation or organization, as the case may be, and a certificate
+          of compliance, of status or of good standing, as and to the extent
+          applicable, of each such Person as of a recent date, from the
+          Secretary of State or other appropriate authority of such
+          jurisdiction;
+
+                 (ii)   a certificate of the Secretary or an Assistant Secretary
+          of such Person, dated as of a recent date and certifying (A) that
+          attached thereto is a true and complete copy of the bylaws, limited
+          liability company agreement or partnership agreement of such Person,
+          as the case may be, as in effect on the Series 2002-3 Closing Date and
+          at all times since a date prior to the date of the resolutions
+          described in clause (B) below, (B) that attached thereto is a true and
+          complete copy of the resolutions, in form and substance reasonably
+          satisfactory to the Funding Agent, of the Board of Directors or
+          Managers of such Person or committees thereof authorizing the
+          execution, delivery and performance of this Supplement and the Related
+          Documents to which it is a party and the transactions contemplated
+          thereby, and that such resolutions have not been amended, modified,
+          revoked or rescinded and are in full force and effect, (C) that the
+          certificate of incorporation or certificate of formation of such
+          Person has not been amended since the date of the last amendment
+          thereto shown on the certificate of good standing (or its equivalent)
+          furnished pursuant to clause (i) above and (D) as to the incumbency
+          and specimen signature of each officer or authorized signatory
+          executing this Supplement and the Related Documents or any other
+          document delivered in connection herewith or therewith on behalf of
+          such Person; and
+
+                                      -34-
+<Page>
+
+                 (iii)  a certificate of another officer as to the incumbency
+          and specimen signature of the Secretary or Assistant Secretary
+          executing the certificate pursuant to clause (ii) above.
+
+          (c)    REPRESENTATIONS AND WARRANTIES. All representations and
+     warranties of each of AFC-II, the Administrator, AESOP Leasing, AESOP
+     Leasing II, Original AESOP, each of the Permitted Nominees, ARAC and AGH
+     contained in each of the Related Documents shall be true and correct as of
+     the Series 2002-3 Closing Date.
+
+          (d)    NO AMORTIZATION EVENT, POTENTIAL AMORTIZATION EVENT OR AESOP I
+     OPERATING LEASE VEHICLE DEFICIENCY. No Amortization Event or Potential
+     Amortization Event in respect of the Series 2002-3 Notes or any other
+     Series of Notes shall exist and no AESOP I Operating Lease Vehicle
+     Deficiency shall exist.
+
+          (e)    LIEN SEARCHES. The Funding Agent shall have received a written
+     search report listing all effective financing statements that name AFC-II,
+     AESOP Leasing, AESOP Leasing II, Original AESOP, each of the Permitted
+     Nominees or ARAC as debtor or assignor and that are filed in the State of
+     New York, the State of Delaware and in any other jurisdictions that the
+     Funding Agent determines are necessary or appropriate, together with copies
+     of such financing statements, and tax and judgment lien searches showing no
+     such liens that are not permitted by the Base Indenture, this Supplement or
+     the Related Documents.
+
+          (f)    LEGAL OPINIONS. The Funding Agent shall have received, with a
+     counterpart addressed to the Trustee, the Funding Agent, the CP Conduit
+     Purchaser and the APA Bank opinions of counsel required by Section 2.2(f)
+     of the Base Indenture and opinions of counsel with respect to such other
+     matters as may be reasonably requested by the Funding Agent, in form and
+     substance reasonably acceptable to the addressees thereof and their
+     counsel.
+
+          (g)    FEES AND EXPENSES. The Funding Agent shall have received
+     payment of all fees, out-of-pocket expenses and other amounts due and
+     payable to the Funding Agent on or before the Effective Date.
+
+          (h)    ESTABLISHMENT OF ACCOUNTS. The Funding Agent shall have
+     received evidence reasonably satisfactory to it that the Series 2002-3
+     Collection Account, the Series 2002-3 Reserve Account and the Series 2002-3
+     Distribution Account shall have been established in accordance with the
+     terms and provisions of the Indenture.
+
+          (i)    OPINION. The Funding Agent shall have received with a
+     counterpart addressed to the CP Conduit Purchaser, the APA Bank and the
+     Funding Agent an opinion of counsel to the Trustee as to the due
+     authorization, execution and delivery by the Trustee of this Supplement and
+     the due execution, authentication and delivery by the Trustee of the Series
+     2002-3 Notes.
+
+          (j)    PROCEDURES LETTER. The Funding Agent shall have received a
+     letter from Deloitte and Touche, LLP, addressed to JPMorgan Chase and dated
+     on or prior to the Effective Date, in form and substance satisfactory to
+     the Funding Agent, concerning the
+
+                                      -35-
+<Page>
+
+     statistical information with respect to the Vehicles subject to the Leases
+     provided to the Funding Agent.
+
+          (k)    PROCEEDINGS. All corporate and other proceedings and all other
+     documents and legal matters in connection with the transactions
+     contemplated by the Related Documents shall be satisfactory in form and
+     substance to the Funding Agent and its counsel.
+
+          (l)    UCC FILINGS. The Funding Agent shall have received (i) executed
+     originals of any documents (including, without limitation, financing
+     statements) required to be filed in each jurisdiction necessary to perfect
+     the security interest of the Trustee in the Series 2002-3 Collateral and
+     (ii) evidence reasonably satisfactory to it of each such filing and
+     reasonably satisfactory evidence of the payment of any necessary fee or tax
+     relating thereto.
+
+                                   ARTICLE VI
+
+                             CHANGE IN CIRCUMSTANCES
+
+          Section 6.1. INCREASED COSTS. (a) If any Change in Law (except with
+respect to Taxes which shall be governed by Section 6.2) shall:
+
+          (i)    impose, modify or deem applicable any reserve, special deposit
+     or similar requirement against assets of, deposits with or for the account
+     of, or credit extended by any Affected Party; or
+
+          (ii)   impose on any Affected Party any other condition affecting the
+     Indenture or the Related Documents;
+
+and the result of any of the foregoing shall be to reduce any amount received or
+receivable by such Affected Party hereunder or in connection herewith (whether
+principal, interest or otherwise), then AFC-II will pay to such Affected Party
+such additional amount or amounts as will compensate such Affected Party for
+such additional costs incurred or reduction suffered.
+
+          (b)    If any Affected Party determines that any Change in Law
+regarding capital requirements has or would have the effect of reducing the rate
+of return on such Affected Party's capital or the capital of any corporation
+controlling such Affected Party as a consequence of its obligations hereunder to
+a level below that which such Affected Party or such corporation could have
+achieved but for such Change in Law (taking into consideration such Affected
+Party's or such corporation's policies with respect to capital adequacy), then
+from time to time, AFC-II shall pay to such Affected Party such additional
+amount or amounts as will compensate such Affected Party for any such reduction
+suffered.
+
+          (c)    A certificate of an Affected Party setting forth the amount or
+amounts necessary to compensate such Affected Party as specified in subsections
+(a) and (b) of this Section 6.1 shall be delivered to AFC-II and shall be
+conclusive absent manifest error. The agreements in this Section shall survive
+the termination of this Supplement and the Base Indenture and the payment of all
+amounts payable hereunder and thereunder.
+
+                                      -36-
+<Page>
+
+          (d)    Failure or delay on the part of an Affected Party to demand
+compensation pursuant to this Section 6.1 shall not constitute a waiver of such
+Affected Party's right to demand such compensation; PROVIDED that AFC-II shall
+not be required to compensate any Affected Party pursuant to this Section 6.1
+for any increased costs or reductions incurred more than 270 days prior to the
+date that such Affected Party notifies AFC-II of the Change in Law giving rise
+to such increased costs or reductions and of such Affected Party's intention to
+claim compensation therefor; PROVIDED, FURTHER, that, if the Change in Law
+giving rise to such increased costs or reductions is retroactive, then the
+270-day period referred to above shall be extended to include the period of
+retroactive effect thereof.
+
+          Section 6.2. TAXES. (a) Any and all payments by or on account of any
+obligation of AFC-II hereunder shall be made free and clear of and without
+deduction for any Indemnified Taxes or Other Taxes; PROVIDED that if AFC-II
+shall be required to deduct any Indemnified Taxes or Other Taxes from such
+payments, then (i) subject to Section 6.2(c) below, the sum payable shall be
+increased as necessary so that after making all required deductions (including
+deductions applicable to additional sums payable under this Section 6.2) the
+recipient receives an amount equal to the sum that it would have received had no
+such deductions been made, (ii) AFC-II shall make such deductions and (iii)
+AFC-II shall pay the full amount deducted to the relevant Governmental Authority
+in accordance with applicable law.
+
+          (b)    In addition, AFC-II shall pay any Other Taxes to the relevant
+Governmental Authority in accordance with applicable law.
+
+          (c)    AFC-II shall indemnify the CP Conduit Purchaser, the APA Bank,
+the Funding Agent and each Program Support Provider within the later of 10 days
+after written demand therefor and the Distribution Date next following such
+demand for the full amount of any Indemnified Taxes or Other Taxes paid by the
+CP Conduit Purchaser, the APA Bank, the Funding Agent or such Program Support
+Provider on or with respect to any payment by or on account of any obligation of
+AFC-II hereunder or under the Indenture (including Indemnified Taxes or Other
+Taxes imposed or asserted on or attributable to amounts payable under this
+Section 6.2) and any penalties, interest and reasonable expenses arising
+therefrom or with respect thereto, whether or not such Indemnified Taxes or
+Other Taxes were correctly or legally imposed or asserted by the relevant
+Governmental Authority; PROVIDED that no Person shall be indemnified pursuant to
+this Section 6.2(c) or entitled to receive additional amounts under the proviso
+of Section 6.2(a) to the extent that the reason for such indemnification results
+from the failure by such Person to comply with the provisions of Section 6.2(e)
+or (g). A certificate as to the amount of such payment or liability delivered to
+AFC-II by the CP Conduit Purchaser, the APA Bank, the Funding Agent or a Program
+Support Provider shall be conclusive absent manifest error. Any payments made by
+AFC-II pursuant to this Section 6.2 shall be made solely from funds available in
+the Series 2002-3 Distribution Account for the payment of Article VI Costs,
+shall be non-recourse other than with respect to such funds, and shall not
+constitute a claim against AFC-II to the extent that insufficient funds exist to
+make such payment. The agreements in this Section shall survive the termination
+of this Supplement and the Base Indenture and the payment of all amounts payable
+hereunder and thereunder.
+
+          (d)    As soon as practicable after any payment of Indemnified Taxes
+or Other Taxes by AFC-II to a Governmental Authority, AFC-II shall deliver to
+the CP Conduit
+
+                                      -37-
+<Page>
+
+Purchaser, the APA Bank, the Funding Agent and each applicable Program Support
+Provider the original or a certified copy of a receipt issued by such
+Governmental Authority evidencing such payment, a copy of the return reporting
+such payment or other evidence of such payment reasonably satisfactory to the CP
+Conduit Purchaser, the APA Bank, the Funding Agent and such Program Support
+Provider.
+
+          (e)    Any of the CP Conduit Purchaser, the APA Bank, the Funding
+Agent and any Program Support Provider if entitled to an exemption from or
+reduction of an Indemnified Tax or Other Tax with respect to payments made
+hereunder or under the Indenture shall (to the extent legally able to do so)
+deliver to AFC-II such properly completed and executed documentation prescribed
+by applicable law and reasonably requested by AFC-II on the later of (i) 30
+Business Days after such request is made and the applicable forms are provided
+to such Person or (ii) 30 Business Days before prescribed by applicable law as
+will permit such payments to be made without withholding or with an exemption
+from or reduction of Indemnified Taxes or Other Taxes.
+
+          (f)    If any of the CP Conduit Purchaser, the APA Bank, the Funding
+Agent or any Program Support Provider receives a refund solely in respect of
+Indemnified Taxes or Other Taxes, it shall pay over such refund to AFC-II to the
+extent that it has already received indemnity payments or additional amounts
+pursuant to this Section 6.2 with respect to such Indemnified Taxes or Other
+Taxes giving rise to the refund, net of all out-of-pocket expenses and without
+interest (other than interest paid by the relevant Governmental Authority with
+respect to such refund); PROVIDED, HOWEVER, that AFC-II shall, upon request of
+the CP Conduit Purchaser, the APA Bank, the Funding Agent or any such Program
+Support Provider, repay such refund (plus interest or other charges imposed by
+the relevant Governmental Authority) to the CP Conduit Purchaser, the APA Bank,
+the Funding Agent or any such Program Support Provider if the CP Conduit
+Purchaser, the APA Bank, the Funding Agent or any such Program Support Provider
+is required to repay such refund to such Governmental Authority. Nothing
+contained herein shall require any of the CP Conduit Purchaser, the APA Bank,
+the Funding Agent or any Program Support Provider to make its tax returns (or
+any other information relating to its taxes which it deems confidential)
+available to AFC-II or any other Person.
+
+          (g)    The CP Conduit Purchaser, the APA Bank, the Funding Agent and
+each Program Support Provider (other than any such Person which is a domestic
+corporation) shall:
+
+          (i)    upon or prior to becoming a party hereto, deliver to AFC-II two
+     (2) duly completed copies of IRS Form W-8BEN, W-8ECI or W-9, or successor
+     applicable forms, as the case may be, establishing a complete exemption
+     from withholding of United States federal income taxes or backup
+     withholding taxes with respect to payments under the Series 2002-3 Notes
+     and this Supplement;
+
+          (ii)   deliver to AFC-II two (2) further copies of any such form or
+     certification establishing a complete exemption from withholding of United
+     States federal income taxes or backup withholding taxes with respect to
+     payments under the Series 2002-3 Notes and this Supplement on or before the
+     date that any such form or certification expires or becomes obsolete and
+     after the occurrence of any event requiring a change in the most recent
+     form previously delivered by it to AFC-II; and
+
+                                      -38-
+<Page>
+
+          (iii)  obtain such extensions of time for filing and completing such
+     forms or certifications as may reasonably be requested by AFC-II;
+
+unless, in any such case, any change in treaty, law or regulation has occurred
+after the Series 2002-3 Closing Date (or, if later, the date the CP Conduit
+Purchaser, the APA Bank, the Funding Agent or any Program Support Provider
+becomes an indemnified party hereunder) and prior to the date on which any such
+delivery would otherwise be required which renders the relevant form
+inapplicable or which would prevent the CP Conduit Purchaser, the APA Bank, the
+Funding Agent or any Program Support Provider from duly completing and
+delivering the relevant form with respect to it, and the CP Conduit Purchaser,
+the APA Bank, the Funding Agent or any Program Support Provider so advises
+AFC-II.
+
+          (h)    If a beneficial or equity owner of the CP Conduit Purchaser,
+the APA Bank, the Funding Agent and any Program Support Provider (instead of the
+CP Conduit Purchaser, the APA Bank, the Funding Agent and any such Program
+Support Provider itself) is required under United States federal income tax law
+or the terms of a relevant treaty to provide IRS Form W-8BEN, W-8ECI or W-9, or
+any successor applicable forms, as the case may be, in order to claim an
+exemption from withholding of United States federal income taxes or backup
+withholding taxes, then each such beneficial owner or equity owner shall be
+considered to be a CP Conduit Purchaser, the APA Bank, the Funding Agent or a
+Program Support Provider for purposes of Section 6.2 (g).
+
+          Section 6.3. MITIGATION OBLIGATIONS. If any of the CP Conduit
+Purchaser, the APA Bank, the Funding Agent or any Program Support Provider
+requests compensation under Section 6.1, or if AFC-II is required to pay any
+additional amount to the CP Conduit Purchaser, the APA Bank, the Funding Agent
+or such Program Support Provider or any Governmental Authority for the account
+of the CP Conduit Purchaser, the APA Bank, the Funding Agent or any such Program
+Support Provider pursuant to Section 6.2, then, upon written notice from AFC-II,
+the CP Conduit Purchaser, the APA Bank, the Funding Agent or such Program
+Support Provider shall use commercially reasonable efforts to designate a
+different lending office for funding or booking its obligations hereunder or to
+assign its rights and obligations hereunder to another of its offices, branches
+or affiliates, which pays a price for such assignment which is acceptable to the
+CP Conduit Purchaser, the APA Bank, the Funding Agent or any such Program
+Support Provider and its assignee, in the judgment of the CP Conduit Purchaser,
+the APA Bank, the Funding Agent or any such Program Support Provider, such
+designation or assignment (i) would eliminate or reduce amounts payable pursuant
+to Section 6.1 or 6.2, as the case may be, in the future and (ii) would not
+subject the CP Conduit Purchaser, the APA Bank, the Funding Agent or any such
+Program Support Provider to any unreimbursed cost or expense and would not
+otherwise be disadvantageous to the CP Conduit Purchaser, the APA Bank, the
+Funding Agent or any such Program Support Provider. AFC-II hereby agrees to pay
+all reasonable costs and expenses incurred by the CP Conduit Purchaser, the APA
+Bank, the Funding Agent or any such Program Support Provider in connection with
+any such designation or assignment.
+
+          Section 6.4. BREAK FUNDING PAYMENTS. AFC-II agrees to indemnify each
+Swing-Line Purchaser and to hold each Swing-Line Purchaser harmless from any
+loss or expense which such Swing-Line Purchaser may sustain or incur as a
+consequence of (a) the failure by AFC-II to accept any Increase after AFC-II has
+given irrevocable notice requesting the same in accordance
+
+                                      -39-
+<Page>
+
+with the provisions of this Supplement or (b) default by AFC-II in making any
+prepayment in connection with a Decrease after AFC-II has given irrevocable
+notice thereof in accordance with the provisions of Section 2.5 or (c) the
+making of a Decrease on a date other than as specified in any notice of a
+Decrease or in a greater amount than contained in any notice of Decrease. Such
+indemnification shall include an amount determined by the Funding Agent and
+shall equal the losses and expenses incurred in connection with the liquidation
+or reemployment of deposits or other funds acquired as a result of the failure
+to accept an Increase, a default in the making of a Decrease or the making of a
+Decrease in an amount or on a date not contained in a notice of a Decrease.
+Notwithstanding the foregoing, any payments made by AFC-II pursuant to this
+subsection shall be made solely from funds available in the Series 2002-3
+Distribution Account for the payment of Article VI Costs, shall be non-recourse
+other than with respect to such funds, and shall not constitute a claim against
+AFC-II to the extent that such funds are insufficient to make such payment. This
+covenant shall survive the termination of this Supplement and the Base Indenture
+and the payment of all amounts payable hereunder and thereunder. A certificate
+as to any additional amounts payable pursuant to the foregoing sentence
+submitted by any Funding Agent on behalf of the CP Conduit Purchaser to AFC-II
+shall be conclusive absent manifest error.
+
+                                   ARTICLE VII
+
+                    REPRESENTATIONS AND WARRANTIES, COVENANTS
+
+          Section 7.1. REPRESENTATIONS AND WARRANTIES OF AFC-II AND THE
+ADMINISTRATOR. (a) AFC-II and the Administrator each hereby represents and
+warrants to the Trustee, the Funding Agent, the APA Bank and the CP Conduit
+Purchaser that:
+
+          (i)    each and every of their respective representations and
+     warranties contained in the Related Documents is true and correct as of the
+     Series 2002-3 Closing Date and true and correct in all material respects as
+     of the Swing-Line Initial Funding Date and as of the date of each Increase;
+     and
+
+          (ii)   as of the Swing-Line Initial Funding Date, they have not
+     engaged, in connection with the offering of the Series 2002-3 Notes, in any
+     form of general solicitation or general advertising within the meaning of
+     Rule 502(c) under the Securities Act.
+
+          (b)    AFC-II hereby represents and warrants to the Trustee, the
+Funding Agent, the APA Bank and the CP Conduit Purchaser that the Series 2002-3
+Note issued on the Series 2002-3 Closing Date has been duly authorized and
+executed by AFC-II and when duly authenticated by the Trustee and delivered to
+the CP Conduit Purchaser, the Funding Agent and the APA Banks in accordance with
+the terms of this Supplement will constitute legal, valid and binding
+obligations of AFC-II enforceable in accordance with their terms, except as
+enforceability thereof may be limited by bankruptcy, insolvency, or other
+similar laws relating to or affecting generally the enforcement of creditors'
+rights or by general equitable principles.
+
+          Section 7.2. COVENANTS OF AFC-II AND THE ADMINISTRATOR. AFC-II and the
+Administrator hereby agree, in addition to their obligations hereunder, that:
+
+                                      -40-
+<Page>
+
+          (a)    they shall observe in all material respects each and every of
+their respective covenants (both affirmative and negative) contained in the Base
+Indenture and all other Related Documents to which each is a party;
+
+          (b)    they shall afford the Funding Agent, the Trustee or any
+representatives of the Funding Agent or the Trustee access to all records
+relating to the Leases, the Vehicles, the Manufacturer Programs and the Loan
+Agreements at any reasonable time during regular business hours, upon reasonable
+prior notice (and with one Business Day's prior notice if an Amortization Event
+with respect to the Series 2002-3 Notes shall have been deemed to have occurred
+or shall have been declared to have occurred), for purposes of inspection and
+shall permit the Funding Agent, the Trustee or any representative of the Funding
+Agent or the Trustee to visit any of AFC-II's or the Administrator's, as the
+case may be, offices or properties during regular business hours and as often as
+may reasonably be desired to discuss the business, operations, properties,
+financial and other conditions of AFC-II or the Administrator with their
+respective officers and employees and with their independent certified public
+accountants;
+
+          (c)    they shall promptly provide such additional financial and other
+information with respect to the Related Documents, AFC-II, the Lessors, the
+Permitted Nominees, the Lessees, the Guarantor, the Related Documents or the
+Manufacturer Programs as the Funding Agent may from time to time reasonably
+request; and
+
+          (d)    they shall provide to the Funding Agent simultaneously with
+delivery to the Trustee copies of information furnished to the Trustee or AFC-II
+pursuant to the Related Documents as such information relates to all Series of
+Notes generally or specifically to the Series 2002-3 Notes or the Series 2002-3
+Collateral.
+
+                                  ARTICLE VIII
+
+                                THE FUNDING AGENT
+
+          Section 8.1. APPOINTMENT. The CP Conduit Purchaser and the APA Bank
+hereby irrevocably designates and appoints JPMorgan Chase as the agent of such
+Person under this Supplement and irrevocably authorizes the Funding Agent, in
+such capacity, to take such action on its behalf under the provisions of this
+Supplement and to exercise such powers and perform such duties as are expressly
+delegated to the Funding Agent by the terms of this Supplement, together with
+such other powers as are reasonably incidental thereto. Notwithstanding any
+provision to the contrary elsewhere in this Supplement, the Funding Agent shall
+not have any duties or responsibilities except those expressly set forth herein,
+or any fiduciary relationship with the CP Conduit Purchaser or the APA Bank and
+no implied covenants, functions, responsibilities, duties, obligations or
+liabilities shall be read into this Supplement or otherwise exist against the
+Funding Agent.
+
+          Section 8.2. DELEGATION OF DUTIES. The Funding Agent may execute any
+of its duties under this Supplement by or through agents or attorneys-in-fact
+and shall be entitled to advice of counsel concerning all matters pertaining to
+such duties. The Funding Agent shall not be responsible to the CP Conduit
+Purchaser or the APA Bank for the negligence or misconduct of any agents or
+attorneys in-fact selected by it with reasonable care.
+
+                                      -41-
+<Page>
+
+          Section 8.3. EXCULPATORY PROVISIONS. The Funding Agent and any of its
+officers, directors, employees, agents, attorneys-in-fact or Affiliates shall
+not be (i) liable for any action lawfully taken or omitted to be taken by it or
+such Person under or in connection with the Base Indenture, this Supplement or
+any other Related Document (except to the extent that any of the foregoing are
+found by a final and nonappealable decision of a court of competent jurisdiction
+to have resulted from its or such Person's own gross negligence or willful
+misconduct) or (ii) responsible in any manner to the CP Conduit Purchaser and/or
+the APA Bank for any recitals, statements, representations or warranties made by
+AFC-II, the Lessors, the Lessees, the Guarantor, the Administrator, or any
+officer thereof contained in this Supplement or any other Related Document or in
+any certificate, report, statement or other document referred to or provided for
+in, or received by the Funding Agent under or in connection with, this
+Supplement or any other Related Document or for the value, validity,
+effectiveness, genuineness, enforceability or sufficiency of this Supplement,
+any other Related Document, or for any failure of any of AFC-II, the Lessors,
+the Lessees, the Guarantor, or the Administrator to perform its obligations
+hereunder or thereunder. The Funding Agent shall not be under any obligation to
+the CP Conduit Purchaser or the APA Bank to ascertain or to inquire as to the
+observance or performance of any of the agreements contained in, or conditions
+of, this Supplement, any other Related Document or to inspect the properties,
+books or records of AFC-II, the Lessors, the Lessees, the Guarantor, or the
+Administrator.
+
+          Section 8.4. RELIANCE BY THE FUNDING AGENT. The Funding Agent shall be
+entitled to rely, and shall be fully protected in relying, upon any writing,
+resolution, notice, consent, certificate, affidavit, letter, telecopy, telex or
+teletype message, statement, order or other document or conversation believed by
+it to be genuine and correct and to have been signed, sent or made by the proper
+Person or Persons and upon advice and statements of legal counsel (including,
+without limitation, counsel to AFC-II or the Administrator), independent
+accountants and other experts selected by the Funding Agent. The Funding Agent
+shall be fully justified in failing or refusing to take any action under this
+Supplement or any other Related Document unless it shall first receive such
+advice or concurrence of the Swing-Line Purchaser, as it deems appropriate or it
+shall first be indemnified to its satisfaction by the Swing-Line Purchaser
+against any and all liability and expense which may be incurred by it by reason
+of taking or continuing to take any such action.
+
+          Section 8.5. NOTICE OF ADMINISTRATOR DEFAULT OR AMORTIZATION EVENT OR
+POTENTIAL AMORTIZATION EVENT. The Funding Agent shall not be deemed to have
+knowledge or notice of the occurrence of any Amortization Event or Potential
+Amortization Event or any Administrator Default unless the Funding Agent has
+received written notice from the CP Conduit Purchaser, the APA Bank, AFC-II or
+the Administrator referring to the Indenture or this Supplement, describing such
+Amortization Event or Potential Amortization Event, or Administrator Default and
+stating that such notice is a "notice of an Amortization Event or Potential
+Amortization Event" or "notice of an Administrator Default," as the case may be.
+In the event that the Funding Agent receives such a notice, the Funding Agent
+shall give notice thereof to the CP Conduit Purchaser and the APA Bank. The
+Funding Agent shall take such action with respect to such event as shall be
+reasonably directed by the CP Conduit Purchaser and the APA Bank, PROVIDED that
+unless and until the Funding Agent shall have received such directions, the
+Funding Agent may (but shall not be obligated to) take such action, or refrain
+from taking such
+
+                                      -42-
+<Page>
+
+action, with respect to such event as it shall deem advisable in the best
+interests of the CP Conduit Purchaser and the APA Bank.
+
+          Section 8.6. NON-RELIANCE ON THE FUNDING AGENT, THE CP CONDUIT
+PURCHASER AND THE APA BANK. The CP Conduit Purchaser and the APA Bank expressly
+acknowledge that neither the Funding Agent nor any of its officers, directors,
+employees, agents, attorneys-in-fact or Affiliates has made any representations
+or warranties to it and that no act by the Funding Agent hereinafter taken,
+including any review of the affairs of AFC-II, the Lessors, the Lessees, the
+Guarantor, or the Administrator shall be deemed to constitute any representation
+or warranty by the Funding Agent to any such Person. Each of the CP Conduit
+Purchaser and the APA Bank represents to the Funding Agent that it has,
+independently and without reliance upon the Funding Agent and based on such
+documents and information as it has deemed appropriate, made its own appraisal
+of and investigation into the business, operations, property, financial and
+other condition and creditworthiness of AFC-II, the Lessors, the Lessees, the
+Guarantor, and the Administrator and made its own decision to enter into this
+Supplement. Each of the CP Conduit Purchaser and the APA Bank also represents
+that it will, independently and without reliance upon the Funding Agent and
+based on such documents and information as it shall deem appropriate at the
+time, continue to make its own credit analysis, appraisals and decisions in
+taking or not taking action under this Supplement and the other Related
+Documents, and to make such investigation as it deems necessary to inform itself
+as to the business, operations, property, financial and other conditions and
+creditworthiness of AFC-II, the Lessors, the Lessees, the Guarantor, and the
+Administrator.
+
+          Section 8.7. INDEMNIFICATION. The APA Bank agrees to indemnify the
+Funding Agent in its capacity as such (to the extent not reimbursed by AFC-II
+and the Administrator and without limiting the obligation of AFC-II and the
+Administrator to do so) from and against any and all liabilities, obligations,
+losses, damages, penalties, actions, judgments, suits, costs, expenses or
+disbursements of any kind whatsoever which may at any time be imposed on,
+incurred by or asserted against the Funding Agent in any way relating to or
+arising out of this Supplement, any of the other Related Documents or any
+documents contemplated by or referred to herein or therein or the transactions
+contemplated hereby or thereby or any action taken or omitted by the Funding
+Agent under or in connection with any of the foregoing; PROVIDED that the APA
+Bank shall not be liable for the payment of any portion of such liabilities,
+obligations, losses, damages, penalties, actions, judgments, suits, costs,
+expenses or disbursements that are found by a final and nonappealable decision
+of a court of competent jurisdiction to have resulted from the Funding Agent's
+gross negligence or willful misconduct. The agreements in this Section shall
+survive the payment of all amounts payable hereunder.
+
+                                   ARTICLE IX
+
+                                     GENERAL
+
+          Section 9.1. SUCCESSORS AND ASSIGNS. (a) This Supplement shall be
+binding upon and inure to the benefit of the parties hereto and their respective
+successors and assigns, except that AFC-II may not assign or transfer any of its
+rights under this Supplement without the prior written consent of all of the
+Series 2002-3 Noteholders, the CP Conduit Purchaser may assign or transfer any
+of its rights under this Supplement other than in accordance with the Asset
+Purchase
+
+                                      -43-
+<Page>
+
+Agreement or otherwise to the APA Bank or a Program Support Provider with
+respect to such CP Conduit Purchaser or pursuant to clause (b) and the APA Bank
+may not assign or transfer any of its rights or obligations under this
+Supplement except to a Program Support Provider or pursuant to clause (c), (d)
+or (e) below of this Section 9.1.
+
+          (b)    Without limiting the foregoing, the CP Conduit Purchaser may
+assign all or a portion of the Series 2002-3 Invested Amount and its rights and
+obligations under this Supplement and any other Related Documents to which it is
+a party to a Conduit Assignee. Prior to or concurrently with the effectiveness
+of any such assignment (or if impracticable, immediately thereafter), the CP
+Conduit Purchaser shall notify AFC-II, the Trustee and the Administrator
+thereof. Upon such assignment by the CP Conduit Purchaser to a Conduit Assignee,
+(A) such Conduit Assignee shall be the owner of the Series 2002-3 Invested
+Amount or such portion thereof, (B) the related administrative or managing agent
+for such Conduit Assignee will act as the administrative agent for such Conduit
+Assignee hereunder, with all corresponding rights and powers, express or
+implied, granted to the Funding Agent hereunder or under the other Related
+Documents, (C) such Conduit Assignee and its liquidity support provider(s) and
+credit support provider(s) and other related parties shall have the benefit of
+all the rights and protections provided to the CP Conduit Purchaser herein and
+in the other Related Documents (including, without limitation, any limitation on
+recourse against the Conduit Assignee as provided in this paragraph), (D) such
+Conduit Assignee shall assume all of the CP Conduit Purchaser's obligations, if
+any, hereunder or under the Base Indenture or under any other Related Document
+with respect to such portion of the Series 2002-3 Invested Amount and the CP
+Conduit Purchaser shall be released from such obligations, (E) all distributions
+in respect of the Series 2002-3 Invested Amount or such portion thereof with
+respect to the CP Conduit Purchaser shall be made to the applicable agent or
+administrative agent, as applicable, on behalf of such Conduit Assignee, (F) the
+definitions of the terms "Monthly Funding Costs" and "Discount" shall be
+determined in the manner set forth in the definition of "Monthly Funding Costs"
+and "Discount" applicable to the CP Conduit Purchaser on the basis of the
+interest rate or discount applicable to commercial paper issued by such Conduit
+Assignee (rather than the CP Conduit Purchaser), (G) the defined terms and other
+terms and provisions of this Supplement, the Base Indenture and the other
+Related Documents shall be interpreted in accordance with the foregoing, and (H)
+if requested by the Administrator or the agent or administrative agent with
+respect to the Conduit Assignee, the parties will execute and deliver such
+further agreements and documents and take such other actions as the
+Administrator or such agent or administrative agent may reasonably request to
+evidence and give effect to the foregoing. No assignment by the CP Conduit
+Purchaser to a Conduit Assignee of the Series 2002-3 Invested Amount with
+respect to the CP Conduit Purchaser shall in any way diminish the obligations of
+the APA Bank with respect to the CP Conduit Purchaser under Section 2.3 to fund
+any Increase.
+
+          (c)    Any APA Bank may, in the ordinary course of its business and in
+accordance with applicable law, at any time sell all of its rights and
+obligations under this Supplement and the Series 2002-3 Notes, with the prior
+written consent of AFC-II and the Administrator (in each case, which consent
+shall not be unreasonably withheld), to another bank (an "ACQUIRING APA BANK")
+pursuant to a transfer supplement, substantially in the form of EXHIBIT C (the
+"TRANSFER SUPPLEMENT"), executed by such Acquiring APA Bank, the APA Bank, the
+Funding Agent, AFC-II and the Administrator and delivered to the Administrator.
+Notwithstanding the
+
+                                      -44-
+<Page>
+
+foregoing, the APA Bank shall not sell its rights hereunder if such Acquiring
+APA Bank is not an Eligible Assignee.
+
+          (d)    The APA Bank may, in the ordinary course of its business and in
+accordance with applicable law, at any time sell to one or more financial
+institutions or other entities ("PARTICIPANTS") participations in the Commitment
+Amount, its Series 2002-3 Note and its rights hereunder pursuant to
+documentation in form and substance satisfactory to the APA Bank and the
+Participant; PROVIDED, HOWEVER, that (i) in the event of any such sale by the
+APA Bank to a Participant, (A) the APA Bank's obligations under this Supplement
+shall remain unchanged, (B) the APA Bank shall remain solely responsible for the
+performance thereof and (C) AFC-II shall continue to deal solely and directly
+with the APA Bank in connection with its rights and obligations under this
+Supplement and (ii) the APA Bank shall not sell any participating interest under
+which the Participant shall have rights to approve any amendment to, or any
+consent or waiver with respect to, this Supplement, the Base Indenture or any
+Related Document. A Participant shall have the right to receive Article VI Costs
+but only to the extent that the APA Bank would have had such right absent the
+sale of the related participation and, with respect to amounts due pursuant to
+Section 6.2, only to the extent such Participant shall have complied with the
+provisions of Section 6.2(e) and (g) as if such Participant were the APA Bank.
+
+          (e)    AFC-II authorizes each APA Bank to disclose to any Participant
+or Acquiring APA Bank (each, a "TRANSFEREE") and any prospective Transferee any
+and all financial information in such APA Bank's possession concerning AFC-II,
+the Collateral, the Administrator and the Related Documents which has been
+delivered to such APA Bank by AFC-II or the Administrator in connection with
+such APA Bank's credit evaluation of AFC-II, the Collateral and the
+Administrator.
+
+          Section 9.2. SECURITIES LAW. The CP Conduit Purchaser and the APA Bank
+hereby represents and warrants to AFC-II that it is an "accredited investor" as
+such term is defined in Rule 501(a) of Regulation D under the Securities Act and
+has sufficient assets to bear the economic risk of, and sufficient knowledge and
+experience in financial and business matters to evaluate the merits and risks
+of, its investment in a Series 2002-3 Note. The CP Conduit Purchaser and the APA
+Bank agrees that its Series 2002-3 Note will be acquired for investment only and
+not with a view to any public distribution thereof, and that the CP Conduit
+Purchaser and the APA Bank will not offer to sell or otherwise dispose of its
+Series 2002-3 Note (or any interest therein) in violation of any of the
+registration requirements of the Securities Act, or any applicable state or
+other securities laws. The CP Conduit Purchaser and the APA Bank acknowledges
+that it has no right to require AFC-II to register its Series 2002-3 Note under
+the Securities Act or any other securities law. The CP Conduit Purchaser and the
+APA Bank hereby confirms and agrees that in connection with any transfer by it
+of an interest in the Series 2002-3 Note, the CP Conduit Purchaser or the APA
+Bank has not engaged and will not engage in a general solicitation or general
+advertising including advertisements, articles, notices or other communications
+published in any newspaper, magazine or similar media or broadcast over radio or
+television, or any seminar or meeting whose attendees have been invited by any
+general solicitation or general advertising.
+
+          Section 9.3. NO BANKRUPTCY PETITION. (a) Each of the CP Conduit
+Purchaser, the APA Bank and the Funding Agent hereby covenants and agrees that,
+prior to the date which is
+
+                                      -45-
+<Page>
+
+one year and one day after the later of payment in full of all Series of Notes,
+it will not institute against, or join any other Person in instituting against,
+AFC-II any bankruptcy, reorganization, arrangement, insolvency or liquidation
+proceedings, or other similar proceedings under any federal or state bankruptcy
+or similar law.
+
+          (b)    AFC-II, the Trustee, the Funding Agent and the APA Bank hereby
+covenants and agrees that, prior to the date which is one year and one day after
+the payment in full of all outstanding Commercial Paper issued by, or for the
+benefit of, the CP Conduit Purchaser, it will not institute against, or join any
+other Person in instituting against, the CP Conduit Purchaser (or the Person
+issuing Commercial Paper for the benefit of the CP Conduit Purchaser) any
+bankruptcy, reorganization, arrangement, insolvency or liquidation proceedings,
+or other similar proceedings under any federal or state bankruptcy or similar
+law.
+
+          (c)    This covenant shall survive the termination of this Supplement
+and the Base Indenture and the payment of all amounts payable hereunder and
+thereunder.
+
+          Section 9.4. LIMITED RECOURSE. (a) Notwithstanding anything to the
+contrary contained herein, any obligations of the CP Conduit Purchaser hereunder
+to any party hereto are solely the corporate obligations of the CP Conduit
+Purchaser and shall be payable at such time as funds are received by or are
+available to the CP Conduit Purchaser in excess of funds necessary to pay in
+full all of its outstanding Commercial Paper and, to the extent funds are not
+available to pay such obligations, the claims relating thereto shall not
+constitute a claim against the CP Conduit Purchaser but shall continue to
+accrue. Each party hereto agrees that the payment of any claim (as defined in
+Section 101 of Title 11 of the Bankruptcy Code) of any such party against the CP
+Conduit Purchaser shall be subordinated to the payment in full of all of its
+Commercial Paper.
+
+          (b)    No recourse under any obligation, covenant or agreement of the
+CP Conduit Purchaser contained herein shall be had against any incorporator,
+stockholder, officer, director, employee or agent of the CP Conduit Purchaser,
+its administrative agent, the Funding Agent or any of their Affiliates by the
+enforcement of any assessment or by any legal or equitable proceeding, by virtue
+of any statute or otherwise; it being expressly agreed and understood that this
+Supplement is solely a corporate obligation of the CP Conduit Purchaser
+individually, and that no personal liability whatever shall attach to or be
+incurred by any incorporator, stockholder, officer, director, employee or agent
+of the CP Conduit Purchaser, its administrative agent, the Funding Agent or any
+of its Affiliates (solely by virtue of such capacity) or any of them under or by
+reason of any of the obligations, covenants or agreements of the CP Conduit
+Purchaser contained in this Agreement, or implied therefrom, and that any and
+all personal liability for breaches by the CP Conduit Purchaser of any of such
+obligations, covenants or agreements, either at common law or at equity, or by
+statute, rule or regulation, of every such incorporator, stockholder, officer,
+director, employee or agent is hereby expressly waived as a condition of and in
+consideration for the execution of this Supplement; PROVIDED that the foregoing
+shall not relieve any such Person from any liability it might otherwise have as
+a result of fraudulent actions taken or omissions made by them. The provisions
+of this Section 9.4 shall survive termination of this Supplement.
+
+                                      -46-
+<Page>
+
+          Section 9.5. COSTS AND EXPENSES. AFC-II agrees to pay on demand all
+reasonable out-of-pocket costs and expenses of the Swing-Line Purchaser
+(including, without limitation, reasonable fees and disbursements of counsel to
+the Swing-Line Purchaser) in connection with (i) the preparation, execution and
+delivery of this Supplement and the other Related Documents and any amendments
+or waivers of, or consents under, any such documents and (ii) the enforcement by
+the Swing-Line Purchaser of the obligations and liabilities of AFC-II, the
+Lessors, the Lessees, the Guarantor and the Administrator under the Indenture,
+this Supplement, the other Related Documents or any related document and all
+costs and expenses, if any (including reasonable counsel fees and expenses), in
+connection with the enforcement of this Agreement and the other Related
+Documents.
+
+          Section 9.6. EXHIBITS. The following exhibits attached hereto
+supplement the exhibits included in the Indenture.
+
+          EXHIBIT A:        Form of Variable Funding Note
+          EXHIBIT B:        Form of Increase/Decrease Notice
+          EXHIBIT C:        Form of Transfer Supplement
+
+          Section 9.7. RATIFICATION OF BASE INDENTURE. As supplemented by this
+Supplement, the Base Indenture is in all respects ratified and confirmed and the
+Base Indenture as so supplemented by this Supplement shall be read, taken, and
+construed as one and the same instrument.
+
+          Section 9.8. COUNTERPARTS. This Supplement may be executed in any
+number of counterparts, each of which so executed shall be deemed to be an
+original, but all of such counterparts shall together constitute but one and the
+same instrument.
+
+          Section 9.9. GOVERNING LAW. This Supplement shall be construed in
+accordance with the law of the State of New York, and the obligations, rights
+and remedies of the parties hereto shall be determined in accordance with such
+law.
+
+          Section 9.10. AMENDMENTS. This Supplement may be modified or amended
+from time to time in accordance with the terms of the Base Indenture; PROVIDED,
+HOWEVER, that if, pursuant to the terms of the Base Indenture or this
+Supplement, the consent of the Required Noteholders is required for an amendment
+or modification of this Supplement, such requirement shall be satisfied if such
+amendment or modification is consented to by the Swing-Line Purchaser and the
+Funding Agent.
+
+          Section 9.11. DISCHARGE OF INDENTURE. Notwithstanding anything to the
+contrary contained in the Base Indenture, no discharge of the Indenture pursuant
+to Section 11.1(b) of the Base Indenture will be effective as to the Series
+2002-3 Notes without the consent of the Requisite Noteholders.
+
+          Section 9.12. CAPITALIZATION OF AFC-II. AFC-II agrees that on the
+Series 2002-3 Closing Date and on the date of any increase in the Series 2002-3
+Maximum Invested Amount it will have capitalization in an amount equal to or
+greater than 3% of the sum of (x) the Series 2002-3 Maximum Invested Amount and
+(y) the invested amount of the Series 1997-1 Notes,
+
+                                      -47-
+<Page>
+
+Series 1998-1 Notes, Series 2000-1 Notes, Series 2000-2 Notes, Series 2000-3
+Notes, the Series 2000-4 Notes, the Series 2001-1 Notes, the Series 2001-2
+Notes, the Series 2002-1 Notes and the Series 2002-2 Notes.
+
+          Section 9.13. SERIES 2002-3 REQUIRED NON-PROGRAM ENHANCEMENT
+PERCENTAGE. AFC-II agrees that it will not make any Loan under any Loan
+Agreement to finance the acquisition of any Vehicle by AESOP Leasing, AESOP
+Leasing II or ARAC, as the case may be, if, after giving effect to the making of
+such Loan, the acquisition of such Vehicle and the inclusion of such Vehicle
+under the relevant Lease, the Series 2002-3 Required Non-Program Enhancement
+Percentage would exceed 33.0%.
+
+          Section 9.14. TERMINATION OF SUPPLEMENT. This Supplement shall cease
+to be of further effect when all outstanding Series 2002-3 Notes theretofore
+authenticated and issued have been delivered (other than destroyed, lost, or
+stolen Series 2002-3 Notes which have been replaced or paid) to the Trustee for
+cancellation and AFC-II has paid all sums payable hereunder.
+
+          Section 9.15. COLLATERAL REPRESENTATIONS AND WARRANTIES OF AFC-II.
+AFC-II hereby represents and warrants to the Trustee, the Funding Agent, the APA
+Bank and the CP Conduit Purchaser that:
+
+          (a)    The Base Indenture creates a valid and continuing security
+     interest (as defined in the applicable UCC) in the Collateral in favor of
+     the Trustee for the benefit of the Noteholders, which security interest is
+     prior to all other liens, and is enforceable as such as against creditors
+     of and purchasers from AFC-II. This Supplement will create a valid and
+     continuing security interest (as defined in the applicable UCC) in the
+     Series 2002-3 Collateral in favor of the Trustee for the benefit of the
+     Series 2002-3 Noteholders, which security interest is prior to all other
+     liens, and is enforceable as such as against creditors of and purchasers
+     from AFC-II.
+
+          (b)    The Collateral and the Series 2002-3 Collateral (in each case,
+     other than the Vehicles) consist of "instruments", "general intangibles"
+     and "deposit accounts" within the meaning of the applicable UCC.
+
+          (c)    AFC-II owns and has good and marketable title to the Collateral
+     and the Series 2002-3 Collateral free and clear of any lien, claim or
+     encumbrance of any Person.
+
+          (d)    With respect to the portion of the Collateral that consists of
+     instruments, all original executed copies of each instrument that
+     constitute or evidence part of the Collateral have been delivered to the
+     Trustee. None of the instruments that constitute or evidence the Collateral
+     have any marks or notations indicating that they have been pledged,
+     assigned or otherwise conveyed to any Person other than the Trustee.
+
+          (e)    With respect to the portion of the Collateral that consists of
+     general intangibles, AFC-II has caused the filing of all appropriate
+     financing statements in the proper filing office in the appropriate
+     jurisdictions under applicable law in order to perfect the security
+     interest in the Collateral granted to the Trustee under the Base Indenture.
+
+                                      -48-
+<Page>
+
+          (f)    With respect to the portion of the Collateral and the Series
+     2002-3 Collateral that consists of deposit or securities accounts
+     maintained with a bank other than the Trustee (collectively, the "BANK
+     ACCOUNTS"), AFC-II has delivered to the Trustee a fully executed agreement
+     pursuant to which the bank maintaining the Bank Accounts has agreed to
+     comply with all instructions originated by the Trustee directing
+     disposition of the funds in the Bank Accounts without further consent by
+     AFC-II. The Bank Accounts are not in the name of any person other than
+     AFC-II or the Trustee. AFC-II has not consented to the bank maintaining the
+     Bank Accounts to comply with instructions of any person other than the
+     Trustee.
+
+          (g)    Other than the security interest granted to the Trustee under
+     the Base Indenture and this Supplement, AFC-II has not pledged, assigned,
+     sold, granted a security interest in, or otherwise conveyed any of the
+     Collateral or the Series 2002-3 Collateral. AFC-II has not authorized the
+     filing of and is not aware of any financing statements against AFC-II that
+     includes a description of collateral covering the Collateral other than any
+     financing statement under the Base Indenture or that has been terminated.
+     AFC-II is not aware of any judgment or tax lien filings against AFC-II.
+
+          (h)    AFC-II has not authorized the filing of and is not aware of any
+financing statements against AFC-II that include a description of collateral
+covering the Collateral other than any financing statements (i) relating to the
+security interest granted to the Trustee in the Base Indenture or (ii) that has
+been terminated.
+
+          Section 9.16. NO WAIVER; CUMULATIVE REMEDIES. No failure to exercise
+and no delay in exercising, on the part of the Trustee or the CP Conduit
+Purchaser or the APA Bank, any right, remedy, power or privilege hereunder shall
+operate as a waiver thereof; nor shall any single or partial exercise of any
+right, remedy, power or privilege hereunder preclude any other or further
+exercise thereof or the exercise of any other right, remedy, power or privilege.
+The rights, remedies, powers and privileges herein provided are cumulative and
+not exhaustive of any rights, remedies, powers and privileges provided by law.
+
+          Section 9.17. WAIVER OF SETOFF. Notwithstanding any other provision of
+this Supplement or any other agreement to the contrary, all payments to the
+Funding Agent, the CP Conduit Purchaser and the APA Bank hereunder shall be made
+without set-off or counterclaim.
+
+          Section 9.18. NOTICES. All notices, requests, instructions and demands
+to or upon any party hereto to be effective shall be given (i) in the case of
+AFC-II, the Administrator and the Trustee, in the manner set forth in Section
+13.1 of the Base Indenture and (ii) in the case of the CP Conduit Purchaser and
+the APA Bank, in writing, and, unless otherwise expressly provided herein, shall
+be deemed to have been duly given or made when delivered by hand or three days
+after being deposited in the mail, postage prepaid, in the case of facsimile
+notice, when received, or in the case of overnight air courier, one Business Day
+after the date such notice is delivered to such overnight courier, addressed as
+follows in the case of the CP Conduit Purchaser and the APA Bank or to such
+other address as may be hereafter notified by the respective parties hereto:
+
+                                      -49-
+<Page>
+
+          Swing-Line
+          Purchaser:         JPMorgan Chase Bank
+                             Conduit Administration
+                             450 West 33rd Street
+                             New York, New York  10001
+                             Attention:  Lara Graff
+                             Fax: (212) 946-8098
+
+                                      -50-
+<Page>
+
+          IN WITNESS WHEREOF, each of the parties hereto have caused this
+Supplement to be duly executed by their respective officers thereunto duly
+authorized as of the day and year first above written.
+
+                                          AESOP FUNDING II L.L.C.,
+                                            as Issuer
+
+
+                                          By:
+                                             -----------------------------------
+                                             Title:
+
+
+                                          AVIS RENT A CAR SYSTEM, INC.,
+                                            as Administrator
+
+
+                                          By:
+                                             -----------------------------------
+                                             Title:
+
+<Page>
+
+                                          PARK AVENUE RECEIVABLES
+                                            CORPORATION, as CP Conduit Purchaser
+
+
+                                          By:
+                                             -----------------------------------
+                                             Title:
+
+
+                                          JPMORGAN CHASE BANK,
+                                            as Funding Agent
+
+
+                                          By:
+                                             -----------------------------------
+                                             Title:
+
+
+                                          JPMORGAN CHASE BANK,
+                                            as APA Bank
+
+
+                                          By:
+                                             -----------------------------------
+                                             Title:
+
+<Page>
+
+                                          THE  BANK OF NEW YORK (as successor in
+                                            interest to the corporate trust
+                                            administration of Harris Trust and
+                                            Savings Bank), as Trustee
+
+
+                                          By:
+                                             -----------------------------------
+                                             Title:
+
+
+                                          THE BANK OF NEW YORK, as Series 2002-3
+                                            Agent
+
+
+                                          By:
+                                             -----------------------------------
+                                             Title:
+
+
+</TEXT>
+</DOCUMENT>

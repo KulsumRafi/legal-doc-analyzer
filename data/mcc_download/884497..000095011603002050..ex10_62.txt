@@ -1,0 +1,188 @@
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>3
+<FILENAME>ex10_62.txt
+<DESCRIPTION>EXHIBIT 10.6.2
+<TEXT>
+<PAGE>
+
+                                                                  Exhibit 10.6.2
+
+                     AMENDMENT NO. 2 TO LICENSING AGREEMENT
+
+
+         This Amendment No. 2 ("Amendment No. 2) to Licensing Agreement is made
+as of 2002, December 10th by and between MedQuist Inc. ("MedQuist"), a New
+Jersey corporation with its principal place of business at Five Greentree
+Centre, Suit 311, Marlton, NJ 08053, acting on its own behalf and on behalf of
+its wholly owned subsidiaries (direct and indirect) and Philips Speech
+Processing GmbH ("Philips"), an Austrian corporation, with its registered place
+of business at Computerstrasse 6, 1101 Vienna, Austria (MedQuist and Philips,
+each a "Party" and, collectively, the "Parties").
+
+                                   WITNESSETH
+
+
+         WHEREAS, the Parties entered into a Licensing Agreement, dated as of
+May 22, 2000, as amended by Amendment No. 1 of January 2002 (as amended, the
+"Licensing Agreement") relating to the integration and use of certain Philips
+speech recognition technology into MedQuist business; and
+
+         WHEREAS, the Parties desire to amend the Licensing Agreement by
+modifying the pricing and fees and expanding the license to include additional
+applications subject to the terms and conditions of this Amendment No. 2;
+
+         NOW, THEREFORE, in consideration of the mutual promises contained
+herein, the Parties agree as follows:
+
+Section.      Definitions.
+
+    (i)    Unless otherwise defined in this Amendment No.2, capitalized terms
+           used in this Amendment No. 2 shall have the meanings given to them in
+           the Licensing Agreement.
+
+    The following definitions are added to Section 1 of the Licensing Agreement:
+
+    (ii)   Service Bureau Services as defined in Amendment No.1 will be further
+           defined as:
+
+           "Service Bureau Services including Correction Services," where the
+           correction activity is part of the Service and is done by
+           MedQuist; and "ASP with Speech Recognition," where MedQuist does
+           not do the Correction.
+
+    (iii)  "In-house solution" is the total software solution including Speech
+           Recognition software that helps customers to increase the efficiency
+           of the document creation process. Currently MedQuist sells XXXX and
+           YYYYY as the in-house solution for Radiology. As part of this
+           Amendment No. 2, Philips shall develop an "In-house" solution (iii)
+           that is functionally equivalent to those products.
+
+    (iv)   "In house licenses business" is the business model where MedQuist
+           sells and implements the in-house solution with the integrated
+           Licensed Product within the IT environment of Customer.
+
+    (v)    "Transfer Price" is the price for a product or service to be paid by
+           MedQuist to Philips.
+
+Schedule D - Pricing
+
+         The first paragraph of Schedule D to Amendment No. 1 is hereby deleted
+and replaced with the following:
+
+    (i)    All License fees shall be based on a per payroll line basis. A
+           payroll line is defined as 65 black/white characters. From and after
+           December 1, 2002, the license fees for the Licensed Product will be
+           as follows:
+
+           o  Service Bureau Service including Correction Services:
+<PAGE>
+
+                o   For 2003, the lines fee will be free of charge under the
+                    express condition that MedQuist, related to providing
+                    Service Bureau Services with Correction Services, achieves
+                    its forecast of lines going through its New Transcription
+                    Platform ("NTP") using automated speech recognition ("ASR").
+                    If MedQuist does not meet its forecast, then MedQuist will
+                    pay $1,056,000. Payment will be made at end of the year
+                    2003.
+                o   For 2004 the same is valid as in 2003. Therefore, if the
+                    forecast amount is not met, MedQuist will pay Philips at the
+                    end of 2004 the amount of $3,600,000.
+                o   If, in 2003 or in 2004, MedQuist does not meet its
+                    forecasted lines, then right of first refusal as said in
+                    section 2 of Amendment No.1 and related to Service Bureau
+                    Service including Correction Services, will be cancelled.
+                o   For 2005 and thereafter, a line fee of $0.XXX is agreed for
+                    all lines.
+                o   The foregoing is subject to the Licensed Product scaling and
+                    functioning as part of the NTP in a commercially viable
+                    manner at the volume levels set forth in the above
+                    contemplated forecasts. If scaling issues inhibit MedQuist's
+                    ability to achieve the forecasts, the parties will negotiate
+                    in good faith to reach a mutually acceptable compromise.
+
+           o  ASP with Speech Recognition:
+
+                o   For 2003 and 2004 the line fee will be $0.0XX per line. In
+                    2005, the line fee will be $0.0XX for all lines.
+                o   MedQuist has the right to provide promotional pricing to any
+                    client for up to 90 days for ASP with Speech Recognition
+                    services. During this time, MedQuist will not be subject to
+                    paying Philips a minimum line rate. Instead, for clients
+                    receiving promotional pricing, MedQuist will pay Philips 50%
+                    of the revenues that it collects as a result of ASP with
+                    Speech Recognition. The promotional period for any specific
+                    client should not exceed 90-days without Phillips' approval.
+
+           o  "In house licenses business":
+
+                o   Philips will, in cooperation with MedQuist and Philips
+                    Medical Systems, develop a Philips in-house solution for the
+                    Radiology business based on the requirements and
+                    specifications of MedQuist.
+                o   Delivery of this in-house solution is planned in Q4 2003.
+                    Upon signing of this Agreement, MedQuist and Philips will
+                    work in good faith to establish reasonable terms and
+                    conditions of a development agreement ("Development
+                    Agreement") including milestones, deliverables and other
+                    customary terms and conditions for the in-house radiology
+                    solution and a payment schedule for any amounts due after
+                    the signing of this Agreement.
+                o   MedQuist will pay Philips $1.2M in 2003 in instalments based
+                    upon the delivery by Philips on jointly agreed milestones.
+                    On signing of this Agreement, MedQuist will pay Philips 35%
+                    of that amount. The balance shall be payable as agreed upon
+                    in the Development Agreement.
+                o   Until the Philips In-house solution (the replacement for
+                    XXXXX) is available, the Philips Speech engine will be for
+                    free under the express condition that it is bundled with
+                    XXXX. (This special arrangement does NOT apply to any other
+                    vendor solutions.). For every user license, MedQuist will
+                    pay upfront per quarter, the Quarterly maintenance of $73.50
+                    per user.
+                o   Upon delivery of the Philips In-house solution, MedQuist
+                    gets exclusivity for distribution only for this solution in
+                    North America for 1 (one) year after the product is
+                    commercially usable. The exclusivity will be reviewed
+                    annually based on business results (meeting the forecast) in
+                    that year. If the exclusivity is cancelled within 36 months
+                    after a commercially usable product is delivered, then
+                    Philips will pay to MedQuist (as liquidated damages for loss
+                    of exclusivity and not as a penalty) an early termination
+                    fee equal to US $33,333.33 for each month remaining in the
+                    36 month term after the effective date of termination. By
+                    way of example, if Philips terminates the exclusivity at the
+                    end of 24 months after delivery, then Philips will pay a
+                    termination fee equal to 12 times US $33,333.33.
+
+
+<PAGE>
+
+                o   Transfer Price of the "In-house solution" needs to be
+                    agreed, and it is hereby agreed that this will be lower than
+                    the Transfer Price of XXXXX including a Speech Recognition
+                    engine.
+
+The Fees do not include sales, use, excise and similar taxes, or the cost of
+shipping or insurance, for which MedQuist is responsible.
+
+All charges for additional services shall be on commercial terms and conditions
+that are reasonably acceptable to both parties.
+
+All dollar amounts specified in this agreement are US dollars.
+
+
+
+PHILIPS SPEECH PROCESSING GmbH                       MedQuist Inc.
+
+
+By: /s/ Marcel Wassink                               By: /s/ Ethan H. Cohen
+    ----------------------                               -------------------
+Name:  Marcel Wassink                                Name:  Ethan H. Cohen
+Title: Managing Director                             Title: EVP & CTO
+       PSP SRS
+
+
+</TEXT>
+</DOCUMENT>

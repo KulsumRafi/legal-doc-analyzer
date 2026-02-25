@@ -1,0 +1,2551 @@
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>5
+<FILENAME>exhb10_1.txt
+<DESCRIPTION>10.1
+<TEXT>
+                                                                    EXHIBIT 10.1
+
+
+
+                          SECURITIES PURCHASE AGREEMENT
+
+
+                                   DATED AS OF
+
+
+                                FEBRUARY 14, 2003
+
+
+                                 BY AND BETWEEN
+
+
+                             SMARTSERV ONLINE, INC.
+                                 AS THE ISSUER,
+
+
+                                       AND
+
+
+                       GLOBAL CAPITAL FUNDING GROUP, L.P.
+
+
+
+
+<PAGE>
+
+
+                                TABLE OF CONTENTS
+
+DEFINITIONS                                                                   1
+   DEFINITIONS                                                                1
+   ACCOUNTING TERMS AND DETERMINATIONS                                        9
+PURCHASE AND SALE OF SECURITIES                                               9
+   PURCHASE AND SALE OF CONVERTIBLE NOTE                                      9
+   PURCHASE PRICE                                                            10
+   CLOSING AND MECHANICS OF PAYMENT                                          10
+PAYMENT TERMS OF CONVERTIBLE NOTE                                            10
+   PAYMENT OF PRINCIPAL AND INTEREST; PAYMENT MECHANICS                      10
+   PAYMENT OF INTEREST                                                       10
+   VOLUNTARY REDEMPTION                                                      10
+   MANDATORY REDEMPTION                                                      11
+   PREPAYMENT/REDEMPTION PROCEDURES                                          11
+REPRESENTATIONS AND WARRANTIES                                               13
+   ORGANIZATION AND QUALIFICATION                                            13
+   AUTHORIZATION AND EXECUTION                                               13
+   CAPITALIZATION                                                            13
+   GOVERNMENTAL AUTHORIZATION                                                14
+   ISSUANCE OF SHARES                                                        14
+   NO CONFLICTS                                                              14
+   FINANCIAL INFORMATION                                                     15
+   LITIGATION                                                                15
+   COMPLIANCE WITH ERISA AND OTHER BENEFIT PLANS                             15
+   ENVIRONMENTAL MATTERS                                                     16
+   TAXES                                                                     16
+   INVESTMENTS, JOINT VENTURES                                               16
+   NOT AN INVESTMENT COMPANY                                                 17
+   FULL DISCLOSURE                                                           17
+   NO SOLICITATION; NO INTEGRATION WITH OTHER OFFERINGS                      17
+   PERMITS                                                                   17
+   LEASES                                                                    17
+   ABSENCE OF ANY UNDISCLOSED LIABILITIES OR CAPITAL CALLS                   18
+   PUBLIC UTILITY HOLDING COMPANY                                            18
+   INTELLECTUAL PROPERTY RIGHTS                                              18
+   INSURANCE                                                                 18
+   TITLE TO REAL PROPERTIES                                                  18
+   INTERNAL ACCOUNTING CONTROLS                                              18
+   FOREIGN PRACTICES                                                         19
+REPRESENTATIONS AND WARRANTIES OF PURCHASER                                  19
+   PURCHASER                                                                 19
+CONDITIONS PRECEDENT TO PURCHASE OF SECURITIES                               20
+   CONDITIONS PRECEDENT TO PURCHASER'S OBLIGATIONS TO PURCHASE               20
+   CONDITIONS TO THE COMPANY'S OBLIGATIONS                                   22
+AFFIRMATIVE COVENANTS                                                        22
+   INFORMATION                                                               23
+   PAYMENT OF OBLIGATIONS                                                    23
+   MAINTENANCE OF PROPERTY; INSURANCE                                        24
+   MAINTENANCE OF EXISTENCE                                                  24
+   COMPLIANCE WITH LAWS                                                      24
+   INSPECTION OF PROPERTY, BOOKS AND RECORDS                                 24
+   INVESTMENT COMPANY ACT                                                    25
+
+                                       i
+<PAGE>
+
+   USE OF PROCEEDS                                                           25
+   COMPLIANCE WITH TERMS AND CONDITIONS OF MATERIAL CONTRACTS                25
+   RESERVED SHARES AND LISTINGS                                              25
+   TRANSFER AGENT INSTRUCTIONS                                               25
+   MAINTENANCE OF REPORTING STATUS; SUPPLEMENTAL INFORMATION                 26
+   FORM D; BLUE SKY LAWS                                                     26
+NEGATIVE COVENANTS                                                           26
+   LIMITATIONS ON DEBT OR OTHER LIABILITIES                                  27
+   TRANSACTIONS WITH AFFILIATES                                              27
+   MERGER OR CONSOLIDATION                                                   27
+   LIMITATION ON ASSET SALES                                                 27
+   RESTRICTIONS ON CERTAIN AMENDMENTS                                        27
+   RESTRICTIONS ON ISSUANCES OF SECURITIES                                   28
+   LIMITATION ON STOCK REPURCHASES                                           29
+   NO SHORT SALES                                                            29
+RESTRICTIVE LEGENDS                                                          29
+   RESTRICTIONS ON TRANSFER                                                  29
+   LEGENDS.                                                                  29
+   NOTICE OF PROPOSED TRANSFERS                                              29
+ADDITIONAL AGREEMENTS AMONG THE PARTIES                                      30
+   LIQUIDATED DAMAGES                                                        30
+   CONVERSION NOTICE                                                         30
+   CONVERSION LIMIT                                                          31
+   REGISTRATION RIGHTS                                                       31
+ADJUSTMENT OF FIXED PRICE                                                    33
+   REORGANIZATION                                                            33
+   SHARE REORGANIZATION                                                      33
+   RIGHTS OFFERING                                                           34
+   SPECIAL DISTRIBUTION                                                      35
+   CAPITAL REORGANIZATION                                                    35
+   PURCHASE PRICE ADJUSTMENTS                                                36
+   ADJUSTMENT RULES                                                          36
+   CERTIFICATE AS TO ADJUSTMENT                                              37
+   NOTICE TO HOLDERS                                                         37
+EVENTS OF DEFAULT                                                            38
+   EVENTS OF DEFAULT.                                                        38
+   POWERS AND REMEDIES CUMULATIVE                                            40
+MISCELLANEOUS                                                                40
+   NOTICES                                                                   40
+   NO WAIVERS; AMENDMENTS                                                    40
+   INDEMNIFICATION                                                           41
+   EXPENSES:  DOCUMENTARY TAXES                                              43
+   PAYMENT                                                                   43
+   SUCCESSORS AND ASSIGNS                                                    43
+   BROKERS                                                                   43
+   DELAWARE LAW; SUBMISSION TO JURISDICTION; WAIVER OF JURY TRIAL;
+   APPOINTMENT OF AGENT                                                      43
+   ENTIRE AGREEMENT                                                          44
+   SURVIVAL; SEVERABILITY.                                                   44
+   TITLE AND SUBTITLES                                                       44
+   REPORTING ENTITY FOR THE COMMON STOCK.                                    44
+   PUBLICITY.                                                                44
+
+
+
+                                       ii
+<PAGE>
+
+
+                                LIST OF SCHEDULES
+
+Schedule 2.2        Allocation of Purchase Price
+Schedule 4.3        Capitalization Schedule 4.7
+
+Financial Information
+
+Schedule 4.12       Investments, Joint Ventures
+Schedule 4.15       No Solicitation; No Integration with Other Offerings
+Schedule 7.8        Use of Proceeds
+Schedule 8.2        Transactions with Affiliates
+
+
+
+<PAGE>
+
+
+                                LIST OF EXHIBITS
+
+Exhibit A       Form of Convertible Note
+Exhibit B       Form of Registration Rights Agreement
+Exhibit C       Form of Solvency Certificate
+Exhibit D       Form of Officer's Certificate
+Exhibit E       Form of Common Stock Purchase Warrant
+Exhibit F       Form of Security Agreement
+
+
+
+<PAGE>
+
+                          SECURITIES PURCHASE AGREEMENT
+
+     AGREEMENT, dated as of February 14, 2003, between SmartServ Online, Inc.
+(the " Company") and Global Capital Funding Group, L.P. ("Purchaser").
+
+                                R E C I T A L S:
+
+     WHEREAS, the Company desires to sell and issue to Purchaser, and Purchaser
+desires to purchase from the Company a $1,000,000 principal amount 10%
+Convertible Note due February 14, 2004 (the "Convertible Note") in accordance
+with the terms and conditions as set forth in the form of Convertible Debenture
+attached hereto as Exhibit A;
+
+     WHEREAS, the Convertible Note will be convertible into shares of the
+Company's common stock, $0.01 par value per share (the " Common Stock");
+
+     WHEREAS, in order to induce the Purchaser to enter into the transactions
+described in this Agreement, the Company desires to issue to the Purchaser a
+warrant to purchase 200,000 shares of Common Stock upon the Closing (as defined
+herein) on the terms and conditions described in the form of the common stock
+purchase warrant attached hereto as Exhibit E (the "Warrants");
+
+     WHEREAS, Purchaser will have certain registration rights with respect to
+such shares of Common Stock issuable as interest under, and upon conversion of,
+the Convertible Note (the "Note Shares") and upon exercise of the Warrants (the
+"Warrant Shares," the Note Shares and the Warrant Shares being collectively
+referred to herein as the " Conversion Shares") as set forth in the Registration
+Rights Agreement in the form attached hereto as Exhibit B; and
+
+     WHEREAS, the Convertible Note is secured by certain of the Company's assets
+pursuant to a Security Agreement in the form attached hereto as Exhibit F;
+
+     NOW, THEREFORE, in consideration of the foregoing premises and the
+covenants contained herein and other good and valuable consideration, the
+receipt and sufficiency of which are hereby acknowledged, the parties hereto
+agree as follows:
+
+                             ARTICLE 1. DEFINITIONS
+
+ARTICLE 1.1 DEFINITIONS . The following terms, as used herein, have the
+following meanings:
+
+     "Additional Shares of Common Stock" has the meaning set forth in Section
+11.6.
+
+     "Affiliate" means, with respect to any Person (the " Subject Person"), (i)
+any other Person (a " Controlling Person") that directly, or indirectly through
+one or more intermediaries, Controls the Subject Person or (ii) any other Person
+(other than the Subject Person or a Consolidated Subsidiary of the Subject
+Person) which is Controlled by or is under common Control with a Controlling
+Person.
+
+
+
+
+<PAGE>
+
+     "Agreement" means this Securities Purchase Agreement, as amended,
+supplemented or otherwise modified from time to time in accordance with its
+terms.
+
+     "Asset Sale" has the meaning set forth in Section 8.4.
+
+     "Balance Sheet Date" has the meaning set forth in Section 4.7.
+
+     "Benefit Arrangement" means at any time an employee benefit plan within the
+meaning of Section 3(3) of ERISA which is not a Plan or a Multiemployer Plan and
+which is maintained or otherwise contributed to by the Company.
+
+     "Benefit Plans" has the meaning set forth in Section 4.9(b).
+
+     "Business Day" means any day except a Saturday, Sunday or other day on
+which commercial banks in the City of New York are authorized or required by law
+to close.
+
+     "Capital Reorganization" has the meaning set forth in Section 11.5.
+
+     "Change in Control" means (i) after the date of this Agreement, any person
+or group of persons (within the meaning of Sections 13 and 14 of the Exchange
+Act and the rules and regulations of the Commission relating to such sections)
+other than Purchaser shall have acquired beneficial ownership (within the
+meaning of Rules 13d-3 and 13d-5 promulgated by the Commission pursuant to the
+Exchange Act) of 331/3% or more of the outstanding shares of Common Stock of the
+Company without the prior written consent of Purchaser; (ii) any sale or other
+disposition (other than by reason of death or disability) to any Person of more
+than 75,000 shares of Common Stock of the Company by any executive officers
+and/or employee directors of the Company without the prior written consent of
+Purchaser; (iii) individuals constituting the Board of Directors of the Company
+on the date hereof (together with any new Directors whose election by such Board
+of Directors or whose nomination for election by the stockholders of the Company
+was approved by a vote of at least 50.1% of the Directors still in office who
+are either Directors as of the date hereof or whose election or nomination for
+election was previously so approved), cease for any reason to constitute at
+least two-thirds of the Board of Directors of the Company then in office.
+
+
+<PAGE>
+
+     "Closing Bid Price" shall mean for any security as of any date, the closing
+bid price as reported by Bloomberg, L.P. (" Bloomberg") on the principal
+securities exchange or trading market where such security is listed or traded
+or, if the foregoing does not apply, the closing bid price of such security in
+the over-the-counter market on the electronic bulletin board for such security
+as reported by Bloomberg, or, if no closing bid price is reported for such
+security by Bloomberg, then the average of the bid prices of any market makers
+for such securities as reported in the "Pink Sheets" by the National Quotation
+Bureau, Inc. If the closing bid price cannot be calculated for such security on
+such date on any of the foregoing bases, the closing bid price of such security
+on such date shall be the fair market value as mutually determined by Purchaser
+and the Company for which the calculation of the closing bid price requires, and
+in the absence of such mutual determination, as determined by the Board of
+Directors of the Company in good faith.
+
+     "Closing Date" means the date on which all of the conditions set forth in
+Sections 6.1 and 6.2 shall have been satisfied and the Convertible Note is
+issued by the Company to Purchaser.
+
+     "Code" means the Internal Revenue Code of 1986, as amended.
+
+     "Commission" means the Securities and Exchange Commission or any entity
+succeeding to all of its material functions.
+
+     "Common Stock" means common stock, $0.01 par value per share, of the
+Company.
+
+     "Company" means SmartServ Online, Inc., a Delaware corporation, and its
+successors.
+
+     "Company Corporate Documents" means the certificate of incorporation and
+bylaws of the Company.
+
+     "Consolidated Net Worth" means at any date the total shareholder's equity
+which would appear on a consolidated balance sheet of the Company prepared as of
+such date.
+
+     "Consolidated Subsidiary" means at any date with respect to any Person or
+Subsidiary or other entity, the accounts of which would be consolidated with
+those of such Person in its consolidated financial statements if such statements
+were prepared as of such date.
+
+     "Control" (including, with correlative meanings, the terms "Controlling,"
+"Controlled by" and under "common Control with"), as used with respect to any
+Person, means the possession, directly or indirectly, of the power to direct or
+cause the direction of the management and policies of that Person, whether
+through the ownership of voting securities, by contract or otherwise.
+
+     "Conversion Date" shall mean the date of delivery (including delivery via
+telecopy) of a Notice of Conversion for all or a portion of a Convertible Note
+by the holder thereof to the Company as specified in the Convertible Note.
+
+
+<PAGE>
+
+     "Conversion Price" has the meaning set forth in the Convertible Note.
+
+     "Conversion Shares" has the meaning set forth in the Recitals.
+
+     "Convertible Note" means the Company's 10% Convertible Note substantially
+in the form set forth as Exhibit A hereto.
+
+     "Deadline" has the meaning set forth in Section 10.1.
+
+     "Debt" of any Person means at any date, without duplication, (i) all
+obligations of such Person for borrowed money, (ii) all obligations of such
+Person evidenced by bonds, Note, notes, or other similar instruments issued by
+such Person, (iii) all obligations of such Person as lessee which (y) are
+capitalized in accordance with GAAP or (z) arise pursuant to sale-leaseback
+transactions, (iv) all reimbursement obligations of such Person in respect of
+letters of credit or other similar instruments, (v) all Debt of others secured
+by a Lien on any asset of such Person, whether or not such Debt is otherwise an
+obligation of such Person and (vi) all Debt of others Guaranteed by such Person.
+
+     "Default" means any event or condition which constitutes an Event of
+Default or which with the giving of notice or lapse of time or both would,
+unless cured or waived, become an Event of Default.
+
+     "Derivative Securities" has the meaning set forth in Section 8.6.
+
+     "Discounted Equity Offerings" has the meaning set forth in Section 8.6.
+
+     "Directors" means the individuals then serving on the Board of Directors or
+similar such management council of the Company.
+
+     "Environmental Laws" means any and all federal, state, local and foreign
+statutes, laws, regulations, ordinances, rules, judgments, orders, decrees,
+permits, concessions, grants, franchises, licenses, agreements or other
+governmental restrictions relating to the environment or to emissions,
+discharges or releases of pollutants, contaminants, petroleum or petroleum
+products, chemicals or industrial, toxic or hazardous substances or wastes into
+the environment, including, without limitation, ambient air, surface water,
+ground water, or land, or otherwise relating to the manufacture, processing,
+distribution, use, treatment, storage, disposal, transport or handling of
+pollutants, contaminants, petroleum or petroleum products, chemicals or
+industrial, toxic or hazardous substances or wastes or the cleanup or other
+remediation thereof.
+
+     "ERISA" means the Employee Retirement Income Security Act of 1974, as
+amended, or any successor statute.
+
+
+<PAGE>
+
+     "ERISA Group" means the Company and each Subsidiary and all members of a
+controlled group of corporation and all trades or businesses (whether or not
+incorporated) under common control which, together with the Company or any
+Subsidiary, are treated as a single employer under the Code.
+
+     "Event of Default" has the meaning set forth in Article XII hereof.
+
+     "Exchange Act" means the Securities Exchange Act of 1934, as amended.
+"Financing" means a public or private financing consummated (meaning closing and
+funding) through the issuance of debt or equity securities (or securities
+convertible into or exchangeable for debt or equity securities) of the Company,
+other than Permitted Financings.
+
+     "Fixed Price(s)" has the meaning set forth in Section 11.1.
+
+     "GAAP" has the meaning set forth in Section 1.2.
+
+     "Guarantee" by any Person means any obligation, contingent or otherwise, of
+such Person directly or indirectly guaranteeing (whether by virtue of
+partnership arrangements, by agreement to keep well, to purchase assets, goods,
+securities or services, to take-or-pay, or to maintain a minimum net worth,
+financial ratio or similar requirements, or otherwise) any Debt of any other
+Person and, without limiting the generality of the foregoing, any obligation,
+direct or indirect, contingent or otherwise, of such Person (i) to purchase or
+pay (or advance or supply funds for the purchase or payment of) such Debt or
+(ii) entered into for the purpose of assuring in any other manner the holder of
+such Debt of the payment thereof or to protect such holder against loss in
+respect thereof (in whole or in part); provided that the term Guarantee shall
+not include endorsements for collection or deposit in the ordinary course of
+business. The term Guarantee used as a verb has a corresponding meaning.
+
+     "Hazardous Materials" means any hazardous materials, hazardous wastes,
+hazardous constituents, hazardous or toxic substances or petroleum products
+(including crude oil or any derivative or fraction thereof), defined or
+regulated as such in or under any Environmental Laws.
+
+     "Intellectual Property" has the meaning set forth in Section 4.20.
+
+     "Investment" means any investment in any Person, whether by means of share
+purchase, partnership interest, capital contribution, loan, time deposit or
+otherwise.
+
+     "Lien" means any lien, mechanic's lien, materialmen's lien, lease,
+easement, charge, encumbrance, mortgage, conditional sale agreement, title
+retention agreement, agreement to sell or convey, option, claim, title
+imperfection, encroachment or other survey defect, pledge, restriction, security
+interest or other adverse claim, whether arising by contract or under law or
+otherwise (including, without limitation, any financing lease having
+substantially the same economic effect as any of the foregoing, and the filing
+of any financing statement under the Uniform Commercial Code or comparable law
+of any jurisdiction in respect of any of the foregoing).
+
+
+<PAGE>
+
+     "Majority Holders" means (i) as of the Closing Date, Purchaser and (ii) at
+any time thereafter, the holders of more than 50% in aggregate principal amount
+of the 10% Convertible Note outstanding at such time.
+
+     "Market Price" shall mean the Closing Bid Price of the Common Stock
+preceding the date of determination.
+
+     "Maturity Date" shall mean the date of maturity of the Convertible Note.
+
+     "Maximum Number of Shares" shall mean that percentage that the Company may
+issue without shareholder approval under the applicable rules of a National
+Market or equivalent entity, of the then issued and outstanding shares of Common
+Stock of the Company as of the applicable date of determination, or such greater
+number of shares as the stockholders of the Company may have previously
+approved.
+
+     "NASD" has the meaning set forth in Section 7.10.
+
+     "National Market" means the Nasdaq Market, the Nasdaq Small Cap Market, the
+New York Stock Exchange, Inc. or the American Stock Exchange, Inc.
+
+     "Net Cash Proceeds" means, with respect to any transaction, the total
+amount of cash proceeds received by the Company or any Subsidiary less (i)
+reasonable underwriters' fees, brokerage commissions, reasonable professional
+fees and other customary out-of-pocket expenses payable in connection with such
+transaction, and (ii) in the case of dispositions of assets, (A) actual transfer
+taxes (but not income taxes) payable with respect to such dispositions, and (B)
+the amount of Debt, if any, secured by a Lien on the asset or assets disposed of
+and required to be, and actually repaid by the Company or any Subsidiary in
+connection therewith, and any trade payables specifically relating to such asset
+or assets sold by the Company or any Subsidiary that are not assumed by the
+purchaser of such asset or assets.
+
+     "Notice of Conversion" means the form to be delivered by a holder of the
+Convertible Note upon conversion of all or a portion thereof to the Company
+substantially in the form of Exhibit A to the form of Convertible Note.
+
+     "Notice of Exercise" means the form to be delivered by a holder of a
+Warrant upon exercise of all or a portion thereof to the Company substantially
+in the form of Exhibit A to the Warrant.
+
+     "Officer's Certificate" shall mean a certificate executed by the president,
+chief executive officer or chief financial officer of the Company in the form of
+Exhibit D attached hereto.
+
+
+<PAGE>
+
+     "OTC Bulletin Board" means the over-the-counter bulletin board operated by
+the NASD.
+
+     "PBGC" means the Pension Benefit Guaranty Corporation or any entity
+succeeding to any or all of its functions under ERISA.
+
+     "Permits" means all domestic and foreign licenses, franchises, grants,
+authorizations, permits, easements, variances, exemptions, consents,
+certificates, orders and approvals necessary to own, lease and operate the
+properties of, and to carry on the business of the Company and the Subsidiaries.
+
+     "Permitted Financings" has the meaning set forth in Section 8.6. "Person"
+means an individual, corporation, partnership, trust, incorporated or
+unincorporated association, joint venture, joint stock Company, government (or
+any agency or political subdivision thereof) or other entity of any kind.
+
+     "Plan" means at any time an employee pension benefit plan which is covered
+by Title IV of ERISA or subject to the minimum funding standards under the Code
+and either (i) is maintained, or contributed to, by any member of the ERISA
+group for employees of any member of the ERISA group or (ii) has at any time
+within the preceding five years been maintained, or contributed to, by any
+Person which was at such time a member of the ERISA group for employees of the
+Person which was at such time a member of the ERISA Group.
+
+     "Purchase Price" means the purchase price for the Securities set forth in
+Section 2.2 hereof.
+
+     "Purchaser" means the entity listed on the signature page hereto and its
+successors and assigns, including holders from time to time of the Convertible
+Note.
+
+     "Recourse Financing" means Debt of the Company or any Subsidiary which, by
+its terms, does not bar the lender thereof from action against the Company or
+any Subsidiary, as borrower or guarantor, if the security value of the project
+or asset pledged in respect thereof falls below the amount required to repay
+such Debt.
+
+     "Redemption Event" has the meaning set forth in Section 3.4.
+
+     "Registrable Securities" has the meaning set forth in Section 10.4(a).
+
+     "Registration Default" has the meaning set forth in Section 10.4(e).
+
+     "Registration Statement" has the meaning set forth in Section 10.4(b).
+
+     "Registration Rights Agreement" means the agreement between the Company and
+Purchaser dated the date hereof substantially in the form set forth in Exhibit B
+attached hereto.
+
+
+<PAGE>
+
+     "Required Effectiveness Date" has the meaning set forth in Section 10.4(b).
+
+     "Reserved Amount" has the meaning set forth in Section 7.10(a).
+
+     "Restricted Payment" means, with respect to any Person, (i) any dividend or
+other distribution on any shares of capital stock of such Person (except
+dividends payable solely in shares of capital stock of the same or junior class
+of such Person and dividends from a wholly-owned direct or indirect Subsidiary
+of the Company to its parent corporation), (ii) any payment on account of the
+purchase, redemption, retirement or acquisition of (a) any shares of such
+Person's capital stock or (b) any option, warrant or other right to acquire
+shares of such Person's capital stock or (iii) any loan, or advance or capital
+contribution to any Person (a " Stockholder") owning any capital stock of such
+Person other than relocation, travel or like advances to officers and employees
+in the ordinary course of business, and other than reasonable compensation as
+determined by the Board of Directors.
+
+     "Rights Offering" has the meaning set forth in Section 11.3.
+
+     "Sale Event" has the meaning set forth in Section 3.4.
+
+     "SEC Reports" has the meaning set forth in Section 7.1(a).
+
+     "Securities" means the Convertible Note, the Warrants and, as applicable,
+the Conversion Shares.
+
+     "Securities Act" means the Securities Act of 1933, as amended.
+
+     "Security Agreement" has the meaning set forth in the recitals.
+
+     "Share Reorganization" has the meaning set forth in Section 11.2.
+
+     "Solvency Certificate" shall mean a certificate executed by the chief
+financial officer or treasurer of the Company as to the solvency of the Company,
+the adequacy of its capital and its ability to pay its debts, all after giving
+effect to the issuance and sale of the Convertible Note and the completion of
+the offering (including without limitation the payment of any fees or expenses
+in connection therewith), which such Solvency Certificate shall be in the form
+of Exhibit C attached hereto.
+
+     "Special Distribution" has the meaning set forth in Section 11.4.
+
+     "Subsidiary" means, with respect to any Person, any corporation or other
+entity of which (x) a majority of the capital stock or other ownership interests
+having ordinary voting power to elect a majority of the Board of Directors or
+other persons performing similar functions are at the time directly or
+indirectly owned by such Person or (y) the results of operations, the assets and
+the liabilities of which are consolidated with such Person under GAAP.
+
+
+<PAGE>
+
+     "Subsidiary Corporate Documents" means the certificates of incorporation
+and bylaws of each Subsidiary.
+
+     "Trading Day" shall mean any Business Day in which the National Market or
+other automated quotation system or exchange on which the Common Stock is then
+traded is open for trading for at least four (4) hours.
+
+     "Transaction Agreements" means this Agreement, the Convertible Note, the
+Warrants, the Registration Rights Agreement, the Security Agreement and the
+other agreements contemplated by this Agreement. "Transfer" means any
+disposition of Securities that would constitute a sale thereof under the
+Securities Act.
+
+     "Unfunded Liabilities" means, with respect to any Plan at any time, the
+amount (if any) by which (i) the present value of all benefits under Plan
+exceeds (ii) the fair market value of all Plan assets allocable to such benefits
+(excluding any accrued but unpaid contributions), all determined as of the then
+most recent valuation date for such Plan, but only to the extent that such
+excess represents a potential liability of a member of the ERISA Group to the
+PBGC or any other Person under Title IV of ERISA.
+
+     "Warrant" means the Common Stock Purchase Warrant substantially in the form
+set forth in Exhibit E hereto.
+
+ARTICLE 1.2 ACCOUNTING TERMS AND DETERMINATIONS . Unless otherwise specified
+herein, all accounting terms used herein shall be interpreted, all accounting
+determinations hereunder shall be made, and all financial statements required to
+be delivered hereunder shall be prepared, in accordance with generally accepted
+accounting principles as in effect from time to time, applied on a consistent
+basis (except for changes concurred in by the Company's independent public
+accountants) (" GAAP"). All references to "dollars," "Dollars" or "$" are to
+United States dollars unless otherwise indicated.
+
+
+                   ARTICLE 2. PURCHASE AND SALE OF SECURITIES
+
+ARTICLE 2.1 PURCHASE AND SALE OF CONVERTIBLE NOTE .
+
+          (a) Subject to the terms and conditions set forth herein, the Company
+agrees to issue and sell to Purchaser, and Purchaser agrees to purchase from the
+Company, the Convertible Note.
+
+          (b) Purchaser shall acquire the Convertible Note on the Closing Date
+in an aggregate principal amount of One Million Dollars ($1,000,000.00).
+
+
+<PAGE>
+
+          (c) In connection with the Purchaser's agreement to purchase the
+Convertible Note specified in this Article II, the Company shall issue and
+deliver to the Purchaser on the Closing Date a Warrant to purchase an aggregate
+of 200,000 shares of Common Stock.
+
+ARTICLE 2.2 PURCHASE PRICE . The purchase price (the " Purchase Price") for the
+Convertible Note and the Warrants on the Closing Date shall be $1,000,000.00 and
+shall be allocated as set forth in Schedule 2.2.
+
+ARTICLE 2.3 CLOSING AND MECHANICS OF PAYMENT .
+
+          (a) The Purchase Price shall be paid on the Closing Date by wire
+transfer of immediately available funds.
+
+          (b) The Convertible Note and Warrants issued on the Closing Date shall
+be dated the date hereof.
+
+                  ARTICLE 3. PAYMENT TERMS OF CONVERTIBLE NOTE
+
+ARTICLE 3.1 PAYMENT OF PRINCIPAL AND INTEREST; PAYMENT MECHANICS . The Company
+will pay all amounts due on the Convertible Note by the method and at the
+address specified for such purpose by Purchaser in writing, without the
+presentation or surrender of the Convertible Note or the making of any notation
+thereon, except that upon written request of the Company made concurrently with
+or reasonably promptly after payment or prepayment in full of this Convertible
+Note, the holder shall surrender the Convertible Note for cancellation,
+reasonably promptly after any such request, to the Company at its principal
+executive office. Prior to any sale or other disposition of the Convertible
+Note, the holder thereof will, at its election, either endorse thereon the
+amount of principal paid thereon and the last date to which interest has been
+paid thereon or surrender the Convertible Note to the Company in exchange for a
+new Convertible Note or Convertible Note. The Company will afford the benefits
+of this Section 3.1 to any direct or indirect transferee of the Convertible Note
+purchased under this Agreement and that has made the same agreement relating to
+this Convertible Note as Purchaser has in this Section 3.1; provided that such
+transferee is an "accredited investor" under Rule 501 of the Securities Act.
+
+ARTICLE 3.2 PAYMENT OF INTEREST . Interest shall accrue on the outstanding
+principal amount of the Convertible Note as of the date of issuance and shall be
+payable as specified therein.
+
+ARTICLE 3.3 VOLUNTARY REDEMPTION . For so long as no Event of Default shall have
+occurred or is continuing, the Company may, at its option, repay, in whole or in
+part, the Convertible Note, as set forth in Section 3 of Exhibit A hereto,
+following at least seven (7) Business Days prior written notice to Purchaser
+(the day of expiration of such seven (7) Business Day period being referred to
+as the "redemption date"); provided, however, that if such date is not a
+Business Day, the prepayment date shall be the next Business Day thereafter.
+
+
+<PAGE>
+
+ARTICLE 3.4 MANDATORY REDEMPTION .
+
+          (a) Upon (i) the occurrence of a Change in Control of the Company,
+(ii) a transfer of all or substantially all of the assets of the Company to any
+Person in a single transaction or series of related transactions, or (iii) a
+consolidation, merger or amalgamation of the Company with or into another Person
+in which the Company is not the surviving entity (other than a merger which is
+effected solely to change the jurisdiction of incorporation of the Company and
+results in a reclassification, conversion or exchange of outstanding shares of
+Common Stock solely into shares of Common Stock) (each of items (i), (ii) and
+(iii) being referred to as a " Sale Event"), then, in each case, the Company
+shall, upon request of the Majority Holders, redeem the Convertible Note and
+Warrant. The redemption price payable upon any such redemption shall be the
+redemption price in Section 3 of the Convertible Note (the "Prepayment Price")
+and Section 14 of the Warrant, respectively; provided, however, in the event the
+Convertible Note is in default at the time of the consummation of any event set
+forth in Section 3.4(a), the redemption price shall be the price set forth in
+Section 5 of the Convertible Note (such price along with the Warrant Redemption
+Price set forth in Section 14 of the Warrant, a "Formula Price").
+
+          (b) Intentionally Omitted.
+
+          (c) Upon the issuance of the Maximum Number of Shares and the failure
+within 90 days of such issuance to obtain shareholder approval to issue
+additional shares of Common Stock (the " Redemption Event"), the Company shall
+redeem the outstanding balance of the Convertible Note and Warrant for the
+applicable Note and Warrant Formula Price.
+
+ARTICLE 3.5 PREPAYMENT/REDEMPTION PROCEDURES .
+
+          (a) Any redemption of the Convertible Note and Warrant, as applicable
+pursuant to Sections 3.3 or 3.4 above shall be deemed to be effective and
+consummated (for purposes of determining the redemption price, the Formula Price
+and the time at which Purchaser shall thereafter not be entitled to deliver a
+Notice of Conversion for the Convertible Note) as follows:
+
+               (i) A voluntary redemption pursuant to Section 3.3, seven days
+following date of the Notice of Redemption delivered by the Company to
+Purchaser;
+
+               (ii) A mandatory redemption pursuant to Section 3.4(a), the date
+of consummation of the applicable Sale Event; and
+
+               (iii) A redemption pursuant to Section 3.4(c), the date specified
+in the Convertible Note.
+
+
+<PAGE>
+
+          (b) On the Maturity Date and on the effective date of a redemption of
+the Convertible Note and Warrants as specified in Section 3.5(a) above, the
+Company shall deliver by wire transfer of funds the redemption price to
+Purchaser of the Convertible Note and Warrants subject to redemption. Should
+Purchaser not receive payment of any amounts due on redemption of its
+Convertible Note and Warrants by reason of the Company's failure to make payment
+at the times prescribed above for any reason, the Company shall pay to the
+applicable holder on demand (x) interest on the sums not paid when due at an
+annual rate equal to 12%, until the applicable holder is paid in full and (y)
+all costs of collection, including, but not limited to, reasonable attorneys'
+fees and costs, whether or not suit or other formal proceedings are instituted.
+
+          (c) The Company shall select the Convertible Note and Warrants to be
+redeemed in any redemption in which not all of the Convertible Note and Warrants
+are to be redeemed so that the ratio of the Convertible Note and Warrants of
+each holder selected for redemption to the total Convertible Note and Warrants
+owned by that holder shall be the same as the ratio of all such Convertible Note
+and Warrants selected for redemption bears to the total of all then outstanding
+Convertible Note and Warrants. Should any Convertible Note and Warrants required
+to be redeemed under the terms hereof not be redeemed solely by reason of
+limitations imposed by law, the applicable Convertible Note and Warrants shall
+be redeemed on the earliest possible dates thereafter to the maximum extent
+permitted by law.
+
+          (d) Any Notice of Conversion delivered by Purchaser (including
+delivery via telecopy) to the Company prior to the (x) Maturity Date or (y)
+effective date of a voluntary redemption pursuant to Section 3.3 or a mandatory
+redemption pursuant to Section 3.4 as specified in Section 3.5(a) above), shall
+be honored by the Company and the conversion of the Convertible Note shall be
+deemed effected on the Conversion Date. In addition, between the effective date
+of a voluntary redemption pursuant to Section 3.3 or a mandatory redemption
+pursuant to Section 3.4 as specified in Section 3.5(a) above and the date the
+Company is required to deliver the redemption proceeds in full to Purchaser,
+Purchaser may deliver a Notice of Conversion to the Company. Such notice will be
+(x) of no force or effect if the Company timely pays the redemption proceeds to
+Purchaser when due or (y) honored on or as of the date of the Notice of
+Conversion if the Company fails to timely pay the redemption proceeds to
+Purchaser when due.
+
+
+
+<PAGE>
+
+                   ARTICLE 4. REPRESENTATIONS AND WARRANTIES
+
+         The Company represents and warrants to Purchaser, as of the Closing
+Date, the following:
+
+ARTICLE 4.1 ORGANIZATION AND QUALIFICATION . The Company and each Subsidiary
+other than SmartServ GmbH and SmartServ European Services GmbH is a corporation
+(or other legal entity) duly organized, validly existing and in good standing
+under the laws of its jurisdiction of incorporation, with full power and
+authority to own, lease, use and operate its properties and to carry on its
+business as and where now owned, leased, used, operated and conducted. The
+Company is qualified to conduct business as a foreign corporation and is in good
+standing in every jurisdiction in which the nature of the business conducted by
+it makes such qualification necessary, except where such failure would not have
+a Material Adverse Effect. A " Material Adverse Effect" means any material
+adverse effect on the operations, results of operations, properties, assets or
+condition (financial or otherwise) of the Company or the Company and its
+Subsidiaries, taken as a whole, or on the transactions contemplated hereby or by
+the agreements or instruments to be entered into in connection herewith.
+
+                   ARTICLE 4.2 AUTHORIZATION AND EXECUTION .
+
+          (a) The Company has all requisite corporate power and authority to
+enter into and perform each Transaction Agreement and to consummate the
+transactions contemplated hereby and thereby and to issue the Securities in
+accordance with the terms hereof and thereof.
+
+          (b) The execution, delivery and performance by the Company of each
+Transaction Agreement and the issuance by the Company of the Securities have
+been duly and validly authorized and no further consent or authorization of the
+Company, its Board of Directors or its shareholders is required.
+
+          (c) This Agreement has been duly executed and delivered by the
+Company.
+
+          (d) This Agreement constitutes, and upon execution and delivery
+thereof by the Company, each of the Transaction Agreements will constitute, a
+valid and binding agreement of the Company, in each case enforceable against the
+Company in accordance with its respective terms.
+
+ARTICLE 4.3 CAPITALIZATION . As of the date hereof, the authorized, issued and
+outstanding capital stock of the Company is as set forth on Schedule 4.3 hereto
+and except as set forth on Schedule 4.3 no other shares of capital stock of the
+Company will be outstanding as of the Closing Date. All of such outstanding
+shares of capital stock are, or upon issuance will be, duly authorized, validly
+issued, fully paid and nonassessable. No shares of capital stock of the Company
+are subject to preemptive rights or similar rights of the stockholders of the
+Company or any liens or encumbrances imposed through the actions or failure to
+act of the Company.
+
+
+<PAGE>
+
+Other than as set forth on Schedule 4.3 hereto, as of the date hereof, (i) there
+are no outstanding options, warrants, scrip, rights to subscribe for, puts,
+calls, rights of first refusal, agreements, understandings, claims or other
+commitments or rights of any character whatsoever relating to, or securities or
+rights convertible into or exchangeable for any shares of capital stock of the
+Company or any of its Subsidiaries, or arrangements by which the Company or any
+of its Subsidiaries is or may become bound to issue additional shares of capital
+stock of the Company or any of its Subsidiaries, and (ii) there are no
+agreements or arrangements under which the Company or any of its Subsidiaries
+are obligated to register the sale of any of its or their securities under the
+Securities Act (except pursuant to the Registration Rights Agreement) and (iii)
+there are no anti-dilution or price adjustment provisions contained in any
+security issued by the Company (or in any agreement providing rights to security
+holders) that will be triggered by the issuance of the Convertible Note or
+Conversion Shares. The Company has furnished to Purchaser true and correct
+copies of the Company's Corporate Documents, and the terms of all securities
+convertible into or exercisable for Common Stock and the material rights of the
+holders thereof in respect thereto.
+
+ARTICLE 4.4 GOVERNMENTAL AUTHORIZATION . The execution and delivery by the
+Company of the Transaction Agreements does not and will not, the issuance and
+sale by the Company of the Securities does not and will not, and the
+consummation of the transactions contemplated hereby and by the other
+Transaction Agreements will not, require any action by or in respect of, or
+filing with, any governmental body, agency or governmental official except (a)
+such actions or filings that have been undertaken or made prior to the date
+hereof and that will be in full force and effect (or as to which all applicable
+waiting periods have expired) on and as of the date hereof or which are not
+required to be filed on or prior to the Closing Date, (b) such actions or
+filings that, if not obtained, would not result in a Material Adverse Effect,
+and (c) the filing of a "Form D" as described in Section 7.13 below.
+
+ARTICLE 4.5 ISSUANCE OF SHARES . Upon conversion in accordance with the terms of
+the Convertible Note and exercise of the Warrants, the Conversion Shares shall
+be duly and validly issued and outstanding, fully paid and nonassessable, free
+and clear of any taxes, Liens and charges with respect to issuance and shall not
+be subject to preemptive rights or similar rights of any other stockholders of
+the Company. Assuming the representations and warranties of Purchaser herein are
+true and correct in all material respects, each of the Securities will have been
+issued in material compliance with all applicable U.S. federal and state
+securities laws. The Company understands and acknowledges that, in certain
+circumstances, the issuance of Conversion Shares could dilute the ownership
+interests of other stockholders of the Company.
+
+ARTICLE 4.6 NO CONFLICTS . The execution and delivery by the Company of the
+Transaction Agreements to which it is a party did not and will not, the issuance
+and sale by the Company of the Securities did not and will not and the
+consummation of the transactions contemplated hereby and by the other
+Transaction Agreements will not, contravene or constitute a default under or
+violation of (i) any provision of applicable law or regulation, (ii) the Company
+Corporate Documents, (iii) any agreement, judgment, injunction, order, decree or
+other instrument binding upon the Company or any Subsidiary or any of their
+respective assets, or result in the creation or imposition of any Lien on any
+asset of the Company or any Subsidiary. The Company and each
+
+
+<PAGE>
+
+Subsidiary is in compliance with and conforms to all statutes, laws, ordinances,
+rules, regulations, orders, restrictions and all other legal requirements of any
+domestic or foreign government or any instrumentality thereof having
+jurisdiction over the conduct of its businesses or the ownership of its
+properties, except where such failure would not have a Material Adverse Effect.
+
+ARTICLE 4.7 FINANCIAL INFORMATION . Since September 30, 2002 (the " Balance
+Sheet Date"), except as disclosed in Schedule 4.7, there has been (x) no
+material adverse change in the assets or liabilities, or in the business or
+condition, financial or otherwise, or in the results of operations or prospects,
+of the Company and its Subsidiaries, whether as a result of any legislative or
+regulatory change, revocation of any license or rights to do business, fire,
+explosion, accident, casualty, labor trouble, flood, drought, riot, storm,
+condemnation, act of God, public force or otherwise and (y) no material adverse
+change in the assets or liabilities, or in the business or condition, financial
+or otherwise, or in the results of operations or prospects, of the Company and
+its subsidiaries except in the ordinary course of business; and no fact or
+condition exists or is contemplated or threatened which might cause such a
+change in the future. The audited and unaudited consolidated balance sheets of
+the Company and its Subsidiaries for the periods ending December 31, 2001 and
+September 30, 2002, and the related consolidated statements of income, changes
+in stockholders' equity and changes in cash flows for the periods then ended,
+including the footnotes thereto, except as indicated therein, (i) complied in
+all material respects with applicable accounting requirements and (ii) have been
+prepared in accordance with GAAP consistently applied throughout the periods
+indicated, except that the unaudited financial statements do not contain notes
+and may be subject to normal audit adjustments and normal annual adjustments.
+Such financial statements fairly present the financial condition of the Company
+and its Subsidiaries at the dates indicated and the consolidated results of
+their operations and cash flows for the periods then ended and, except as
+indicated therein, reflect all claims against and all Debts and liabilities of
+the Company and its Subsidiaries, fixed or contingent.
+
+ARTICLE 4.8 LITIGATION . Except as set forth in the Company's quarterly report
+on Form 10_QSB for the period ended September 30, 2002, there is no action, suit
+or proceeding pending or, to the knowledge of the Company, threatened against
+the Company or any Subsidiary, before any court or arbitrator or any
+governmental body, agency or official in which there is a reasonable likelihood
+of an adverse decision which could materially adversely affect the business,
+condition (financial or otherwise), operations, performance, properties or
+prospects of the Company or which challenges the validity of any Transaction
+Agreements.
+
+ARTICLE 4.9 COMPLIANCE WITH ERISA AND OTHER BENEFIT PLANS .
+
+          (a) Each member of the ERISA Group has fulfilled its obligations under
+the minimum funding standards of ERISA and the Code with respect to each Plan
+and is in compliance in all material respects with the presently applicable
+provisions of ERISA and the Code with respect to each Plan. No member of the
+ERISA Group has (i) sought a waiver of the minimum funding standard under
+Section 412 of the Code in respect of any Plan, (ii) failed to
+
+
+<PAGE>
+
+make any required contribution or payment to any Plan or Multiemployer Plan or
+in respect of any Benefit Arrangement, or made any amendment to any Plan or
+Benefit Arrangement, which as resulted or could result in the imposition of a
+Lien or the posting of a bond or other security under ERISA or the Code or (iii)
+incurred any liability under Title IV of ERISA other than a liability to the
+PBGC for premiums under Section 4007 of ERISA.
+
+          (b) The benefit plans not covered under clause (a) above (including
+profit sharing, deferred compensation, stock option, employee stock purchase,
+bonus, retirement, health or insurance plans, collectively the " Benefit Plans")
+relating to the employees of the Company are duly registered where required by,
+and are in good standing in all material respects under, all applicable laws.
+All required employer and employee contributions and premiums under the Benefit
+Plans to the date hereof have been made, the respective fund or funds
+established under the Benefit Plans are funded in accordance with applicable
+laws, and no past service funding liabilities exist thereunder.
+
+          (c) No Benefit Plans have any unfunded liabilities, either on a "going
+concern" or "winding up" basis and determined in accordance with all applicable
+laws and actuarial practices and using actuarial assumptions and methods that
+are reasonable in the circumstances. No event has occurred and no condition
+exists with respect to any Benefit Plans that has resulted or could reasonably
+be expected to result in any pension plan having its registration revoked or
+wound up (in whole or in part) or refused for the purposes of any applicable
+laws or being placed under the administration of any relevant pension benefits
+regulatory authority or being required to pay any taxes or penalties (in any
+material amounts) under any applicable laws.
+
+ARTICLE 4.10 ENVIRONMENTAL MATTERS . The costs and liabilities associated with
+Environmental Laws (including the cost of compliance therewith) are unlikely to
+have a material adverse effect on the business, condition (financial or
+otherwise), operations, performance, properties or prospects of the Company or
+any Subsidiary. Each of the Company and the Subsidiaries conducts its businesses
+in compliance in all material respects with all applicable Environmental Laws.
+
+ARTICLE 4.11 TAXES . All United States federal, state, county, municipality,
+local or foreign income tax returns and all other material tax returns
+(including foreign tax returns) which are required to be filed by or on behalf
+of the Company and each Subsidiary have been filed and all material taxes due
+pursuant to such returns or pursuant to any assessment received by the Company
+and each Subsidiary have been paid except those being disputed in good faith and
+for which adequate reserves have been established. The charges, accruals and
+reserves on the books of the Company and each Subsidiary in respect of taxes and
+other governmental charges have been established in accordance with GAAP.
+
+ARTICLE 4.12 INVESTMENTS, JOINT VENTURES . Other than as set forth in Schedule
+4.12, the Company has no Subsidiaries or other direct or indirect Investment in
+any Person, and the Company is not a party to any partnership, management,
+shareholders' or joint venture or similar agreement.
+
+
+<PAGE>
+
+ARTICLE 4.13 NOT AN INVESTMENT COMPANY . Neither the Company nor any Subsidiary
+is an "Investment Company" within the meaning of Investment Company Act of 1940,
+as amended.
+
+ARTICLE 4.14 FULL DISCLOSURE . The information heretofore furnished by the
+Company to Purchaser for purposes of or in connection with this Agreement or any
+transaction contemplated hereby does not, and all such information hereafter
+furnished by the Company or any Subsidiary to Purchaser will not (in each case
+taken together and on the date as of which such information is furnished),
+contain any untrue statement of a material fact or omit to state a material fact
+necessary in order to make the statements contained therein, in the light of the
+circumstances under which they are made, not misleading.
+
+ARTICLE 4.15 NO SOLICITATION; NO INTEGRATION WITH OTHER OFFERINGS . No form of
+general solicitation or general advertising was used by the Company or, to the
+best of its actual knowledge, any other Person acting on behalf of the Company,
+in connection with the offer and sale of the Securities. Except at set forth on
+Schedule 4.15, neither the Company, nor, to its knowledge, any Person acting on
+behalf of the Company, has, either directly or indirectly, sold or offered for
+sale to any Person (other than Purchaser) any of the Securities or, within the
+six months prior to the date hereof, any other similar security of the Company
+except as contemplated by this Agreement, and the Company represents that
+neither itself nor any Person authorized to act on its behalf (except that the
+Company makes no representation as to Purchaser and their Affiliates) will sell
+or offer for sale any such security to, or solicit any offers to buy any such
+security from, or otherwise approach or negotiate in respect thereof with, any
+Person or Persons so as thereby to cause the issuance or sale of any of the
+Securities to be in violation of any of the provisions of Section 5 of the
+Securities Act. The issuance of the Securities to Purchaser will not be
+integrated with any other issuance of the Company's securities (past, current or
+future) which requires stockholder approval under the rules of the Nasdaq Small
+Cap Market.
+
+ARTICLE 4.16 PERMITS . (a) Each of the Company and its Subsidiaries has all
+material Permits; (b) all such Permits are in full force and effect, and each of
+the Company and its Subsidiaries has fulfilled and performed all material
+obligations with respect to such Permits; (c) no event has occurred which
+allows, or after notice of lapse of time would allow, revocation or termination
+by the issuer thereof or which results in any other material impairment of the
+rights of the holder of any such Permit; and (d) the Company has no reason to
+believe that any governmental body or agency is considering limiting, suspending
+or revoking any such Permit.
+
+ARTICLE 4.17 LEASES . Except for the lease relating to the Company's
+headquarters located in Stamford, Connecticut, neither the Company nor any
+Subsidiary is a party to any capital lease obligation with a value greater than
+$100,000 or to any operating lease with an aggregate annual rental greater than
+$100,000 during the life of such lease.
+
+
+<PAGE>
+
+ARTICLE 4.18 ABSENCE OF ANY UNDISCLOSED LIABILITIES OR CAPITAL CALLS . There are
+no liabilities of the Company or any Subsidiary of any kind whatsoever, whether
+accrued, contingent, absolute, determined, determinable or otherwise, and there
+is no existing condition, situation or set of circumstances which would
+reasonably be expected to result in such a liability, other than (i) those
+liabilities provided for in the financial statements delivered pursuant to
+Section 4.7 and (ii) other undisclosed liabilities which, individually or in the
+aggregate, would not have a Material Adverse Effect.
+
+ARTICLE 4.19 PUBLIC UTILITY HOLDING COMPANY . Neither the Company nor any
+Subsidiary is, or will be upon issuance and sale of the Securities and the use
+of the proceeds described herein, subject to regulation under the Public Utility
+Holding Company Act of 1935, as amended, the Federal Power Act, the Interstate
+Commerce Act or to any federal or state statute or regulation limiting its
+ability to issue and perform its obligations under any Transaction Agreement.
+
+ARTICLE 4.20 INTELLECTUAL PROPERTY RIGHTS . Each of the Company and its
+Subsidiaries owns, licenses or has the rights to use, all material patents,
+trademarks, trade names, copyrights, technology, know-how and processes
+(collectively, " Intellectual Property") used in, or necessary for the conduct
+of its business; no claims have been asserted by any Person to the use of any
+such Intellectual Property or challenging or questioning the validity or
+effectiveness of any license or agreement related thereto. To the best of
+Company's and its Subsidiaries' knowledge, there is no valid basis for any such
+claim and the use of such Intellectual Property by the Company and its
+Subsidiaries will not infringe upon the rights of any Person.
+
+ARTICLE 4.21 INSURANCE . The Company and its Subsidiaries maintain, with
+financially sound and reputable insurance companies, insurance in at least such
+amounts and against such risks such that any uninsured loss would not have a
+Material Adverse Effect. All insurance coverages of the Company and its
+Subsidiaries are in full force and effect and there are no past due premiums in
+respect of any such insurance.
+
+ARTICLE 4.22 TITLE TO REAL PROPERTIES . The Company and its Subsidiaries have
+good and marketable title to all their respective real properties free and clear
+of all Liens.
+
+ARTICLE 4.23 INTERNAL ACCOUNTING CONTROLS . The Company and each of its
+Subsidiaries maintain a system of internal accounting controls sufficient, in
+the judgment of the Company's Board of Directors, to provide reasonable
+assurance that (i) transactions are executed in accordance with managements'
+general or specific authorizations, (ii) transactions are recorded as necessary
+to permit preparation of financial statements in conformity with GAAP and to
+maintain asset accountability, (iii) access to assets is permitted only in
+accordance with management's general or specific authorization, and (iv) the
+recorded accountability for assets is compared with the existing assets at
+reasonable intervals and appropriate action is taken with respect to any
+differences.
+
+
+<PAGE>
+
+ARTICLE 4.24 FOREIGN PRACTICES . Neither the Company nor any of its Subsidiaries
+nor, to the Company's knowledge, any employee or agent of the Company or any
+Subsidiary has made any payments of funds of the Company or Subsidiary, or
+received or retained any funds, in each case in violation of any law, rule or
+regulation.
+
+             ARTICLE 5. REPRESENTATIONS AND WARRANTIES OF PURCHASER
+
+ARTICLE 5.1 PURCHASER . Purchaser hereby represents and warrants to the Company
+that:
+
+          (a) Purchaser is an "accredited investor" within the meaning of Rule
+501(a) under the Securities Act and the Securities to be acquired by it pursuant
+to this Agreement are being acquired for its own account and, as of the date
+hereof, not with a view toward, or for sale in connection with, any distribution
+thereof except in compliance with applicable United States federal and state
+securities law; provided that the disposition of Purchaser's property shall at
+all times be and remain within its control;
+
+          (b) the execution, delivery and performance of this Agreement and the
+purchase of the Securities pursuant thereto are within Purchaser's corporate or
+partnership powers, as applicable, and have been duly and validly authorized by
+all requisite corporate or partnership action;
+
+          (c) this Agreement has been duly executed and delivered by Purchaser;
+
+          (d) the execution and delivery by Purchaser of the Transaction
+Agreements to which it is a party does not, and the consummation of the
+transactions contemplated hereby and thereby will not, contravene or constitute
+a default under or violation of (i) any provision of applicable law or
+regulation, or (ii) any agreement, judgment, injunction, order, decree or other
+instrument binding upon Purchaser;
+
+          (e) Purchaser understands that the Securities have not been registered
+under the Securities Act and may not be transferred or sold except as specified
+in this Agreement or the remaining Transaction Agreements;
+
+          (f) this Agreement constitutes a valid and binding agreement of
+Purchaser enforceable in accordance with its terms, subject to (i) applicable
+bankruptcy, insolvency or similar laws affecting the enforceability of creditors
+rights generally and (ii) equitable principles of general applicability;
+
+          (g) Purchaser has such knowledge and experience in financial and
+business matters so as to be capable of evaluating the merits and risks of its
+investment in the Securities and Purchaser is capable of bearing the economic
+risks of such investment;
+
+
+<PAGE>
+
+          (h) Purchaser is knowledgeable, sophisticated and experienced in
+business and financial matters; Purchaser fully understands the limitations on
+transfer described herein; Purchaser has been afforded access to information
+about the Company and the financial condition, results of operations, property,
+management and prospects of the Company sufficient to enable it to evaluate its
+investment in the Securities; Purchaser has been afforded the opportunity to ask
+such questions as it has deemed necessary of, and to receive answers from,
+representatives of the Company concerning the terms and conditions of the
+offering of the Securities and the merits and the risks of investing in the
+Securities; and Purchaser has been afforded the opportunity to obtain such
+additional information which the Company possesses or can acquire that is
+necessary to verify the accuracy and completeness of the information given to
+Purchaser concerning the Company. The foregoing does not in any way relieve the
+Company of its representations and other undertakings hereunder, and shall not
+limit Purchaser's ability to rely thereon; and
+
+          (i) no part of the source of funds used by Purchaser to acquire the
+Securities constitutes assets allocated to any separate account maintained by
+Purchaser in which any employee benefit plan (or its related trust) has any
+interest.
+
+
+           ARTICLE 6. CONDITIONS PRECEDENT TO PURCHASE OF SECURITIES
+
+ARTICLE 6.1 CONDITIONS PRECEDENT TO PURCHASER'S OBLIGATIONS TO PURCHASE . The
+obligation of Purchaser hereunder to purchase the Convertible Note at the
+Closing is subject to the satisfaction, on or before the Closing Date, of each
+of the following conditions, provided that these conditions are for Purchaser's
+sole benefit and may be waived by Purchaser at any time in its sole discretion:
+
+          (a) The Company shall have duly executed this Agreement, the
+Convertible Note, the Warrant, the Registration Rights Agreement, Escrow
+Agreement and the Security Agreement and delivered the same to Purchaser;
+
+          (b) The Company shall have delivered to Purchaser duly executed
+certificates representing the Convertible Note and Warrants in accordance with
+Section 2.3 hereof;
+
+          (c) The Company shall have delivered the Solvency Certificate;
+
+          (d) The representations and warranties of the Company contained in
+each Transaction Agreement shall be true and correct in all material respects as
+of the date when made and as of the Closing Date as though made at such time
+(except for representations and warranties that speak as of a specified date)
+and the Company shall have performed, satisfied and complied with all covenants,
+agreements and conditions required by such Transaction Agreements to be
+performed, satisfied or complied with by it at or prior to the Closing Date.
+Purchaser shall have received an Officer's Certificate
+
+
+<PAGE>
+
+executed by the chief executive officer of the Company, dated as of the Closing
+Date, to the foregoing effect and as to such other matters as may be reasonably
+requested by Purchaser, including but not limited to certificates with respect
+to the Company Corporate Documents, resolutions relating to the transactions
+contemplated hereby and the incumbencies of certain officers of the Company. The
+form of such certificate is attached hereto as Exhibit D;
+
+          (e) The Company shall have received all governmental, Board of
+Directors, shareholders and third party consents and approvals necessary or
+desirable in connection with the issuance and sale of the Securities and the
+consummation of the transactions contemplated by the Transaction Agreements;
+
+          (f) All applicable waiting periods in respect to the issuance and sale
+of the Securities shall have expired without any action having been taken by any
+competent authority that could restrain, prevent or impose any materially
+adverse conditions thereon or that could seek or threaten any of the foregoing;
+
+          (g) No law or regulation shall have been imposed or enacted that, in
+the judgment of Purchaser, could adversely affect the transactions set forth
+herein or in the other Transaction Agreements, and no law or regulation shall
+have been proposed that in the reasonable judgment of Purchaser could reasonably
+have any such effect;
+
+          (h) Purchaser shall have received an opinion, dated the Closing Date,
+of counsel to the Company, in form and substance satisfactory to Purchaser;
+
+          (i) All fees and expenses in connection with the transaction
+contemplated by this Agreement that are due and payable by the Company on or
+prior to the Closing Date shall have been paid;
+
+          (j) The Company Corporate Documents and the Subsidiary Corporate
+Documents, if any, shall be in full force and effect and no term or condition
+thereof shall have been amended, waived or otherwise modified without the prior
+written consent of Purchaser;
+
+          (k) There shall have occurred no material adverse change in the
+business, condition (financial or otherwise), operations, performance,
+properties or prospects of the Company or any Subsidiary since the Balance Sheet
+Date;
+
+          (l) There shall exist no action, suit, investigation, litigation or
+proceeding pending or threatened in any court or before any arbitrator or
+governmental instrumentality that challenges the validity of or purports to
+affect this Agreement or any other Transaction Agreement, or other transaction
+contemplated hereby or thereby or that is reasonably likely to have a Material
+Adverse Effect (other than as set forth in the Company's quarterly report on
+Form 10-QSB for the period ended September 30, 2002, or any material adverse
+effect on the enforceability of the Transaction Agreements or the Securities or
+the rights of the holders of the Securities or Purchaser hereunder;
+
+
+<PAGE>
+
+          (m) There shall not have occurred any disruption or adverse change in
+the financial or capital markets generally, or in the market for the Common
+Stock (including but not limited to any suspension or delisting), which
+Purchaser reasonably deems material in connection with the purchase of the
+Securities;
+
+          (n) Immediately before and on the Closing Date, no Default or Event of
+Default shall have occurred and be continuing;
+
+          (o) Purchaser shall have received all other opinions, resolutions,
+certificates, instruments, agreements or other documents as they shall
+reasonably request;
+
+          (p) The Company shall have delivered to Purchaser the Use of Proceeds
+Schedule 7.8.
+
+          (q) The Company shall have delivered to Purchaser a letter stating the
+amount owed to Hewlett Packard as of the Closing Date as well as wiring
+instructions or a contact person at Hewlett Packard relating to such pay-off.
+
+ARTICLE 6.2 CONDITIONS TO THE COMPANY'S OBLIGATIONS . The obligations of the
+Company to issue and sell the Securities to Purchaser pursuant to this Agreement
+are subject to the satisfaction, at or prior to the Closing Date, of the
+following conditions:
+
+          (a) The representations and warranties of Purchaser contained herein
+shall be true and correct in all material respects on the Closing Date and
+Purchaser shall have performed and complied in all material respects with all
+agreements required by this Agreement to be performed or complied with by
+Purchaser at or prior to the Closing Date;
+
+          (b) The issue and sale of the Securities by the Company shall not be
+prohibited by any applicable law, court order or governmental regulation;
+
+          (c) Receipt by the Company of duly executed counterparts of this
+Agreement and the Registration Rights Agreement signed by Purchaser;
+
+          (d) The Company shall have received payment of Purchase Price.
+
+
+                        ARTICLE 7. AFFIRMATIVE COVENANTS
+
+         The Company hereby agrees that, from and after the date hereof for so
+long as any Convertible Note remain outstanding and for the benefit of
+Purchaser:
+
+
+<PAGE>
+
+ARTICLE 7.1 INFORMATION . The Company will deliver to each holder of the
+Convertible Note:
+
+          (a) promptly upon the filing thereof, copies of (i) all registration
+statements (other than the exhibits thereto and any registration statements on
+Form S-8 or its equivalent), and (ii) all reports of Forms 10-K, 10-Q and 8-K
+(or other equivalents) which the Company or any Subsidiary has filed with the
+Commission (collectively, "SEC Reports");
+
+          (b) simultaneously with the delivery of each item referred to in
+clause (a) above, a certificate from the chief financial officer of the Company
+certifying the accuracy of the financial statements contained in the Company's
+reports on Forms 10-K and 10-Q (or other equivalents) and stating that no
+Default or Event of Default has occurred and is continuing, or, if as of the
+date of such delivery a Default shall have occurred and be continuing, a
+certificate from the Company setting forth the details of such Default or Event
+of Default and the action which the Company is taking or proposes to take with
+respect thereto;
+
+          (c) within two Business (2) days after any officer of the Company
+obtains knowledge of a Default or Event of Default, or that any Person has given
+any notice or taken any action with respect to a claimed Default hereunder, a
+certificate of the chief financial officer of the Company setting forth the
+details thereof and the action which the Company is taking or proposed to take
+with respect thereto;
+
+          (d) promptly upon the mailing thereof to the shareholders of the
+Company generally, copies of all financial statements, reports and proxy
+statements so mailed and any other document generally distributed to
+shareholders;
+
+          (e) at least two (2) Business Days prior to the consummation of any
+Financing or other event requiring a repayment of the Convertible Note under
+Section 3.4, notice thereof together with a summary of all material terms
+thereof and copies of all documents and instruments associated therewith to the
+extent such documents are available;
+
+          (f) notice promptly upon the occurrence of any event by which the
+Reserved Amount becomes less than the sum of (i) 1.5 times the maximum number of
+Conversion Shares issuable pursuant to the Transaction Agreements; and
+
+          (g) promptly following the commencement thereof, notice and a
+description in reasonable detail of any litigation or proceeding to which the
+Company or any Subsidiary is a party in which the amount involved is $200,000 or
+more and not covered by insurance or in which injunctive or similar relief is
+sought.
+
+ARTICLE 7.2 PAYMENT OF OBLIGATIONS . The Company covenants and agrees to cause
+the outstanding indebtedness to Hewlett Packard to be paid with proceeds from
+the Closing Date of
+
+
+<PAGE>
+
+the transaction contemplated by this Agreement within ten Business Days
+following the Closing and cause to be filed within 15 Business Days following
+the Closing Date, a UCC-3 Termination Statement as filed with the appropriate
+State agency, releasing the collateral securing the indebtedness to Hewlett
+Packard. In addition, the Company will, and will cause each Subsidiary to, pay
+and discharge, at or before maturity, all their respective material obligations,
+including, without limitation, tax liabilities, except where the same may be
+contested in good faith by appropriate proceedings and will maintain, in
+accordance with GAAP, appropriate reserves for the accrual of any of the same.
+
+ARTICLE 7.3 MAINTENANCE OF PROPERTY; INSURANCE . The Company will, and will
+cause each Subsidiary to, keep all property useful and necessary in its business
+in good working order and condition, ordinary wear and tear excepted. In
+addition, the Company and each Subsidiary will maintain insurance in at least
+such amounts and against such risks as it has insured against as of the Closing
+Date.
+
+ARTICLE 7.4 MAINTENANCE OF EXISTENCE . The Company will, and will cause each
+operationally active Subsidiary to, continue to engage in business of the same
+general type as now conducted by the Company and such operationally active
+Subsidiaries, and will preserve, renew and keep in full force and effect its
+respective corporate existence and their respective material rights, privileges
+and franchises necessary or desirable in the normal conduct of business.
+
+ARTICLE 7.5 COMPLIANCE WITH LAWS . The Company will, and will cause each
+Subsidiary to, comply, in all material respects, with all federal, state,
+municipal, local or foreign applicable laws, ordinances, rules, regulations,
+municipal by-laws, codes and requirements of governmental authorities
+(including, without limitation, Environmental Laws and ERISA and the rules and
+regulations thereunder) except (i) where compliance therewith is contested in
+good faith by appropriate proceedings or (ii) where non-compliance therewith
+could not reasonably be expected, in the aggregate, to have a material adverse
+effect on the business, condition (financial or otherwise), operations,
+performance, properties or prospects of the Company or such Subsidiary.
+
+ARTICLE 7.6 INSPECTION OF PROPERTY, BOOKS AND RECORDS . The Company will, and
+will cause each Subsidiary to, keep proper books of record and account in which
+full, true and correct entries shall be made of all dealings and transactions in
+relation to their respective businesses and activities; and will permit, during
+normal business hours, Purchaser' Representative or an affiliate thereof, as
+representatives of Purchaser, and representatives of the Small Business
+Administration to visit and inspect any of their respective properties, upon
+reasonable prior notice, to examine and make abstracts from any of their
+respective books and records and to discuss their respective affairs, finances
+and accounts with their respective executive officers and independent public
+accountants (and by this provision the Company authorizes its independent public
+accountants to disclose and discuss with Purchaser the affairs, finances and
+accounts of the Company and its Subsidiaries in the presence of a representative
+of the Company; provided,
+
+
+<PAGE>
+
+however, that such discussions will not result in any unreasonable expense to
+the Company, without Company consent), all at such reasonable times.
+
+ARTICLE 7.7 INVESTMENT COMPANY ACT . The Company will not be or become an
+open-end investment trust, unit investment trust or face-amount certificate
+company that is or is required to be registered under Section 8 of the
+Investment Company Act of 1940, as amended.
+
+ARTICLE 7.8 USE OF PROCEEDS . The proceeds from the issuance and sale of the
+Convertible Note by the Company shall be used in accordance with Schedule 7.8
+attached hereto. None of the proceeds from the issuance and sale of the
+Convertible Note by the Company pursuant to this Agreement will be used directly
+or indirectly for the purpose, whether immediate, incidental or ultimate, of
+purchasing or carrying any "margin stock" within the meaning of Regulation G of
+the Board of Governors of the Federal Reserve System.
+
+ARTICLE 7.9 COMPLIANCE WITH TERMS AND CONDITIONS OF MATERIAL CONTRACTS . The
+Company will, and will cause each Subsidiary to, comply, in all respects, with
+all terms and conditions of all material contracts to which it is subject.
+
+                  ARTICLE 7.10 RESERVED SHARES AND LISTINGS .
+
+          (a) The Company shall at all times have authorized, and reserved for
+the purpose of issuance, a sufficient number of shares of Common Stock to
+provide for the full conversion of the outstanding Convertible Note and exercise
+of the Warrants and issuance of the Conversion Shares (based on the conversion
+price of the Convertible Note in effect from time to time and the exercise price
+of the Warrants, respectively) (the "Reserved Amount"). The Company shall not
+reduce the Reserved Amount without the prior written consent of Purchaser. If at
+any time the number of shares of Common Stock authorized and reserved for
+issuance is below the number of Conversion Shares issued or issuable upon
+conversion of the Convertible Note and exercise of the Warrants, the Company
+will promptly take all corporate action necessary to authorize and reserve a
+sufficient number of shares, including, without limitation, either (x) calling a
+special meeting of shareholders to authorize additional shares, in the case of
+an insufficient number of authorized shares or (y) in lieu thereof, consummating
+the immediate repurchase of the Convertible Note and the Warrants contemplated
+in Section 3.4(c) hereof.
+
+          (b) The Company will comply in all respects with the Company's
+reporting, filing and other obligations under the bylaws or rules of the Nasdaq
+Small Cap Market or the National Association of Securities Dealers, Inc. (the
+"NASD"), as applicable. The Company shall promptly provide to Purchaser copies
+of any notices it receives regarding the continued eligibility of the Common
+Stock for listing on the Nasdaq Small Cap Market or any National Market.
+
+ARTICLE 7.11 TRANSFER AGENT INSTRUCTIONS . Upon receipt of a Notice of
+Conversion or Notice of Exercise, as applicable, the Company shall immediately
+direct the Company's transfer agent to issue certificates, registered in the
+name of Purchaser or its nominee, for the
+
+
+<PAGE>
+
+Conversion Shares, in such amounts as specified from time to time by Purchaser
+to the Company upon proper conversion of the Convertible Note or exercise of the
+Warrants. Upon conversion of the Convertible Note in accordance with its terms
+and/or exercise of any Warrants in accordance with their terms, the Company
+will, and will use its best lawful efforts to cause its transfer agent to, issue
+one or more certificates representing shares of Common Stock in such name or
+names and in such denominations specified by a Purchaser in a Notice of
+Conversion or Notice of Exercise, as the case may be. As long as the
+Registration Statement contemplated by the Registration Rights Agreement shall
+remain effective, the shares of Common Stock issuable upon conversion of the
+Convertible Note or exercise of the Warrants shall be issued to any transferee
+of such shares from Purchaser without any restrictive legend upon appropriate
+evidence of transfer in compliance with the Securities Act and the rules and
+regulations of the Commission; provided that for so long as the Registration
+Statement is effective, no opinion of counsel will be required to effect any
+such transfer. The Company further warrants and agrees that no instructions
+other than these instructions have been or will be given to its transfer agent.
+Nothing in this Section 7.11 shall affect in any way a Purchaser's obligation to
+comply with all securities laws applicable to Purchaser upon resale of such
+shares of Common Stock, including any prospectus delivery requirements.
+
+ARTICLE 7.12 MAINTENANCE OF REPORTING STATUS; SUPPLEMENTAL INFORMATION . So long
+as any of the Securities are outstanding, the Company shall timely file all
+reports required to be filed with the Commission pursuant to the Exchange Act.
+The Company shall not terminate its status as an issuer required to file reports
+under the Exchange Act, even if the Exchange Act or the rules and regulations
+thereunder would permit such termination. If at anytime the Company is not
+subject to the requirements of Section 13 or 15(d) of the Exchange Act, the
+Company will promptly furnish at its expense, upon request, for the benefit of
+the holders from time to time of Securities, and prospective purchasers of
+Securities, information satisfying the information requirements of Rule 144
+under the Securities Act.
+
+ARTICLE 7.13 FORM D; BLUE SKY LAWS . The Company agrees to file a "Form D" with
+respect to the Securities as required under Regulation D of the Securities Act
+and to provide a copy thereof to Purchaser promptly after such filing. The
+Company shall, on or before the Closing Date, take such action as the Company
+shall reasonably determine is necessary to qualify the Securities for sale to
+Purchaser at the Closing pursuant to this Agreement under applicable securities
+or "blue sky" laws of the states of the United States (or to obtain an exemption
+from such qualification), and shall provide evidence of any such action so taken
+to Purchaser on or prior to the Closing Date.
+
+
+                         ARTICLE 8. NEGATIVE COVENANTS
+
+         The Company and Purchaser hereby agree (as applicable) that after the
+date hereof for so long as the Convertible Note remains outstanding and for the
+benefit of Purchaser and the Company, as applicable;
+
+
+<PAGE>
+
+ARTICLE 8.1 LIMITATIONS ON DEBT OR OTHER LIABILITIES . Neither the Company nor
+any Subsidiary will create, incur, assume or suffer to exist (at any time after
+the Closing Date, after giving effect to the application of the proceeds of the
+issuance of the Securities) any Debt except (x) Debt incurred in a Permitted
+Financing, (y) Debt incurred in connection with equipment leases to which the
+Company or its Subsidiaries are a party incurred in the ordinary course of
+business; and (z) Debt incurred in connection with trade accounts payable,
+imbalances and refunds arising in the ordinary course of business.
+
+ARTICLE 8.2 TRANSACTIONS WITH AFFILIATES . The Company and each Subsidiary will
+not, directly or indirectly, pay any funds to or for the account of, make any
+investment (whether by acquisition or stock or indebtedness, by loan, advance,
+transfer of property, guarantee or other agreement to pay, purchase or service,
+directly or indirectly, and Debt, or otherwise) in, lease, sell, transfer or
+otherwise dispose of any assets, tangible or intangible, to, or participate in,
+or effect any transaction in connection with any joint enterprise or other joint
+arrangement with, any Affiliate, except, (1) pursuant to those agreements
+specifically identified on Schedule 8.2 attached hereto (with a copy of such
+agreements annexed to such Schedule 8.2) and (2) on terms to the Company or such
+Subsidiary no less favorable than terms that could be obtained by the Company or
+such Subsidiary from a Person that is not an Affiliate of the Company upon
+negotiation at arms' length, as determined in good faith by the Board of
+Directors of the Company; provided that no determination of the Board of
+Directors shall be required with respect to any such transactions entered into
+in the ordinary course of business.
+
+ARTICLE 8.3 MERGER OR CONSOLIDATION . The Company will not, in a single
+transaction or a series of related transactions (i) consolidate with or merge
+with or into any other Person, or (ii) permit any other Person to consolidate
+with or merge into it, unless the Company shall be the survivor of such merger
+or consolidation and (x) immediately before and immediately after given effect
+to such transaction (including any indebtedness incurred or anticipated to be
+incurred in connection with the transaction), no Default or Event of Default
+shall have occurred and be continuing; and (y) the Company has delivered to
+Purchaser an Officer's Certificate stating that such consolidation, merger or
+transfer complies with this Agreement, and that all conditions precedent in this
+Agreement relating to such transaction have been satisfied.
+
+ARTICLE 8.4 LIMITATION ON ASSET SALES . Neither the Company nor any Subsidiary
+will consummate an Asset Sale of material assets of the Company or any
+Subsidiary without the prior written consent of Purchaser, which consent shall
+not be unreasonably withheld. As used herein, "Asset Sale" means any sale,
+lease, transfer or other disposition (or series of related sales, leases,
+transfers or dispositions) or sales of capital stock of a Subsidiary (other than
+directors' qualifying shares), property or other assets (each referred to for
+the purpose of this definition as a "disposition"), including any disposition by
+means of a merger, consolidation or similar transaction other than a disposition
+of property or assets at fair market value in the ordinary course of business.
+
+ARTICLE 8.5 RESTRICTIONS ON CERTAIN AMENDMENTS . Neither the Company nor any
+Subsidiary will waive any provision of, amend, or suffer to be amended, any
+provision of such
+
+
+<PAGE>
+
+entity's existing Debt, any material contract or agreement previously or
+hereafter filed by the Company with the Commission as part of its SEC Reports,
+any Company Corporate Document or Subsidiary Corporate Document if such
+amendment, in the Company's reasonable judgment, would materially adversely
+affect Purchaser or the holders of the Securities without the prior written
+consent of Purchaser.
+
+ARTICLE 8.6                 RESTRICTIONS ON ISSUANCES OF SECURITIES .
+
+          (a) In addition to and not in lieu of the covenant specified in
+Section 8.1 above:
+
+          (1) Beginning on the Closing Date and continuing until sooner of (i)
+     180 days following the date on which the Registration Statement becomes
+     effective and (ii) the date on which the Convertible Note is repaid in full
+     (the "Restrictive Period"), the Company agrees that it will not, without
+     the prior written consent of Purchaser, issue any of its equity securities
+     (or securities convertible into or exchangeable or exercisable for equity
+     securities (the "Derivative Securities")) on terms that allow a holder
+     thereof to acquire such equity securities (or Derivative Securities) at a
+     price less than $1.40 per share (each such event, a "Discounted Equity
+     Offering") other than (i) borrowings under conventional credit facilities
+     existing as of the date hereof, (ii) stock issued or credit facilities to
+     be established in connection with acquisitions, (iii) equity securities or
+     Derivative Securities in connection with employee and director stock option
+     and stock purchase plans and outstanding rights and warrants of the
+     Company, (iv) a privately-placed equity offering of up to 2,300,000 shares
+     of Common Stock (to include a warrant to purchase up to 924,000 shares of
+     Common Stock) at a per share offering price of not less than $1.10 per
+     share; (v) a privately-placed equity offering of Common Stock equal in
+     value of up to $2,000,000 to Motorola at a per share offering price of not
+     less than $1.10 per share; and (vi) securities issued under the Convertible
+     Note or Warrant. Notwithstanding the foregoing, the Company may enter into
+     the following types of transactions (collectively referred to as "Permitted
+     Financings"): (1) "permanent financing" transactions, which would include
+     any form of debt or equity financing (other than an underwritten offering),
+     which is followed by a redemption of the Convertible Note and payment of
+     all related fees and expenses; (2) "project financing" which provide for
+     the issuance of recourse debt instruments in connection with the operation
+     of the Company's business as presently conducted or as proposed to be
+     conducted; (3) an underwritten offering of Common Stock, provided that such
+     offering provides for the registration of the Conversion Shares if the
+     Registration Statement has not been declared effective; and (4) other
+     financing transactions specifically consented to in writing by the
+     Purchaser.
+
+
+<PAGE>
+
+          (2) The 180-day restrictive period set forth in paragraph (1) of this
+     Section 8.6(a) shall be increased by one day for each day a Registration
+     Default has occurred and not been cured by the Company.
+
+          (b) Until such time as all of the Convertible Note have been either
+redeemed or converted into Conversion Shares in full, the Company agrees it will
+not issue any of its equity securities (or Derivative Securities), except for
+Securities describe in Subclauses (iii), (iv), (v) and (vi) of Section 8.6(a)(1)
+above, unless any shares of Common Stock issued or issuable in connection
+therewith are "restricted securities." As used herein "restricted securities"
+shall mean securities which may not be sold prior to twelve (12) months
+following the date of issuance of such securities by virtue of contractual
+restrictions imposed by the Company or otherwise.
+
+ARTICLE 8.7 LIMITATION ON STOCK REPURCHASES . Except as otherwise set forth in
+the Convertible Note and the Warrants, the Company shall not, without the
+written consent of the Majority Holders, redeem, repurchase or otherwise acquire
+(whether for cash or in exchange for property or other securities or otherwise)
+any shares of capital stock of the Company or any warrants, rights or options to
+purchase or acquire any such shares.
+
+ARTICLE 8.8 NO SHORT SALES . Purchaser and its Affiliates each agree that it
+will not, directly or indirectly, engage in any securities transactions to
+"short" the Company's Common Stock prior to any conversion of the Convertible
+Note.
+
+                         ARTICLE 9. RESTRICTIVE LEGENDS
+
+ARTICLE 9.1 RESTRICTIONS ON TRANSFER . From and after their respective dates of
+issuance, none of the Securities shall be transferable except upon the
+conditions specified in this Article IX, which conditions are intended to ensure
+compliance with the provisions of the Securities Act in respect of the Transfer
+of any of such Securities or any interest therein. Purchaser will use its best
+efforts to cause any proposed transferee of any Securities held by it to agree
+to take and hold such Securities subject to the provisions and upon the
+conditions specified in this Article IX.
+
+ARTICLE 9.2 LEGENDS. The Conversion Shares, upon resale by the Purchaser
+pursuant to the Registration Statement, shall be freely tradeable and
+unrestricted, unless sold to an affiliate of the Company.
+
+ARTICLE 9.3 NOTICE OF PROPOSED TRANSFERS . Prior to any proposed Transfer of the
+Securities (other than a Transfer (i) registered or exempt from registration
+under the Securities Act, (ii) to an affiliate of a Purchaser which is an
+"accredited investor" within the meaning of Rule 501(a) under the Securities
+Act, provided that any such transferee shall agree to be bound by the terms of
+this Agreement and the Registration Rights Agreement, or (iii) to be made in
+reliance on Rule 144 under the Securities Act), the holder thereof shall give
+written notice to the Company of such holder's intention to effect such
+Transfer, setting forth the manner and circumstances of the proposed Transfer,
+which shall be accompanied by (A) an opinion of counsel reasonably acceptable to
+the Company, confirming that such transfer does not give rise to a violation of
+the Securities Act, (B) representation letters in form and substance reasonably
+
+
+<PAGE>
+
+satisfactory to the Company to ensure compliance with the provisions of the
+Securities Act and (C) letters in form and substance reasonably satisfactory to
+the Company from each such transferee stating such transferee's agreement to be
+bound by the terms of this Agreement and the Registration Rights Agreement. Such
+proposed Transfer may be effected only if the Company shall have received such
+notice of transfer, opinion of counsel, representation letters and other letters
+referred to in the immediately preceding sentence, whereupon the holder of such
+Securities shall be entitled to Transfer such Securities in accordance with the
+terms of the notice delivered by the holder to the Company.
+
+
+              ARTICLE 10. ADDITIONAL AGREEMENTS AMONG THE PARTIES
+
+ARTICLE 10.1 LIQUIDATED DAMAGES .
+
+          (a) The Company shall cause its transfer agent to, issue and deliver
+shares of Common Stock consistent with Section 7.11 hereof within three (3) New
+York Stock Exchange Trading Days of delivery of a Notice of Conversion or Notice
+of Exercise, as applicable (the "Deadline") to Purchaser (or any party receiving
+Securities by transfer from Purchaser) at the address of Purchaser set forth in
+the Notice of Conversion or Notice of Exercise, as the case may be. The Company
+understands that a delay in the issuance of such certificates after the Deadline
+could result in economic loss to Purchaser.
+
+          (b) Without in any way limiting Purchaser's right to pursue other
+remedies, including actual damages and/or equitable relief, the Company agrees
+that if delivery of the Conversion Shares is more than one (1) Business Day
+after the Deadline (other than a failure due to the circumstances described in
+Section 4.3 of the Convertible Note, which failure shall be governed by such
+Section) the Company shall pay to Purchaser, as liquidated damages and not as a
+penalty, $500 for each $200,000 of Convertible Note then outstanding per day in
+cash, for each of the first ten (10) days beyond the Deadline, and $1,000 for
+each $200,000 of Convertible Note then outstanding per day in cash for each day
+thereafter that the Company fails to deliver such Common Stock. Such cash amount
+shall be paid to Purchaser upon demand, or at the option of Purchaser (by
+written notice to the Company by the first day of the week following the week in
+which it has accrued), shall be added to the principal amount of the Convertible
+Note (if then outstanding) payable to Purchaser, in which event interest shall
+accrue thereon in accordance with the terms of the Convertible Note and such
+additional principal amount shall be convertible into Common Stock in accordance
+with the terms of the Convertible Note.
+
+ARTICLE 10.2 CONVERSION NOTICE . The Company agrees that, in addition to any
+other remedies which may be available to Purchaser, including, but not limited
+to, the remedies available under Section 10.1, in the event the Company fails
+for any reason (other than as a result
+
+
+<PAGE>
+
+of actions taken by a Purchaser in breach of this Agreement) to effect delivery
+to a Purchaser of certificates with or without restrictive legends as
+contemplated by Article IX representing the shares of Common Stock on or prior
+to the Deadline after conversion of any Convertible Note or exercise of the
+Warrants, Purchaser will be entitled, if prior to the delivery of such
+certificates, to revoke the Notice of Conversion or Notice of Exercise, as
+applicable, by delivering a notice to such effect to the Company whereupon the
+Company and Purchaser shall each be restored to their respective positions
+immediately prior to delivery of such Notice of Conversion or Notice of
+Exercise, as the case may be.
+
+ARTICLE 10.3 CONVERSION LIMIT . Notwithstanding the conversion rights under the
+Convertible Note, unless Purchaser delivers a waiver in accordance with the
+immediately following sentence, in no event shall Purchaser be entitled to
+convert any portion of the Convertible Note, in excess of that portion of the
+Convertible Note, as applicable, of which the sum of (i) the number of shares of
+Common Stock beneficially owned by Purchaser and its Affiliates (other than
+shares of Common Stock which may be deemed beneficially owned through the
+ownership of the unconverted portion of the Convertible Note or other Derivative
+Securities convertible into or exchangeable for shares of Common Stock which
+contain a limitation similar to that set forth in this Section 10.3), and (ii)
+the number of shares of Common Stock issuable upon the conversion of the portion
+of the Convertible Note with respect to which this determination is being made,
+would result in beneficial ownership by Purchaser and its Affiliates of more
+than 4.99% of the outstanding shares of Common Stock. For purposes of Section
+10.3(i) beneficial ownership shall be determined in accordance with Rule 13d-3
+of the Exchange Act and Regulations 13 D-G thereunder, except as otherwise
+provided in this Section 10.3. The foregoing limitation shall not apply and
+shall be of no further force or effect (i) immediately preceding and upon the
+occurrence of any voluntary or mandatory redemption or repayment transaction
+described herein or in the Convertible Note, (ii) immediately preceding and upon
+any Sale Event, (iii) on the Maturity Date or (iv) following the occurrence of
+any Event of Default which is not cured for a period of ten (10) calendar days.
+
+                       ARTICLE 10.4 REGISTRATION RIGHTS .
+
+          (a) The Company shall grant Purchaser registration rights covering the
+Conversion Shares (the "Registrable Securities") on the terms set forth in the
+Registration Rights Agreement and herein.
+
+          (b) The Company shall prepare and file within sixty (60) days
+following the Closing Date (the "Filing Date") a registration statement or
+amendment thereto (the "Registration Statement") covering the resale of the
+Registrable Securities; provided, however, in the event the Company files a
+registration statement on Form S-3 following the Closing Date and before the
+Filing Date, the Company agrees to include the Registrable Securities in such
+registration statement. The Company shall use its reasonable best efforts to
+cause the Registration Statement to be declared effective by the Commission on
+the earlier of (i) 120 days of the Closing Date, (ii) ten days following the
+receipt of a "No Review" Letter from the Commission or (iii) the first day
+following the day
+
+
+<PAGE>
+
+the Commission determines the Registration Statement eligible to be declared
+effective (the "Required Effectiveness Date"). The Company shall pay all
+expenses of registration (other than underwriting fees and discounts, if any, in
+respect of Registrable Securities offered and sold under each registration
+statement by Purchaser).
+
+          (c) If the Registration Statement is not filed by the Filing Date, the
+Company shall pay to Purchaser, as liquidated damages and not as a penalty, an
+amount equal to two percent (2%) of the principal amount of Convertible Note
+outstanding for each 30-day period (prorated) until the Registration Statement
+is filed with the Commission. If the Registration Statement is not declared
+effective by the Commission by the Required Effectiveness Date, the Conversion
+Price (as defined in the Convertible Note) shall be shall be reduced by ten
+percent (10%) for each 30-day period the Registration Statement is not declared
+effective by the Commission through the 360th day following the Closing Date. In
+the event the Company fails to obtain a valid registration statement by the
+360th day following the Closing Date, the Purchaser may require the Company to
+redeem the Convertible Note and the Warrants as set forth in Section 5 of the
+Convertible Note and Section 13 of the Warrants, respectively.
+
+          (d) Any such liquidated damages shall be paid in cash by the Company
+to Purchaser by wire transfer in immediately available funds on the last day of
+each calendar week following the event requiring its payment. (a)
+
+          (e) If, following the declaration of effectiveness of the Registration
+Statement, such Registration Statement (or any prospectus or supplemental
+prospectus contained therein) shall cease to be effective for any reason
+(including, but not limited to the occurrence of any event that results in any
+prospectus or supplemental prospectus containing an untrue statement of a
+material fact or omitting a material fact required to be stated therein or
+necessary in order to make the statements therein, in light of the circumstances
+under which they were made, not misleading), the Company fails to file required
+amendments to the Registration Statement in order to allow the Purchaser to
+exercise its rights to receive unrestricted, unlegended, freely tradeable shares
+of Common Stock, or if for any reason there are insufficient shares of Common
+Stock registered under the then current Registration Statement to effect full
+conversion of the Convertible Note or exercise of the Warrants (each, a
+"Registration Default"), the Company shall immediately take all necessary steps
+to cause the Registration Statement to be amended or supplemented so as to cure
+the Registration Default. Failure to cure a Registration Default within ten (10)
+Business Days shall result in the Company paying to Purchaser liquidated damages
+at the rate of one percent (1%) of the outstanding principal amount of
+Convertible Note for each 30-day period (prorated) the Registration Default
+remains uncured.
+
+          (f) In the event that there is an insufficient number of authorized,
+issuable, unlegended and freely tradeable shares of Common Stock registered
+under the Registration Statement filed by the Company to fully convert the
+Convertible Note and exercise all Warrants held by Purchaser and sell such
+shares issued thereon, then the Company shall immediately file an amendment to
+the then current registration statement
+
+
+<PAGE>
+
+to register a sufficient number of such shares to convert said Convertible Note
+and Warrants. The failure of the Company to register a sufficient number of such
+shares to fully convert said Convertible Note and exercise such Warrants shall
+be a Registration Default under Section 10.4(e) above from the date of the
+Notice of Conversion to the date of the earlier of (i) the redemption of the
+outstanding balance of the Convertible Note and exercise of all such Warrants or
+(ii) full conversion of the Convertible Note and exercise of all such Warrants
+
+                     ARTICLE 11. ADJUSTMENT OF FIXED PRICE
+
+ARTICLE 11.1 REORGANIZATION . The Conversion Price and the exercise price of the
+Warrants (collectively, the "Fixed Prices") shall be adjusted, as applicable, as
+hereafter provided.
+
+ARTICLE 11.2 SHARE REORGANIZATION . If and whenever the Company shall:
+
+          (i) subdivide the outstanding shares of Common Stock into a greater
+     number of shares;
+
+          (ii) consolidate the outstanding shares of Common Stock into a smaller
+     number of shares;
+
+          (iii) issue Common Stock or securities convertible into or
+     exchangeable for shares of Common Stock as a stock dividend to all or
+     substantially all the holders of Common Stock; or
+
+          (iv) make a distribution on the outstanding Common Stock to all or
+     substantially all the holders of Common Stock payable in Common Stock or
+     securities convertible into or exchangeable for Common Stock;
+
+any of such events being herein called a "Share Reorganization," then in each
+such case the applicable Fixed Price shall be adjusted, effective immediately
+after the record date at which the holders of Common Stock are determined for
+the purposes of the Share Reorganization or, if no record date is fixed, the
+effective date of the Share Reorganization, by multiplying the applicable Fixed
+Price in effect on such record or effective date, as the case may be, by a
+fraction of which:
+
+                  (I) the numerator shall be the number of shares of Common
+         Stock outstanding on such record or effective date (without giving
+         effect to the transaction); and
+
+                  (II) the denominator shall be the number of shares of Common
+         Stock outstanding after giving effect to such Share Reorganization,
+         including, in the case of a distribution of securities convertible into
+         or exchangeable for shares of Common Stock, the number of shares of
+         Common Stock that would have been outstanding if such securities had
+         been converted into or exchanged for Common Stock on such record or
+         effective date.
+
+
+<PAGE>
+
+ARTICLE 11.3 RIGHTS OFFERING . If and whenever the Company shall issue to all or
+substantially all the holders of Common Stock, rights, options or warrants under
+which such holders are entitled, during a period expiring not more than 45 days
+after the record date of such issue, to subscribe for or purchase Common Stock
+(or Derivative Securities), at a price per share (or, in the case of securities
+convertible into or exchangeable for Common Stock, at an exchange or conversion
+price per share at the date of issue of such securities) of less than 95% of the
+Market Price of the Common Stock on such record date (any such event being
+herein called a "Rights Offering"), then in each such case the applicable Fixed
+Price shall be adjusted, effective immediately after the record date at which
+holders of Common Stock are determined for the purposes of the Rights Offering,
+by multiplying the applicable Fixed Price in effect on such record date by a
+fraction of which:
+
+          (i) the numerator shall be the sum of:
+
+               (I) the number of shares of Common Stock outstanding on such
+          record date; and
+
+               (II) a number obtained by dividing:
+
+               (A) either,
+
+                    (x) the product of the total number of shares of Common
+               Stock so offered for subscription or purchase and the price at
+               which such shares are so offered, or
+
+                    (y) the product of the maximum number of shares of Common
+               Stock into or for which the convertible or exchangeable
+               securities so offered for subscription or purchase may be
+               converted or exchanged and the conversion or exchange price of
+               such securities, or, as the case may be, by
+
+               (B) the Market Price of the Common Stock on such record date; and
+
+          (ii) the denominator shall be the sum of:
+
+               (I) the number of shares of Common Stock outstanding on such
+          record date; and
+
+               (II) the number of shares of Common Stock so offered for
+          subscription or purchase (or, in the case of Derivative Securities,
+          the maximum number of shares of Common Stock for or into which the
+          securities so offered for subscription or purchase may be converted or
+          exchanged).
+
+To the extent that such rights, options or warrants are not exercised prior to
+the expiry time thereof, the applicable Fixed Price shall be readjusted
+effective immediately after such expiry time to the applicable Fixed Price which
+would then have been in effect upon the number of
+
+
+<PAGE>
+
+shares of Common Stock (or Derivative Securities) actually delivered upon the
+exercise of such rights, options or warrants.
+
+ARTICLE 11.4 SPECIAL DISTRIBUTION . If and whenever the Company shall issue or
+distribute to all or substantially all the holders of Common Stock:
+
+          (i) shares of the Company of any class, other than Common Stock;
+
+          (ii) rights, options or warrants; or
+
+          (iii) any other assets (excluding cash dividends and equivalent
+     dividends in shares paid in lieu of cash dividends in the ordinary course);
+
+and if such issuance or distribution does not constitute a Share Reorganization
+or a Rights Offering (any such event being herein called a "Special
+Distribution"), then in each such case the applicable Fixed Price shall be
+adjusted, effective immediately after the record date at which the holders of
+Common Stock are determined for purposes of the Special Distribution, by
+multiplying the applicable Fixed Price in effect on such record date by a
+fraction of which:
+
+               (I) the numerator shall be the difference between:
+
+               (A) the product of the number of shares of Common Stock
+          outstanding on such record date and the Market Price of the Common
+          Stock on such date; and
+
+               (B) the fair market value, as determined by the Directors (whose
+          determination shall be conclusive), to the holders of Common Stock of
+          the shares, rights, options, warrants, evidences of indebtedness or
+          other assets issued or distributed in the Special Distribution (net of
+          any consideration paid therefor by the holders of Common Stock), and
+
+               (II) the denominator shall be the product of the number of shares
+          of Common Stock outstanding on such record date and the Market Price
+          of the Common Stock on such date.
+
+
+
+ARTICLE 12.5 CAPITAL REORGANIZATION . If and whenever there shall occur:
+
+          (i) a reclassification or redesignation of the shares of Common Stock
+     or any change of the shares of Common Stock into other shares, other than
+     in a Share Reorganization;
+
+
+<PAGE>
+
+          (ii) a consolidation, merger or amalgamation of the Company with, or
+     into another body corporate; or
+
+          (iii) the transfer of all or substantially all of the assets of the
+     Company to another body corporate;
+
+(any such event being herein called a "Capital Reorganization"), then in each
+such case the holder who exercises the right to convert Convertible Note after
+the effective date of such Capital Reorganization shall be entitled to receive
+and shall accept, upon the exercise of such right, in lieu of the number of
+shares of Common Stock to which such holder was theretofore entitled upon the
+exercise of the conversion privilege, the aggregate number of shares or other
+securities or property of the Company or of the body corporate resulting from
+such Capital Reorganization that such holder would have been entitled to receive
+as a result of such Capital Reorganization if, on the effective date thereof,
+such holders had been the holder of the number of shares of Common Stock to
+which such holder was theretofore entitled upon conversion; provided, however,
+that no such Capital Reorganization shall be consummated in effect unless all
+necessary steps shall have been taken so that such holders shall thereafter be
+entitled to receive such number of shares or other securities of the Company or
+of the body corporate resulting from such Capital Reorganization, subject to
+adjustment thereafter in accordance with provisions the same, as nearly as may
+be possible, as those contained above.
+
+ARTICLE 12.6 PURCHASE PRICE ADJUSTMENTS . In case at any time and from time to
+time the Company shall issue any shares of Common Stock or Derivative Securities
+convertible or exercisable for shares of Common Stock (the number of shares so
+issued, or issuable upon conversion or exercise of such Derivative Securities,
+as applicable, being referred to as "Additional Shares of Common Stock") for
+consideration less than the then Market Price at the date of issuance of such
+shares of Common Stock or such Derivative Securities, in each such case the
+Conversion Price shall, concurrently with such issuance, be adjusted by
+multiplying the Conversion Price immediately prior to such event by a fraction:
+(i) the numerator of which shall be the number of shares of Common Stock
+outstanding immediately prior to the issuance of such Additional Shares of
+Common Stock plus the number of shares of Common Stock that the aggregate
+consideration received by the Company for the total number of such Additional
+Shares of Common Stock so issued would purchase at the Market Price and (ii) the
+denominator of which shall be the number of shares of Common Stock outstanding
+immediately prior to the issuance of Additional Shares of Common Stock plus the
+number of such Additional Shares of Common Stock so issued or sold.
+
+ARTICLE 12.7 ADJUSTMENT RULES . The following rules and procedures shall be
+applicable to adjustments made in this Article XI:
+
+          (a) no adjustment shall be made upon the occurrence or consummation,
+as applicable, of any of the transaction described in Section 8.6(a)(i)-(vi)
+during the Restrictive Period;
+
+
+<PAGE>
+
+          (b) no adjustment in the applicable Fixed Price shall be required
+unless such adjustment would result in a change of at least 1% in the applicable
+Fixed Price then in effect, provided, however, that any adjustments which, but
+for the provisions of this clause would otherwise have been required to be made,
+shall be carried forward and taken into account in any subsequent adjustment;
+
+          (c) if any event occurs of the type contemplated by the adjustment
+provisions of this Article XI but not expressly provided for by such provisions,
+the Company will give notice of such event as provided herein, and the Company's
+board of directors will make an appropriate adjustment in the Fixed Price so
+that the rights of the holders of the applicable Security shall not be
+diminished by such event; and
+
+          (d) if a dispute shall at any time arise with respect to any
+adjustment of the applicable Fixed Price, such dispute shall be conclusively
+determined by the auditors of the Company or, if they are unable or unwilling to
+act, by a firm of independent chartered accountants selected by the Directors
+and any such determination shall be binding upon the Company and Purchaser.
+
+ARTICLE 12.8 CERTIFICATE AS TO ADJUSTMENT . The Company shall from time to time
+promptly after the occurrence of any event which requires an adjustment in the
+applicable Fixed Price deliver to Purchaser a certificate specifying the nature
+of the event requiring the adjustment, the amount of the adjustment necessitated
+thereby, the applicable Fixed Price after giving effect to such adjustment and
+setting forth, in reasonable detail, the method of calculation and the facts
+upon which such calculation is based.
+
+ARTICLE 12.9 NOTICE TO HOLDERS . If the Company shall fix a record date for:
+
+          (a) any Share Reorganization (other than the subdivision of
+outstanding Common Stock into a greater number of shares or the consolidation of
+outstanding Common Stock into a smaller number of shares),
+
+          (b) any Rights Offering,
+
+          (c) any Special Distribution,
+
+          (d) any Capital Reorganization (other than a reclassification or
+redesignation of the Common Stock into other shares),
+
+          (e) Sale Event; or
+
+          (f) any cash dividend,
+
+the Company shall, not less than 10 days prior to such record date or, if no
+record date is fixed, prior to the effective date of such event, give to
+Purchaser notice of the particulars of the proposed event or the extent that
+such particulars have been determined at the time of giving the notice.
+
+
+
+<PAGE>
+
+                         ARTICLE 13. EVENTS OF DEFAULT
+
+ARTICLE 13.5 EVENTS OF DEFAULT. If one or more of the following events (each an
+"Event of Default") shall have occurred and be continuing:
+
+          (a) failure by the Company to pay or repay when due, all or any part
+of the principal on any of the Convertible Note (whether by virtue of the
+agreements specified in this Agreement or the Convertible Note);
+
+          (b) failure by the Company to pay (i) within five (5) Business Days of
+the due date thereof any interest on any Convertible Note or (ii) within five
+(5) Business Days following the delivery of notice to the Company of any fees or
+any other amount payable (not otherwise referred to in (a) above or this clause
+(b)) by the Company under this Agreement or any other Transaction Agreement;
+
+          (c) reserved;
+
+          (d) failure on the part of the Company to observe or perform any
+covenant contained in Article VIII of this Agreement;
+
+          (e) failure on the part of the Company to observe or perform any
+covenant or agreement contained in any Transaction Agreement (other than those
+covered by clauses (a), (b), (c), or (d) above) for 30 days from the date of
+such occurrence;
+
+          (f) the trading in the Common Stock shall have been suspended by the
+Commission, Nasdaq Small Cap Market or any National Market (except for any
+suspension of trading of limited duration solely to permit dissemination of
+material information regarding the Company and except if, at the time there is
+any suspension on any National Market, the Common Stock is then listed and
+approved for trading on another National Market within ten (10) Trading Days
+thereof);
+
+          (g) reserved;
+
+          (h) the Company shall have its Common Stock delisted from the Nasdaq
+Small Cap Market or a National Market for at least ten (10) consecutive Trading
+Days and is unable to obtain a listing on a National Market within such ten (10)
+Trading Days;
+
+          (i) the effectiveness of the Registration Statement shall not be
+maintained, which results in the Company incurring liquidated damages or a
+default fee for a period in excess of 30 days;
+
+
+<PAGE>
+
+          (j) the Company or any operationally active Subsidiary has commenced a
+voluntary case or other proceeding seeking liquidation, winding-up,
+reorganization or other relief with respect to itself or its debts under any
+bankruptcy, insolvency, moratorium or other similar law now or hereafter in
+effect or seeking the appointment of a trustee, receiver, liquidator, custodian
+or other similar official of it or any substantial part of its property, or has
+consented to any such relief or to the appointment of or taking possession by
+any such official in an involuntary case or other proceeding commenced against
+it, or has made a general assignment for the benefit of creditors, or has failed
+generally to pay its debts as they become due, or has taken any corporate action
+to authorize any of the foregoing;
+
+          (k) an involuntary case or other proceeding has been commenced against
+the Company or any Subsidiary seeking liquidation, winding-up, reorganization or
+other relief with respect to it or its debts under any bankruptcy, insolvency,
+moratorium or other similar law now or hereafter in effect or seeking the
+appointment of a trustee, receiver, liquidator, custodian or other similar
+official of it or any substantial part of its property, and such involuntary
+case or other proceeding shall remain undismissed and unstayed for a period of
+60 days, or an order for relief has been entered against the Company or any
+Subsidiary under the federal bankruptcy laws as now or hereafter in effect;
+
+          (l) default in any provision (including payment) or any agreement
+governing the terms of any Debt of the Company or any Subsidiary in excess of
+$1,000,000, which has not been cured within any applicable period of grace
+associated therewith;
+
+          (m) judgments or orders for the payment of money which in the
+aggregate at any one time exceed $1,000,000 and are not covered by insurance
+have been rendered against the Company or any Subsidiary by a court of competent
+jurisdiction and such judgments or orders shall continue unsatisfied and
+unstayed for a period of 60 days; or
+
+          (n) any representation, warranty, certification or statement made by
+the Company in any Transaction Agreement or which is contained in any
+certificate, document or financial or other statement furnished at any time
+under or in connection with any Transaction Agreement shall prove to have been
+untrue in any material respect when made.
+
+then, and in every such occurrence, Purchaser may, with respect to an Event of
+Default specified in paragraphs (a) or (b), and the Majority Holders may, with
+respect to any other Event of Default, by notice to the Company, declare the
+Convertible Note to be, and the Convertible Note shall thereon become
+immediately due and payable; provided that in the case of any of the Events of
+Default specified in paragraph (j) or (k) above with respect to the Company or
+any Subsidiary, then, without any notice to the Company or any other act by
+Purchaser, the entire amount of the Convertible Note shall become immediately
+due and payable, provided, further, if any Event of Default has occurred and is
+continuing, and irrespective of whether any Convertible
+
+
+<PAGE>
+
+Note has been declared immediately due and payable hereunder, any Purchaser of
+Convertible Note may proceed to protect and enforce the rights of Purchaser by
+an action at law, suit in equity or other appropriate proceeding, whether for
+the specific performance of any agreement contained herein or in any Convertible
+Note, or for an injunction against a violation of any of the terms hereof or
+thereof, or in aid of the exercise of any power granted hereby or thereby or by
+law or otherwise, and provided further, in the case of any Event of Default, the
+amount declared due and payable on the Convertible Note shall be the Formula
+Price.
+
+ARTICLE 13.6 POWERS AND REMEDIES CUMULATIVE . No right or remedy herein
+conferred upon or reserved to Purchaser is intended to be exclusive of any other
+right or remedy, and every right and remedy shall, to the extent permitted by
+law, be cumulative and in addition to every other right and remedy given
+hereunder or now hereafter existing at law or in equity or otherwise. The
+assertion or employment of any right or remedy hereunder, or otherwise, shall
+not prevent the concurrent assertion or employment of any other appropriate
+right or remedy. Every power and remedy given by the Convertible Note or by law
+may be exercised from time to time, and as often as shall be deemed expedient,
+by Purchaser.
+
+
+                           ARTICLE 14. MISCELLANEOUS
+
+ARTICLE 14.5 NOTICES . All notices, demands and other communications to any
+party hereunder shall be in writing (including telecopier or similar writing)
+and shall be given to such party at its address set forth on the signature pages
+hereof, or such other address as such party may hereafter specify for the
+purpose to the other parties. Each such notice, demand or other communication
+shall be effective (i) if given by telecopy, when such telecopy is transmitted
+to the telecopy number specified on the signature page hereof, (ii) if given by
+mail, four days after such communication is deposited in the mail with first
+class postage prepaid, addressed as aforesaid or (iii) if given by any other
+means, when delivered at the address specified in or pursuant to this Section.
+
+                     ARTICLE 14.6 NO WAIVERS; AMENDMENTS .
+
+          (a) No failure or delay on the part of any party in exercising any
+right, power or remedy hereunder shall operate as a waiver thereof, nor shall
+any single or partial exercise of any such right, power or remedy preclude any
+other or further exercise thereof or the exercise of any other right, power or
+remedy.
+
+          (b) Any provision of this Agreement may be amended, supplemented or
+waived if, but only if, such amendment, supplement or waiver is in writing and
+is signed by the Company and the Majority Holders; provided, that without the
+consent of each holder of any Convertible Note affected thereby, an amendment or
+waiver may not (a) reduce the aggregate principal amount of Convertible Note
+whose holders must consent to an amendment or waiver, (b) reduce the rate or
+extend the time for payment of interest on any Convertible Note, (c) reduce the
+principal amount of or extend the stated maturity
+
+
+<PAGE>
+
+of any Convertible Note or (d) make any Convertible Note payable in money or
+property other than as stated in such Convertible Note. In determining whether
+the holders of the requisite principal amount of Convertible Note have concurred
+in any direction, consent, or waiver as provided in any Transaction Agreement,
+Convertible Note which are owned by the Company or any other obligor on or
+guarantor of the Convertible Note, or by any Person Controlling, Controlled by,
+or under common Control with any of the foregoing, shall be disregarded and
+deemed not to be outstanding for the purpose of any such determination; and
+provided further that no such amendment, supplement or waiver which affects the
+rights of Purchaser and their affiliates otherwise than solely in their
+capacities as holders of Convertible Note shall be effective with respect to
+them without their prior written consent.
+
+                         ARTICLE 14.7 INDEMNIFICATION .
+
+          (a) The Company agrees to indemnify and hold harmless Purchaser, its
+Affiliates, and each Person, if any, who controls Purchaser, or any of its
+Affiliates, within the meaning of the Securities Act or the Exchange Act (each,
+a "Controlling Person"), and the respective partners, agents, employees,
+officers and Directors of Purchaser, their Affiliates and any such Controlling
+Person (each an "Indemnified Party") and collectively, the "Indemnified
+Parties"), from and against any and all losses, claims, damages, liabilities and
+expenses (including, without limitation and as incurred, reasonable costs of
+investigating, preparing or defending any such claim or action, whether or not
+such Indemnified Party is a party thereto, provided that the Company shall not
+be obligated to advance such costs to any Indemnified Party other than Purchaser
+unless it has received from such Indemnified Party an undertaking to repay to
+the Company the costs so advanced if it should be determined by final judgment
+of a court of competent jurisdiction that such Indemnified Party was not
+entitled to indemnification hereunder with respect to such costs) which may be
+incurred by such Indemnified Party in connection with any investigative,
+administrative or judicial proceeding brought or threatened that relates to or
+arises out of, or is in connection with any activities contemplated by any
+Transaction Agreement or any other services rendered in connection herewith;
+provided that the Company will not be responsible for any claims, liabilities,
+losses, damages or expenses that are determined by final judgment of a court of
+competent jurisdiction to result from such Indemnified Party's gross negligence,
+willful misconduct or bad faith.
+
+          (b) If any action shall be brought against an Indemnified Party with
+respect to which indemnity may be sought against the Company under this
+Agreement, such Indemnified Party shall promptly notify the Company in writing
+and the Company, at its option, may, assume the defense thereof, including the
+employment of counsel reasonably satisfactory to such Indemnified Party and
+payment of all reasonable fees and expenses. The failure to so notify the
+Company shall not affect any obligations the Company may have to such
+Indemnified Party under this Agreement or otherwise unless the Company is
+materially adversely affected by such failure. Such Indemnified Party
+
+
+<PAGE>
+
+shall have the right to employ separate counsel in such action and participate
+in the defense thereof, but the fees and expenses of such counsel shall be at
+the expense of such Indemnified Party, unless (i) the Company has failed to
+assume the defense and employ counsel or (ii) the named parties to any such
+action (including any impleaded parties) include such Indemnified Party and the
+Company, and such Indemnified Party shall have been advised by counsel that
+there may be one or more legal defenses available to it which are different from
+or additional to those available to the Company, in which case, if such
+Indemnified Party notifies the Company in writing that it elects to employ
+separate counsel at the expense of the Company, the Company shall not have the
+right to assume the defense of such action or proceeding on behalf of such
+Indemnified Party, provided, however, that the Company shall not, in connection
+with any one such action or proceeding or separate but substantially similar or
+related actions or proceedings in the same jurisdiction arising out of the same
+general allegations or circumstances, be responsible hereunder for the
+reasonable fees and expenses of more than one such firm of separate counsel, in
+addition to any local counsel, which counsel shall be designated by Purchaser.
+The Company shall not be liable for any settlement of any such action effected
+without the written consent of the Company (which shall not be unreasonably
+withheld) and the Company agrees to indemnify and hold harmless each Indemnified
+Party from and against any loss or liability by reason of settlement of any
+action effected with the consent of the Company. In addition, the Company will
+not, without the prior written consent of Purchaser, settle or compromise or
+consent to the entry of any judgment in or otherwise seek to terminate any
+pending or threatened action, claim, suit or proceeding in respect to which
+indemnification or contribution may be sought hereunder (whether or not any
+Indemnified Party is a party thereto) unless such settlement, compromise,
+consent or termination includes an express unconditional release of Purchaser
+and the other Indemnified Parties, satisfactory in form and substance to
+Purchaser, from all liability arising out of such action, claim, suit or
+proceeding.
+
+          (c) If for any reason the foregoing indemnity is unavailable
+(otherwise than pursuant to the express terms of such indemnity) to an
+Indemnified Party or insufficient to hold an Indemnified Party harmless, then in
+lieu of indemnifying such Indemnified Party, the Company shall contribute to the
+amount paid or payable by such Indemnified Party as a result of such claims,
+liabilities, losses, damages, or expenses (i) in such proportion as is
+appropriate to reflect the relative benefits received by the Company on the one
+hand and by Purchaser on the other from the transactions contemplated by this
+Agreement or (ii) if the allocation provided by clause (i) is not permitted
+under applicable law, in such proportion as is appropriate to reflect not only
+the relative benefits received by the Company on the one hand and Purchaser on
+the other, but also the relative fault of the Company and Purchaser as well as
+any other relevant equitable considerations. Notwithstanding the provisions of
+this Section 13.3, the aggregate contribution of all Indemnified Parties shall
+not exceed the amount of interest and fees actually received by Purchaser
+pursuant to this Agreement. It is hereby further agreed that the relative
+benefits to the Company on the one hand and Purchaser on the other with respect
+to the transactions contemplated hereby shall be determined by reference to,
+among other
+
+
+<PAGE>
+
+things, whether any untrue or alleged untrue statement of material fact or the
+omission or alleged omission to state a material fact related to information
+supplied by the Company or by Purchaser and the parties' relative intent,
+knowledge, access to information and opportunity to correct or prevent such
+statement or omission. No Person guilty of fraudulent misrepresentation (within
+the meaning of Section 11(f) of the Securities Act) shall be entitled to
+contribution from any Person who was not guilty of such fraudulent
+misrepresentation.
+
+          (d) The indemnification, contribution and expense reimbursement
+obligations set forth in this Section 13.3 (i) shall be in addition to any
+liability the Company may have to any Indemnified Party at common law or
+otherwise; (ii) shall survive the termination of this Agreement and the other
+Transaction Agreements and the payment in full of the Convertible Note and (iii)
+shall remain operative and in full force and effect regardless of any
+investigation made by or on behalf of Purchaser or any other Indemnified Party.
+
+ARTICLE 14.8 EXPENSES: DOCUMENTARY TAXES . The Company and Purchaser each agree
+to pay its own fees and expenses incurred by it in connection with the issuance
+of the Convertible Note and Warrants. The Company agrees to pay any and all
+stamp, transfer and other similar taxes, assessments or charges payable in
+connection with the issuance of the Securities to Purchaser, excluding their
+assigns.
+
+ARTICLE 14.9 PAYMENT . The Company agrees that, so long as Purchaser shall own
+any Convertible Note purchased by it from the Company hereunder, the Company
+will make payments to Purchaser of all amounts due thereon by wire transfer by
+4:00 P.M. (E.S.T.).
+
+ARTICLE 14.10 SUCCESSORS AND ASSIGNS . This Agreement shall be binding upon the
+Company and upon Purchaser and its respective successors and assigns; provided
+that the Company shall not assign or otherwise transfer its rights or
+obligations under this Agreement to any other Person without the prior written
+consent of the Majority Holders. All provisions hereunder purporting to give
+rights to Purchaser and its affiliates or to holders of Securities are for the
+express benefit of such Persons and their successors and assigns.
+
+ARTICLE 14.11 BROKERS . Except for Alpine Capital Partners, the Company
+represents and warrants that it has not employed any broker, finder, financial
+advisor or investment banker who would be entitled to any brokerage, finder's or
+other fee or commission payable by the Company or Purchaser in connection with
+the sale of the Securities.
+
+ARTICLE 14.12 DELAWARE LAW; SUBMISSION TO JURISDICTION; WAIVER OF JURY TRIAL;
+APPOINTMENT OF AGENT . THIS AGREEMENT SHALL BE CONSTRUED IN ACCORDANCE WITH AND
+GOVERNED BY THE LAWS OF THE STATE OF DELAWARE. EACH PARTY HERETO HEREBY SUBMITS
+TO THE EXCLUSIVE JURISDICTION OF THE UNITED STATES DISTRICT COURT FOR DELAWARE
+AND OF ANY FEDERAL DISTRICT COURT SITTING IN DELAWARE FOR PURPOSES OF ALL LEGAL
+
+
+<PAGE>
+
+PROCEEDINGS ARISING OUT OF OR RELATING TO THIS AGREEMENT OR THE TRANSACTIONS
+CONTEMPLATED HEREBY. EACH PARTY HERETO IRREVOCABLY WAIVES, TO THE FULLEST EXTENT
+PERMITTED BY LAW, ANY OBJECTION WHICH IT MAY NOW OR HEREAFTER HAVE TO THE LAYING
+OF THE VENUE OF ANY SUCH PROCEEDING BROUGHT IN SUCH A COURT AND ANY CLAIM THAT
+ANY SUCH PROCEEDING BROUGHT IN SUCH A COURT HAS BEEN BROUGHT IN AN INCONVENIENT
+FORUM. EACH PARTY TO THIS AGREEMENT IRREVOCABLY CONSENTS TO THE SERVICE OF
+PROCESS IN ANY SUCH PROCEEDING BY THE MAILING OF COPIES THEREOF BY REGISTERED OR
+CERTIFIED MAIL, POSTAGE PREPAID, TO SUCH PARTY AT ITS ADDRESS SET FORTH HEREIN.
+NOTHING HEREIN SHALL AFFECT THE RIGHT OF ANY PARTY TO SERVE PROCESS IN ANY OTHER
+MANNER PERMITTED BY LAW. EACH PARTY WAIVES ITS RIGHT TO A TRIAL BY JURY.
+
+ARTICLE 14.13 ENTIRE AGREEMENT . This Agreement, the Exhibits or Schedules
+hereto, which include, but are not limited to the Convertible Note, the Warrant
+and the Registration Rights Agreement, set forth the entire agreement and
+understanding of the parties relating to the subject matter hereof and
+supersedes all prior and contemporaneous agreements, negotiations and
+understandings between the parties, both oral and written relating to the
+subject matter hereof. The terms and conditions of all Exhibits and Schedules to
+this Agreement are incorporated herein by this reference and shall constitute
+part of this Agreement as is fully set forth herein.
+
+ARTICLE 14.14 SURVIVAL; SEVERABILITY. The representations, warranties, covenants
+and agreements of the parties hereto shall survive the Closing hereunder. In the
+event that any provision of this Agreement becomes or is declared by a court of
+competent jurisdiction to be illegal, unenforceable or void, this Agreement
+shall continue in full force and effect without said provision; provided that
+such severability shall be ineffective if it materially changes the economic
+benefit of this Agreement to any party.
+
+ARTICLE 14.15 TITLE AND SUBTITLES . The titles and subtitles used in this
+Agreement are used for convenience only and are not to be considered in
+construing or interpreting this Agreement.
+
+ARTICLE 14.16 REPORTING ENTITY FOR THE COMMON STOCK. The reporting entity relied
+upon for the determination of the trading price or trading volume of the Common
+Stock on any given Trading Day for the purposes of this Agreement and all
+Exhibits shall be Bloomberg, L.P. or any successor thereto. The written mutual
+consent of the Purchaser and the Company shall be required to employ any other
+reporting entity.
+
+ARTICLE 14.17 PUBLICITY. The Company and the Purchaser shall consult with each
+other in issuing any press releases or otherwise making public statements with
+respect to the transactions contemplated hereby and no party shall issue any
+such press release or otherwise make any such public statement without the prior
+written consent of the other parties, which
+
+
+<PAGE>
+
+consent shall not be unreasonably withheld or delayed, except that no prior
+consent shall be required if such disclosure is required by law, in which such
+case the disclosing party shall provide the other parties with prior notice of
+such public statement. Notwithstanding the foregoing, the Company shall not
+publicly disclose the name of Purchaser without the prior written consent of
+Purchaser, except to the extent required by law, in which case the Company shall
+provide Purchaser with prior written notice of such public disclosure.
+
+                            [SIGNATURE PAGE FOLLOWS]
+
+
+<PAGE>
+
+
+          IN WITNESS WHEREOF, the parties hereto have caused this Agreement to
+be duly executed by their respective authorized officers, as of the date first
+above written.
+
+
+                                      SMARTSERV ONLINE, INC.
+
+
+                                      By:          /s/ Thomas W. Haller
+                                                   -----------------------------
+                                      Name:        Thomas W. Haller
+                                      Title:       Senior Vice President and
+                                                   Chief Financial Officer
+
+
+                                      Address:     SmartServ Online, Inc.
+                                                   Metro Center
+                                                   One Station Place
+                                                   Stamford, CT 06902
+
+                                                   Fax: 203-353-5962
+                                                   Telephone: 203-353-5950
+
+
+
+                                      GLOBAL CAPITAL FUNDING GROUP, L.P.
+
+                                      By its General Partner,  Global Capital
+                                      Management Services, Inc.
+
+
+
+                                      By:          /s/ Lewis N. Lester
+                                                   -----------------------------
+                                      Name:        Lewis N. Lester
+                                      Title:       President
+
+                                      Address:     106 Colony Park Drive
+                                                   Suite 900
+                                                   Cumming, Georgia 30040
+
+                                                   Fax:     678-947-6499
+                                                   Tel.:    678-947-0028
+
+
+
+
+<PAGE>
+
+
+                                  SCHEDULE 2.2
+
+                          ALLOCATION OF PURCHASE PRICE
+
+
+1.   $1,000,000 Principal Amount 10% Convertible Note for a purchase price equal
+     to $______________.
+
+2.   Warrant to purchase 200,000 shares of Common Stock of the Company for a
+     purchase price equal to $___________.
+
+
+
+
+</TEXT>
+</DOCUMENT>

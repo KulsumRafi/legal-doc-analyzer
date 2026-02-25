@@ -1,0 +1,1887 @@
+<DOCUMENT>
+<TYPE>EX-10.SS
+<SEQUENCE>10
+<FILENAME>h00167exv10wss.txt
+<DESCRIPTION>ELECTRICITY SUPPLY AGREEMENT
+<TEXT>
+<PAGE>
+
+                                                                   EXHIBIT 10.SS
+
+                                                                  EXECUTION COPY
+
+
+
+
+                          ELECTRICITY SUPPLY AGREEMENT
+
+                                     BETWEEN
+
+                             JEDI LINDEN NB, L.L.C.
+                                    AS SELLER
+
+
+                                       AND
+
+
+                                INFINEUM USA L.P.
+                                    as Buyer
+
+                                       AND
+
+                                TOSCO CORPORATION
+
+
+
+
+                          DATED AS OF DECEMBER 21, 2001
+
+
+
+
+
+
+
+
+
+<PAGE>
+
+                          ELECTRICITY SUPPLY AGREEMENT
+
+                                TABLE OF CONTENTS
+
+<Table>
+<Caption>
+                                                                            Page
+<S>             <C>                                                        <C>
+ARTICLE 1       DEFINITIONS AND INTERPRETATION ................................2
+         1.1    Definitions ...................................................2
+         1.2    Interpretation ................................................8
+
+ARTICLE 2       TERM ..........................................................9
+         2.1    Base Term of Agreement ........................................9
+         2.2    Renewal of Agreement ..........................................9
+         2.3    Condition Precedent ...........................................9
+
+ARTICLE 3       REPRESENTATIONS, WARRANTIES AND ACKNOWLEDGEMENTS ..............9
+         3.1    Representations and Warranties of Buyer .......................9
+         3.2    Representations and Warranties of Seller .....................10
+         3.3    Buyer's Acknowledgement ......................................11
+
+ARTICLE 4       DELIVERY OF ELECTRICITY ......................................11
+         4.1    Electricity Quality ..........................................11
+         4.2    Electricity Quantity .........................................11
+         4.3    Title: Risk of Loss ..........................................12
+         4.4    Back-up Electricity Arrangements .............................12
+         4.5    Closure or Disposition of Buyer's Facilities .................12
+         4.6    Sales of Electricity to Third Parties ........................12
+         4.7    On-site Generation Facility Status ...........................13
+         4.8    Purchases of Electricity from Third Parties ..................13
+
+ARTICLE 5       PRICE FOR ELECTRICITY ........................................13
+         5.1    Price ........................................................13
+
+ARTICLE 6       METERING .....................................................13
+         6.1    Reporting Buyer's Use of Electricity .........................13
+         6.2    Means of Measurement and Notice to Seller ....................13
+         6.3    Testing ......................................................14
+         6.4    Maintenance and Records ......................................15
+
+ARTICLE 7       INVOICES AND PAYMENT .........................................16
+         7.1    Billing ......................................................16
+         7.2    Payment ......................................................16
+         7.3    Infineum Steam Agreement .....................................16
+         7.4    Disputes .....................................................16
+         7.5    Adjustments ..................................................16
+         7.6    Audit Rights .................................................17
+         7.7    Books and Records ............................................17
+</Table>
+
+
+<PAGE>
+
+
+<Table>
+<S>             <C>                                                         <C>
+ARTICLE 8       TAXES .......................................................17
+         8.1    Taxes .......................................................17
+
+ARTICLE 9       DEFAULT AND REMEDIES ........................................17
+         9.1    Seller Default ..............................................17
+         9.2    Buyer Default ...............................................18
+         9.3    Tosco's Right to Cure .......................................19
+         9.4    Remedies ....................................................19
+         9,5    Damages .....................................................19
+         9.6    Limitation on Liability for Damages .........................19
+         9.7    Duty to Mitigate ............................................20
+
+ARTICLE 10      FORCE MAJEURE ...............................................20
+         10.1   Force Majeure ...............................................20
+         10.2   Farce Maleure Defined .......................................20
+
+ARTICLE 11      INDEMNIFICATION .............................................21
+         11.1   Indemnification for Claims ..................................21
+         11.2   Notice ......................................................22
+         11.3   Defense .....................................................22
+         11.4   Survival of Indemnifications ................................22
+
+ARTICLE 12      DISPUTE RESOLUTION ..........................................23
+         12.1   Dispute Resolution ..........................................23
+
+ARTICLE 13      ASSIGNMENT ..................................................23
+         13.1   General .....................................................23
+         13.2   Permitted Assignments .......................................23
+         13.3   Further Assurances ..........................................23
+         13.4   Violations a Default: Further Remedies ......................23
+
+ARTICLE 14      NOTICES .....................................................24
+         14.1   General .....................................................24
+         14.2   Notice to Tosco .............................................26
+         14.3   Changes .....................................................26
+         14.4   Holidays ....................................................26
+
+ARTICLE 15      CONFIDENTIALITY .............................................26
+
+ARTICLE 16      FURTHER ASSURANCES ..........................................28
+         16.1   General .....................................................28
+         16.2   Permits and Governmental Approvals ..........................28
+         16.3   Financing ...................................................28
+
+ARTICLE 17      MISCELLANEOUS ...............................................28
+         17.1   Severability ................................................28
+         17.2   Captions, Titles and Headings ...............................28
+         17.3   Governing Law ...............................................29
+</Table>
+
+
+                                       ii
+<PAGE>
+
+
+<Table>
+<S>                                                                          <C>
+17.4    Non-Waiver ..........................................................29
+17.5    Relationship of the Parties .........................................29
+17.6    Parties in Interest .................................................29
+17.7    Non-Dedication of Facility ..........................................29
+17.8    Modification ........................................................29
+17.9    Entire Agreement ....................................................30
+17.10   Attorneys' Fees .....................................................30
+17.11   Costs and Expenses ..................................................30
+17.12   Counterparts ........................................................30
+17.13   Survival of Obligations .............................................30
+17.14   No Effect on Pending Litigation .....................................30
+17.15   Electricity Price for "Infineum Steam Agreement" ....................30
+</Table>
+
+
+EXHIBITS
+
+Exhibit A  Price of Electricity
+Exhibit B  HTS Price
+Exhibit C  Sample HTS Price Calculation
+Exhibit D  Delivery Point
+
+
+                                       iii
+
+
+<PAGE>
+
+
+                          ELECTRICITY SUPPLY AGREEMENT
+
+
+
+         This ELECTRICITY SUPPLY AGREEMENT (this "Agreement"), dated as of
+December 21, 2001, between JEDI LINDEN NB, L.L.C. ("Seller"), a Delaware limited
+liability company, INFINEUM USA L.P., a Delaware limited partnership ("Buyer"),
+and TOSCO CORPORATION, a Nevada corporation ("Tosco").
+
+                                   WITNESSETH:
+
+         WHEREAS, Cogen Technologies Linden Venture, L.P., a Delaware limited
+partnership ("Cogen") owns, operates and maintains an existing cogeneration
+facility (the "Existing Plant"), which produces electricity for delivery to
+Consolidated Edison Company of New York, Inc. pursuant to a Power Purchase
+Agreement, executed April 14, 1989, as amended from time to time, and steam for
+delivery to Buyer pursuant to an Amended and Restated Agreement for the Sale of
+Steam between Cogen and Buyer, dated as of January 1, 1999 (the "Infineum Steam
+Agreement");
+
+         WHEREAS, East Coast Power L.L.C., an Affiliate of Cogen ("ECP") and
+Tosco Refining, L.P., an Affiliate of Tosco, entered into an Energy Services
+Agreement, dated as of February 14, 2000, as amended from time to time (the
+"ESA"), pursuant to which ECP would develop an approximately 172 megawatt ("MW")
+cogeneration facility (the "Linden 6 Facility") adjacent to the Existing Plant
+to produce electricity for sale to Tosco for use at the Bayway Refinery and to
+produce additional steam for delivery to, and use by Cogen and sale by Cogen to
+Bayway pursuant to an Agreement for the Sale of Steam between Cogen and Bayway
+dated as of April 8, 1993 ("Bayway Steam Agreement"), as may be amended from
+time to time;
+
+         WHEREAS, ECP has assigned its interest in the ESA to Seller by
+instrument dated as of June 1,2000 and Tosco is the successor in interest to
+Tosco Refining, L.P.;
+
+         WHEREAS, Cogen presently sells steam from the Existing Plant to Buyer
+for use at Buyer's Complex pursuant to the Infineum Steam Agreement;
+
+         WHEREAS, Buyer desires to purchase Electricity from Seller;
+
+
+<PAGE>
+
+
+         WHEREAS, Tosco desires to facilitate the furnishing of Electricity to
+Buyer;
+
+and
+
+         WHEREAS, the Parties herewith are entering into an agreement for
+Seller's furnishing of Electricity to Buyer.
+
+         NOW, THEREFORE, in consideration of the mutual covenants contained
+herein and other valuable consideration, the receipt and sufficiency of which
+are hereby acknowledged, the Parties, intending to be legally bound, agree as
+follows:
+
+                                    ARTICLE I
+
+                         DEFINITIONS AND INTERPRETATION
+
+         1.1 Definitions. As used in this Agreement, the following terms when
+initially capitalized in this Agreement shall have the following meanings:
+
+         "Affiliate" means, with respect to any Person, any other Person that
+directly or indirectly, through one or more intermediaries, controls, is
+controlled by or is under common control with, such Person. Solely for the
+purposes of defining the term Affiliate, "Control," when used with respect to
+any Person, means the possession of the power to direct or cause the direction
+of management and policies of such Person, directly or indirectly, whether
+through the ownership of voting securities, by contract or otherwise, and the
+terms "Controlling" and "Controlled" have meanings correlative to the foregoing.
+The ownership, directly or indirectly, of 10% or more of the voting securities
+of any Person shall constitute "Control" of such Person. El Paso Energy
+Corporation and its affiliates shall be deemed to be Affiliates of Seller.
+
+         "Agreement" means this Electricity Supply Agreement, including all
+exhibits hereto, as amended from time to time,
+
+         "Annual Period" means any one of a succession of consecutive twelve
+(12) Month periods, the first of which shall begin on the Commercial Operations
+Date of the Linden 6 Facility.
+
+         "Base Term" of this Agreement has the meaning assigned to it in Section
+2.1.
+
+
+                                       2
+
+<PAGE>
+
+
+
+         "Bayway Property" means the land upon which the Bayway Refinery is
+located at Linden, N.J. and Elizabeth, N.J. and such other properties that could
+be served by the Linden 6 Facility without adversely affecting the Linden 6
+Facility's qualification as an On-site Generation Facility.
+
+         "Bayway Refinery" means (i) the oil refinery, marketing terminal,
+petrochemical plant and associated facilities owned or operated by Bayway or an
+Affiliate of Bayway; (ii) the operations of Buyer; (iii) the operations of Exxon
+Company, U.S.A. Site Remediation; and (iv) any other facilities or operations
+all located on the Bayway Property that are related to and integrated with the
+industrial processes or marketing terminal operations of the Baway Refinery
+(whether or not owned or operated by Bayway or an Affiliate or a Third Party).
+
+         "Btu" means one British Thermal Unit.
+
+         "Business Day" means a day other than a Saturday, Sunday or other day
+on which commercial banks in New York City or Linden, New Jersey, are authorized
+or required by law to close.
+
+         "Buyer" means Infineum USA L.P., a Delaware limited partnership, and
+its permitted successors and assigns.
+
+         "Buyer's Complex" means Buyer's chemical plant (formerly Exxon Chemical
+Company's Chemical Plant) located at Linden, New Jersey, and does not include
+the technology center owned by Buyer in Linden, New Jersey.
+
+         "Buyer's Load" means Buyer's aggregate consumption of Electricity (in
+kWh) at Buyer's Complex.
+
+         "Buyer's Property" means the real property interests, if any, and of
+whatever nature in and to the land upon which Buyer's Complex is located.
+
+         "Buyer's Requirements" means Buyer's Electricity requirements for
+Buyer's Complex.
+
+
+                                       3
+<PAGE>
+
+         "Change in Law" means a change which occurs after the Effective Date in
+any statute, ordinance, regulation or policy of any Governmental Authority or
+the policies, rules or procedures of PJM or any other legal requirements
+applicable to the construction, operation or maintenance of the Linden 6
+Facility.
+
+         "Claiming Party" means a Party claiming Force Majeure.
+
+         "Claims" has the meaning assigned to it in Section 11.1.
+
+         "Commercial Operations Date" means the date declared by Seller in a
+notice to Buyer and Tosco on or after the date on which Electricity is first
+available to be delivered hereunder from the Linden 6 Facility to the Delivery
+Point by Seller following successful completion of Operational Testing of the
+Linden 6 Facility, consistent with Prudent Electric Industry Practice.
+
+         "Cost of Fuel" means, for any Month, the average price for natural gas
+(including the value of Refinery Gas) delivered to the Linden 6 Facility during
+such Month, including the cost of transportation and related services necessary
+for the purchase and delivery of such fuel, inclusive of all Taxes, expressed in
+$/MMBtu.
+
+         "Default" has the meaning assigned to it in Article 9.
+
+         "Delivery Point" means the point as described in Exhibit D.
+
+         "Effective Date" has the meaning assigned to it in Section 2.1.
+
+         "Electricity" means electrical energy, expressed in kilowatt-hours
+(kWh), for Buyer's Complex.
+
+         "Existing Plant" means the cogeneration facility and all appurtenant
+structures and equipment owned by Seller in Linden, New Jersey, as of the date
+hereof and as generally described in the filing made with the FERC in Docket No.
+QF90-65-000 for the purpose of producing steam and generating electricity and
+does not include any portion of the Linden 6 Facility.
+
+
+                                       4
+<PAGE>
+
+
+         "FERC" means the Federal Energy Regulatory Commission.
+
+         "FERC Rules" means the regulations promulgated by the FERC under PURPA
+that are set forth in 18 C.F.R. Part 292, or successor regulations and any other
+applicable regulations promulgated by the FERC.
+
+         "Force Majeure" has the meaning assigned to it in Section 10.2.
+
+         "Governmental Authority" means any governmental, legislative, judicial
+or administrative body or court or any other Person authorized to make or
+enforce laws or regulations or exercising executive, legislative, judicial,
+regulatory or administrative functions or pertaining to government.
+
+         "HTS Price" means the price for Electricity furnished by PSE&G pursuant
+to its published HTS Rate Schedule, as may be amended from time to time,
+calculated in the manner set forth in Exhibit B.
+
+         "Independent Party" means an independent party unrelated, directly or
+indirectly, to either Party and mutually agreeable to the Parties.
+
+         "Infineum Steam Agreement" has the meaning assigned to it in the
+recitals hereof.
+
+         "Interest Rate" means two (2) percent over the bank prime loan rate as
+reported in Federal Reserve Statistical Release H.15 (or a successor publication
+of similar authority, if Statistical Release H.15 is discontinued) for the day
+payment becomes due; provided, however, in no event shall the Interest Rate
+exceed the maximum rate of interest permissible under the laws of the State of
+New Jersey.
+
+         "Linden 6 Facility" has the meaning assigned to it in the second
+recital.
+
+         "Metering Points" means those points where Buyer receives Electricity
+from the electrical distribution facilities of the Bayway Refinery.
+
+
+                                       5
+
+<PAGE>
+
+
+         "Month" means a calendar month, except for the calendar month that
+includes the Commercial Operations Date, in which case the term means the period
+commencing on such date and ending on the last day of such calendar month.
+
+         "MMBtu" means one million Btus.
+
+         "MW" means millions of watts.
+
+         "New Taxes" means any Taxes imposed on or required to be collected by
+Seller on or after the Effective Date for the delivery, purchase or sale of
+Electricity pursuant to this Agreement that are not or would not be reflected in
+the calculation of the price for Electricity pursuant to Section 5.1 because
+such Taxes are not imposed on or required to be collected by PSE&G pursuant to
+its HTS Rate Schedule, as may be amended from time to time.
+
+         "On-site Generation Facility" has the meaning provided in New Jersey
+P.L. 1999 (The Electric Discount and Energy Competition Act), Chapter 23, Sec.
+3, and as may be amended from time to time.
+
+         "Party" means Buyer or Seller or Tosco, as the case may be, and its
+permitted successors and assigns.
+
+         "Person" means a natural person, corporation, limited liability
+company, partnership, association, joint venture, real estate investment trust
+or business trust (including any beneficiary thereof), unincorporated
+association, and any other form of business, legal or governmental entity.
+
+         "PJM" means the PJM Interconnection, L.L.C. or any successor
+independent system operator or regional transmission organization performing
+substantially similar functions.
+
+         "Prudent Electric Industry Practice" means any of the practices,
+methods or acts (i) required by the National Electric Safety Code, PJM, the
+North American Electric Reliability Council, or the successors of any of them,
+whether or not Seller is a member thereof, or (ii) otherwise engaged in or
+approved by a significant portion of the electric generation industry during the
+relevant time period or any of the practices, methods and acts that in the
+exercise of reasonable judgment in light of the facts known at the time the
+decision was made, could have
+
+
+                                       6
+
+<PAGE>
+
+
+been expected to accomplish the desired result at a reasonable cost consistent
+with good business practices, reliability, safety and expedition. Prudent
+Electric Industry Practice is not intended to be limited to the optimum
+practice, method or act to the exclusion of all others, but rather to be
+acceptable practices, methods or acts generally accepted in the region.
+
+         "PSE&G" means the Public Service Electric and Gas Company, its
+successors and assigns.
+
+         "PURPA" means the Public Utility Regulatory Policies Act of 1978, as
+amended.
+
+         "Refinery Gas" means any natural gas that Tosco may, in its sole
+discretion and limited solely by its rights pursuant to the ESA to make such
+arrangements, arrange for delivery to the Linden 6 Facility in exchange for
+refinery gas produced by the Bayway Refinery. Such natural gas shall be valued
+for purposes of this Agreement at the arithmetic average of the common range
+prices (in $/MMBtu) published by Financial Times Energy in Gas Daily for
+delivery of natural gas to citygates identified as (a) "Tetco M-3" and (b)
+"Transco Zone 6 NY" for deliveries of natural gas made on such Day (identified
+in Gas Daily as the "flow date") or, if no price is published for deliveries of
+natural gas made on such Day, the most recent prices published for deliveries
+made on a Day prior to such Day (the "Gas Daily Price"). If the publication of
+prices in Gas Daily for "Tetco M-3" or "Transco Zone 6 NY" is discontinued or
+reconstituted in such a manner so as to render them unusable for the purposes
+intended by the Parties, Seller and Tosco shall agree on a substitute
+publication of natural gas prices commonly accepted in the natural gas industry
+that most closely reflects the prices for natural gas delivered in like quantity
+and quality to the facilities of PSE&G in or near Linden, New Jersey.
+
+         "Qualifying Facility" means a facility that meets the requirements set
+forth in the FERC Rules implementing PURPA for a qualifying cogeneration
+facility.
+
+         "Seller" means JEDI Linden NB, L.L.C., a Delaware limited liability
+company, and its permitted successors and assigns.
+
+         "Taxes" shall mean any or all ad valorem, property (including host
+community benefit fees and payments in lieu of taxes), occupation, severance,
+generation, first use, conservation, Btu or energy, transmission, utility, gross
+receipts, privilege, sales, use,
+
+
+
+                                       7
+
+
+<PAGE>
+
+
+consumption, excise, lease, transaction, and other taxes or, governmental
+charges, licenses, fees, permits and assessments, or increases therein, other
+than taxes based on Seller's or its Affiliates' net income or net worth.
+
+
+         "Third Party" means a Person other than a Party.
+
+         "Tosco" means Tosco Corporation, a corporation organized pursuant to
+the laws of the State of Nevada, and its permitted successors and assigns.
+
+    1.2 Interpretation.
+
+         A. Each Party acknowledges that each of the other Parties and their
+respective counsel have reviewed and revised this Agreement and that the normal
+rule of construction to the effect that any ambiguities are to be resolved
+against the drafting party shall not be employed in the interpretation of this
+Agreement.
+
+         B. Defined terms in this Agreement shall include in the singular number
+the plural, and in the plural number the singular. Whenever the context
+requires, any pronoun shall include the corresponding masculine, feminine and
+neuter forms. Article, section and exhibit references are to articles, sections
+of and exhibits to this Agreement, except as otherwise indicated.
+
+
+         C. Unless otherwise stated, any reference in this Agreement to any
+Governmental Authorities or to any statutes and regulations shall include
+references to any successors to such Governmental Authority and to any successor
+provisions to such statutes and regulations, respectively.
+
+         D. When used in this Agreement, the words "Btu" and "MMBtu" when used
+to describe the energy equivalent of a quantity of fuel shall, unless otherwise
+expressly indicated, refer to the higher heating value ("HHV") of such fuel;
+the words "hereof," "herein," "hereunder" and words of similar import shall,
+unless otherwise expressly indicated, refer to this Agreement as a whole and not
+to any particular provision of this Agreement; the words "include," includes,"
+and "including" shall be understood to mean inclusion without limitation.
+
+
+
+                                       8
+
+
+<PAGE>
+                                    ARTICLE 2
+
+                                      TERM
+
+     2.1 Base Term of Agreement. This Agreement shall be effective as of the
+later of the date of execution or the satisfaction of the Condition Precedent as
+set forth in Section 2.3 (the "Effective Date") and shall continue until the
+date which is the fifth (5th) annual anniversary of the Commercial Operations
+Date of the Linden 6 Facility (the "Base Term"), unless earlier terminated or
+extended in accordance with the terms of this Agreement.
+
+     2.2 Renewal of Agreement. The Parties agree to negotiate in good faith an
+agreement for the continued supply of Electricity to Buyer's Complex that would
+be effective upon expiration of the Base Term.
+
+     2.3 Condition Precedent. This Agreement shall not be effective until Tosco
+and Seller shall execute certain amendments to the ESA related to the furnishing
+of Electricity to Infineum prior to the Commercial Operations Date, acceptable
+to Seller, necessary to facilitate Seller's performance of this Agreement.
+Seller shall notify Buyer when Seller and Tosco have executed such amendments.
+
+
+                                    ARTICLE 3
+
+                REPRESENTATIONS, WARRANTIES AND ACKNOWLEDGEMENTS
+
+     3.1 Representations and Warranties of Buyer. As of the execution of this
+Agreement and the Effective Date, Buyer represents and warrants to Seller that:
+
+          A. It is a limited partnership duly organized and existing in good
+standing under the laws of the State of Delaware, and is qualified to do
+business in the State of New Jersey.
+
+          B. Buyer possesses all requisite power and authority to enter into and
+perform this Agreement and to carry out the transactions contemplated herein.
+
+          C. Neither the execution nor delivery by it of this Agreement
+conflicts with, results in a breach of or constitutes a default under (i) any of
+the terms, conditions or provisions of its certificate or articles of
+incorporation, articles of association, limited liability company or
+
+
+
+                                       9
+<PAGE>
+
+partnership agreement, by-laws or other constituent documents, (ii) any
+material, federal, state or local law, or any order, rule or regulation of any
+Governmental Authority having jurisdiction over it or its properties or by which
+it or its properties may be bound, or (iii) any agreement or instrument to which
+it is a Party or by which it or any of its properties may be bound, other than
+with respect to any agreements or instruments for which consents or approvals
+are required from any partner or member of Buyer.
+
+          D. Buyer intends to conduct its operations and activities in such a
+manner that no such operations or activities adversely affect the qualification
+of the Linden 6 Facility as an On-site Generation Facility.
+
+          E. No suit, action or arbitration, or legal, administrative or other
+proceeding is pending or threatened against Buyer or its Affiliates that would
+affect the validity or enforceability of this Agreement or the ability of Buyer
+to materially fulfill its commitments hereunder.
+
+     3.2 Representations and Warranties of Seller. As of the Effective Date,
+Seller represents and warrants to Buyer that:
+
+          A. Seller is a limited liability company duly organized and existing
+under the laws of the State of Delaware and is duly qualified to do business in
+the State of New Jersey.
+
+          B. Seller possesses all requisite power and authority to enter into
+and perform this Agreement and to carry out the transactions contemplated
+herein.
+
+          C. Neither the execution nor delivery by it of this Agreement
+conflicts with, results in a breach of or constitutes a default under (i) any of
+the terms, conditions or provisions of its certificate or articles of
+incorporation, articles of association, limited liability company or partnership
+agreement, by-laws or other constituent documents, (ii) any material, federal,
+state or local law, or any order, rule or regulation of any Governmental
+Authority having jurisdiction over it or its properties or by which it or its
+properties may be bound, or (iii) any agreement or instrument to which it is a
+Party or by which it or any of its properties may be bound, other than with
+respect to any agreements or instruments for which consents or approvals are
+required from any partner or member of Seller.
+
+
+                                       10
+<PAGE>
+
+
+          D. No suit, action or arbitration, or legal, administrative or other
+proceeding is pending or threatened against Seller or its Affiliates that would
+affect the validity or enforceability of this Agreement or the ability of Seller
+to materially fulfill its commitments hereunder.
+
+     3.3 Buyer's Acknowledgement. Buyer hereby acknowledges that this Agreement
+is the product of arm's-length negotiation and that there is no conflict between
+any arrangement under this Agreement and any contract or agreement between Buyer
+and Tosco for the supply or furnishing of Electricity within the Bayway
+Property. Buyer acknowledges that Buyer's Complex is not directly connected to
+Seller's Delivery Point, that Electricity furnished to Buyer will be delivered
+at the Delivery Point into electric distribution facilities owned by Tosco and
+that Buyer is responsible for arranging the delivery of Electricity from the
+Delivery Point to Metering Points at points of interconnection between the
+electrical distribution facilities of the Bayway Refinery and Buyer's Complex
+and for any and all costs incurred as a result thereof.
+
+                                    ARTICLE 4
+
+                             DELIVERY OF ELECTRICITY
+
+     4.1 Electricity Quality. Commencing on the Commercial Operations Date,
+Seller shall deliver Electricity to Buyer at 230kV (nominal) and 60 Hertz
+(nominal) at the Delivery Point. Buyer shall make all arrangements necessary for
+the delivery of Electricity from the Delivery Point to the Metering Points.
+
+     4.2 Electricity Quantity. From and after the Commercial Operations Date (i)
+Seller shall provide all of Buyer's Requirements for Electricity for Buyer's
+Complex up to but not exceeding a maximum coincident demand of ten (10) MW and
+(ii) Buyer shall take all of Buyer's Requirements for Electricity, which are
+presently estimated, but not guaranteed, to be approximately five and one-half
+(5.5) MW. Seller recognizes that Buyer may reduce, terminate, or change the
+nature of its operations at Buyer's Complex and that Buyer's Requirements may be
+reduced or eliminated as a result. Buyer shall notify Seller and Tosco as soon
+as practicable following Buyer's reasonable anticipation of any material change
+or elimination of Buyer's Requirements. If Buyer elects to dispose of or cease
+all or substantially all of its industrial operations in Buyer's Complex or
+otherwise reduce or eliminate seventy-five percent (75%) of
+
+
+                                       11
+<PAGE>
+
+Buyer's Requirements for a period of one hundred eighty (180) days or more as
+compared to Buyer's Requirements for the immediately preceding one hundred
+eighty (180) day period, other than because of Force Majeure, Seller may elect
+to terminate this Agreement upon fifteen (15) days prior notice to Buyer and
+Tosco.
+
+     4.3 Title: Risk of Loss. Seller shall be deemed to be in exclusive control
+(and responsible for any damages or injury caused thereby) of the Electricity on
+Seller's side of the Delivery Point and Buyer shall be deemed to be in exclusive
+control (and responsible for any damages or injury caused thereby) of the
+Electricity at and from the Delivery Point. Title to and the risk of loss
+related to the Electricity shall transfer from Seller to Buyer at the Delivery
+Point. The Parties acknowledge that Tosco will not possess title to any of the
+Electricity delivered to Buyer under this Agreement at any time.
+
+     4.4 Back-up Electricity Arrangements. In the event that the Linden 6
+Facility is not available to produce Electricity for delivery to Buyer, Seller
+shall be responsible for arranging the supply of back-up Electricity required by
+Buyer at Buyer's Complex at no additional cost to Buyer.
+
+     4.5 Closure or Disposition of Buyer's Facilities. In the event that Buyer
+closes or otherwise shuts down Buyer's Complex for any reason, or disposes of
+Buyer's Complex by any means, including hut not limited to Force Majeure, Buyer
+shall provide Seller with notice of such closure, shutdown or disposition not
+more than three (3) days after Buyer obtains knowledge that Buyer's Complex will
+be closed, shut down or disposed.
+
+     4.6 Sales of Electricity to Third Parties.
+
+          A. Purchases and Sales of Electricity; Affiliate Transactions. Seller
+may sell Electricity to Third Parties or to any Affiliate of Seller.
+
+          B. No Resales by Buyer. Buyer shall not be entitled to resell or check
+meter Electricity delivered by Seller hereunder to any Third Party.
+
+
+
+                                       12
+<PAGE>
+
+     4.7 On-site Generation Facility Status. Buyer and Seller shall conduct
+their operations and activities in a manner that such operations and activities
+do not prevent or otherwise adversely affect the qualification of the Linden 6
+Facility as an On-site Generation Facility. Upon notice to Buyer and Tosco,
+Seller may suspend delivery of Electricity to Buyer if, at any time, Buyer's use
+or redistribution of Electricity furnished pursuant to this Agreement is not in
+compliance with the requirements for an On-site Generation Facility.
+
+     4.8 Purchases of Electricity from Third Parties. Buyer acknowledges that
+Seller may satisfy its obligation to deliver Electricity to Buyer pursuant to
+this Agreement from resources other than the Linden 6 Facility.
+
+                                    ARTICLE 5
+
+                              PRICE FOR ELECTRICITY
+
+     5.1 Price. The price which Buyer agrees to pay to Seller, and Seller agrees
+to accept from Buyer, on and after the Commercial Operations Date for Buyer's
+Requirements is set forth in Exhibit A, which is inclusive of all Taxes on the
+delivery, purchase and sale of Electricity hereunder as of the date of execution
+hereof.
+
+                                    ARTICLE 6
+
+                                    METERING
+
+     6.1 Reporting Buyer's Use of Electricity. Not later than 5:00 p.m. on the
+first Business Day following the conclusion of any Month during the Term, Tosco
+shall in good faith provide Seller and Buyer with Buyer's Load during the
+immediately preceding Month, including reasonable supporting data and other
+relevant information. Buyer shall use commercially reasonable efforts to insure
+an accurate determination of Buyer's Load. Tosco's existing meters at existing
+Metering Points, or such additional meters as may be necessary to measure
+Buyer's consumption of Electricity at additional Metering Points within the
+Bayway Property, shall be used for all quantity measurements regarding Buyer's
+Load. For purposes of this Agreement, Electricity shall be measured in
+kilowatt-hours (kWh), without respect to demand or time of use.
+
+     6.2 Means of Measurement and Notice to Seller. Buyer shall be required to
+arrange with Tosco to measure the quantity of Electricity received by Buyer.
+Buyer shall arrange with
+
+
+                                       13
+<PAGE>
+
+Tosco to design, install, operate, maintain and own all measuring equipment
+necessary for the accurate measurement and determination of Buyer's Load. Such
+measurement shall be determined by one or a combination of the following
+methods:
+
+          A. Using the registration of any meter or meters of Tosco, if
+accurately registering; or
+
+          B. In the absence of an accurately registering meter of Tosco, making
+a calibration test or mathematical calculation, if the percentage of error is
+ascertainable; or
+
+          C. In the absence of both an accurately registering meter of Tosco and
+an ascertainable percentage of error, estimating by reference to quantities
+measured during period of similar conditions when Buyer's meter was registering
+accurately. Buyer shall arrange with Tosco to repair or recalibrate any
+inaccurate meter in a timely manner; or
+
+          D. In the absence of an ability to use any of the above methods of
+measurement, estimating by reference to Buyer's operating records for Buyer's
+Complex for the period in question.
+
+     6.3 Testing. All meters used for measuring the quantity of Electricity
+received by Buyer shall be maintained under the following procedures:
+
+          A. Testing of Meters. Buyer shall arrange with Tosco to test and
+verify the accuracy of Tosco's measuring equipment annually in Seller's
+presence. The calibration procedure to be used under this Section 6.3A shall be
+mutually agreed to by the Parties prior to the time Seller first delivers
+Electricity to Buyer. Seller shall have the right to witness and audit any
+measuring of, or testing performed on, the meters used to determine Buyer's
+Load. Seller shall give timely notice to Buyer and Tosco in advance of taking
+any of such actions.
+
+          B. Other Testing of Meters. In the event that a Party notifies the
+other Parties that it desires a test of its own or of another Party's
+measuring equipment, the Parties shall cooperate to secure a prompt verification
+of the accuracy of such equipment.
+
+          C. Costs of Testing. Buyer and Seller shall bear the cost of the
+testing and any required adjustments of their respective measuring equipment. In
+the event that a Party
+
+
+                                       14
+<PAGE>
+
+requests more frequent testing of another Party's measuring equipment, the
+requesting Party shall bear the cost of the testing unless such equipment is
+found to be inaccurate by one percent (1%) or greater. For purposes of this
+Section 6.3C, the obligations of Buyer shall apply to Tosco's meters used to
+measure Buyer's Load.
+
+          D. Corrections of Measuring Equipment. If, upon testing, any measuring
+equipment is found to be inaccurate by less than one percent (1%) at a rate
+corresponding to the average hourly rate for Electricity supplied by Seller to
+Buyer's Complex for the period since the last preceding test, previous
+recordings of such equipment shall be considered accurate in computing
+deliveries of Electricity hereunder, but such equipment shall be promptly
+adjusted to record correctly to the extent possible. If, upon testing, any
+measuring equipment shall be found to be inaccurate by greater than one percent
+(1%) at a rate corresponding to the average hourly rate for Electricity supplied
+by Seller to Buyer's Complex for the period since the last preceding test, then
+such equipment shall be promptly adjusted to record properly, to the extent
+possible, and any previous recordings by such equipment shall be corrected to
+zero error, to the extent possible, and Seller shall promptly send to Buyer,
+pursuant to Article 7, billing adjustments based on such corrected recordings.
+If no reliable information exists as to when the equipment became inaccurate, it
+shall be assumed for correction purposes hereunder that such inaccuracy began at
+a point in time midway between the testing date and the last previous date on
+which the equipment was tested and found to be accurate or adjusted to be
+accurate.
+
+     6.4 Maintenance and Records.
+
+          A. Maintenance. Seller shall have the right to have a representative
+present whenever Buyer, Tosco or an Independent Party, as applicable, cleans,
+changes, repairs, inspects, tests, calibrates or adjusts any metering equipment
+or any equipment used in checking measurements. Seller shall give not less than
+five (5) days notice to Buyer or Tosco or the Independent Party, in advance of
+taking any such action, unless providing such notice is not feasible as a result
+of the need for immediate repairs in which case prompt notice shall be given.
+
+          B. Records. The records from the test of any measurement equipment
+owned by Tosco shall remain the property of Tosco, but upon Seller's request to
+Buyer and Tosco, Buyer shall arrange to have Tosco submit to Seller Tosco's
+records and charts (or, at Tosco's
+
+                                       15
+<PAGE>
+
+
+option, copies thereof), together with calculations therefrom, for inspection
+and copying, subject to return by Seller within ten (10) days of receipt
+thereof.
+
+                                    ARTICLE 7
+
+                              INVOICES AND PAYMENT
+
+     7.1 Billing. Within ten (10) days of receipt of Buyer's Load for the prior
+Month, Seller shall prepare and deliver to Buyer, and contemporaneously deliver
+a copy to Tosco, an invoice for Buyer's Load in the preceding Month at the price
+set forth in Article 5 of this Agreement.
+
+     7.2 Payment. On or before ten (10) days after receipt of Seller's invoice,
+or if such day is not a Business Day, the immediately following Business Day,
+Buyer shall render by wire transfer the amount set forth on such invoice to the
+address provided in Section 14.1, and shall promptly notify Tosco by facsimile
+or in such other manner acceptable to Tosco that such payment has been made.
+Overdue payments shall accrue interest from and including the due date to, but
+excluding, the date of payment at the Interest Rate.
+
+
+     7.3 Infineum Steam Agreement. Buyer shall not offset any amounts due to
+Seller for Electricity under this Agreement by any credits derived pursuant to
+the Infineum Steam Agreement.
+
+     7.4 Disputes. If Buyer in good faith disputes an invoice, Buyer shall
+provide a written explanation of Buyer's good faith basis for the dispute to
+both Seller and Tosco not later than thirty (30) days of the due date for
+amounts billed, and Buyer shall pay the entire invoice no later than the due
+date. Notwithstanding the foregoing, however, Buyer shall retain the right to
+dispute invoices after payment thereof for a period of three (3) years after the
+date on which the invoice was paid. If any amount disputed by Buyer is
+determined to be due to Buyer, Seller shall pay Buyer within ten (10) days of
+such determination, in addition to interest accrued at the Interest Rate from
+the date initial payment of the disputed amount was received by Seller until the
+date paid to Buyer.
+
+     7.5 Adjustments. Seller shall promptly prepare and deliver to Buyer, and
+contemporaneously to Tosco, an invoice setting forth any adjustments for
+discrepancies in billing
+
+
+                                       16
+<PAGE>
+
+identified through meter verifications pursuant to Article 6 or for any reason
+that would require immediate reimbursement of billed amounts to Buyer or
+additional payments by Buyer to Seller hereunder, along with interest accrued at
+the Interest Rate from the date such payments or reimbursement should have been
+paid in ordinary course to Buyer or Seller, as the case may be.
+
+     7.6 Audit Rights. For a period of three (3) years after the rendering of
+any invoice furnished to Buyer pursuant to this Article 7, Buyer and Tosco may
+request of Seller and obtain reasonable access to the books, records, files and
+other data of the Linden 6 Facility in the possession of Seller to the extent
+such are necessary to determine, verify, analyze or confirm the reasonableness
+and necessity of the amounts charged and credited pursuant to this Agreement.
+
+     7.7 Books and Records. Buyer and Seller shall each maintain complete and
+accurate records concerning the amounts charged and credited pursuant to this
+Agreement for a period of three (3) years from the date of invoices therefrom
+and shall make such records available to the other Parties in accordance with
+the provisions of Section 7.6.
+
+                                    ARTICLE 8
+
+                                      TAXES
+
+     8.1 Taxes. In the event that Seller seeks to invoice Buyer for New Taxes
+pursuant to this Agreement, Seller shall provide written notice to Buyer as soon
+as reasonably practicable and shall propose a meeting to negotiate in good faith
+a revised price for Electricity. Buyer shall be responsible only for New Taxes
+that have been incorporated into a revised price for Electricity. If the Parties
+are unable to agree upon a revised price for Electricity, this Agreement shall
+terminate thirty (30) days after Buyer's receipt of such notice from Seller.
+Each Party shall use reasonable efforts to administer this Agreement and
+implement the provisions in accordance with the intent to minimize Taxes, and
+shall use reasonable efforts to obtain and cooperate with the other Parties in
+obtaining any exemption from or reduction of any Tax.
+
+                                    ARTICLE 9
+
+                              DEFAULT AND REMEDIES
+
+     9.1 Seller Default. The occurrence of any of the following events shall
+constitute a "Default" by Seller (with the understanding by the Parties that a
+Default by Seller under this
+
+
+                                       17
+<PAGE>
+
+Agreement shall not constitute a default under the Infineum Steam Agreement
+unless the facts constituting a Default hereunder separately constitute a
+default thereunder):
+
+          A. Seller fails to pay any amounts due to Buyer hereunder and such
+breach continues for a period of fifteen (15) days after notice thereof shall
+have been received by Seller from Buyer.
+
+          B. Seller fails to materially perform any obligations to Buyer, or
+breaches a material term or condition of this Agreement, including a breach of
+its representations and warranties or covenants hereunder, and such breach
+continues for a period of sixty (60) days after notice thereof has been received
+by Seller from Buyer; provided, that if such breach is not reasonably capable of
+being cured within such sixty (60) day period and Seller reasonably commences to
+cure such breach within such sixty (60) day period, such sixty (60) day period
+shall be extended for such additional period, but in no event longer than
+eighteen (18) Months, as is reasonably necessary to remedy such failure if and
+for so long as Seller is diligently continuing efforts to pursue a cure for such
+breach.
+
+          C. Any sale, assignment or other transfer in violation of Article 13.
+
+     9.2 Buyer Default. The occurrence of any of the following events shall
+constitute a "Default" by Buyer (with the understanding by the Parties that a
+Default by Buyer under this Agreement shall not constitute a default under the
+Infineum Steam Agreement unless the facts constituting a Default hereunder
+separately constitute a default thereunder):
+
+          A. Buyer fails to pay any amounts due Seller hereunder and such breach
+continues for a period of fifteen (15) days after notice thereof has been
+received by Buyer from Seller.
+
+          B. Buyer fails to materially perform any obligation to Seller, or
+breaches a material term or condition of this Agreement, including a breach of
+its representations and warranties or covenants hereunder other than Sections
+9.2A, 9.2C and 9.2D, and such breach continues for a period of sixty (60) days
+after notice thereof has been received by Buyer from Seller; provided, that if
+such breach is not reasonably capable of being cured within such sixty (60) day
+period and provided that Buyer reasonably commences to cure such breach within
+such
+
+
+                                       18
+<PAGE>
+
+sixty (60) day period, such sixty (60) day period shall be extended for such
+additional period, but in no event longer than eighteen (18) Months, as is
+reasonably necessary to remedy such failure if and for so long as Buyer is
+diligently continuing efforts to pursue a cure for such breach.
+
+          B. Buyer fails to conduct its operations or activities in a manner so
+as to prevent an adverse effect on the qualification of the Linden 6 Facility as
+an On-site Generation Facility.
+
+          C. Any sale, assignment or other transfer in violation of Article 13.
+
+     9.3 Tosco's Right to Cure. The Parties agree and acknowledge that upon a
+breach by Buyer or Seller, Tosco shall have the same right, but not any
+obligation, to prevent a Buyer Default or Seller Default by acting on behalf of
+Buyer or Seller within the time required to cure such breach by Buyer or Seller.
+
+     9.4 Remedies. If a Default has occurred and is continuing, the Party that
+is not in Default may, at its sole option, elect to terminate this Agreement
+and, subject to Article 12, take any action at law or in equity that may be
+available to it to enforce the payment of any damages or the performance of all
+obligations of the Party in Default hereunder. Notwithstanding the foregoing
+neither Party shall have a right to terminate this Agreement unless such Party
+shall have provided the other Parties notice of a breach pursuant to Section
+9.1. The breaching Party shall have no less than the specified amount of time to
+cure such breach, which time shall expire on the later of the dates available to
+the breaching Party.
+
+     9.5 Damages. Upon the occurrence of a Default hereunder, the aggrieved
+Party may elect to terminate this Agreement by providing notice thereof to the
+defaulting Party and shall be entitled to seek damages as available at law
+except as may be limited pursuant to Section 9.5.
+
+     9.6 Limitation on Liability for Damages. The Parties agree that for breach
+of any provision under this Agreement, the obligor's liability shall be limited
+to direct actual damages only, such direct actual damages shall be the sole and
+exclusive remedy and all other remedies or damages at law or in equity are
+waived, except that any Party may seek specific performance of any provision of
+this Agreement, including such temporary injunctive relief as may be available
+at law or in equity. If, for any reason, Seller fails to furnish all or a
+portion of Buyer's
+
+
+                                       19
+<PAGE>
+
+
+Requirements at the Delivery Point and such failure is not excused pursuant to
+this Agreement, Buyer's damages shall be limited to the reasonable cost of
+replacement power delivered at 230 kV (nominal) to the electrical distribution
+facilities of the Bayway Refinery. No Party shall be liable for consequential,
+incidental, punitive, exemplary or indirect damages, lost profits or other
+business interruption damages, by statute, in tort or contract, under any
+indemnity provision or otherwise. It is the intent of the Parties that the
+limitations herein imposed on remedies and the measure of damages be without
+regard to the cause or causes related thereto, including the negligence of any
+Party, whether such negligence be sole, joint or concurrent, or active or
+passive.
+
+     9.7 Duty to Mitigate. Each Party shall use commercially reasonable efforts
+to mitigate the incurrence of damages.
+
+                                   ARTICLE 10
+
+                                  FORCE MAJEURE
+
+     10.1 Force Majeure. If a Claiming Party is rendered wholly or partly unable
+to perform its obligations under this Agreement because of a Force Majeure
+event, that Party shall be excused from whatever performance is affected by such
+Force Majeure event but only to the extent so affected; provided, that: (i) the
+Claiming Party, within two (2) days after the occurrence of the Force Majeure
+event, gives the other Party notice describing the particulars of the occurrence
+and its estimated duration; (ii) the suspension of performance is of no greater
+scope and of no longer duration than is required by the Force Majeure event; and
+(iii) the Claiming Party uses commercially reasonable efforts to remedy its
+inability to perform, to secure substitute suppliers or services and to resume
+its full performance under this Agreement; provided, however, that the Claiming
+Party's obligation to remedy its inability to perform shall not require the
+settlement of any strike, walkout, lockout or other labor dispute on terms that,
+in the sole judgment of the Party involved in said dispute, are contrary to its
+best interest. Notwithstanding anything to the contrary contained in this
+Agreement, in no event shall Buyer be excused by reason of Force Majeure from
+its obligation to pay any amounts due under this Agreement.
+
+     10.2 Force Majeure Defined. "Force Majeure" means any event beyond the
+reasonable control of the Party affected thereby that adversely affects the
+ability of such Party to perform
+
+
+
+
+                                       20
+<PAGE>
+
+any obligation hereunder (other than failure to pay money when due), including
+but not limited to the following: acts of God, war or foreign enemy; unusually
+severe weather conditions; flood; earthquake; storm; hurricane; epidemics;
+lightning; fire; drought; explosion; riot; civil disturbance; strikes, lockouts
+or similar labor interruptions or labor disputes; sabotage; an event of force
+majeure occurring with respect to, or a suspension, curtailment or service
+interruption of, any third party supplier of Electricity, gas, water or waste
+water, or any Third Party Electricity, gas, water or waste water transmission or
+distribution provider (including any independent system operator or equivalent,
+and any interstate natural gas pipeline or any local Electricity, gas or water
+distribution company or provider of waste water); arrests and restraints of
+rules and people; any action of a court or a binding order of any Governmental
+Authority; inability after diligent application to obtain or maintain required
+permits, zoning or other required approvals from any Governmental Authority or
+other Third Party whose consent is required as a condition to a Party's
+performance hereunder; failure of Third Party facilities or Third Party major
+equipment breakdown; failure of any contractor, subcontractor or supplier to
+furnish labor, services, materials or equipment on the dates agreed to if such
+failure is caused by a Force Majeure; a change in applicable law; the failure of
+any public agency or Governmental Authority or any utility having jurisdiction
+of the Existing Plant to maintain utilities, services, water and sewer lines and
+power transmission lines; and any circumstance that would in the reasonable
+opinion of such Party endanger persons or property. A failure of equipment or
+machinery controlled or operated by a Party (whether leased or owned) shall not
+be considered Force Majeure irrespective of whether such equipment or machinery
+has been designed, manufactured, installed, or maintained by the Party or a
+Third Party unless such failure was due to a Force Majeure.
+
+                                   ARTICLE II
+
+                                 INDEMNIFICATiON
+
+     11.1 Indemnification for Claims. Each Party shall defend, indemnify and
+hold harmless the other Parties and their officers, directors, employees,
+contractors, subcontractors, Affiliates and agents ("Related Parties") from and
+against any and all Third Party liabilities, claims, injuries (including death
+resulting therefrom), property damage, fines, penalties or assessments by any
+public agency, insofar as not prohibited by law, costs or expenses (including
+
+
+                                       21
+<PAGE>
+
+costs of defense, settlement and reasonable attorneys' fees) (collectively,
+"Claims") to the extent caused by the negligence or willful misconduct of the
+indemnifying Party or its Related Parties in connection with performance under
+this Agreement. The term "liabilities" in the preceding sentence, and the
+indemnification obligation, include any strict liability and other liability
+without fault, however named, asserted against the Parties indemnified.
+
+     11.2 Notice. Each Party hereto shall promptly furnish the other Parties
+with notification (but in no event later than ten (10) days prior to the time
+any response is required by law) after such Party becomes aware of any event or
+circumstance which might give rise to such indemnification.
+
+     11.3 Defense. The indemnifying Party shall have the right to defend any
+suit asserting a Claim covered by this indemnity and shall pay all costs and
+expenses (including reasonable attorneys' fees and expenses) that may be
+incurred in enforcing this indemnity. The indemnified Party may, at its own
+expense, retain separate counsel and participate in the defense of any such suit
+or action. The indemnifying Party shall not compromise or settle a Claim
+hereunder without the prior written consent of the indemnified Party; provided,
+however, that in the event such consent shall be withheld, then the liability of
+the indemnifying Party shall be limited to the aggregate of the amount of the
+proposed compromise or settlement, the amount of counsel fees and expenses
+outstanding at the time such consent shall have been withheld, and the amount of
+any outstanding claim against which indemnification applies and which is not
+covered by the proposed compromise or settlement (together with all costs and
+expenses associated with such outstanding Claim). Thereafter, the Party
+withholding such consent shall hold harmless and reimburse the indemnifying
+Party, upon demand, for the amount of any additional liability, counsel fees and
+expenses incurred by the indemnifying Party over and above the amounts described
+above after the time such consent shall have been withheld. To the extent a
+Party disputes its obligation to indemnify another Party or Parties, it shall
+not be considered a breach of this Agreement for such Party to fail to perform
+under this Section 11.3 until such time as such Party is determined to have the
+obligation to indemnify under Section 11.1.
+
+     11.4 Survival of Indemnifications. The provisions of this Article shall
+survive the expiration or earlier termination of this Agreement.
+
+
+                                       22
+<PAGE>
+
+                                   ARTICLE 12
+
+                               DISPUTE RESOLUTION
+
+     12.1 Dispute Resolution.
+
+          A. The Parties agree to work in good faith to resolve any claim,
+demand, cause of action, dispute or controversy arising out of or relating to
+this Agreement. The Parties shall refer any such dispute to representatives of
+each Party's senior management for resolution.
+
+          B. If the representatives of each Party's senior management are unable
+to resolve such dispute within ten (10) Business Days after such referral, the
+Parties shall have the right to exercise any and all remedies available to them
+at law or in equity.
+
+                                   ARTICLE 13
+
+                                   ASSIGNMENT
+
+     13.1 General. Except as provided in this Article 13, no Party may assign or
+otherwise transfer this Agreement or any of its rights hereunder to any other
+Person without the express written consent of the other Parties, which consent
+shall not be unreasonably withheld, delayed or conditioned.
+
+     13.2 Permitted Assignments. Any Party may assign this Agreement to an
+Affiliate.
+
+     13.3 Further Assurances. If reasonably requested by a Party proposing to
+effect an assignment pursuant to this Article 13, the other Parties shall
+reasonably cooperate to facilitate such proposed assignment, including without
+limitation by agreeing to furnish an estoppel certificate if and to the extent
+appropriate with respect to the assigning Party's compliance under this
+Agreement.
+
+     13.4 Violations a Default; Further Remedies. Any sale, assignment or other
+transfer by Seller or Buyer in violation of this Article 13 shall constitute a
+Default hereunder at the option of the other Party (an "Article 13 Default"). In
+addition, in the event of an Article 13 Default, Seller shall be entitled to the
+following relief, in addition to any other remedies available at law or in
+equity: until Buyer's non-compliance is cured, Seller shall have no obligation
+to deliver
+
+
+                                       23
+<PAGE>
+
+
+Electricity to Buyer or Buyer's proposed assignee and to purchase or pay for any
+back-up Electricity for Buyer or Buyer's proposed assignee hereunder.
+
+                                   ARTICLE 14
+
+                                     NOTICES
+
+     14.1 General. All notices, notifications, invoices, payments, consents or
+other communications between the Parties shall be given in writing and shall
+either be delivered by hand or sent by certified or registered mail, return
+receipt requested, or by facsimile followed immediately by certified or
+registered mail, return receipt requested, as follows:
+
+          If to Buyer:
+
+                          Infineum USA L.P.
+                          Bayway Chemical Plant
+                          Park and Brunswick Avenues
+                          P.O. Box 23
+                          Linden, New Jersey 07036
+                          Attn: Susan Frederick
+                          Facsimile: (908) 474-3838
+
+          with a copy to:
+                          Infineum USA L.P.
+                          Bayway Chemical Plant
+                          Park and Brunswick Avenues
+                          P.O. Box 23
+                          Linden, New Jersey 07036
+                          Attn: Tom Loeffler
+                          Facsimile: (908) 474-7609
+
+          With the exception of invoices, which shall be sent to the
+following address:
+                          Infineum USA L.P.
+                          Bayway Chemical Plant
+                          Park and Brunswick Avenues
+                          P.O. Box 23
+                          Linden, New Jersey 07036
+                          Atta: Rose Lazaro
+                          Facsimile: (908) 474-7609
+
+          If to Seller:
+                          JEDI Linden NB, L.L.C.
+                          1001 Louisiana Street
+                          Houston, Texas 77002
+                          Attn: Mr. Robert J. Licato
+                          Facsimile: 713-420-3978
+
+
+                                       24
+<PAGE>
+          with a copy to:
+
+                          East Coast Power L.L.C.
+                          1095 Cranbury - S. River Road
+                          Jamesburg, New Jersey 08831
+                          Attn: Linden 6 Facility Manager
+                          Facsimile: 609-409-9404
+
+
+                                       25
+<PAGE>
+
+
+          If to Tosco:
+
+                          Tosco Corporation
+                          1400 Park Avenue
+                          Linden, New Jersey 07036
+                          Attn: Catherine Pihokken
+                          Facsimile: 908-523-5258
+
+
+          with a copy to:
+
+                          Bayway Refining Company
+                          1400 Park Avenue
+                          Linden, New Jersey 07036
+                          Attn: Refinery Manager
+                          Facsimile: 908-523-5900
+
+Notices shall be deemed received when delivered by hand, upon receipt (as
+indicated on a return certificate), or when sent by facsimile.
+
+     14.2 Notice to Tosco. A copy of any material notice, notification,
+invoice, payment, consent or other communication required to be provided
+hereunder from Seller to Buyer, or from Buyer to Seller, shall also be
+contemporaneously provided to Tosco in accordance with the procedures set forth
+in this Article 14.
+
+     14.3 Changes. A Party may change its address for notice hereunder, or
+provide for additional Persons to be noticed, by giving the other Parties notice
+as provided above.
+
+     14.4 Holidays. If the date on which a notice is due, or a prescribed action
+is necessary falls on a day that is not a Business Day, the date on which such
+notice or action shall be due shall be extended until the next succeeding
+Business Day.
+
+                                   ARTICLE 15
+
+                                 CONFIDENTIALITY
+
+          The Parties agree to define "Confidential Information" as all
+information, data and other non-public information and materials (including
+information concerning Buyer's or Seller's or Tosco's operations such as
+information regarding maintenance at Buyer's Complex or the Bayway Refinery, the
+Existing Plant or the Linden 6 Facility) relating to this Agreement and the
+
+
+                                       26
+<PAGE>
+
+terms or conditions of this Agreement or disclosed pursuant to any term or
+provision of this Agreement that is provided by a Party to one or more of the
+Parties in written, graphical or other tangible form marked "Confidential" or
+with similar legend clearly identifying the Party's proprietary interest, or in
+oral form with the proviso that, if orally transmitted, such information shall
+be identified as confidential and the confidential nature of such information
+shall be confirmed in writing within thirty (30) days of the initial oral
+disclosure. The Parties agree that all Confidential Information shall be kept
+confidential and shall not be disclosed or used for any purpose other than
+matters related to this Agreement; provided, however, that Confidential
+Information may be disclosed to any Party on a need to know basis in accordance
+with the terms of this Agreement. Such obligations of confidentiality shall
+survive the termination of this Agreement by three (3) years. Each Party shall
+be permitted to disclose Confidential Information to such Party's and its
+Affiliates' officers, directors, employees, agents, counsel, accountants,
+consultants, contractors or advisors who need to know such information for the
+purpose of implementing this Agreement or the transactions contemplated hereby,
+and agrees to notify such Persons of the confidential nature of such
+Confidential Information, and to be responsible for any unauthorized disclosure
+of such Confidential Information by such Persons. Seller shall be permitted to
+disclose Confidential Information to those of its Lenders and prospective
+Lenders or prospective purchasers who agree to keep such information
+confidential by executing a confidentiality agreement in form and substance
+which reasonably satisfies the provisions of this Article. Confidential
+Information shall not be deemed confidential if it (i) was in the public domain
+prior to the date hereof, (ii) becomes publicly available after the date hereof
+other than as a result of the unauthorized disclosure thereof by a Party or by
+an officer, director, employee, agent or Affiliate of a Party, or (iii) is
+required to be disclosed pursuant to applicable laws or regulations or pursuant
+to administrative or judicial process; provided, however, that the disclosing
+Party provides the non-disclosing Parties with written notice of the
+Confidential Information to be disclosed as far in advance of its disclosure as
+is practicable and that, except with regard to disclosures to the Securities and
+Exchange Commission, the disclosing Party uses its best efforts to obtain
+assurances that confidential treatment will be accorded to such information. The
+Parties shall be entitled to all remedies available at law or in equity to
+enforce or seek relief in connection with this confidentiality obligation.
+
+
+                                       27
+<PAGE>
+
+                                   ARTICLE 16
+
+                               FURTHER ASSURANCES
+
+     16.1 General. Each Party agrees to execute and deliver all further
+instruments and documents, and take any further action that may be reasonably
+necessary to effectuate the purpose and intent of this Agreement.
+
+     16.2 Permits and Governmental Approvals. Buyer and Seller shall cooperate
+with each other and shall use reasonable efforts to assist each other in
+maintaining all permits and approvals from any Governmental Authority required
+for the operation of the Linden 6 Facility, Appurtenant Systems and
+interconnections and for favorable Tax treatments. At Buyer's request after the
+Commercial Operations Date, Seller shall use commercially reasonable efforts, at
+Buyer's expense, to modify or amend any such permits or approvals; provided,
+that such modifications or amendments shall have no material adverse effect on
+Seller.
+
+     16.3 Financing. Buyer understands that Seller or its Affiliates may from
+time to time arrange financing relating to the Linden 6 Facility, the Existing
+Plant or both, and Buyer agrees to cooperate with Seller's or its Affiliates'
+financing efforts. If any Lender requires any consents to this Agreement, Buyer
+agrees to enter into good faith negotiations with Seller with respect to such
+Lender's or investor's requested consents and will provide, at Seller's request,
+opinions of counsel or estoppel certificates reasonably related thereto.
+
+                                   ARTICLE 17
+
+                                  MISCELLANEOUS
+
+     17.1 Severability. If any provision of this Agreement shall be held invalid
+or unenforceable by any court of competent jurisdiction, then such holding shall
+not invalidate or render unenforceable any other provision hereof and the
+Parties shall immediately renegotiate in good faith such provision to eliminate
+such invalidity or unenforceability, consistent with the intent of this
+Agreement.
+
+
+     17.2 Captions, Titles and Headings. The captions, titles, and headings used
+in this Agreement are for convenience only and shall not affect the construction
+of any terms of this Agreement.
+
+
+                                       28
+<PAGE>
+
+     17.3 Governing Law. This Agreement shall be governed by and construed in
+accordance with the internal laws of New Jersey, without regard to principles of
+conflict of laws thereof.
+
+     17.4 Non-Waiver. Except as may be expressly provided in this Agreement or
+in a writing signed by the Party against whom a waiver is claimed, the failure
+of any Party to insist in any instance on strict performance of any provision of
+this Agreement shall not be construed as a waiver of any such provision or the
+relinquishment of any rights thereunder in the future, but the same shall
+continue and remain in full force and effect.
+
+     17.5 Relationship of the Parties. The Parties are, and intend to be,
+independent contractors with respect to each other. THIS AGREEMENT SHALL NOT BE
+INTERPRETED OR CONSTRUED TO CREATE AN ASSOCIATION, TRUST, PRINCIPAL-AGENT
+RELATIONSHIP, JOINT VENTURE OR PARTNERSHIP BETWEEN THE PARTIES OR TO IMPOSE ANY
+PARTNERSHIP, AGENCY OR FIDUCIARY OBLIGATION OR LIABILITY UPON ANY PARTY. No
+Party shall have any right, power or authority to enter into any agreement or
+undertaking for, or act on behalf of, or act as or be an agent or representative
+of, or otherwise bind the other Parties, except as may be expressly provided
+herein to perform a duty or obligation specifically set forth herein, and then
+only to the extent reasonably necessary to perform such duty or obligation.
+
+     17.6 Parties in Interest. This Agreement shall inure only to the benefit of
+Buyer and Seller and Tosco and their permitted successors and assigns. Nothing
+contained in this Agreement, whether express or implied, is intended to confer
+upon any Third Party any benefits, rights or remedies.
+
+     17.7 Non-Dedication of Facility. No part of the Linden 6 Facility shall be
+dedicated by virtue of this Agreement for the sale of electrical or thermal
+energy to the public generally and indiscriminately, for the exercise of a
+public franchise, or in the exercise of a public utility function.
+
+     17.8 Modification. The provisions of this Agreement, including any
+exhibits, may be modified only by written agreement duly executed by each Party.
+
+
+
+                                       29
+<PAGE>
+
+
+     17.9 Entire Agreement. This Agreement shall constitute the entire agreement
+between the Parties and cancels and supersedes all previous agreements and
+understandings between the Parties with respect to the subject matter hereof.
+
+     17.10 Attorneys' Fees. If any lawsuit or other action or proceeding
+relating to this Agreement is brought by any Party against any other Party or
+Parties hereto, the prevailing Party shall be entitled to recover reasonable
+attorneys' fees, costs and disbursements (in addition to any other relief to
+which the prevailing Party may be entitled).
+
+     17.11 Costs and Expenses. In any dispute where any Party is entitled to
+reimbursement of costs, "costs" shall include interest on any judgment, court
+costs, and reasonable legal fees and expenses (including allocated fees of
+in-house counsel).
+
+     17.12 Counterparts. This Agreement may be executed in one or more
+counterparts, each of which shall constitute an original but all of which, when
+taken together, shall constitute only one legal instrument.
+
+     17.13 Survival of Obligations. Except as may be expressly provided in this
+Agreement, termination of this Agreement for any reason shall not relieve a
+Party of any obligation accruing or arising prior to such termination.
+
+     17.14 No Effect on Pending Litigation. This Agreement shall have no effect
+whatsoever on the respective positions of the parties in Infineum USA L.P. v.
+Cogen Technologies Linden Venture, L.P., Civil Action No. 00-3222 (WGB)
+(D.N.J.) (the "Steam Agreement Litigation"). Nothing in this Agreement shall be
+construed or used as an admission by any Party in connection with the Steam
+Agreement Litigation and this Agreement shall not be used to support or to
+defend any claim in the Steam Agreement Litigation.
+
+     17.15 Electricity Price for "Infineum Steam Agreement". Buyer and Seller
+acknowledge that the "HTS Price" calculated in accordance with Exhibit B of this
+Agreement shall be used as the value of the variable designated "HTS" in the
+calculations made in accordance with Exhibit A of the Infineum Steam Agreement.
+
+
+                                       30
+<PAGE>
+
+     IN WITNESS WHEREOF, the Parties hereto have executed this Agreement on the
+dates shown beneath their respective signatures, intending the rights and
+obligations of the Parties to become effective on the day and year first written
+above.
+
+                                    JEDI LINDEN NB, L.L.C.
+
+                                    By:     /s/ JOHN J O'ROURKE
+                                            ------------------------------------
+                                    Name:   John J. O'Rourke
+                                    Title:  Vice President and Managing Director
+
+
+                                    INFINEUM USA, L.P.
+
+                                    By:   /s/ S. LEONARD BERLIN
+                                          --------------------------------------
+
+                                    Name:     S. Leonard Berlin
+                                          --------------------------------------
+
+                                    Title:    Treasurer
+                                          --------------------------------------
+
+                                    TOSCO CORPORATION
+
+                                    By:     /s/ HERMAN L. SEEDORF III
+                                            ------------------------------------
+
+                                    Name:   Herman L. Seedorf III
+                                            ------------------------------------
+
+                                    Title:  Refinery Manager
+                                            ------------------------------------
+
+
+                                       31
+<PAGE>
+                                                                       EXHIBIT A
+
+                              PRICE OF ELECTRICITY
+
+          The price that Buyer shall pay to Seller for all Electricity furnished
+to Buyer shall be determined as follows:
+
+          A. From and after Commercial Operation based on the HTS Price
+effective February 7, 2001, and until a new HTS Rate Schedule becomes effective,
+the price for all Electricity (in cents per kWh) shall be:
+
+
+               5.76 cents per kWh,
+
+               plus, when the Linden 6 Facility is operating and the Cost of
+          Fuel exceeds $6.00 per MMBtu, 0.315 multiplied by the difference
+          between the Cost of Fuel* less $6.00 per MMBtu. [Price for Electricity
+          = 5.76 + 0.315 x (Cost of Fuel - 6.00) for Cost of Fuel > $6.00 per
+          MMBtu]
+
+          B. From and after the Day upon which a new HTS Rate Schedule becomes
+effective, the price for Electricity (in cents per kWh) shall be the calculated
+as follows; of:
+
+               (1) If the Cost of Fuel is less than or equal to $7.00 per MMBtu,
+then the price for Electricity shall be the HTS Price multiplied by 0.9 [Price
+for Electricity = HTS Price Calculated in Exhibit B x 0.9];
+
+               (2) If the Cost of Fuel is greater than $7.00 per MMBtu, then the
+price for Electricity shall be the greater of:
+
+               (a) HTS Price multiplied by 0.9 [calculation same as (1) above],
+          or
+
+               (b) the sum of HTS Price multiplied by 0.45
+
+               plus 0.6 cents,
+
+               plus 0.4053 multiplied by the Cost of Fuel [Price for Electricity
+          = (HTS Price Calculated in Exhibit B x 0.45) + 0.6 + (0.4053 x Cost of
+          Fuel)]
+
+
+<PAGE>
+
+
+               (3) If, for any Month, the Linden 6 Facility is not operated to
+produce Electricity supplied to Infineum for the entire Month, then the price
+for Electricity for such Month shall be the HTS Price multiplied by 0.9 for all
+fuel prices [Price for Electricity + HTS Price Calculated in Exhibit B x 0.9];
+
+provided, however, if at any time during this Agreement, the new HTS Price is
+more than ten percent (10%) lower than the new HTS Price effective on
+February 7, 2001, the Parties shall meet and negotiate the price for
+Electricity.
+
+
+                                       2
+<PAGE>
+
+
+                                                                      EXHIBIT B
+
+                                   HTS PRICE(1)
+<Table>
+<S>            <C>
+
+SOURCE:        Public Service Electric and Gas HTS Rate Schedule from web site at www.pseg.com
+               Third Revised Sheet Nos. 143 and 144 or equivalent/superseding sheets
+               High Tension Service - High Voltage Service
+</Table>
+
+<Table>
+<Caption>
+RATES(2)     DESCRIPTION
+--------     -----------
+<S>          <C>
+A            On peak demand charge including NJ sales and use tax (SUT) (June through September) - S per kW-month
+B            On peak demand charge including NJ sales and use tax (SUT) (October through May) - $ per kW-month
+C            On peak kWh charge including NJ SUT - cents per kWh
+D            Intermediate kWh charge including NJ SUT - cents per kWh
+E            Off peak kWh charge including NJ SUT - cents per kWh
+F            Service charge
+</Table>
+
+<Table>
+<Caption>
+OTHER DATA      DESCRIPTION                SOURCE
+----------      -----------                ------
+<S>             <C>                        <C>
+Monthly kWh     Infineum monthly usage     Existing kWh meters - calculated as has been the practice
+Load Factor     Average load/peak load     Average of January 2000 through June 2001 (ex Feb and
+                                           Mar 2001) for Bayway site - 0.9389
+HRS             Hours in the current month
+</Table>
+
+<Table>
+<Caption>
+CALCULATION PROCEDURE FOR MONTHLY BILL (ALL RESULTS IN $):
+----------------------------------------------------------
+<S>                   <C>                     <C>                         <C>
+
+Monthly kWh           kWh supplied by Tosco/Infineum meter readings
+Peak kW               Monthly kWh / (0.9389 x HRS)                        0.9389 assumed constant
+
+KILOWATT CHARGE:      Peak kW x A or B        A (June through September)    B (October through May)
+
+KILOWATT-HOUR CHARGE:
+
+                      kWh x C x 0.41667/100   peak usage 14 hours per day, 5 days per week - 14 x 5/(24 x 7) = 0.041667
+                      plus
+                      kWh x D x 0.08333/100   intermediate usage 14 hours on Saturday, 12/(24 x 7) = 0.08333
+                      plus
+                      kWh x E x 0.50/100       off peak - rest of the time 1.0 - 0.41667 - 0.08333 = 0.50
+
+(if kilowatt-hour charge were split between winter/summer in the future, consistent method would be used with split)
+
+SERVICE CHARGE: F          Monthly fee from rate schedule
+
+TOTAL MONTHLY BILL:        Kilowatt charge + kilowatt-hour charge + service charge
+
+HTS PRICE = AVERAGE POWER COST = TOTAL MONTHLY BILL / MONTHLY kWh * 100 (IN CENTS/kWh)
+</Table>
+
+
+--------------
+
+(1)  This calculation of the HTS Price will be used for purposes of this
+     Agreement and the Infineum Steam Agreement.
+
+(2)  See Sample HTS Price Calculation with figures labeled A through F in
+     Exhibit C.
+
+
+                                                 3
+<PAGE>
+                                                                       EXHIBIT C
+
+                          SAMPLE HTS PRICE CALCULATION
+                  Using PSE&G'S February 7, 2001 Rate Schedule
+                     (Third Revised Sheet Nos. 143 and 144)
+
+
+SAMPLE DATA:
+
+<Table>
+<Caption>
+Month               October
+Monthly kWh         3,960,000
+<S>                 <C>
+        A           9.4320
+        B           8.6130
+        C           6.0173
+        D           5.1434
+        E           4.4461
+        F           1823.47
+
+Monthly kWh         3,960,000
+Peak kWh            3,960,000/(0.9389 x 24 x 31) = 5668.95 kW
+</Table>
+
+
+<Table>
+<Caption>
+                                                                           MONTHLY
+                                                                           CHARGE
+                                                                           -------
+<S>                                                                        <C>
+KILOWATT CHARGE:    5668.95 x 8.613       use Oct-May-"B"                  $48,827
+KILOWATT-HOUR CHARGE:
+              Monthly kWh x C x 0.41667 / 100                              $99,286
+              plus
+              Monthly kWh x D x 0.8333 / 100                               $16,973
+              plus
+              Monthly kWh x E x 0.50 / 100                                 $88,033
+
+SERVICE CHARGE:    F                                                       $ 1,823
+                                                                            ------
+
+TOTAL MONTHLY BILL                                                         $254,942
+
+HTS PRICE = AVERAGE POWER COST = TOTAL MONTHLY BILL/MONTHLY kWh * 100      6.438 cents per kWh
+</Table>
+
+
+
+
+
+
+                                       4
+
+
+<PAGE>
+PUBLIC SERVICE ELECTRIC AND GAS COMPANY                     CORRECTED
+                                                     THIRD REVISED SHEET NO. 143
+                                                            SUPERSEDING
+B.P.U.N.J. No. 13 ELECTRIC                          SECOND REVISED SHEET NO. 143
+
+                                RATE SCHEDULE HTS
+                              HIGH TENSION SERVICE
+                                   (Continued)
+
+<Table>
+<Caption>
+HIGH VOLTAGE SERVICE:
+     SERVICE CHARGE:
+        Customer:                                                  $1,720.25 in each month [$1,823.47 including
+                                                                            New Jersey Sales and Use Tax (SUT)]
+
+     KILOWATT CHARGE IN THE MONTHS OF JUNE THROUGH SEPTEMBER:
+
+                                                     ON-PEAK                  INTERMEDIATE                  OFF-PEAK
+                                                     -------                  ------------                  --------
+     Per kilowatt unless                              CHARGES                    CHARGES                      CHARGES
+
+     otherwise noted                                INCLUDING                  INCLUDING                    INCLUDING
+
+                                        CHARGES         SUT         CHARGES         SUT         CHARGE         SUT
+                                      ---------      --------      --------      --------     --------      --------
+     <S>                              <C>            <C>           <C>           <C>          <C>           <C>
+     Generation Capacity              $  2.8333      $ 3.0033      $ 0.0000      $ 0.0000     $ 0.0000      $ 0.0000
+     Transmission Capacity            $  1.5058      $ 1.5961      $ 0.0000      $ 0.0000     $ 0.0000      $ 0.0000
+     Market Transition Charge         $  4.6130      $ 4.8898      $ 0.0000      $ 0.0000     $ 0.0000      $ 0.0000
+     Distribution Charge Remainder           **            **      $ 0.0000      $ 0.0000     $ 0.0000      $ 0.0000
+                                      ---------      --------      --------      --------     --------      --------
+     Total Kilowatt Charge            $  8.8980      $ 9.4320      $ 0.0000      $ 0.0000     $ 0.0000      $ 0.0000
+</Table>
+
+
+
+
+
+Date of Issue: February 28, 2001                    Effective: February 7, 2001
+  Issue by FRANCIS E. DELANY, Jr., Vice President and Corporate Rate Counsel
+                   80 Park Plaza, Newark, New Jersey 07101
+         Filed pursuant to Orders of Board of Public Utilities dated August
+                   24, 1999 and September 17, 1999 in Docket Nos.
+                  EO97070461, EO97070462, EO97070463 and EF99060390
+<PAGE>
+                                                            CORRECTED
+PUBLIC SERVICE ELECTRIC AND GAS COMPANY              THIRD REVISED SHEET NO. 144
+                                                            SUPERSEDING
+                                                    SECOND REVISED SHEET NO. 144
+B.P.U.N.J. No. 13 ELECTRIC
+
+
+
+                               RATE SCHEDULE HTS
+                              HIGH TENSION SERVICE
+                                  (CONTINUED)
+
+KILOWATT CHARGE IN THE MONTHS OF OCTOBER THROUGH MAY:
+<Table>
+<Caption>
+                              ON-PEAK                  INTERMEDIATE                  OFF-PEAK
+                              -------                  ------------                  --------
+Per kilowatt unless                CHARGES                     CHARGES                     CHARGES
+otherwise noted                   INCLUDING                   INCLUDING                   INCLUDING
+
+                                 CHARGES      SUT       CHARGES       SUT       CHARGES      SUT
+                                 -------      ---       -------       ---       -------      ---
+<S>                              <C>        <C>         <C>        <C>         <C>         <C>
+Generation  Capacity             $2.8333    $3.0033     $0.0000    $0.0000     $0.0000     $0.0000
+Transmission Capacity            $1.5058    $1.5961     $0.0000    $0.0000     $0.0000     $0.0000
+Market Transition Charge         $4.2141    $4.4669     $0.0000    $0.0000     $0.0000     $0.0000
+Distribution Charge Remainder      **         **        $0.0000    $0.0000     $0.0000     $0.0000
+                                 -------    -------     -------    -------     -------     -------
+Total Kilowatt Charge            $8.1250    $8.6130     $0.0000    $0.0000     $0.0000     $0.0000
+</Table>
+
+
+** The Total Kilowatt Charge and Market Transition Charge are billed on the
+basis of monthly maximum demand. Generation Capacity and Transmission Capacity
+are calculated on the basis of the assigned Capacity and Transmission Obligation
+as determined below. The Distribution Charge Remainder per kilowatt will vary
+monthly such that each customer's bill for the sum of the above individual
+kilowatt charges (charge times demand or obligation as applicable), including
+the Distribution Charge Remainder, equals the Total Charge times times the
+applicable maximum demand.
+
+KILOWATTHOUR CHARGE:
+
+<Table>
+<Caption>
+                              ON-PEAK                  INTERMEDIATE                  OFF-PEAK
+                              -------                  ------------                  --------
+PER KILOWATTHOUR                   CHARGES                     CHARGES                     CHARGES
+                                  INCLUDING                   INCLUDING                   INCLUDING
+
+                                  CHARGES        SUT             CHARGES         SUT             CHARGES          SUT
+                                  -------        ---             -------         ---             -------          ---
+<S>                              <C>             <C>             <C>             <C>             <C>              <C>
+Basic Generation Service         4.0590 cents    4.3025 cents    3.5332 cents    3.7452 cents    2.1529 cents     2.2821 cents
+Market Transition Chg. (MTC)    (0.4630) cents  (0.4907) cents  (0.7616) cents  (0.8073) cents  (0.0392) cents   (0.0415) cents
+Securitization Transition Chg.   0.6739 cents    0.7143 cents    0.6739 cents    0.7143 cents    0.6739 cents     0.7143 cents
+MTC - Tax                        0.2413 cents    0.2558 cents    0.2413 cents    0.2558 cents    0.2413 cents     0.2558 cents
+Distribution Charge              0.1470 cents    0.1558 cents    0.1470 cents    0.1558 cents    0.1470 cents     0.1558 cents
+Adjustment Charges:
+  Societal Benefits Charge       0.5778 cents    0.6125 cents    0.5778 cents    0.6125 cents    0.5778 cents     0.6125 cents
+  Non - Utility Generation
+    Transition Charge            0.4407 cents    0.4671 cents    0.4407 cents    0.4671 cents    0.4407 cents     0.4671 cents
+                                 ------          ------          ------          ------          ------           ------
+Total                            5.6767 cents    6.0173 cents    4.8523 cents    5.1434 cents    4.1944 cents     4.4461 cents
+</Table>
+
+The MTC-Tax Charge shall be combined with the Securitization Transition Charge
+and the Non-Utility Generation Transition Charge shall be combined with the
+Market Transition Charge for Billing.
+
+
+
+DATE OF ISSUE: February 28, 2001                     EFFECTIVE: February 7, 2001
+    Issued by FRANCIS E. DELANY, Jr., Vice President and Corporate Rate Counsel
+                    80 Park Plaza, Newark, New Jersey 07101
+   Filed pursuant to Orders of Board of Public Utilities dated August 24, 1999
+   and September 17, 1999 in Docket Nos. EO97070461, EO97070462, EO97070463 and
+    EF99060390
+
+<PAGE>
+                                                                       EXHIBIT D
+
+
+NOTES:
+1. ALL METERS INSTALLED BY BUYER IN 230kV BAYWAY SUB.
+2. BUYER'S (BW) METERS OWNED, MAINTAINED & OPERATED BY BUYER.
+3. SELLER'S (ECP) METERS OWNED, MAINTAINED & OPERATED BY SELLER.
+4. INVOICE METERING BASED ON ECP #1 + 2 + 3.
+5. BAYWAY METERS USED FOR CHECK METERS.
+
+
+
+
+
+
+
+                                              [GRAPH]
+
+
+
+
+
+</TEXT>
+</DOCUMENT>

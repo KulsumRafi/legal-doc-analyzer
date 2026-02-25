@@ -1,0 +1,537 @@
+<DOCUMENT>
+<TYPE>EX-10.24
+<SEQUENCE>11
+<FILENAME>y84689exv10w24.txt
+<DESCRIPTION>TRANSACTION SYSTEM AGREEMENT
+<TEXT>
+<PAGE>
+
+                                                                   EXHIBIT 10.24
+
+                             BRIDGE TRADING COMPANY
+                          TRANSACTION SYSTEM AGREEMENT
+                          GENERAL TERMS AND CONDITIONS
+
+ALL CAPITALIZED TERMS NOT DEFINED IN THESE TERMS AND CONDITIONS HAVE THE
+MEANINGS SET FORTH IN THE ORDER FORM , WHICH COLLECTIVELY CONSTITUTE THE
+AGREEMENT BETWEEN BRIDGE TRADING COMPANY AND INSTINET CORPORATION.
+
+1. FURNISHING SYSTEM
+
+      (a) Bridge grants a non-exclusive, non-transferable license to Broker to
+use the System to access order flow, transmit indications and/or transmit
+advertised trades as detailed in and in accordance with the Order Form for so
+long as this Agreement is in effect. Except as expressly granted in this
+Agreement, use by Broker of the System or acceptance of this license in no way
+grants any right, title or interest in the System or any of its components to
+Broker.
+
+      (b) The parties acknowledge that (i) Bridge is acting solely as a vendor
+in licensing Broker to use the System and not as a broker, that (ii) Broker and
+not Bridge is acting as the broker with respect to all orders directed to
+Broker, or indications and advertised trades transmitted by Broker, via the
+System, and that (iii) Bridge's provision of the System does not constitute the
+business of buying and/or selling securities for Broker's clients who direct
+orders to Broker or to whom Broker directs indications or advertised trades, via
+the System.
+
+      (c) Bridge may cancel or withdraw all or part of any System at any time on
+6 months' prior written notice to Broker, and on less notice if: (a) Bridge
+determines that the provision of the System has become unlawful; (b) an
+agreement between any member of the Bridge Group and a third party on which the
+System depends is terminated; or (c) the System becomes subject to a claim that
+it infringes the rights of any third party. If Bridge cancels all or part of any
+System, Bridge's only obligation to Broker will be to refund any Fees paid in
+advance for the cancelled System or portion thereof. Broker may terminate this
+Agreement as it relates to the entire affected System on 30 days' prior (or on
+less notice in the event the notice given by Bridge as detailed above is less
+that thirty (30) days) written notice to Bridge at any time after Broker's
+receipt of notice of cancellation or withdrawal from Bridge in the event of
+Bridge's cancellation or withdrawal of a System or portion thereof. In each
+case, Broker shall pay any Fees (as hereinafter defined), Additional Charges (as
+hereinafter defined) and taxes owed through the time of termination.
+
+      (d) In no event shall Bridge intentionally cause the System to or
+otherwise intentionally (i) redirect any order or other transaction message
+directed to Broker (separately and collectively "Broker Orders") to any other
+ECN, order entry system or any other destination not specified in the Broker
+Order unless otherwise instructed by the customer, (ii) conglomerate or
+aggregate Broker Orders with other orders or transaction messages whatsoever,
+(iii) use the Broker Orders or any information derived from Broker Orders for
+any purposes other than the fulfillment of its obligations under this Agreement
+or for the purposes of support, capacity planning, to detect and prevent
+breaches of Bridge's network security, the law or the contract terms, or for
+other activities related to the administration, management and improvement of
+the System (provided that all Broker Orders and information derived from Broker
+Orders used for these purposes are considered Confidential Information and kept
+as such in accordance with the terms and conditions herein), or (iv) match or
+otherwise fill Broker Orders.
+
+2. FEES
+
+      (a) In consideration of the rights granted to Broker in this Agreement,
+Broker will pay Bridge all fees and charges ("FEES") for the System as set forth
+in the Order Form. Unless otherwise agreed, Fees for the System will accrue from
+the "INSTALLATION DATE" for that System, which is the earlier of: (i) the date
+when that System is installed and operational at the Broker's Premises; and (ii)
+the date when that System is first accessed by Broker. All Fees shall be paid in
+arrears and are due and payable within 45 days after the date of an invoice from
+Bridge. No Fees or Additional Charges shall be owed by Broker for testing of the
+System.
+
+      (b) In addition to the Fees, Broker will pay the following charges
+("ADDITIONAL CHARGES") within 30 days after the date of an invoice for the same
+from Bridge: (i) all installation, relocation and removal charges relating to
+any System as detailed in the Order form or as otherwise agreed to by the
+Parties in an appropriate writing ; (ii) all charges for communications
+facilities as detailed in the Order Form or as otherwise agreed to by the
+Parties in an appropriate writing; (iii) all charges for Software and Equipment
+relating to any System supplied by third parties as detailed in the Order Form
+or as otherwise agreed to by the Parties in an appropriate writing; and (iv) any
+charges for support outside standard hours as detailed in the Order Form or as
+otherwise agreed to by the Parties in an appropriate writing. Broker
+acknowledges that Additional Charges may change without notice if imposed on
+Bridge by a third party.
+
+      (c) In addition to the amounts set forth above, Broker will pay to Bridge
+or to the relevant taxing authority, as appropriate, any applicable sales, use,
+goods and services, value added or other taxes payable under this Agreement
+(other than taxes levied or imposed on Bridge income).
+
+      (d) In all cases, the amounts due under this Agreement will be paid by
+Broker in full without any withholding, set-off, counterclaim or deduction,
+except for amounts reasonably disputed by Broker. The parties agree to work in
+good faith to resolve any payment disputes as quickly as possible.
+
+      (e) All undisputed amounts (so long as the dispute is in good faith) owed
+under this Agreement not paid within thirty (30) days of an overdue notice sent
+to Broker will bear interest from the date such amount became due at the lesser
+of: (i) 1.5 percent per month; or (ii) the maximum allowable rate of interest in
+the State of New York for transactions between sophisticated commercial
+entities.
+
+      (f) Bridge reserves the right to increase the Fees each year, subject to
+Broker's termination right described below. Bridge will notify Broker in writing
+of any such increase for the following year by October 15 of the current year,
+and such increase will become effective as of January 1 of the following year.
+So long as the increase for the following year in the aggregate Fees payable by
+Broker for all System provided at the time of notification, expressed as a
+percentage ("AGGREGATE FEE INCREASE") is at or below the increase in the
+consumer price index for all urban consumers in the New York/New Jersey
+Metropolitan area as reported by the Bureau of Labor Statistics of the U.S.
+Department of Labor, as measured by the increase in such index from September of
+the previous year through August of the current year, expressed as a percentage
+("CPI"), Broker will not be entitled to cancel any System. If the Aggregate Fee
+Increase exceeds the CPI, Broker may cancel one or more System selected by
+Broker
+
+
+                                                                               1
+<PAGE>
+
+whose Fees have increased at a rate that exceeds the CPI, until the Aggregate
+Fee Increase with respect to the remaining System is less than or equal to the
+CPI. Broker may effect any such cancellation by giving Bridge written notice
+prior to December 1 of the current year. Notwithstanding the foregoing, upon the
+commencement of any renewal term, Bridge has the right to charge Broker the then
+current list price for any System and any resulting increase in Fees shall not
+be subject to Broker's cancellation right described in this Agreement.
+
+3. SOFTWARE (IF APPLICABLE)
+
+      (a) Broker is granted a non-exclusive, non-transferable right to use any
+software ("SOFTWARE") provided as part of the System solely at Broker's
+locations in the Order Form. Except as otherwise expressly permitted herein,
+Broker may not sub-license, assign, copy (except for back-up purposes), modify,
+merge, transfer, decompile or reverse engineer the Software.
+
+      (b) In the event that the Software is or becomes defective, Bridge's sole
+liability will be to (i) replace the same after receipt of written notice or, in
+the event that Bridge is not able to replace the same, to (ii) refund the
+portion of any prepaid Fees applicable, from the date of receipt of notice, to
+the portion of the System no longer accessible because of the defective Software
+In the event of (ii), Broker may terminate that portion of the Agreement
+relating to the entire System which is no longer accessible upon thirty (30)
+days' prior written notice to Bridge.
+
+      (c) Broker agrees that the provisions of this Section 3 will inure to the
+benefit of any third party provider of Software.
+
+4. INTELLECTUAL PROPERTY
+
+      (a) Broker acknowledges that as between the parties, the System is
+valuable intellectual property of Bridge and its affiliates (collectively,
+"BRIDGE GROUP"). All rights with respect to the Bridge name, the Bridge name and
+trademarks and the System, whether now existing or which may hereafter come into
+existence, which are not expressly granted to Broker in this Agreement, are
+reserved to the Bridge Group. Any goodwill generated through Broker's use of the
+Bridge name and trademarks shall inure solely to the benefit of the Bridge
+Group. Except as set forth in this Agreement, Broker may not use the Bridge name
+or trademarks without Bridge's prior written consent.
+
+      (b) Bridge acknowledges Broker's assertion that Broker's name and its
+Matador Design are trademarks and service marks of Broker, all rights reserved.
+Bridge agrees, represents and warrants that these and other graphics, logos,
+service marks and trademarks of Broker (the "Broker Marks") may not be used,
+displayed or referenced in any manner, commercial or otherwise, without the
+prior express written consent of Instinet. Nothing in this Agreement should be
+construed as granting, by implication, estoppel, or otherwise, any license,
+right or authority to use the Broker Marks.
+
+5. FACILITIES AND EQUIPMENT (IF APPLICABLE)
+
+      (a) If Bridge supplies any equipment ("EQUIPMENT") as part of any System
+the following will apply: (i) Broker will provide insurance coverage to protect
+the Equipment against loss and damage and shall be liable for all loss or damage
+to the Equipment, unless due to an act or omission of Bridge; and (ii) Broker
+agrees it will be responsible for keeping its own software and hardware
+compatible with the Equipment.
+
+      (b) Broker shall provide 30 days' notice to Bridge of its intention to
+relocate any of the Broker equipment used in connection with the System within
+the Broker facilities if such relocation does not require Bridge to arrange for
+changes in Broker's communications links, and shall provide 30 days' notice (or
+such longer notice as may be required to enable Bridge to arrange for changes in
+Broker's communications links) to Bridge of its intention to relocate any of
+such Broker equipment if such relocation involves the relocation of the Broker
+facilities or otherwise requires Bridge to arrange for changes in Broker's
+communications links. Bridge will provide assistance as necessary in effecting
+any such relocation and will charge Broker for such assistance either at
+Bridge's then standard hourly rates or on a fixed fee basis, as Broker and
+Bridge agree.
+
+      (c) Except as Bridge and Broker otherwise agree, Broker shall be
+responsible for providing wiring required to distribute the System within its
+Premises.
+
+6. DISCLAIMER OF WARRANTIES
+
+      EXCEPT AS EXPRESSLY STATED IN THIS AGREEMENT, THERE ARE NO WARRANTIES,
+CONDITIONS, GUARANTIES OR REPRESENTATIONS, WHETHER EXPRESS OR IMPLIED, IN LAW OR
+IN FACT, ORAL OR IN WRITING. WITHOUT LIMITING THE FOREGOING, NEITHER BRIDGE NOR
+ANY THIRD PARTY SUPPLIER MAKES ANY WARRANTY, EXPRESS OR IMPLIED, AS TO THE
+RESULTS THAT MAY BE OBTAINED FROM THE USE OF THE SYSTEM, EQUIPMENT OR SOFTWARE
+PROVIDED UNDER THIS AGREEMENT, AND BRIDGE AND EACH THIRD PARTY SUPPLIER
+EXPRESSLY DISCLAIMS ANY CONDITION OF QUALITY AND ANY IMPLIED WARRANTY OF TITLE,
+NON-INFRINGEMENT, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. BROKER
+ACKNOWLEDGES THAT IT HAS NOT RELIED UPON ANY WARRANTY, CONDITION, GUARANTY OR
+REPRESENTATION MADE BY BRIDGE OR ANY THIRD PARTY SUPPLIER, EXCEPT AS
+SPECIFICALLY SET FORTH IN THIS AGREEMENT OR IN THE CASE OF FRAUD. In particular,
+and without limiting the generality of the foregoing, Bridge makes no warranty
+that orders, indications OR ADVERTISED TRADES processed OR TRANSMITTED via the
+System will be properly executed OR DELIVERED.
+
+7. LIABILITY
+
+      (a) ALTHOUGH BRIDGE MAKES REASONABLE EFFORTS TO ENSURE THE ACCURACY AND
+RELIABILITY OF THE SYSTEM, NEITHER BRIDGE NOR ANY THIRD PARTY SUPPLIER
+GUARANTEES SUCH ACCURACY OR RELIABILITY, AND BROKER ACKNOWLEDGES THAT BRIDGE,
+ITS EMPLOYEES, AGENTS, CONTRACTORS, SUB-CONTRACTORS AND THIRD PARTY SUPPLIERS
+WILL NOT BE HELD LIABLE FOR ANY DAMAGES SUFFERED OR INCURRED BY BROKER, ANY
+CUSTOMER OF BROKER OR ANY OTHER PERSON OR ENTITY ARISING OUT OF ANY FAULT,
+INTERRUPTION OR DELAY IN ANY SYSTEM OR OUT OF ANY INACCURACY, ERROR OR OMISSION
+IN ANY SYSTEM SUPPLIED TO BROKER, HOWEVER SUCH FAULTS, INTERRUPTIONS, DELAYS,
+INACCURACIES, ERRORS OR OMISSIONS ARISE, UNLESS DUE TO BRIDGE'S GROSS NEGLIGENCE
+OR WILLFUL MISCONDUCT.
+
+
+                                                                               2
+<PAGE>
+
+
+      (b) Except for Broker's failure to comply with any payment obligations,
+neither party will be liable for any failure to perform any obligation under
+this Agreement, or for any delay in the performance of such obligations, due to
+causes beyond its control, including industrial disputes of whatever nature,
+acts of God, public enemy, acts of government, failure of telecommunications,
+fire or other casualty.
+
+      (c) UNDER NO CIRCUMSTANCES WILL EITHER PARTY OR THIRD PARTY SUPPLIER BE
+LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL OR CONSEQUENTIAL DAMAGES OR LOST
+PROFITS WITH RESPECT TO THE SUBJECT MATTER OF THIS AGREEMENT, REGARDLESS OF
+WHETHER SUCH DAMAGES COULD HAVE BEEN FORESEEN OR PREVENTED, EXCEPT TO THE EXTENT
+DUE TO THE GROSS NEGLIGENCE OR WILLFUL MISCONDUCT OF SUCH PARTY.
+
+      (d) In no event will the aggregate liability of either party to the other
+or to any third party for Damages, direct or otherwise, arising out of or in
+connection with this Agreement, exceed the total amount of Fees actually paid to
+Bridge by Broker during the 12 month period immediately preceding the act or
+omission giving rise to the loss, regardless of the cause or form of action,
+provided however, that the foregoing limitation of liability shall not apply to
+the extent due to the gross negligence or willful misconduct of such party, each
+party's obligation to indemnify the other pursuant to this Agreement, or any
+Damages suffered by Bridge or any third party supplier caused by any violation
+by Broker of Sections 3(a), 5 or 11(h) of this Agreement.
+
+8. INDEMNIFICATION
+
+      (a) INDEMNIFICATION BY BROKER. Broker will indemnify and hold harmless
+Bridge, its officers, directors, employees and agents, and any third party
+suppliers under this Agreement, from and against any and all liabilities,
+damages, awards, settlements, losses, claims and expenses, including reasonable
+attorney fees and expenses and costs of investigation (collectively, "DAMAGES")
+resulting from third party claims arising from any: (a) material breach of this
+Agreement by Broker; (b) any claim by any of Broker's clients on behalf of whom
+Broker uses the System; or (b) third party accessing all or part of the System
+through or by means of Broker to the extent such claim, if brought by Broker
+directly against Bridge, would be excluded pursuant to Section 7(a).
+
+      (b) INDEMNIFICATION BY BRIDGE. Bridge will indemnify and hold harmless
+Broker, its officers, directors, employees and agents from and against any and
+all Damages resulting from third party claims arising from any: (i) material
+breach of the Agreement by Bridge; or (ii) claim that any System or Software
+owned by the Bridge Group infringes, alleges to infringe or violates any third
+party intellectual property right, provided that the relevant claim: (A) does
+not arise from any unauthorized modification to the System or Software made by
+Broker and (B) does not arise from the combination of the Software with other
+products or technology not supplied or approved by Bridge. If Broker is, or may
+become, prohibited from any continued use of any System or Software by reason of
+an actual or anticipated claim, Bridge will use reasonable efforts to (a) obtain
+for Broker the right to use the System or Software; or (b) replace or modify
+such System or Software so that it no longer infringes or is subject to a claim,
+but such System or Software performs the same function in an equivalent manner;
+or if neither (a) nor (b) are feasible in Bridge's discretion, (c) terminate
+that portion of the Agreement relating to the entire affected System or Software
+and refund Broker any pre-paid Fees and Additional Charges actually paid for the
+affected System or Software for the period after the effective date of
+termination of the affected System or Software.
+
+      (c) A party seeking indemnification pursuant to this Agreement
+("INDEMNIFIED PARTY") will give prompt notice to the party from whom
+indemnification is sought ("INDEMNIFYING PARTY"); provided, however, that
+failure to give prompt notice will not relieve the Indemnifying Party of any
+liability under this Agreement (except to the extent the Indemnifying Party has
+suffered actual prejudice by such failure). The parties will reasonably
+cooperate (at the expense of the Indemnifying Party) in the defense or
+prosecution of any third party claim.
+
+9. CONFIDENTIALITY
+
+      CONFIDENTIAL INFORMATION means information in any form (including, but not
+limited to, models, software and computer outputs) which is not excluded under
+this Section 9, whether written or oral, of a business, financial or technical
+nature which is marked or otherwise indicated as being or is, or ought
+reasonably to be known to be, confidential and which is disclosed by Bridge or
+Broker (the "DISCLOSING PARTY") or any member of the Disclosing Party's Group to
+the other (the "RECEIVING PARTY") or any member of its Group through their
+dealings with each other hereunder. In this definition and for the purposes of
+this Section 9, "Group" means, with respect to Bridge, the Bridge Group and its
+advisers, agents and representatives and, with respect to Broker, Broker itself,
+its holding companies and subsidiaries, subsidiaries of such holding companies,
+and from time to time its advisers, agents and representatives. Bridge and
+Broker each agree:
+
+      (a) to hold the Confidential Information in confidence and, not without
+the Disclosing Party's prior written consent, to disclose any part of it to any
+person other than those directly concerned with Bridge and Broker's dealings
+with each other and whose knowledge of such Confidential Information is
+essential for such dealings. The Receiving Party will ensure that those persons
+comply with the obligations imposed on the Receiving Party under this clause.
+The Receiving Party will be liable for such person's default;
+
+      (b) not, without the Disclosing Party's prior written consent, to use the
+Confidential Information for any purpose other than in their dealings with each
+other;
+
+      (c) to delete from any device containing any Confidential Information
+and/or return to the Disclosing Party upon demand or termination of the
+Agreement, the Confidential Information except for one copy of such Confidential
+Information as is required to be retained by law, regulation, professional
+standards or reasonable business practice by a member of the Receiving Party's
+Group; and
+
+      (d) to use reasonable endeavors to provide the Disclosing Party with
+prompt notice if any member of the Receiving Party's Group becomes legally
+compelled to disclose any of the Confidential Information, so that the
+Disclosing Party may seek a protective order or other appropriate remedy. If
+such order or remedy is not available in time, the obligation of confidentiality
+will be waived to the extent necessary to comply with the law.
+
+      (e) This obligation of confidentiality is made by each of Bridge and
+Broker on their own behalf and as agent for each member of their respective
+Groups.
+
+      (f) This obligation of confidentiality will not apply to information which
+(i) is, at the time of the disclosure, or subsequently through no act or
+omission of the Receiving Party's Group, becomes generally available to the
+public; (ii) becomes rightfully known to the Receiving Party's Group through a
+third party with no obligation of confidentiality; (iii) the Receiving Party is
+able to prove was
+
+
+                                                                               3
+<PAGE>
+
+lawfully in the possession of the Receiving Party's Group prior to such
+disclosure; or (iv) is independently developed by the Receiving Party's Group
+without benefit of or reference to the other party's Confidential Information.
+
+      (g) This undertaking will be binding for as long as such Confidential
+Information retains commercial value.
+
+      (h) If a Receiving Party is requested or required in any judicial or
+administrative proceeding or by any regulatory body or court to disclose any
+Confidential Information, such Receiving Party shall, so long as it is permitted
+by such judicial, administrative or regulatory body (i) use its best efforts to
+give the Disclosing Party prompt notice of such request so that it may seek an
+appropriate protective order or other remedy and (ii) consult with the
+Disclosing Party as to the advisability of taking legally available steps to
+resist or narrow such request or requirement. The Receiving Party shall
+cooperate fully with the Disclosing Party in obtaining such an order or other
+remedy. If in the absence of an appropriate protective order or other remedy the
+Receiving Party is nonetheless legally required to disclose Confidential
+Information, the Receiving Party may make such disclosure without liability
+hereunder; provided, however, that the Receiving Party shall use its reasonable
+efforts to give the Disclosing Party written notice of the information to be
+disclosed as far in advance of its disclosure as is practicable and, upon the
+Disclosing Party's request and at its expense, use its reasonable efforts to
+obtain reasonable assurances that confidential treatment will be accorded to
+such Confidential Information.
+
+10. TERM AND TERMINATION
+
+      (a) This Agreement will take effect on the Effective Date and will
+continue for a term of 12 months from the Commencement Date. This Agreement will
+automatically renew for additional 12 month terms unless either party gives the
+other written notice of termination at least 90 days prior to the expiration of
+the then current term.
+
+      (b) In addition to any other remedy available at law or in equity, either
+party may terminate this Agreement immediately, without further obligation to
+the other party, in the event of (a) any material breach of this Agreement by
+the other party that is not remedied within 30 days' after receiving written
+notice of such breach; (b) any sale, lease or other transfer of all or
+substantially all of the assets of the other party to any non-affiliated person;
+(c) any change in control of the other party (whether by merger, stock transfer
+or otherwise) except in the case of an initial public offering; or (d) the other
+party's making of an assignment for the benefit of its creditors, the filing by
+the other party or its creditors of a voluntary or involuntary petition under
+any bankruptcy or insolvency law, under the reorganization or arrangement
+provisions of the United States Bankruptcy Code or under the provisions of any
+law of like import, or the appointment of a trustee or receiver for the other
+party or its property. For purpose of this Agreement, affiliate means, with
+respect to any person, any other person that directly, or indirectly through one
+or more intermediaries, controls or is controlled by, or is under common control
+with, such person.
+
+      (c) Promptly upon termination of this Agreement for any reason, Broker
+will: (a) pay all Fees, Additional Charges, taxes and other charges owed through
+the time of termination; and; (b)allow Bridge or its nominees reasonable access
+to its premises to remove the Equipment and Software.
+
+      (d) If Bridge terminates this Agreement pursuant to Section 10(b), or if
+Broker terminates this Agreement or cancels any System except as expressly
+permitted hereunder, Bridge will be entitled to recover from Broker, as
+liquidated damages, an amount equal to 75% of the Fees that would have been
+payable by Broker from the date of termination or cancellation until the Broker
+could have next terminated this Agreement or cancelled the relevant System in
+accordance with the terms of this Agreement.
+
+11. GENERAL
+
+      (a) This Agreement will be governed by and construed in accordance with
+the laws of State of New York. Both parties consent to the non-exclusive
+jurisdiction of any state or federal court sitting in the State of New York, and
+of any court to which an appeal therefrom may be taken. Each party hereby
+irrevocably waives the right to a trial by jury in any action or proceeding
+arising out of this Agreement.
+
+      (b) Whenever any notice or other communication is given by one party to
+the other ("NOTICE"), such Notice shall be in writing and shall be delivered by
+facsimile (with confirmation of receipt duly obtained by the sending party) or
+registered or certified mail, return receipt requested, addressed as set out
+above. Notices properly given in accordance with this Section 11(b) shall be
+effective on the date sent; all other notices shall be effective on the date
+actually received.
+
+      (c) This Agreement will be binding upon and inure to the benefit of the
+parties, their respective personal representatives, and permitted successors and
+assigns. Broker may not assign or otherwise transfer any of its rights or
+delegate any of its duties under this Agreement without the prior written
+consent of Bridge. Notwithstanding the foregoing, either party may assign or
+otherwise transfer its rights under these Terms to an affiliate ("assignment")
+provided that any such assignee assumes all the obligations of the assignor in
+writing. Any attempted assignment in violation of this Section 11(c) is void.
+
+      (d) There is no joint venture, partnership, agency or fiduciary
+relationship existing between the parties and the parties do not intend to
+create any such relationship by this Agreement. This Agreement is non-exclusive.
+
+      (e) This Agreement may only be amended in writing signed by authorized
+representatives of both parties. If either party delays or fails to exercise any
+right or remedy under this Agreement, it will not have waived that right or
+remedy. This Agreement shall supersede the May, 2001 IOE Agreement between the
+parties.
+
+      (f) If any provision or term of this Agreement, not being of a fundamental
+nature, is held to be invalid, illegal or unenforceable, the validity, legality
+and enforceability of the remainder of this Agreement will not be affected.
+
+      (g) Sections 6, 7, 8, 9, 10(c) and 11 of this Agreement will survive the
+termination or expiration of this Agreement. The headings to this Agreement are
+for convenience only and shall not be used as an aid to the interpretation of
+the Agreement.
+
+      (h) Broker agrees that: (a) it will not knowingly take any action to harm
+Bridge or any other customer of Bridge, or use the System in contravention of
+any laws or regulations; (b) it is responsible for obtaining and maintaining all
+required licenses and consents to receive and use the System including those of
+the SEC and FCC; (c) Bridge will have no obligation to check any e-mail or other
+messages Broker receives or sends via the System for viruses, time bombs or
+similar bugs; (d) Bridge may distribute Software upgrades by downline loading
+and in doing so Broker agrees Bridge may upload information regarding Broker's
+network and install agent software on the Broker's premises to enable such
+downline loading (and Bridge agrees it will keep confidential
+
+
+                                       4
+<PAGE>
+
+any information it uploads); (e) if Bridge is required to store personal data on
+Broker's employees in order to provide any System, Broker agrees that it shall
+complete, or have its employees complete, any forms Bridge reasonably requires
+in order for Bridge to comply with any statutory obligations relating to the
+storage of such personal data; and (f) when Bridge provides a System which is
+accessed using a password, account name or other identifier (collectively,
+"PASSWORD"), Broker agrees that it shall; (i) ensure each Password is kept
+confidential and not shared among individuals, and (ii) notify Bridge promptly
+if Broker becomes aware of any Password being used by a person not authorized by
+Broker to access that System.
+
+      (i) Bridge agrees that: (a) it will not knowingly take any action to harm
+Broker or any customer of Broker's, or to use or provide the System and Software
+in contravention of any laws or regulations; and (b) to cooperate with Broker in
+obtaining any exchange approvals which may be required to enable Broker to use
+the System, provided that it shall be Broker's responsibility to obtain all
+consents.
+
+
+                                                                               5
+<PAGE>
+                                                   BRIDGE TRADING COMPANY
+                                                   TRANSACTION SYSTEM AGREEMENT
+                                                   TRANSACTION SYSTEM ORDER FORM
+
+                               [PRICING SCHEDULE]
+
+
+BRIDGE TRADING COMPANY ("BRIDGE")          BROKER
+
+Signed: /s/ Richard H. Paulson             Signed: /s/ Michael Healy
+       ------------------------------             ------------------------------
+Print                                      Print
+Name: Richard H. Paulson                   Name: Michael Healy
+     --------------------------------           --------------------------------
+
+Title: Chief Operating Officer             Title: First Vice President
+      -------------------------------            -------------------------------
+
+Date: September 19, 2002                   Date: September 19, 2002
+     --------------------------------           --------------------------------
+
+                                                ("EFFECTIVE DATE")
+
+
+
+</TEXT>
+</DOCUMENT>

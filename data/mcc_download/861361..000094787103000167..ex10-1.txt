@@ -1,0 +1,616 @@
+<DOCUMENT>
+<TYPE>EX-10.1
+<SEQUENCE>3
+<FILENAME>ex10-1.txt
+<DESCRIPTION>AMENDMENT TO CREDIT AGREEMENT
+<TEXT>
+                                                                   Exhibit 10.1
+                                                               [Execution Copy]
+
+
+                                 AMENDMENT NO. 2
+
+          AMENDMENT NO. 2 dated as of January 23, 2003 between BE AEROSPACE,
+INC., a corporation duly organized and validly existing under the laws of the
+State of Delaware (the "Borrower"), each of the lenders that is a signatory
+hereto under the caption "LENDERS" on the signature pages hereto (individually a
+"Lender" and collectively the "Lenders") and JPMORGAN CHASE BANK (formerly known
+as The Chase Manhattan Bank) as administrative agent (in such capacity, together
+with its successors in such capacity, the "Administrative Agent") under the
+Credit Agreement referred to below.
+
+          The Borrower, the Lenders and the Administrative Agent are parties to
+a Credit Agreement dated as of August 21, 2001 (as heretofore amended, the
+"Credit Agreement"). The Borrower, the Lenders and the Administrative Agent wish
+to amend the Credit Agreement in certain respects and, accordingly, the parties
+hereto hereby agree as follows:
+
+          Section 1. Definitions. Unless otherwise defined herein, terms defined
+in the Credit Agreement are used herein as defined therein.
+
+          Section 2. Amendments. Subject to the satisfaction of the conditions
+set forth in Section 6 hereof, the Credit Agreement shall be amended as of the
+date hereof as follows:
+
+          Section 2.01. Definitions. Section 1.01 of the Credit Agreement is
+hereby amended by adding the following definitions in the appropriate
+alphabetical order (to the extent not already included), and amending in their
+entirety the following definitions (to the extent already included):
+
+          "Amendment No. 2" means Amendment No. 2 to this Agreement dated as of
+     January 23, 2003 between the Borrower, Lenders constituting the Required
+     Lenders and the Administrative Agent.
+
+          "Applicable Rate" means, for any day, for any Type of Revolving Credit
+     Loans, or with respect to the commitment fees payable hereunder, as the
+     case may be, the applicable rate per annum set forth below under the
+     caption "ABR Spread", "Eurodollar Spread" or "Commitment Fee Rate",
+     respectively, based upon the Leverage Ratio as of the most recent
+     determination date:
+
+---------------------------- ------------- -------------- ---------------------
+      Leverage Ratio:            ABR        Eurodollar             Commitment
+                                Spread        Spread                Fee Rate
+---------------------------- ------------- -------------- ---------------------
+---------------------------- ------------- -------------- ---------------------
+        Category 1              1.00%          2.00%                 0.300%
+    Less than 4.00 to 1
+---------------------------- ------------- -------------- ---------------------
+---------------------------- ------------- -------------- ---------------------
+        Category 2              1.25%          2.25%                 0.375%
+ Less than 4.50 to 1, but
+ greater than or equal to
+         4.00 to 1
+---------------------------- ------------- -------------- ---------------------
+
+---------------------------- ------------- -------------- ---------------------
+
+
+<PAGE>
+
+                                       2
+
+
+        Category 3              1.75%          2.75%                 0.500%
+ Less than 5.00 to 1, but
+ greater than or equal to
+         4.50 to 1
+---------------------------- ------------- -------------- ---------------------
+---------------------------- ------------- -------------- ---------------------
+        Category 4              2.00%          3.00%                 0.500%
+ Less than 5.50 to 1, but
+ greater than or equal to
+         5.00 to 1
+---------------------------- ------------- -------------- ---------------------
+---------------------------- ------------- -------------- ---------------------
+        Category 5              2.50%          3.50%                 0.500%
+ Greater than or equal to
+         5.50 to 1
+---------------------------- ------------- -------------- ---------------------
+
+     For purposes of the foregoing, (i) the Leverage Ratio shall be determined
+     as of the end of each fiscal quarter of the Borrower's fiscal year based
+     upon the Borrower's consolidated financial statements delivered pursuant to
+     Section 5.01(a) or (b) and (ii) each change in the Applicable Rate
+     resulting from a change in the Leverage Ratio shall be effective during the
+     period commencing on and including the date three Business Days after
+     delivery to the Administrative Agent of such consolidated financial
+     statements indicating such change and ending on the date immediately
+     preceding the effective date of the next such change; provided that the
+     Leverage Ratio shall be deemed to be in Category 5 (A) at any time that an
+     Event of Default has occurred and is continuing and (B) if the Borrower
+     fails to deliver the consolidated financial statements required to be
+     delivered by it pursuant to Section 5.01(a), (b) or (f), during the period
+     from the expiration of the time for delivery thereof until such
+     consolidated financial statements are delivered; provided further, that
+     that the Leverage Ratio shall be deemed to be in Category 5 for the period
+     from and including the effective date of Amendment No. 2 to but excluding
+     the date of delivery of the first quarterly financial statements following
+     such date as required by Section 5.01(a).
+
+          Notwithstanding the foregoing, the "Applicable Rate" for any Series of
+     Incremental Loans shall be the respective rates as shall be agreed upon at
+     the time Incremental Loan Commitments of such Series are established;
+     provided that, if the Applicable Rate for either Type of any Series of
+     Incremental Loans shall be greater than .50% above the Applicable Rate for
+     such Type of Revolving Credit Loans for any Category of Leverage Ratio set
+     forth above, the Applicable Rate for such Type of Revolving Credit Loans
+     shall be automatically adjusted upwards on the date upon which the
+     Incremental Loan Commitments of such Series are established pursuant to
+     Section 2.01(b) so that the Applicable Rate for such Type of such Series of
+     Incremental Loans is .50% above such Applicable Rate for such Type of
+     Revolving Credit Loans.
+
+          "Relevant Transaction" means, as at any date, all Acquisitions, all
+     Restricted Payments described in clause (i) of Section 6.06 and all
+     Investments described in Section 6.05(d) or 6.05(h), made during the
+     immediately preceding two consecutive quarterly fiscal periods.
+
+          "Senior Funded Debt" means, as at any date, the sum, for the Borrower
+     and its Subsidiaries (determined on a consolidated basis without
+     duplication in accordance with GAAP) of all Indebtedness other than
+     Indebtedness under the Senior Subordinated Indentures and any other
+     Indebtedness that is subordinated to the obligations of the Borrower to the
+     Lenders hereunder, upon terms, and in form and substance satisfactory to
+     the Administrative Agent.
+
+
+<PAGE>
+
+                                       3
+
+
+          "Senior Leverage Ratio" means, as at any date, the ratio of Senior
+     Funded Debt at such date to EBITDA for the relevant Calculation Period;
+     provided that, from and after the date of any Acquisition or Disposition
+     until four full fiscal quarters of the Borrower shall have elapsed since
+     the date of such Acquisition or Disposition, the Leverage Ratio shall be
+     calculated on a pro forma basis (reflecting, inter alia, in the case of any
+     Acquisition, any amount attributable to any operating expense that will be
+     eliminated or cost reduction that will be realized (in each case, net of
+     any operating expense or other cost increase) in connection with such
+     Acquisition, as determined in good faith by the chief financial officer of
+     the Borrower in accordance with GAAP and the rules, regulations and
+     guidelines of the Securities and Exchange Commission, as if such
+     elimination of operating expense or the realization of such cost reductions
+     were achieved at the beginning of such four-quarter period) as though such
+     Acquisition or Disposition had occurred, any Senior Funded Debt incurred,
+     assumed or repaid by the Borrower or any of its Subsidiaries in connection
+     with, or in anticipation of, such Acquisition or Disposition had been
+     incurred, assumed or repaid (as applicable), on the first day of such
+     Calculation Period.
+
+          Section 2.02. Reduction of Commitments. Section 2.07(a) of the Credit
+Agreement shall be amended in its entirety to read as follows:
+
+          "(a) Scheduled Reduction and Termination. Unless previously reduced or
+     terminated, the Commitments shall (i) automatically reduce on December 31,
+     2004 to an amount equal to $120,000,000 and (ii) automatically terminate on
+     the Commitment Termination Date."
+
+          Section 2.03. Fundamental Changes. Section 6.03(c) of the Credit
+Agreement shall be amended in its entirety to read as follows:
+
+          "(c) subject to Section 6.04, the Borrower or any Subsidiary of the
+     Borrower may make any Acquisition; provided that (x) immediately prior to
+     and after giving effect to any such Acquisition, (i) no Default shall have
+     occurred and be continuing and (ii) not more than $100,000,000 of the
+     proceeds of the Revolving Credit Loans then outstanding shall have been
+     applied, directly by the Borrower or indirectly through a Subsidiary, for
+     the purposes specified in clause (ii) of Section 5.05 and (y) unless the
+     Leverage Ratio at all times during the two consecutive quarterly fiscal
+     periods immediately preceding such Acquisition, determined on a pro forma
+     basis after giving effect to such Acquisition (and to all other Relevant
+     Transactions), shall have been less than 5.00 to 1, (A) no portion of any
+     Acquisition may be financed (on or after the date of the effectiveness of
+     Amendment No. 2) with proceeds of the Revolving Credit Loans and (B) the
+     aggregate consideration paid or delivered by the Borrower and its
+     Subsidiaries in connection with all Acquisitions after the effectiveness of
+     Amendment No. 2 shall not exceed $30,000,000; and"
+
+          Section 2.04. Investments. Clauses (d) and (h) of Section 6.05 of the
+Credit Agreement shall be amended in its entirety to read as follows:
+
+          "(d) Investments by the Borrower in Subsidiaries of the Borrower in
+     the ordinary course of business; provided that the aggregate amount of
+     Customer Obligations (as defined in paragraph (h) below) that are not fully
+     secured (whether by a perfected Lien on, or an indefeasible title retention
+     to, the products so sold or leased, or otherwise) plus the aggregate fair
+     market value of all Property (whether now owned or hereafter acquired) of
+     the Borrower or any of its Subsidiaries (as determined in good faith by the
+     chief financial officer of the Borrower) sold, assigned, transferred or
+     otherwise disposed of on or after May 26, 2001 to any Minority-Owned
+     Entities (as defined in paragraph (h) below) plus the aggregate book value
+     (at the time of its transfer) of all
+
+
+<PAGE>
+
+
+                                       4
+
+
+     Property (not including cash and not including any Property that is subject
+     to a Lien in favor of the Administrative Agent for the benefit of the
+     Lenders) transferred by the Borrower to any one or more Subsidiaries since
+     May 26, 2001 shall not exceed in the aggregate at any one time outstanding
+     the greater of (x) $10,000,000 and (y) 5% of Adjusted Net Worth as of the
+     most recent Fiscal Date for which financial statements have been provided
+     hereunder, provided further that such $10,000,000 figure shall be increased
+     to $50,000,000 if the Leverage Ratio at all times during the immediately
+     preceding two consecutive quarterly fiscal periods, determined on a pro
+     forma basis after giving effect to such Investment (and to all other
+     Relevant Transactions), shall have been less than 5.00 to 1;"
+
+          "(h) Investments of the Borrower and its Subsidiaries (i) in
+     corporations, companies, limited liability companies, partnerships and
+     other entities in each case that are not, or do not thereby become,
+     Subsidiaries of the Borrower ("Minority-Owned Entities") or (ii)
+     representing obligations of customers owing to the Borrower and its
+     Subsidiaries in respect of the deferred purchase price of products or
+     services sold or the leasing of products to customers and calculated as the
+     excess (if any) of (x) the cost to the Borrower and its Subsidiaries of
+     such products or services, as the case may be, over (y) the aggregate
+     amount paid by such customer to the Borrower and its Subsidiaries in
+     respect of such products or services, as the case may be ("Customer
+     Obligations"), in each case in the ordinary course of business of the
+     Borrower and its Subsidiaries as provided for in Section 6.04 hereof and on
+     such terms as the management of the Borrower may determine in its
+     reasonable business judgment, provided that the aggregate amount of such
+     Customer Obligations that are not fully secured (whether by a perfected
+     Lien on, or an indefeasible title retention to, the products so sold or
+     leased, or otherwise) plus the aggregate fair market value of all Property
+     (whether now owned or hereafter acquired) of the Borrower or any of its
+     Subsidiaries (as determined in good faith by the chief financial officer of
+     the Borrower) sold, assigned, transferred or otherwise disposed of on or
+     after May 26, 2001 to any such Minority-Owned Entities plus the aggregate
+     book value (at the time of its transfer) of all Property (not including
+     cash and not including Property that is subject to a Lien in favor of the
+     Administrative Agent for the benefit of the Lenders) transferred by the
+     Borrower to any one or more Subsidiaries since May 26, 2001 shall not
+     exceed in the aggregate at any one time outstanding the greater of (x)
+     $10,000,000 and (y) 5% of Adjusted Net Worth as of the most recent Fiscal
+     Date for which financial statements have been provided hereunder, provided
+     further that such $10,000,000 figure shall be increased to $50,000,000 if
+     the Leverage Ratio at all times during the immediately preceding two
+     consecutive quarterly fiscal periods, determined on a pro forma basis after
+     giving effect to such Investment (and to all other Relevant Transactions),
+     shall have been less than 5.00 to 1."
+
+          Section 2.05. Restricted Payments. Section 6.06 of the Credit
+Agreement shall be amended in its entirety to read as follows:
+
+          "SECTION 6.06. Restricted Payments. The Borrower will not, nor will it
+     permit any of its Subsidiaries to, declare or make any Restricted Payment
+     at any time; provided that, so long as (i) no Default shall have occurred
+     and be continuing or result therefrom, and (ii) the Leverage Ratio at all
+     times during the immediately preceding two consecutive quarterly fiscal
+     periods, determined on a pro forma basis after giving effect to such
+     Restricted Payment (and to all other Relevant Transactions), shall have
+     been less than 5.00 to 1, the Borrower may make Restricted Payments in cash
+     in an amount up to but not exceeding in the aggregate the sum of
+
+
+<PAGE>
+
+                                       5
+
+
+          (A) $25,000,000 plus
+
+          (B) the aggregate proceeds of the sale, assignment, transfer or other
+     disposition of any shares of stock of Advanced Thermal Sciences Corporation
+     in connection with an initial public offering of such shares of stock plus
+
+          (C) in any fiscal year of the Borrower, an aggregate amount up to but
+     not exceeding 25% of the net earnings of the Borrower for the immediately
+     preceding fiscal year ("Available Net Earnings"),
+
+provided, further, that any portion of Available Net Earnings not used for
+Restricted Payments in any fiscal year (the "Carry-Over Amount") may be used for
+Restricted Payments in the immediately succeeding fiscal year only, for which
+purpose Restricted Payments in any fiscal year shall be deemed to have been made
+first from Available Net Earnings, and only thereafter from any Carry-Over
+Amount, such Restricted Payments set forth in clauses (i)(A) and (B) hereof not
+to exceed $75,000,000 in the aggregate.
+
+          Notwithstanding the foregoing, any Subsidiary of the Borrower may make
+     Restricted Payments to the Borrower or any other Subsidiary of the Borrower
+     from time to time."
+
+          Section 2.06. Certain Financial Covenants. Section 6.08 of the Credit
+Agreement shall be amended in its entirety to read as follows:
+
+          "SECTION 6.08.  Certain Financial Covenants.
+
+          (a) Leverage Ratio. The Borrower will not permit the Leverage Ratio to
+     exceed the following respective ratios at any time during the following
+     respective periods:
+
+
+                       Fiscal Period                          Ratio
+                       -------------                          -----
+
+            From (but not including) the Fiscal             7.50 to 1
+            Date in November 2002 through the
+            Fiscal Date in December 2002.
+
+            From (but not including) the Fiscal             7.75 to 1
+            Date in December 2002 through the
+            Fiscal Date in March 2003.
+
+            From (but not including) the Fiscal             8.25 to 1
+            Date in March 2003 through the Fiscal
+            Date in September 2003.
+
+            From (but not including) the Fiscal             8.00 to 1
+            Date in September 2003 through the
+            Fiscal Date in December 2003.
+
+
+<PAGE>
+
+                                       6
+
+
+            From (but not including) the Fiscal             7.25 to 1
+            Date in December 2003 through the
+            Fiscal Date in March 2004.
+
+            From (but not including) the Fiscal             7.00 to 1
+            Date in March 2004 through the Fiscal
+            Date in June 2004.
+
+            From (but not including) the Fiscal             6.25 to 1
+            Date in June 2004 through the Fiscal
+            Date in September 2004.
+
+            From (but not including) the Fiscal             6.00 to 1
+            Date in September 2004 through the
+            Fiscal Date in December 2004.
+
+            From (but not including) the Fiscal             5.50 to 1
+            Date in December 2004 through the
+            Fiscal Date in March 2005.
+
+            Thereafter                                      4.00 to 1
+
+          (b) Senior Leverage Ratio. The Borrower will not permit the Senior
+     Leverage Ratio to exceed 2.00 to 1 at any time.
+
+          (c)  Interest Coverage Ratio.  The Borrower will not permit the
+     Interest Coverage Ratio to be less than the following respective ratios at
+     any time during the following respective periods:
+
+
+                     Fiscal Period                           Ratio
+
+            From (but not including) the Fiscal             1.25 to 1
+            Date in November 2002 through the
+            Fiscal Date in December 2003.
+
+            From (but not including) the Fiscal             1.50 to 1
+            Date in December 2003 through the
+            Fiscal Date in September 2004.
+
+            From (but not including) the Fiscal             1.75 to 1
+            Date in September 2004 through the
+            Fiscal Date in December 2004.
+
+
+<PAGE>
+
+                                       7
+
+
+            From (but not including) the Fiscal             2.00 to 1
+            Date in December 2004 through the
+            Fiscal Date in March 2005.
+
+            From (but not including) the Fiscal             2.50 to 1
+            Date in March 2005 through the Fiscal
+            Date in December 2005.
+
+            Thereafter                                      3.00 to 1
+
+          (d) Adjusted Net Worth. The Borrower will not at any date permit
+     Adjusted Net Worth to be less than the sum of (a) $120,000,000 plus (b) 50%
+     of the aggregate amount of Net Available Proceeds of Equity Issuances since
+     May 26, 2001 plus (c) 50% of the sum of consolidated net earnings of the
+     Borrower and its Subsidiaries (determined on a consolidated basis without
+     duplication in accordance with GAAP) for each fiscal quarter of the
+     Borrower ending after May 26, 2001; provided that consolidated net earnings
+     for any fiscal quarter in which there is a consolidated net loss shall be
+     deemed to be zero."
+
+          Section 3. Reduction of Aggregate Revolving Credit Commitments. Upon
+the effectiveness of the amendments to the Credit Agreement provided for in
+Section 2 of this Amendment No. 2, the aggregate amount of the Revolving Credit
+Commitments of the Lenders shall be reduced, on a ratable basis as provided in
+Section 2.07(d), to $135,000,000, such reduction to occur automatically, and
+without delivery of any notice, as would otherwise be required under Section
+2.07 of the Credit Agreement.
+
+          Section 4.  Certain Asset Transfers; Section 3.01 of Amendment No. 1.
+
+          Section 4.01.  Certain Asset Transfers.  Not later than the date 90
+days after the effectiveness of the amendments provided for in Section 2 hereof,
+the Borrower shall transfer (and shall deliver to the Administrative Agent
+evidence of such transfer) all assets of all Domestic Subsidiaries (either
+through liquidation or dissolution of such subsidiaries, through merger of such
+Subsidiaries into the Borrower, or through any other form of transaction that
+as the same effect), so that after giving effect thereto, all of the assets of
+such Subsidiaries are owned by the Borrower and subject to the Lien of the
+Security Agreement, provided that the foregoing shall not be applicable to the
+assets of Advanced Thermal Sciences Corporation or Aerospace Lighting
+Corporation.
+
+          Section 4.02. Section 3.01 of Amendment No. 1. Nothing herein shall be
+deemed to alter or affect the provisions of Section 3.01 of Amendment No. 1,
+which shall continue at all times in full force and effect as if set forth in
+their entirety herein.
+
+          Section 5. Representations and Warranties. The Borrower represents and
+warrants to the Lenders that the representations and warranties set forth in
+Article III of the Credit Agreement (as amended hereby) are true and complete on
+the date hereof as if made on and as of the date hereof (or, if such
+representation or warranty is expressly stated to be made as of a specific date,
+as of such specific date) and as if each reference in said Article III to "this
+Agreement" included reference to this Amendment No. 2.
+
+
+<PAGE>
+
+                                       8
+
+
+          Section 6. Condition Precedent. The effectiveness of the amendments to
+the Credit Agreement set forth in Section 2 hereof shall be subject to the
+satisfaction of the following conditions precedent:
+
+          (a) Execution. The Administrative Agent shall have received
+     counterparts of this Amendment No. 2, duly executed and delivered by the
+     Borrower, the Required Lenders and the Administrative Agent.
+
+          (b) Fees and Expenses. The Borrower shall have paid all fees and
+     expenses that it shall have agreed to pay to any Lender or the
+     Administrative Agent in connection with this Amendment No. 2, including (i)
+     an amendment fee to each Lender executing this Amendment No. 2 prior to
+     5:00 p.m. on January 23, 2003, in an amount equal to 0.25% of such Lender's
+     Revolving Credit Commitment (after giving effect to the reduction of such
+     Commitments provided for in Section 3 hereof and (ii) the reasonable fees
+     and expenses of Milbank, Tweed, Hadley & McCloy LLP, special New York
+     counsel to Chase.
+
+          (c) Prepayment. To the extent that, after giving effect to the
+     reduction of Revolving Credit Commitments contemplated by Section 3 hereof,
+     the total Revolving Credit Exposure shall exceed the total Revolving Credit
+     Commitments, the Borrower shall have prepaid an amount of the Loans, or
+     provided cover for LC Exposure, so that the total Revolving Credit Exposure
+     does not in exceed the total Revolving Credit Commitments.
+
+          (d) Other Documents. The Administrative Agent shall have received such
+     other documents as it, or special New York counsel to Chase, shall have
+     reasonably requested.
+
+          Section 7. Collateral Security. By its signature below, the Borrower
+hereby confirms the grant of collateral security to the Administrative Agent
+pursuant to the Security Agreement as collateral security for the obligations of
+the Borrower to the Lenders and the Administrative Agent under the Credit
+Agreement as amended hereby. In addition, the Borrower agrees, not later than
+the date 60 days after the date hereof, to enter into, and cause any bank,
+investment bank or financial institution at which any cash or investments is
+held by the Borrower or any of its Subsidiaries (other than operating deposit
+accounts), to enter into control or similar agreements pursuant to which the
+Lien in favor of the Administrative Agent created under the Security Agreement
+in such cash and investments is perfected on a senior basis in a manner in form
+and substance satisfactory to the Administrative Agent, provided that the
+Borrower shall be required to take such action only with respect to such portion
+(if any) of such cash and investments having a fair market value in excess of
+$35,000,000.
+
+          Section 8. Miscellaneous. Except as expressly provided herein, the
+Credit Agreement shall remain unchanged and in full force and effect. This
+Amendment No. 2 may be executed in any number of counterparts, all of which
+taken together shall constitute one and the same amendatory instrument and any
+of the parties hereto may execute this Amendment No. 2 by signing any such
+counterpart. This Amendment No. 2 shall be governed by, and construed in
+accordance with, the law of the State of New York.
+
+
+<PAGE>
+
+
+                                       9
+
+
+          IN WITNESS WHEREOF, the parties hereto have caused this Amendment No.
+2 to be duly executed as of the day and year first above written.
+
+
+                                             BE AEROSPACE, INC.
+
+
+                                             By /s/ Thomas P. McCaffrey
+                                                --------------------------------
+                                                Name:  Thomas P. McCaffrey
+                                                Title: Senior Vice President and
+                                                       Chief Financial Officer
+
+
+<PAGE>
+
+
+                                       10
+
+
+                                             LENDERS
+                                             -------
+
+                                             JPMORGAN CHASE BANK (formerly known
+                                               as The Chase Manhattan Bank)
+
+
+                                             By /s/ Matthew H. Massie
+                                                --------------------------------
+                                                Name:  Matthew H. Massie
+                                                Title: Managing Director
+
+                                             BANK OF AMERICA, N.A.
+
+
+
+                                             By
+                                                --------------------------------
+                                                Name:
+                                                Title:
+
+                                             CREDIT SUISSE FIRST BOSTON
+
+
+
+                                             By /s/ Jay Chall
+                                                --------------------------------
+                                                Name:  Jay Chall
+                                                Title: Director
+
+
+                                             By /s/ Cassandra Droogan
+                                                --------------------------------
+                                                Name:  Cassandra Droogan
+                                                Title: Associate
+
+                                             FIRST UNION NATIONAL BANK
+
+
+
+                                             By
+                                                --------------------------------
+                                                Name:
+                                                Title:
+
+                                             MERRILL LYNCH CAPITAL CORPORATION
+
+
+
+                                             By /s/ Nancy E. Meadows
+                                                --------------------------------
+                                                Name:  Nancy E. Meadows
+                                                Title: Assistant Vice President
+
+
+<PAGE>
+
+                                       11
+
+
+                                             THE BANK OF NEW YORK
+
+
+
+                                             By /s/ Brendan T. Nedzi
+                                                --------------------------------
+                                                Name:  Brendan T. Nedzi
+                                                Title: Senior Vice President
+
+                                             CREDIT LYONNAIS, NEW YORK
+                                               BRANCH
+
+
+
+                                             By /s/ Scott R. Chappelka
+                                                --------------------------------
+                                                Name:  Scott R. Chappelka
+                                                Title: Vice President
+
+                                             GE CAPITAL CORPORATION
+
+
+
+                                             By /s/ Karl Kieffer
+                                                --------------------------------
+                                                Name:  Karl Kieffer
+                                                Title: Duly Authorized Signatory
+
+</TEXT>
+</DOCUMENT>

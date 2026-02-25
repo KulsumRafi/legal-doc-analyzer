@@ -1,0 +1,765 @@
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>12
+<FILENAME>ex101.txt
+<TEXT>
+                         TECHNOLOGY LICENSE AGREEMENT
+
+
+Between:
+
+                           Kyxpyx Technologies Inc.
+                     (hereinafter referred to as "Kyxpyx")
+
+And:
+
+                      Global Internet Communications Inc.
+                      (hereinafter referred to as "GIC")
+
+This Technology License (the "Agreement") is entered into and effective as of
+this 10th day of August, 2000 (the "Effective Date") between Kyxpyx
+Technologies, Inc., a British Columbia, Canada, corporation, with its
+principal place of business at Suite 800 - 1070 Douglas, Victoria, B.C.,
+Canada, ("Kyxpyx") and Global Internet Communications Inc., a British
+Columbia, Canada, corporation, with its principal place of business at 2305 -
+1050 Burrard Street, Vancouver, B.C., Canada, ("GIC").
+
+RECITALS
+
+WHEREAS Kyxpyx wishes to license that part of its streaming video technology
+for the purpose of allowing GIC to market the Kyxpyx Internet streaming video
+to the pharmaceutical industry; and
+
+WHEREAS GIC wishes to market and offer the Kyxpyx 's streaming video
+technology to the pharmaceutical industry;
+
+NOW THEREFORE, for good and valuable consideration, which is acknowledged
+received by the respective parties, Kyxpyx and GIC enter into this Agreement
+on the following terms and conditions:
+
+1.0     Definitions
+
+1.1 "Derivative Work(s)" means any revision, modification, translation,
+abridgment, condensation, expansion, collection, compilation or other form in
+which an existing work may be recast, transformed, ported or adapted and which
+is a "derivative work" under Canadian or U.S. copyright law.
+
+1.2 "Independent Work(s)" means any work, or portion thereof, that is
+independently developed and performs the same or similar functions as certain
+technology, but is not a Derivative Work of such technology.
+
+1.3 "Intellectual Property Rights" means all intellectual property rights
+worldwide arising under statutory or common law, and whether or not perfected,
+including, without limitation, all (i) patents and patent applications owned
+or licensable by a party hereto ("Patent Rights"); (ii) rights associated with
+works of authorship including copyrights, copyright applications, copyright
+registrations; (iii) rights relating to the protection of trade secrets and
+confidential information; (iv) any right analogous to those set forth in this
+Section 1.7 and any other proprietary rights relating to intangible property
+(other than trademark, trade dress, or service mark rights); and (v)
+divisions, continuations, renewals, reissues and extensions of the foregoing
+(as and to the extent applicable) now existing, hereafter filed, issued or
+acquired.
+
+1.4 "ISV" means the Internet streaming video service" which is GIC's service
+to provide real time visual/video and audio streaming between two or more
+parties and between one party and a location or an environment.
+
+1.5 "Subsidiary" means a corporation, partnership, limited liability company,
+unincorporated association, or other entity (a) greater than 50% of whose
+combined voting power of the total issued and outstanding voting stock
+(representing the right to vote for the election of directors or other
+management authority) is, now or hereafter, owned or controlled, directly or
+indirectly, by a party hereto (a "Parent"), and is actually controlled or
+managed by such Parent, or (b) which does not have outstanding shares or
+securities, as may be the case in a partnership or limited liability company,
+but greater than 50% of whose ownership as equity interest is, now or
+hereafter, owned or controlled, directly or indirectly, by a Parent and is
+actually managed or controlled by such Parent.
+
+1.6 " Kyxpyx" means Kyxpyx Technologies, Inc..
+
+1.7 "GIC" means Global Internet Communications Inc..
+
+1.8 "Technology" means the Kyxpyx Internet streaming video technology.
+
+1.9 "Term" shall mean the duration of this Agreement.
+
+1.10 "Upgrades" means any new releases and versions of the ISV by Kyxpyx which
+include, but are not limited to, bug fixes, modifications, variations or
+enhancements of the ISV and which are delivered to GIC pursuant to the terms
+of this Agreement.
+
+2.0 LICENSE GRANTS
+
+2.1 Source Code and Development License to Technology.
+
+a. Kyxpyx hereby grants to GIC, and GIC hereby accepts from Kyxpyx, an
+irrevocable (without regard to any termination or expiration of this
+Agreement, except as provided in Section 11.1), worldwide, exclusive,
+non-transferable license (except has herein provided), under the Intellectual
+Property Rights of Kyxpyx, to use, view and display the ISV for the sole
+purposes of developing and marketing the ISV worldwide to the pharmaceutical
+industry;
+
+b. Kyxpyx does not grant to GIC a perpetual and irrevocable (without regard to
+any termination or expiration of this Agreement, except as provided in Section
+11.1), worldwide, non-exclusive, non-transferable license (except has herein
+provided), under the Intellectual Property Rights of Kyxpyx, to sublicense and
+distribute the ISV to any third party.
+
+2.2 Branding and Trademarks.
+
+GIC shall be able to, at its sole discretion, determine, create and develop
+any branding of the ISV and register any trademarks to be associated with the
+ISV as it relates to the marketing of the ISV to the pharmaceutical industry.
+
+2.3 Value Adds
+
+The parties understand and agree that during the Term, GIC may, at its sole
+discretion, create and develop value added products and services which will
+compliment the ISV.
+
+2.4 Ownership
+
+a. Ownership by Kyxpyx.
+
+Kyxpyx retains all right, title and interest in and to the Technology,
+Documentation, Upgrades, Kyxpyx -authored Derivative Works, Kyxpyx -authored
+Independent Works and Kyxpyx bug fixes and associated Intellectual Property
+Rights.
+
+b. Ownership by GIC.
+
+GIC retains all right, title and interest in and to GIC-authored Derivative
+Works of the ISV, value added products and services, GIC-authored Independent
+Works of the ISV, subject to Kyxpyx's underlying rights in the ISV and
+associated Intellectual Property Rights.
+
+c. Grant of Rights.
+
+c.1 Kyxpyx grants GIC a worldwide exclusive non-transferable, non-assignable
+(except has herein provided) rights set forth in the Agreement subject to the
+following terms and conditions:
+a.      GIC agrees to obtain Kyxpyx's written agreement prior to any use of
+    the ISV not set forth in this Agreement.
+b.      GIC agrees to promptly return to Kyxpyx or promptly destroy ISV in the
+    event there is a material breach of this Agreement and all grace periods
+    have expired.
+c.      The rights granted to GIC by Kyxpyx are limited only insofar as they
+    remain in tact pursuant to this Agreement as long as this Agreement
+    remains in force.  Any material breach followed by the expiration of any
+    grace periods shall cause all rights to use the ISV shall revert back to
+    Kyxpyx.
+
+c.2. Kyxpyx warrants that it has the authority and right to grant the limited
+license described in this Agreement to GIC.
+
+2.6 Contractors.
+
+GIC may retain third parties to furnish services to it in connection with
+GIC's creation and development of ISV related products and services as it
+relates to marketing the ISV to the pharmaceutical industry; and provided,
+that such third parties undertake obligations of confidentiality by executing
+a Non-Disclosure Agreement respecting such work and shall use such work only
+on behalf of GIC.
+
+3.0 SUPPORT AND UPGRADES
+
+3.1 During the Term, Kyxpyx may provide to GIC any Upgrades to the ISV.
+Kyxpyx shall promptly notify GIC of the nature of any Upgrades or other
+planned modifications to the Technology that affect the ISV directly or
+indirectly.
+
+3.2 During the Term, Kyxpyx shall promptly provide to GIC all upgrades,
+versions and translations of the Documentation as it relates to the ISV when
+such upgrades, versions and translations of the Documentation are reasonably
+available.
+
+4.0 PAYMENT
+
+4.1 License Fees.
+
+In consideration of the rights granted GIC in this Agreement, GIC shall pay
+Kyxpyx a royalty as follows:
+
+a.      The rights granted under this Agreement is limited to three (3) years
+    from the date of execution of this Agreement, with an option by GIC to
+    extend for another three years.  At the end of the second three year
+    periods, this Agreement terminates unless a new agreement is negotiated
+    and entered into by the parties;
+
+b.      GIC shall pay to Kyxpyx a royalty on the following sliding scale:
+(a)     five percent (5%) of net income after tax on the first $1,000,000 (one
+        million dollars);
+(b)     three percent (3%) of net income after tax on the following $3,000,000
+        (three million dollars);
+(c)     two percent (2%) of net income after tax on the following $5,000,000
+        (five million dollars);
+(d)     one percent (1%) of net income after tax above $9,000,000 (nine
+        million dollars).
+
+d.      The payment in 5.1(b) shall be received by Kyxpyx from GIC at the end
+    of each quarter and in the event payment is not forthcoming at that time,
+    GIC has a three (3) week grace period in which to make said payment.
+
+4.2 Support Fees.
+
+GIC may be required to pay fees for Upgrades. However, those fees shall be
+negotiated and contracted for when Upgrades are contemplated or completed
+
+4.3 Taxes.
+
+All payments required by this Agreement shall be made in Canadian dollars.
+Each party shall bear its own federal income tax and province and state income
+taxes in connection with the transactions described in this Agreement.
+
+5.0 ADDITIONAL AGREEMENT OF PARTIES
+
+5.1 Notices.
+
+GIC shall not remove any copyright notices, trademark notices, patent notices
+or other proprietary legends of Kyxpyx contained on or in the Technology, the
+ISV or their respective Documentation.
+
+5.2 End User Support.
+
+a. If GIC determines that a problem or problems identified by GIC or an end
+user customer is the result of the Technology, the ISV or an Upgrade, GIC may
+contact Kyxpyx for advice and assistance. Kyxpyx shall use reasonable efforts
+to provide an oral or written solution or solutions to the problem(s) that
+includes such detail as will permit one of GIC's technicians to develop and
+implement a complete solution or set of solutions to fix the problem(s).
+
+GIC is not authorized to make any representation or warranty on behalf of
+Kyxpyx to its end users or third parties. GIC shall provide technical and
+maintenance support service for its end user customers in accordance with what
+will be GIC's standard support practices. Kyxpyx shall not be responsible for
+providing any support to GIC's customer service representatives or end users.
+
+5.3 Marketing.
+
+The parties are not required to cooperate on mutually agreeable marketing and
+promotional activities relating to the ISV. All press announcements concerning
+this Agreement and the planned first use of the ISV shall be at the sole
+discretion of GIC.
+
+5.4 Use of GIC's Name.
+
+GIC hereby authorizes Kyxpyx to use GIC's name in press announcements,
+advertising and marketing prepared by or on behalf of Kyxpyx for the
+Technology, provided that GIC will have the right to prior approval or
+disapproval the use of its name in all cases.
+
+5.5 Patent Non-Assertion.
+
+a. Non-Assertion by GIC.
+
+(i) Kyxpyx agrees that it shall not commence any action against GIC for
+infringement by the use, offer for use of the ISV, not including any Upgrades
+thereto.  In the event that GIC develops an independent work, an Upgrade
+independent of any hardware or software developed by Kyxpyx, Kyxpyx shall not
+commence any action against GIC for infringement of the Kyxpyx copyright or
+patent of the independent work.
+
+(ii) If Kyxpyx notifies GIC in writing of a patent issue pursuant to Section
+5.5(a)(i), the parties shall enter into binding arbitration to decide the
+issue.  The parties further agree that any license established through such
+arbitration shall include a termination provision whereby the license may be
+terminated by GIC if Kyxpyx makes a claim or commences any action against GIC
+or its subsidiary for infringement of the Intellectual Property Rights of the
+Kyxpyx Technology or Upgrades. If no patent license agreement is established,
+GIC agrees that it will take no action against Kyxpyx or Kyxpyx 's
+subsidiaries for twelve (12) months after it notifies Kyxpyx pursuant to
+Section 5.5(a)(i).  For a given Upgrade, if no patent license agreement is
+established, GIC will not be granted rights under Section 2, except to the
+extent necessary to meet the obligations established by other Sections of this
+Agreement.
+
+6.0 REPRESENTATIONS AND WARRANTIES; DISCLAIMER
+
+6.1 Representations and Warranties of Kyxpyx.
+
+Kyxpyx hereby represents and warrants that:
+
+(a) Kyxpyx Technologies Inc. is a corporation in good standing that is
+incorporated in the Province of British Columbia.
+
+(b) Kyxpyx has authorized the person who has signed this Agreement for Kyxpyx
+to execute and deliver this Agreement to GIC on behalf of Kyxpyx;
+
+(c) it has not previously granted and will not grant any rights in the
+Technology as it relates to the ISV to any third party that are inconsistent
+with the rights granted to GIC in this Agreement;
+
+(d) the ISV will be free from defects in materials and workmanship for a
+period of seven hundred and twenty (720) days after delivery. Kyxpyx's sole
+liability with respect to breach of this warranty is to fix the defective
+parts of ISV. Except as expressly provided in this Section 6.1(c), Kyxpyx
+licenses the ISV and Documentation to GIC on an "AS IS" basis.
+
+6.2 Representations and Warranties of GIC.
+
+GIC hereby represents and warrants that:
+
+(a) Global Internet Communications Inc. is a corporation in good standing that
+is incorporated in the Province of British Columbia.
+
+(b) GIC has authorized the person who has signed this Agreement for GIC to
+execute and deliver this Agreement to GIC on behalf of GIC;
+
+(c) it has not previously granted and will not grant any rights in the ISV to
+any third party that are inconsistent with the rights granted to Kyxpyx herein;
+
+6.3 General Disclaimer.
+
+EXCEPT AS SPECIFIED IN THIS AGREEMENT, ALL EXPRESS OR IMPLIED REPRESENTATIONS
+AND WARRANTIES, INCLUDING ANY IMPLIED WARRANTY OF MERCHANTABILITY, FITNESS FOR
+A PARTICULAR PURPOSE OR NON-INFRINGEMENT, ARE HEREBY DISCLAIMED.
+
+6.4 Limitation.
+
+The warranties set forth in this Article 6.0 are expressly subject to Section
+10.0 (Limitation of Liability).
+
+7.0 CONFIDENTIAL INFORMATION
+
+7.1 Confidential Information.
+
+For the purposes of this Agreement, "Confidential Information" means the
+Source Code form of the Technology and ISV, Kyxpyx -authored Derivative Works
+of the Technology and ISV, the GIC-authored Independent Works or Upgrades of
+the Technology, and information that relates to (i) Kyxpyx hardware or
+software, (ii) GIC hardware or software, (iii) the customer lists, business
+plans and related information of either party, and (iv) any other technical or
+business information of the parties, including the terms and conditions of
+this Agreement. In all cases, information which a party wishes to be treated
+as "Confidential Information" shall be marked as "confidential" or
+"proprietary" (or with words of similar import) in writing by the disclosing
+party on any tangible manifestation of the information transmitted in
+connection with the disclosure, or, if disclosed orally, designated as
+"confidential" or "proprietary" (or with words of similar import) at the time
+of disclosure or within a reasonable time thereafter unless the circumstances
+of the disclosure indicate that such disclosure is intended by a party to be
+confidential.
+
+7.2 Preservation of Confidentiality.
+
+The parties agree that all disclosures of Confidential Information (as defined
+under Section 7.1 above) shall be governed by and treated in accordance with
+the terms of the Confidential Disclosure Agreement (the "CDA") attached hereto
+as Exhibit "B" and incorporated herein by reference, modified as follows:
+
+(a) The definition of "Confidential Information" shall be as set forth in
+Section 7.1 above notwithstanding any definition set forth in the CDA;
+
+(b) The use of Confidential Information shall be limited to the scope of the
+license provided in this Agreement;
+
+(c) the obligations of confidentiality expressed in the CDA shall extend three
+(3) years beyond termination or expiration of this Agreement, except with
+respect to Source Code form of the Technology and the ISV, which shall be held
+confidential in perpetuity; and
+
+(d) the term of the CDA shall extend to coincide with the Term for purposes of
+disclosures of Confidential Information for purposes of this Agreement.
+
+8.0 INDEPENDENT DEVELOPMENT
+
+Notwithstanding any other provision of this Agreement, GIC shall have no
+obligation to market, sell, license or otherwise distribute the Technology or
+Derivative Works thereof, either alone or in any product or service and,
+except as provided in Section 7.0, nothing in this Agreement shall be
+construed as restricting GIC's ability to acquire, license, develop,
+manufacture or distribute technology that is similar to the Technology of the
+ISV and performs the same or similar functions as the Technology and the ISV,
+or to market and sell such similar technology in addition to, or in lieu of,
+the Technology and ISV. GIC agrees that the terms stated in this Section 8.2
+does not constitute a license grant by Kyxpyx to GIC of any Kyxpyx
+Intellectual Property Rights and that GIC's license rights to are set forth in
+other Sections of this Agreement.
+
+9.0 INDEMNIFICATION
+
+9.1 Indemnification by Kyxpyx.
+
+a. KYXPYX shall, at its expense and GIC's request, defend any claim or action
+brought against GIC and GIC's affiliates, directors, officers, employees,
+agents and independent contractors, that arises from or is related to any
+claim that (a) the ISV infringes any copyrights or trade secrets; and (b)
+Kyxpyx's Independent Works and Derivative Works of the ISV that infringes any
+copyrights or trade secrets of GIC; and Kyxpyx will indemnify and hold GIC
+harmless from and against any costs, damages and fees reasonably incurred by
+GIC, including but not limited to fees of attorneys and other professionals,
+that are attributable to such claim. In the event of a claim against GIC by a
+third party related to the ISV, Kyxpyx shall promptly elect and provide notice
+to GIC that Kyxpyx will indemnify and defend GIC with respect to such claim or
+decline to provide such defense and indemnity.
+
+b. GIC shall have the right to employ separate counsel at GIC's expense and
+participate in the defense of any claim or action. Kyxpyx shall reimburse GIC
+upon demand for any payments made or loss suffered by it at any time after the
+date hereof, based upon the judgment of any court of competent jurisdiction or
+pursuant to a bona fide compromise or settlement of claims, demands, or
+actions, in respect to any damages related to any claim or action under this
+Section 9.1.
+
+c. Kyxpyx may not settle any claim or action under this Section 9.1 on GIC's
+behalf without first obtaining GIC's written permission, which permission will
+not be unreasonably withheld. In the event GIC and Kyxpyx agree to settle a
+claim or action, Kyxpyx agrees not to publicize the settlement without first
+obtaining GIC's written permission, which permission will not be unreasonably
+withheld.
+
+d. Notwithstanding the foregoing, should the ISV or portion thereof be held to
+constitute an infringement or use as contemplated by this Agreement be
+enjoined or be threatened to be enjoined, Kyxpyx shall promptly notify GIC and
+immediately, at Kyxpyx's expense: (i) procure for GIC the right to continue
+use the ISV or portion thereof, as applicable, as licensed in this Agreement;
+or (ii) replace or modify the ISV or portion thereof with a version that is
+non-infringing, provided that the replacement or modified version satisfies
+all applicable needs of GIC to successfully market ISV. If (i) or (ii) are not
+available to Kyxpyx, in addition to any damages or expenses reimbursed under
+this Section 9.1, Kyxpyx shall refund to GIC all amounts paid to Kyxpyx by GIC
+under this Agreement.
+
+9.2 Indemnification by GIC.
+
+a. GIC shall, at its expense and Kyxpyx's request, defend any claim or action
+brought against Kyxpyx and Kyxpyx's affiliates, directors, officers,
+employees, agents and independent contractors, that arises from use of the ISV
+and independent works as Upgrades. And GIC will indemnify and hold Kyxpyx
+harmless from and against any costs, damages and fees reasonably incurred by
+Kyxpyx, including but not limited to fees of attorneys and other
+professionals, that are attributable to such claim. Kyxpyx shall: (i) provide
+GIC reasonably prompt notice in writing of any such claim or action and permit
+GIC, through counsel mutually acceptable to GIC and Kyxpyx, to answer and
+defend such claim or action; and (ii) provide GIC information, assistance and
+authority, at GIC's expense, to help GIC to defend such claim or action. GIC
+will not be responsible for any settlement made by Kyxpyx without GIC's
+written permission, which permission will not be unreasonably withheld.
+
+b. Kyxpyx shall have the right to employ separate counsel at Kyxpyx's expense
+and participate in the defense of any claim or action. GIC shall reimburse
+Kyxpyx upon demand for any payments made or loss suffered by it at any time
+after the date hereof, based upon the judgment of any court of competent
+jurisdiction or pursuant to a bona fide compromise or settlement of claims,
+demands, or actions, in respect to any damages related to any claim or action
+under this Section 9.2.
+
+c. GIC may not settle any claim or action under this Section 9.2 on Kyxpyx 's
+behalf without first obtaining Kyxpyx 's written permission, which permission
+will not be unreasonably withheld. In the event GIC and Kyxpyx agree to settle
+a claim or action, GIC agrees not to publicize the settlement without first
+obtaining Kyxpyx 's written permission, which permission will not be
+unreasonably withheld.
+
+9.3 THIS ARTICLE STATES THE ENTIRE LIABILITY OF THE PARTIES WITH RESPECT TO
+INFRINGEMENT OF ANY INTELLECTUAL PROPERTY RIGHTS BY THE ISV. THE PARTIES SHALL
+HAVE NO LIABILITY WITH RESPECT TO INFRINGEMENT OF INTELLECTUAL PROPERTY RIGHTS
+OF EACH OTHER AND ANY THIRD PARTY AS A RESULT OF USE OR LICENSE OF THE ISV
+OTHER THAN AS STATED HEREIN.
+
+10.0 LIMITATION OF LIABILITY
+
+10.1 Limitation of Liability.
+
+Except for express undertakings to indemnify under this Agreement:
+
+a. Each party's liability to the other for claims relating to this Agreement,
+whether for breach or in tort, shall be limited to the license fees paid by
+GIC for the ISV; and
+
+b. IN NO EVENT WILL EITHER PARTY BE LIABLE FOR ANY INDIRECT, INCIDENTAL,
+SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES IN CONNECTION WITH OR ARISING OUT
+OF THIS AGREEMENT (INCLUDING LOSS OF PROFITS, USE, DATA, OR OTHER ECONOMIC
+ADVANTAGE), NO MATTER WHAT THEORY OF LIABILITY, EVEN IF THE EXCLUSIVE REMEDIES
+PROVIDED FOR IN THIS AGREEMENT FAIL OF THEIR ESSENTIAL PURPOSE AND EVEN IF
+EITHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OR PROBABILITY OF SUCH
+DAMAGES. FURTHER, LIABILITY FOR SUCH DAMAGE SHALL BE EXCLUDED, EVEN IF THE
+EXCLUSIVE REMEDIES PROVIDED FOR IN THIS AGREEMENT FAIL OF THEIR ESSENTIAL
+PURPOSE.
+
+c. The provisions of this Section 10.0 allocate the risks under this Agreement
+between Kyxpyx and GIC and the parties have relied upon the limitations set
+forth herein in determining whether to enter into this Agreement.
+
+11.0 DEFAULT PROVISIONS
+
+11.1 Default and Remedies; Termination.
+
+a. GIC agrees that if, at any time during the Term and for a period of ten
+(10) years thereafter, GIC or any of its officers, directors or agents
+willfully and intentionally breaches a material provision of this Agreement
+and GIC fails to cure such breach within a period of one (1) month after the
+date that Kyxpyx provides GIC with notice thereof, Kyxpyx shall have the right
+to terminate this Agreement and terminate the license grants set forth in
+Section 2, inclusive of any Upgrades, versions or successors thereto.  GIC's
+rights under Section 2 of this Agreement with respect to Upgrades it develops
+shall survive any expiration or termination of this Agreement.
+
+b. GIC may terminate this Agreement only if Kyxpyx fails to deliver ISV in
+satisfaction of GIC's acceptance criteria after notice to Kyxpyx and an
+opportunity to cure, in accordance with Section 12.6.
+
+c. Except as expressly stated in this Section 11.2 and in Section 12.6, the
+parties agree that in the event that either party breaches any material term
+of this Agreement, the non-breaching party shall deliver notice thereof to the
+breaching party and the breaching party shall have thirty (30) days from
+receiving such notice to cure such breach. If the breach continues after such
+30-day period, the non-breaching party's sole remedy shall be to seek monetary
+damages in a court of competent jurisdiction.
+
+11.2 Effect of Expiration or Termination.
+
+In the event of expiration of this Agreement in accordance with Section 11.1
+or termination in accordance with Section 11.2(a), GIC shall be authorized to
+continue exercising all of the rights granted pursuant to Section 2 of this
+Agreement, subject to its losing the exclusivity granted by Section 2.  All
+licenses or sublicenses granted by either party under the terms of this
+Agreement prior to expiration or termination shall remain in full force and
+effect and shall not be affected by termination or expiration.
+
+11.3 No Waiver.
+
+The failure of either party to enforce any provision of this Agreement shall
+not be deemed a waiver of that provision.
+
+11.4 Survival.
+
+The parties' rights and obligations under Sections 2.0, 5.1, 5.2, 5.3, 6.0,
+7.0, 8.0 9.0, 10.0, and 11.0 shall survive expiration or termination of this
+Agreement, except that Section 2 of this Agreement shall not survive
+termination of this Agreement pursuant to Section 11.2(a).
+
+
+12.0 MISCELLANEOUS
+
+12.1 Notices.
+
+All notices must be in writing and delivered either in person or by certified
+mail or registered mail, postage prepaid, return receipt requested, or by
+confirmed e-mail to the person(s) and address specified below. Such notice
+will be effective upon receipt.
+
+Kyxpyx Technologies Inc.
+800-1070 Douglas
+Victoria, BC Canada V8N 2S8
+e-mail address: k_meyers@kyxpyx.com
+
+Global Internet Communications
+2305 - 1050 Burrard Street,
+Vancouver, B.C. Canada V6Z 2S3
+e-mail address: globalinternetcom@yahoo.com
+
+12.2 Partial Invalidity.
+
+If any term or provision of this Agreement is found to be invalid under any
+applicable statute or rule of law then, that provision notwithstanding, this
+Agreement shall remain in full force and effect and such provision shall be
+deleted unless such a deletion would frustrate the intent of the parties with
+respect to any material aspect of the relationship established hereby, in
+which case, this Agreement and the licenses and rights granted hereunder shall
+terminate.
+
+12.3 Complete Understanding.
+
+This Agreement and the Exhibits hereto constitute and express the final,
+complete and exclusive agreement and understanding between the parties with
+respect to its subject matter and supersede all previous communications,
+representations or agreements, whether written or oral, with respect to the
+subject matter hereof. This Agreement may not be modified, amended, rescinded,
+canceled or waived, in whole or in part, except by a written instrument signed
+by the parties.
+
+12.4 Compliance with Laws.
+
+The ISV, including technical data, is subject to U.S. export control laws,
+including the U.S. Export Administration Act and its associated regulations,
+and may be subject to export or import regulations in other countries. GIC
+agrees to comply strictly with all such regulations and acknowledges that it
+has the responsibility to obtain such licenses to export, re-export or import
+the Technology or ISV as may be required after delivery to GIC.
+
+
+12.5 Disclaimer of Agency.
+
+The relationship created hereby is that of licensor and licensee and the
+parties hereby acknowledge and agree that nothing herein shall be deemed to
+constitute GIC as a franchisee of Kyxpyx. GIC hereby waives the benefit of any
+state or federal statutes dealing with the establishment and regulation of
+franchises.
+
+12.6 Delivery and Acceptance.
+
+On the Effective Date or as soon as practicable, Kyxpyx shall deliver to GIC
+one (1) complete copy of the deliverables set forth in Exhibit A (i.e., the
+ISV and the Documentation).  Within 30 days after receiving such deliverables,
+GIC shall confirm that the ISV conforms to GIC's reasonable expectations. If
+GIC notifies Kyxpyx of a non-conformance, Kyxpyx shall promptly address the
+discrepancies between what GIC expected and what Kyxpyx delivered.  If the
+amended copy of the ISV also does not conform to the GIC's reasonable
+expectations, GIC shall have the option to terminate this Agreement.
+
+12.7 Assignment and Change in Control.
+
+This Agreement may not be assigned by either party except as herein provided
+without the prior written consent of the other party, which consent shall not
+be unreasonably withheld or delayed, except that either party may assign this
+Agreement to a majority-owned subsidiary.
+
+12.8 Construction.
+
+This Agreement will be fairly interpreted in accordance with its terms and
+without any strict construction in favor of or against either party.
+
+12.9 Force Majeure.
+
+Except for the obligation to pay money, neither party shall be liable to the
+other party for non-performance of this Agreement, if the non-performance is
+caused by events or conditions beyond that party's control and the party gives
+prompt notice under Section 11.1 and makes all reasonable efforts to perform.
+
+12.10 Exhibits.
+
+The following are included herein by reference as integral parts of this
+Agreement:
+
+       Exhibit "A" - Description of ISV and Documentation
+       Exhibit "B" - Confidential Disclosure Agreement
+
+12.11 Section References.
+
+Any reference contained herein to an article of this Agreement shall be meant
+to refer to all subsections of the article.
+
+12.12 Governing Law.
+The law that governs the interpretation and enforcement of the Agreement is
+the laws of the Province of British Columbia.
+12.13. Headings.
+Headings used in this Agreement are provided for convenience only and shall
+not be used to construe meaning or intent.
+
+IN WITNESS WHEREOF, the parties have caused this Agreement to be executed by
+their duly authorized representatives.
+
+Signed this 10th day of  August, 2000.
+
+ ______________________________ ____________________________
+Witness                         Kyxpyx Technologies Inc.
+
+ ______________________________ ____________________________
+Witness                         Global Internet Communications Inc.
+
+
+
+
+
+
+                                  EXHIBIT "A"
+
+                  DESCRIPTION OF TECHNOLOGY AND DOCUMENTATION
+
+Kyxpyx shall deliver each of the following items to GIC under the terms of the
+Agreement.
+
+I. Internet Streaming Video as derived from the Kyxpyx streaming video
+Technology.
+
+II. Documentation: ISV Documentation
+
+
+
+
+                                  EXHIBIT "B"
+
+                       CONFIDENTIAL DISCLOSURE AGREEMENT
+
+                             BI-LATERAL DISCLOSURE
+
+Kyxpyx Technologies, Inc., and Global Internet Communications Inc. agree that
+the definitions in section 1 of the agreement that this Agreement is an
+exhibit to are incorporated by reference and are an integral part of this
+Agreement; and the parties further agree as follows:
+
+1. (a) The information disclosed under this Agreement ("Information") includes
+the following: Kyxpyx Information: business information related to its
+Technology associated technologies, licensing practices and fees, research and
+development plans, customers, and marketing and future business plans.
+
+(b) The permitted use of Information is for the purpose of exploring business
+possibilities between Kyxpyx and Party.
+
+2. This Agreements covers only Information which is disclosed between the
+Effective Date and twelve (12) months thereafter. Each party's obligations
+regarding Information expires three (3) years after the date of disclosure
+(except for Kyxpyx Technology and ISV source code, which shall be protected in
+perpetuity). Information shall be used solely as permitted above, and shall
+not be disclosed to a third party other than a subsidiary, agent, or
+subcontractor of the receiving party who has agreed to be bound by the terms
+of this Agreement. Each party shall protect Information of the other party
+using the same degree of care, but not less than a reasonable degree of care,
+as such party to protect its own confidential information. Upon termination of
+this Agreement or the disclosing party's written request, the receiving party
+shall cease use of Information and return or destroy all information.
+
+3. Each party shall be obligated to protect only Information: (a) disclosed in
+tangible form clearly labeled as confidential or proprietary at the time of
+disclosure; or (b) disclosed in non-tangible form, identified as confidential
+or proprietary at the time of disclosure, and summarized in writing,
+designated as confidential or proprietary, and delivered to the other party
+within thirty (30) days after disclosure.
+
+4. This Agreement imposes no obligation upon the receiving party with respect
+to Information which: (a) was in the possession of, or was known by, the
+receiving party prior to its receipt from the disclosing party, without an
+obligation to maintain its confidentiality; (b) is or becomes generally known
+to the public without violation of this Agreement; (c) is obtained by the
+receiving party from a third party, without an obligation to keep such
+information confidential; or (d) is independently developed by the receiving
+party without use of Information.
+
+5. Disclosure of the other party's Information is not prohibited if prior
+notice is given to the other party and such disclosure is: (a) compelled
+pursuant to a legal proceeding or (b) otherwise required by law. Information
+is delivered "AS IS," and all representations and warranties, express or
+implied, including fitness for a particular purpose, merchantability, and
+non-infringement, are hereby disclaimed. Neither party has an obligation to
+sell or purchase any item from the other party. Neither party shall be liable
+for any special, incidental, consequential or punitive damages by reason of
+any alleged breach of this Agreement based on any theory of liability. Nothing
+is this Agreement shall be construed as a representation that the receiving
+party will not develop or acquire information that is the same as or similar
+to Information, provided that the receiving party does not do so in breach of
+this Agreement. The receiving party agrees that any breach of this Agreement
+will result in irreparable harm to the disclosing party for which damages
+would be an inadequate remedy and, therefore, in addition to its rights and
+remedies otherwise available at law, the disclosing party shall be entitled to
+equitable relief, including injunction, in the event of such breach. The
+receiving party does not acquire any rights in Information, except the limited
+rights to use Information as described above.
+
+6. This Agreement constitutes the entire agreement between the parties
+concerning its subject matter. All additions or modifications to this
+Agreement must be made in writing and must be signed by an authorized
+representative of each party. The parties agree to comply strictly with all
+applicable export control laws and regulations. Any action relating to this
+Agreement will be governed by British Columbia law, excluding choice of law
+rules.
+
+IN WITNESS WHEREOF, the parties have caused this Agreement to be executed by
+their duly authorized representatives.
+
+Signed this 31st day of December, 2000.
+
+ ______________________________ ____________________________
+Witness                         Kyxpyx Technologies Inc.
+
+ ______________________________ ____________________________
+Witness                         Global Internet Communications Inc.
+
+
+<PAGE>
+
+</TEXT>
+</DOCUMENT>

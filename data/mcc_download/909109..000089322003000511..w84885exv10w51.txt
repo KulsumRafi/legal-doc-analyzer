@@ -1,0 +1,1941 @@
+<DOCUMENT>
+<TYPE>EX-10.51
+<SEQUENCE>3
+<FILENAME>w84885exv10w51.txt
+<DESCRIPTION>ACQ, INC. SOFTWARE LICENSE AGREEMENT
+<TEXT>
+<PAGE>
+
+                                                                   EXHIBIT 10.51
+
+                               V(3) GALILEO (TM)
+
+                           SOFTWARE LICENSE AGREEMENT                 [AQS LOGO]
+                                                            CONNECTING INSURANCE
+================================================================================
+
+This Software License Agreement ("Agreement") is entered into as of October 1,
+2002 (the "Effective Date") by and between AQS, Inc., a Wisconsin corporation,
+("AQS"), and the Customer identified as follows:
+
+Philadelphia Insurance Companies
+--------------------------------------------------------------------------------
+Customer Name
+
+Mr. James Maguire Jr.                          President & CEO
+--------------------------------------------------------------------------------
+Contact Name (First Last)                      Title
+
+One Bala Plaza                                 Suite 100
+--------------------------------------------------------------------------------
+Address                                        Suite/Room
+
+Bala Cynwyd                   PA               19004
+--------------------------------------------------------------------------------
+City                          State            Zip
+
+(610)617-7762                 (610)761-2484    PhLY.com
+--------------------------------------------------------------------------------
+Telephone Number              Fax              Email
+
+By signing below, the parties acknowledge that they have read and agree to the
+terms contained in this Agreement.
+(ADDITIONAL TERMS CONTINUED ON NEXT PAGE).
+
+AQS, INC.
+                                        Philadelphia Insurance Companies
+                                        ----------------------------------------
+                                        Customer Name
+
+by: /s/ DAVID C WAGNER                by: /s/ JAMES MAGUIRE JR.
+   -----------------------------         ---------------------------------------
+    DAVID C WAGNER      SVP              Mr. James Maguire Jr.   President & CEO
+   -----------------------------         ---------------------------------------
+   Name                Title             Name                    Title
+
+Date: 10/18/02                        Date: 10-17-02
+
+(c) 2002 AQS, Inc.                  Page 1           Software License Agreement
+
+
+
+
+                                      74
+<PAGE>
+
+                               LICENSE AGREEMENT
+
+The terms and conditions of this Agreement govern all access to, or use of, all
+Software and related Documentation, and any upgrades, modifications or
+enhancements to such product that have been developed by, or on behalf of, and
+provided to Customer by, AQS.
+
+                                   SECTION 1
+                                  DEFINITIONS
+
+1.1      "AFFILIATE" means any present or later-acquired company located in the
+         United States of which more than 50% of its common voting stock is
+         directly or indirectly owned by Customer or AQS, and for which Customer
+         or AQS has the ability to bind such entity to the terms and conditions
+         of this Agreement.
+
+1.2      "AUTHORIZED USER" means any current employee, independent contractor,
+         agent or intern doing business on behalf of Customer, who is bound by
+         the restrictions of this Agreement.
+
+1.3      "BASE SYSTEM" means the instance of the Software prior to its
+         Customization, Implementation or Conversion.
+
+1.4      "CONFIDENTIAL INFORMATION" means all business information disclosed by
+         one party to the other in connection with this Agreement unless it is
+         or later becomes publicly available through no fault of the other party
+         or it was or later is rightfully developed or obtained by the other
+         party from independent sources free from any duty of confidentiality.
+         Without limiting the generally of the foregoing, Confidential
+         Information shall include Customer's data and shall include AQS's
+         Proprietary items. Confidential Information shall include the terms of
+         this Agreement, but not the fact that this Agreement has been signed,
+         the identity of the parties hereto or the identity of the products
+         licensed.
+
+1.5      "CUSTOMIZATION" means any modification to the Software by AQS to meet
+         the specific needs or requirements of Customer.
+
+1.6      "DOCUMENTATION" means technical manuals, training manuals, user guides,
+         and workbooks, as updated and amended from time to time, provided by
+         AQS to assist Customer with the use of Software.
+
+1.7      "IMPLEMENTATION AND CONVERSION" means the modification of the
+         Software by AQS for use by Customer in accordance with this Agreement.
+
+1.8      "INITIAL INSTALLATION" or "INITIAL SOFTWARE INSTALLATION" means the
+         first instance of Base System Software Installation onto the computer
+         hardware on which it will operate.
+
+1.9      "PRE-INSTALLATION OBLIGATIONS" means Customer's obligations to prepare
+         its environment in accordance with the specifications set forth in
+         AQS's Installation Guide or other reasonable requirements AQS may
+         require Customer to complete prior to AQS's installation of the
+         Software.
+
+1.10     "PROPRIETARY ITEMS" means, collectively, the Software and
+         Documentation, the object code and the source code for the Software,
+         the visual expressions, screen formats, report formats and other design
+         features of the Software, all ideas, methods, algorithms, formulae,
+         database model, and concepts used in developing and/or incorporated
+         into the Software or Documentation, all future modifications,
+         revisions, updates, refinements, improvements and enhancements of the
+         Software or Documentation, all derivative works based upon any of the
+         foregoing, and all copies of the foregoing.
+
+1.11     "SOFTWARE" means AQS's customizable, proprietary application software
+         listed on the attached Schedule A as being licensed by Customer,
+         including any supporting documentation, training materials, and any
+         Updates.
+
+1.12     "SOURCE CODE" means computer code in high level, human readable
+         language, including comments, and all tools and documentation
+         reasonably necessary to build and/or modify such code.
+
+1.13     "SUPPORT SERVICES" means those services provided to Customer by AQS
+         pursuant to an effective Support Services Agreement attached as
+         Schedule B.
+
+1.14     "TRADE SECRET" or "TRADE SECRET INFORMATION" has that meaning set forth
+         in the statutory law of the Commonwealth of Pennsylvania.
+
+1.15     "UPDATES" means those subsequent releases of, or updates to, the
+         Software that are generally made available to licensees of the
+         Software that are similarly situated to Customer and that Customer may
+         receive from AQS as part of any Support Services Agreement or
+         Professional Services Agreement.
+
+                                   SECTION 2
+                                GRANT OF LICENSE
+
+2.1      GRANT OF LICENSE. Subject to the limitations and restrictions contained
+         in this Agreement and the applicable Schedules, AQS grants Customer a
+         non-exclusive, non-transferable, non-sublicensable and non-assignable
+         (except as set forth in Section 12.13) license for Customer to (i) run
+         a copy of the Software at the Designated Site for Customer and
+         Affiliates to use solely for the internal data processing operations of
+         Customer and its Affiliates, and (ii) make one copy of the Software for
+         Customer's backup and archival purposes. The license granted pursuant
+         to this Agreement is limited to those states and lines of business set
+         forth on Schedule A.
+
+2.2      RESTRICTIONS ON USE. Except as otherwise expressly provided in this
+         Agreement, Customer shall not, and shall not permit any Affiliate,
+         Authorized User or third party to: (i) access or use any portion of the
+         Software not expressly licensed and paid for by Customer, (ii) use or
+         copy the Software except as provided in this Agreement, (iii) permit or
+         allow any third party (other than Authorized Users) to use or have
+         access to the Software, whether by time sharing, networking,
+         outsourcing, public dissemination, service bureau operation, or any
+         other means; (iv) invoke or access any Software, except through
+         application program interfaces and operating systems documented by AQS;
+         (v) modify, translate, decipher, decompile, disassemble or otherwise
+         reverse engineer or attempt to reconstruct or discover any Source Code
+         or underlying ideas or algorithms or file formats or programming or
+         interoperability interfaces of the Software by any means whatsoever;
+         (vi) modify, adapt or translate the Software, in whole or in part, or
+         incorporate any portion of Software into any other software or create a
+         derivative work of any portion of the Software; (vii) develop or
+         incorporate the Software or any concepts contained in the Software into
+         another product for
+
+(c) 2002 AQS, Inc.                  Page 2           Software License Agreement
+
+
+
+                                      75
+
+<PAGE>
+
+         commercial or non-profit distribution, or for internal use; or (viii)
+         fail to reproduce, remove, obscure or modify any copyright or other
+         proprietary rights notices which appear on or in the Software or
+         Documentation.
+
+2.3      ACCESS BY AND AUTHENTICATION OF AUTHORIZED USERS. Customer may provide
+         its Authorized Users with access to the Software only by means of a
+         non-public secure network. The parties acknowledge that such access may
+         travel over the internet or other public network, however, access to
+         the Software shall only be available to the Authorized Users on a
+         secure, authenticated basis. Upon reasonable request by AQS, Customer
+         will provide to AQS a detailed access log sufficient to determine
+         compliance with the terms of this Agreement.
+
+                                   SECTION 3
+                             INSTALLATION SERVICES;
+                           IMPLEMENTATION/CONVERSION
+
+3.1      INSTALLATION. Upon Customer completing the Pre-installation Obligations
+         AQS will perform the initial installation at the Designated Site, to
+         install the Base System for which Customer purchased Installation
+         Services, as indicated in the Schedule A. Notwithstanding anything in
+         this Agreement to the contrary, in the event the initial installation
+         services exceed eight hours due to Customer error or unpreparedness,
+         Customer shall pay additional installation fees on a time and materials
+         basis at the standard AQS rate in effect at the time such Services are
+         provided per hour or portion thereof (except in the case of AQS's
+         failure or delay).
+
+3.2      ORIENTATION VISIT. Prior to implementation of the Software, AQS may be
+         required to consult with Customer at Customer's location. AQS will
+         provide such initial consultation as the parties may mutually agree.
+
+3.3      IMPLEMENTATION AND CONVERSION. AQS will provide those Implementation or
+         Conversion services to Customer as set forth on Schedule A.
+
+3.4      ACCEPTANCE. Implementation and Conversion by AQS shall conform to the
+         following acceptance criteria: (i) AQS will deliver with each release,
+         system test case descriptions; (ii) Customer will install the release
+         and run the system test cases; (iii) if the results are the same as
+         they care at AQS for those same system test cases, the release is
+         accepted. Customer shall make a good faith effort to accomplish this
+         test within fifteen (15) days of receiving the release. Customer shall
+         notify AQS of its acceptance or non-acceptance of any Deliverable
+         listed in Schedule A within thirty (30) days of AQS providing each
+         release. If Customer fails to so notify AQS, the Software shall be
+         deemed to be accepted. If acceptance criteria have not been satisfied
+         within thirty (30) days following Customer's notice of non-acceptance,
+         AQS shall refund to Customer any fees paid to AQS by Customer
+         corresponding to the non-accepted Deliverable.
+
+                                   SECTION 4
+                             FEES AND PAYMENT TERMS
+
+4.1      LICENSE FEE. Customer shall pay AQS the License Fees on the dates set
+         forth on the Payment Schedule set forth in Schedule A in U.S. dollars.
+
+4.2      BUREAU FEES. In connection with the license granted pursuant to this
+         Agreement, Customer agrees to reimburse AQS for any insurance bureau
+         fees associated with Customer's licensing of the Software and all
+         associated support. The initial bureau fees are set forth on Schedule
+         A. Customers will reimburse AQS for future bureau fees incurred by AQS
+         when invoiced by AQS. Customer acknowledges that the bureau fees are
+         passed on to Customer without any addition thereto, and are not
+         directly set by AQS, and are subject to change at anytime.
+
+4.3      INCIDENTAL EXPENSES. Customer will reimburse AQS for all reasonable
+         travel, meal and accommodation expenses incurred by AQS's personnel in
+         connection with the provision of its obligations under this Agreement.
+
+4.4      ADDITIONAL FEES. AQS will invoice customer for any additional fees
+         incurred by AQS in correction with the provision of services hereunder,
+         and any services provided by AQS to Customer on a time and materials
+         basis.
+
+4.5      AMOUNTS DUE. If Customer fails to pay to AQS any amount within the time
+         prescribed in this Agreement (or within 30 days of invoice for monthly
+         charges) and Customer has not disputed the amount due, late charges of
+         the greater of 1.5% per month or the maximum allowable under applicable
+         law shall also become payable by Customer to AQS. In addition, AQS may
+         cease providing services to Customer until the outstanding undisputed
+         amounts are paid. Any such suspension does not relieve Customer from
+         paying past due fees plus interest, and in the event of collection
+         enforcement, Customer shall be liable for any costs associated with
+         collection of undisputed amounts, including, but not limited to, legal
+         costs, attorneys' fees, court costs, and collection agency fees.
+
+         In order for an amount to be considered disputed hereunder, Customer
+         must notify AQS in writing within 15 days after receipt of an invoice
+         including such amount, setting forth Customer's good faith basis for
+         the dispute. Thereafter, the parties shall attempt through informal
+         concillation to resolve such dispute within the next 60 days. Amounts
+         agreed to be due shall then be paid by the earlier of the due date for
+         payment of amounts appearing on the next invoice, or 30 days after such
+         agreement has been reached. If the parties have not reached agreement
+         within the above-described 60-day period, either party may initiate
+         legal proceedings to resolve the dispute.
+
+                                   SECTION 5
+                        PROPRIETARY RIGHTS AND NOTICES.
+
+5.1      OWNERSHIP OF RIGHTS. The Software and Documentation contain valuable
+         proprietary information. AQS or its licensors retain exclusive right,
+         copyright and other proprietary rights in and to all portions of the
+         Software and Documentation, and all modifications, improvements,
+         discoveries and alterations thereto, all copies, derivative works, and
+         new versions thereof, and all inventions, concepts, and ideas embodied
+         therein. Customer does not acquire any rights, express or implied, in
+         the Software and Documentation except as specified herein. No license,
+         right or interest in any AQS trademark, trade name or service mark is
+         granted pursuant to this Agreement. AQS may, at any time, in its sole
+         discretion, modify, reduce or enhance the functionality of the software
+         in its sole discretion. Customer acknowledges that the Software
+         (including but not
+
+(c) 2002 AQS, Inc.                  Page 3           Software License Agreement
+
+
+
+                                      76
+<PAGE>
+
+         limited to the design, programs, processes, programming techniques,
+         source code, data structure and data tables) constitute a Trade Secret,
+         disclosed to Customer on the basis of the confidential relationship
+         between Customer and AQS under this Agreement.
+
+5.2      REVERSE ENGINEERING, DECOMPILATION, AND DISASSEMBLY. Except as
+         otherwise expressly provided in this Agreement, Customer covenants that
+         it has no right to receive, use or examine any Object Code, Source Code
+         or design documentation relating to the Software. Customer agrees not
+         to, nor allow any third party to, modify, translate, decipher,
+         decompile, transfer, disclose, disassemble or otherwise reverse
+         engineer or attempt to reconstruct or discover any Source Code,
+         underlying ideas, algorithms, file formats, database format,
+         programming or interoperability interfaces of, or in any way related to
+         the Software by any means whatsoever, other than to the extent AQS is
+         required by law to permit Customer to do so, Customer agrees not to,
+         nor allows any third party to, modify the Software or incorporate any
+         portion of Software into any other software or create a derivative work
+         of any portion of the Software, or develop any other product containing
+         any of the concepts and ideas contained in the Software.
+
+5.3      OWNERSHIP OF DATA. All policy data entered into the Software system by
+         Customer is the property of Customer. If requested by Customer, AQS
+         will provide policy data unloads and invoice Customer at AQS's then
+         current standard hourly rate plus the cost of media required to unload
+         such policy data.
+
+5.4      NOTICES AND LEGENDS. Customer agrees (a) to respect all confidentiality
+         notices or legends placed upon the Software and Documentation; (b) not
+         to conceal from view any copyright, trademark or confidentiality
+         notices placed on the Software media or on any output generated by the
+         Software; and (c) to reproduce all copyright, trademark or
+         confidentiality notices on all copies of the Software and
+         Documentation, or any portion thereof, made by Customer as permitted
+         under this Agreement.
+
+                                   SECTION 6
+                                CONFIDENTIALITY
+
+6.1      AQS CONFIDENTIAL INFORMATION. The parties acknowledge that, as a result
+         of the provision of the Software and services under this Agreement,
+         Customer, its Authorized Users, and Affiliates may be exposed to
+         certain Trade Secret and Confidential information of AQS. Any Trade
+         Secret or Confidential information of AQS disclosed pursuant to this
+         Agreement may be used only for the purpose related to this Agreement.
+         Customer (a) will hold AQS's Confidential information in strict
+         confidence, (b) will not disclose the Trade Secret or Confidential
+         information to any third parties without the written consent of AQS,
+         and will take all reasonable steps to prevent such disclosure, which
+         steps will include at least the same degree of care and security
+         precautions that Customer uses to protect its own confidential
+         information of like kind, and (c) will only use or disclose such Trade
+         Secret or Confidential information within Customer's own organization
+         on a need-to-know basis. Moreover, Customer agrees to transmit Trade
+         Secret or Confidential information only to Customer's partners,
+         directors, officers, employees, agents, advisors and affiliates or
+         those of Customer's affiliates only on a need to know basis (a) who are
+         informed by Customer of the confidential nature of the Trade Secret and
+         Confidential Information and who agree to be bound by a confidentiality
+         agreement, and (b) who are not a competitor of AQS in the provision of
+         insurance policy management software. Customer will be responsible for
+         any breach of any provision of this Agreement by Customer's affiliates,
+         partners, directors, officers, employees, agents and advisors and those
+         of Customer's affiliates.
+
+6.2      CUSTOMER CONFIDENTIAL INFORMATION. The parties acknowledge that, as a
+         result of the provision of the Software and services under this
+         Agreement, AQS, its Authorized Users, and Affiliates may be exposed to
+         certain Trade Secret and Confidential information of Customer. Any
+         Trade Secret or Confidential information of Customer disclosed pursuant
+         to this Agreement may be used only for the purpose related to this
+         Agreement. AQS (a) will hold Customer's Confidential information in
+         strict confidence, (b) will not disclose the Trade Secret or
+         Confidential information to any third parties without the written
+         consent of Customer, and will take all reasonable steps to prevent such
+         disclosure, which steps will include at least the same degree of care
+         and security precautions that AQS uses to protect its own confidential
+         information of like kind, and (c) will only use or disclose such Trade
+         Secret or Confidential Information within AQS's own organization on a
+         need-to-know basis. Moreover, AQS agrees to transmit Trade Secret or
+         Confidential Information only to AQS's partners, directors, officers,
+         employees, agents, advisors and affiliates or those of AQS's affiliates
+         only on a need to know basis who are informed by AQS of the
+         confidential nature of the Trade Secret and Confidential information
+         and who agree to be bound by a confidentiality agreement. AQS will be
+         responsible for any breach of any provision of this Agreement by AQS's
+         affiliates, partners, directors, officers, employees, agents and
+         advisors and those of AQS's affiliates.
+
+6.3      REMEDIES. The parties acknowledge that the unauthorized disclosure or
+         use of AQS or Customer Confidential information would cause
+         irreparable harm and significant injury to the other party, the degree
+         of which may be difficult to ascertain. Accordingly, the parties agree
+         that each party will have the right to seek an immediate injunction
+         enjoining any breach of this Agreement by the other party, its
+         employees or agents, as well as the right to pursue any and all other
+         rights and remedies available at law or in equity for such breach. The
+         parties agree that, in the event proceedings are initiated to enforce
+         these provisions by either party, and provided that such party prevails
+         in obtaining relief, such party will be entitled to reimbursement by
+         the other party for all actual and reasonable costs and expenses,
+         including attorneys' fees, that it may incur while seeking to enforce
+         the provisions of this Agreement.
+
+                                   SECTION 7
+                              TERM AND TERMINATION
+
+7.1      TERM. Unless otherwise terminated pursuant to the terms of this
+         Agreement, this Agreement will continue in full force and affect so
+         long as Customer continues to subscribe to and pay for Support
+         Services.
+
+7.2      TERMINATION. In addition to its rights as set forth elsewhere in this
+         Agreement either party will be able to terminate this Agreement if: (i)
+         the other party is in material breach of any provision of this
+         Agreement upon sixty (60) days written notice to the other party of
+         such breach, provided such breach
+
+(c) 2002 AQS, Inc.                  Page 4           Software License Agreement
+
+
+
+                                      77
+<PAGE>
+
+         remains uncured, or if the breaching party is not actively working to
+         address the breach for sixty (60) days after receipt of such notice;
+         (ii) Customer is in default of any payment obligations pursuant to this
+         Agreement or otherwise, and such non-payment is not cured within thirty
+         (30) days after written notice from AQS; (iii) the Support Services for
+         the Software are terminated; (iv) the entire business of Customer is
+         terminated; (v) a petition for involuntary bankruptcy is filed against
+         the other party and not dismissed within thirty (30) days; or (vi) the
+         other party becomes insolvent or files or has filed any action related
+         to protection under the bankruptcy laws, including, without limitation,
+         reorganization or appointment of a receiver. A breach of this Agreement
+         by an Affiliate of a party shall be deemed to be a breach by that
+         party, so that it shall be as if Affiliates acts, omissions and/or
+         violations were the acts, omissions and or violations of that party.
+
+7.3      EFFECT OF TERMINATION. Except in the case where Source Code is released
+         pursuant to Section 11, in the event of termination or expiration of
+         this Agreement, Customer will (i) discontinue all use of the Software;
+         (ii) deliver to AQS or destroy the Documentation and related materials
+         in Customer's possession, including copies thereof, (iii) certify to
+         AQS within one (1) week after termination hereunder that Customer has
+         discontinued the use of the Software and has delivered to AQS and/or
+         destroyed the Documentation and all copies, AQS shall not be liable to
+         Customer for damages of any sort resulting solely from terminating this
+         Agreement in accordance with its terms. If this Agreement is terminated
+         as a result of a breach by Customer, all fees corresponding to
+         Deliverables accepted by Customer pursuant to this Agreement, any
+         Schedule, or any other agreement between the parties shall become
+         immediately due and payable to AQS.
+
+                                   SECTION 8
+                                   WARRANTIES
+
+8.1      LIMITED PRODUCT WARRANTY. AQS warrants that the Software will be free
+         from material defects and will, when operated in accordance with the
+         specifications set forth in the AQS Installation Guide, perform in
+         substantial conformity with the Documentation provided with the
+         Software for one year from the date the current Software or Update is
+         provided to Customer. In the event Customer notifies AQS in writing
+         during the warranty period that the Software does not function as
+         warranted, AQS shall use its best efforts to confirm the existence of
+         and correct the reported nonconformity. Modifications of the Software
+         without the express prior written consent of AQS will render this
+         warranty void. The foregoing shall not be deemed to create, and AQS
+         shall not have, any obligation to identify or correct any
+         nonconformity, "bug," error, or other failure to perform of any
+         software licensed to Customer by any third party, without regard to
+         whether such failure first becomes apparent as a result of the use of
+         such third party software in conjunction with the Software licensed
+         hereunder. AQS'S SOLE OBLIGATION OR LIABILITY UNDER THIS WARRANTY SHALL
+         BE TO USE COMMERCIALLY REASONABLE EFFORTS TO VERIFY AND CORRECT ANY
+         REPORTED NONCONFORMITY IN THE SOFTWARE. IN THE EVENT AQS FAILS TO
+         REMEDY ANY MATERIAL DEFECTS IN THE SOFTWARE UNDER THIS WARRANTY,
+         CUSTOMER'S SOLE REMEDY AND AQS'S SOLE LIABILITY SHALL BE TO RECEIVE A
+         REFUND OF ANY FEES PAID HEREUNDER FOR THE NONCONFORMING PORTION OF THE
+         SOFTWARE.
+
+8.2      DISCLAIMER OF WARRANTY OF ACCESS AND SECURITY. ASIDE FROM THE
+         WARRANTIES PROVIDED IN SECTION 8.1, AQS MAKES NO WARRANTY REGARDING ANY
+         OUTPUT OR RESULTS OBTAINED FROM THE USE OF THE SOFTWARE OR OF THE
+         ACCURACY, COMPLETENESS, INTEGRITY, PRECISION, PRIVACY, SECURITY,
+         RELIABILITY OR TIMELINESS OF ANY COMMUNICATIONS OR DATA TRANSMISSIONS
+         SENT OR RECEIVED IN CONNECTION WITH THE USE OF THE SOFTWARE, CUSTOMER
+         IS SOLELY RESPONSIBLE FOR ANY DAMAGE TO, OR ALTERATION, CORRUPTION,
+         INTERCEPTION, DELAY OR LOSS OF CONFIDENTIALITY OF, CUSTOMER'S DATA OR
+         SYSTEMS RESULTING FROM THE USE OF THE SOFTWARE NOT DUE TO AQS'S
+         VIOLATION OF THE WARRANTIES PROVIDED IN SECTION 8.1.
+
+8.3      LIMITED INTELLECTUAL PROPERTY WARRANTY. AQS warrants that the use of
+         the Software pursuant to this Agreement does not infringe any U.S.
+         copyrights or trade secret rights, nor, to AQS's actual knowledge, any
+         patent rights of any third party. AQS warrants that the Software being
+         provided is free of any liens and encumbrances and that it possesses
+         good title to the Software.
+
+8.4      DISCLAIMER OF WARRANTY. THE WARRANTY SET FORTH IN SECTIONS 8.1 - 8.3 OF
+         THIS AGREEMENT ARE LIMITED WARRANTIES AND THEY ARE THE ONLY WARRANTIES
+         MADE BY AQS. AQS EXPRESSLY DISCLAIMS, AND CUSTOMER HEREBY EXPRESSLY
+         WAIVES, ALL OTHER WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, WITHOUT
+         LIMITATION, WARRANTIES AS TO TITLE OR NONINFRINGEMENT OF THIRD PARTY
+         RIGHTS OR OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+         EXCEPT AS EXPLICITLY SET FORTH ABOVE, AQS DOES NOT WARRANT AND
+         SPECIFICALLY DISCLAIMS ANY REPRESENTATIONS THAT THE OPERATION OF THE
+         SOFTWARE AND/OR ITS USE WILL BE ACCURATE, UNINTERRUPTED, OR ERROR-FREE;
+         THAT DEFECTS IN THE SOFTWARE, IF ANY, WILL BE CORRECTED; OR THAT THE
+         SOFTWARE WILL FULFILL ANY OF CUSTOMER'S PARTICULAR PURPOSES OR NEEDS,
+         AQS'S LIMITED WARRANTY IS IN LIEU OF ALL LIABILITIES OR OBLIGATIONS OF
+         AQS FOR DAMAGES ARISING OUT OF OR IN CONNECTION WITH THE DELIVERY OF
+         THE SOFTWARE OR RELATED SERVICES AND, EXCEPT FOR THE ABOVE LIMITED
+         WARRANTY, THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE
+         SOFTWARE IS WITH CUSTOMER.
+
+                                   SECTION 9
+                                   INDEMNITY
+
+AQS shall defend, indemnify, and hold Customer harmless against any claim
+resulting from AQS's breach of its warranty obligations in Section 8.3, provided
+that AQS is given prompt notice of such claim and is given information,
+reasonable assistance, and sole authority to defend or settle the claim, in the
+event of any threatened claim that use of the Software infringes intellectual
+property rights, AQS may, in its judgment and at its sole option, either: (i)
+obtain for
+
+(c) 2002 AQS, Inc.                  Page 5           Software License Agreement
+
+
+
+                                      78
+
+<PAGE>
+
+Customer the right to continue using the Software: (ii) replace or modify the
+Software so that it becomes non-infringing and maintains materially the same
+functionality of the original Software; or (iii) terminate the license for the
+allegedly infringing portion of the Software, and upon receipt or destruction of
+the Software, return the license fees paid by Customer for such infringing
+portion of the Software prorated over a five (5) year term from the Effective
+Date of this Agreement, however, if such claim first occurs within one year from
+the Effective Date, Customer shall be entitled to a full refund of all fees
+paid. AQS shall have no obligation to indemnify or defend Customer for any
+liability arising out of or relating to any allegations or claims of
+infringement to the extent the alleged infringement is solely based on; (i) a
+modification of the Software by any party other than AQS or its Affiliates or
+agents acting on its behalf; (ii) use of the Software other than in accordance
+with the Documentation or the terms of this Agreement; (iii) use of a release of
+the Software no longer supported by AQS; (iv) use of a release of the Software
+without having implemented all Updates; (v) any third party software; or (vi)
+use of the Software in combination with any hardware, software or other
+materials not recommended by AQS, where, absent such combination, the Software
+would not be infringing. This Section entitled "Indemnity" states AQS's entire
+liability for actual or alleged infringements and Customer's sole and exclusive
+remedy in relation thereto.
+
+                                   SECTION 10
+                            LIMITATION OF LIABILITY
+
+IN NO EVENT SHALL AQS OR ITS LICENSORS BE LIABLE TO CUSTOMER OR ANY THIRD PARTY,
+FOR ANY CONSEQUENTIAL, INCIDENTAL, PUNITIVE, OR SPECIAL DAMAGES (INCLUDING,
+WITHOUT LIMITATION, LOST PROFITS) INCURRED BY CUSTOMER AS A RESULT OF ANY BREACH
+OF THIS AGREEMENT ARISING OUT OF THIS AGREEMENT OR THE USE OR INABILITY TO USE
+THE SOFTWARE, INCLUDING, BUT NOT LIMITED TO, ANY LOST PROFITS OR COST SAVINGS,
+EVEN IF AQS HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, WITHOUT
+PREJUDICE TO THE FOREGOING. IF AQS IS NONETHELESS DETERMINED TO BE LIABLE TO
+CUSTOMER UNDER OR IN CONNECTION WITH THIS AGREEMENT, AQS'S ENTIRE LIABILITY, AND
+CUSTOMER'S EXCLUSIVE REMEDY UNDER THIS AGREEMENT SHALL NOT EXCEED THE AMOUNT OF
+THE LICENSE FEE PAID HEREUNDER.
+
+                                   SECTION 11
+                               SOURCE CODE ESCROW
+
+11.1     DEPOSIT. Upon the request of Customer, and at Customer's sole cost and
+         expense, AQS agrees to maintain a copy of the entire Source Code in the
+         custody of DSI Technology Escrow Services ("DSI"), as escrow agent, or
+         such other escrow agent as AQS may specify from time to time by written
+         notice to Customer. Unless otherwise agreed by the parties, the escrow
+         arrangement shall be governed by the terms set forth in DSI's form of
+         Preferred Agreement, attached hereto as Exhibit D.
+
+11.2     SOURCE CODE LICENSE. Upon release of the Source Code to Customer, AQS
+         grants Customer a perpetual, nonexclusive, nontransferable (except as
+         set forth in Section 12.12) right and license to use the Source Code
+         for the sole and exclusive purposes of itself providing the Support
+         Services for its internal use of the Software and maintaining the
+         rights granted to Customer under this Agreement (the "Source Code
+         License").
+
+11.3     TERMINATION OF SOURCE CODE LICENSE. The Source Code License granted
+         pursuant to Section 11.2 above shall immediately terminate, and
+         Customer shall discontinue using the Source Code and return it to AQS
+         (or, at AQS's request, destroy the Source Code), if Customer: (i)
+         materially breaches any material provision of this Agreement
+         (including, but not limited to the restrictions contained in Sections
+         2.2, 5 or 11.2) and fails to substantially cure such breach within
+         sixty (60) days of written notice describing the breach, (ii) seeks
+         protection under any bankruptcy, or if any such proceeding is
+         instituted against the other (and not dismissed within 90 days), or
+         (iii) fails to pay any amount due AQS when due and fails to make such
+         payment within thirty (30) days of written notice describing such
+         failure.
+
+                                   SECTION 12
+                                 MISCELLANEOUS
+
+12.1     RETURN OF MATERIALS. Each party agrees that upon termination of this
+         Agreement, except in the case where Source Code is released pursuant to
+         Section 11, it will return to the other party all material provided by
+         such party, including, but not limited to drawings, blueprints, notes,
+         memoranda, specifications, designs, devices, documents and any other
+         material containing or disclosing any confidential or proprietary
+         information.
+
+12.2     TAXES. Customer shall pay or reimburse AQS for all sales, use,
+         transfer, privilege, excise, and all other taxes and all duties,
+         whether international, national or local, however designated, which are
+         levied or imposed by reason of the performance by AQS under this
+         Agreement, excluding, however, income taxes on profits which may be
+         levied against AQS.
+
+12.3     HARDWARE AND SOFTWARE SPECIFICATIONS. AQS is not providing any high
+         speed lines, hardware or any third party software as part of this
+         Agreement, and Customer is required to provide and maintain the minimum
+         hardware and software guidelines set forth in the Technical Guidelines
+         Bulletin provided to Customer. Future Updates or releases to the
+         Software may necessitate users to upgrade their third party software
+         and hardware to comply with the than most current release. AQS shall
+         have no obligation to support or maintain any version other than as
+         provided for the most current release of the Software.
+
+12.4     ENTIRE AGREEMENT, MERGER AND WAIVER. This Agreement, the Schedules and
+         Exhibits express and contain the entire agreement of the parties with
+         respect to the subject matter hereof and merge all prior and
+         contemporaneous communications. There are no express or implied
+         representations, warranties or agreements between the parties, except
+         as contained in this Agreement. Except as otherwise provided herein,
+         this Agreement may not be modified, amended or supplemented except by a
+         writing signed by both Customer and AQS.
+
+12.5     WAIVER. No consent given or waiver made by AQS of any breach of any
+         provision of this Agreement will operate or be construed in any manner
+         as a waiver of any subsequent breach of the same or of any other
+         provision.
+
+(c) 2002 AQS, Inc.                   Page 6           Software License Agreement
+
+
+
+                                       79
+<PAGE>
+
+12.6     CAPTIONS. The captions of this Agreement are provided for convenience
+         only and shall not be used in construing its meaning.
+
+12.7     AUTHORITY. If Customer is a corporation, partnership or limited
+         liability company, each individual executing this Agreement on behalf
+         of Customer represents and warrants that he or she is duly authorized
+         to execute and deliver this Agreement on behalf of Customer and that
+         this Agreement is binding upon Customer according to its terms,
+         Concurrently with execution of this Agreement, Customer shall deliver
+         to AQS such evidence of authorization as AQS may require.
+
+12.8     GOVERNING LAW: ATTORNEYS' FEES. This Agreement is to be governed by the
+         internal laws of the Commonwealth of Pennsylvania. In any suit,
+         arbitration, mediation or other action to enforce any right or remedy
+         under this Agreement or to interpret any provision of this Agreement,
+         the prevailing partly will be entitled to recover its costs, including
+         reasonable attorneys' fees, including without limitation, costs and
+         fees incurred on appeal or in a bankruptcy or similar action.
+
+12.9     SURVIVAL. If this Agreement is terminated for any reason, the following
+         sections shall survive such termination, 2.2, 2.3, 4, 5, 6, 8, 9, 10,
+         11.2, 11.3 and 12.
+
+12.10    SEVERABILITY; WAIVER. If for any reason a court of competent
+         jurisdiction finds any provision of this Agreement, or portion thereof,
+         to be unenforceable, that provision of the Agreement will be enforced
+         to the maximum extent permissible so as to effect the intent of the
+         parties, and remainder of this Agreement will continue in full force
+         and effect. Failure by either party to enforce any provision of this
+         Agreement will not be deemed a waiver of future enforcement of that or
+         any other provision. This Agreement has been negotiated by the parties
+         and their respective counsel and will be interpreted fairly in
+         accordance with its terms and without any strict construction in favor
+         of or against either party. This Agreement is to be construed as though
+         all parties had drafted it. The terms of this Agreement shall supercede
+         the terms of any purchase order submitted to AQS in connection with
+         this Agreement.
+
+12.11    FORCE MAJURE. Neither party will be liable to the other by reason of
+         any failure in performances of this Agreement if the failure arises out
+         of the unavailability of third party communication facilities or energy
+         sources, acts of God, acts of the other party, acts of governmental
+         authority, fires, strikes, delays in transportation, riots or war, or
+         any cause beyond the reasonable control of that party.
+
+12.12    ASSIGNMENT. Customer may not assign, rent, lease, sell, sublicense or
+         otherwise transfer the Software, or any portion thereof, nor may
+         Customer assign this Agreement without AQS's prior written approval.
+         Notwithstanding the foregoing, Customer may assign this Agreement to a
+         successor to substantially all of its business and assets, provided
+         that, absent a prior written agreement with AQS, the Software may not
+         be used for any purpose outside of the scope of the license granted
+         hereunder for the internal data processing operations of the products,
+         lines of business, and states that comprised the business of Customer
+         at the time such business was transferred to such successor. This
+         Agreement is binding upon and inures to the benefit of the parties'
+         successors and permitted assigns.
+
+12.13    EXPORT RESTRICTIONS. Customer acknowledges that the Software and all
+         related documentation is subject to United States export control laws
+         as well as applicable regulations issued by, among others, the U.S.
+         Departments of Commerce, State and Treasury. Customer will comply with
+         all such laws and regulations.
+
+12.14    GOVERNMENT RESTRICTED RIGHTS. The Software was developed at private
+         expense, is commercial, and is published and copyrighted. The Software
+         may be transferred to the U.S. Government only with the prior written
+         consent of an officer of AQS and solely with "restricted rights" as
+         that term is defined in FAR 52,227-19(c)(2) (or DFAR
+         252,227-202.32(c)(1) if the transfer is to a defense-related agency) or
+         subsequent citation.
+
+12.15    COUNTERPARTS. This Agreement may be executed in any number of
+         counterparts each of which will be deemed an original and as executed
+         constitutes one agreement, binding on both parties even though both
+         parties do not sign the same counterpart.
+
+12.16    ATTACHMENTS. All schedules, exhibits and attachments which are annexed
+         to this Agreement are expressly made a part of this Agreement and are
+         incorporated herein by this reference. All references to this Agreement
+         are deemed to refer to and include this Agreement and all such
+         schedules, exhibits and attachments, as amended from time to time.
+
+12.17    PUBLIC ANNOUNCEMENT. Either party may make a public announcement
+         regarding this Agreement, including, without limitation the fact of
+         this Agreement and the nature of the parties relationship hereunder
+         upon the prior written approval of the form and content of such
+         disclosure, which approval shall not be unreasonably withheld. AQS may
+         include the name or trademark of Customer in a listing of companies
+         which have a client relationship with AQS, and Customer may include the
+         name or trademark of AQS in a listing of companies that provide
+         services to Customer.
+
+12.18    NOTICES. Any notice or communication required or permitted under this
+         Agreement shall be in writing. Notices must be sent to the parties at
+         the addresses specified herein, or to substitute addresses provided in
+         writing, and shall be deemed received on the date sent by facsimile
+         transmission, on the date when personally delivered, or five (5) days
+         after receipt of signature via certified mail, postage prepaid.
+
+         Notices to AQS must initially be sent to the location listed below.
+
+                                   AQS, Inc.
+                                   1325 Walnut Ridge Drive
+                                   Hartland, Wisconsin 63029-8894
+
+         Notices to Customer must initially be sent to the location set forth on
+         the initial page of this Agreement.
+
+(c) 2002 AQS, Inc.                   Page 7           Software License Agreement
+
+
+                                       80
+
+
+<PAGE>
+
+IN WITNESS WHEREOF, the parties have executed this Agreement by their duly
+authorized representative as of the date first set forth above.
+
+                         END OF LICENSE AGREEMENT TERMS
+
+(c) 2002 AQS, Inc.                   Page 8           Software License Agreement
+
+
+
+
+
+
+                                       81
+
+<PAGE>
+
+                                   SCHEDULE A
+                       SOFTWARE LICENSE AGREEMENT DETAIL
+
+A-1.     DESIGNATED SITE
+
+                  Philadelphia Insurance Companies
+                  One Bala Plaza, Suite 100
+                  Bala Cynwyd, PA, 19004
+
+A-2.     PAYMENT SCHEDULE
+
+<TABLE>
+<CAPTION>
+                  PAYMENT ITEM                            DUE DATE            AMOUNT
+------------------------------------------------     -------------------    ----------
+<S>                                                  <C>                    <C>
+License Fee (Property, Liability, Crime, Inland
+Marine, Commercial Auto, BOP, and Ultimate
+Cover)                                               At Contract Signing    $  500,000
+------------------------------------------------     -------------------    ----------
+Version 2 BOP (Balance of Version 2 contract fee
+for BOP)                                             At Contract Signing    $   49,435
+------------------------------------------------     -------------------    ----------
+License Fee (Specialty Lines)                        At Contract Signing    $  450,000
+------------------------------------------------     -------------------    ----------
+License Fee (Umbrella)                               At Contract Signing    $   50,000
+------------------------------------------------     -------------------    ----------
+AQS SOFTWARE LICENSE FEE                                                    $1,049,435
+                                                     -------------------    ----------
+</TABLE>
+
+<TABLE>
+<CAPTION>
+SERVICE FEES                                                                                AMOUNT
+---------------------------------------------------------------                 -----------------------------
+<S>                                                                             <C>
+Initial installation                                                                       Included
+---------------------------------------------------------------                 -----------------------------
+Training Services (24 hours at Client Site)                                                Included
+---------------------------------------------------------------                 -----------------------------
+Conversion Services: Property, Liability, Crime, Inland Marine,                           $3,000,000
+Commercial Auto, BOP, and Ultimate Cover                                        Billed in eighteen (18) equal
+(as implemented in Version 2)                                                    installments beginning at
+                                                                                      contract signing,
+Implementation Services; States, Specialty Lines, and                               and monthly thereafter
+Umbrella (as filed by Customer 10/01/02)
+</TABLE>
+
+NOTES:
+
+ALL POLICY DOCUMENTS (EXISTING OR NEW) MUST BE PROVIDED TO AQS IN WORD OR PDF
+FORMAT. ADDITIONAL COST MAY BE INCURRED BY CUSTOMER IF DOCUMENTS ARE PROVIDED TO
+AQS IN ANOTHER FORMAT.
+
+CUSTOMER HAS AGREED TO DEDICATE SIX (6) FULL-TIME EQUIVALENTS AND A PROJECT
+SPONSOR TO THE IMPLEMENTATION AND TESTING OF V(3) GALILEO.
+
+A-3.     BASE SYSTEM DELIVERABLES
+
+<TABLE>
+<CAPTION>
+   BASE SYSTEM DELIVERABLES                    DATE
+-----------------------------          --------------------
+<S>                                    <C>
+Base System V(3) Galileo               30 days from Signing
+-----------------------------          --------------------
+Base System BOP                        30 days from Signing
+-----------------------------          --------------------
+Base System Property                           January 2003
+-----------------------------          --------------------
+Base System General Liability                  January 2003
+-----------------------------          --------------------
+Base System Crime                                April 2003
+-----------------------------          --------------------
+Base System Inland Marine                        April 2003
+-----------------------------          --------------------
+Base System Commercial Auto                       July 2003
+-----------------------------          --------------------
+Specialty Lines                            To be Determined
+-----------------------------          --------------------
+Umbrella                                   To be Determined
+-----------------------------          --------------------
+Ultimate Cover                             To be Determined
+-----------------------------          --------------------
+</TABLE>
+
+(c) 2002 AQS, Inc.                  Page 1           Software License Agreement-
+                                                     Schedule A (License Detail)
+                                      82
+
+
+
+<PAGE>
+
+<TABLE>
+<CAPTION>
+                                                           IMPLEMENTATION
+       OPTIONAL COMPONENTS                LICENSE              AMOUNT
+--------------------------------          --------        ----------------
+<S>                                       <C>             <C>
+AQS Star Bureau Generation                Included        To be Determined
+--------------------------------          --------        ----------------
+Unattended Renewals                       Included        To be Determined
+--------------------------------          --------        ----------------
+Applications (Capture and Print)          Included        To be Determined
+--------------------------------          --------        ----------------
+</TABLE>
+
+NOTE: THE DATES REFERENCED ABOVE INDICATE THE DATE THE ITEM WILL BE DELIVERED TO
+CUSTOMER, NOT THE DATE OF IMPLEMENTATION OR CONVERSION.
+
+A-4.     BUREAU FEES
+
+                  AQS is charged fees from various bureaus due to their
+                  copywritten information. These bureau fees will be passed on
+                  to Customer with no mark up. As of the Effective Date of this
+                  agreement, bureau fees are 3% of license fees.
+
+<TABLE>
+<CAPTION>
+            BUREAU FEES                    AMOUNT
+----------------------------------    ----------------
+<S>                                   <C>
+Bureau Fees on License Amount         $13,483.06
+----------------------------------    ----------------
+Bureau Fees on Optional Components    To be Determined
+----------------------------------    ----------------
+</TABLE>
+
+A-5.     LINES OF BUSINESS, UNDERWRITING COMPANIES, AND LICENSED STATES:
+
+         CUSTOMER IS AUTHORIZED TO USE THE SOFTWARE WITH THE FOLLOWING LINES OF
+         BUSINESS AND UNDERWRITING COMPANIES IN THE FOLLOWING LICENSED STATES:
+
+<TABLE>
+<CAPTION>
+LINES OF BUSINESS        UNDERWRITING COMPANIES                     LICENSED STATES
+-----------------        ----------------------        ----------------------------------------
+<S>                      <C>                           <C>
+PROPERTY                 Philadelphia Insurance        Alabama, Alaska, Arizona, Arkansas,
+                         Company                       California, Colorado, Connecticut,
+                                                       Delaware, District of Columbia, Florida,
+                                                       Georgia, Idaho, Illinois, Indiana, Iowa,
+                         Philadelphia Insurance        Kansas, Kentucky, Maine, Maryland,
+                         Company E & S                 Massachusetts, Michigan, Minnesota,
+                                                       Mississippi, Missouri, Montana, Nebraska,
+                                                       Nevada, New Hampshire, New Jersey, New
+                                                       Mexico, New York, North Carolina, North
+                                                       Dakota, Ohio, Oklahoma, Oregon,
+                                                       Pennsylvania, Rhode Island, South
+                                                       Carolina, South Dakota, Tennessee,
+                                                       Texas, Utah, Vermont, Virginia,
+                                                       Washington, West Virginia, Wisconsin,
+                                                       Wyoming
+
+LIABILITY                Philadelphia Insurance        Alabama, Alaska, Arizona, Arkansas,
+                         Company                       California, Colorado, Connecticut,
+                                                       Delaware, District of Columbia, Florida,
+                                                       Georgia, Idaho, Illinois, Indiana, Iowa,
+                         Philadelphia Insurance        Kansas, Kentucky, Maine, Maryland,
+                         Company E & S                 Massachusetts, Michigan, Minnesota,
+                                                       Mississippi, Missouri, Montana,
+                                                       Nebraska, Nevada, New Hampshire, New
+                                                       Jersey, New Mexico, New York, North
+                                                       Carolina, North Dakota, Ohio,
+                                                       Oklahoma, Oregon, Pennsylvania, Rhode
+                                                       Island, South Carolina, South Dakota,
+                                                       Tennessee, Texas, Utah, Vermont,
+                                                       Virginia, Washington, West Virginia,
+                                                       Wisconsin, Wyoming
+
+CRIME                    Philadelphia Insurance        Alabama, Alaska, Arizona, Arkansas,
+                         Company                       California, Colorado, Connecticut,
+                                                       Delaware, District of Columbia, Florida,
+                                                       Georgia, Idaho, Illinois, Indiana, Iowa,
+                         Philadelphia Insurance        Kansas, Kentucky, Maine, Maryland,
+                         Company E & S                 Massachusetts, Michigan, Minnesota,
+                                                       Mississippi, Missouri, Montana,
+                                                       Nebraska, Nevada, New Hampshire, New
+                                                       Jersey, New Mexico, New York, North
+                                                       Carolina, North Dakota, Ohio,
+                                                       Oklahoma, Oregon, Pennsylvania, Rhode
+                                                       Island, South Carolina, South Dakota,
+                                                       Tennessee, Texas, Utah, Vermont,
+                                                       Virginia, Washington, West Virginia,
+                                                       Wisconsin, Wyoming
+
+INLAND MARINE            Philadelphia Insurance        Alabama, Alaska, Arizona, Arkansas,
+                         Company                       California, Colorado, Connecticut,
+                                                       Delaware, District of Columbia, Florida,
+                                                       Georgia, Idaho, Illinois, Indiana, Iowa,
+                         Philadelphia Insurance        Kansas, Kentucky, Maine, Maryland,
+                         Company E & S                 Massachusetts, Michigan, Minnesota,
+                                                       Mississippi, Missouri, Montana,
+                                                       Nebraska, Nevada, New Hampshire, New
+                                                       Jersey, New Mexico, New York, North
+                                                       Carolina, North Dakota, Ohio,
+                                                       Oklahoma, Oregon, Pennsylvania, Rhode
+                                                       Island, South Carolina, South Dakota,
+                                                       Tennessee, Texas.
+
+</TABLE>
+
+(c) 2002 AQS, Inc.                  Page 2           Software License Agreement-
+                                                     Schedule A (License Detail)
+                                      83
+
+
+
+<PAGE>
+
+<TABLE>
+<CAPTION>
+LINES OF BUSINESS        UNDERWRITING COMPANIES                    LICENSED STATES
+-----------------        ----------------------        ----------------------------------------
+<S>                      <C>                           <C>
+                                                       Utah, Vermont, Virginia, Washington,
+                                                       West Virginia, Wisconsin, Wyoming
+-----------------        ----------------------        ----------------------------------------
+BUSINESSOWNERS           Philadelphia Insurance        Alabama, Alaska, Arizona, Arkansas,
+                         Company                       California, Colorado, Connecticut,
+                                                       Delaware, District of Columbia, Florida,
+                                                       Georgia, Idaho, Illinois, Indiana, Iowa,
+                         Philadelphia Insurance        Kansas, Kentucky, Maine, Maryland,
+                         Company E & S                 Massachusetts, Michigan, Minnesota,
+                                                       Mississippi, Missouri, Montana,
+                                                       Nebraska, Nevada, New Hampshire, New
+                                                       Jersey, New Mexico, New York, North
+                                                       Carolina, North Dakota, Ohio,
+                                                       Oklahoma, Oregon, Pennsylvania, Rhode
+                                                       Island, South Carolina, South Dakota,
+                                                       Tennessee, Texas, Utah, Vermont,
+                                                       Virginia, Washington, West Virginia,
+                                                       Wisconsin, Wyoming
+-----------------        ----------------------        ----------------------------------------
+COMMERCIAL AUTO          Philadelphia Insurance        Alabama, Alaska, Arizona, Arkansas,
+                         Company                       California, Colorado, Connecticut,
+                                                       Delaware, District of Columbia, Florida,
+                                                       Georgia, Idaho, Illinois, Indiana, Iowa,
+                         Philadelphia Insurance        Kansas, Kentucky, Maine, Maryland,
+                         Company E & S                 Massachusetts, Michigan, Minnesota,
+                                                       Mississippi, Missouri, Montana,
+                                                       Nebraska, Nevada, New Hampshire, New
+                                                       Jersey, New Mexico, New York, North
+                                                       Carolina, North Dakota, Ohio,
+                                                       Oklahoma, Oregon, Pennsylvania, Rhode
+                                                       Island, South Carolina, South Dakota,
+                                                       Tennessee, Texas, Utah, Vermont,
+                                                       Virginia, Washington, West Virginia,
+                                                       Wisconsin, Wyoming
+-----------------        ----------------------        ----------------------------------------
+ULTIMATE COVER           Philadelphia Insurance        Alabama, Alaska, Arizona, Arkansas,
+                         Company                       California, Colorado, Connecticut,
+                                                       Delaware, District of Columbia, Florida,
+                                                       Georgia, Idaho, Illinois, Indiana, Iowa,
+                         Philadelphia Insurance        Kansas, Kentucky, Maine, Maryland,
+                         Company E & S                 Massachusetts, Michigan, Minnesota,
+                                                       Mississippi, Missouri, Montana,
+                                                       Nebraska, Nevada, New Hampshire, New
+                                                       Jersey, New Mexico, New York, North
+                                                       Carolina, North Dakota, Ohio,
+                                                       Oklahoma, Oregon, Pennsylvania, Rhode
+                                                       Island, South Carolina, South Dakota,
+                                                       Tennessee, Texas, Utah, Vermont,
+                                                       Virginia, Washington, West Virginia,
+                                                       Wisconsin, Wyoming
+-----------------        ----------------------        ----------------------------------------
+</TABLE>
+
+NOTE: Additional Lines of Business, Underwriting Companies, and Licensed States
+may require the Customer to be charged additional License fees, support fees,
+and implementation fees.
+
+(c) 2002 AQS, Inc.                  Page 3           Software License Agreement-
+                                                     Schedule A (License Detail)
+
+
+                                      84
+<PAGE>
+
+                                   SCHEDULE B
+
+                           SOFTWARE SUPPORT AGREEMENT
+
+This independent Schedule (the "Support Agreement") to the Software License
+Agreement is entered into as of the Effective Date of the Software License
+Agreement, by and between, AQS, Inc. ("AQS") and the Customer identified below.
+
+                                   BACKGROUND
+
+The parties have previously entered into a Software License Agreement dated
+October 1, 2002 the "Software License Agreement") and have determined to further
+define the nature of the services provided to Customer by AQS pursuant to the
+terms of this Support Services Agreement.
+
+                                   SECTION 1
+                                  DEFINITIONS
+
+1.1      IN GENERAL. Any term not defined in this Support Agreement shall have
+         the meaning set forth in the Software License Agreement. In the event
+         of a conflict between this Support Agreement and the Software License
+         Agreement, this support Agreement shall govern.
+
+1.2      "SOFTWARE UPDATES" shall mean those base Software program modifications
+         and revisions that the made available for general release by AQS for
+         the version and release of the Software licensed by Customer pursuant
+         to the Software License Agreement. Software Updates do not include
+         release that increase the functionality of the Software and that are
+         otherwise separately priced by AQS.
+
+                                    SECTION 2
+                                      TERM
+
+2.1      INITIAL TERM. This Support Agreement will be in effect for an initial
+         term (the "initial Term") commencing as of the Effective Date of the
+         Software License Agreement and continuing for a period of sixty-three
+         (63) months.
+
+2.2      RENEWAL TERMS. Upon expiration of the initial Term, this Agreement
+         shall be automatically renewed for additional five (5) year terms
+         unless either party gives written notice of termination at least six
+         (6) months prior to the expiration date of the initial Term, or any
+         renewal term. The monthly fee for each successive term will be based on
+         the prevailing fee charged by AQS; provided, however, that AQS shall
+         not increase the rate of its monthly fee for the renewal term of this
+         Support Agreement by more than 11% above the rate for the preceding
+         Term. This rate of increase is exclusive of any additional fees for
+         Additional Modules and changes outside of the System. Any increase in
+         the Monthly Fee Shall be effective only if AQS has given written notice
+         to Customer of such increase no later than sixty (60) days prior to
+         commencement of the term to which the increased Monthly Fee is to
+         apply.
+
+2.3      TERMINATION. Except as otherwise expressly provided herein, the
+         obligations of AQS shall terminate automatically upon the occurrence of
+         the termination of the Software License Agreement in Accordance with
+         its applicable terms and conditions, and all fees for services
+         performed prior to the date of such termination shall become
+         immediately due and payable.
+
+2.4      MODIFICATIONS. Except as otherwise provided herein, modifications to
+         this Support Agreement may be made by mutual agreement between the
+         parties, in writing, and signed by a duly authorized representative of
+         AQS and Customer.
+
+                                   SECTION 3
+                                  THE SERVICES
+
+3.1      IN GENERAL. During the term of this Agreement, AQS will provide those
+         Support Services selected by Customer, and included as part of this
+         Support Agreement as identified on Exhibit B-1. Unless otherwise
+         provided in Exhibit B-1, implementation, installation and training of
+         Software Updates shall be at AQS's standard rates then in effect.
+
+3.2      ADDITIONAL SERVICES. Customer may request that AQS perform certain
+         additional services which AQS is not otherwise required to perform
+         under the terms of this Support Agreement or Exhibit B-1. If the
+         request is accepted by AQS, Customer shall pay to AQS according to
+         AQS's then current rates or an amount upon terms agreed to by the
+         parties prior to performance of such services.
+
+3.3      RELATIONSHIP OF PARTIES. The relationship of AQS and Customer is
+         strictly that of independent contractors. Nothing contained in the
+         Software License Agreement, Nondisclosure Agreement or this Support
+         Agreement shall be construed or interpreted as creating a
+         co-principalship, joint venture, partnership or employer-employee
+         relationship. Each party shall pay all wages, salaries and other
+         amounts due to respective employees relative to such agreements and
+         shall be responsible for all obligations relating to employees such as
+         income tax, withholdings, unemployment, insurance premiums, pension
+         plan contributions, worker's compensation insurance and other similar
+         responsibilities, neither party has the right or authority to assume or
+         create any obligation or responsibility on behalf of the other party,
+         except as may from time to time hereafter be provided in any written
+         instrument signed by both parties.
+
+3.4      CUSTOMER OBLIGATIONS. Customer acknowledges that it is required to
+         install all Software Updates in the sequence and according to the
+         time-schedule specified by AQS. Customer shall remain no more than one
+         version behind the most current released version of each Software
+         module; provided, however, if AQS requires immediate installation of
+         any Software Update (due to a critical update, for example), Customer
+         will comply with such requirements. Any error or non-conformity in the
+         Software that relates to Customer's failure to comply with AQS's
+         recommended installation sequence or time-schedule, communicated by AQS
+         and reasonable in time and scope, is not covered by this Support
+         Agreement or any warranty AQS may otherwise provide, and any services
+         provided by AQS to correct such error will be provided by AQS on a time
+         and materials basis at its then current rates.
+
+(c) 2002 AQS, Inc.          Page 1        Software License Agreement- Schedule B
+                                          (Software Support Agreement)
+
+
+
+                                      85
+<PAGE>
+
+                                    SECTION 4
+                                   RATES/FEES
+
+4.1      IN GENERAL. In connection with the Support Services provided by AQS
+         hereunder, Customer will pay AQS the fees set forth on Exhibit B-1.
+
+4.2      REINSTATEMENT. In the event Support Services are not renewed at
+         Customer's previous level, and Customer subsequently requests
+         reinstatement of Support Services at the previous level, AQS may, in
+         its sole discretion, reinstate such additional Support Services but
+         only after Customer pays AQS the annual Support Services fee in effect
+         at the time of such reinstatement, plus a reinstatement fee equal to
+         the number of years or portion thereof during which Customer was not a
+         subscriber to the previous level of Support Services multiplied by the
+         annual Support Services fee in effect at the time of such
+         reinstatement.
+
+4.3      IMPLEMENTATION FEES. Customer will pay AQS for all fees and expenses
+         related to the customization services required to implement into
+         Customer's Software non-bureau-driven updates that increase software
+         functionality and are priced separately by AQS. Fees are on a time and
+         materials basis according to AQS's then current rates.
+
+4.4      INCIDENTAL EXPENSES. Customer shall pay AQS all reasonable travel, meal
+         and accommodation expenses incurred by AQS's personnel in providing
+         services pursuant to this Agreement.
+
+4.5      BUREAU FEES. In connection with the support granted pursuant to this
+         Agreement, Customer agrees to reimburse AQS for any insurance bureau
+         fees associated with Customer's support of the Software and other
+         associated support. The initial bureau fees are set forth on Exhibit
+         B-1, Customers will reimburse AQS for future bureau fees incurred by
+         AQS when invoiced by AQS. Customer acknowledges that the bureau fees
+         are passed on to Customer without any addition thereto, are not
+         directly set by AQS, and are subject to change at anytime.
+
+4.6      AMOUNTS DUE. If Customer fails to pay to AQS any amount within time
+         prescribed in this Agreement (or within 30 days of invoice for monthly
+         charges) and Customer has not disputed the amount due, late charges of
+         the greater of 1.5% per month or the maximum allowable under applicable
+         law shall also become payable by Customer to AQS. In addition, AQS may
+         cease providing services to Customer until the outstanding undisputed
+         amounts are paid. Any such suspension does not relieve Customer from
+         paying past due fees plus interest, and in the event of collection
+         enforcement, Customer shall be liable for any costs associated with
+         collection of undisputed amounts, including, but not limited to, legal
+         costs, attorneys' fees, court costs, and collection agency fees.
+
+         In order for an amount to be considered disputed hereunder, Customer
+         must notify AQS in writing within 15 days after receipt of an invoice
+         including such amount setting forth Customer's good faith basis for
+         the dispute. Thereafter, the parties shall attempt through informal
+         cancellation to resolve such dispute within the next 60 days. Amounts
+         agreed to be due shall then be paid by the earlier of the due date for
+         payment of amounts appearing on the next invoice, or 30 days after such
+         agreement has been reached. If the parties have not reached agreement
+         within the above-described 60-day period, either party may initiate
+         legal proceedings to resolve the dispute.
+
+(c) 2002 AQS, Inc.          Page 2        Software License Agreement- Schedule B
+                                          (Software Support Agreement)
+
+
+
+                                  86
+
+<PAGE>
+
+                                   SECTION 5
+                                    WARRANTY
+
+LIMITED WARRANTY. AQS warrants that it will perform its obligations under the
+Support Agreement in a professional and workmanlike manner according to industry
+standards. Any Software provided hereunder shall be subject to the warranty set
+forth in Section 8.1 of the Software License Agreement. The disclaimers of
+warranty set forth in Sections 8.2 and 8.4 of the Software License Agreement
+shall apply to all services and software provided hereunder.
+
+                                   SECTION 6
+                    LIMITATION OF LIABILITY, INDEMNIFICATION
+
+IN NO EVENT SHALL AQS BE LIABLE TO CUSTOMER FOR ANY COMMERCIAL LOSSES, SPECIAL,
+INCIDENTAL, CONSEQUENTIAL, PUNITIVE OR EXEMPLARY DAMAGES, WHETHER IN CONTRACT,
+IN TORT OR OTHERWISE, INCLUDING BUT NOT LIMITED TO LOSS OF USE, REVENUE, PROFIT,
+OR LOSS OF DATA, WHETHER OR NOT AQS HAD NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGES OCCURRING, OR SHOULD HAVE KNOWN OF THE POSSIBILITY OF SUCH DAMAGE.
+
+AQS SHALL NOT BE LIABLE FOR ANY DAMAGE TO PROPERTY OR PERSONAL INJURY TO ANY
+PERSON WHICH RESULTS SOLELY FROM THE FAULT OR NEGLIGENCE OF CUSTOMER, ITS AGENTS
+OR EMPLOYEES. CUSTOMER SHALL INDEMNIFY AND HOLD AQS HARMLESS FROM AND AGAINST
+ANY SUCH CLAIMS OF DAMAGE OR INJURY RESULTING FROM THE FAULT OR NEGLIGENCE OF
+CUSTOMER, ITS AGENTS OR EMPLOYEES.
+
+IN NO EVENT SHALL THE TOTAL LIABILITY OF AQS FOR ANY REASON AND UPON ANY CAUSE
+OF ACTION WHATSOEVER UNDER THIS AGREEMENT EXCEED ALL AMOUNTS PAID BY CUSTOMER
+FOR COVERED SUPPORT SERVICES DURING THE CURRENT TERM.
+
+                                   SECTION 7
+                                 MISCELLANEOUS
+
+7.1      RECRUITMENT OF EMPLOYEES. Customer and AQS mutually agree that during
+         the term of this Agreement and for a period of twelve (12) consecutive
+         calendar months immediately following the termination of this Agreement
+         they will not (i) induce or attempt to induce, encourage or solicit,
+         either directly or indirectly, any employee of the other party to
+         terminate his or her employment with such other party; or (ii)
+         interfere in any respect with the relationship between the other party
+         and any of its employees, nor shall either party hire a former employee
+         of the other party during the one (1) year period immediately following
+         such former employee's termination of employment. In the event of any
+         breach of this paragraph, in addition to other relief to which the
+         non-breaching party shall be entitled, it shall be an entitled to
+         recover from the breaching party all costs, expenses and reasonable
+         attorneys' fees incurred by it in seeking (i) enforcement of the
+         provisions of this paragraph, and (ii) relief for violation of any
+         covenant contained herein.
+
+7.2      TAXES. Customer shall pay or reimburse AQS for all sales, use,
+         transfer, privilege, excise, and all other taxes and all duties,
+         whether international, national or local, however designated, which are
+         levied or imposed by reason of the performance by AQS under this
+         Agreement; excluding, however, income taxes on profits which may be
+         levied against AQS.
+
+7.3      ENTIRE AGREEMENT, MERGER AND WAIVER. This Agreement expresses and
+         contains the entire agreement of the parties with respect to the
+         subject matter hereof and merges all prior and contemporaneous
+         communications. There are no express or implied representations,
+         warranties or agreements between the parties, except as contained in
+         this Agreement. Except as otherwise provided herein, this Agreement may
+         not be modified, amended or supplemented except by a writing signed by
+         both Customer and AQS.
+
+7.4      WAIVER. No consent given or waiver made by AQS of any breach of any
+         provision of this Agreement will operate or be construed in any manner
+         as a waiver of any subsequent breach of the same or of any other
+         provision.
+
+7.5      GOVERNING LAW; ATTORNEYS' FEES. This Support Agreement is to be
+         governed by the internal laws of the Commonwealth of Pennsylvania. In
+         any suit, arbitration, mediation or other action to enforce any right
+         or remedy under this Agreement or to interpret any provision of this
+         Agreement, the prevailing party will be entitled to recover its costs,
+         including reasonable attorneys' fees, including without limitation,
+         costs and fees incurred on appeal or in a bankruptcy or similar action.
+
+7.6      SEVERABILITY; WAIVER. If for any reason a court of competent
+         jurisdiction finds any provision of this Agreement, or portion thereof,
+         to be unenforceable, that provision of the Agreement will be enforced
+         to the maximum extent permissible so as to effect the intent of the
+         parties, and the remainder of this Agreement will continue in full
+         force and effect. Failure by either party to enforce any provision of
+         this Agreement will not be deemed a waiver of future enforcement of
+         that or any other provision. This Agreement has been negotiated by the
+         parties and their respective counsel and will be interpreted fairly in
+         accordance with its terms and without any strict construction in favor
+         of or against either party. This Agreement is to be construed as though
+         all parties had drafted it. The terms of this Agreement shall supercede
+         the terms of any purchase order submitted by AQS in connection with
+         this Agreement.
+
+7.7      FORCE MAJURE. Neither party will be liable to the other by reason of
+         any failure in performances of this Agreement if the failure arises out
+         of the unavailability of third party communication facilities or energy
+         sources, acts of God, acts of the other party, acts of governmental
+         authority, fires, strikes, delays in transportation, riots or war, or
+         any cause beyond the reasonable control of that party.
+
+7.8      COUNTERPARTS. This Agreement may be executed in any number of
+         counterparts each of which will be deemed an original and as executed
+         constitutes one agreement, binding on both parties even though both
+         parties do not sign the same counterpart.
+
+7.9      ATTACHMENTS. All schedules, exhibits and attachments which are annexed
+         to this Agreement are expressly made a part of this Agreement and are
+         incorporated herein by this reference. All references to this Agreement
+         are deemed to
+
+(c) 2002 AQS, Inc.          Page 3        Software License Agreement- Schedule B
+                                          (Software Support Agreement)
+
+
+
+                                    87
+<PAGE>
+
+         refer to and include this Agreement and all such schedules, exhibits
+         and attachments, as amended from time to time.
+
+7.10     NOTICES. Any notice or communication required or permitted under this
+         Agreement shall be in writing. Notices must be sent to the parties at
+         the addresses specified herein, or to substitute addresses provided in
+         writing, and shall be deemed received on the date sent by facsimile
+         transmission, on the date when personally delivered, or five (5) days
+         after receipt of signature via certified mail, postage prepaid.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement by their duly
+authorized representative as of the date first set forth below.
+
+AQS, INC.
+
+                                         Philadelphia Insurance Companies
+                                         ---------------------------------------
+                                         Customer Name
+
+by: /s/ DAVID C WAGNER               by: /s/ James Maguire Jr.
+    ----------------------------          --------------------------------------
+
+   DAVID C WAGNER         SVP             Mr. James Maguire Jr.  President & CEO
+   -----------------------------          --------------------------------------
+   Name                   Title           Name                   Title
+
+   Date: 10/18/02                         Date: 10/17/02
+
+(c) 2002 AQS, Inc.          Page 4        Software License Agreement- Schedule B
+                                          (Software Support Agreement)
+
+
+                                      88
+<PAGE>
+
+                                  EXHIBIT B-1
+                           SOFTWARE SUPPORT AGREEMENT
+
+B1-1     AQS SUPPORT OBLIGATIONS
+
+STANDARD SUPPORT SERVICES. AQS will perform rate changes, forms updates and
+mandatory and conditional forms attachment rules as required for continued
+operation of the Software by Customer. Scheduling for revisions will be based on
+mutually agreed upon timeframes, recognizing Customer utilization and impact.
+These changes include bureau-driven changes and changes to Customer-specific
+portions of the Software already in production. This does not include those
+items listed in B1-4 below.
+
+GENERAL SOFTWARE UPDATES. During the term of this Agreement, AQS will make
+available to Customer, without an additional license fee, all Software Updates
+which are made generally available to customers of AQS. However, implementation,
+installation and training of Software Updates shall be at AQS's standard rates.
+
+ADDITIONAL FEE BASED SERVICES. Any additional services requested by Customer
+pursuant to a Project/Customization Quote may be performed by AQS (in its
+reasonable discretion) at AQS's rates in effect at the time such services are
+requested.
+
+FUNCTIONAL COMPLIANCE. AQS will use commercially reasonable efforts to provide
+Software Updates to cause the Software to continue to conform to the
+Documentation. In the event that original programming is required to meet any
+other mandated Software change (including State, Federal, or Local mandated
+changes), the development costs will be borne by all Customers who utilize that
+Software change. AQS warrants that all Software Updates will be provided in a
+professional manner, according to industry standards, and such Software Update
+will operate in accordance with the updated Release Notes or Memo for a period
+of one (1) year after such Software Update is delivered to Customer. In the
+event that any Software Update or updated Release Notes or Memo causes an
+interruption or malfunction in the operation of the Software, then Customer's
+sole and exclusive remedy shall be for AQS to correct the error that caused the
+interruption or malfunction.
+
+REMOTE ASSISTANCE. AQS shall provide to Customer, from 8 a.m. to 5 p.m. Central
+Time, Monday through Friday, except for AQS recognized holidays, by telephone,
+fax, and e-mail supported assistance regarding Customer's authorized use of the
+latest Software Update. Customer agrees to attempt to locate information
+provided in Documentation prior to use of Remote Assistance.
+
+RESOLUTION ASSISTANCE. Customer shall provide to AQS reasonably detailed
+documentation and explanation of issues to be resolved, together with underlying
+data, to substantiate any problem or failure and to assist AQS in its efforts to
+diagnose, reproduce and correct the problem or failure. AQS will respond,
+acknowledging receipt, within two working days of receiving the issue. If an
+issue or bug submitted to AQS is resolved by AQS and determined to be caused
+solely by Customer and not by AQS Software, Customer may be charged.
+
+OTHER ASSISTANCE. Other assistance requests (e.g, requests for assistance with
+hardware, operating systems, database management systems, networks, printer
+configuration, etc.) are outside the scope of this Software Support Agreement.
+However, at Customer's request, other software assistance may be provided on a
+time and materials basis, as available, at the sole discretion of AQS.
+
+VERSION 2 SUPPORT REPLACEMENT. This Software Support Agreement is intended to
+replace Schedule A of the License Agreement between the parties dated on or
+about December 23, 1999 and such prior agreement, and the rights and obligations
+of the parties pursuant to such prior agreement, are hereby terminated. AQS will
+continue to support Version 2 lines of business currently licensed to Customer
+consistent with the support currently provided to Customer pursuant to this
+Agreement; provided, however, that when AQS commences, on behalf of the
+Customer, customization of a line of business for V(3) Galileo, any subsequent
+support of the Version 2 line of business will only be performed by AQS on a
+time and materials basis.
+
+B1-2     SUPPORT FEE PAYMENT SCHEDULE
+
+<TABLE>
+<CAPTION>
+                  PAYMENT ITEM                                  DUE                   AMOUNT
+-------------------------------------------------------------------------------------------------
+<S>                                                       <C>                    <C>
+Support Fees (October 1, 2002 - December 31, 2002)        Billed Monthly            $ 38,563.00
+-------------------------------------------------------------------------------------------------
+Support Fees (January 1, 2003 - December 31, 2007)        Billed Monthly            $ 90,000.00
+-------------------------------------------------------------------------------------------------
+Bureau Fees                                               Billed Monthly         To be Determined
+-------------------------------------------------------------------------------------------------
+Project/Customization Quote and Time and Materials        Billed Monthly, as     To be Determined
+Services                                                     incurred
+-------------------------------------------------------------------------------------------------
+</TABLE>
+
+Note: Support Fees and Bureau Fees will change as Project/Customization Work
+
+and Time and Materials Work is completed and delivered to Customer. These
+amounts represent the initial months only.
+
+B1-3     CUSTOMER OBLIGATIONS
+
+(C) 2002 AQS, Inc.      Page 6  Software License Agreement-Schedule B (Software
+                                Support Agreement)
+
+
+                                      89
+<PAGE>
+
+IN GENERAL. Customer acknowledges that it will install Software Updates in the
+sequence and in the time-schedule specified by AQS. Customer shall remain no
+more than one release behind the most current release of each Software module;
+provided, however, that if AQS requires immediate installation of any Software
+Update (due to a critical update, for example), Customer will comply with such
+requirements. Any error or non-conformity in the Software that relates to
+Customer's failure to comply with AQS's recommended installation sequence or
+time-schedule is not covered by this Software Support Agreement or any warranty
+AQS may otherwise provide, and any services provided by AQS to correct such
+error will be provided by AQS on a time and materials basis at its then current
+rates.
+
+THIRD PARTY PRODUCTS. From time to time new optional features may be added to
+the Software as a result of a Software Update (whether included under this
+Agreement or as a result of a fee-based modification). Optional features may
+require the use of third party software or hardware. Customer may have the
+option to procure or not to procure such third party products to enable such
+optional features. In addition, future Software Updates may require Customer to
+procure specific third party software or hardware to allow Customer to receive
+the latest Software Update.
+
+B1-4     ADDITIONAL SERVICES
+
+The following items are available from AQS on a time and materials basis or
+subject to a Project/Custom Quote.
+
+<TABLE>
+<CAPTION>
+MODULE                     ITEM
+<S>                        <C>
+Rating
+                           New Coverage
+                           New Program Type
+                           New Line of Business
+                           Delete Coverage
+                           Delete Program Type
+                           Delete a Line of Business
+                           Formula Change
+                           New Company
+                           Edits
+                           Presets
+                           Defaults
+                           Additional Functionality
+                           Additional Selection
+                           New Tax or Surcharge
+Stat
+                           New Coverage
+                           New Program Type
+                           New Line of Business
+                           Delete Coverage
+                           Delete Program Type
+                           Delete a Line of Business
+                           Value Change
+                           Formula Change
+                           New Company
+                           Edits
+                           Presets
+                           Defaults
+                           Additional Functionality
+Interface
+                           Edits
+                           Additional Functionality
+
+Information Technology
+                           Agent Hardware Assistance
+                           Branch Office Setup and Support
+                           Agent Setup and Support
+                           Network Design and Reconfiguration
+                           Desktop/Laptop Client Setup and Support
+                           Database Query Development and Support
+                           Database Configuration Management
+                           e-mail Server Setup/Configuration Management
+                           Terminal Server Setup and Support
+                           Citrix Setup and Support
+
+Forms Print
+                           New Form
+                           Delete Form
+                           Edits
+                           Additional Functionality
+                           Mandatory and Conditional
+                           New Attachment
+                           Edits
+                           Additional Functionality
+</TABLE>
+
+(C) 2002 AQS, Inc.      Page 6  Software License Agreement-Schedule B (Software
+                                Support Agreement)
+
+
+                                      90
+<PAGE>
+
+                                   SCHEDULE C
+
+                        PROFESSIONAL SERVICES AGREEMENT
+
+This independent Schedule (the "Professional Services Agreement") to the
+Software License Agreement is entered into as of Effective Date of the Software
+License Agreement, by and between AQS, Inc. ("AQS") and the Customer identified
+below.
+
+                                   BACKGROUND
+
+The parties have previously entered into a Software License Agreement dated
+October 1, 2002 and have determined to further define the nature of the services
+provided to Customer by AQS pursuant to the terms of this Professional Services
+Agreement.
+
+                                   SECTION 1
+                                  DEFINITIONS
+
+1.1      IN GENERAL. Any term not defined in this professional Services
+         Agreement shall have the meaning set forth in the Software License
+         Agreement. In the event of a conflict between this Professional
+         Services Agreement and the Software License Agreement, this
+         Professional Services Agreement shall govern.
+
+1.2      "INTELLECTUAL PROPERTY RIGHTS" means any and all now known or hereafter
+         known tangible and intangible (a) rights associated with works of
+         authorship, including but not limited to copyrights, moral rights, and
+         [???]-works, (b) trademark and trade name rights, and similar rights,
+         (c) trade secret rights, (d) patents, designs, algorithms and other
+         industrial property rights, (e) all other intellectual and industrial
+         property rights (of every kind and nature and however designated),
+         whether arising by operation of law, contract, licenses, or otherwise.
+
+1.3      "PROFESSIONAL SERVICES" means those services that AQS may provide to
+         Customer from time to time as detailed in a Work Order.
+
+                                   SECTION 2
+                              TERM AND TERMINATION
+
+2.1      TERM. This Agreement is effective as of the Effective Data, and will
+         continue, unless otherwise terminated as provided herein.
+
+2.2      TERMINATION. Either party may terminate this Agreement, by written
+         notice to the other party in the event of a material breach by the
+         other party. Upon receipt of any such notice, the breaching party shall
+         have sixty (60) days to cure the breach (except in the case of
+         non-payment in which case a thirty (30) day cure period shall apply),
+         If the breach is cured, within the cure period, this Agreement shall
+         continue in full force and effect. If the breach is not cured within
+         the cure period, the Agreement will immediately terminate.
+
+2.3      POST TERMINATION OBLIGATIONS. Upon Termination of this agreement for
+         any reason, the parties shall have the following obligations: (1) AQS
+         shall retain any payment made by Customer through the date of
+         termination for Professional Services rendered, shall return any
+         payment made by Customer in excess of Professional Services actually
+         performed, and shall have the right to collect payment for any work
+         performed until notice of termination was received by Customer.
+
+2.4      MODIFICATIONS. Modifications to this agreement may be made by mutual
+         agreement between the parties, in writing, and signed by a duty
+         authorized representative of AQS and Customer.
+
+                                   SECTION 3
+                                  THE SERVICES
+
+3.1      IN GENERAL. During the term of this Agreement, AQS will provide to
+         Customer certain Professional Services which the parties may agree to
+         as evidenced by the execution of a Work Order.
+
+3.2      RELATIONSHIP OF PARTIES. The relationship of AQS and Customer is
+         strictly that of independent contractors. Nothing contained in the
+         Software License Agreement, Nondisclosure Agreement or this Upgrade
+         Agreement shall be construed or interpreted as creating a
+         co-principalship, joint venture, partnership or employer-employee
+         relationship. Each party shall pay all wages, salaries and other
+         amounts due to respective employees relative to such agreements and
+         shall be responsible for all obligations relating to employees such as
+         income tax, withholdings, unemployment, insurance premiums, pension
+         plan contributions, worker's compensation insurance and other similar
+         responsibilities, nether party has the right or authority to assume or
+         create any obligation or responsibility on behalf of the other party,
+         except as may from time to time hereafter be provided in any written
+         instrument signed by both parties.
+
+3.3      COOPERATION. Customer acknowledges that certain aspects of the
+         Professional Services require cooperation and coordination with
+         Customer personnel. Customer agrees to make available, as reasonably
+         necessary, the resources, required to complete the Professional
+         Services, Customer shall use reasonable efforts to ensure timely
+         compilation of such aspects, and any delay in the completion of the
+         Professional Services due to Customer's inability to perform such
+         aspects in a timely fashion shall not work to prejudice AQS with regard
+         to payment of the Payments.
+
+                                   SECTION 4
+                                   RATES/FEES
+
+4.1      IN GENERAL. In connection with the Professional Services provided by
+         AQS hereunder, Customer will pay AQS the Professional Service Fee set
+         forth on each Work Order. Unless otherwise stated on the Work Order,
+         all Professional Services are provided on a time and materials basis,
+         according to AQS's then applicable Professional Service rates.
+
+4.2      INCIDENTAL EXPENSES. Customer shall pay AQS all reasonable travel, meal
+         and accommodation expenses incurred by AQS's personnel in providing
+         services pursuant to this Agreement.
+
+(C) 2002 AQS, Inc.           Page 1        Software License Agreement-Schedule C
+                                               (Professional Services Agreement)
+
+
+                                      91
+<PAGE>
+
+4.3      AMOUNTS DUE. If Customer falls to pay to AQS any amount within the time
+         prescribed in this Agreement (or within 30 days of invoice if for
+         monthly charges) and Customer has not disputed the amount due, late
+         charges of the greater of 1.5% per month or the maximum allowable under
+         applicable law shall also become payable by Customer to AQS. In
+         addition, AQS may cease providing services to Customer until the
+         outstanding undisputed amounts are paid. Any such suspension does not
+         relieve Customer from paying past due fees plus interest, and in the
+         event of collection enforcement, Customer shall be liable for any costs
+         associated with such collection of undisputed amounts, including, but
+         not limited to, legal costs, attorneys' fees, court costs, and
+         collection agency fees.
+
+         In order for an amount to be considered disputed hereunder, Customer
+         must notify AQS in writing within 15 days after receipt of an invoice
+         including such amount, setting forth Customer's good faith basis for
+         the dispute. Thereafter, the parties shall attempt through informal
+         conciliation to resolve such dispute within the next 60 days. Amounts
+         agreed to be due shall then be paid by the earlier of the due date for
+         payment of amounts appearing on the next invoice, or 30 days after such
+         agreement has been reached. If the parties have not reached agreement
+         within the above-described 60-day period, either party may initiate
+         legal proceedings to resolve the disputes.
+
+                                   SECTION 5
+                               PROPRIETARY RIGHTS
+
+5.1      IN GENERAL. All Materials (in object code and source code form),
+         including but not limited to, any computer software, graphics files
+         (vector and rester), script, data structures, data tables, programming
+         code, or information provided by AQS or its suppliers under this
+         Agreement, and any tradesecrets, know how, methodologies an processes
+         related to AQS's products or services, shall remain the sale and
+         exclusive property of AQS or its suppliers, including, without
+         limitation, all copyrights, trademarks, patents, tradesecrets and any
+         other proprietary rights inherent therein (collectively "Work
+         Product"). To the extent, if any, that ownership of the Work Product do
+         not automatically vest in AQS by virtue of this Agreement or otherwise.
+         Customer hereby transfers and assigns to AQS all rights, the and
+         interest which Customer may have in and to the Work Product. Customer
+         acknowledges and agrees that AQS is in the business of providing
+         software and technology solutions and that AQS shall have the same
+         right to provide third party services which are the same or similar to
+         the Professional Services contemplated by this Agreement.
+
+5.2      ENHANCEMENTS SUBJECT TO LICENSE. Any enhancement to the Software
+         developed pursuant to the Professional Services Agreement shall be
+         deemed computer software subject to the terms of the Software License
+         Agreement.
+
+5.3      RESIDUAL KNOWLEDGE. None of the provisions of this Agreement shall
+         prevent AQS or its employees from using the general skills and
+         knowledge gained while performing duties under this Agreement after the
+         completion of his/her duties under this Agreement. AQS may, in its sole
+         discretion, include any enhancements, developed pursuant to this
+         Professional Services Agreement in any version of the Software it may
+         deem appropriates.
+
+                                   SECTION 6
+                                    WARRANTY
+
+AQS warrants that it will perform its obligations under the Professional
+Services Agreement in a professional and workmanlike manner according to
+industry standards. Any Software provided hereunder shall be subject to the
+warranty set forth in Section 8.1 of the Software License Agreement. The
+disclaimers of warranty set forth in Sections 8.2 and 8.4 of the Software
+License Agreement shall apply to all services and software provided hereunder.
+
+                                   SECTION 7
+                    LIMITATION OF LIABILITY, INDEMNIFICATION
+
+IN NO EVENT SHALL AQS BE LIABLE TO CUSTOMER FOR ANY COMMERCIAL LOSSES, SPECIAL,
+INCIDENTAL, CONSEQUENTIAL, PUNITIVE OR EXEMPLARY DAMAGES, WHETHER IN CONTRACT.
+IN TORT OR OTHERWISE INCLUDING BUT NOT LIMITED TO LOSS OF USE, REVENUE, PROFIT,
+OR LOSS OF DATA, WHETHER OR NOT AQS HAD NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGES OCCURRING, OR SHOULD HAVE KNOWN OF THE POSSIBILITY OF SUCH DAMAGE.
+
+AQS SHALL NOT BE LIABLE FOR ANY DAMAGE TO PROPERTY OR PERSONAL INJURY TO ANY
+PERSON WHICH RESULTS SOLELY FROM THE FAULT OR NEGLIGENCE OF CUSTOMER, ITS AGENTS
+OR EMPLOYEES. CUSTOMER SHALL INDEMNIFY AND HOLD AQS HARMLESS FROM AND AGAINST
+ANY SUCH CLAIMS OF DAMAGE OR INJURY RESULTING FROM THE FAULT OR NEGLIGENCE OF
+CUSTOMER ITS AGENTS OR EMPLOYEES.
+
+IN NO EVENT SHALL, THE TOTAL LIABILITY OF AQS FOR ANY REASON AND UPON ANY CAUSE
+OF ACTION WHATSOEVER UNDER THIS AGREEMENT EXCEED ALL AMOUNTS PAID BY CUSTOMER
+FOR PROFESSIONAL SERVICES PROVIDED DURING THE PREVIOUS 12 MONTH PERIOD.
+
+                                   SECTION 8
+                                 MISCELLANEOUS
+
+8.1      RECRUITMENT OF EMPLOYEES. Customer and AQS mutually agree that during
+         the term of this Agreement and for a period of twelve (12) consecutive
+         calendar months immediately following the termination of this
+         Agreement, they will not (i) include or attempt to Include, encourage
+         or solicit, either directly or indirectly, any employee of the other
+         party to terminate his or her employment with such other party, or (ii)
+         interfere in any respect with the relationship between the other party
+         and any of its employees, nor shall either party hire a former employee
+         of the other party during the one (1) year period immediately following
+         such former employee's termination of employment. In the event of any
+         breach of this paragraph, In addition to other relief to which the
+         non-breaching party shall be entitled, it shall be entitled to recover
+         from the breaching party all costs, expenses and reasonable attorney's
+         fees incurred by it in seeking (i) enforcement of the provisions of
+         this paragraph, and (ii) relief for violation of any covenant contained
+         herein.
+
+8.2      TAXES. Customer shall pay or reimburse AQS for all sales, use transfer,
+         privilege, excise, and all other taxes
+
+(C) 2002 AQS, Inc.           Page 2        Software License Agreement-Schedule C
+                                               (Professional Services Agreement)
+
+
+                                      92
+<PAGE>
+
+         and all duties, whether international, national or local, however
+         designated, which are levied or imposed by reason of the performance by
+         AQS under this Agreement; excluding, however, income taxes on profits
+         which may be levied against AQS.
+
+8.3      ENTIRE AGREEMENT, MERGER AND WAIVER. This Agreement expresses and
+         contains the entire agreement of the parties with respect to the
+         subject matter hereof and merges all prior and contemporaneous
+         communications. There are no express or implied representations,
+         warranties or agreements between the parties, except as contained in
+         this Agreement. This Agreement may not be modified, amended or
+         supplemented except by a writing signed by both Customer and AQS.
+
+8.4      WAIVER. No consent given or waiver made by AQS of any breach of any
+         provision of this Agreement will operate or be construed in any manner
+         as a waiver of any subsequent breach of the same or of any other
+         provision.
+
+8.5      GOVERNING LAW; ATTORNEYS' FEES. This Professional Services Agreement
+         is to be governed by the internal laws of the Commonwealth of
+         Pennsylvania. In any suit, arbitration, mediation or other action to
+         enforce any right or remedy under this Agreement or to interpret any
+         provision of this Agreement, the prevailing party will be entitled to
+         recover its costs, including reasonable attorneys' fees, including
+         without limitation, costs and fees incurred on appeal or in a
+         bankruptcy or similar action.
+
+8.6      SEVERABILITY; WAIVER. If for any reason a court of competent
+         jurisdiction finds any provision of this Agreement, or portion thereof,
+         to be unenforceable, that provision of the Agreement will be enforced
+         to the maximum extent permissible so as to effect the intent of the
+         parties, and the remainder of this Agreement will continue in full
+         force and effect. Failure by either party to enforce any provision of
+         this Agreement will not be deemed a waiver of future enforcement of
+         that or any other provision. This Agreement has been negotiated by the
+         parties and their respective counsel and will be interpreted fairly in
+         accordance with its terms and without any strict construction in favor
+         of or against either party. This Agreement is to be construed as though
+         all parties had drafted it. The terms of this Agreement shall
+         supercede the terms of any purchase order submitted by AQS in
+         connection with this Agreement.
+
+8.7      FORCE MAJURE. Neither party will be liable to the other by reason of
+         any failure in performances of this Agreement if the failure arises out
+         of the unavailability of third party communication facilities or energy
+         sources, acts of God, acts of the other party, acts of governmental
+         authority, fires, strikes, delays in transportation, riots or war, or
+         any cause beyond the reasonable control of that party.
+
+8.8      COUNTERPARTS. This Agreement may be executed in any number of
+         counterparts each of which will be deemed an original and as executed
+         constitutes one agreement, binding on both parties even though both
+         parties do not sign the same counterpart.
+
+8.9      ATTACHMENTS. All schedules, exhibits and attachments which are annexed
+         to this Agreement are expressly made a part of this Agreement and are
+         incorporated herein by this reference. All references to this Agreement
+         are deemed to refer to and include this Agreement and all such
+         schedules, exhibits and attachments, as amended from time to time.
+
+8.10     NOTICES. Any notice or communication required or permitted under this
+         Agreement shall be in writing. Notices must be sent to the parties at
+         the addresses specified herein, or to substitute addresses provided in
+         writing, and shall be deemed received on the date sent by facsimile
+         transmission, on the date when personally delivered, or five (5) days
+         after receipt of signature via certified mail, postage prepaid.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement by their duly
+authorized representative as of the date first set forth below.
+
+AQS, INC.
+
+                                 Philadelphia Insurance Companies
+                                 --------------------------------
+                                 Customer Name
+
+by: /s/ David C Wagner           by: /s/ James Maguire Jr.
+    -------------------------        ----------------------------------------
+    DAVID C WAGNER      SVP          Mr. James Maguire Jr.    President & CEO
+    -----------------------          ----------------------------------------
+    Name              Title          Name                     Title
+
+    Date: 10/18/02                   Date: 10/17/02
+    -----------------------          ----------------------------------------
+
+
+(c) 2002 AQS, Inc.           Page 3        Software License Agreement-Schedule C
+                                               (Professional Services Agreement)
+
+                                      93
+
+</TEXT>
+</DOCUMENT>

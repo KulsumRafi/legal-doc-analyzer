@@ -1,0 +1,569 @@
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>3
+<FILENAME>developeragmt.txt
+<DESCRIPTION>EXHIBIT 10.1
+<TEXT>
+                                                                    Exhibit 10.1
+
+[LOGO]  TIRA WIRELESS
+
+                      DEVELOPER AND DISTRIBUTION AGREEMENT
+
+THIS  AGREEMENT is entered  into as of February  10, 2003 between TIRA  WIRELESS
+INC., a Delaware corporation ("TIRA")) and IVP Technology Corporation,  a Nevada
+corporation hereinafter the Developer (the "DEVELOPER").
+
+
+RECITALS:
+
+A.    Tira is a publisher  and  distributor  of certified  Java 2, Micro Edition
+      (J2ME) applications ("J2ME APPLICATIONS");
+
+B.    The  Developer has  developed or  sublicensed  from other parties the J2ME
+      Application(s)  described in Schedule A to this Agreement and related user
+      manuals,  documentation,  demonstration  versions and marketing  materials
+      (collectively, the "APPLICATIONS").
+
+C.    Tira  and the  Developer  wish to make  available  the  Application(s)  to
+      Channels (as  hereinafter  defined) on the terms and conditions set out in
+      this Agreement
+
+NOW THEREFORE, the parties agree as follows:
+
+1.    GRANT OF LICENSE.  Subject to the terms of this  Agreement,  the Developer
+hereby grants to Tira a  non-exclusive,  irrevocable  and perpetual  (subject to
+termination  in  accordance  with the terms  hereof)  license  to:  (a)  market,
+distribute and  sublicense  portals,  web  storefronts,  retail stores,  handset
+manufacturers and their respective customers,  carriers of wireless services and
+their resellers and their  respective  customers and any other third parties who
+provide  software  or  services  to any  of the  foregoing  or  their  resellers
+including,   without  limitation,   middleware   provisioning  vendors,   device
+manufacturers and content aggregators/distributors (collectively, the "CHANNELS"
+and  individually  a "CHANNEL")  to use the  Applications  ; and (b)  reproduce,
+install and use the Applications  internally for testing and evaluation purposes
+or as  necessary to carry out the  foregoing  rights;  however,  nothing in this
+agreement shall convey to Tira the right of title to the  Applications  produced
+or marketed  by the  Developer  and Tira  acknowledges,  for greater  certainty,
+subject to Section 9 hereof, that the Developer or its subsidiaries shall retain
+all copyright and trademark ownership to all Applications.
+<<
+2.    ROYALTY PAYMENTS.  Tira will be entitled to offer the Applications for use
+by the Channels  without  charge during any internal  pilot program  within each
+Channel (a "DEMO PROGRAM") such Demo Program(s) not to extend beyond a period of
+3 months  from the date of  delivery of the  Applications  to  Channels  (unless
+otherwise  mutually  agreed between Tira and  Developer),  and each Channel will
+have the right to select the  Applications it wishes to include in its offerings
+of wireless services to its customers during the Demo Program.  Once Tira begins
+charging a Channel for the use of  Applications  after the end of such Channel's
+Demo Program, as determined by Tira in its sole discretion,  the Developer shall
+be entitled to royalty payments (the "ROYALTY") for the use of such Applications
+in connection with the license of the Applications to the Channel's customers as
+set out in Schedule(s) B to this Agreement.
+
+3.    CERTIFICATION  PROCESS.  The Developer  agrees to provide to Tira the .jar
+and .jad files of the Applications for processing  through Tira's  certification
+process ("TIRA'S CERTIFICATION  PROCESS"),  which process shall be undertaken by
+Tira solely for the  purpose of  ensuring  that the  Applications  functions  in
+compliance  with the network and device  requirements of the Channels as well as
+each Channel's specific UI, packaging,  localization and language  requirements.
+Where  modifications  are made to an  Application  in order to  ensure  that the
+
+<PAGE>
+
+Application   successfully  completes  Tira's  Certification  Process  then  the
+resulting   version  of  the  Application   will  be  known  as  the  "CERTIFIED
+APPLICATION".  Tira reserves the right,  in its sole  discretion,  to remove any
+Application  from those  available for selection by Channels if it believes such
+Application violates the intellectual  property rights of any person or does not
+comply with the requirements of Channels or is otherwise required by Channel. In
+such  circumstances,  Tira shall forthwith  inform  Developer of such action and
+provide Developer with reasonable opportunity to respond to such concern.
+
+4.    LIMITATION  ON USE OF  APPLICATIONS.  Tira will use all  Applications  and
+related  documentation  consisting  of  or  containing  proprietary  information
+related to the  Applications  solely for the  purpose of  performing  under this
+Agreement.  Tira will not,  and will not  permit  the  Channels  to,  decompile,
+disassemble or otherwise reverse engineer the software or cause others to do so.
+Tira will not modify or cause  others to modify the  Applications,  without  the
+prior  written  consent  of the  Developer,  except  that  Tira may  modify  the
+Applications to the extent permitted in Section 3 and Section 9(a) hereof.
+
+5.    USE OF  CERTIFIED  APPLICATIONS.  The  Developer  shall  not  directly  or
+indirectly  license:  (i) the  Applications  to any  Channel  that is in  Tira's
+network  of  Channels  as listed on  Schedule  "C",  as  amended by Tira and the
+Developer  from time to time ; or (ii) any Certified  Application  version of an
+Application  to any  Carrier.  When a new  Channel  member  is added  to  Tira's
+network,  Developer  will be given  notice and then has 30 days to exclude  that
+Channel member from this Agreement upon agreement by Tira.
+
+6.    REPRESENTATIONS OF DEVELOPER.  The Developer represents and warrants that:
+(i) the  Developer is the owner of all rights,  title and interest in and to the
+Applications  or has all  rights  and  licenses  to the  Applications  that  are
+necessary  in order that to enter into this  Agreement  and with respect to such
+Applications,  has entered into agreements with such developers that give it the
+right to  sub-license  such  Applications  to Tira and to otherwise  perform its
+obligations  under this  Agreement;  (ii) the  Applications  do not infringe any
+patents,   copyrights,   trade-marks  or  other  intellectual   property  rights
+(including trade secrets) or similar rights of any person or entity,  and to the
+best of the  Developer's  knowledge,  no  claim  of such  infringement  has been
+threatened  or asserted;  (iii) the  Developer  is not a party to any  agreement
+which would be violated, contravened,  breached by, or under which default would
+occur as a  result  of the  execution  and  delivery  of this  Agreement  or the
+performance by the Developer of any of its  obligations  provided for under this
+Agreement;  (iv) the Applications will perform  substantially in accordance with
+the  specifications  or  description  set out in Schedule A and any related user
+manual or similar  material;  (v) the  Application(s) do not contain material or
+information that is fraudulent,  obscene, defamatory,  libellous,  slanderous or
+unlawfully  harassing  or  injurious or in violation of any personal or property
+rights or other  common  law or  statutory  rights,  and (vi) no  portion of the
+Applications  contains any protection  feature or disabling or destructive  code
+that may  prevent  or impair use of the  Applications,  which  includes  without
+limitation,  any computer virus, worm,  software lock, drop dead device,  Trojan
+horse  routine,  trap  door,  time  bomb or  similar  devices  which may tend to
+destroy, corrupt or disable software or hardware.
+
+7.    DEVELOPMENTS.  The Developer  shall, at its own cost and upon receipt of a
+commercially  reasonable request by Tira to do so, modify the Applications:  (a)
+in order to customize them for use in accordance  with the  requirements  of the
+Channels,  including without limitation,  device porting; (b) in order to ensure
+that the Applications  successfully  completes Tira's  Certification  Process as
+described in Section 3 of this  Agreement;  or (c) for any other valid  business
+purpose.  The Developer agrees to provide to Tira,  within two (2) business days
+of receiving such a request, a timetable  acceptable to Tira, acting reasonably,
+for completion of such  modifications  and shall deliver such  modifications  to
+Tira in accordance  with such  timetable.  In addition,  Developer shall provide
+such bug  fixes  or code  patches  as are  reasonably  required  to  ensure  the
+Applications  run in accordance with their  specifications  and any related user
+documentation  or manuals.  Developer  shall also provide Tira with all upgrades
+and revisions of the Applications.
+
+8.    SUPPORT  SERVICES.  Tira will  provide  to  Channels  and end users of the
+Applications the following support  services,  which may be changed from time to
+time in accordance with Channels' requirements: (i) the creation and maintenance
+
+                                                                               2
+
+<PAGE>
+
+of online  answers  to FAQs;  and (ii)  email  and/or  voice  support  regarding
+installation  and  operation  of the  Applications,  usage  tracking  and server
+hosting issues.  The Developer will provide direct support to Tira in connection
+with  defects  found in the  Applications  as  follows:  (i) with  respect  to a
+Critical  Defect (as  defined  below),  the  Developer  will  respond  and begin
+addressing  such Critical  Defect within four hours (if on a business day and in
+regular business hours; and otherwise as soon as reasonably practicable) and use
+the  Developer's  best efforts to resolve such Critical Defect to the reasonable
+satisfaction  of Tira and any  affected  Channels or  end-users  within 48 hours
+after being delivered  notice of such Critical Defect ; and (ii) with respect to
+Standard  Defects (as defined below),  Developer begin  addressing such Standard
+Defect  within  24  hours  (if on a  business  day,  and  otherwise  as  soon as
+reasonably  practicable),  and use the Developer's  best efforts to resolve such
+Standard Defect to the reasonable satisfaction of Tira and any affected Channels
+or end-users within five calendar  business days after being delivered notice of
+such Standard Defect.  All defects found in the  Applications  will be logged by
+Tira and submitted by email to the Developer.  For the purposes of this Section,
+a "CRITICAL  DEFECT"  means any  dysfunction  or defect in the  software for the
+Applications  which  results in loss of revenues  for any Channel and  "STANDARD
+DEFECT"  means any defect or  dysfunction  in the software for the  Applications
+which results in the creation of error messages.  A defect shall be deemed to be
+resolved  if both  Tira  and  the  Developer  agree  than  any of the  following
+conditions  are met,  to the  reasonable  satisfaction  of such  parties and any
+affected Channels or end-users: (a) the Developer has provided a direct solution
+to the problem that prevents it from reoccurring; (b) the Developer has provided
+a viable permanent  workaround to the problem; or (c) the Developer has provided
+a viable  temporary  workaround  to the problem and agreed to further  provide a
+solution to the problem within a specified timeframe  acceptable to Tira, acting
+reasonably.  Tira  shall  have the  right,  in its  discretion,  to  remove  any
+Application,  or prevent its  provisioning,  at its discretion in the event Tira
+has reasonable  grounds for believing that the Application is suffering from any
+Standard Defect or Critical Defect.
+
+9.       INTELLECTUAL PROPERTY RIGHTS.
+
+         (a)  The Developer in the case of Applications it has created, owns all
+              proprietary  rights,  including  copyrights,   patents  and  trade
+              secrets in and to the AApplications and to any modifications  that
+              it makes to the  Applications in accordance with Section 7 of this
+              Agreement,  however any such modifications will be considered part
+              of the Applications for the purposes of the Agreement.  Tira shall
+              retain all  ownership  rights,  title,  and interest in and to any
+              modifications  that it makes to the  Applications,  provided  that
+              Tira shall not modify  any  Application  other than to: (i) insert
+              its code relating to digital rights  management,  branding,  rogue
+              application  protection,  update  notification,  and  reviews  and
+              ratings  (which  code shall only be invoked at the  startup of the
+              Application  and shall be inert with respect to the  functionality
+              of the Application), (ii) insert branding labels to highlight that
+              the Application is a Certified  Application or to otherwise market
+              the Application,  or (iii) or as otherwise expressly agreed by the
+              Developer.
+
+         (b)  For marketing  purposes  only,  each party may make  references to
+              this Agreement or display the other party's logos or trademarks at
+              any website owned by it,  provided  that each party  complies with
+              any and all reasonable  trade-mark usage guidelines and/or marking
+              requirements as the other party may notify from time to time.
+
+         (c)  Nothing  in  this  Agreement  shall  grant  to  either  party  any
+              ownership or other intellectual property rights of the other party
+              other than as expressly set out in this Agreement.
+
+10.      TRANSFER/SALE.
+
+         (a)  Unless otherwise expressly agreed in writing by Tira, any transfer
+              by the  Developer of  ownership of any or all of the  Applications
+              or, if the  Developer is not an  individual,  any  reorganization,
+              merger, consolidation,  acquisition, or other restructuring of the
+              Developer or any  transaction  involving the sale of any or all of
+              the Applications  will be subject to Tira's continued right of use
+              of  the  Applications   previously   sublicensed  to  Channels  in
+              accordance  with the  terms of this  Agreement.  In the event of a
+              proposed  sales or transfer of  Applications  as described in this
+
+                                                                               3
+
+<PAGE>
+
+              subsection,  Tira will use its commercially  reasonable efforts to
+              provide  Developer  with a listing  of  Channels  in which Tira is
+              currently   distributing   the   Applications   subject   to   any
+              confidentially restrictions.
+
+         (b)  If the  Developer  intends to  transfer  or sell any or all of the
+              Applications  to a third  party,  prior to entering  into any such
+              agreement  with that  third  party the  Developer  shall  offer to
+              transfer or sell such  Applications  to Tira on the same terms and
+              conditions as the Developer has agreed with such third party. Tira
+              may  accept or reject the offer in its sole  discretion,  provided
+              that Tira shall inform the Developer of its decision within 5 days
+              of  being  provided  in  writing  with a  binding  offer  from the
+              Developer. If the offer is rejected by Tira then the Developer may
+              enter into an  agreement  on the same terms with the third  party,
+              provided that for greater  certainty the Developer shall not enter
+              into any  agreement  with  that  same  third-party  that  contains
+              different terms and conditions  without again offering to transfer
+              or sell the  Applications  to Tira on those  different  terms  and
+              conditions.
+
+11.      WARRANTIES.  Except as expressly stated in this Agreement, there are no
+         warranties,   representations  or  conditions,   expressed  or  implied
+         (including any implied  warranty or condition of merchantable  quality,
+         durability  or  fitness  for a  particular  purpose),  written or oral,
+         arising  by  statute,  operation  of law or  otherwise,  regarding  the
+         Applications.
+
+12.      INDEMNITY. Each party hereby indemnifies and saves the other party, its
+         directors,  officers,  employees  and  shareholders  harmless  from and
+         against any and all claims,  demands,  liabilities,  costs and expenses
+         (including  reasonable  attorneys'  fees and costs)  arising  out of or
+         relating to a breach by such party of any of the terms or conditions of
+         this  Agreement  or  relating  to, or  arising  out of,  the use of the
+         Application(s).
+
+13.      LIMITATION OF LIABILITY. The limit of either party's liability (whether
+         in contract,  tort, negligence,  strict liability in tort or by statute
+         or  otherwise)  to the  other  party r to any  third  party  concerning
+         performance or  non-performance  by Tira or Developer,  as the case may
+         be,in any manner  related to this  Agreement,  for any and all  claims,
+         shall not in the  aggregate  exceed the  greater  of: (i) the fees then
+         payable  by Tira to  Developer  pursuant  to this  Agreement;  and (ii)
+         Cdn.$1,000.00  In no event shall either  party be liable for  indirect,
+         special,  consequential,  incidental  or  punitive  losses,  damages or
+         expenses  or lost  profits  or savings  even if it has been  advised of
+         their possible existence.  This Section shall not, however,  apply with
+         respect to any breach of Section 6, Section 9 or Section 14.
+
+14.      CONFIDENTIALITY.  Each of the  parties  agrees to treat all  proposals,
+         plans,  documents and all other  information  communicated to the other
+         during  the term of this  Agreement  and  designated  as  confidential,
+         including  the terms of this  Agreement,  or which a  reasonable  party
+         would   consider  to  be  non-public   information   and   confidential
+         ("CONFIDENTIAL INFORMATION") as strictly confidential and agrees not to
+         disclose or make use of any such  Confidential  Information  in its own
+         business or otherwise  except for the purposes  expressly  set forth in
+         this  Agreement.   "Confidential  Information"  does  not  include  (i)
+         information  rightfully in the recipient party's possession free of any
+         obligation   of  confidence  at  or  subsequent  to  the  time  it  was
+         communicated  to the  receiving  party by the  disclosing  party,  (ii)
+         information which was developed by employees or agents of the receiving
+         party  independently  of  and  without  reference  to  any  information
+         communicated  to the receiving  party by the  disclosing  party;  (iii)
+         information  in the public  domain not as a result of any  inaction  or
+         action of the receiving party in violation of such party's  obligations
+         under this Agreement;  (iv) information  communicated by the disclosing
+         party  to an  unaffiliated  third  party  free  of  any  obligation  of
+         confidence;  or (v)  information  which  is  required  to be  disclosed
+         pursuant to a legal  proceeding  or otherwise at law,  provided that in
+         such  circumstances  the  disclosing  party  shall give the other party
+         reasonable notice that such disclosure is required. Notwithstanding the
+         terms of this  Section,  either  party may cause this  agreement  to be
+         filed with the SEC or other Government  regulatory  agency if either or
+         both  parties  are  under  a  continuing   obligation  to  render  such
+         agreements into the public domain  provided  however that any schedules
+         where royalty rates or other commercially  sensitive  information shall
+         be removed prior to filing.
+
+                                                                               4
+
+<PAGE>
+
+15.      TERMINATION.  Either  party may  terminate  this  Agreement at any time
+         upon: (i) providing written notice to the other party at least 180 days
+         prior to termination;  (ii) a material breach by the other party of its
+         obligations  under this  Agreement,  provided  that such breach has not
+         been  remedied  within  thirty  days of  receipt  of a notice  from the
+         terminating  party  specifying  the  breach;  or (iii) the other  party
+         making  a  general  assignment  for  the  benefit  of  creditors,   the
+         appointment  by such other  party of a  receiver  for its  business  or
+         assets,  or such other party availing itself of or becoming  subject to
+         any proceeding relating to insolvency,  bankruptcy or the protection of
+         rights  of  creditors..  Upon  termination,  Tira  shall no  longer  be
+         entitled to sublicense the  Application(s) for use by Channels or their
+         customers, or to use the Applications in a Demo Program and Tira shall,
+         as soon as reasonably  practicable following the date of termination of
+         this Agreement,  remove the Applications from then existing  Channels..
+         The    ownership,    confidentiality    and    intellectual    property
+         representations,  warranties and covenants  contained in this Agreement
+         and  the  exclusivity  obligation  set  out in  Section  5(ii)  of this
+         Agreement shall survive the termination of this Agreement.
+
+16.      BANKRUPTCY EVENT.  Effective upon a Bankruptcy Event (as defined below)
+         by  Developer,  Tira is hereby  granted a  non-exclusive,  irrevocable,
+         paid-up, royalty-free license, for a the remainder of its contract term
+         , to access  the  source  code and source  code  documentation  for the
+         Applications to sublicense and use solely in the manner contemplated by
+         this Agreement.  For greater clarity,  the terms and provisions of this
+         Agreement shall continue to apply MUTATIS  MUTANDIS  notwithstanding  a
+         Bankruptcy Event (including, without limitation, the right of Developer
+         to  receive  the  Royalty  as  prescribed  in  Schedule  "B"  hereto in
+         connection with the sale of the Applications). Further, nothing in this
+         Agreement  shall be construed so as to grant Tira any ownership  rights
+         in the  source  code or  source  code  documentation  or any  right  to
+         sublicense  the  source  code  or  source  code  documentation  for the
+         Applications or to use the source code or source code  documentation in
+         any manner  other than for the purposes  specified  in this  Agreement.
+         "BANKRUPTCY  EVENT"  means  where  the  Developer  (i)  makes a general
+         assignment   for  the  benefit  of  its  creditors  or  a  proposal  or
+         arrangement under the BANKRUPTCY AND INSOLVENCY ACT (Canada) or similar
+         legislation,  or a petition is filed  against the  Developer  under the
+         BANKRUPTCY AND INSOLVENCY ACT (Canada) or similar legislation; (ii) the
+         Licensee  shall be declared or  adjudicated  bankrupt or a  liquidator,
+         trustee  in  bankruptcy,  custodian,  receiver,  manager  or any  other
+         officer with similar powers shall be appointed of or for the Developer;
+         (iii) the Developer's  business or the Developer shall commit an act of
+         bankruptcy or shall propose a compromise  or  arrangement  or institute
+         proceedings  to be adjudged  bankrupt or  insolvent or consents to such
+         appointment or the initiation of such  proceedings or admits in writing
+         inability  to pay debts  generally  as they become due, or seeks formal
+         protection from  creditors;  (iv) or the Developer shall cease to carry
+         on business.
+
+17.      GENERAL. Nothing in this Agreement shall be interpreted to construe the
+         parties  as  partners,  employer/employee  or  joint  ventures,  or  as
+         creating any relationship other than as independent  contractors.  This
+         Agreement  shall be  governed  by the laws of  Ontario  and the laws of
+         Canada  applicable  in  Ontario.  This  Agreement  contains  the entire
+         agreement  of the  parties  with  respect  to its  subject  matter  and
+         supersedes  all  prior  agreements  and  representations   between  the
+         parties,  written or oral,  relating to the same subject matter. In the
+         event that any of the provisions of this  Agreement  shall be held by a
+         court or other  tribunal  of  competent  jurisdiction  to be invalid or
+         unenforceable, the remaining portions of this Agreement shall remain in
+         full force and effect and shall be construed  so as to best  effectuate
+         the intention of the parties in executing it. This  Agreement  shall be
+         binding and enure to the benefit of the parties' respective  successors
+         and  assigns,  and  subject  to Section  10 of this  Agreement,  may be
+         assigned by either  party upon  providing  written  notice to the other
+         party.  Neither  party  shall be  liable  for any  failure  or delay in
+         performing any of its  obligations if such delay is caused by any event
+         or  circumstance  beyond  its  reasonable  control,  including  acts of
+         nature,   accidents,   or  any  other   industrial,   civil  or  public
+         disturbance.
+
+18.      NOTICE. All notices with regard to the Agreement shall be delivered to:
+
+                                                                               5
+
+<PAGE>
+
+For IVP Technology Corporation
+
+If by mail:
+Mr. Brian MacDonald
+Suite 401, 2275 Lakeshore Boulevard West
+Toronto, Ontario
+M8V 3Y3
+
+If by Fax:  416-252-4578
+If by Email:  bmacdonald@ivptechnology.com
+
+For Tira:
+
+If by mail:
+
+Alon Sobol
+Tira Wireless Inc.
+20 Eglinton Ave. W.
+Suite 600
+Toronto, Ontario
+M4R-1K8
+
+Fax: 416.488.1988
+Email: asobol@tirawireless.com
+       -----------------------
+
+
+
+
+
+         IN WITNESS WHEREOF, the parties have duly executed this Agreement.
+
+
+         TIRA WIRELESS INC.                     ________________________________
+
+
+         ______________________________         Per:____________________________
+         Name:_________________________         Name: Brian J. MacDonald
+         Title:________________________         Title: President and CEO________
+
+         Address:  20 Eglinton Ave. W.
+                   Suite 600
+
+         Toronto, Ontario, Canada______
+         M4R 1K8   ____________________
+
+                                                                               6
+
+<PAGE>
+
+                                   SCHEDULE B
+                          ROYALTY AND ADDITIONAL TERMS
+
+
+I.    PAYMENT STRUCTURE
+
+The following payment terms and conditions will apply to the Applications:
+
+1.    No  payments  shall be due to the  Developer  for use of any  Applications
+      during Tira's internal  installation and or use of the Applications during
+      testing,  trials, pilot launches or other non-revenue  generating tests or
+      evaluations,   or  for  Tira's  public  demonstrations  of  the  Certified
+      Applications to current or prospective  Channels or other customers and/or
+      at trade shows, conferences, seminars or industry events.
+
+2.    Tira and  Developer  shall  negotiate in good faith to determine the price
+      charged to Tira for each  Application  following the inclusion in Schedule
+      "A" of this Agreement of each Application (the "ROYALTY"),  which shall in
+      the opinion of Tira and Developer be commercially  reasonable.  Subsequent
+      to  inclusion  of an  Application  in the  contract  under  Schedule A, if
+      agreement on price is not reached within 45 days, the Application  will be
+      excluded from this  Agreement and from any current or future Demo Program,
+      unless otherwise mutually agreed between the parties.
+
+3.    For the publishing  services provided by Tira as set out in the Agreement,
+      Tira will set the sale price for each  Application for sale to any Channel
+      based upon the Channel's requirements the services to be provided by Tira,
+      including without  limitation,  tools and platform  hosting,  RFP process,
+      localization,   billing   integration,   mobile  operator  promotions  and
+      certification services (the "SALE PRICE").
+
+4.    Within 30 days  following the end of each  calendar  quarter (a "REPORTING
+      PERIOD"),  Tira will provide  Developer with a report  ("ROYALTY  REPORT")
+      detailing the proceeds received by Tira from the Applications  during such
+      Reporting Period (identified by title or other appropriate identifier) and
+      the Royalty to be paid to the  Developer.  Provided  that the Developer is
+      not in  breach  of  any  of its  obligations  under  this  Agreement,  the
+      Developer's  Royalty shall by paid to the Developer  within 45 days of the
+      end of the  Reporting  Period to which such Royalty  relates.  The Royalty
+      Report may be made available electronically,  provided in writing, or made
+      available for viewing by the  Developer at a secure or password  protected
+      location on a web site designated by Tira for such purpose.
+
+5.    If there is a disagreement  relating to the  calculation of any amount set
+      out in the Royalty Report, such disagreement shall be resolved mutually in
+      accordance with the procedures detailed in Section II below.
+
+II. DISPUTE RESOLUTION
+
+In the event there is a disagreement relating to the calculation of the Royalty,
+the  parties  will  attempt  to settle  such  disagreement  or  dispute  through
+consultation  and negotiation in good faith. If those attempts fail to achieve a
+settlement,  then the dispute will be mediated by a mutually acceptable mediator
+to be chosen by the  parties  within 45 days of written  notice by either  party
+demanding  mediation.  Neither party may  unreasonably  withhold  consent to the
+selection  of the  mediator,  and the  parties  shall  share  the  costs  of the
+mediation  equally.  The mediation  shall be conducted  within 30 days after the
+selection  of the  mediator.  The  parties  may also  mutually  agree to replace
+mediation  with some other  form of  alternate  dispute  resolution  (ADR).  Any
+dispute  which  cannot be  resolved  between the  parties  through  negotiation,
+mediation  or other form of ADR  within  six  months of the date of the  initial
+demand for  mediation or ADR may then be submitted to the courts for  resolution
+in accordance with Section 17 of the Agreement.  At Developer's  request (but no
+more  often  than once  annually),  Developer  shall have the right to appoint a
+professional  auditing firm to enter Tira's premises during normal working hours
+to audit the  calculation of the Royalty.  Any such audit shall be undertaken in
+
+                                                                               7
+
+<PAGE>
+
+the presence of an authorized  agent of Tira, and shall be limited to reasonable
+inquiries to determine  whether an  infringement of this Agreement has occurred.
+Developer  shall provide Tira with written  notice of its intent to conduct such
+an audit at least 10  business  days prior to such  audit.  If this  examination
+reveals that Developer has not been paid the  appropriate  Royalty as prescribed
+in this Agreement,  Tira will promptly pay Developer any deficiency,  and if the
+fees owing to Developer  exceed 5% of the fees  actually  paid,  then Tira shall
+also pay Developer's reasonable costs of conducting such examination.
+
+                                                                               8
+
+<PAGE>
+
+                                  SCHEDULE "C"
+
+                                    CHANNELS
+North America:
+
+         Rogers AT&T Wireless
+         Telus Mobility
+         Bell Mobility
+         AT&T Wireless
+         Cingular
+         Sprint
+         Nextel
+
+Europe:
+
+         3 (Hutchison 3G)
+         Orange
+         Vodaphone
+         Telephonica
+         T-Mobil
+         MMO2
+         Mobilkom Austria
+
+Mobile Portals:
+
+         Handango
+         End2End
+         Motorola
+         Telecom1
+         Jamba
+
+
+DATE SIGNED
+           -----------------
+APPROVED BY:
+            ------------------------(DEVELOPER)
+
+ISSUED BY:
+          ----------------------------(TIRA)
+
+                                                                               9
+
+
+
+</TEXT>
+</DOCUMENT>

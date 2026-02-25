@@ -1,0 +1,732 @@
+<DOCUMENT>
+<TYPE>EX-2.2
+<SEQUENCE>4
+<FILENAME>v87074exv2w2.txt
+<DESCRIPTION>EXHIBIT 2.2
+<TEXT>
+<PAGE>
+                                                                     EXHIBIT 2.2
+
+                                                                       EXHIBIT A
+
+                       TECHNOLOGY CROSS-LICENSE AGREEMENT
+
+         This TECHNOLOGY CROSS-LICENSE AGREEMENT (this "AGREEMENT") is entered
+into on December 31, 2002, by and between Spacelabs Medical, Inc., a California
+corporation ("SPACELABS"), and Spacelabs Burdick, Inc., a Delaware corporation
+("BURDICK"). The effective date of this Agreement shall be the Closing Date
+contemplated by the Stock Purchase Agreement dated December 23, 2002 among
+Spacelabs, Burdick and certain other parties (the "EFFECTIVE DATE").
+
+         WHEREAS, Spacelabs is a company engaged in the business of developing,
+manufacturing, marketing, and servicing patient monitoring, diagnostic
+cardiology and clinical information systems products for use throughout the
+healthcare industry directly and indirectly through its wholly-owned
+subsidiaries;
+
+         WHEREAS, Burdick is in the business of developing, manufacturing,
+marketing and servicing diagnostic cardiology, vital sign database management,
+and other health related diagnostic products and services for use in primary and
+acute care facilities; and
+
+         WHEREAS, the parties wish to enter into this Agreement to provide for
+the terms on which each of the parties shall license to the other certain
+technologies and related intellectual property that it owns relating to
+electrocardiograph devices and associated patient monitoring databases and
+tools;
+
+         NOW THEREFORE, in consideration of the premises and the mutual
+agreements set forth herein, the parties hereto agree as follows:
+
+A.       DEFINITIONS
+
+         1.       "AFFILIATES" means, with respect to any party, any entity that
+controls, is controlled by, or is under common control with, such party. For the
+sake of clarity, "AFFILIATES" shall include, with respect to Spacelabs,
+Instrumentarium and all of its Affiliates and with respect to Burdick, Quinton
+Cardiology Systems, Inc. and all of its Affiliates.
+
+         2.       "BURDICK LICENSED TECHNOLOGY" means: (a) Burdick's proprietary
+'Pyramis(R)' ECG Management System technology, including all designs, concepts,
+software, specifications, documentation and related know-how, as such technology
+exists on the Effective Date, but excluding any licensed third party
+technologies that may not be freely distributed; (b) any right, title and
+interest Burdick has in or to those databases listed on Schedule C, including
+the complete electronic files and related annotations and interpretations,
+together with any software tools developed to aid in the use of such databases
+and any notes, specifications or other documentation related to the use or
+development of such tools, as such technology exists on the Effective Date; (c)
+any right, title and interest Spacelabs does not already have (if any) in the
+Heart Rate Variability algorithm developed in conjunction with the University of
+Rochester, as such algorithm exists on the Effective Date; and (d) any and all
+improvements made by or licensed to
+
+                                       -1-
+
+[*]  designates portions of this document that have been omitted pursuant to a
+     request for confidential treatment filed separately with the Commission.
+
+<PAGE>
+
+                                                                       EXHIBIT A
+
+Burdick relating to the University of Glasgow GRI algorithm, whether made prior
+to or at any time after the Effective Date.
+
+         3.       "ECG TECHNOLOGY" means all technology associated with the
+Cosmos and Polaris projects, including designs, processes, methods, ideas,
+algorithms, know-how, components, specifications, plans, schematics, tools,
+hardware, software, firmware, notes, databases, reports, written materials and
+other intellectual property of any kind, including without limitation the
+technology set forth on Schedule A, whether or not patentable, together with any
+patents or patent applications now or hereafter existing relating thereto. For
+avoidance of doubt, the ECG Technology does not include any portion of the
+Burdick Licensed Technology.
+
+         4.       "SPACELABS LICENSED TECHNOLOGY" means (a) the designs,
+concepts, software, specifications, documentation and related know-how embodied
+in the Spacelabs 12-lead electrocardiograph product specifically described on
+Schedule B, as such intellectual property exists on the Effective Date; (b) any
+right, title and interest Spacelabs has in or to those databases listed on
+Schedule C, including the complete electronic files and related annotations and
+interpretations, together with any software tools developed to aid in the use of
+such databases and any notes, specifications or other documentation related to
+the use or development of such tools, as such technology exists on the Effective
+Date; (c) any right, title and interest Spacelabs has in or to the Heart Rate
+Variability algorithm developed in conjunction with the University of Rochester,
+as such algorithm exists on the Effective Date; and (d) any and all improvements
+made by or licensed to Spacelabs relating to the University of Glasgow GRI
+algorithm, whether made prior to or at any time after the Effective Date. The
+parties acknowledge that the Spacelabs Licensed Technology expressly excludes
+intellectual property that relates to (i) respiration monitoring or measurement,
+(ii) Multiview arrhythmia or (iii) Multiview ST analysis.
+
+B.       OWNERSHIP AND CROSS-LICENSE OF ECG TECHNOLOGY AND RELATED TECHNOLOGY
+
+         1.       Ownership.
+
+                  (a)      ECG Technology. The parties acknowledge and agree
+that, as between Spacelabs and Burdick, and regardless of inventorship or any
+joint or derivative efforts of either party with respect to development thereof
+occurring prior to the Effective Date, Spacelabs is the owner of the ECG
+Technology, and to the extent that Burdick has any ownership interest therein
+Burdick hereby assigns such interest to Spacelabs.
+
+                  (b)      Pyramis Technology. The parties acknowledge and agree
+that, as between Spacelabs and Burdick, Burdick is the owner of the
+Pyramis(R)ECG Management System. Nothing in this Agreement shall be construed as
+transferring any ownership interest in the Pyramis technology to Spacelabs.
+
+                  (c)      Modifications, Enhancements and Derivative Works.
+Each party shall have the right to make modifications to, enhancements relating
+to, or derivative works of any copyrighted works licensed to it by the other
+party. In all cases, subject to licensor's rights in the
+
+                                       -2-
+
+[*]  designates portions of this document that have been omitted pursuant to a
+     request for confidential treatment filed separately with the Commission.
+
+<PAGE>
+
+                                                                       EXHIBIT A
+
+underlying technology, the party creating such modifications, enhancements or
+derivative works shall own such modifications, enhancements or derivative works.
+
+                  2.       Grant of License by Spacelabs. Spacelabs hereby
+grants to Burdick and its Affiliates a perpetual, irrevocable, worldwide,
+nonexclusive, royalty-free license under all proprietary rights pertaining to
+the Spacelabs Licensed Technology to use, make, have made, import, publish,
+distribute, display, copy, have copied, modify and create derivative works of
+the Spacelabs Licensed Technology and to use, make, have made, import, market,
+promote, distribute, sell, lease, license, loan and otherwise dispose of
+products based on, using or incorporating the Spacelabs Licensed Technology.
+Burdick may utilize contract manufacturers and one or more tiers of third party
+distributors in connection with the foregoing license, provided that any such
+contract manufacturer and third party distributors will be granted a sublicense
+of the foregoing rights only to the extent necessary or useful to (a) make the
+Spacelabs Licensed Technology and products based on, using or incorporating the
+Spacelabs Licensed Technology (in the case of contract manufacturers) and (b)
+publish, distribute and copy the Spacelabs Licensed Technology and market,
+promote, distribute, sell, lease and license products based on, using or
+incorporating the Spacelabs Licensed Technology (in the case of third party
+distributors); provided that Burdick enters into a sublicense agreement with any
+such contract manufacturer and third party distributors that is reasonably
+designed to protect Spacelabs' proprietary interest in such Spacelabs Licensed
+Technology, including any know-how. Other than the sublicenses expressly
+permitted above, Burdick will not sell, assign, sublicense or otherwise dispose
+of its license rights under this Agreement other than in connection with a
+permitted assignment of this Agreement.
+
+         Except with respect to the University of Glasgow GRI algorithm, any
+modifications, enhancements or improvements to the Spacelabs Licensed Technology
+made by Spacelabs after the Effective Date are not included within such license,
+and Spacelabs shall have no obligation to make any such modifications,
+enhancements or improvements, or to update, upgrade, correct, fix or repair any
+such Technology. However, notwithstanding the foregoing, Spacelabs shall, if it
+becomes aware or has reason to believe that the Spacelabs Licensed Technology
+has materially contributed to or caused a death or serious injury, or that the
+Spacelabs Licensed Technology has malfunctioned and that if such malfunction
+were to occur again it could cause death or serious injury, then (a) Spacelabs
+shall use its best efforts to notify Burdick orally within 24 hours of first
+becoming aware of such occurrence or malfunction, and to confirm such
+notification by telefax within 24 hours of such oral notice, and (b) if
+Spacelabs makes a modification to the Spacelabs Licensed Technology to correct
+such malfunction or defect, Spacelabs shall inform Burdick promptly and provide
+all information required to allow Burdick to implement a similar modification,
+which modification shall be included within this license grant.
+
+         Spacelabs shall deliver all tangible documentation and other materials
+(including all reports, validation test results, source code, requirements
+documents, design specifications, design review notes, design notebooks,
+software development and build notes, and the like) necessary for Burdick to use
+the Spacelabs Licensed Technology within 30 days of the Effective Date and, with
+respect to any improvements made or licensed by Spacelabs relating to the
+University of Glasgow
+
+                                       -3-
+
+[*]  designates portions of this document that have been omitted pursuant to a
+     request for confidential treatment filed separately with the Commission.
+
+<PAGE>
+
+                                                                       EXHIBIT A
+
+GRI algorithm subsequent to the Effective Date, within 30 days after such
+improvements are made or licensed.
+
+         3.       Grant of License by Burdick. Burdick hereby grants to
+Spacelabs and its Affiliates a perpetual, irrevocable, worldwide, nonexclusive,
+royalty-free license under all proprietary rights pertaining to the Burdick
+Licensed Technology to use, make, have made, import, publish, distribute,
+display, copy, have copied, modify and create derivative works of the Burdick
+Licensed Technology and to use, make, have made, import, market, promote,
+distribute, sell, lease, license, loan and otherwise dispose of products based
+on, using or incorporating the Burdick Licensed Technology. Spacelabs may
+utilize contract manufacturers and one or more tiers of third party distributors
+in connection with the foregoing license, provided that any such contract
+manufacturer and third party distributors will be granted a sublicense of the
+foregoing rights only to the extent necessary or useful to (a) make the Burdick
+Licensed Technology and products based on, using or incorporating the Burdick
+Licensed Technology (in the case of contract manufacturers) and (b) publish,
+distribute and copy the Burdick Licensed Technology and market, promote,
+distribute, sell, lease and license products based on, using or incorporating
+the Burdick Licensed Technology (in the case of third party distributors);
+provided that Spacelabs enters into a sublicense agreement with any such
+contract manufacturer and third party distributors that is reasonably designed
+to protect Burdicks' proprietary interest in such Burdick Licensed Technology,
+including any know-how. Other than the sublicenses expressly permitted above,
+Spacelabs will not sell, assign, sublicense or otherwise dispose of its license
+rights under this Agreement other than in connection with a permitted assignment
+of this Agreement.'
+
+                  Except with respect to the University of Glasgow GRI
+algorithm, any modifications, enhancements or improvements to the Burdick
+Licensed Technology made by Burdick after the Effective Date are not included
+within such license, and Burdick shall have no obligations to make any such
+modifications, enhancements or improvements, or to update, upgrade, correct, fix
+or repair any such Technology. However, notwithstanding the foregoing, Burdick
+shall, if it becomes aware or has reason to believe that the Burdick Licensed
+Technology has materially contributed to or caused a death or serious injury, or
+that the Burdick Licensed Technology has malfunctioned and that if such
+malfunction were to occur again it could cause death or serious injury, (a)
+Burdick shall use its best efforts to notify Spacelabs orally within 24 hours of
+first becoming aware of such occurrence or malfunction, and to confirm such
+notification by telefax within 24 hours of such oral notice, and (b) if Burdick
+makes a modification to the Burdick Licensed Technology to correct such
+malfunction or defect, Burdick shall inform Spacelabs promptly and provide all
+information required to allow Spacelabs to implement a similar modification,
+which modification shall be included within this license grant.
+
+                  Burdick shall deliver all tangible documentation and other
+materials (including all reports, validation test results, source code,
+requirements documents, design specifications, design review notes, design
+notebooks, software development and build notes, and the like) necessary for
+Spacelabs to use the Burdick Licensed Technology within 30 days of the Effective
+Date and, with respect to any improvements made or licensed by Burdick relating
+to the University of Glasgow GRI algorithm subsequent to the Effective Date,
+within 30 days after such improvements are made or licensed..
+
+                                       -4-
+
+[*]  designates portions of this document that have been omitted pursuant to a
+     request for confidential treatment filed separately with the Commission.
+
+<PAGE>
+
+                                                                       EXHIBIT A
+
+         4.       Reservation of Rights. All rights not expressly granted to a
+party hereunder are reserved. Nothing in this Agreement shall require either
+party to pursue any new patent or to take any action with respect to any
+existing patent or patent application, except as expressly set forth in this
+Agreement. Nothing in this Agreement shall be construed as granting either party
+a license to use the other's tradenames, trademarks, servicemarks or other
+branding.
+
+         4A.      Termination of Rights with Respect to GRI Improvements. In the
+event that either party's Research Agreement or the Consultancy Agreement
+between such party and the University of Glasgow terminates or ceases to be in
+effect, the parties will cease to share, and the definition of Spacelabs
+Licensed Technology and Burdick Licensed Technology will be amended so that they
+no longer include, any improvements made by or licensed to either party relating
+to the University of Glasgow GRI algorithm made or licensed after the date on
+which such Research Agreement or Consultancy Agreement was terminated.
+
+         4B.      Termination of Certain Rights in Pyramis Technology. In the
+event that Spacelabs or any Affiliate of Spacelabs consummates any merger, sale
+of assets or sale of shares with the General Electric Company or any Affiliate
+of the General Electric Company or any transaction or series of transactions
+pursuant to which the General Electric Company or any Affiliate of the General
+Electric Company acquires ownership or control of Spacelabs or any Affiliate of
+Spacelabs, then clause (a) of the above definition of "BURDICK LICENSED
+TECHNOLOGY" shall be revised as follows: (a) Burdick's proprietary `Pyramis(R)'
+ECG Management System technology, including all designs, concepts, software,
+specifications, documentation and related know-how to the extent necessary to
+maintain the interface described in Schedule D, as such technology exists on the
+Effective Date, but excluding any licensed third party technologies that may not
+be freely distributed. In such event, Spacelabs shall return to Burdick or
+destroy any and all information, documentation and other materials (including
+all reports, validation test results, source code, requirements documents,
+design specifications, design review notes, design notebooks, software
+development and build notes, and the like) that contains, discloses,
+incorporates or embodies Burdick's proprietary `Pyramis(R)' ECG Management
+System technology, including all designs, concepts, software, specifications,
+documentation and related know-how other than information, documentation and
+materials that are required to exercise the license to maintain the interface
+described in Schedule D. Upon request, Spacelabs will certify that all
+information, documentation and materials have been delivered and no such
+information, documentation or materials remain in Spacelabs possession or
+control.
+
+         None of Spacelabs, any Affiliate of Spacelabs or any permitted
+successor or assign of Spacelabs will commence any claim, suit, action or
+proceeding of any kind against Burdick, its Affiliates or permitted successors
+and assigns based on or relating to any products, information, technology,
+inventions, know-how, designs, works of authorship, computer code, algorithms,
+methodologies, and other items or materials that are developed, authored,
+created, invented, written, reduced to practice, or otherwise made at any time
+prior to July 1, 2004 using, based on or incorporating any Burdick Licensed
+Technology. Spacelabs further covenants and agrees that until July 1, 2004
+Spacelabs will not disclose or sublicense any `Pyramis(R)' ECG Management System
+technology, including all designs, concepts, software, specifications,
+documentation and
+
+                                       -5-
+
+[*]  designates portions of this document that have been omitted pursuant to a
+     request for confidential treatment filed separately with the Commission.
+
+<PAGE>
+
+                                                                       EXHIBIT A
+
+related know-how and all related information, documentation or materials
+(including all reports, validation test results, source code, requirements
+documents, design specifications, design review notes, design notebooks,
+software development and build notes and the like) delivered or possessed by
+Spacelabs, and after July 1, 2004 Spacelabs will only do so to the extent
+permitted in Section 3 above.
+
+         5.       Trade Secrets and Know-How. To the extent that either party
+discloses to the other any trade secrets, know-how or other proprietary,
+non-public information in connection with the licenses granted by this
+Agreement, each party acknowledges and agrees that such information constitutes
+valuable trade secrets of the disclosing party, and that it shall use such
+information solely for the purposes permitted herein, and shall not disclose
+such trade secrets, know-how or other proprietary, non-public information to any
+third party, except where appropriate steps have been taken to ensure that the
+confidentiality of such information shall be preserved. Notwithstanding the
+foregoing, this paragraph shall not apply to any information which (a) was known
+to the recipient prior to disclosure by the disclosing party (without limiting
+the protections under that certain Non-solicitation and Non-disclosure Agreement
+dated of even date herewith afforded to any proprietary, non-public information
+of either party that are known by the other party as of the date hereof), (b)
+was obtained by the recipient from a separate source not under any obligation to
+keep such information confidential, (c) was independently developed by the
+recipient, or (d) is or becomes publicly available through no fault or action of
+the recipient.
+
+         6.       Maintenance of Interface. For so long as Spacelabs sells ECG
+monitoring products that provide output designed to work with the interface
+specified on Schedule D, Burdick shall maintain the current interface (as
+specified on Schedule D) between the Pyramis(R) ECG Management System and
+Spacelabs ECG monitor products, and shall incorporate such interface in all
+future versions of the Pyramis(R) ECG Management System and any other ECG data
+management products it may develop in the future. In addition, Burdick shall
+provide to Spacelabs all documents, specifications and other information and
+materials that are in Burdick's possession and that Spacelabs reasonably
+requires in order to implement such interface into its monitoring products and
+to obtain any regulatory approvals with respect to such interface. In order to
+facilitate the parties' maintenance of the interface in light of future product
+development activities, Spacelabs shall promptly provide to Burdick free of any
+additional charge any and all information, documentation, specifications,
+equipment, machinery, software, consultation and cooperation that Burdick may
+reasonably require in order to perform its obligations hereunder. In addition,
+Burdick shall sell to Spacelabs a reasonable amount of its products as
+reasonably required by Spacelabs for testing and validation of the interface
+described above at a cost equal to one hundred twenty percent (120%) of the full
+manufacturing cost of such products, upon the condition that such products shall
+be for internal development and validation use only and not for resale. The
+parties acknowledge that the aforementioned sale and use of such products shall
+not convey any ownership of or license to any intellectual property rights of
+the other party except as expressly granted hereunder. For avoidance of doubt,
+Spacelabs cannot require Burdick and Burdick has the right but not the
+obligation to change the interface to accommodate different outputs from
+Spacelabs. In the event that Burdick determines that the maintenance of the
+interface pursuant to this Agreement would be discontinued but for the
+obligations herein, Burdick shall notify Spacelabs. If after receipt of such
+notice, Spacelabs undertakes to pay or
+
+                                       -6-
+
+[*]  designates portions of this document that have been omitted pursuant to a
+     request for confidential treatment filed separately with the Commission.
+
+<PAGE>
+
+                                                                       EXHIBIT A
+
+reimburse any royalties or other fees payable to third parties for any
+proprietary technology or other intellectual property or licenses used in
+connection with such interface as it exists on the Effective Date that are
+payable by Burdick, then Burdick shall continue to perform its obligations under
+this paragraph 6; otherwise, Burdick may terminate its obligations under this
+paragraph 6.
+
+         7.       Consultation. Each party shall, for a period of one year
+following the Effective Date, and for additional one year periods thereafter
+unless either party notifies the other within 90 days prior to the end of any
+such period that it does not wish to renew such commitment, it shall make up to
+80 hours per month of consultant time available to the other, at the rate of USD
+$[*] per hour, to assist with the implementation of the licensed technology.
+
+C.       REPRESENTATIONS AND WARRANTIES
+
+         1.       Limited Warranty. Spacelabs hereby represents and warrants
+that (a) it has the power and authority to enter into this Agreement, (b) it is
+the owner of, or has sufficient rights in, the technology in which it grants a
+license under this Agreement to grant such license, and (c) the technology in
+which it is granting a license under this Agreement shall, on the date
+delivered, be free from any computer virus. Burdick hereby represents and
+warrants that, with respect to any technology created by Burdick after the
+Effective Date and licensed to SpaceLabs hereunder, (i) Burdick is the owner of,
+or has sufficient rights in, such technology to grant the license under this
+Agreement, and (ii) such technology shall, on the date delivered, be free from
+any computer virus.
+
+         2.       NO OTHER WARRANTY. TO THE EXTENT PERMITTED BY LAW, EACH PARTY
+DISCLAIMS AND EXCLUDES ALL REPRESENTATIONS, WARRANTIES AND CONDITIONS, WHETHER
+EXPRESS, IMPLIED OR STATUTORY, OTHER THAN THOSE EXPRESSLY SET FORTH IN THIS
+SECTION C, INCLUDING BUT NOT LIMITED TO WARRANTIES OR CONDITIONS OF TITLE,
+NON-INFRINGEMENT, VALIDITY OR ENFORCEABILITY OF PATENTS, SATISFACTORY QUALITY,
+MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+D.       INDEMNIFICATION
+
+         Spacelabs shall indemnify, defend and hold Burdick and its Affiliates,
+successors, assigns, officers, directors, employees, agents and representatives
+harmless from any and all costs, damages, expenses and claims arising out of any
+claims made by any third parties ("CLAIMS") resulting from (a) Spacelab's use of
+any Burdick Licensed Technology (other than claims that use of any portion of
+the Burdick Licensed Technology that consists of improvements made by or
+licensed to Burdick relating to the University of Glasgow GRI algorithm and that
+was not modified by Spacelabs infringes a third party's intellectual property
+rights), including products liability or design defect claims, (b) Spacelab's
+modification of the Burdick Licensed Technology', including its use of such
+modification, (c) any breach by Spacelabs of its representations and warranties
+provided hereunder, or (d) any failure of Spacelabs to comply with any laws or
+regulations relating to its use of the Burdick Licensed Technology', including
+any export control laws. In addition, Spacelabs shall indemnify, defend and hold
+Burdick and its Affiliates, successors, assigns, officers, directors, employees,
+agents and representatives harmless from any
+
+                                       -7-
+
+[*]  designates portions of this document that have been omitted pursuant to a
+     request for confidential treatment filed separately with the Commission.
+
+<PAGE>
+
+                                                                       EXHIBIT A
+
+and all Claims that Burdick's use of the Spacelabs Licensed Technology
+infringes, violates or misappropriates a third party's intellectual property
+rights in existence at the time of the Effective Date (but only to the extent
+that such Claim is not based on any modification made by Burdick).
+
+         Burdick shall indemnify, defend and hold Spacelabs and its Affiliates,
+successors, assigns, officers, directors, employees, agents and representatives
+harmless from any and all Claims resulting from the following (a) Burdick's use
+of any Spacelabs Licensed Technology (other than claims that use of any portion
+of the Spacelabs Licensed Technology that was not modified by Burdick infringes
+a third party's intellectual property rights), including products liability or
+design defect claims, (b) Burdick's modification of the Spacelabs Licensed
+Technology, including its use of such modification, (c) any breach by Burdick of
+its representations and warranties provided hereunder, or (d) any failure of
+Burdick to comply with any laws or regulations relating to its use of the
+Spacelabs Licensed Technology, including any export control laws. In addition,
+Burdick shall indemnify, defend and hold Spacelabs and its Affiliates,
+successors, assigns, officers, directors, employees, agents and representatives
+harmless from any and all Claims that Spacelab's use of the portion of the
+Burdick Licensed Technology that consists of improvements made by Burdick
+relating to the University of Glasgow GRI algorithm infringes, violates or
+misappropriates a third party's intellectual property rights in existence at the
+time of the Effective Date (but only to the extent that such Claim is not based
+on any modification made by Spacelabs).
+
+         The party seeking indemnification under this Section D (the
+"INDEMNIFIED PARTY") shall (a) give the other party (the "INDEMNIFYING PARTY")
+prompt written notice of any Claim for which indemnification is sought
+hereunder, (b) not settle or compromise such Claim without the prior written
+consent of the Indemnifying Party, (c) permit the Indemnifying Party to control
+the defense and settlement of such Claim, and (d) comply with any settlement,
+judgment or court order made in connection with such Claim. The Indemnifying
+Party shall not, without the prior written consent of the Indemnified Party,
+enter into any settlement or consent to the entry of any judgment with respect
+to any such Claim (x) that contains any admission by or finding against the
+Indemnified Party, (y) that includes any relief to the claimant other than
+monetary relief to be paid in full by the Indemnifying Party, or (z) that does
+not include as an unconditional term thereof the giving by the claimant to the
+Indemnified Party a release of all liability in respect of such Claim. The
+Indemnified Party shall have the right to participate in the defense and
+settlement of any Claim with an attorney of its own choice at its own expense.
+
+         In the event the Claim is for infringement, violation, or
+misappropriation of a third party's intellectual property rights and is covered
+under this Section D, the Indemnifying Party shall have the option at its own
+expense to procure for the Indemnified Party the right to continue to exercise
+the rights licensed hereunder, or to replace the relevant material with
+non-infringing material, or modify the relevant material so that it no longer
+infringes, violates or misappropriates the applicable third party intellectual
+property rights.
+
+E.       LIMITATION OF LIABILITY
+
+         EXCEPT FOR THE OBLIGATIONS SET FORTH IN PARAGRAPH B.5 AND IN SECTION D,
+UNDER NO CIRCUMSTANCES SHALL EITHER PARTY BE ENTITLED TO
+
+                                       -8-
+
+[*]  designates portions of this document that have been omitted pursuant to a
+     request for confidential treatment filed separately with the Commission.
+
+<PAGE>
+
+                                                                       EXHIBIT A
+
+ANY LOST PROFITS, OR ANY CONSEQUENTIAL, INCIDENTAL, INDIRECT, SPECIAL OR
+PUNITIVE DAMAGES OF ANY NATURE WHATSOEVER, INCLUDING, WITHOUT LIMITATION, ANY
+DAMAGES ARISING OUT OF ANY MALFUNCTIONS, DELAYS, LOSS OF DATA, INTERRUPTION OF
+SERVICE OR LOSS OF BUSINESS OR ANTICIPATORY PROFITS, EVEN IF THE OTHER PARTY HAS
+BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+F.       MARKING AND ENFORCEMENT OF PATENTS
+
+         1.       Marking of Patents. To the extent directed by the holder of
+the patent, the other party shall ensure that each product manufactured,
+pursuant to the granted licenses and technology rights, contain a plate or other
+marking visible to a user that indicates the numbers of all patents under which
+the product has been manufactured, in conformity with the United States statutes
+relating to the marking of patented devices, and in compliance with the laws of
+any other countries that may be applicable thereto, and as otherwise reasonably
+instructed by the other party.
+
+         2.       Enforcement of Patents. Each party shall immediately notify
+the other in writing if it becomes aware of any infringement or suspected
+infringement by any third party of the technology that has been licensed to it
+under this Agreement. In the case of third party infringement or suspected
+infringement of a party's patent, the patent owner shall have sole discretion
+whether to pursue such infringer. If the owner notifies the other party that it
+chooses not to pursue such infringer, such other party may, at its own expense,
+pursue such infringer, and the owner shall reasonably cooperate with such other
+party; in such event, any damages award shall be allocable as follows: (a)
+first, to cover the parties' costs in connection with the enforcement action,
+(b) second, any portion of the damages award arising out of infringement that
+occurred prior to the Effective Date shall be allocable to the patent owner, (c)
+third, the damages award shall be allocable to the respective parties to
+compensate them for actual damages incurred and proven at trial (or if the
+enforcement action was settled, then in accordance with the terms of such
+settlement agreement), and (d) fourth, any portion of the award not allocable to
+costs or to compensate for actual damages suffered shall be divided ratably
+based on the allocation described in (c) above. In the case one party does
+initiate a legal action against an infringer, the other party may, at its own
+expense, join in such action.
+
+G.       NOTICES
+
+         All notices under this Agreement are to be delivered by (i) depositing
+the notice in the mail, using registered mail, return receipt requested,
+addressed to the address below or to any other address as the party may
+designate by providing notice, (ii) telecopying the notice by using the
+telephone number set forth below or any other telephone number as the party may
+designate by providing notice, (iii) overnight delivery service addressed to the
+address below or to any other address as the party may designate by providing
+notice, or (iv) hand delivery to the individual designated below or to any other
+individual as the party may designate by providing notice. The notice shall be
+deemed delivered (i) if by registered mail, four days after the notice's deposit
+in the
+
+                                       -9-
+
+[*]  designates portions of this document that have been omitted pursuant to a
+     request for confidential treatment filed separately with the Commission.
+
+<PAGE>
+
+                                                                       EXHIBIT A
+
+mail, (ii) if by telecopy, on the date the notice is delivered, (iii) if by
+overnight delivery service, on the day of delivery, and (iv) if by hand
+delivery, on the date of hand delivery.
+
+         If to Spacelabs:
+                        Spacelabs Medical, Inc
+                        15220 N.E. 40th Street
+                        P.O. Box 97013
+                        Redmond, WA 98073-9713
+                        Attention: Legal Department
+                        Facsimile: (425) 883-7091
+
+         If to Burdick:
+                        Quinton Cardiology Systems, Inc.
+                        3303 Monte Vista Parkway
+                        Bothell, WA 98021
+                        Attention: Chief Financial Officer
+                        Facsimile: (425) 402-2020
+
+H.       REMEDIES FOR BREACH OF AGREEMENT
+
+         In the event that either party fails to perform any material obligation
+under this Agreement, or breaches any representation or warranty contained
+herein, the defaulting party shall, cure such breach within 30 days of its
+receipt of written notice of such breach (the "CURE PERIOD"). In the event such
+party fails to cure such breach within the Cure Period or denies that any breach
+has occurred, the parties shall negotiate in good faith the remedy that shall
+apply as a result of such breach or alleged breach. In the event the parties are
+unable to mutually agree upon the proper remedy or resolution within 30 days of
+the expiration of the Cure Period, the matter shall be submitted to a steering
+committee comprising the Chief Executive Officer of each party (the "STEERING
+COMMITTEE"). The Steering Committee shall meet, at a location to be determined
+by the party alleging that the other party has breached (the "NON-BREACHING
+PARTY"), to review the issues and determine the appropriate remedy or
+resolution. If the Steering Committee is unable to reach agreement upon the
+appropriate remedy or resolution within 30 days of the matter being referred to
+the Steering Committee, the matter shall, upon the request of either party, be
+resolved by arbitration administered by JAMS in accordance with JAMS's
+Comprehensive Arbitration Rules and Procedures (the "Rules"), in Seattle,
+Washington, by three arbitrators selected in accordance with such Rules.
+Arbitration shall be conducted in the English language. The arbitrator shall be
+empowered to determine the appropriate remedy, including without limitation the
+award of monetary damages and the award of legal fees and costs to the
+prevailing party. The award of the arbitrator may be entered in any court having
+jurisdiction provided that it is accompanied by written findings of fact and
+conclusions of law. Nothing in this provision shall limit a party's right to
+seek a restraining order, temporary or permanent injunction or other equitable
+relief in any court having jurisdiction in the event of a breach or threatened
+breach of Section B.5.
+
+                                      -10-
+
+[*]  designates portions of this document that have been omitted pursuant to a
+     request for confidential treatment filed separately with the Commission.
+
+<PAGE>
+
+                                                                       EXHIBIT A
+
+I.       GENERAL PROVISIONS
+
+         1.       Complete Agreement. This Agreement is the complete and
+exclusive statement of the agreement between the parties, which supersedes and
+merges all prior proposals, understandings and all other agreements, oral or
+written, between the parties relating to this Agreement.
+
+         2.       Amendment. This Agreement may not be modified, altered or
+amended except by written instrument duly executed by both parties.
+
+         3.       Waiver. The waiver or failure of either party to exercise in
+any respect any right provided for in this Agreement shall not be deemed a
+waiver of any further right under this Agreement.
+
+         4.       Assignment. Neither party may assign or otherwise transfer
+this Agreement without the prior written consent of the other party, except that
+both parties may assign this Agreement without the necessity of first obtaining
+consent to any entity that purchases substantially all of the assets of such
+party or succeeds to and carries on the business of such party (whether by
+merger, other reorganization, transfer of ownership or control or otherwise)
+
+         5.       Severability. If any provision of this Agreement is invalid,
+illegal or unenforceable under any applicable statute or rule of law, it is to
+that extent to be deemed omitted. The remainder of the Agreement shall be valid
+and enforceable to the maximum extent possible.
+
+         6.       Governing Law. This Agreement and performance hereunder shall
+be governed by the laws of the State of Washington, excluding its choice of law
+principles to the contrary. Subject to Section H, the parties hereto irrevocably
+submit in any suit, action or proceeding arising out of or related to this
+Agreement or any of the transactions contemplated hereby to the jurisdiction of
+the federal and state courts sitting in King County, Washington and waive any
+and all objections to jurisdiction and forum non conveniens. Nothing in this
+provision shall limit a party's right to seek a restraining order, temporary or
+permanent injunction or other equitable relief in any court having jurisdiction
+in the event of a breach or threatened breach of Section B.5.
+
+         [REMAINDER OF PAGE INTENTIONALLY BLANK; SIGNATURE PAGE FOLLOWS]
+
+                                      -11-
+
+[*]  designates portions of this document that have been omitted pursuant to a
+     request for confidential treatment filed separately with the Commission.
+
+<PAGE>
+
+                                                                       EXHIBIT A
+
+         DATED AND EXECUTED on December 31, 2002 by duly authorized officers of
+the undersiged parties intending to be bound hereby.
+
+                                   SPACELABS:
+
+                                   SPACELABS MEDICAL, INC.
+
+                                   ___________________________________
+                                   By:  ____________________________
+                                   Its: ____________________________
+
+                                   BURDICK:
+
+                                   SPACELABS BURDICK, INC.
+
+                                   __________________________________
+                                   By:  ___________________________
+                                   Its: ___________________________
+
+                                      -12-
+
+[*]  designates portions of this document that have been omitted pursuant to a
+     request for confidential treatment filed separately with the Commission.
+
+<PAGE>
+
+                                                                       EXHIBIT A
+
+        List of Schedules Omitted from Technology Cross-License Agreement
+
+<TABLE>
+<CAPTION>
+Schedule
+--------
+<S>               <C>
+Schedule A        Description of Cosmos / Polaris ECG Technology
+Schedule B        Description of Spacelabs Licensed Technology
+Schedule C        Description of Databases
+Schedule D        Description of Current Interface Protocol
+</TABLE>
+
+                                      -13-
+
+</TEXT>
+</DOCUMENT>

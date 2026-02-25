@@ -1,0 +1,1750 @@
+<DOCUMENT>
+<TYPE>EX-10.76
+<SEQUENCE>9
+<FILENAME>f88421exv10w76.txt
+<DESCRIPTION>EXHIBIT 10.76
+<TEXT>
+<PAGE>
+                                                                   EXHIBIT 10.76
+
+                    MAXTOR STANDARD VOLUME PURCHASE AGREEMENT
+
+                                    PREAMBLE
+
+This Maxtor Standard Volume Purchase Agreement ("Agreement"), effective as of
+January 1, 2002 ("Effective Date") is made by and between Maxtor Corporation, a
+Delaware corporation, having principal places of business at 510 Cottonwood
+Drive, Milpitas, California 95035 U.S.A. and 2452 Clover Basin Drive, Longmont,
+Colorado 80503 U.S.A.("Maxtor"), and Agere Systems Inc., a Delaware company,
+having a place of business at 2 Oak Way, Berkeley Heights, New Jersey 07922
+("Ageret USA") and Agere Systems Singapore Pte. Ltd. d/b/a Agere Systems Asia
+Pacific, a Singapore corporation, having a place of business at 77 Science Park
+Drive, #03-18 Cintech III, Singapore 118256 ("Agere Singapore"), (both Agere
+entities are referred to herein as "Seller").
+
+                                    RECITALS
+
+Whereas, Seller is in the business of designing, manufacturing and selling
+         integrated circuits, both custom and standard, ("Product") for hard
+         disk drives and wishes to sell such Product to manufacturers of disk
+         drives such as Maxtor;
+
+Whereas, "Maxtor" shall include Maxtor Peripherals (S) Pte Ltd, having a place
+         of business at No 2 Ang Mo Kio Street 63, Ang Mo Kio Industrial Park 3,
+         Singapore 569111;
+
+Whereas, Maxtor wishes to secure a supply of Product and to purchase quantities
+         of such Product from Seller meeting the specifications furnished by
+         Agere in the case of standard products and meeting the specifications
+         agreed to in writing in the case of custom products (the
+         "Specifications") and operating in Maxtor's application
+         ("Application");
+
+Whereas, Maxtor may place orders for Product either on Agere USA or Agere
+         Singapore;
+
+Whereas, Seller shall manufacture and deliver to Maxtor, its agents, and/or its
+         subsidiaries, Product as set forth in this Agreement, including its
+         Terms and Conditions;
+
+Whereas, the parties recognize that the disk drive market is very demanding of
+         quality, timeliness, and price, and that the essence of the
+         relationship between Maxtor and Seller is flexibility; timely delivery
+         of necessary quantities of qualified, high-yield Products; and low
+         costs;
+
+Whereas, if problems should be encountered with respect to any aspect of this
+         Agreement or if the parties should encounter any problems not covered
+         by this Agreement, Maxtor and Seller shall discuss them in a
+         cooperative and sincere spirit and attempt to arrive at a mutually
+         acceptable solution; and
+
+Whereas, this Agreement commences on the Effective Date and terminates on
+         December 31, 2004, ("Termination Date") unless terminated earlier;
+
+NOW, THEREFORE, FOR GOOD AND VALUABLE CONSIDERATION, THE RECEIPT AND ADEQUACY OF
+WHICH IS HEREBY ACKNOWLEDGED, AND IN CONSIDERATION OF THE ABOVE PREMISES AND THE
+MUTUAL PROMISES CONTAINED IN THIS AGREEMENT, THE PARTIES AGREE AS FOLLOWS:
+
+                       MAXTOR/AGERE SYSTEMS CONFIDENTIAL
+
+<PAGE>
+
+                   MAXTOR STANDARD VOLUME PURCHASE AGREEMENT
+
+                              TERMS AND CONDITIONS
+
+                              ARTICLE I -- PRODUCTS
+
+1.1      PRODUCT.
+
+1.1.1    Purchase and Supply. Maxtor wishes to secure a supply of Product and to
+purchase quantities of such Product from Seller meeting the Specifications.
+Products shall be manufactured by Seller according to the functional, technical
+and other specifications in the data sheet furnished by Seller, in the case of
+standard products and those agreed upon by the parties in writing for each
+custom integrated circuit ("ASIC Product"). As used herein "Product" refers to
+both standard Products and ASIC Products unless the context suggests otherwise.
+Seller wishes to supply such Product to Maxtor on such conditions and on the
+terms and conditions of this Agreement. Therefore, subject to the terms and
+conditions of this Agreement, Maxtor will purchase and Seller will supply
+Product as provided herein for the term of this Agreement. Maxtor's obligation
+to purchase Product from Seller is contingent upon Seller's Product meeting
+Maxtor's Application requirements, time to market requirements, Product
+Specifications and functional requirements, price requirements, and the other
+terms and conditions of this Agreement. Nothing in this Agreement shall be
+construed as an obligation for Maxtor to purchase any Products, except as
+expressly provided in any Order (as defined below) issued by Maxtor or as
+expressly set forth in quotations accepted by Maxtor covering ASIC Products (See
+Section 1.1.6). This Agreement is not a requirements contract. Any Product
+purchased from Seller is covered under this Agreement whether or not the Order
+expressly references this Agreement.
+
+1.1.2    Specification. Specifications for standard Products will be furnished
+to Maxtor. Specifications for custom integrated circuits or ASIC Products shall
+be mutually agreed to in writing.
+
+1.1.3    Packing. Unless otherwise specified in this Agreement or an Order, all
+Products are to be packed and identified in accordance with customary industry
+practice. Packages shall be constructed for handling with a mechanical device. A
+complete packing list specifying Maxtor's applicable purchase order number,
+quantity of Products shipped, and part number shall be enclosed with all
+shipments under this Agreement. Seller shall mark each container with necessary
+lifting, loading and shipping information, including the applicable purchase
+order number, date of shipment, and name and address of Seller and Maxtor.
+
+1.1.4    Freedom of Action. Nothing in this Agreement shall prevent either party
+from engaging in similar business with other persons, including, without limit,
+competitors of the other party, provided that the confidentiality terms of this
+Agreement are not breached. Nothing in this Agreement shall prevent Seller from
+selling Products or the same or substantially similar goods or materials to
+other customers, provided that the confidentiality and intellectual property
+rights terms of this Agreement are not breached.
+
+1.1.5    Sole Source. Nothing in this Agreement will prevent Maxtor from
+procuring Products or the same or substantially similar goods or materials from
+other sources than Seller or from providing the same itself, provided that the
+confidentiality and intellectual property rights terms of this Agreement are not
+breached.
+
+1.1.6    Design and Development Terms for ASIC Product. From time to time Maxtor
+may enter into design and development agreements with Seller for ASIC Products.
+Any such development effort will be the subject of quotations provided by Seller
+covering the specific terms of such design and development ("Quotation"). The
+Quotation and the terms contained in Exhibit A apply with respect to any such
+design and development, in addition to the general terms and conditions
+contained herein. In the event of any conflict between the general terms of this
+Agreement and Exhibit A, concerning ASIC Products, Exhibit A prevails (but for
+all standard Products the general terms and conditions of this Agreement
+prevails). In the event of any such conflict with the Quotation and this
+Agreement or Exhibit A, the Quotation prevails. Notwithstanding the foregoing,
+any separate development agreements entered into between the parties prior to
+the date of this agreement (e.g. development agreements between Agere (or Lucent
+Technologies) and Quantum) will continue to govern the particular Products to
+which they relate, except that any terms and conditions of production will be
+superseded by the terms contained herein.
+
+1.2      WARRANTY. Each of Seller's warranties made hereunder is materially
+relied upon by Maxtor in entering into this Agreement or any Order.
+
+1.2.1    Authority Warranty. Each party represents and warrants that all
+corporate action necessary for the authorization, execution and delivery of this
+Agreement by such party and the performance of its obligations under this
+Agreement has been taken. Further, each party represents and warrants that
+neither the execution of this Agreement nor any performance of this Agreement
+shall conflict with or be prohibited by any interest, agreement, obligation,
+contract, order, law, regulation, or duty, oral or written, to which it is a
+party or by which it is bound.
+
+MAXTOR/AGERE CONFIDENTIAL
+
+                                        2
+
+<PAGE>
+
+                   MAXTOR STANDARD VOLUME PURCHASE AGREEMENT
+
+1.2.2    Product Warranty. Seller warrants the product as a production item
+("Item"), but not related services or prototypes of any such Items, to be free
+from defects in material and workmanship and to be in conformance with the
+written specification, if any, and referenced in an order accepted by Seller. If
+any defect in material or workmanship or failure to conform to such
+specification ("Defect") is suspected in any such Items, Maxtor, after obtaining
+a Returned Material Authorization number from Seller, shall ship suspected
+defective samples of the Items to Seller, following Seller's instructions
+regarding the return. No product will be accepted for replacement, credit or
+refund without the written authorization of and in accordance with Seller's
+instructions. Seller shall analyze the failures, making use, when appropriate,
+of technical information provided by Maxtor relating to the circumstances
+surrounding the failures. Seller will verify whether any Defect appears in the
+Items. If Seller determines that the returned products are not defective, Maxtor
+shall pay Seller all costs of handling, inspection, repairs and transportation
+at Seller's then prevailing rates. Seller shall, at Seller's s option, taking
+Maxtor's request into reasonable account, either credit or refund the purchase
+price, or replace the defective product without charge with the same or
+equivalent product provided: (i) Maxtor notifies Seller in writing of the
+claimed Defect within thirty (30) days after Maxtor knows or reasonably should
+know of the claimed Defect, (ii) Seller's examination of the Items discloses
+that the claimed Defect actually exists and (iii) in the case of any product
+other than packaged monolithic integrated circuits, the defect appears within
+twelve (12) months from the date of shipment of the product. In the event of a
+replacement, Seller shall ship the replacing Items FOB point of origin, freight
+prepaid to Maxtor's destination. Any replaced Item shall become Seller's
+property. The method of disposition of any replaced Items will be as mutually
+agreed by both parties in writing. In no event shall Seller be responsible for
+deinstallation or reinstallation of any Item or for the expenses thereof.
+Replacements covered by the above warranty are warranted to be free from defects
+as set forth above. Inspection and acceptance of Items by Maxtor and/or payment
+therefor shall not relieve Seller of responsibilities hereunder.
+
+The above warranty does not apply to, and Seller makes no warranties with
+respect to products that: are software programs, experimental products or
+prototypes (all of which are provided "AS IS") or to Items which have been
+subjected to misuse, neglect, accident or abuse or operating or environmental
+conditions that deviate from the parameters established in applicable
+specifications; or have been improperly installed, stored, maintained, repaired
+or altered by anyone other than Seller; or have had their serial numbers or
+month and year of manufacture or shipment removed, defected or altered. This
+warranty does not extend to any system into which a product is incorporated. NO
+OTHER WARRANTY, INCLUDING WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE IS GIVEN WITH RESPECT TO SUCH SERVICE OR ANY OTHER SERVICE
+PROVIDED BY SELLER UNDER THIS AGREEMENT. This warranty applies only to Maxtor
+and may not be assigned or extended by Maxtor to any of its customers or other
+users of the Items. Seller will not accept any returns from Maxtor's customers
+or users of Maxtor's products.
+
+EXCEPT AS STATED IN THE SECTION ENTITLED WARRANTY, SELLER, ITS SUBSIDIARIES AND
+AFFILIATES, SUBCONTRACTORS AND SUPPLIERS MAKE NO WARRANTIES, EXPRESS OR IMPLIED,
+AND SPECIFICALLY DISCLAIM ANY WARRANTY OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE. MAXTOR'S SOLE AND EXCLUSIVE REMEDY SHALL BE SELLER'S
+OBLIGATION TO REPLACE OR CREDIT OR REFUND AS SET FORTH ABOVE.
+
+1.3      REMEDIES.
+
+A.       For purposes of the exclusive remedies and limitations of liability set
+forth in this section, Seller shall be deemed to include Agere Systems Inc., its
+subsidiaries and affiliates and the directors, officers, employees, agents,
+representatives, subcontractors and suppliers of each of them; and "damages"
+shall be deemed to refer collectively to all injury, damage, loss or expense
+incurred.
+
+B.       Seller's entire liability and Maxtor's exclusive remedies against
+Seller for any damages caused by any product defect or failure, or arising from
+the performance or non-performance of any work, regardless of the form of
+action, whether in contract, tort including negligence, strict liability or
+otherwise shall be:
+
+         1.       For infringement, the remedies set forth in the section
+entitled intellectual property indemnity;
+
+         2.       For failure of product or work performed, the remedies stated
+in the section entitled Product Warranty;
+
+         3.       For failure to deliver or for delays in delivery of production
+quantities, Seller shall have no liability unless the delivery is delayed by
+more than fifteen(15) days by causes not attributable either to Maxtor or to
+conditions beyond Seller's reasonable control, in which case Maxtor shall have
+the right, as its sole remedy, to cancel the order without incurring
+cancellation charges;
+
+         4.       For bodily injury or death to any person proximately caused by
+Seller, Maxtor's right to proven direct damages; and
+
+         5.       For claims other than set forth above, seller's liability
+shall be limited to direct damages that are
+
+MAXTOR/AGERE CONFIDENTIAL
+
+                                        3
+
+<PAGE>
+
+                   MAXTOR STANDARD VOLUME PURCHASE AGREEMENT
+
+proven, in an amount not to exceed $100,000.
+
+C.       Notwithstanding any other provision of this agreement, Seller shall not
+be liable for incidental, indirect, special, exemplary or consequential damages
+or for lost profits, savings or revenues of any kind, whether or not seller has
+been advised of the possibility of such damages; provided, however, this
+limitation shall not apply to a breach of the confidentiality obligations of
+this Agreement if such breach is the result of intentional misconduct or gross
+negligence. This provision shall survive failure of an exclusive remedy.
+
+1.4      PRICES; DELIVERY; TAXES.
+
+1.4.1    Prices. The purchase price for Product will be set forth in price
+quotations provided by Seller to Maxtor from time to time during the term of
+this Agreement.
+
+1.4.2    Title, Delivery and Risk of Loss. Unless otherwise agreed to by the
+parties in writing, and provided that Seller's designated carrier is used,
+Seller will pay for freight to Maxtor's destination indicated on Order. Title
+(except as provided in Section 3.3, "Rights In Intellectual Property" or in
+Exhibit D for Consigned Product) and risk of loss or damage to the product shall
+pass to Maxtor at the time Seller delivers possession of the product to the
+carrier. Use of a carrier other than Seller's designated carrier shall be at
+additional cost to Maxtor, except if such other carrier is used because an Order
+is late.
+
+1.4.3    Taxes. Maxtor shall pay all duties and taxes including sales, use,
+property, excise, value added and gross receipts levied on this Agreement or the
+Products. Seller shall not collect an otherwise applicable tax if Maxtor's
+purchase is exempt from Seller's collection of such tax and a valid tax
+exemption certificate is furnished by Maxtor to Seller.
+
+
+
+                            ARTICLE II -- PROCEDURES
+
+2.1      QUALIFICATION.
+
+2.1.1    Qualification. The respective obligations of the parties pursuant to
+this Agreement shall be subject to the successful qualification of Seller's
+Product and its manufacturing process in Maxtor's Application, provided,
+however, that this will not relieve Maxtor of its obligations respecting any
+firm orders placed by Maxtor prior to such qualification provided the Product
+meets the Specifications. Maxtor and Seller shall cooperate to set up the
+necessary processes and procedures to accomplish and facilitate such
+qualification. Except for firm orders placed by Maxtor prior to qualification,
+Seller's Product must complete qualification by Maxtor in order to be tendered
+under this Agreement, and must consistently perform according to the qualified
+standard. After Maxtor's approval or acceptance of the initial qualification
+prototypes of the Products, any changes in the Product design, material or any
+processes used in producing the Product shall be subject to change notification
+in accordance with Exhibit B. Maxtor will use its reasonable commercial efforts
+to qualify and utilize Seller's Product in new or additional Applications.
+
+2.1.2    Changes. Seller shall promptly notify Maxtor in writing of any change
+in Product design, material, production process or in plant location in
+accordance with Seller's change notification policy outlined on Exhibit B in
+order to allow Maxtor to requalify the Product, before any Product is
+manufactured by the new design, material, process or in the new location and
+sold to Maxtor. Any Product delivered to Maxtor after such change and without
+change notification in accordance with Exhibit B may be rejected by Maxtor for a
+full refund. Notwithstanding the foregoing, in no event will Seller make any
+circuit design changes to an ASIC Product without Maxtor's written consent.
+
+2.2      Number Not Used
+
+2.3      FORECASTS. Maxtor shall forecast its requirements for Products to
+Seller, as provided below, on a non-binding basis, and Seller shall use its
+reasonable commercial efforts to maintain the ability to supply Maxtor's
+requirements from Seller. Notwithstanding the above, nothing in this Agreement
+shall be construed as an obligation for Maxtor to purchase any Products, except
+as expressly provided in any Order issued by Maxtor.
+
+MAXTOR/AGERE CONFIDENTIAL
+
+
+                                        4
+
+<PAGE>
+
+                   MAXTOR STANDARD VOLUME PURCHASE AGREEMENT
+
+                            ARTICLE II -- PROCEDURES
+
+2.3.1    Forecasts. During the term of this Agreement, Maxtor shall provide
+Seller, on a monthly basis, with a nine (9) month rolling forecast setting forth
+its estimated requirements and shall provide Orders based on its requirements
+for the first three (3) months of the forecast. Orders will be placed ninety
+(90) days in advance of the date as of which the Products are to be delivered.
+Seller shall be required to accept any Order consistent with the forecast and
+the terms contained herein. Maxtor may request a shorter lead time and Seller
+shall use its reasonable commercial efforts to meet such date. Maxtor's forecast
+is provided solely for Seller's convenience and for its planning purposes; no
+forecast shall be construed as an authorization by Maxtor to order any materials
+for, or to allocate any labor or equipment for the manufacture of the Product
+nor impose on Seller any obligation to supply additional Product. Maxtor will
+not be responsible for any of Seller's cost or expense for materials, Product,
+labor, or other commitments or expenses, other than as authorized in Orders or
+as otherwise expressly provided herein.
+
+2.3.2    Flexible Delivery; Upside capability
+
+a.       The parties acknowledge that the Flexible Delivery Agreement dated
+October 30, 2000 between Maxtor and Lucent Technologies Microelectronics Pte.
+Ltd. and assigned to Agere Singapore effective as of February 1, 2001, is hereby
+terminated and replaced in its entirety with the Flexible Delivery provisions
+set forth on Exhibit D, attached hereto and made a part hereof.
+
+b.       Seller agrees to accept Orders outside the forecast and ordering cycle
+("Upside Quantities") as follows:
+The Upside Quantities will depend upon the requested delivery time of Maxtor
+from the time the order for Upside Quantities is placed (RDT) and the applicable
+percentage applied to the quantity of Product ordered by Maxtor for the then
+current quarter ('CQ").
+
+<TABLE>
+<CAPTION>
+RDT                         Upside Quantity
+<S>                         <C>
+* weeks                         * of CQ
+* weeks                         * of CQ
+* weeks                         * of CQ
+</TABLE>
+
+2.4      ORDERS.
+
+2.4.1    Orders. All purchases and sales shall be initiated by Maxtor's issuance
+of written purchase orders sent via airmail, facsimile or courier ("Order").
+Such Orders shall reference this Agreement and state the unit quantities, unit
+descriptions, price, requested delivery dates and shipment instructions. Such
+stated items included in an Order shall be consistent with the terms and
+conditions contained herein. The acceptance or rejection by Seller of an Order
+shall be indicated by written acknowledgment within five (5) work days. By
+shipping the Products, or by confirming or accepting an Order, or by performing
+the work described in an Order Seller agrees to the Order and to the terms and
+conditions of this Agreement. All Orders meeting the terms and conditions of
+this Agreement shall be accepted by Seller. Nothing in this Agreement shall be
+construed as an obligation for Maxtor to purchase any Products, except as
+expressly provided in any Order issued by Maxtor.
+
+2.4.2    Objections. Each Order is placed subject to the terms and conditions of
+this Agreement. Accordingly, if Seller objects to any of the terms of an Order,
+Seller must notify Maxtor in writing stating the specific terms objected to, the
+reasons for the objection and the wording proposed to be substituted before
+Seller's acceptance of such Order. Under no circumstances will Seller's
+objection notice itself constitute a modification of the terms of an Order. No
+modification of this Agreement will be effective unless made in writing signed
+by both parties, which expressly intends to modify this Agreement. The
+preprinted terms and conditions of purchase orders, acceptances, confirmations
+and similar business documents shall have no effect as amendments of, objections
+to, or modifications of this Agreement. Any different or additional terms in
+Orders or Seller's acceptance of this Agreement will be construed as proposals
+for additions to this Agreement and will not be binding unless agreed to in
+writing by both parties.
+
+2.4.3    Precedences. Any terms and conditions added or referenced by either
+party in any purchase order, confirmation, acceptance or any similar document
+purporting to modify the terms and conditions contained in this Agreement, shall
+be disregarded unless expressly agreed upon in writing signed by the parties,
+which expressly amends this Agreement. The preprinted terms and conditions of
+purchase orders, acceptances, confirmations and similar business documents shall
+have no effect as amendments of, objections to, or modifications of this
+Agreement.
+
+2.4.4    End of Life. In the event that Seller determines that a Product is at
+end of life, Seller shall give Maxtor at least three (3) months advanced notice
+of such projected end of life. Such notice shall include the planned last
+purchase order date and the planned last shipment date for the end of life
+
+
+* Indicates portions redacted pursuant to a Confidential Treatment Request
+  filed separately with the Securities and Exchange Commission.
+
+
+MAXTOR/AGERE CONFIDENTIAL
+
+                                        5
+
+<PAGE>
+
+                   MAXTOR STANDARD VOLUME PURCHASE AGREEMENT
+
+Product. Notwithstanding the foregoing, during the term of this Agreement,
+Seller agrees that for Maxtor sole sourced Product, Seller will supply such
+Products through the life of the Maxtor HDD program or programs that use this
+Product or either provide a mutually agreeable alternative part that is
+compatible with the part that is being phased out or give Maxtor at least twelve
+months advanced notice of such projected end of life.
+
+2.4.5    End of Term. In the event of the expiration or termination of this
+Agreement, any Orders placed before such expiration or termination shall be
+completed according to the terms of this Agreement.
+
+2.5      INSPECTION. Maxtor and Seller shall cooperate to inspect Products, and
+nothing in this section shall limit Maxtor's other rights and remedies.
+
+2.5.1    Inspection by Maxtor. Maxtor may test each lot or Order of Product to
+ensure that the Products meet the Specifications and acceptance criteria as may
+be established by mutual agreement, and Seller shall not ship any Products that
+do not Conform. Any inspection and testing by Maxtor will be performed at
+Maxtor's facility. However, Seller will permit Maxtor the right to audit its
+facilities and inspect Product (including raw materials, components,
+subassemblies and end products) before, during and after manufacture, once a
+year or more frequently in writing if agreed to by Seller or in the event that
+there has been a lot rejection under Section 2.5.3. Where applicable, Maxtor
+may, at its option, inspect all Products or inspect a statistical sample
+selected from each lot, and Product, lots or Orders may be inspected more than
+once.
+
+2.5.2    Inspection by Seller. Seller will ensure that all Product are tested to
+assure that Products meet the applicable Specifications.. Seller will provide
+only those Product conforming to the Specifications, unless Seller has obtained
+prior written approval from Maxtor for any deviation from such Specifications.
+Seller further agrees to maintain adequate authenticated inspection test
+documents that relate to work performed under this Agreement. Such records shall
+be retained by Seller for a period of three (3) years after completion of this
+Agreement and made available to Maxtor upon request. Seller agrees to supply
+Maxtor with inspection and test reports, certifications or any other inspection
+and test documents as may be reasonably requested.
+
+2.5.3    In Case of Failure of Inspection. If the above inspection or testing
+detects Products which nonconform to the Specifications or the requirements of
+this Agreement, Maxtor and Seller will closely cooperate to identify and find a
+way to correct the causes of the problem(s). Maxtor may refuse to accept Product
+which do not conform. Maxtor may reject entire lots or Orders if lot acceptance
+criteria mutually agreed to by the parties are not fulfilled; provided that any
+canceled portion of an Order shall nevertheless be counted as purchased for
+purposes of determining Maxtor's right to any quantity discounts. The rejected
+Product may, at Maxtor's discretion, be returned to Seller at Seller's expense.
+Maxtor may immediately stop future shipments of Product until the cause(s) for
+non-conformity, as mutually determined by parties, has been corrected. Maxtor
+will use its reasonable commercial efforts to assist Seller in identifying the
+cause(s) for rejection.
+
+2.6      SHIPPING.
+
+2.6.2    Timeliness. Seller shall use its diligent efforts to meet a one hundred
+percent (100%) on-time delivery commitment. If Seller's performance falls below
+one hundred percent (100%) on-time deliveries, then Seller shall implement a
+corrective action plan acceptable to Maxtor which brings the deliveries back to
+one hundred percent (100%) on-time. If Seller is unable to deliver any Product
+on schedule, Seller shall promptly notify Maxtor giving a new delivery date, and
+Maxtor may:
+
+         (i.)     accept the new delivery date; or
+
+         (ii.)    reschedule the delivery by means of a Change Order; or
+
+         (iii.)   if the delay is in excess of fifteen days, cancel the delayed
+portion of the Order without liability; provided that any canceled portion of an
+Order shall nevertheless be counted as purchased for purposes of determining
+Maxtor's right to any quantity discounts.
+
+         At Maxtor's request, Seller will provide Maxtor with daily notification
+of shipping delays or of the progress of delayed Products in transit. Such
+notification will include action plans to for recovery or expediting of the
+affected Product. Seller shall provide Maxtor notice of the departure of any
+shipment of Product from Seller's site.
+
+2.7      DELIVERY.
+
+2.7.1    Delivery Document. Either invoice or delivery order may be used when
+making deliveries. Each set must contain three (3) copies. Each copy must show
+this Agreement number, item number and description of Products, purchase order
+number, and quantity of Products shipped. Bills of Lading shall be mailed in
+triplicate to the destination address shown on the face of the Order, or to the
+consignee of the Order on the day shipment is made. All documents accompanying
+the Products shall reference the purchase order number and; if not, Maxtor shall
+have the right to reject delivery and return the Products at Seller's expense.
+
+
+MAXTOR/AGERE CONFIDENTIAL
+
+                                        6
+
+<PAGE>
+
+                    MAXTOR STANDARD VOLUME PURCHASE AGREEMENT
+
+
+2.7.2    Delivery Early or Late. If Seller's deliveries fail to meet schedule,
+Maxtor, without limiting its other rights and remedies, may:
+
+         (i.)     In the case of late Products:
+
+                  (a.)     direct expedited routing, and any excess costs for
+such expedited routing shall be paid by Seller; or
+
+                  (b.)     cancel the delayed portion as permitted under Section
+2.6.2;
+
+         (ii.)    In the case of early Products
+
+                  (a.)     return the Products at Seller's expense for proper
+delivery; or
+
+                  (b.)     accept the Products, but Maxtor may charge Seller
+with storage expenses incurred because of the advance delivery.
+
+2.8      ACCEPTANCE. If, after ninety (90) days from the date of receipt by
+Maxtor, Maxtor has not rejected the Product, it will be deemed to have been
+accepted by Maxtor. Maxtor also may accept the Product by written notice. The
+act of inspection or payment by Maxtor for the Product will not be construed as
+Maxtor's acceptance of any Product. Acceptance of any Product shall not affect
+the Product warranty or any related remedy.
+
+2.9      RETURNS. Permitted returns of product to Seller are at Seller's expense
+for packing and shipping. Return shipments are FCA Maxtor, and title and risk of
+loss pass to Seller upon delivery to the return FCA. Point. If Seller requests,
+Maxtor will apply Seller's Return Materials Authorization (RMA) or similar
+number to the returned Products and/or related documentation, provided, however,
+that Seller must supply such RMA number to Maxtor on a timely basis.
+
+2.10     EPIDEMIC FAILURE. In the event that the Products supplied by Seller to
+Maxtor should develop any Epidemic Failure, the parties will meet in order to
+work out technical methods to remedy the problem. Product will undergo failure
+mode analysis (FMA) by Seller pursuant to the terms of the Warranty provisions
+to determine whether the Product is in fact defective and the cause of the
+Epidemic Failure. In such event, shipment of undelivered Orders of Products
+which are the subject of the Epidemic Failure and FMA will be postponed, at
+Maxtor's request, until FMA has been performed and the cause of the epidemic has
+been corrected if the Product is found to be defective. In case upon the
+expiration of forty-five (45) days from the date of Maxtor's notice regarding
+the Epidemic Failure and FMA has determined that the Product is defective and
+Seller has not yet remedied the same, then Maxtor shall be entitled to cancel
+pending Orders without any liability for such cancellation and return any
+defective Products under the Warranty provision. As used herein, "Epidemic
+Failure" means over one half of one percent (.5%) of the Product shall be
+non-conforming to Specifications over a period of thirty (30) days.
+
+2.11     INVOICING. Seller will issue the invoices for the Products and will
+date them with a date equal or subsequent to shipment date. Invoices shall
+reference purchase order number, item number and description of Products, unit
+price of Products, and total amounts due.
+
+2.12     PAYMENT.
+
+2.12.1   Terms Except as otherwise provided in Exhibit D, invoices shall be due
+and payable within forty five (45) days after the date of invoice, with a
+fifteen day grace period for actual receipt of payment. Maxtor's payment advice
+shall reference Seller's invoice number(s) and date(s).
+
+2.12.2   Currency. Unless expressly provided to the contrary, all amounts stated
+in this Agreement and all sums payable under this Agreement shall be denominated
+in United States Dollars and all payments made under this Agreement shall be
+made by wire transfer, cashier's check, or other ready funds in United States
+Dollars to payee's account at payee's designated United States bank.
+
+2.12.3   Disputes. Maxtor shall have forty five (45) days after the invoice date
+to contest in good faith the amounts and items charged. Amounts subject to good
+faith contest are not due and payable until thirty (30) days after the dispute
+is resolved.
+
+2.12.4   Bills. Seller's bills shall list all open invoices, invoice dates, and
+amounts unpaid; payments received, and credits issued.
+
+2.12.5   Payment Applications. Payments shall be applied to open invoices
+according to Maxtor's payment advice, but, in the event the payment advice does
+not specify invoices, then payments shall be applied to oldest items first.
+
+2.12.6   Credits. Credits or credit memos shall be paid immediately to Maxtor,
+unless Maxtor directs in writing that the amounts are to be applied as offsets
+to any open invoices.
+
+
+
+
+
+MAXTOR/AGERE CONFIDENTIAL
+
+                                        7
+
+<PAGE>
+
+                    MAXTOR STANDARD VOLUME PURCHASE AGREEMENT
+
+2.13     ORDER CHANGES.
+
+2.13.1   Rescheduling Of Orders Maxtor may reschedule an Order pursuant to the
+following schedule:
+
+Days.....Time between date of reschedule request and current factory promise
+date.
+
+<TABLE>
+<CAPTION>
+DAYS                 RESCHEDULE
+----                 ----------
+<S>                  <C>
+* days               No rescheduling and no
+                     cancellations. (Destination
+                     changes permitted except within
+                     48 hours of shipping)
+
+*                    One time purchase order
+                     reschedule for delivery
+                     through end of the next quarter
+                     with no further
+                     reschedule or cancellation.
+
+*                    Reschedules and
+                     cancellations without
+                     limits.
+</TABLE>
+
+2.13.2   Cancellation Of Orders Should Maxtor cancel any Order which has been
+acknowledged and a shipping date assigned, either in whole or in part, such
+cancellation shall be upon terms and conditions that will compensate Seller for
+any loss or damage resulting from such cancellation. No cancellation will be
+permitted if a reschedule has been previously negotiated at Maxtor's request,
+unless the delivery date that was rescheduled was outside lead-time.
+
+Compensation by Maxtor for production quantities of the Product shall be
+according to the following schedule:
+
+Days.....Time between date of cancellation and current factory promise date.
+
+Liability.....Liability is the percentage of aggregate purchase price of the
+canceled portion of the Order.
+
+Standard Products:
+
+<TABLE>
+<CAPTION>
+DAYS                    PERCENT OF LIABILITY
+----                    --------------------
+<S>                     <C>
+* days                  *
+* days to Leadtime      * for portion consisting of
+                          Finished Goods
+                          for portion in Die Bank
+                          for fab WIP portion
+*                       *
+</TABLE>
+
+ASIC Product:
+
+<TABLE>
+<CAPTION>
+DAYS                    PERCENT OF LIABILITY
+----                    --------------------
+<S>                     <C>
+* days                  *
+* days to Leadtime      * for portion consisting of
+                          Finished Goods
+                          for portion in wafer or die
+                          form (i.e. portion already through
+                          fabrication)
+                          Remaining liability for WIP
+                          will be negotiated
+*                       *
+</TABLE>
+
+2.14     Number not Used
+
+2.15     SHORTAGES. In the event of a shortage of capacity or material that will
+affect the supply of the Product, Seller may allocate in a fair and reasonable
+manner, taking into account Seller's contractual commitments, its available
+production output among itself and its other customers under contract. Seller
+shall provide Maxtor with as much notice as possible if it anticipates or has
+reason to believe that Seller's output of the Product will not be sufficient to
+meet all of Maxtor's requirements for any period based on the forecast furnished
+by Maxtor.
+
+
+* Indicates portions redacted pursuant to a Confidential Treatment Request
+  filed separately with the Securities and Exchange Commission.
+
+
+MAXTOR/AGERE CONFIDENTIAL
+
+                                        8
+
+<PAGE>
+
+                    MAXTOR STANDARD VOLUME PURCHASE AGREEMENT
+
+                      ARTICLE III -- INTELLECTUAL PROPERTY
+
+3.1      CONFIDENTIALITY.
+
+3.1.1    Confidential Information. "Confidential Information" shall mean any
+information disclosed by one party to the other pursuant to this Agreement which
+is in written, graphic, machine readable or other tangible form and is marked
+"Confidential", "Proprietary" or in some other manner to indicate its
+confidential nature. Confidential Information may also include oral information
+disclosed by one party to the other pursuant to this Agreement, provided that
+such information is designated as confidential at the time of disclosure and
+reduce to a written summary by the disclosing party, within thirty (30) days
+after its oral disclosure, which is marked in a manner to indicate its
+confidential nature and delivered to the receiving party. In addition, all
+technical and confidential information marked in a manner to indicate its
+confidential nature exchanged prior to the date of this Agreement shall be
+Confidential Information. Each party shall treat as confidential all
+Confidential Information of the other party, shall not use such Confidential
+Information except as expressly set forth in this Agreement or otherwise
+authorized in writing, shall implement reasonable procedures to prohibit the
+disclosure, unauthorized duplication, misuse or removal of the other party's
+Confidential Information and shall not disclose such Confidential Information to
+any third person except as may be necessary and required in connection with the
+rights and obligations of such party under this Agreement, and subject to
+confidentiality obligations at least as protective as those set forth in this
+Agreement. Without limiting the above, each of the parties shall use at least
+the same procedures and degree of care which it uses to prevent the disclosure
+of its own confidential information of like importance to prevent the disclosure
+of Confidential Information disclosed to it by the other party under this
+Agreement, but in no event less than due care. The party disclosing an item of
+Confidential Information shall be the Discloser ("Discloser"), and the party
+receiving an item of Confidential Information shall be the Receiver
+("Receiver"). Notwithstanding the above, neither party shall have liability to
+the other with regard to any Confidential Information of the other which:
+
+         (i.)     was generally known and available in the public domain at the
+time it was disclosed or becomes generally known and available in the public
+domain through no fault of Receiver;
+
+         (ii.)    was known to Receiver at the time of disclosure;
+
+         (iii.)   is disclosed with the prior written approval of Discloser;
+
+         (iv.)    was independently developed by Receiver without any use of the
+Confidential Information and by employees or other agents of Receiver who have
+not been exposed to the Confidential Information;
+
+         (v.)     becomes known to Receiver from a source other than the
+Discloser without breach of this Agreement by Receiver and otherwise not in
+violation of the Discloser's rights; or
+
+         (vi.)    is disclosed pursuant to the order or requirement of a court,
+administrative agency, or other governmental body; provided that Receiver shall
+provide prompt, advanced notice to Discloser.
+
+3.1.2    Employee Agreements. Each party shall obtain the execution of
+non-disclosure agreements with its employees, agents and consultants having
+access to Confidential Information of the other party, and shall diligently
+enforce such agreements, or shall be responsible for the actions of such
+employees, agents, and consultants in this respect.
+
+3.1.3    Use of Confidential Information. At all times, and notwithstanding any
+termination, expiration, or cancellation under this Agreement, Receiver will use
+the Confidential Information for no purpose other than pursuing the transactions
+and relationship contemplated by this Agreement.
+
+3.1.4    Return of Materials. Upon termination, cancellation or expiration of
+this Agreement, or upon written request of the other party, each party shall
+promptly return to the other all documents or other tangible materials
+representing the other's Confidential Information, including all whole or
+partial copies.
+
+3.1.5    Term of Nondisclosure Obligation.
+
+         Notwithstanding the term of this Agreement, the obligations of Seller
+and Maxtor under this Agreement with respect to any Confidential Information
+shall continue for a period of three (3) years after the Termination Date.
+
+3.1.6    Injunctive Relief. If either party breaches any of its obligations with
+respect to confidentiality and unauthorized use of Confidential Information
+under this Agreement, it being recognized that the damages flowing from such
+breach are difficult to ascertain and liquidate, the other party shall be
+entitled to seek equitable relief to protect its interest in such Confidential
+Information, including but not limited to injunctive relief, as well as all
+other rights and remedies.
+
+
+MAXTOR/AGERE CONFIDENTIAL
+
+                                        9
+
+<PAGE>
+
+                    MAXTOR STANDARD VOLUME PURCHASE AGREEMENT
+
+3.1.7    Export Controls. Recipient agrees that it will not knowingly
+
+         (i.)     export or re-export, directly or indirectly, any technical
+data (as defined by the U.S. Export Administration regulations) received under
+this Agreement to,
+
+         (ii.)    disclose such technical data for use in, or
+
+         (iii.)   export or re-export, directly or indirectly, as any direct
+product of such technical data to, any destination to which such export or
+re-export is restricted or prohibited by U.S. law, without obtaining prior
+authorization from the U.S. Department of Commerce.
+
+3.1.8    Items Declared Confidential. This Agreement, its terms and conditions,
+Maxtor's specifications, and all Orders are Confidential Information.
+
+3.2      PUBLICITY. Neither party shall publicly announce or disclose the
+existence of this Agreement or its terms and conditions, or advertise or release
+any publicity or press release regarding this Agreement, without the prior
+written consent of the other party. Nothing in this Agreement shall limit a
+party from making such disclosures as are required by law or court order,
+provided notice of such disclosures is given to the other party.
+
+3.3      INTELLECTUAL PROPERTY RIGHTS. Seller exclusively shall own all right,
+title and interest in and to any inventions, discoveries, improvements, methods,
+ideas, computer and other apparatus programs and related documentation, other
+works of authorship fixed in any tangible medium of expression, mask works or
+other forms of intellectual property, whether or not patentable, copyrightable
+or subject to mask work rights or other forms of protection, which are made,
+created, developed, written, conceived or first reduced to practice by Seller
+solely, jointly or on its behalf, in the course of, arising out of or as a
+result of work done under this Agreement. Seller hereby grants to Maxtor a
+nonexclusive, worldwide license to Seller intellectual property to use, sell and
+distribute the Product purchased from Seller; provided, however, that such
+license shall not include any license with respect to the combination of the
+Product with any other product, even if such other product has been purchased
+from Seller, nor any license to any method or process, even if such method or
+process is the inherent use of the Product.
+
+No title or other ownership rights in any licensed products or any copies
+thereof shall pass to Maxtor under this Agreement or any performance hereunder.
+
+Maxtor agrees that it will not alter any notices on, prepare derivative works
+based on, or reproduce, reverse engineer, disassemble or decompile any software
+embodied in licensed products or recorded in the purchased products furnished
+under this Agreement.
+
+Except as expressly set forth in this Agreement, nothing contained in this
+Agreement shall be deemed to grant, either directly or by implication, estoppel
+or otherwise, any license on the patents, patent applications, copyrights or
+proprietary information arising out of any other inventions of either party.
+
+3.4      PROPERTY. Title to all property not otherwise specifically addressed in
+this Agreement owned by one party ("Furnisher") and furnished to the other party
+("Recipient"), shall remain with the Furnisher. Any such property owned by
+Furnisher and in Recipient's possession or control shall be used only in the
+performance of this Agreement unless otherwise authorized in writing by the
+Furnisher. Recipient shall keep adequate records of such property and such
+records shall be made available to Furnisher upon request, and shall store,
+protect, preserve, repair, and maintain such property in accordance with sound
+commercial practice, all at Recipient's expense. Unless otherwise agreed to by
+Furnisher, Recipient shall insure Furnisher's interest in such material against
+loss or damage by reason of fire (including extended coverage), flood, accident,
+theft, riot or civil commotion. In the event that Furnisher's property becomes
+lost or damaged to any extent while in Recipient's possession, Recipient agrees
+to indemnify Furnisher or replace such property at Recipient's expense, in
+accordance with Furnisher's request. At the expiration or termination of this
+Agreement, Recipient shall request disposition instructions for all such
+property, whether in original form or otherwise. Recipient agrees to make such
+property available as directed by Furnisher, including preparation, packaging,
+and shipping. Preparation for shipment shall be at Furnisher's expense and
+shipment shall be FOB Recipient.
+
+MAXTOR/AGERE CONFIDENTIAL
+
+                                       10
+
+<PAGE>
+
+                    MAXTOR STANDARD VOLUME PURCHASE AGREEMENT
+
+                            ARTICLE IV -- LIABILITIES
+
+4.1      GENERAL INDEMNITY. Seller shall, in the performance of work or services
+under this Agreement, fully comply with all applicable national, state, and
+local laws, rules, regulations, and ordinances and shall indemnify and hold
+harmless Maxtor from and against any loss, claim, damage, liability, expense, or
+cost (including without limitation attorney's fees and court costs) resulting
+from failure of such compliance.
+
+4.2      INTELLECTUAL PROPERTY INDEMNITY.
+
+         Seller will: (i) defend or settle, at its option and expense, any claim
+against Maxtor alleging that any Product furnished under this Agreement directly
+infringes any patent, copyright or trademark; (ii) reimburse Maxtor for any
+costs incurred at Seller's written request relating to such claim; and (iii) pay
+damages and costs assessed by final judgment against Maxtor and attributable to
+such claim.
+
+In addition, Seller will have the right, at any time and at its option and
+expense to: (i) procure for Maxtor the right to continue using such Product;
+(ii) replace or modify any such Product provided or to be provided to be free of
+the infringement; or (iii) require return of such Product and refund the
+purchase price.
+
+Seller's obligations hereunder are conditioned upon: (i) Maxtor giving Seller
+written notice within thirty (30) days of any such claim; (ii) Seller having
+complete control of the defense and settlement thereof; (iii) Maxtor cooperating
+fully with Seller to facilitate the defense or settlement of such claim; and
+(iv) Maxtor's full compliance with this Agreement.
+
+Notwithstanding the foregoing, Seller shall have no obligation to defend or
+settle any claim, and Maxtor shall indemnify and save harmless Seller and its
+suppliers and affiliated companies from all costs, expenses, liabilities and
+claims, for any such claim: (i) arising from Seller's compliance with Maxtor's
+specifications, designs or instructions; or (ii) relating to any Product
+furnished hereunder in combination with item(s), whether or not furnished by
+Seller, even if such combination results from the Product's necessary or
+inherent use or the use for which the Product is purchased.
+
+The sale of any Product by Seller shall not in any way confer upon Maxtor, or
+upon anyone claiming under Maxtor, any license (expressly, by implication, by
+estoppel or otherwise) under any patent claim of Seller or others covering or
+relating to any combination, machine or process in which such product is or
+might be used, or to any process or method of making such product.
+
+THE FOREGOING STATES THE SOLE AND EXCLUSIVE REMEDY AND OBLIGATION OF THE PARTIES
+HERETO FOR INFRINGEMENT OR OTHER VIOLATION OF ANY INTELLECTUAL PROPERTY RIGHTS
+ARISING OUT OF THIS AGREEMENT AND IS IN LIEU OF ALL WARRANTIES, EXPRESS, IMPLIED
+OR STATUTORY, IN REGARD THERETO.
+
+4.3      STRICT LIABILITY. Each party will indemnify the other against and hold
+it harmless from any loss, cost, liability or expense (including court costs and
+reasonable fees of attorneys and other professionals) to the extent it arises
+out of or in connection with, in whole or in part, any negligence or willful act
+or omission of it or its employees or agents including but not limited to any
+such act or omission that contributes to:
+
+         (i.)     any bodily injury, sickness, disease or death; or
+
+         (ii.)    any injury or destruction to tangible or intangible property
+of the other or any related loss of use.
+
+4.4      LIMITATION OF LIABILITY. IN NO EVENT SHALL EITHER PARTY BE LIABLE FOR
+ANY SPECIAL, CONSEQUENTIAL, INDIRECT, OR INCIDENTAL DAMAGES, HOWEVER CAUSED, ON
+ANY THEORY OF LIABILITY AND WHETHER OR NOT SUCH PARTY HAS BEEN ADVISED OF THE
+POSSIBILITY OF SUCH DAMAGES, ARISING IN ANY WAY OUT OF THIS AGREEMENT OR ANY
+AGREEMENT, UNDERTAKING, OR PERFORMANCE THAT MAY BE PROMISED, PERFORMED, OR
+EXECUTED TO IMPLEMENT THIS AGREEMENT, PROVIDED, HOWEVER, THIS LIMITATION SHALL
+NOT APPLY TO A BREACH OF THE CONFIDENTIALITY OBLIGATIONS OF THIS AGREEMENT IF
+SUCH BREACH IS THE RESULT OF INTENTIONAL MISCONDUCT OR GROSS NEGLIGENCE.
+
+MAXTOR/AGERE CONFIDENTIAL
+
+                                       11
+
+<PAGE>
+
+                    MAXTOR STANDARD VOLUME PURCHASE AGREEMENT
+
+                         ARTICLE V -- DISPUTE RESOLUTION
+
+5.1      ESCALATION. The parties agree that any material dispute between the
+parties relating to this Agreement and unresolved for a period exceeding thirty
+days may be submitted to a panel of two senior executives of Maxtor and Agere
+USA. Either party may initiate this proceeding by notifying the other party
+pursuant to the notice provisions of this Agreement. Within fifteen days (15)
+days from the date of receipt of the notice, the parties' executives shall
+confer (via telephone or in person) in an effort to resolve such dispute. The
+decision of the executives will be final and binding on the parties. In the
+event the executives are unable to resolve such dispute within twenty (20) days
+after submission to them, the parties agree to submit the dispute to a sole
+mediator selected by the parties or, at any time at the option of a party, to
+mediation by a mediator selected by the American Arbitration Association
+("AAA"). The parties agree to make good faith efforts to resolve disputes by
+mediation within thirty (30) days. If not thus resolved such dispute shall be
+settled by means of arbitration as provided below. Each party's executives shall
+be identified by notice to the other party, and may be changed at any time by
+notice.
+
+5.2      ARBITRATION.
+
+5.2.1    Binding Arbitration. Any controversy, claim, or action, whether in law
+or at equity, whether in tort, contract, warranty, or otherwise, arising out of,
+relating to, or involving this Agreement and any agreement, undertaking, or
+performance that may be promised, performed, or executed to implement this
+Agreement will be settled by arbitration, subject to Section 5.1, as follows:
+
+         (i.)     Any arbitration proceeding shall be conducted under the laws
+of the state of New York and the Federal Arbitration Act, and pursuant to the
+Commercial Arbitration Rules of the American Arbitration Association insofar as
+such Commercial Arbitration Rules do not conflict with the provisions of this
+Section.
+
+         (ii.)    Either party may initiate arbitration by giving notice to the
+other stating an intention to arbitrate, the issue to be arbitrated, and the
+relief sought. The site for any arbitration proceeding shall be San Jose,
+California. Within twenty (20) days from the date of the notice ("Notice Date"),
+the parties shall agree on one (1) neutral arbitrator. If the parties cannot
+agree on one (1) neutral arbitrator within such twenty (20) day period, then
+each shall select one (1) party-appointed arbitrator within thirty five (35)
+days from the Notice Date. The two (2) party-appointed arbitrators so selected
+by the parties shall designate the third (3rd) arbitrator within fifty (50) days
+from the Notice Date. Each arbitrator shall be knowledgeable in the law and
+technology at issue.. No arbitrator shall have been employed or retained in any
+capacity or affiliated with either party during the prior two (2) years.
+
+         (iii.)   The arbitrators shall promptly, by majority vote, make such
+award and determination as is appropriate and in accordance with the terms of
+this Agreement. The arbitrator shall not have authority to award punitive,
+exemplary or other damages in excess of compensatory damages and each party
+irrevocably waives any claim thereto. The parties will faithfully abide by and
+perform any award rendered by the arbitrators. Further, any such award and
+determination shall be final and binding upon the parties and enforceable in any
+court of competent jurisdiction.
+
+5.2.2    Injunctive Relief. Notwithstanding the above, the parties may apply to
+any court of competent jurisdiction for injunctive relief without breach of this
+arbitration provision.
+
+5.2.3    Governing Language. The arbitration proceedings and all pleadings and
+written evidence shall be in the English language. Any written evidence
+originally in a language other than English shall be submitted in English
+translation accompanied by the original or a true copy.
+
+5.2.4    Costs and Fees. Each party shall bear its own expenses and those of the
+arbitrator shall be borne equally. The arbitrator, parties, their
+representatives and other participants shall hold the existence, content and
+result of the mediation and arbitration in confidence.
+
+5.3      CHOICE OF LAW.
+
+5.3.1    Choice of Law. This Agreement and any agreement, undertaking, or
+performance that may be promised, performed, or executed to implement this
+Agreement shall be governed by and construed and construed under the substantive
+laws, but not the conflicts of law, of the State of New York. The parties
+expressly agree that this Agreement and any agreement, undertaking, or
+performance that may be promised, performed, or executed to implement this
+Agreement shall not be subject to and shall not be interpreted by the United
+Nations Convention on Contracts for the International Sale of Goods.
+
+5.3.2    Compliance with Laws. Seller shall be responsible for obtaining, at
+Seller's cost, all necessary administrative and governmental licenses,
+approvals, and permits and shall generally comply with all laws and regulations
+for the performance of this Agreement ("Governing Laws").
+
+5.3.3    Foreign Corrupt Practices Act. Maxtor is subject to the laws and
+regulations of the United States
+
+MAXTOR/AGERE CONFIDENTIAL
+
+                                       12
+
+<PAGE>
+
+                    MAXTOR STANDARD VOLUME PURCHASE AGREEMENT
+
+including the Foreign Corrupt Practices Act ("FCPA"). Seller shall not use any
+payment or other benefit derived from Maxtor to offer, promise or pay any money,
+gift or any other thing of value to any person for the purpose of influencing
+official actions or decisions affecting this Agreement or with the intention of
+obtaining or maintaining any business related to Maxtor, while knowing or having
+reason to know that any portion of this money, gift or thing will, directly or
+indirectly, be given, offered or promised to:
+
+         (i.)     An employee, officer or other person acting in an official
+capacity for any government or its instrumentalities; or
+
+         (ii.)    Any political party, party official or candidate for political
+office.
+
+Further, Seller shall maintain books, records, and systems of accounting and
+control adequate to insure that Seller's assets and operations are accounted for
+and that Seller's business is carried out according to the directions of
+Seller's managers.
+
+5.3.4    Assurances and Compliance. Seller shall provide Maxtor with the
+assurances and official documents that Maxtor periodically may request to verify
+Seller's compliance with the Governing Laws or FCPA. Actions violating the
+Governing Laws or FCPA are material breaches of this Agreement and may result in
+civil or criminal penalties.
+
+5.3.5    Government Flowdown Provisions. In no event will this Agreement be
+placed under a U.S. Government Contract which would subject Seller to any
+additional terms and conditions or liability.
+
+5.3.6    Export Controls. Maxtor agrees that it will not knowingly export or
+re-export, directly or indirectly, any Product to any destination to which such
+export or re-export is restricted or prohibited by U.S. law, without obtaining
+prior authorization from the U.S. Department of Commerce.
+
+5.4      LIMIT OF TIME TO BRING ACTION. No actions or arbitrations, regardless
+of form, arising out of this Agreement, may be brought by either party more than
+eighteen (18) months after such actions or arbitrations arose, or in the case of
+nonpayment, more than eighteen (18) months from the date the last payment was
+due.
+
+                              ARTICLE VI -- GENERAL
+
+6.1      TERM AND TERMINATION.
+
+6.1.1    Term. This Agreement shall become effective on the Effective Date and
+shall remain in force until the Termination Date, and on and effective the
+Termination Date this Agreement shall terminate.
+
+6.1.2    Renewal. The parties may agree in writing to extend this Agreement for
+one or more terms of one (1) year.
+
+6.1.3    Termination for Convenience. This Agreement or any Order placed under
+this Agreement may be terminated in whole or in part at any time by Maxtor for
+its own convenience. Any such termination will not be construed as a breach.
+Maxtor's exclusive liability and Seller's exclusive remedy for such termination
+will be compensation owed to Seller (i) as set forth in Section 2.13, (ii) under
+the terms of any ASIC Quotation, (iii) resulting from volume pricing adjustments
+(true-ups) and (iv) as may otherwise be set forth in a writing signed by both
+parties.
+
+MAXTOR/AGERE CONFIDENTIAL
+
+                                       13
+
+<PAGE>
+
+                    MAXTOR STANDARD VOLUME PURCHASE AGREEMENT
+
+In no event will Maxtor's liability in the aggregate exceed the total price
+which would have been paid under this Agreement for the work had it not been
+terminated. Seller's termination claim must be submitted in writing no late than
+90 days from the date of receipt of termination notice.
+
+6.1.4    Termination For Cause. This Agreement shall be terminated for cause:
+
+         (i.)     If either party materially defaults in the performance of any
+provision of this Agreement, then the non-defaulting party may give written
+notice to the defaulting party that if the default is not cured within thirty
+(30) calendar days, the Agreement will be terminated at the end of that period
+and such termination shall not prejudice or limit either party's remedies; or
+
+         (ii.)    If either party violates any intellectual property,
+confidentiality, or license provision of this Agreement, then the non-defaulting
+party may give written notice to the defaulting party of such violation and of
+immediate termination and the Agreement will be terminated when such notice is
+given and such termination shall not prejudice or limit either party's remedies;
+or
+         (iii.)   Upon:
+
+                  (a.)     the institution by or against either party of
+         insolvency, receivership or bankruptcy proceedings or any other
+         proceedings for the settlement of its debts; or
+
+                  (b.)     either party's making an assignment for the benefit
+         of creditors; or
+
+                  (c.)     either party's dissolution, this Agreement shall
+terminate immediately without notice and shall be deemed to have been terminated
+by the party not so affected and such termination shall not prejudice or limit
+either party's remedies.
+
+6.1.5    Duties Upon Termination. Upon any termination or expiration of this
+Agreement:
+
+         (i.)     all licenses made to Seller under this Agreement shall be
+terminated according to their terms effective the date of the termination or
+expiration;
+
+         (ii.)    the parties will return or destroy all Confidential
+Information received from the other party; and
+
+         (iii.)   neither party shall be liable to the other because of such
+termination for compensation, reimbursement or damages on account of the loss of
+prospective profits or anticipated sales or on account of expenditures,
+investments, leases or commitments in connection with the business or good will
+of Maxtor or Seller, or for any other reason growing out of such termination.
+
+6.1.6    Survival. The terms of this Agreement which by their nature may survive
+the termination or expiration of this Agreement shall survive the termination or
+expiration of this Agreement.
+
+6.2      GENERAL.
+
+6.2.1    Assignment. Except for either party's right to assign this Agreement to
+any successor- in- interest to the business of which this Agreement relates,
+neither party shall assign this Agreement nor any rights or obligations
+hereunder without the prior written consent of the other party. Any attempted
+assignment without the other party's consent shall be void and ineffective.
+
+6.2.3    Consents. No consent required to be given under this Agreement shall be
+unreasonably withheld.
+
+6.2.4    Counterparts. This Agreement shall be prepared in two identical and
+original counterparts and both of which together shall be one and the same
+instrument and either of which may be used for purposes of proof.
+
+6.2.5    Cumulation of Remedies. All remedies available to either party under
+this Agreement are cumulative and may be exercised concurrently or separately,
+and the exercise of any one remedy shall not be deemed an election of such
+remedy to the exclusion of other remedies.
+
+6.2.6    Independent Parties. Persons furnished by each party shall be solely
+the employees or agent of such party and shall be under the sole and exclusive
+direction and control of the furnishing party. They shall not be considered
+employees of the other party for any purpose. Each party shall remain an
+independent contractor and
+
+MAXTOR/AGERE CONFIDENTIAL
+
+                                       14
+
+<PAGE>
+
+                    MAXTOR STANDARD VOLUME PURCHASE AGREEMENT
+
+shall be responsible for compliance with all laws, rules and regulations
+involving, but not limited to, employment of labor, hours of labor, health and
+safety, working conditions and payment of wages. Each party shall also be solely
+responsible for payment of taxes, including federal, state and municipal taxes,
+chargeable or assessed with respect to its employees, such as social security,
+unemployment, worker's compensation, liability insurance and federal and state
+withholding. Each party shall indemnify the other for any loss, damage,
+liability, claim, demand or penalty including costs, expenses, and reasonable
+attorneys' fees assessed against one party that may be sustained by reasons of
+the other party's failure to comply with the provisions of this Section. Neither
+party nor its employees, officers, directors, or agents shall hold itself out as
+the agent, employee, partner, or joint venturer of the other party, and shall
+make no commitment or engagement on the account of or on behalf of the other
+party.
+
+6.2.7    Force Majeure. Nonperformance of either party shall be excused to the
+extent that performance is rendered impossible by strike, fire, flood,
+governmental acts, orders or restrictions, civil or military authority,
+explosion, war, strike, embargo, act of God, nature or the public enemy, or any
+other reason where failure to perform is beyond the control and not caused by
+the negligence of the nonperforming party. In the event of any delay caused by
+such contingency, the delayed party may defer any performance or delivery
+prevented by the force majeure condition for a period equal to the time lost by
+reason of such delay, provided, however, that the delayed party promptly
+commences and reasonably and diligently pursues actions to cure or circumvent
+such cause. Whenever any cause delays or threatens to delay the timely
+performance of this Agreement, Seller shall immediately notify Maxtor of all
+relevant information with respect to such cause. If Seller is delayed in any
+performance or delivery by more than thirty (30) days, Maxtor may terminate the
+delayed performance or delivery or this Agreement and such termination shall not
+be a breach of this Agreement and shall be without penalty.
+
+6.2.8    Governing Language. English shall be the language of this Agreement and
+the English language shall govern all disputes, performance and interpretations.
+
+6.2.9    Headings. The descriptive headings of the several Articles and Sections
+of this Agreement are inserted for convenience only and do not constitute a part
+of this Agreement and shall not affect the interpretation of this Agreement.
+
+6.2.10.  Joint Work Product. The parties further acknowledge that they have
+thoroughly reviewed this Agreement and bargained over its terms and that for
+convenience, Maxtor has written down the terms of this Agreement. Accordingly,
+this Agreement shall be construed without regard to the party or parties
+responsible for its preparation and shall be deemed to have been prepared
+jointly by the parties.
+
+6.2.11   Notices. Any notice required or permitted to be given under this
+Agreement shall be in writing and shall be deemed to be sufficiently given if
+delivered by hand or if sent by courier with a receipt requested or by
+registered air mail, postage prepaid, addressed to Maxtor or to Seller, as the
+case may be, at the addresses first set forth above or to such other address as
+may be furnished for such purpose by notice duly given under this Agreement.
+Such notice shall be deemed to have been given when delivered by hand or two (2)
+days after deposit with the courier or mail service. Any party may change its
+address for such communications by giving such notice to the other party in
+conformance with this section.
+
+6.2.12   Severance. If any provision of this Agreement is held to be invalid by
+a court of competent jurisdiction, then the remaining provisions shall
+nevertheless remain in full force and effect. The parties agree to renegotiate
+any term held invalid and to be bound by the mutually agreed substitute
+provisions.
+
+6.2.13   Time. Time is of the essence in all performances hereunder. The words
+day, month, quarter, year, and the like shall mean calendar day, month, quarter,
+year, and the like, unless expressly provided to the contrary.
+
+6.2.14   Waiver. The failure of any party to this Agreement at any time or times
+to require performance of any provision of this Agreement shall in no manner
+affect such party's available remedies or right at a later time to enforce the
+same. No waiver by any party of any condition, or of the breach of any term,
+covenant, representation or warranty contained in this Agreement, whether by
+conduct or otherwise (in any one or more instances) shall be deemed to be or
+construed as a further or continuing waiver of any such condition or breach or
+of any remedy or as a waiver of any other condition or as a breach of any other
+term, covenant, representation or warranty of this Agreement.
+
+MAXTOR/AGERE CONFIDENTIAL
+
+                                       15
+
+<PAGE>
+
+                    MAXTOR STANDARD VOLUME PURCHASE AGREEMENT
+
+                            ARTICLE VII -- EXECUTION
+
+7.1      ENTIRE AGREEMENT. The terms and conditions of this Agreement are the
+entire agreement between the parties and supersede all previous agreements,
+proposals, and understandings, whether oral or written, between the parties with
+respect to the subject matter of this Agreement (except for confidentiality
+agreements governing the exchange of information prior to the Effective Date
+which shall continue to govern periods prior to the Effective Date) and no
+agreement or understanding varying or extending the same shall be binding upon
+either party unless in a written document signed by both parties. This Agreement
+shall supersede all inconsistent or additional terms contained in any purchase
+orders, sale acknowledgments or other similar documents delivered by the
+parties.
+
+7.2      EXECUTION. This Agreement shall not be effective until it has been
+executed by Seller and accepted by an authorized representative of Maxtor at a
+principal place of business.
+
+7.3      ELECTRONIC EXECUTION. To expedite the process of entering into this
+Agreement, the parties acknowledge that Transmitted Copies of this Agreement
+shall be equivalent to original documents until such time as original documents
+are completely executed, produced, and delivered, and in the event of the use of
+Transmitted Copies, each party shall use its best efforts, at its own expense,
+to execute, produce, and deliver original copies. "Transmitted Copies" shall
+mean copies which are reproduced or transmitted via photocopy, facsimile, or
+other process of complete and accurate reproduction and transmission.
+
+7.4      CAPACITY. By it's signature below, Seller represents and warrants as
+follows, acknowledging that each and every such representation and warranty has
+been materially relied upon by Maxtor in entering into this Agreement:
+
+         (i.)     SELLER CERTIFIES BY EXECUTION THAT THE SIGNER IS AUTHORIZED TO
+EXECUTE THIS AGREEMENT AND THAT ALL NECESSARY CONSENTS HAVE BEEN OBTAINED.
+
+         (ii.)    SELLER IS, AND HAS HELD ITSELF OUT TO BE, EXPERIENCED IN
+DUTIES AND UNDERTAKINGS SIMILAR TO THOSE CONTEMPLATED IN THE AGREEMENT.
+
+         (iii.)   THE AGREEMENT IS IN THE ENGLISH LANGUAGE, AND SELLER (ITSELF
+OR THROUGH ITS TRANSLATORS) UNDERSTANDS AND IS CAPABLE OF FLUENTLY READING,
+SPEAKING, AND COMMUNICATING IN THE ENGLISH LANGUAGE.
+
+         (iv.)    SELLER HAS READ AND UNDERSTOOD ALL OF THE PROVISIONS OF THE
+AGREEMENT.
+
+         (v.)     MAXTOR HAS EXPLAINED EACH AND EVERY TERM OF THE AGREEMENT TO
+THE SATISFACTION OF SELLER.
+
+         (vi.)    SELLER HAS HAD THE OPPORTUNITY TO SEEK INDEPENDENT ADVICE AND
+COUNSEL RELATED TO THE AGREEMENT.
+
+         (vii.)   A COMPLETE AND TRUE COPY OF THE AGREEMENT, EXECUTED BY BOTH
+PARTIES, HAS BEEN DELIVERED TO SELLER AND RECEIPT OF SUCH COPY IS HEREBY
+ACKNOWLEDGED.
+
+In witness whereof, the parties have executed this Agreement as of the Effective
+Date.
+
+MAXTOR CORPORATION                       Agere Systems Inc.
+
+By: /s/ Michael Thompson                 By: /s/ Joseph O'Hare
+   -------------------------------          -------------------------------
+         (signature)                              (signature)
+
+        Michael Thompson                         Joseph O'Hare
+   -------------------------------          -------------------------------
+         (print name)                             (print name)
+
+        VP, Electronics                           VP Storage
+   -------------------------------          -------------------------------
+           (title)                                  (title)
+
+MAXTOR/AGERE CONFIDENTIAL
+
+                                       16
+
+<PAGE>
+
+                    MAXTOR STANDARD VOLUME PURCHASE AGREEMENT
+
+Agere Systems Singapore Pte. Ltd.,
+
+By: /s/ Jeff Mowla
+   ------------------------------
+        (signature)
+
+        Jeff Mowla
+   ------------------------------
+       (print name)
+
+     VP Singapore Mfg
+   ------------------------------
+         (title)
+
+MAXTOR/AGERE CONFIDENTIAL
+
+                                       17
+
+<PAGE>
+
+                    MAXTOR STANDARD VOLUME PURCHASE AGREEMENT
+
+                                    EXHIBIT A
+
+                ADDITIONAL TERMS AND CONDITIONS FOR ASIC PRODUCTS
+
+1.       QUOTATIONS FOR ASIC PRODUCTS Seller will issue quotations
+("Quotations") covering the development of application specific integrated
+circuits ("ASIC"). The Quotation and the Agreement, including this Exhibit A,
+shall be the entire agreement with respect to the design, development and
+production of the ASIC on behalf of Maxtor.
+
+2.       CHANGE OF QUOTATION TERMS Quoted prices, fees and charges are valid
+only for the parameters or other particulars relating to the ASIC as stated in
+the Quotation. If any changes in such parameters or particulars become
+necessary, including but not limited to revision or redefinition of the
+specification or variations in quantities, functional description, package type,
+or testing requirements, Seller may revise such prices by amendment to the
+Quotation. Other quoted fees and charges are valid only for the respective
+particulars stated in the Quotation. Seller may also amend the Quotation with
+respect to any of such quoted fees and charges to make adjustments for changes
+in Maxtor's requirements. Any such amendments to the Quotations shall reference
+the Quotations and shall be further identified by their respective dates and
+shall be accepted by Maxtor in writing.
+
+3.       PROTOTYPE APPROVAL Within ninety (90) days after receipt of prototypes
+for any ASIC covered by this Agreement, Maxtor may return any claimed
+non-conforming prototypes to Seller with a written rejection statement
+specifying the alleged failure or failures of the prototypes to meet the
+acceptance criteria as provided in the mask order sign off sheet or mutually
+agreed modifications thereof (the "Acceptance Criteria"). If Maxtor does not
+return the prototypes with a written rejection statement within such ninety (90)
+day period, then the design and prototypes shall be deemed to have been approved
+by Maxtor and development work shall be deemed to have been completed by Seller.
+
+If any prototype does not meet the Acceptance Criteria and is rejected by
+Maxtor, Seller shall use commercially reasonable efforts to replace it with one
+which does comply with the Acceptance Criteria. Seller shall not, however, be
+obligated to replace any non-complying prototypes of which it has not been
+notified within ninety (90) days of shipment of same to Maxtor. If Seller,
+within ninety (90) days after receipt of Maxtor's timely written rejection
+report, is unable to supply Maxtor with conforming prototypes, then either party
+may by written notice to the other terminate this Agreement as to such ASIC.
+Provided Maxtor has fulfilled all "Design Hand-Off Requirements" as defined in
+the Quotation, if so terminated, unless otherwise provided in the Quotation, all
+monies paid by Maxtor to Seller with respect to such ASIC will be refunded in
+full within thirty (30) days. Such refund of monies shall be Maxtor's sole and
+exclusive remedy and Seller's entire liability with respect to non-conforming
+prototypes.
+
+In the event that delivered prototypes comply with the Acceptance Criteria, but
+do not function in Maxtor's application (e.g., logic design error, change in
+required function, etc.), Maxtor shall pay all agreed upon NRE charges incurred
+for the development of the ASIC and then Maxtor and Seller may negotiate a
+mutually agreeable redesign schedule and price.
+
+4.       ORDERS. No orders for production units will be accepted by Seller until
+after Maxtor has given written sign-off of prototype acceptance, except to the
+extent that the parties have agreed in writing on responsibility for risk and
+associated liability with respect to orders placed prior to prototype
+acceptance. All orders for the design of the ASIC, for changes, for technical
+assistance, for production quantities of the ASIC or for any other service by
+Seller relating to this Agreement shall be in writing, shall reference the
+Quotation by its number and date and any current amendments thereto by their
+respective dates, and shall be signed by Maxtor. Seller shall acknowledge all
+accepted orders in writing, or shall notify Maxtor if, for any reason, an order
+cannot be accepted by Seller.
+
+5.       PROPRIETARY RIGHTS IN TECHNICAL INFORMATION Unless otherwise agreed in
+writing, Maxtor-supplied design information relating to the ASIC, as
+incorporated in circuit design information, test vectors, test tapes, special
+requirements specifications, and/or netlists, shall remain the property of
+Maxtor. Seller shall use such information and results exclusively for the
+design, manufacture and sale of the ASIC to Maxtor and in providing related
+production services. Seller retains all rights in Seller's processing
+information, mask works, mask sets, macro cells, and the like used in design,
+production or in filling orders placed by Maxtor hereunder. Maxtor has no rights
+in or to such processing information, mask works, mask sets, macro cells, and
+the like.
+
+MAXTOR/AGERE CONFIDENTIAL
+
+                                       18
+
+<PAGE>
+
+                    MAXTOR STANDARD VOLUME PURCHASE AGREEMENT
+
+                                    EXHIBIT B
+                           CHANGE NOTIFICATION POLICY
+
+         A)       Product Change Notification - The changes outlined below which
+                  affect the form, fit, or functionality of the Product require
+                  at least * calendar days prior written notice to Maxtor before
+                  any shipment of Product affected by the change. Maxtor agrees
+                  to make every effort to approve or disapprove the proposed
+                  changes within * working days after receipt of Product Change
+                  Notification.
+
+         (i)      Wafer Fabrication
+
+                  Changes in the appropriate starting material characteristics
+         including resistivity, thickness, and backside surface finish.
+
+                  Changes in doping material source, concentration or process
+                  technique.
+
+                  Changes in passivation or glassivation material, dielectric
+                  doping concentration, thickness, or technique.
+
+                  Changes in metallization including composition, thickness, or
+                  deposition technique.
+
+                  Changes in oxidation or diffusion process including oxide
+                  composition or thickness.
+
+                  Changes in the gate formation process, material or technique.
+
+                  Changes in the final backside process including wafer thinning
+                  or backside metallization.
+
+                  Technology changes that affect die structure topography (e.g.
+                  double-diffused, epitaxial, isolation).
+
+                  Mask changes or redesigns which alter die size, bond pad
+                  geometry, active element dimensions, spacing or isolation, or
+                  which include the addition of active elements or modification
+                  to connections to active elements.
+
+                  Changes in scribing and die separation methods.
+
+         (ii)     Assembly
+
+                  Changes in die attach material, method, or process
+                  temperature.
+
+                  Changes in wire material composition.
+
+                  Changes to package dimensions and structure.
+
+                  Changes to seal techniques (materials or sealing process),
+                  including lid, lid seals, frame attach, and frame cleaning.
+
+                  Changes in molding compound, molding processes, or chip
+                  overcoats.
+
+                  Changes in lead frame design, geometry, material or coating,
+                  or lead attach method.
+
+                  Changes in device pin assignment.
+
+                  Change in wire bond method (ultrasonic versus thermal
+                  compression).
+
+                  Change in code marking method or pattern.
+
+         (iii)    Silicon Materials
+
+                  Change in the crystal grower furnace type (manufacturer or
+                  model).
+
+
+* Indicates portions redacted pursuant to a Confidential Treatment Request
+  filed separately with the Securities and Exchange Commission.
+
+
+MAXTOR/AGERE CONFIDENTIAL
+
+                                       19
+
+<PAGE>
+
+                    MAXTOR STANDARD VOLUME PURCHASE AGREEMENT
+
+                  Change in the use of reclaimed silicon as charge material in
+                  the growth of crystals which have not previously used reclaim.
+
+                  Change to less stringent chemical requirements for virgin
+                  polycrystalline silicon or elemental dopants.
+
+                  Changes that, in the opinion of the crystal growing engineer,
+                  could alter an incompletely specified or unspecified material
+                  characteristic.
+
+                  Change in epitaxial reactor type (manufacturer).
+
+                  Changes in process temperatures for epitaxial layer
+                  depositions.
+
+                  Change in the material composition of susceptors for epitaxial
+                  reactors
+
+                  Change in primary or secondary fiducial orientation or length.
+
+                  Change in the type of lapping abrasive or polishing slurry
+                  used.
+
+                  Changes in the mechanical dimensions or surface
+                  characteristics of polished substrates.
+
+                  Change in the process temperature for back seal layer
+                  deposition.
+
+MAXTOR/AGERE CONFIDENTIAL
+
+                                       20
+
+<PAGE>
+
+                    MAXTOR STANDARD VOLUME PURCHASE AGREEMENT
+
+                                    EXHIBIT D
+
+                          FLEXIBLE DELIVERY PROVISIONS
+
+Agere agrees * for purposes of delivering the Consigned Product (listed below)
+to Maxtor's contract manufacturers, * located at Singapore; * located at Penang,
+West Malaysia; and * located at Pattaya, Thailand (the "Designated
+Contractors").
+
+Agere agrees to ship Consigned Product to the Designated Contractors per the
+Schedule/Forecast provided by Maxtor on a weekly basis, subject to lead-time
+requirements and the like. Agere shall not ship in excess of the
+Schedule/Forecast forecast for a particular week. Pulls for any particular week
+must reflect the quantity shipped for that week. Agere shall not be obligated to
+ship against the next week's forecast unless the quantity pulled for the current
+week, as reported by the Designated Contractors, equals the quantity shipped for
+that week.
+
+Maxtor agrees to provide the following information on a daily basis in an
+electronic format (Excel) based on information fed back from their Designated
+Contractors.
+
+         Daily Receipts (quantity received)
+         Daily Pulls (withdraws form inventory)
+         Daily Balance Inventory (quantity remaining in inventory)
+
+Daily Pulls will be considered a release against the Blanket Purchase Order
+furnished by Maxtor, and Agere will invoice Maxtor for the quantity reflected in
+the Daily Pulls. Pull quantities must be in standard pack quantities.
+
+The Designated Contractors must follow the FIFO with respect to inventory pulls.
+The Designated Contractor will employ cost effective, state-of-the-art inventory
+management such as cycle counting and FIFO inventory controls. The Designated
+Contractor and Maxtor will maintain accurate and complete records with regard to
+the custody and care of the Consigned Product.
+
+The Consigned Product shall remain the property of Agere (or its affiliate or
+designee) until withdrawn by the Designated Contractor from Consigned Product at
+which time title to such Consigned Product shall pass to Maxtor. Risk of loss or
+damage to the Consigned Product shall pass to Maxtor at the time Agere delivers
+possession or control of the Consigned Product to the Designated Contractor at
+its facilities. Maxtor will ensure that each of the Designated Contractors
+provides a secure and segregated space for the Consigned Product in its
+facility. Maxtor shall be fully responsible for any and all damage to or loss of
+Consigned Product while the Consigned Product is in the Designated Contractors'
+care, custody and control. Such loss will be covered by Maxtor and its
+insurance.
+
+As to discrepancies in quantity of Consigned Product which are discovered by
+Designated Contractor in the receiving process, Maxtor agrees that the following
+provisions shall apply and will instruct the Designated Contractors accordingly:
+The Designated Contractor shall (i) complete its normal receiving process on
+actual quantity of Consigned Product received and (ii) within forty-eight of
+receipt of the Consigned Product notify Agere immediately of such discrepancy.
+Whenever loss or damage has occurred to the Consigned Product prior to receipt
+by the Designated Contractor at its facility, the Designated Contractor should
+mark the delivery receipt with the appropriate exceptions describing the damage
+before signing and request the Carrier to inspect the loss or damage and shall
+within thirty (30) days of receipt of the Consigned Product note the damage or
+loss on all copies of the delivery receipt. Each copy of the delivery receipt
+shall be signed by the Designated Contractor and the carrier's agent. The
+Designated Contractor shall request the delivering carrier to inspect damaged
+goods and accrue an inspection report or waiver of inspection from the carrier.
+The Designated Contractor shall within forty-eight hours of its receipt of the
+Consigned Product notify Agere of the loss or damage. Agere shall file, collect
+and claim revenue recovery, crediting of common carrier product loss and damage
+distributed (shipped) to and from Agere facilities.
+
+As to incorrect items in shipments of Consigned Product which are discovered by
+Designated Contractors in the receiving process, the Designated Contractors
+shall immediately contact Agere for direction on disposition of incorrect
+item(s). Freight cost to return incorrect items to Agere will be paid by Agere.
+Agere shall promptly arrange for replacement shipment of correct Consigned
+Product.
+
+
+* Indicates portions redacted pursuant to a Confidential Treatment Request
+  filed separately with the Securities and Exchange Commission.
+
+MAXTOR/AGERE CONFIDENTIAL
+
+                                       21
+
+<PAGE>
+
+                    MAXTOR STANDARD VOLUME PURCHASE AGREEMENT
+
+Agere will make every commercially reasonable effort to replace lost, damaged or
+stolen Consigned Product to meet Maxtor's orders.
+
+Either party upon ninety days' prior written notice to the other party may
+discontinue activities under this Exhibit D.
+
+*
+   List of Consigned Products:
+
+*  Indicates portions redacted pursuant to a Confidential Treatment Request
+   filed separately with the Securities and Exchange Commission.
+
+
+MAXTOR/AGERE CONFIDENTIAL
+
+                                       22
+
+
+
+</TEXT>
+</DOCUMENT>

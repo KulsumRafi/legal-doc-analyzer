@@ -1,0 +1,1835 @@
+<DOCUMENT>
+<TYPE>EX-10.46
+<SEQUENCE>10
+<FILENAME>xomaex1046.txt
+<DESCRIPTION>LICENSE AGREEMENT (XOMA AND CAT)
+<TEXT>
+
+                                                                   Exhibit 10.46
+
+[*] indicates that a confidential portion of the text of this agreement has been
+omitted.
+
+                                LICENSE AGREEMENT
+
+     This License Agreement (this "Agreement"), effective as of December 22,
+2002 (the "Effective Date"), is entered into by and between XOMA Ireland
+Limited, a company with limited liability organized under the laws of the
+Republic of Ireland having offices at Shannon Airport House, Shannon, County
+Clare, Ireland (with its Affiliates, "XOMA"), and Cambridge Antibody Technology
+Limited (with its Affiliates, "CAT"), an English company having a principal
+place of business at Milstein Building, Granta Park, Cambridge, CB1 6GH,
+England.
+
+                                   BACKGROUND
+
+     A. XOMA is the owner or exclusive licensee of certain patent rights;
+
+     B. CAT wishes to acquire non-exclusive licenses under such patent rights on
+the terms and conditions set forth below; and
+
+     C. XOMA is willing to grant CAT non-exclusive licenses on the terms and
+conditions set forth below.
+
+     NOW, THEREFORE, in consideration of the promises and the mutual covenants
+hereinafter recited, the parties agree as follows:
+
+                                    ARTICLE 1
+
+                                   DEFINITIONS
+
+     In this Agreement, the following terms shall have the meanings set forth in
+this Article.
+
+     1.1 "Affiliate" means any corporation or other entity which is directly or
+indirectly controlling, controlled by or under common control with a party
+hereto. For purposes of this Agreement, "control" (including, with correlative
+meanings, the terms "controlled" and "controlling") means the possession,
+directly or indirectly, of the power to direct or cause the direction of the
+management or policies of the subject corporation or other entity, whether
+through the ownership of voting securities, by agreement or otherwise.
+
+     1.2 "Antibody" means, for purposes of Sections 1.5, 1.6, 1.20 and 1.27
+only, a molecule or a gene encoding such a molecule comprising or containing
+more than one immunoglobulin variable domain or parts of such domains or any
+existing or future fragments, variants, modifications or derivatives thereof.
+
+
+<PAGE>
+                                      -2-
+
+
+     1.3 "Antibody Phage Display" means the authorized use of Licensed Antibody
+Phage Display Materials to conduct Research and Development.
+
+     1.4 "CAT Collaborator" means any person or entity who is an authorized
+end-user or intended recipient of Licensed Antibody Phage Display Materials
+(including a CAT Library), Licensed Immunoglobulins or Licensed Immunoglobulin
+Information transferred from CAT and/or a person or entity on whose behalf CAT
+knowingly engages in Antibody Phage Display; provided, however, that except for
+the entities identified on Schedule 1.4 such person or entity shall not be
+deemed to be a CAT Collaborator unless and until the requirements of Section 2.4
+are complied with. An initial list of CAT Collaborators with whom CAT has an
+agreement in full force and effect as of the Effective Date is identified on
+Schedule 1.4; provided, that such entities are in compliance with all of the
+provisions of this Agreement applicable to CAT Collaborators or will be within a
+reasonable time after the Effective Date. No person or entity shall be deemed to
+be a CAT Collaborator if such person or entity is engaged in a Commercial
+Antibody Phage Display Business unless, pursuant to a written agreement (other
+than this Agreement), executed after the Effective Date, XOMA has granted to
+such person or entity a valid license or covenant not to sue under the XOMA
+Patent Rights which explicitly extends to the activities identified in this
+third sentence of Section 1.4; provided, that a CAT Collaborator listed in
+column (a) of Schedule 1.4 shall retain its status as such, notwithstanding that
+it may after the Effective Date engage in a Commercial Antibody Phage Display
+Business, but in all cases only with respect to activities of such CAT
+Collaborator that are carried out pursuant to and in accordance with its
+arrangement with CAT and the applicable terms of this Agreement using Licensed
+Antibody Phage Display Materials and/or Licensed Immunoglobulins provided by
+CAT. XOMA shall provide CAT prompt written notice of those written agreements or
+covenants not to sue which satisfy the requirements of the prior sentence. No
+person or entity may claim the status of CAT Collaborator with respect to any
+acts or activities which are unrelated to the use of Licensed Antibody Phage
+Display Materials, Licensed Immunoglobulins and/or Licensed Immunoglobulin
+Information provided by CAT.
+
+     1.5 "CAT Library" means the collection of bacteriophages each of which
+displays an Antibody or a collection of host cells containing such collection of
+bacteriophages controlled by CAT as of the Effective Date and all updates,
+additions and improvements to such collection of bacteriophages or collection of
+host cells containing such collection of bacteriophages.
+
+     1.6 "CAT Library Antibody" means any Antibody to a Target identified,
+generated or derived by XOMA or a Third Party from its use of the CAT Library
+during the term of this Agreement.
+
+
+<PAGE>
+                                      -3-
+
+
+     1.7 "Change in Control" means, with respect to a particular entity, any
+transaction or series of transactions as a result of which any person or group
+(as defined under the U.S. Securities Exchange Act of 1934, as amended) becomes,
+directly or indirectly, the beneficial owner of more than fifty percent (50%) of
+the total voting power of such entity's equity securities or otherwise gains
+control of such entity.
+
+     1.8 "Commercial Antibody Phage Display Business" means, with respect to
+antibody phage display services, antibody phage display libraries, products for
+use in antibody phage display or the bacterial expression of antibodies, and
+antibody phage display materials, the out-licensing, commercial manufacture,
+sale, offer for sale, import for sale or export for sale of such services,
+libraries, products and materials.
+
+     1.9 "Confidential Information" means any proprietary or confidential
+information or material disclosed by a party to the other party pursuant to this
+Agreement, which is (i) disclosed in tangible form hereunder and is designated
+thereon as "Confidential" at the time it is delivered to the receiving party, or
+(ii) disclosed orally hereunder and identified as confidential or proprietary
+when disclosed and such disclosure of confidential or proprietary information is
+confirmed in writing within thirty (30) days by the disclosing party.
+
+     1.10 "Diagnostic Product" means a Product used solely to diagnose any
+disease or condition in any animal, including a human.
+
+     1.11 "Dispose" means to transfer, assign, lease, or in any other fashion
+dispose of control, ownership or possession, but shall not mean to license or
+sell. "Disposition" shall have the correlative meaning.
+
+     1.12 "Immunoglobulin" means any molecule, including without limitation full
+immunoglobulin molecules (e.g., IgG, IgM, IgE, IgA and IgD molecules) and scFv,
+Fv and Fab molecules, that has an amino acid sequence by virtue of which it
+interacts with an antigen and wherein that amino acid sequence consists
+essentially of a functionally operating region of an antibody variable region
+including, by way of example and without limitation, any naturally occurring,
+synthetic, or recombinant form of such a molecule; provided, however, that
+"Immunoglobulin" shall not include a molecule or gene encoding such a molecule
+which comprises solely a single variable domain (heavy or light).
+
+     1.13 "Insolvency Event" means any one of the following:
+
+     (a)  a notice shall have been issued to convene a meeting for the purpose
+          of passing a resolution to wind up CAT, or such a resolution shall
+          have been passed other than (i) a resolution for the solvent
+          reconstruction or reorganization of CAT, or (ii) for the purpose of
+          inclusion of any part of the share capital of CAT in the Official List
+          of the London Stock Exchange or in the list of the New York
+
+
+<PAGE>
+                                      -4-
+
+
+          Stock Exchange, American Stock Exchange or quotation of the same on
+          the Nasdaq Stock Market in relation to an initial public offering; or
+
+     (b)  a resolution shall have been passed by CAT's directors to seek a
+          winding up or administration order, or a petition for a winding up or
+          administration order shall have been presented against CAT, or such an
+          order shall have been made; or
+
+     (c)  a receiver, administrative receiver, receiver and manager, interim
+          receiver, custodian, sequestrator or similar officer is appointed in
+          respect of CAT or over a substantial part of its assets or any Third
+          Party takes steps to appoint such an officer in respect of CAT or an
+          encumbrancer takes steps to enforce or enforces its security; or
+
+     (d)  a proposal for a voluntary arrangement shall have been made in
+          relation to CAT under Part I Insolvency Act 1986 (UK); or
+
+     (e)  a step or event shall have been taken or arisen outside the United
+          Kingdom which is similar or analogous to any of the steps or events
+          listed at (a) to (d) above; or
+
+     (f)  CAT proposes or makes any general assignment, composition or
+          arrangement with or for the benefit of all or some of CAT's creditors
+          or makes or suspends or threatens to suspend making payments to all or
+          some of CAT's creditors or CAT submits to any type of voluntary
+          arrangement; or
+
+     (g)  CAT is deemed to be unable to pay its debts within the meaning of
+          Section 123 Insolvency Act 1986 (UK).
+
+     1.14 "Library License" means that certain Antibody Library License
+Agreement dated December 22, 2002 by and between CAT and XOMA Technology Ltd.
+
+     1.15 "Licensed Antibody Phage Display Materials" means (i) any collection
+or library of polynucleotide sequences (including without limitation a CAT
+Library), created by CAT and under the exclusive control of CAT, which encodes
+at least one Immunoglobulin and which is contained in filamentous bacteriophage
+and/or bacteriophage or phagemid cloning vectors capable of propagation in
+bacteria; or (ii) any collection or library of bacteriophage (including without
+limitation a CAT Library), created by or under the exclusive control of CAT,
+wherein an Immunoglobulin is expressed as a fusion protein comprising an
+Immunoglobulin and an outer surface polypeptide of a bacteriophage. For the
+avoidance of doubt, and without expanding the definition thereof, specifically
+excluded from the definition of Licensed Antibody Phage Display Materials are
+(x) any article of manufacture or composition of
+
+
+<PAGE>
+                                      -5-
+
+
+matter suitable for display, expression or secretion of an Immunoglobulin in or
+from any organism or system other than bacteria and (y) any materials or
+composition of matter otherwise meeting the definition of Licensed Antibody
+Phage Display Materials but created by or under the control of any entity, other
+than CAT, engaged in a Commercial Antibody Phage Display Business; provided
+that, notwithstanding the foregoing, any materials or composition of matter
+otherwise meeting the definition of Licensed Antibody Phage Display Materials
+but created by or under the exclusive control of a CAT Collaborator shall
+constitute Licensed Antibody Phage Display Materials, but only to the extent
+derived by such CAT Collaborator exclusively from Licensed Antibody Phage
+Display Materials created by or under the exclusive control of CAT and properly
+transferred by CAT to such CAT Collaborator in accordance with the applicable
+provisions of this Agreement and, with respect to such transfers after the
+Effective Date, such CAT Collaborator acknowledges that the transfer
+restrictions and other provisions hereof apply thereto. "Licensed Antibody Phage
+Display Materials" shall not include any such article of manufacture or
+composition of matter infringing or arising out of the infringement of any Valid
+Claim of any patent or patent application under the control of CAT and which is
+excluded from the scope of any license grant made to XOMA Technology Ltd.
+pursuant to the Library License solely by virtue of Clause 1.1.10.3, 1.1.13(ii)
+or 7.9 thereof, which are set forth on Schedule 1.15.
+
+     1.16 "Licensed Immunoglobulin" means any Immunoglobulin discovered,
+isolated or characterized by CAT or a CAT Collaborator through the use of
+Licensed Antibody Phage Display Materials. "Licensed Immunoglobulin" shall not
+include any such Immunoglobulin infringing or arising out of the infringement of
+any Valid Claim of any patent or patent application under the control of CAT and
+which is excluded from the scope of any license grant made to XOMA Technology
+Ltd. pursuant to the Library License solely by virtue of Clause 1.1.10.3,
+1.1.13(ii) or 7.9 thereof, which are set forth on Schedule 1.15.
+
+     1.17 "Licensed Immunoglobulin Information" means any data, know-how or
+other information relating, concerning or pertaining to a Licensed
+Immunoglobulin, including, without limitation, data, know-how or other
+information characterizing or constituting such Licensed Immunoglobulin's
+polynucleotide or amino acid sequence, purported function or utility, antigen
+binding affinity, or physical or biochemical property. "Licensed Immunoglobulin
+Information" shall not include any such data, know-how or other information
+infringing or arising out of the infringement of any Valid Claim of any patent
+or patent application under the control of CAT and which is excluded from the
+scope of any license grant made to XOMA Technology Ltd. pursuant to the Library
+License solely by virtue of Clause 1.1.10.3, 1.1.13(ii) or 7.9 thereof, which
+are set forth on Schedule 1.15.
+
+     1.18 "Major Market" means the United States of America, the United Kingdom,
+Germany, France, Italy, Spain or Japan.
+
+
+<PAGE>
+                                      -6-
+
+
+     1.19 "Marketing Authorization" means any approval (including all applicable
+pricing and governmental reimbursement approvals) required from the relevant
+regulatory or other competent authority to market or sell a Product in any
+country.
+
+     1.20 "Microarray" means an Antibody based assay containing two (2) or more
+CAT Library Antibodies of different analyte specificities for the purpose of
+detecting and/or measuring two (2) or more different analyte molecules in the
+same assay.
+
+     1.21 "MRC" means the Medical Research Council.
+
+     1.22 "Net Sales" means the gross invoice price of Product sold, whether
+directly or through a Third Party, by CAT or any joint venture in which CAT is a
+participant, to the first independent Third Party after deducting, if not
+previously deducted, from the amount invoiced or received: (a) trade and
+quantity discounts; (b) returns, rebates and allowances; (c) chargebacks and
+other amounts paid on sale or dispensing of Product; (d) retroactive price
+reductions that are actually allowed or granted; (e) sales commissions paid to
+distributors and/or selling agents; (f) transportation and insurance charges;
+and (g) taxes, tariffs, customs and surcharges and other governmental charges
+incurred in connection with the sale, export or import of Product, all
+determined in accordance with U.S. generally accepted accounting principles. The
+deductions set out in (a) to (g) above shall not exceed ten percent (10%) of the
+gross amount invoiced by or on behalf of CAT, or any joint venture or similar
+entity or arrangement in which CAT is a participant, to Third Parties. Net Sales
+shall not include the gross invoice price of Products sold by a CAT Collaborator
+other than when sold directly or indirectly for CAT. Without limiting the prior
+sentence, Net Sales shall include the gross invoice price of any Product as to
+which at any time CAT had or retains decision-making authority over the
+initiation of clinical trials and/or commercialization of such Product.
+
+     1.23 "Phase III Clinical Trial" means a pivotal human clinical trial in any
+country the results of which could be used to establish safety and efficacy of a
+Product as a basis for a Marketing Authorization application that would satisfy
+the requirements of U.S. 21 CFR 312.21(c) or its non-U.S. equivalent.
+
+     1.24 "Product" means any composition of matter or article of manufacture,
+including without limitation any diagnostic, prophylactic or therapeutic or
+product, which (a) contains a Licensed Immunoglobulin; or (b) was discovered or
+created by or arose directly out of use of Licensed Antibody Phage Display
+Materials or the conduct of Antibody Phage Display by CAT or a CAT Collaborator;
+or (c) is sold by or on behalf of CAT or a CAT Collaborator under conditions
+which, if unlicensed, would constitute infringement of one or more Valid Claims
+within the XOMA Patent Rights. For the avoidance of doubt, any composition of
+matter or article of manufacture arising out of CAT's practice of cell-free
+ribosome display or yeast display is not included in the definition of Product
+but only to the extent such practice or the development or manufacture of such
+composition of matter or article of manufacture does
+
+
+<PAGE>
+                                      -7-
+
+
+not include the use of any Licensed Antibody Phage Display Materials or the
+infringement of any Valid Claim of any XOMA Patent Rights.
+
+     1.25 "Research and Development" means the identification, selection,
+isolation, purification, characterization, study and/or testing of an
+Immunoglobulin for any purpose, including, without limitation, the discovery and
+development of human therapeutics or diagnostics. Included within the definition
+of "Research and Development" shall be all in vitro or in vivo screening or
+assays customarily performed in pre-clinical and clinical research and uses
+associated with obtaining FDA or equivalent agency regulatory approval.
+"Research and Development" shall not include commercial or industrial
+manufacture or any activities solely directed to the creation of such
+capacities.
+
+     1.26 "Research Quantities" means only those quantities of an Immunoglobulin
+reasonably required for Research and Development purposes.
+
+     1.27 "Target" means (i) DNA and all post-transcriptional material encoded
+by such DNA, including all naturally occurring or disease-associated
+truncations, mutations, variants, fragments and post-transcriptional
+modifications thereof (including but not limited to splice variants) and all
+material encoded by such post-transcriptional material including but not limited
+to proteins; (ii) the DNA encoding a polypeptide or protein, as identified by a
+sequence of amino acids, and all post-translational variants thereof including
+but not limited to glycosylation and phosphorylation modifications. For the
+avoidance of doubt for the purposes of this Agreement, an Antibody is not a
+Target.
+
+     1.28 "Third Party" means any person or entity other than CAT or XOMA.
+
+     1.29 "Valid Claim" means a claim of an issued and unexpired patent included
+within the XOMA Patent Rights or, in the case of Sections 1.15, 1.16 and 1.17,
+under the control of CAT, in each case that has not been held invalid in a final
+decision of a court of competent jurisdiction from which no appeal has been or
+may be taken, and which has not been disclaimed or admitted to be invalid or
+unenforceable through reissue or otherwise.
+
+     1.30 "XOMA Patent Right(s)" means the patent applications and patents
+listed on Schedule 1.30 hereto and all divisions, continuations,
+continuations-in-part, applications claiming priority thereto, and substitutions
+thereof; all foreign patent applications corresponding to the preceding
+applications; and all U.S. and foreign patents issuing on any of the preceding
+applications, including extensions, reissues and re-examinations; and any other
+patent rights owned by XOMA which XOMA has the right to license or sublicense
+and which would be infringed by the activities of CAT contemplated hereunder but
+for this Agreement. XOMA Patent Rights shall also include (i) any improvements
+of the foregoing that are owned or controlled by XOMA and (ii) any patents or
+patent applications owned or controlled by XOMA containing a claim that is
+dominating over the foregoing patent rights (i.e., is necessarily in-
+
+
+<PAGE>
+                                      -8-
+
+
+fringed by the practicing of a claim in one of the foregoing applications). For
+the avoidance of doubt and consistent with the interpretation of the foregoing
+definition that such patents are not included therein, the following patents are
+excluded from the definition of XOMA Patent Rights: US Patent No. 5,576,195, US
+Patent No. 5,846,818, and US Patent No. 6,120,787.
+
+
+                                    ARTICLE 2
+
+                               XOMA LICENSE TO CAT
+
+     2.1 Grants. Subject to the other terms and conditions of this Agreement,
+XOMA hereby grants to CAT a worldwide, non-exclusive, non-transferable license
+(unless transferred under Section 8.2), solely on its own behalf and on behalf
+of any CAT Collaborator, without any right to sublicense, under the XOMA Patent
+Rights to:
+
+     (a)  Make or have made Licensed Antibody Phage Display Materials;
+
+     (b)  Solely for Research and Development purposes, conduct Antibody Phage
+          Display;
+
+     (c)  Make or have made Research Quantities of a Licensed Immunoglobulin;
+
+     (d)  Transfer Antibody Phage Display Materials, Research Quantities of a
+          Licensed Immunoglobulin or Licensed Immunoglobulin Information to a
+          CAT Collaborator; and
+
+     (e)  Use, sell, offer to sell, import and export Licensed Immunoglobulins.
+
+     2.2 Covenant Not To Sue. XOMA covenants that it shall not initiate any
+action asserting a claim of infringement under the XOMA Patent Rights against
+CAT or any CAT Collaborator solely to the extent reasonably necessary to permit
+the authorized use of Licensed Antibody Phage Display Materials, Licensed
+Immunoglobulins or Licensed Immunoglobulin Information for activities or in a
+manner otherwise permitted under the provisions of this Agreement. The covenant
+not to sue provided by this Section 2.2:
+
+     (a)  shall not extend to infringement of the XOMA Patent Rights arising out
+          of making or the means or methods used to make any amount of a
+          Licensed Immunoglobulin or Product other than Research Quantities;
+
+     (b)  shall become void and without effect with respect to any entity or
+          person who claims its benefit and fails to materially discharge or
+          comply with any term of its written agreement with CAT provided for in
+          Section 2.4, but only with repect to such entity or person;
+
+
+<PAGE>
+                                      -9-
+
+
+     (c)  is personal to CAT or, as applicable, a CAT Collaborator, and, except
+          as provided for by Section 8.2, cannot be assigned or transferred; and
+
+     (d)  subject to and without prejudice to the release set forth in Section
+          2.8, does not constitute a release or waiver of past, present or
+          future infringement of the XOMA Patent Rights by CAT or any Third
+          Party, including, without limitation, any CAT Collaborator acting
+          outside of the scope of the written agreement with CAT provided for in
+          Section 2.4.
+
+     2.3 No Implied Rights. Only the rights and licenses granted pursuant to the
+express terms of this Agreement shall be of any legal force or effect. No
+license or other rights shall be deemed to have been granted to CAT or a CAT
+Collaborator other than as expressly provided for in this Agreement. For the
+avoidance of doubt, the grants of rights made pursuant to Sections 2.1 and 2.2
+do not include, and expressly exclude, the following:
+
+     (a)  any right or license to engage in any activities on behalf of or in
+          collaboration with any Third Party, other than a CAT Collaborator;
+
+     (b)  any right or license to make or have made any amount (other than
+          Research Quantities) of a Licensed Immunoglobulin or Product by
+          practicing the XOMA Patent Rights; provided, however, that CAT or, as
+          applicable, a CAT Collaborator shall be permitted to make or have made
+          any Licensed Immunoglobulin by any means of its selection other than
+          those which otherwise infringe a Valid Claim of the XOMA Patent
+          Rights; and/or
+
+     (c)  any right to release any Third Party, including a CAT Collaborator,
+          from any claim of infringement under the XOMA Patent Rights.
+
+     2.4 Transfer Restrictions. (a) Except for any person or entity constituting
+a CAT Collaborator as of the Effective Date, CAT shall not (i) undertake any
+Antibody Phage Display activities on behalf of a Third Party or (ii) Dispose of
+Licensed Antibody Phage Display Materials, a Licensed Immunoglobulin, Licensed
+Immunoglobulin Information or the product of the practice of any method within
+the scope of the Valid Claims of the XOMA Patents ("Transferred Materials") to
+any Third Party until (in the case of either clause (i) or clause (ii)) such
+time as CAT has provided to such Third Party the redacted copy of this Agreement
+referred to in Section 4.2 and the form of notice set out at Schedule 2.4. For
+the avoidance of doubt, any person or entity constituting a CAT Collaborator on
+the Effective Date may continue to claim the status of CAT Collaborator with
+respect to articles of manufacture or compositions of matter Disposed of by CAT
+after the Effective Date only to the extent CAT and such person or entity comply
+with the requirements of this Section 2.4 with respect thereto.
+
+
+<PAGE>
+                                      -10-
+
+
+     (b) If CAT enters into a written arrangement after the Effective Date with
+any Third Party or any entity identified in column (a) of Schedule 1.4 arising
+out of or relating to activities as to which it or such Third Party does or
+intends to claim the benefits of any of the licenses or other grants provided
+for by this Agreement, such written arrangement shall contain provisions (i)
+pursuant to which the recipient of any Transferred Materials agrees to abide by
+each of the limitations, restrictions and other obligations applicable to CAT
+Collaborators provided for by this Agreement as described in Schedule 4.2,
+including, without limitation, the restrictions on use of Transferred Materials
+for purposes other than Research and Development; (ii) providing that any
+amounts paid to CAT shall not constitute payments to XOMA; and (iii) permitting
+a CAT Collaborator to further Dispose of Licensed Antibody Phage Display
+Materials or any materials the use of which results in the practice of any
+method within the scope of any Valid Claim of the XOMA Patent Rights, but only
+to a Third Party who otherwise meets the definition of a CAT Collaborator as
+described in Schedule 4.2. Without limiting the foregoing, such CAT Collaborator
+may transfer to a Third Party a Licensed Immunoglobulin or Licensed
+Immunoglobulin Information derived from Licensed Antibody Phage Display
+Materials under this Agreement. XOMA shall be, and the agreements subject to
+this Section 2.4 shall provide that XOMA shall be, an intended third party
+beneficiary with respect to the foregoing provisions. If no Disposition of
+Transferred Materials is contemplated by such arrangement, then the provisions
+of this Section 2.4(b) shall not apply. If, however, there is a subsequent
+Disposition of Transferred Materials to such Third Party, then such Disposition
+must occur under a written agreement which contains the provisions required by
+this Section 2.4(b) or the Third party shall not have the benefit of any of the
+licenses or other rights granted in this Agreement.
+
+     (c) The provisions of Sections 2.4(a) and (b) shall not apply to any
+persons or entities engaged solely in academic, non-commercial activity or who
+are merely evaluating CAT's technology and who subsequently do not enter into
+any written arrangement. Such persons or entities shall not have the benefit of
+any of the licenses or other rights granted in this Agreement unless and until
+the requirements of Sections 2.4(a) and (b) have been complied with.
+
+     2.5 Reports, Records and Audits. (a) Thirty (30) days after the end of each
+calendar quarter, commencing with the first calendar quarter commencing after
+the Effective Date, CAT shall deliver to XOMA a written report which shall
+specify the name, address and contact person for each and every CAT Collaborator
+and any person or entity receiving Licensed Antibody Phage Display Materials or
+a Licensed Immunoglobulin (other than persons or entities engaged solely in
+academic, non-commercial activity or who are merely evaluating CAT's technology
+and who subsequently do not enter into any written arrangement).
+
+     (b) Not later than thirty (30) days after the end of each calendar year,
+commencing with the first calendar year to commence after the Effective Date, as
+and to the extent publicly disclosed by CAT (whether in press releases,
+government filings or otherwise), CAT shall de-
+
+
+<PAGE>
+                                      -11-
+
+
+liver to XOMA written materials pertaining to the current status of activities
+or compositions of matter as to which CAT claims the right of license hereunder.
+
+     (c) CAT shall maintain records fully and properly reflecting those
+activities covered by this Agreement (including, without limitation, work done
+with the Licensed Antibody Phage Display Materials) and/or to be reported to
+XOMA pursuant to this Section 2.5 (the "Records"), in reasonable detail and in
+good scientific manner for at least three (3) years. Upon the written request of
+XOMA and not more than once in each calendar year, CAT shall permit an
+independent consultant appointed by XOMA and reasonably acceptable to CAT and
+which executes a confidentiality agreement reasonably acceptable to CAT, at
+XOMA's expense, to have access during normal business hours to such of the
+records of CAT as may be reasonably necessary to verify fulfillment of the terms
+of this Agreement, as well as the accuracy of the reports hereunder. CAT shall
+verify in writing any statements by CAT personnel as to their accuracy and
+correctness. The consultant shall not be permitted to see or receive any
+specific information concerning targets or antibodies of either CAT or any of
+its collaborators and shall disclose to XOMA only the results and conclusions of
+its review and the specific details concerning any discrepancies. No other
+information shall be shared by the consultant without the prior express written
+consent of CAT unless disclosure is required by law, regulation or judicial
+order.
+
+     2.6 Ownership; Enforcement. At all times XOMA will retain ownership of the
+XOMA Patent Rights and may use and commercialize such XOMA Patent Rights itself
+or with any Third Party. XOMA retains the right, at its sole discretion, to
+enforce, maintain and otherwise protect the XOMA Patent Rights. CAT will
+reasonably cooperate with XOMA, at XOMA's expense, with respect to any actions
+XOMA may choose to take related to the enforcement, maintenance or protection of
+the XOMA Patent Rights; provided that nothing in the last sentence of this
+Section 2.6 shall require CAT to breach any contractual obligations to any Third
+Party.
+
+     2.7 Oppositions and/or Appeals to Oppositions. So long as XOMA is in
+material compliance with its obligations under this Agreement, and subject to
+any specific contractual obligations of CAT existing on the Effective Date in
+circumstances constituting, in the reasonable, written opinion of counsel to
+CAT, a breach thereof, CAT agrees not to enter into any opposition to and/or
+appeal from any decision by the patent authorities of any country regarding the
+XOMA Patent Rights and shall not knowingly assist or otherwise cooperate with
+another party in any such opposition or appeal.
+
+     2.8 Release. For consideration set forth herein (including payment in full
+of the amounts set forth in Section 3.1), the sufficiency of which (once so
+paid) is hereby acknowledged, XOMA permanently and forever and without further
+payment or condition releases CAT and its current, former and future parents,
+subsidiaries, related entities, and their fiduci-
+
+
+<PAGE>
+                                      -12-
+
+
+aries, predecessors, successors, officers, directors, shareholders, agents,
+employees and permitted assigns and those Third Parties identified upon Schedule
+1.4 from any and all claims, causes of action, liabilities, demands, rights of
+action and/or damages (actual, direct, consequential or otherwise) of any nature
+and of every kind, known or unknown, suspected or unsuspected, disclosed and
+undisclosed, as of the Effective Date arising out of and/or based upon or
+relating in any way to any infringement or alleged infringement of the XOMA
+Patent Rights (the "Release"); provided, however, that the Release provided for
+in this Section 2.8 shall extend only to claims, causes of action, liabilities,
+demands, rights of action and/or damages existing as of the Effective Date and
+which arose solely out of those activities specified in Schedule 1.4. XOMA
+acknowledges that it may discover facts different from or in addition to those
+which it now knows or believes to be true and that the Release shall be and
+remain effective in all respects notwithstanding such different or additional
+facts or the discovery thereof. XOMA expressly waives the benefits of any
+statutory provision or common law rule that provides, in sum or substance, that
+a release does not extend to claims which the party does not know or suspect to
+exist in its favor at the time of executing the release, which if known by it,
+would have materially affected its agreement to release the other party. In
+particular, but without limitation, XOMA expressly waives the provisions of
+California Civil Code section 1542, which statute reads:
+
+     A GENERAL RELEASE DOES NOT EXTEND TO CLAIMS WHICH THE CREDITOR DOES NOT
+     KNOW OR SUSPECT TO EXIST IN HIS FAVOR AT THE TIME OF EXECUTING THE RELEASE,
+     WHICH IF KNOWN BY HIM MUST HAVE MATERIALLY AFFECTED HIS SETTLEMENT WITH THE
+     DEBTOR.
+
+Nothing in this Section 2.8 shall be deemed to be a release of any claim, demand
+or right of action XOMA may now or in the future have against [*] as of the
+Effective Date or any of their collaborators. The Release shall become
+irrevocable only upon receipt by XOMA of payment in full by CAT of the amounts
+set forth in Section 3.1 and shall be revoked in its entirety and null and void
+ab initio, immediately and without further action of the parties, in the event
+any such payment by CAT is not received in full by XOMA on or prior to the date
+on which such amount is due, regardless of any payment received thereafter.
+
+     2.9 CAT Covenant Not To Sue. CAT covenants that it shall not initiate or
+permit any Third Party over whom it has control to initiate or knowingly assist
+in any way in the initiation or prosecution of any action asserting any claims,
+including claims of infringement, under any patents or patent applications under
+CAT's control or with respect to which it has the right to sue against XOMA or
+any Third Party working with XOMA solely to the extent such claims arise out of
+XOMA's activities constituting practice or infringement of any Valid Claim of
+the XOMA Patent Rights; provided, however, that the covenant contained in this
+Section 2.9 shall not extend to any claim of a patent or patent application that
+specifically claims a particular Immunoglobulin or a particular Target.
+
+
+<PAGE>
+                                      -13-
+
+
+                                    ARTICLE 3
+
+                                    PAYMENTS
+
+     3.1 Fees. In consideration for XOMA's execution of this Agreement,
+including without limitation the license and other rights granted in Sections
+2.1 and 2.2 and the release provided by Section 2.8, CAT shall enter into the
+Library License and pay XOMA a non-refundable fee of Four Million Three Hundred
+Fifty Thousand United States Dollars (US$4,350,000), payable in installments as
+follows:
+
+     (a)  the first such installment, in the amount of Two Million United States
+          Dollars (US$2,000,000), shall be due on or before December 30, 2002
+          and payable in cash; and
+
+     (b)  the second such installment, in the amount of Two Million Three
+          Hundred Fifty Thousand United States Dollars (US$2,350,000), shall be
+          due on or before February 15, 2003 and payable in cash.
+
+     3.2 Royalties. (a) During the term of this Agreement, CAT shall pay to XOMA
+(i) a royalty in cash equal to [*] percent ([*]%) of Net Sales of Products other
+than Diagnostic Products in each calendar quarter and (ii) a royalty in cash
+equal to[*] percent ([*]%) of Net Sales of Diagnostic Products in each calendar
+quarter, in each case commencing with the first calendar quarter ending after
+the Effective Date. Notwithstanding the foregoing, CAT shall have the option of
+reducing the royalty rate with respect to any particular Product (but only such
+Product) to [*]% by making a one-time cash payment in the amount of (A) [*]
+Dollars (US$[*]) to XOMA, provided such payment is made within thirty (30) days
+of the granting of Marketing Authorization for such Product in the first Major
+Market in which such a Marketing Authorization is granted, or (B) [*] Dollars
+(US$[*]) to XOMA, provided such payment is made within thirty (30) days of
+administration of such Product to the first human subject in the first Phase III
+Clinical Trial of such Product. Timely payment of the applicable amount set
+forth in the immediately preceding sentence (i) shall mean the license hereunder
+shall be fully paid up with respect to the Product as to which such payment was
+made and (ii) shall serve to reduce the royalty obligation as provided above
+with respect to all variations in dosage or formulation, any additional
+indications and any changes in manufacturing with respect to such Product. Any
+royalty otherwise due hereunder on Net Sales of the CAT-152 (lerdelimumab) human
+anti-TGF(beta)2 monoclonal antibody, as more fully described in the
+Investigational New Drug Application submitted to the U.S. Food & Drug
+Administration in November 2002, is hereby reduced to [*]%.
+
+     (b) Royalties due under this Article 3 shall be payable on a
+country-by-country and Product-by-Product basis from the first commercial sale
+of such Product until the expiration of the last-to-expire XOMA Patent Right in
+such country during the time and with respect to
+
+
+<PAGE>
+                                      -14-
+
+
+which a Valid Claim covers the manufacture, use, sale, offer for sale, import or
+export of such Product in such country. CAT shall be obligated to make only one
+royalty payment for each such Product regardless of how many Valid Claims within
+the XOMA Patent Rights may cover said Product.
+
+     (c) In order to assist in the understanding of the provisions of Section
+1.22 and Section 3.2, the following non-limiting examples are provided. Each
+example assumes that the transactions described therein are bona fide, arms'
+length transactions pursuant to legal, valid and binding agreements.
+
+     Example 1A: Facts: CAT uses Antibody Phage Display to identify a Licensed
+     Immunoglobulin which it subsequently sells directly or through an agent.
+     Result: CAT owes a royalty to XOMA.
+
+     Example 1B: Facts: CAT uses Antibody Phage Display to identify a Licensed
+     Immunoglobulin which it subsequently licenses to a Third Party for such
+     Third Party to sell directly or through an agent or sublicensee. Result:
+     CAT owes a royalty to XOMA.
+
+     Example 2: Facts: A CAT Collaborator uses Licensed Antibody Phage Display
+     Materials to identify a Licensed Immunoglobulin which, by or on its own
+     behalf, it subsequently sells directly or through an agent or licensee.
+     Result: CAT and the CAT Collaborator do not owe a royalty to XOMA. This is
+     true regardless of whether CAT is paid a royalty or other consideration
+     contingent on the sales.
+
+     Example 3: Facts: A CAT Collaborator provides CAT with a pre-existing
+     Immunoglobulin or Target, and CAT uses Licensed Antibody Phage Display
+     Materials to find an optimized Licensed Immunoglobulin and retains no
+     ownership interest in the Licensed Immunoglobulin. Result: CAT and the CAT
+     Collaborator owe no royalty to XOMA. This is true regardless of whether CAT
+     is paid a royalty or other consideration contingent on amount of sales.
+
+     Example 4A: Facts: A CAT Collaborator or CAT uses Licensed Antibody Phage
+     Display Materials to identify a Licensed Immunoglobulin which, in a
+     fifty/fifty joint venture that includes CAT, is sold directly or through an
+     agent or licensee. Result: CAT owes a royalty to XOMA.
+
+     Example 4B: Facts: A CAT Collaborator provides Targets to CAT who uses
+     Licensed Antibody Phage Display Materials to identify a Licensed
+     Immunoglobulin. The CAT Collaborator and CAT agree to jointly develop the
+     Licensed Immunoglobulin. CAT retains ownership of the Licensed
+     Immunoglobulin, which is subsequently sold directly or through an agent or
+     licensee. Result: CAT owes a royalty to XOMA.
+
+
+<PAGE>
+                                      -15-
+
+
+     3.3 Payments; Currency. All cash payments due hereunder shall be paid by
+wire transfer in United States Dollars in immediately available funds to an
+account designated by XOMA. Payments required pursuant to Section 3.2 hereof
+shall be due and payable to XOMA when the corresponding Net Sales are received
+by CAT (or any joint venture or similar entity in which CAT is a participant)
+and shall be paid within sixty (60) days of the end of each calendar quarter. If
+any currency conversion shall be required in connection with the payment of any
+royalties hereunder, such conversion shall be made by using the exchange rate
+for the purchase of United States Dollars quoted in the U.S. version of the Wall
+Street Journal on the last business day of the calendar quarter to which such
+payments relate.
+
+     3.4 Payment Reports. After the first commercial sale of a Product on which
+royalties are required to be paid hereunder, CAT shall make quarterly written
+reports to XOMA within sixty (60) days after the end of each calendar quarter,
+stating in each such report, by country, the number, description, and aggregate
+Net Sales of each Product sold during the calendar quarter. XOMA shall treat all
+such reports as Confidential Information of CAT. Concurrently with the making of
+such reports, CAT shall pay XOMA the amounts specified in Section 3.2 hereof.
+
+     3.5 Payment Records and Inspection. CAT shall keep complete, true and
+accurate books of account and records for the purpose of determining the amounts
+payable under this Agreement. Such books and records shall be kept at the
+principal place of business of CAT for at least seven (7) years following the
+end of the calendar quarter to which they pertain. Upon the written request of
+XOMA and not more than once in each calendar year, CAT shall permit an
+independent consultant appointed by XOMA and reasonably acceptable to CAT to
+have access during normal business hours to such of the records of CAT as may be
+reasonably necessary to verify the accuracy of the royalty reports hereunder for
+any year ending not more than twenty-four (24) months prior to the date of such
+request. The consultant shall disclose to XOMA only the results and conclusions
+of its review and the specific details concerning any discrepancies. No other
+information shall be shared by the consultant without the prior express written
+consent of CAT unless disclosure is required by law, regulation or judicial
+order. The consultant may be obliged to execute a reasonable confidentiality
+agreement prior to commencing any such inspection. Inspections conducted under
+this Section 3.5 shall be at the expense of XOMA, unless an underpayment
+exceeding five percent (5%) of the amount stated for the full period covered by
+the inspection is identified, in which case all out-of-pocket costs relating to
+the inspection will be paid by CAT. Any underpayments or unpaid amounts
+discovered by such inspections or otherwise will be paid immediately by CAT,
+with interest from the date(s) such amount(s) were due at a rate equal to the
+lesser of the prime rate reported by the Bank of America plus three percent (3%)
+or the highest interest rate permitted under applicable law.
+
+
+<PAGE>
+                                      -16-
+
+
+     3.6 No Admissions. The parties acknowledge and affirm that the amounts set
+forth in this Article 3 do not constitute an admission by either party either as
+to the alleged damages suffered by XOMA with respect to any alleged past
+infringement of the XOMA Patent Rights or respecting the calculation of a
+reasonable royalty by any court or trier of fact. The parties further
+acknowledge and affirm that CAT has determined to enter into this license solely
+for business reasons and the avoidance of unnecessary litigation, that CAT does
+not acknowledge or admit that the XOMA Patent Rights are valid or infringed, and
+that this license agreement may not be used under any circumstances, whether in
+litigation or otherwise, as evidence of the validity or infringement of any of
+the XOMA Patent Rights or any claims thereof.
+
+                                    ARTICLE 4
+
+                                 CONFIDENTIALITY
+
+     4.1 Confidential Information. Except as expressly provided herein, the
+parties agree that, for the term of this Agreement and for five (5) years
+thereafter, the receiving party shall keep completely confidential and shall not
+publish or otherwise disclose and shall not use for any purpose except for the
+purposes contemplated by this Agreement any Confidential Information furnished
+to it by the disclosing party hereto, except to the extent that it can be
+established by the receiving party by written proof that such Confidential
+Information:
+
+     (a)  was already known to the receiving party, other than under an
+          obligation of confidentiality, at the time of disclosure;
+
+     (b)  was generally available to the public or otherwise part of the public
+          domain at the time of its disclosure to the receiving party;
+
+     (c)  became generally available to the public or otherwise part of the
+          public domain after its disclosure other than through any act or
+          omission of the receiving party in breach of this Agreement; or
+
+     (d)  was subsequently lawfully disclosed to the receiving party by a person
+          other than a party hereto.
+
+     4.2 Permitted Use and Disclosures. Each party hereto may use or disclose
+information disclosed to it by the other party to the extent such use or
+disclosure is reasonably necessary in complying with applicable law or
+government regulations or conducting clinical trials; provided, however, that if
+a party is required to make any such disclosure of another party's Confidential
+Information, other than pursuant to a confidentiality agreement, it will give
+reasonable advance notice to the latter party of such disclosure and will use
+its reasonable efforts to secure confidential treatment of such information
+prior to its disclosure (whether through protective orders or otherwise).
+Attached hereto as Schedule 4.2 is a redacted copy of
+
+
+<PAGE>
+                                      -17-
+
+
+this Agreement which CAT shall be free, without obtaining any consent from XOMA,
+to provide to Third Parties who indicate an interest in becoming a CAT
+Collaborator.
+
+     4.3 Confidential Terms. Except as expressly provided herein, CAT agrees not
+to disclose any terms of this Agreement to any Third Party without the consent
+of XOMA, and XOMA agrees not to disclose any terms of this Agreement to any
+Third Party without the express written consent of CAT; provided that
+disclosures may be made as required by securities or other applicable laws, or
+confidentially to a party's accountants, attorneys and other professional
+advisors.
+
+     4.4 Agreement Announcement. The parties hereby agree to the release of a
+press release in the form attached hereto as Schedule 4.4 upon full execution of
+this Agreement and that the consummation of this Agreement, as well as such
+terms as are expressly described in such press release, shall be deemed to be in
+the public domain.
+
+
+                                    ARTICLE 5
+
+                         REPRESENTATIONS AND WARRANTIES
+
+     5.1 Representations and Warranties. (a) XOMA represents and warrants to CAT
+that: (i) it is the sole and exclusive owner or exclusive licensee of all right,
+title and interest in the XOMA Patent Rights; (ii) XOMA has the legal right,
+authority and power to enter into this Agreement; (iii) this Agreement shall
+constitute a valid and binding obligation of XOMA enforceable in accordance with
+its terms; (iv) the performance of obligations under this Agreement by XOMA will
+not result in a breach of any agreements, contracts or other arrangements to
+which it is a party; and (v) based on the representation by CAT set forth in
+Section 5.1(b)(iv), to XOMA's knowledge the patents set forth in the last
+sentence of Section 1.30 need not be licensed to CAT.
+
+     (b) CAT represents and warrants to XOMA that: (i) CAT has the legal right,
+authority and power to enter into this Agreement; (ii) this Agreement shall
+constitute a valid and binding obligation of CAT enforceable in accordance with
+its terms; (iii) the performance of obligations under this Agreement by CAT will
+not result in a breach of any agreements, contracts or other arrangements to
+which it is a party; and (iv) CAT does not use and has not used the pelB signal
+sequence.
+
+     5.2 Disclaimer. Nothing in this Agreement is or shall be construed as:
+
+          (a) A warranty or representation by XOMA as to the validity or scope
+     of any claim or patent within the XOMA Patent Rights;
+
+
+<PAGE>
+                                      -18-
+
+
+          (b) An admission, acceptance, acknowledgment, statement, declaration,
+     or representation by either party as to the infringement, validity or scope
+     of any claim or patent within the patents licensed hereunder or as to which
+     rights are granted hereunder;
+
+          (c) A warranty or representation that anything made, used, sold, or
+     otherwise disposed of under any license granted in this Agreement is or
+     will be free from infringement of any patent rights or similar intellectual
+     property right of any Third Party; or
+
+          (d) An obligation to bring or prosecute actions or suits against Third
+     Parties for infringement of any of the XOMA Patent Rights.
+
+     5.3 No Other Warranties. EXCEPT AS OTHERWISE SET FORTH IN SECTION 5.1
+ABOVE, XOMA MAKES NO WARRANTIES WITH RESPECT TO ANY OF THE PATENT RIGHTS
+LICENSED HEREUNDER, EXPRESS OR IMPLIED, EITHER IN FACT OR BY OPERATION OF LAW,
+BY STATUTE OR OTHERWISE, AND XOMA SPECIFICALLY DISCLAIMS ANY EXPRESS OR IMPLIED
+WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, VALIDITY OF SUCH
+PATENT RIGHTS OR NON-INFRINGEMENT OF THE INTELLECTUAL PROPERTY RIGHTS OF ANY
+THIRD PARTY.
+
+     5.4 Certain Agreements. CAT represents and warrants that it has in its
+possession, and agrees that throughout the term of this Agreement and for five
+(5) years thereafter it will maintain in an accessible location, true, complete
+and legible copies of each of the agreements set forth on Schedule 1.4 as in
+effect on the Effective Date, including all schedules, exhibits and other
+similar documents necessary for the correct interpretation of the provisions
+thereof.
+
+                                    ARTICLE 6
+
+                                 INDEMNIFICATION
+
+     6.1 Indemnification. CAT agrees to indemnify, defend and hold XOMA and its
+directors, officers, employees and agents (the "Indemnified Parties" and each,
+an "Indemnified Party") harmless from and against any and all liabilities,
+losses and expenses (including, without limitation, reasonable attorneys and
+professional fees and other costs of litigation), resulting from any claims,
+demands or causes of action by any party other than CAT (each, a "Liability")
+arising out of (i) the possession, manufacture, use, sale or other disposition
+of Product, Licensed Antibody Phage Display Materials, Licensed Immunoglobulin
+or the provisions of any service or goods relating thereto by CAT or any
+customer, vendor or other representative of CAT, whether based on breach of
+warranty, negligence, product liability or otherwise, or (ii) the exercise of
+any right granted to CAT pursuant to this Agreement, except to the ex-
+
+
+<PAGE>
+                                      -19-
+
+
+tent, in each case, that such Liability is caused by the negligence or willful
+misconduct of XOMA.
+
+     6.2 Procedure. To receive the benefit of indemnification under Section 6.1,
+an Indemnified Party must (a) promptly notify CAT in writing of a claim or suit;
+provided that failure to give such notice shall not relieve CAT of its
+indemnification obligations except where, and solely to the extent that, such
+failure actually and materially prejudices the rights of CAT; (b) provide
+reasonable cooperation (at CAT's expense); and (c) tender to CAT (and its
+insurer) full authority to defend or settle the claim or suit; provided that no
+settlement requiring any admission by the Indemnified Party or that imposes any
+obligation on the Indemnified Party shall be made without the Indemnified
+Party's consent, which consent shall not be unreasonably withheld; and provided,
+further, that nothing herein shall be deemed to give CAT any right to control
+any proceeding involving the XOMA Patent Rights or any claim XOMA may bring
+against any Third Party. CAT shall not have any obligation to indemnify the
+other party in connection with any settlement made without CAT's written
+consent. The Indemnified Party has the right to participate at its own expense,
+such expense not to be deemed a Liability, in the claim or suit and in selecting
+counsel therefor. The Indemnified Party shall cooperate with CAT (and its
+insurer), as reasonably requested.
+
+
+                                    ARTICLE 7
+
+                              TERM AND TERMINATION
+
+     7.1 Term. Subject to Sections 7.4 and 7.5 hereof, the term of this
+Agreement will commence on the Effective Date and remain in full force and
+effect until the expiration of the last patent within the XOMA Patent Rights
+unless earlier terminated pursuant to Sections 7.2, 7.3 or 7.6.
+
+     7.2 Termination Event. This Agreement may be terminated by either CAT or
+XOMA upon any material breach or default by XOMA or CAT, as the case may be, in
+the performance of any obligation or condition of this Agreement or if any
+representation or warranty made by XOMA or CAT, as the case may be, in this
+Agreement is untrue or materially misleading, in any case effective fifteen (15)
+days after giving notice to the breaching party of such termination in the case
+of a payment breach and sixty (60) days after giving written notice to the
+breaching party of such termination in the case of any other breach, which
+notice shall describe such breach in reasonable detail. The foregoing
+notwithstanding, (a) if such breach is cured or shown to be non-existent within
+the aforesaid fifteen (15) or sixty (60) day period, the notice shall be deemed
+automatically withdrawn and of no effect and the notifying party shall provide
+written notice to the breaching party of the withdrawal; (b) no such termination
+shall be effective so long as the parties are engaged in arbitration under
+Section 8.13 in connection with such breach or default; and (c) with respect to
+any person or entity constitut-
+
+
+<PAGE>
+                                      -20-
+
+
+ing a CAT Collaborator as of the date of such a termination by XOMA, any such
+termination shall be effective against such CAT Collaborator unless, within
+forty-five (45) days after written notice from XOMA of such termination, such
+CAT Collaborator executes a written agreement with XOMA directly obligating such
+CAT Collaborator to comply with all of the provisions of this Agreement
+applicable to CAT Collaborators and to fulfill the obligations of CAT (including
+without limitation any royalty obligations) with respect to any and all Licensed
+Antibody Phage Display Materials and Licensed Immunoglobulins Disposed of by CAT
+to such CAT Collaborator as of the date of such termination. Upon any
+termination by XOMA under this Section 7.2, CAT shall promptly (and in any event
+not later than forty-five (45) days thereafter) deliver to XOMA a written report
+specifying as of the date of such termination the information required by
+Section 2.5(a).
+
+     7.3 Termination for Insolvency. If voluntary or involuntary proceedings by
+or against CAT are instituted in bankruptcy under any insolvency law, or a
+receiver or custodian is appointed for CAT, or an Insolvency Event occurs in
+relation to CAT, or substantially all of the assets of CAT are seized or
+attached and not released within sixty (60) days thereafter, XOMA may
+immediately terminate this Agreement effective upon notice of such termination.
+
+     7.4 Effect of Termination. (a) Termination of this Agreement shall not
+release any party hereto from any liability which, at the time of such
+termination, has already accrued to the other party or which is attributable to
+a period prior to such termination nor preclude either party from pursuing any
+rights and remedies it may have hereunder or at law or in equity with respect to
+any breach of this Agreement. It is understood and agreed that monetary damages
+may not be a sufficient remedy for any breach of this Agreement and that the
+non-breaching party may be entitled to injunctive relief as a remedy for any
+such breach. Such remedy shall not be deemed to be the exclusive remedy for any
+such breach of this Agreement, but shall be in addition to all other remedies
+available at law or in equity.
+
+     (b) Upon any termination of this Agreement, CAT and XOMA shall promptly
+return to the other party all Confidential Information received from the other
+party (except that each party may retain one copy for its files solely for the
+purpose of determining its rights and obligations hereunder).
+
+     (c) Except as expressly provided in Section 7.2, all licenses granted under
+Article 2 hereof shall terminate and be of no further effect upon the
+termination of this Agreement. No termination of this Agreement shall in and of
+itself effect the validity of any provision hereof during any period prior
+thereto or the applicability of any provision hereof to any activities conducted
+prior thereto.
+
+     7.5 Survival. Sections 2.5, 2.6, 2.8, 2.9, 3.2 (only as to any Products
+identified prior to the date of termination, as to which the license provided in
+Section 2.1 shall also survive), 3.3, 3.4, 3.5, 3.6, 7.2, 7.4, 7.5 and 7.6, and
+Articles 4, 5, 6 and 8 of this Agreement,
+
+
+<PAGE>
+                                      -21-
+
+
+shall survive any termination hereof; provided, however, that Section 2.9 shall
+not survive any termination of this Agreement by CAT pursuant to Section 7.2.
+Section 2.1 shall survive termination but only as provided in the parenthetical
+clause of the immediately preceding sentence and as to any Product for which the
+license hereunder is fully paid up prior to the date of termination in
+accordance with the third sentence of Section 3.2(a).
+
+     7.6 Contested Validity. Except to the extent CAT is compelled to do so by
+legal process and subject to any specific contractual obligations of CAT
+existing on the Effective Date in circumstances constituting, in the reasonable,
+written opinion of counsel to CAT, a breach thereof, if CAT, a CAT Collaborator
+or any person or entity controlled by any of the foregoing contests, directs
+another to contest or knowingly assists another in contesting the validity or
+enforceability of any of the XOMA Patent Rights licensed hereunder, XOMA shall
+have the right to terminate all of the rights and licenses hereby granted to CAT
+and any CAT Collaborator under the XOMA Patent Rights; provided, however, that
+in the event a CAT Collaborator or any person or entity controlled by a CAT
+Collaborator contests the validity or enforceability of any of the XOMA Patent
+Rights licensed hereunder other than at the direction, and without the knowing
+assistance, of CAT, then the foregoing termination right of XOMA shall apply
+only to the rights hereby granted to such CAT Collaborator; and provided,
+further, that, in the event of any such termination resulting from activities of
+CAT, with respect to any person or entity constituting a CAT Collaborator as of
+the date of such termination, any such termination shall be effective against
+such CAT Collaborator unless, within forty five (45) days after written notice
+from XOMA of such termination, such CAT Collaborator executes a written
+agreement with XOMA directly obligating such CAT Collaborator to comply with all
+of the provisions of this Agreement applicable to CAT Collaborators and to
+fulfill the obligations of CAT (including without limitation any royalty
+obligations) with respect to any and all Licensed Antibody Phage Display
+Materials and Licensed Immunoglobulins Disposed of by CAT to such CAT
+Collaborator as of the date of such termination. Upon any termination under this
+Section 7.6 resulting from activities of CAT, CAT shall promptly (and in any
+event not later than forty five (45) days thereafter) deliver to XOMA a written
+report specifying as of the date of such termination the information required by
+Section 2.5(a).
+
+
+                                    ARTICLE 8
+
+                            MISCELLANEOUS PROVISIONS
+
+     8.1 Governing Laws. This Agreement and any dispute, including without
+limitation any arbitration, arising from the performance or breach hereof shall
+be governed by and construed and enforced in accordance with the laws of the
+state of California, without reference to conflicts of laws principles.
+
+
+<PAGE>
+                                      -22-
+
+
+     8.2 Assignment. (a) Neither party may transfer or assign this Agreement,
+directly or indirectly, or any of its rights hereunder, other than to one or
+more of its Affiliates and other than to a successor of XOMA Ltd. under a Change
+in Control of XOMA Ltd. or to a successor of Cambridge Antibody Technology Group
+plc under a Change in Control of Cambridge Antibody Technology Group plc to
+which Section 8.3 does not apply, without the prior written consent of the other
+party. Any such attempted transfer or assignment in violation of this Section
+8.2 shall be void; provided, that in the event of a permitted Change in Control,
+the original party's (or its successor's) obligations hereunder shall continue.
+This Agreement shall be binding upon and inure to the benefit of the parties and
+their permitted successors and assigns.
+
+     (b) Notwithstanding the first sentence of Section 8.2(a), in the event CAT
+disposes of at least a majority interest of a subsidiary, Affiliate or other
+business unit the primary business of which is the making and/or selling of
+Microarrays (a "Microarray Spin-out"), the entity resulting from such Microarray
+Spin-out shall not have the benefit of this Agreement unless, within thirty (30)
+days after consummation of that Microarray Spin-out, such entity executes and
+delivers to XOMA for execution a written agreement incorporating all of the
+terms of this Agreement (including without limitation the license grant in
+Section 2.1, the covenant not to sue in Section 2.2 and the royalty obligations
+of Sections 3.2 through 3.5, in the latter case modified to apply to such
+entity's revenues from (i) its use of Licensed Antibody Phage Display Materials,
+(ii) services provided by it arising out of the license grants in such agreement
+and/or (iii) the sale by it of Products), other than Section 3.1 and this
+Section 8.2(b).
+
+     8.3 Certain Changes in Control. (a) Notwithstanding any other provision of
+this Agreement to the contrary, except as set forth in Section 8.3(b), this
+Agreement shall automatically terminate, without further action by the parties,
+in the event of (i) a transaction or series of related transactions in which [*]
+is a party and which results in a Change of Control of CAT, or (ii) a
+transaction or series of related transactions in which CAT is a party and which
+results in a Change in Control of a person or entity described in clause (i)
+above; provided, that this Section 8.3(a) shall not apply if CAT shall make to
+XOMA a cash payment of [*] Dollars (US$[*]) within five (5) business days
+following consummation of such transaction or series of related transactions.
+
+     (b) In the event that (i) a transaction or series of related transactions
+described in Section 8.3(a) is consummated in accordance with the proviso
+thereto and (ii) the party to such transaction or series of transactions other
+than CAT (the "Acquisition Party") has in place at the time of such transaction
+or series of transactions a license agreement with XOMA under the XOMA Patent
+Rights covering substantially the same activities as are covered by this
+Agreement (a "Separate License"), then (A) for so long as the phage display
+businesses of CAT, on the one hand, and the Acquisition Party, on the other
+hand, are operated as separate business units (as reflected in contemporaneous
+Records and similarly reliable documents of
+
+
+<PAGE>
+                                      -23-
+
+
+the Acquisition Party), then the Separate License shall apply to the business of
+the Acquisition Party and this Agreement shall apply to the business of CAT; and
+(B) if the phage display businesses of CAT, on the one hand, and the Acquisition
+Party, on the other hand, are no longer operated as separate business units,
+then this Agreement shall apply to the combined phage display business of CAT
+and the Acquisition Party, except that the Separate License shall continue to
+apply to any composition of matter or article of manufacture identified as a
+potential product by the separate business unit operating the phage display
+business of the Acquisition Party while such business was separately operated
+(as reflected in contemporaneous Records and similarly reliable documents of the
+Acquisition Party). Nothing herein shall affect any license or grant of rights
+by any Acquisition Party to XOMA or, except as expressly provided above with
+respect to obligations directly related to the activities covered by this
+Agreement, any obligations of any Acquisition Party to XOMA.
+
+     8.4 Waiver. No waiver of any rights shall be effective unless consented to
+in writing by the party to be charged and the waiver of any breach or default
+shall not constitute a waiver of any other right hereunder or any subsequent
+breach or default.
+
+     8.5 Severability. In the event that any provisions of this Agreement are
+determined to be invalid or unenforceable by a court of competent jurisdiction,
+the remainder of the Agreement shall remain in full force and effect without
+said provision.
+
+     8.6 Notices. All notices, requests and other communications hereunder shall
+be in writing and shall be delivered or sent in each case to the respective
+address specified below, or such other address as may be specified in writing to
+the other party hereto, and shall be effective on receipt:
+
+         CAT:                       Cambridge Antibody Technology Limited
+                                    Milstein Building
+                                    Granta Park
+                                    Cambridge, CB1 6GH
+                                    England
+                                    Attn:  Company Secretary
+
+         XOMA:                      XOMA Ireland Limited
+                                    Shannon Airport House
+                                    Shannon, County Clare
+                                    Ireland
+                                    Attn:  Company Secretary
+
+
+<PAGE>
+                                      -24-
+
+
+         with a copy (which shall not constitute notice) to:
+
+                                    XOMA (US) LLC
+                                    2910 Seventh Street
+                                    Berkeley, CA  94710
+                                    U.S.A.
+                                    Attn:  Company Secretary
+
+     8.7 Independent Contractors. Both parties are independent contractors under
+this Agreement. Nothing contained in this Agreement is intended nor is to be
+construed so as to constitute XOMA or CAT as partners or joint venturers with
+respect to this Agreement. Except as expressly provided herein, neither party
+shall have any express or implied right or authority to assume or create any
+obligations on behalf of or in the name of the other party or to bind the other
+party to any other contract, agreement, or undertaking with any third party.
+
+     8.8 Compliance with Laws. In exercising their rights under this license,
+the parties shall comply in all material respects with the requirements of any
+and all applicable laws, regulations, rules and orders of any governmental body
+having jurisdiction over the exercise of rights under this Agreement. CAT shall
+be responsible, at its expense, for making any required registrations or filings
+with respect to this Agreement and obtaining any necessary governmental
+approvals with respect hereto.
+
+     8.9 Bankruptcy. All rights and licenses granted under or pursuant to this
+Agreement by one party to the other are, for all purposes of Section 365(n) of
+Title XI of the United States Code ("Title XI"), licenses of rights to
+"intellectual property" as defined in Title XI. During the term of this
+Agreement each party shall create and maintain current copies to the extent
+practicable of all such intellectual property. If a bankruptcy proceeding is
+commenced by or against one party under Title XI, the other party shall be
+entitled to a copy of any and all such intellectual property and all embodiments
+of such intellectual property, and the same, if not in the possession of such
+other party, shall be promptly delivered to it (a) upon such party's written
+request following the commencement of such bankruptcy proceeding, unless the
+party subject to such bankruptcy proceeding, or its trustee or receiver, elects
+within thirty (30) days to continue to perform all of its obligations under this
+Agreement, or (b) if not delivered as provided under clause (a) above, upon such
+other party's request following the rejection of this Agreement by or on behalf
+of the party subject to such bankruptcy proceeding. If a party has taken
+possession of all applicable embodiments of the intellectual property of the
+other party pursuant to this Section 8.9 and the trustee in bankruptcy of the
+other party does not reject this Agreement, the party in possession of such
+intellectual property shall return such embodiments upon request. If a party
+seeks or involuntarily is placed under Title XI and the trustee rejects this
+Agreement as contemplated under 11 U.S.C. 365(n)(1), the other
+
+
+<PAGE>
+                                      -25-
+
+
+party hereby elects, pursuant to Section 365(n) of Title XI, to retain all
+rights granted to it under this Agreement to the extent permitted by law.
+
+     8.10 Use of Name. Neither party shall use the name or trademarks of the
+other party, except to the extent that a party is permitted to use the
+Confidential Information of the other party pursuant to Article 4, without the
+prior written consent of such other party.
+
+     8.11 Further Actions. Each party agrees to execute, acknowledge and deliver
+such further instruments, and do such other acts, as may be necessary and
+appropriate in order to carry out the purposes and intent of this Agreement.
+
+     8.12 Entire Agreement; Amendment. This Agreement constitutes the entire and
+exclusive Agreement between the parties with respect to the subject matter
+hereof and supersedes and cancels all previous discussions, agreements,
+commitments and writings in respect thereof. No amendment or addition to this
+Agreement shall be effective unless reduced to writing and executed by the
+authorized representatives of the parties.
+
+     8.13 Arbitration. (a) Solely with respect to any dispute between the
+parties to this Agreement (other than any dispute which arises out of or relates
+to alleged infringement, validity and/or enforceability of the XOMA Patent
+Rights) upon ten (10) days written notice, any party involved in the dispute may
+initiate arbitration by giving notice to that effect to the other party or
+parties involved in the dispute and by filing the notice with the American
+Arbitration Association or its successor organization ("AAA") in accordance with
+its Commercial Arbitration Rules. Such dispute shall then be settled by
+arbitration in New York, New York, in accordance with the Commercial Arbitration
+Rules of the AAA or other rules agreed to by the parties involved in the
+dispute, by a panel of three neutral arbitrators, who shall be selected by the
+parties involved in the dispute using the procedures for arbitrator selection of
+the AAA.
+
+     (b) The parties acknowledge that this Agreement evidences a transaction
+involving interstate commerce. Insofar as it applies, the United States
+Arbitration Act shall govern the interpretation of, enforcement of, and
+proceedings pursuant to the arbitration clause in this Agreement. Except insofar
+as the United States Arbitration Act applies to such matters, the agreement to
+arbitrate set forth in this Section 8.13 shall be construed, and the legal
+relations among the parties shall be determined in accordance with, the
+substantive laws of the State of New York.
+
+     (c) The panel shall render its decision and award, including a statement of
+reasons upon which such award is based, within thirty (30) days after the
+arbitration hearing. The decision of the panel shall be determined by majority
+vote among the arbitrators, shall be in writing and shall be binding upon the
+parties involved in the dispute, final and non-appealable. Judgment upon the
+award rendered by the panel may be entered in any court having jurisdiction
+thereof in accordance with Section 8.14(a).
+
+
+<PAGE>
+                                      -26-
+
+
+     (d) Except as provided under the United States Arbitration Act, no action
+at law or in equity based upon any dispute that is subject to arbitration under
+this Section 8.13 shall be instituted.
+
+     (e) All expenses of any arbitration pursuant to this Section 8.13,
+including fees and expenses of the parties' attorneys, fees and expenses of the
+arbitrators, and fees and expenses of any witness or the cost of any proof
+produced at the request of the arbitrators, shall be paid by the non-prevailing
+party.
+
+     8.14 Venue; Jurisdiction. (a) Any action or proceeding brought by either
+party seeking to enforce any provision of, or based on any right arising out of,
+this Agreement must be brought against any of the parties in the courts of the
+State of California. Each party (i) hereby irrevocably submits to the
+jurisdiction of the state courts of the State of California and to the
+jurisdiction of any United States District Court in the State of California, for
+the purpose of any suit, action, or other proceeding arising out of or based
+upon this Agreement or the subject matter hereof brought by any party or its
+successors or assigns, (ii) hereby waives, and agrees not to assert, by way of
+motion, as a defense, or otherwise, in any such suit, action, or proceeding, any
+claim that it is not subject personally to the jurisdiction of the above-named
+courts, that its property is exempt or immune from attachment or execution, that
+the suit, action or proceeding is brought in an inconvenient forum, that the
+venue of the suit, action, or proceeding is improper or that this Agreement or
+the subject matter hereof may not be enforced in or by such court, and (iii)
+hereby waives and agrees not to seek any review by any court of any other
+jurisdiction that may be called upon to grant an enforcement of the judgment of
+any such California state or federal court.
+
+     (b) Process in any action or proceeding seeking to enforce any provision
+of, or based on any right arising out of, this Agreement may be served on any
+party anywhere in the world. Each party consents to service of process by
+registered mail at the address to which notices are to be given and further
+consent that any service of process, writ, judgment or other notice of legal
+process shall be deemed and held in every respect to be effectively served upon
+it in connection with proceedings in the State of California, if delivered to CT
+Corporation System, whose current address is 1350 Treat Boulevard, Suite 100,
+Walnut Creek, CA 94596, which each party irrevocably designates and appoints as
+its authorized agent for the service of process in the courts in the State of
+California. Nothing herein shall affect the right of a party to serve process in
+any other manner permitted by applicable law. Without affecting the validity of
+process served otherwise pursuant to this Section 8.14(b), XOMA shall
+simultaneously provide CAT with written notice thereof. Each party further
+agrees that final judgment against it in any such action or proceeding arising
+out of or relating to this Agreement shall be conclusive and may be enforced in
+any other jurisdiction within or outside the United States of America by suit on
+the judgment, a certified or exemplified copy of which shall be conclusive
+evidence of the fact and of the amount of its liability.
+
+
+<PAGE>
+                                      -27-
+
+
+     (c) Each party agrees that it shall not, and that it shall instruct those
+in its control not to, take any action to frustrate or prevent the enforcement
+of any writ, decree, final judgment, award (arbitral or otherwise) or order
+entered against it with respect to this Agreement or the XOMA Patent Rights and
+shall agree to be bound thereby as if issued or executed by a competent judicial
+tribunal having personal jurisdiction situated in its country of residence or
+domicile.
+
+     8.15 Counterparts. This Agreement may be executed in two or more
+counterparts, each of which shall be deemed an original, but all of which
+together shall constitute one and the same instrument.
+
+
+
+<PAGE>
+                                      -28-
+
+
+
+
+     IN WITNESS WHEREOF, XOMA and CAT have executed this Agreement in duplicate
+originals by duly authorized officers.
+
+CAMBRIDGE ANTIBODY                 XOMA IRELAND LIMITED
+   TECHNOLOGY LIMITED
+
+
+By:                                By:
+    --------------------------          -------------------------------------
+      Name:                              Alan Kane, Director
+      Title:                             duly authorized for and on behalf of
+                                         XOMA Ireland
+Limited in the presence of:
+
+
+
+
+
+
+<PAGE>
+
+
+
+
+
+                                  Schedule 1.4
+
+                                       [*]
+
+
+
+
+<PAGE>
+
+
+
+
+
+                                  Schedule 1.15
+
+                       Certain Library License Provisions
+
+
+1.1.10 "CAT Background IP Third Party Improvements" - shall mean any Materials
+and Know How which constitute improvements of, enhancements to or modifications
+of the CAT Background IP and:
+
+     1.1.10.1 which are conceived, originated or reduced to practice by Third
+              Party licensees of CAT (other than a XOMA Collaborator or XOMA
+              licensee) of the CAT Background IP; and
+
+     1.1.10.2 which come into the Control of CAT during the term of [the Library
+              License] pursuant to agreements between CAT and such Third
+              Parties; and
+
+     1.1.10.3 for which no consideration was payable by CAT to such Third
+              Parties pursuant to such agreements; and
+
+     1.1.10.4 which CAT has the right to license to XOMA hereunder.
+
+1.1.13 "CAT Background Patent Rights" - shall mean the Patent Rights more
+particularly set out in Schedule 1 relating to the CAT Library and its use
+together with any Patent Rights which become Controlled by CAT after the
+Effective Date which relate to the CAT Library or its use. For the avoidance of
+doubt, CAT Background Patent Rights do not and shall not include (i) the CAT
+Diabodies Patent Rights, (ii) any Patent Rights acquired by or licensed to CAT
+after the Effective Date for which the consideration paid by CAT exceeds one
+hundred thousand US dollars (US$100,000), or equivalent in the case of non-cash
+consideration and (iii) the practice of the CAT Background Patent Rights within
+the fields licensed to Third Parties pursuant to the agreements set out in
+Schedule 7 (the "Additional Excluded Fields") for as long as such Additional
+Excluded Fields are exclusively licensed to such Third Parties pursuant to those
+agreements.
+
+7.9 Nothing in this Agreement shall confer any right upon XOMA and XOMA shall
+not exercise or use the CAT IP in the commercial sale or sublicense of single
+variable domains (heavy or light) of Antibodies.
+
+
+
+To aid in understanding the foregoing, the following additional definitions from
+the Library License are provided:
+
+
+<PAGE>
+                                      -2-
+
+1.1.8 "CAT Background IP" - shall mean the CAT Background Materials, CAT
+Background Know How, CAT Background Patent Rights and the CAT Library.
+
+1.1.11 "CAT Background Know How" - shall mean (a) all of the Know How Controlled
+by CAT at the Effective Date which relates to the CAT Library and its use and
+(b) any Know How which relates to any improved version of the CAT Library made
+available to XOMA by CAT during the term of the Library Licence [as defined in
+the Library License] as set forth in Clause 4.2 [of the Library License].
+
+1.1.12 "CAT Background Materials" - shall mean (a) the Materials (including
+without limitation cloning and expression vectors, polynucleotides and phagemid
+vectors) comprising or relating to the CAT Library at the Effective Date and (b)
+the Materials (including without limitation cloning and expression vectors,
+polynucleotides and phagemid vectors) comprising or relating to any improved
+version of the CAT Library made available to XOMA by CAT during the term of the
+Library Licence [as defined in the Library License] as set forth in Clause 4.2
+[of the Library License].
+
+1.1.18 "CAT IP" - shall mean CAT Background IP, CAT Foreground IP and CAT
+Foreground Patent Rights.
+
+1.1.28 "Control", "Controls" or "Controlled by" - shall mean either (a) being an
+Affiliate of either XOMA or CAT, (b) with respect to any item of CAT IP or XOMA
+IP, the possession of (whether by ownership or licence, other than pursuant to
+[the Library License]) or the ability of such [p]arty to grant access to or a
+licence or sublicence thereof without violating the terms of any agreement or
+other arrangement with any Third Party existing at the time such [p]arty would
+be required hereunder to grant the other [p]arty such access or licence or
+sublicence or (c) with respect to any Materials, the CAT Library or an Antibody,
+physical possession.
+
+1.1.35 "Effective Date" - shall mean the date of execution of [the Library
+License] by [CAT and XOMA].
+
+1.1.55 "Patent Rights" - shall mean patent applications and patents, author
+certificates, inventor certificates, utility certificates, improvement patents
+and models and certificates of addition and all foreign counterparts of them,
+including any divisional applications and patents, refilings, renewals,
+continuations, continuations-in-part, patents of addition, extensions, reissues,
+substitutions, confirmations, registrations, revalidation and additions of or to
+any of them, as well as any supplementary protection certificates and equivalent
+protection rights in respect of any of them.
+
+
+
+<PAGE>
+
+
+
+                                  Schedule 1.30
+
+                                  Patent Rights
+
+
+Title: Modular Assembly of Antibody Genes, Antibodies Prepared Thereby and Use
+
+Inventors: Robinson, Liu, Horwitz, Wall, Better
+
+1)   Based on PCT/US86/02269, which is a continuation-in-part of U.S. Serial No.
+     06/793,980 filed November 1, 1985 (abandoned).
+
+     COUNTRY              SERIAL NO.                         PATENT NO.
+     -------              ----------                         ----------
+     *United States       06/793,980
+     Australia            65981/86                           Issued  606,320
+     Canada               521,909                            Abandoned
+     Denmark              3385/87                            Pending
+     Taiwan               75105650                           Issued  51922
+     *United States       U.S. National Phase of
+                          PCT/US86/02269
+
+2)   Based on PCT/US88/02514, which corresponds to U.S. Serial No. 07/077,528,
+     which is a continuation-in-part of PCT/US86/02269 (abandoned), which is a
+     continuation-in-part of U.S. Serial No. 06/793,980 (abandoned).
+
+     COUNTRY                   SERIAL NO.               PATENT NO.
+     -------                   ----------               ----------
+     Australia                 23244/88                 Issued 632,462
+     Austria                   EP 88907510.7            Granted EP/0371998
+     Belgium                   EP 88907510.7            Granted EP/0371998
+     Canada                    572,398                  Granted 1,341,235
+     Denmark                   192/90                   Pending
+     Europe                    EP 88907510.7            Granted EP/0371998
+     Europe                    EP 95119798.7            Granted EP/0731167
+     France                    EP 88907510.7            Granted EP/0371998
+     Germany                   EP 88907510.7            Granted EP/0371998
+     Italy                     EP 88907510.7            Granted EP/0371998
+     Japan                     506481/88                Granted 2991720
+     Luxembourg                EP 88907510.7            Granted EP/0371998
+     Netherlands               EP 88907510.7            Granted EP/0371998
+     Sweden                    EP 88907510.7            Granted EP/0371998
+     Switzerland/
+     Liechtenstein             EP 88907510.7            Granted EP/0371998
+
+<PAGE>
+                                      -2-
+
+     COUNTRY              SERIAL NO.                         PATENT NO.
+     -------              ----------                         ----------
+     United Kingdom            EP 88907510.7            Granted EP/0371998
+     Europe                    EP 93100041.8            Granted EP/0550400
+     Austria                   EP 93100041.8            Granted EP/0550400
+     Belgium                   EP 93100041.8            Granted EP/0550400
+     France                    EP 93100041.8            Granted EP/0550400
+     Germany                   EP 93100041.8            Granted EP/0550400
+     Italy                     EP 93100041.8            Granted EP/0550400
+     Luxembourg                EP 93100041.8            Granted EP/0550400
+     Netherlands               EP 93100041.8            Granted EP/0550400
+     Sweden                    EP 93100041.8            Granted EP/0550400
+     Switzerland/
+     Liechtenstein             EP 93100041.8            Granted EP/0550400
+     United Kingdom            EP 93100041.8            Granted EP/0550400
+     *United States            07/077,528
+
+3)   Based on U.S. Serial No. 07/501,092 filed March 29, 1990, which is a
+     continuation-in-part of U.S. Serial No. 07/077,528 (Modular Assembly of
+     Antibody Genes, Antibodies Prepared Thereby and Use; Robinson, Liu,
+     Horwitz, Wall, Better) and of U.S. Serial No. 07/142,039 (Novel Plasmid
+     Vector with Pectate Lyase Signal Sequence; Lei, Wilcox).
+
+     COUNTRY                  SERIAL NO.                PATENT NO.
+     -------                  ----------                ----------
+     *United States           07/501,092
+     *United States           07/987,555
+     *United States           07/870,404
+     *United States           08/020,671
+     United States            08/235,225                5,618,920
+     United States            08/299,085                5,595,898
+     United States            08/472,691                6,204,023
+     United States            08/467,140                5,698,435
+     United States            08/450,731                5,693,493
+     United States            08/466,203                5,698,417
+___________________
+
+*    Cases abandoned in favor of a continuing application.
+
+
+<PAGE>
+
+
+
+
+                                  Schedule 2.4
+
+                                 Form of Notice
+
+
+XOMA owns a number of patents said to cover various aspects of bacterial
+antibody expression and phage display.
+
+XOMA has licensed these patents on a non-exclusive basis to CAT.
+
+Under the license agreement with XOMA:
+
+o    CAT cannot provide phage display services or transfer phage display
+     materials, products or information to you without first showing you a
+     redacted copy of its license from XOMA and this notice.
+
+o    If you and CAT enter into a written agreement by which you become a "CAT
+     Collaborator," then you will be permitted to use phage display services,
+     phage display materials, products and information from CAT to research,
+     develop and commercialize antibody products.
+
+o    Collaborators do not, however, have the right to produce commercial
+     quantities of antibodies under the XOMA license. Rather, collaborators only
+     have the right to make research and development quantities of antibodies
+     under that license. Thus, the collaborator may wish to obtain a commercial
+     production license from XOMA (which may be available), or produce
+     commercial quantities of antibodies using another method.
+
+o    If you and CAT enter into a written agreement, that agreement must contain
+     the following provisions:
+
+     o    Terms pursuant to which you, as the recipient of any transferred
+          materials, would agree to abide by each of the limitations,
+          restrictions and other applicable obligations provided for by the
+          license agreement with XOMA, including, without limitation, the
+          restrictions on use of such transferred materials for purposes other
+          than research and development.
+
+     o    A provision stating that any amounts paid to CAT shall not constitute
+          payments to XOMA.
+
+     o    An agreement by you to further dispose of phage display materials or
+          materials covered by the XOMA patents only to a third party who
+          otherwise meets the definition of a "CAT Collaborator" set forth in
+          the license agreement with XOMA.
+
+
+<PAGE>
+
+
+
+
+                                  Schedule 4.4
+
+                              Form of Press Release
+
+
+Investor and Media Contacts:
+---------------------------
+Laura Zobkiw                                        Peter Davis
+Corporate Communications & Investor Relations       Chief Financial Officer
+(510) 204-7200                                      (510) 204-7200
+
+Cambridge Antibody Technology Contacts:
+--------------------------------------
+Tel: +44 (0) 1223 471 471
+Peter Chambre, Chief Executive Officer
+John Aston, Chief Financial Officer
+Rowena Gardner, Director of Corporate Communications
+
+Weber Shandwick Square Mile (Europe)         BMC Communications/The Trout Group
+Tel: +44 (0) 20  7067 0700                   (USA)
+Kevin Smith                                  Tel: 001 212 477 9007
+Graham Herring                               Brad Miles, ext 17 (media)
+                                             Brandon Lewis, ext.15 (investors)
+
+                  Cambridge Antibody Technology (CAT) and XOMA
+                      Cross-License Antibody Technologies
+********************************************************************************
+
+CAMBRIDGE, UK and BERKELEY, CALIFORNIA, USA --December XX, 2002 --Cambridge
+Antibody Technology (LSE: CAT; Nasdaq: CATG) and XOMA Ltd. (Nasdaq: XOMA)
+announce today that they have entered into a cross-licensing arrangement for
+antibody-related technologies.
+
+Under the agreement CAT, and its collaborators, receive rights to use the XOMA
+antibody expression technology for developing products using CAT's phage-based
+antibody technology, in return for license payments to XOMA. XOMA will receive
+the right to use CAT's phage antibody libraries for its target discovery and
+research programs, with an option to develop antibodies into therapeutics.
+Should any therapeutic antibodies derived from CAT's libraries be identified and
+developed by XOMA, license payments will be made by XOMA to CAT.
+
+Peter Chambre, CAT's Chief Executive Officer, commented, "Clarifying the
+intellectual property issues in the antibody field remains an important priority
+for both CAT and XOMA. As CAT progresses with its transition to a product-based
+biopharmaceutical company, we are pleased to have reached this cross-licensing
+arrangement with XOMA".
+
+"We are very pleased to enter into this phage-based antibody related licensing
+arrangement with CAT, a company with excellent capabilities in the important
+field of antibody drug discovery," said Jack Castello, Chairman, President and
+Chief Executive Officer of XOMA. "Our license to CAT, which is the fourth such
+license we've entered into with a significant antibody library company this
+year, further validates the fundamental position our antibody expression
+technology holds in the phage display arena."
+
+Cambridge Antibody Technology (CAT):
+
+o    CAT is a UK-based biotechnology company and a leader in the discovery and
+     development of human therapeutic antibodies: HumiraTM, the leading
+     CAT-derived antibody, has been submitted for regulatory review by Abbott
+     (responsible for development and marketing) following the
+
+
+<PAGE>
+                                       -2-
+
+
+     completion of Phase III trials. Six other CAT-derived human therapeutic
+     antibodies are at various stages of clinical trials.
+
+o    CAT has an advanced proprietary platform technology for rapidly isolating
+     human monoclonal antibodies using phage display systems. CAT has extensive
+     phage antibody libraries, currently incorporating more than 100 billion
+     distinct antibodies. These libraries form the basis for the Company's
+     strategy to discover and develop a portfolio of antibody-based drugs.
+
+o    CAT has alliances with a large number of pharmaceutical and biotechnology
+     companies to discover, develop and commercialize human monoclonal
+     antibody-based products. CAT has also licensed its proprietary human phage
+     antibody libraries to several companies for target validation and drug
+     discovery. CAT's collaborators include: Abbott, Amgen, Amrad, Chugai, Elan,
+     Genzyme, Human Genome Sciences, Merck & Co, Pharmacia and Wyeth Research.
+
+o    Based near Cambridge, England, CAT currently employs around 290 people.
+
+o    CAT is listed on the London Stock Exchange and on NASDAQ since June 2001.
+     CAT raised (pound)41m in its IPO in March 1997 and (pound)93m in a
+     secondary offering in March 2000.
+
+About XOMA and its Antibody Expression Technology:
+
+XOMA scientists were the first to demonstrate the secretion of antibody domains
+directly from bacterial cells as fully functional, properly folded molecules.
+XOMA has received nine U.S. patents to date relating to aspects of its bacterial
+cell expression system, including six patents that broadly cover the secretion
+of functional immunoglobulins from bacteria, including antibody fragments such
+as Fab and single-chain antibodies. Corresponding foreign patents have also been
+granted.
+
+Bacterial antibody expression is an enabling technology used to discover and
+screen, as well as develop and manufacture, recombinant antibodies for
+commercial purposes. Bacterial antibody expression is also a key technology used
+in multiple systems for high-throughput screening of antibody domains. Further
+information on XOMA's bacterial cell expression technology can be found at
+l_expression.jsp.
+
+XOMA develops and manufacturers innovative biopharmaceuticals for disease
+targets that include cancer, immunological and inflammatory disorders, and
+infectious diseases. XOMA's programs include collaborations: with Genentech,
+Inc. on the Raptiva(TM) antibody for psoriasis (Phase III), rheumatoid arthritis
+(Phase II) and other indications; with Onyx Pharmaceuticals, Inc. to develop and
+manufacture its ONYX-015 product for various cancers (Phase II and III); with
+Baxter Healthcare Corporation to develop NEUPREX(R) (rBPI-21) for Crohn's
+disease (Phase II) and other indications; and with Millennium Pharmaceuticals,
+Inc. on two biotherapeutic agents, CAB-2 and MLN-01, for certain vascular
+inflammation indications (preclinical). Earlier-stage development programs
+include compounds to treat cancer, retinopathies, autoimmune diseases and
+infections. For more information about XOMA's pipeline and activities, please
+visit XOMA's web site at .
+
+As to CAT: Application of the Safe Harbor of the Private Securities Litigation
+Reform Act of 1995: This press release contains statements about Cambridge
+Antibody Technology Group plc ("CAT") that are forward looking statements. All
+statements other than statements of historical facts included in this press
+release may be forward looking statements within the meaning of Section 21E of
+the Securities Exchange Act of 1934. These forward looking statements are based
+on numerous assumptions regarding CAT's present and future business strategies
+and the environment in which CAT will operate in the future. Certain factors
+that could cause CAT's actual results, performance or achievements to differ
+materially from those in the forward looking statements include: market
+conditions, CAT's ability to enter into and maintain collaborative arrangements,
+success of product candidates in clinical trials, regulatory developments and
+competition.
+
+
+
+<PAGE>
+                                       -3-
+
+
+As to XOMA:
+
+Statements made in this news release to collaborative arrangements and
+development capabilities, or that otherwise relate to future periods, are
+forward-looking statements within the meaning of Section 27A of the Securities
+Act of 1933 and Section 21E of the Securities Exchange Act of 1934. These
+statements are based on assumptions that may not prove accurate. Actual results
+could differ materially from those anticipated due to certain risks inherent in
+the biotechnology industry and for companies engaged in the development of new
+products in a regulated market. These risks, including those related to changes
+in the status of existing collaborative relationships, the availability of
+future collaborative relationships, the ability of collaborators and other
+partners to meet their obligations, the timing of results of pending or future
+clinical trials, market demand for products, actions by the Food and Drug
+Administration or the US Patent and Trademark Office, and uncertainties
+regarding the status of biotechnology patents, are discussed in XOMA's most
+recent annual report on Form 10-K and in other SEC filings. Consider such risks
+carefully in evaluating XOMA's prospects.
+
+
+</TEXT>
+</DOCUMENT>

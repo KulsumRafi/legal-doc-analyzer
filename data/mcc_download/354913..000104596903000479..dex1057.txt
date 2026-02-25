@@ -1,0 +1,511 @@
+<DOCUMENT>
+<TYPE>EX-10.57
+<SEQUENCE>9
+<FILENAME>dex1057.txt
+<DESCRIPTION>SHARP 2G PATENT LICENSE AGREEMENT
+<TEXT>
+<PAGE>
+
+                                                                   EXHIBIT 10.57
+
+CONFIDENTIAL PORTIONS OF THIS DOCUMENT HAVE BEEN REDACTED AND SEPARATELY FILED
+WITH THE COMMISSION
+
+
+                           PHS AND PDC SUBSCRIBER UNIT
+                            PATENT LICENSE AGREEMENT
+
+                                     BETWEEN
+
+                       INTERDIGITAL TECHNOLOGY CORPORATION
+
+                                       and
+
+                                SHARP CORPORATION
+
+              Dated and Effective March 19, 1998 ("Effective Date")
+
+<PAGE>
+
+                    SUBSCRIBER UNIT PATENT LICENSE AGREEMENT
+
+THIS IS A PATENT LICENSE AGREEMENT (the "Agreement"), dated March 19, 1998, (the
+"Effective Date") between InterDigital Technology Corporation ("ITC"), a
+Delaware corporation with a mailing address of [**], Wilmington, DE 19801,
+and Sharp Corporation ("Licensee"), a corporation organized and existing under
+the laws of Japan, with a mailing address [**] JAPAN.
+
+                                    PREAMBLE
+
+ITC owns and has the right to license the Licensed Patents (defined below) and
+is willing to grant world-wide, non-exclusive licenses thereunder on the terms
+set forth below. Licensee desires to obtain such a license.
+
+NOW, THEREFORE, in consideration of the mutual promises contained herein, and
+intending to be legally bound, the parties agree as follows:
+
+                            ARTICLE I - DEFINITIONS
+
+1.1  "Affiliate" means IDC or a corporation or other legal entity of which more
+     than fifty percent (50%) of the voting stock or control is owned, directly
+     or indirectly, by Licensee, IDC, or ITC, as the case may be. An "Affiliate"
+     may also include, subject to the mutual agreement of the parties, a company
+     over whose senior management Sharp Corporation exercises substantial
+     control.
+
+1.2  "Covered Standards" mean PHS and PDC.
+
+1.3  "Covered Subscriber Units" means Subscriber Units that are built to operate
+     in accordance with one or more Covered Standards.
+
+1.4  "Multi Mode Unit" means a Covered Subscriber Unit designed to operate in
+     accordance with at least two Covered Standards.
+
+1.5  "Essential Patents" means all patents (excluding Licensed Patents) that are
+     essential to any practical implementation of a Covered Standard.
+
+______________
+     ** Material has been omitted and filed separately with the Commission.
+
+                                       2
+
+<PAGE>
+
+1.6  "IDC" means InterDigital Communications Corporation, having an office at
+     781 Third Avenue, King of Prussia, PA 19406.
+
+1.7  "Infrastructure Equipment" means switching centers, base stations, base
+     station controllers, digital transceivers, and like telephony equipment,
+     which are used to interconnect a Subscriber Unit to the wired telephone
+     network.
+
+1.8  "Licensed Patents" means every issued TDMA-based digital wireless telephone
+     related patent and patent application on file or filed within five (5)
+     years of the Effective Date, which patents and patent applications are
+     owned by ITC or for which ITC has the right to grant the licenses conveyed
+     hereunder, (including utility models but excluding design patents and
+     design registrations) in every country of the world. A listing of Licensed
+     Patents as of the Effective Date is included as EXHIBIT A.
+
+1.9  "Licensee" means the company identified as "Licensee" on page 2 of this
+     Agreement, and its Affiliates.
+
+1.10 "Net Selling Price" means (for royalty calculation purposes) the greater of
+     (i) the amount actually invoiced to the customer for a Covered Subscriber
+     Unit, less actual battery cost (as invoiced to Licensee by non-affiliated
+     parties), packing, insurance and shipping costs, applicable import, export
+     and excise duties (including VAT added by the Licensee to the completed
+     Covered Subscriber Unit), returns, and trade discounts given, to the extent
+     included in the amount invoiced to the customer, or (ii) 120% of the
+     manufactured cost (consisting of direct product costs and factory overhead
+     of Covered Subscriber Unit but excluding actual invoiced battery cost by
+     non-affiliated third parties). As used in this Agreement, "factory
+     overhead" may include standard cost components such as direct labor and
+     supplies together with depreciation of manufacturing equipment but shall
+     exclude, without limitation, sales and marketing, and general and
+     administrative overhead and expenses.
+
+1.11 "Patent Issuance Date" means the date on which the first patent issues to
+     ITC based on Japanese patent application [**].
+
+1.12 "PDC" means the RCR STD27B compatibility standard developed in Japan known
+     as PDC, or Personal Digital Cellular (also Japan Digital Cellular) for TDMA
+     digital wireless mobile radio communication systems, as amended from time
+     to time.
+
+______________
+        ** Material has been omitted and filed separately with the Commission.
+
+                                       3
+
+<PAGE>
+
+1.13 "Per Unit Royalty" has the meaning ascribed to that term in Article III.
+
+1.14 "PHS" means the RCR STD28 compatibility standard developed in Japan known
+     as PHS or Personal Handy Phone System, as amended from time to time.
+
+1.15 "Subscriber Unit" means a radiotelephone or other end-user terminal devise,
+     whether fixed, mobile, transportable, vehicular, portable or hand-held,
+     adapted for use by a single person. A Subscriber Unit shall include a
+     Wireless Local Loop Subscriber Unit.
+
+1.16 "TDMA" means time division multiple access.
+
+1.17 "Wireless Local Loop Applications" means a digital wireless communications
+     system that is primarily directed to providing fixed wireless telephone
+     service in place of wireline service
+
+1.18 "Wireless Local Loop Subscriber Unit" means a radiotelephone, designed
+     generally in accordance with a Covered Standard, used in a Wireless Local
+     Loop Application.
+
+                           ARTICLE II - LICENSE GRANT
+
+2.1  Grant. ITC hereby grants to Licensee a non-exclusive, non-transferrable
+     (except as to pass-through rights as provided herein), worldwide,
+     royalty-bearing license under the Licensed Patents to make, have made, use,
+     sell and otherwise distribute Covered Subscriber Units. The license granted
+     hereunder excludes the right to grant sublicenses. ITC hereby releases,
+     acquits and forever discharges Licensee (and those Affiliates affiliated
+     with Licensee on the Effective Date) from any and all claims or liability
+     for infringement of any Licensed Patents by the making, selling or
+     otherwise distributing of Covered Subscriber Units prior to the April 1,
+     1998.
+
+2.2  Limitations on License Grant. No license is granted directly or by
+     implication to any Infrastructure Equipment used in connection with Covered
+     Subscriber Units.
+
+2.3  Additional Covered Standards. If and when Licensee requires a license under
+     ITC's patents to manufacture and sell products under other TDMA-based
+     standards, ITC and Licensee shall negotiate such a license in good faith.
+     Any
+
+                                       4
+
+<PAGE>
+
+     disputes between the parties as to such license shall be resolved pursuant
+     to the dispute resolution procedures set forth in Article VII.
+
+2.4  Cross-License. Licensee hereby grants to IDC and its Affiliates a
+     royalty-free, worldwide, non-transferrable, irrevocable license under any
+     and all patents in relation with Covered Subscriber Units and
+     Infrastructure Equipment held or controlled by the Licensee as of the
+     Effective Date or that issue from patent applications on file as of, or
+     filed within five years of, the Effective Date to make, have made, use,
+     sell or otherwise distribute Covered Subscriber Units and/or Covered
+     Infrastructure.
+
+                      ARTICLE III - ROYALTY RATES/CREDITS
+
+3.1  Royalty Payments. In consideration for the license granted herein, Licensee
+     shall pay to ITC a Per Unit Royalty on each sale by Licensee of a Covered
+     Subscriber Unit (exclusive of returns and credits, and exclusive of the
+     Covered Subscriber Unit released, acquitted or discharged under Section
+     2.1). The Per Unit Royalty shall be as follows:
+
+     (A)  Covered Subscriber Units (Non-Wireless Local Loop Applications):
+
+                    (i)  PDC:                [**]
+
+                    (ii) PHS:                [**]
+
+     (B)  Covered Subscriber Units (Wireless Local Loop Applications):
+
+                    (i)  PHS and PDC:        [**]
+
+
+
+3.2  Timing of Payments. Licensee's obligation to make royalty payments to ITC
+     hereunder shall commence:
+
+
+     (A)  Upon April 1, 1998, for all Covered Subscriber Units sold on or after
+          April 1, 1998 for which the manufacture, sale or use of such equipment
+          (or components thereof) takes place outside of the country of Japan,
+
+______________
+        ** Material has been omitted and filed separately with the Commission.
+
+                                       5
+
+<PAGE>
+
+     (B)  Upon the Patent Issuance Date, for all Covered Subscriber Units sold
+          on or after April 1, 1998 for which the manufacture, sale and use of
+          such equipment (or components thereof) shall occur within the country
+          of Japan.
+
+     In the event that the Patent Issuance has not occurred, ITC and Licensee
+     shall negotiate in good faith the commencement of royalty payments
+     hereunder based on other ITC Patents issued in Japan. Any disputes arising
+     under this Section shall be subject to the Dispute Resolution procedures
+     set forth in Article VII.
+
+                          ARTICLE IV - LUMP SUM PAYMENT
+
+4.1  Lump Sum Payment. In consideration for the rights granted herein, Licensee
+     shall pay an Up-Front Fee to ITC in the amount of $US4,444,000. Licensee
+     shall also pay the amount of $US1,111,000 as a Royalty Prepayment for
+     Covered Subscriber Units sold on and after April 1, 1998. The above
+     payments shall be irrevocable and non-refundable. The above-mentioned
+     aggregated $US5,555,000 shall be paid by Licensee to ITC within thirty (30)
+     days after the execution of this Agreement
+
+                        ARTICLE V - PASS-THROUGH LICENSE
+
+5.1  Pass-Through License. Provided Licensee is not in default of its
+     obligations hereunder, Licensee's customers that are operators and
+     end-users but who are not also suppliers (other than retail) will receive a
+     pass-through license for sale (including lease) or use of Covered
+     Subscriber Units. Neither this Agreement nor any payments made hereunder,
+     are intended, nor should they be construed, as exhausting ITC's rights to
+     royalties or damages from unlicensed purchasers.
+
+                         ARTICLE VI - TERM/TERMINATION
+
+6.1  Term. The term of this Agreement shall commence on the Effective Date and
+     terminate five (5) years thereafter, unless sooner terminated as provided
+     herein. Any extensions to this Agreement shall be made by mutual agreement
+     of the parties, subject to each party's discretion.
+
+6.2  Termination for Default. This Agreement may be canceled by either party,
+     upon thirty (30) days' prior written notice, if the other party is in
+     breach of any of its material obligations hereunder and the breach is not
+     remedied within the notice period. During the term of this Agreement, if
+     Licensee institutes or actively participates as an adverse party in, or
+     otherwise provides material support to, any legal action anywhere in the
+     world, the purpose of which is to invalidate or limit the validity or scope
+     of the Licensed Patents, ITC shall have the right to consider
+
+                                       6
+
+<PAGE>
+
+     such action as a material breach of this Agreement. Licensee's other
+     material obligations shall include, but shall not be limited to, its
+     royalty reporting and payment obligations.
+
+                        ARTICLE VII - DISPUTE RESOLUTION
+
+7.1  Negotiation of Disputes. In the event of any dispute arising under this
+     Agreement, senior executives of the parties with decision making authority
+     will meet in Wilmington, Delaware, unless some other city as may be
+     agreeable to the parties, as soon as reasonably possible (but no later than
+     sixty (60) days after notice) and will enter into good faith negotiations
+     aimed at resolving the dispute. If they are unable to resolve the dispute
+     in a mutually satisfactory manner within an additional sixty (60) days, the
+     matter may be submitted to mediation/arbitration as provided for in
+     Sections 7.2 and 7.3 hereto
+
+7.2  Mediation of Disputes. The parties agree to submit any unresolved dispute
+     to a sole mediator selected by the parties as soon as reasonably possible
+     (but no later than sixty (60) days after notice). Such mediation shall
+     occur in Wilmington, DE. If not thus resolved, the parties will proceed as
+     specified in Section 7.3 hereto.
+
+7.3  Arbitration of Disputes. Any unresolved disputes arising under this
+     Agreement shall be submitted to an arbitration proceeding which shall take
+     place in Washington, D.C. The proceeding shall be conducted under the then
+     prevailing rules for commercial arbitration of the American Arbitration
+     Association, by a panel of three (3) arbitrators, one of whom must have
+     substantial experience in the field of telecommunications. Each party shall
+     select one arbitrator and the two arbitrators will select the third
+     arbitrator. The arbitrators shall have the authority to permit limited
+     discovery to the extent required by a party in order to establish its case.
+     The decision of the arbitrators shall be final and binding and may be
+     entered and enforced in any court of competent jurisdiction. Any monetary
+     award shall be payable in U.S. dollars, free of any tax, offset or other
+     deduction. Any determination of the arbitration shall be confidential to
+     the parties hereto and binding solely on the parties hereto.
+
+                          ARTICLE VIII - MISCELLANEOUS
+
+8.1  Payments. Payments made pursuant to Sections 4.1 shall be made by wire
+     transfer in U.S. dollars at License Agreement execution. All other payments
+     required under this Agreement shall be made by wire transfer in U.S.
+     dollars on a semi-annual basis by February 28 for the preceding six-month
+     period ending December 31 and August 31 for the preceding six-month period
+     ending June 30.
+
+                                       7
+
+<PAGE>
+
+     Regardless of whether payment is made, Licensee shall provide ITC (at the
+     same times as noted above) with a written report and associated
+     certification setting forth the quantity of each type of Covered Subscriber
+     Units sold, and additional information sufficient to determine the
+     royalties payable for such Covered Subscriber Units. All such reports shall
+     be held in confidence by ITC.
+
+8.2  Taxes. All royalties payable hereunder are net of and free and clear from
+     any applicable taxes (whether based on income or otherwise), which taxes
+     shall be paid by Licensee on a grossed up basis, except any applicable
+     Japanese source withholding taxes which shall be deducted by Licensee from
+     amounts payable to ITC hereunder. On the basis of such deduction, Licensee
+     agrees that it shall be responsible for and pay, on ITC's behalf, the
+     withholding tax associated with the payments set forth under Section 3.1
+     and 4.1 hereto. Licensee will furnish ITC with appropriate documentation
+     evidencing the payment of such tax as issued by the appropriate authority
+     of such government.
+
+8.3  Most Favored Licensee Rights. Provided Licensee is not in default of its
+     obligations hereunder, the Licensee shall be treated as a most favored
+     licensee ("MFL") under the Licensed Patents with regard to Covered
+     Subscriber Units. If, subsequent to the Effective Date, ITC enters into an
+     agreement with a third party comparable to the license granted in this
+     Agreement but containing commercial terms which, in the aggregate (i.e.,
+     not on a clause by clause basis), are more favorable to the third party
+     than the commercial terms in this Agreement, ITC will notify Licensee of
+     such agreement. Licensee shall have the right to substitute for this
+     Agreement the more favorable license agreement in its entirety (the
+     "Substitute Agreement") and such substitution shall constitute a novation
+     of this entire Agreement. MFL rights shall not extend to (i) TDMA License
+     Agreements executed as part of broad-based strategic alliance partnerships,
+     (ii) to any agreements executed prior to the Effective Date, or (iii) other
+     Agreements amended subsequent to the Effective Date pursuant to executory
+     amendment provisions entered into prior to the Effective Date. If Licensee
+     elects a Substitute Agreement, Licensee shall, as a condition precedent to
+     the effectiveness of the Substitute Agreement, pay all royalties owed (or
+     credit prepayments) based on this Agreement for Covered Subscriber Unit
+     sales made prior to the date Licensee executes the Substitute Agreement. To
+     the extent that Licensee continues to have pre-payments available, the
+     remaining pre-payment shall apply under the Substitute Agreement.
+
+8.4  No Other Royalty Adjustment. The royalties set forth herein are based on a
+     variety of factors, among them the breadth of ITC's patent portfolio, the
+     avoidance of litigation costs related to challenges to the validity and
+     scope of such patents, and the reasonable expectations of TDMA market
+     growth.
+
+                                       8
+
+<PAGE>
+
+     Because (i) the parties have considered a variety of factors in developing
+     the royalty rates, and (ii) those rates are already the subject of multiple
+     discounts, credits and readjustment as provided herein, the parties
+     irrevocably agree that neither will seek to alter, through negotiation,
+     arbitration, litigation or otherwise, the royalty rates except as provided
+     herein. Notwithstanding the foregoing, if there are drastic economic
+     changes in the market for Covered Subscriber Units such that the royalty
+     payments required hereunder present a substantial impediment for Licensee
+     to successfully compete for sales, Licensee may request that ITC modify the
+     royalty rates hereunder on a reasonable basis.
+
+8.5  Confidentiality. Unless otherwise required by law or court order, the
+     parties shall maintain as confidential the License Agreement and any
+     proprietary information disclosed under, or as a result of the negotiation
+     of, the License Agreement.
+
+8.6  Audit. Licensee shall keep books and records adequate to accurately
+     determine the payments due under this Agreement. The books and records must
+     be retained for at least five (5) years after the delivery of the royalty
+     report to which they relate. ITC shall have the right, no more than once
+     per calendar year, to have an independent certified public accountant, who
+     shall enter into an appropriate nondisclosure agreement with Licensee,
+     inspect all relevant books and records of Licensee on seven (7) business
+     days notice and during regular business hours to verify the reports and
+     payments required to be made hereunder. The auditor shall disclose no more
+     information than is reasonably necessary to determine the royalties owed
+     hereunder and to assess the average Net Selling Price. Should an
+     underpayment in excess of [**] percent ([**]) be discovered, Licensee shall
+     pay the cost of the audit. In any event, Licensee shall promptly pay any
+     underpayment together with interest at the compounded annual rate of [**]
+     percent ([**]). All information obtained through such audit shall be held
+     in confidence by Licensee.
+
+8.7  Governing Law/Venue. The validity and interpretation of this Agreement
+     shall be governed by Delaware law, without regard to conflict of laws
+     principles. The parties further irrevocably consent to exclusive
+     jurisdiction of the state and federal courts in the State of Delaware.
+     Process shall be deemed sufficient if served on either party by courier
+     service or recognized mail delivery service (e.g. U.S. Mail), postage
+     prepaid, certified or registered, return receipt requested, and addressed
+     as indicated on page 1 of this Agreement. The parties hereby waive any
+     objection as to the sufficiency of the method of service provided such
+     service is made as set forth herein.
+
+8.8  Limited Warranty. ITC represents and warrants that it has the right to
+     license the Licensed Patents. ITC makes no other representation or warranty
+     with regard to
+
+_______________
+     ** Material has been omitted and filed separately with the Commission.
+
+                                        9
+
+<PAGE>
+
+      the validity of the Licensed Patents or the Licensee's ability to use,
+      manufacture, have manufactured or sell Covered Subscriber Units free of
+      infringement of third party intellectual property rights. ITC shall have
+      no obligation to maintain or prosecute Licensed Patents.
+
+8.9   Waivers. The failure of any party to insist upon the performance of any of
+      the terms or conditions of this Agreement or to exercise any right
+      hereunder, shall not be construed as a waiver or relinquishments of the
+      future performance of any such term or condition.
+
+8.10  Severability. The provisions of this Agreement shall be severable, and if
+      any of them are held invalid or unenforceable, then that provision shall
+      be construed to the maximum extent permitted by law. The invalidity or
+      unenforceability of one provision shall not necessarily affect any other.
+
+8.11  No Set Off. Licensee agrees and acknowledges that it has no right to, and
+      shall not, attempt to set off amounts claimed to be owed based on any
+      claim that it has or may have in the future against IDC or its Affiliates
+      other than ITC, against amounts owed hereunder.
+
+8.12  Notices. All notices or other communications required or permitted under
+      this Agreement shall be in writing and shall be delivered by personal
+      delivery, registered mail, return receipt requested, or a qualified "Next
+      Day Air" delivery service addressed as indicated on page 2of this
+      Agreement.
+
+8.13  Limitation. Nothing in this Agreement shall be construed as: (a) an
+      agreement to bring or prosecute actions against third party infringers of
+      the Licensed Patents; (b) conferring any license or right under any patent
+      other than the Licensed Patents; or (c) conferring any right to use the
+      Licensed Patents outside the field of use defined by the license grant of
+      this Agreement.
+
+8.14  Personal Agreement. This Agreement is personal to Licensee and may not be
+      assigned or transferred, nor may any license granted hereunder be assigned
+      or transferred, whether by operation of law or otherwise, and any attempt
+      to make any such assignment or transfer shall be null and void; provided,
+      however, this Agreement may be transferred in connection with the sale of
+      all or substantially all of the business or assets of Licensee to which
+      this Agreement relates. ITC, may in its sole discretion, limit application
+      of this license to the permitted transferee to the transferred business.
+      The licenses granted hereunder to Licensee shall survive any transfer by
+      operation of law or otherwise of the Licensed Patents or this Agreement by
+      ITC. Licensee hereby guarantees the
+
+                                       10
+
+<PAGE>
+
+      performance of, and shall be liable to ITC for any failure to perform by,
+      LicenseeAffiliates hereunder.
+
+8.15  Entire Agreement/Amendment. This Agreement contains the complete and final
+      agreement between the parties, and supersedes all previous understandings
+      relating to the subject matter hereof whether oral or written. This
+      Agreement may only be modified by a written agreement signed by duly
+      authorized representatives of the parties.
+
+8.16  Survival. The following provisions of this Agreement shall survive
+      expiration or termination of this Agreement: Section 2.1 (only as to the
+      release provision), 4.1, 7.1, 7.2, 7.3, 8.1, 8.2, 8.5, 8.7, and 8.13
+
+IN WITNESS WHEREOF, the parties have executed this Agreement by their duly
+authorized representatives.
+
+INTERDIGITAL TECHNOLOGY CORPORATION              SHARP CORPORATION
+
+By: /s/ Howard E. Goldberg                       By:[**]
+    -------------------------------                 ----------------------------
+
+Dated: March 19, 1998________________________            Dated: March 10, 1998__
+
+
+     ** Material has been omitted and filed separately with the Commission.
+
+                                       11
+
+<PAGE>
+
+                                 Index Of Exhibits
+
+Exhibit A:
+LIST OF TDMA PATENTS
+Exhibit B: LIST OF SHARP AFFILIATES AS OF EFFECTIVE DATE
+
+                                       12
+
+</TEXT>
+</DOCUMENT>

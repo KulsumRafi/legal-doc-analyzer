@@ -1,0 +1,210 @@
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>7
+<FILENAME>ex10_42.txt
+<DESCRIPTION>10.42 C&W ORDER FORM
+<TEXT>
+                                                                   Exhibit 10.42
+                                                                   -------------
+
+          Confidential Materials omitted and filed separately with
+                     the Securities and Exchange Commission.
+                           Asterisks denote omissions.
+
+Order Form
+
+Customer                                Bill To
+Switchboard.com                         Switchboard.com
+SWT001                                  115 Flanders Road
+                                        Westborough MA  01581
+                                        USA
+
+--------------------------------------------------------------------------------
+Quote Date:May 08, 2002   IDC     :Boston     Payment Terms:Net 30
+Form#     :1-13917A       Revision:1          Sales Person :Daniel Kessinger
+Valid From:5/1/2002       Through :5/31/2002  Order Status :Final
+Partner
+        Purchase Order No. No PO Required
+
+      ----------------------------------------------------------------
+      |Requested Service Date  : 04/01/2002    Initial Term:24 Months|
+      ----------------------------------------------------------------
+--------------------------------------------------------------------------------
+
+<TABLE>
+<CAPTION>
+                                                                                          Extended        Extended
+                                                           Monthly       Non-Recurring    Monthly       Non-Recurring
+Line Services      Description*             IDC    Qty  Recurring Cost       Cost          Fees             Fees
+
+New Services
+----------------------------------------------------------------------------------------------------------------------
+<S>  <C>           <C>                      <C>    <C>    <C>              <C>          <C>              <C>
+30   EXO-VDC       Virtual Data Center (7ft Boston   8         $[**]         $[**]           $[**]          $[**]
+                   X 8ft)
+----------------------------------------------------------------------------------------------------------------------
+31   EXO-VDC-SU    Virtual Data Center      Boston   3         $[**]         $[**]             $[**]          $[**]
+                   Setup
+----------------------------------------------------------------------------------------------------------------------
+32   EXO-FAST-U50  50 Mbps base Fast        Boston   1         $[**]         $[**]           $[**]          $[**]
+                   Ethernet with 100
+                   Mbps burstability
+----------------------------------------------------------------------------------------------------------------------
+33   EXO-FAST-ML2  Additional line for Fast Boston   1         $[**]         $[**]           $[**]          $[**]
+                   Etherenet MultiLine.
+----------------------------------------------------------------------------------------------------------------------
+34   EXO-PWR-20    20 Amp Power Circuit     Boston  22         $[**]         $[**]           $[**]          $[**]
+                   (110v)
+----------------------------------------------------------------------------------------------------------------------
+     Variable Usage above Base
+
+     EXO-GIGE-UV   Variable usage cost      Boston             $[**]
+                   per megabit above
+                   base amount..
+----------------------------------------------------------------------------------------------------------------------
+     Group Total                                                                             $[**]          $[**]
+----------------------------------------------------------------------------------------------------------------------
+
+Cancel Services
+----------------------------------------------------------------------------------------------------------------------
+1    EXO-VDC       Virtual Data Center (7ft Boston  -4         $[**]         $[**]          ($[**])         $[**]
+                   X 8ft)
+----------------------------------------------------------------------------------------------------------------------
+4    EXO-POWER-20  20 Amps Power Circuit    Boston -10         $[**]         $[**]          ($[**])         $[**]
+----------------------------------------------------------------------------------------------------------------------
+16   EXO-POWER-20  20 Amps Power Circuit    Boston  -2         $[**]         $[**]          ($[**])         $[**]
+----------------------------------------------------------------------------------------------------------------------
+</TABLE>
+
+<PAGE>
+
+Order Form
+
+<TABLE>
+<S>  <C>           <C>                      <C>    <C>    <C>              <C>          <C>              <C>
+18   EXO-TELCO-T1  Monthly Recurring Fee    Boston  -1         $[**]         $[**]          ($[**])         $[**]
+                   for the circuit from the
+                   Telco.
+----------------------------------------------------------------------------------------------------------------------
+19   EXO-ETHER-U2  2 Mbps base Ethernet     Boston  -1         $[**]         $[**]          ($[**])         $[**]
+                   with 10 Mbps
+                   burstability
+----------------------------------------------------------------------------------------------------------------------
+23   EXO-PWR-20    20 Amp Power Circuit     Boston  -2         $[**]         $[**]          ($[**])         $[**]
+                   (110v)
+----------------------------------------------------------------------------------------------------------------------
+27   EXO-FAST-ML2  Additional line for Fast Boston  -1         $[**]         $[**]          ($[**])         $[**]
+                   Ethernet MultiLine.
+----------------------------------------------------------------------------------------------------------------------
+28   EXO-FAST-U20  20 Mbps base Fast        Boston  -1         $[**]         $[**]          ($[**])         $[**]
+                   Ethernet with 100
+                   Mbps burstability
+----------------------------------------------------------------------------------------------------------------------
+     Variable Usage above Base
+
+     EXO-ETHER-UV  Variable Usage Cost      Boston             $[**]
+                   above base
+                   Amount($/megabit)
+                   Ethernet
+----------------------------------------------------------------------------------------------------------------------
+     Variable Usage above Base
+
+     EXO-FAST-UV10 Variable Usage Cost      Boston             $[**]
+                   Per Megabit Above
+                   Base Amount ($/MB)
+----------------------------------------------------------------------------------------------------------------------
+     Group Total                                                                            ($[**])         $[**]
+----------------------------------------------------------------------------------------------------------------------
+</TABLE>
+
+
+
+--------------------------------------------------------------------------------
+*More detailed descriptions of the Services are contained in the Specification
+Sheets and/or Scope of Work for each Service, which are incorporated herein
+and made a part here of by this reference.
+All Currencies are in USD.
+--------------------------------------------------------------------------------
+<PAGE>
+
+Order Form
+
+Order Form Terms and Conditions:
+
+(1)   Customers hereby orders and Cable and Wireless Internet Services, Inc.,
+      ("C&W") agrees to provide the Services described in this Order Form. THE
+      SERVICES ARE PROVIDED PURSUANT TO THE TERMS AND CONDITIONS OF THIS ORDER
+      FORM AND THE SERVICES AGREEMENT (EITHER MASTER SERVICE AGREEMENT, INTERNET
+      DATA CENTER SERVICES AGREEMENT AND/OR PROFESSIONAL SERVICE AGREEMENT)
+      SIGNED BY CUSTOMER.
+
+(2)   The Customer representative signing below hereby acknowledges and agrees
+      that in the event that the Customer does not issue a purchase order prior
+      to the Requested Service Date, this Order shall serve as Customer's
+      purchase order. Customer further acknowledges that any additional or
+      conflicting terms and conditions contained in Customer's purchase order
+      shall not be applicable to the Services to be provided hereunder, even if
+      C&W uses such purchase order for invoicing purposes.
+
+(3)   Customer will not be bound by this Order Form until it has been signed by
+      an authorized representative of Customer. Acceptance of the Order Form
+      is subject to C&W credit approval.
+
+(4)   Changes or alterations to this Order Form will not be accepted.
+
+(5)   This Order Form has an initial term of 24 months. After the completion of
+      12 months of continuous service, Customer shall have the right to
+      renegotiate pricing on all current services reflected on the front page of
+      this Order Form. Any renegotiation will then take effect for the remainder
+      of the initial 24 month term.
+
+      The provisions of this Item 5 shall supersede any conflicting items and
+      conditions in a prior Order Form and the Master Services Agreement.
+
+
+<PAGE>
+Order Form
+
+
+The Customer representative signing below hereby acknowledges and agree that:
+(a) Customer shall have three (3) business days from the date on the Notice of
+Service Commencement to submit to C&W a written acceptance of the services
+listed on the Notice of Service Commencement; (b) in the event Customer does not
+submit to C&W a written acceptance in accordance with this paragraph, C&W may
+terminate the services listed on the Notice of Service Commencement; and (c) in
+the event C&W terminates the services listed on the Notice of Service
+Commencement due to the customer's failure to accept the services in writing,
+Customer will be charged, and Customers agrees to pay, for any and all setup
+fees or charges for the services terminated in accordance with this paragraph.
+
+There are significant additional terms and conditions, warranty disclaimers and
+liability limitations contained in the Services Agreement (either the master
+services agreement, internet data center services agreement and/or professional
+services agreement) signed by customer. There are also detailed descriptions of
+each service, and specific terms applicable to each service, contained in the
+specification sheets and/or statement of work for each service.
+
+Do not sign this order form before you have read all of the provisions of the
+services agreement and the specification sheets and/or statement of work. Your
+signature below indicates that you have read the services agreement and the
+specification sheets and/or statements of work and agree to be bound by their
+provisions.
+
+
+
+
+--------------------------------------------------------------------------------
+     CUSTOMER                         Cable and Wireless Internet Services, Inc.
+
+ Signature:  /s/Douglas L. Ray        Signature:  /s/Chris Malone
+             -----------------                    ---------------
+ Print Name: Douglas L. Ray           Print Name: Chris Malone
+             --------------                       ------------
+ Title:      Director, Engineering    Title:      Director of Sales
+             ---------------------                -----------------
+ Date:       5/22/02                  Date:       5/22/02
+             -------                              -------
+--------------------------------------------------------------------------------
+
+</TEXT>
+</DOCUMENT>

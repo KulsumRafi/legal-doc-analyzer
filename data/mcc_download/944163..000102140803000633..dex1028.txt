@@ -1,0 +1,673 @@
+<DOCUMENT>
+<TYPE>EX-10.28
+<SEQUENCE>12
+<FILENAME>dex1028.txt
+<DESCRIPTION>COLLATERAL AGREEMENT
+<TEXT>
+<PAGE>
+
+                                                                   Exhibit 10.28
+
+                     TECHNOLOGY COLLATERAL ESCROW AGREEMENT
+
+                                 Account Number
+
+This agreement ("Agreement") is effective January 24, 2003 among DSI Technology
+Escrow Services, Inc. ("DSI"), AirNet Communications Corporation ("Depositor")
+and TECORE, Inc. ("TECORE") and SCP Private Equity Partners, II, LP ("SCP II")
+(TECORE and SCP II are referred to collectively as the "Beneficiaries" and
+individually as a "Beneficiary"), all of whom may collectively may be referred
+to in this Agreement as the "Parties".
+
+A. One or about the date hereof, Depositor and Beneficiaries have entered or
+will enter into a Bridge Loan Agreement, Bridge Promissory Note, Security
+Agreement and/or other agreement(s) (collectively referred to in this Agreement
+as "the Collateral Agreement") regarding certain proprietary technology of
+Depositor.
+
+B. Depositor desires to avoid disclosure of its proprietary technology except
+under certain limited circumstances.
+
+C. The availability of the collateral, the proprietary technology of Depositor,
+is critical to Beneficiaries in the conduct of their respective businesses and
+in the performance of the Collateral Agreement. Therefore, Beneficiaries need
+access to the proprietary technology under certain limited circumstances.
+
+D. Depositor and Beneficiaries desire to establish an escrow with DSI to provide
+for the retention, administration and controlled access of the proprietary
+technology materials of Depositor.
+
+E. The parties desire this Agreement to be supplementary to the Collateral
+Agreement pursuant to 11 United States [Bankruptcy] Code, Section 365(n).
+
+ARTICLE 1  --  DEPOSITS
+
+1.1 Obligation to Make Deposit. Depositor shall deliver to DSI the proprietary
+technology and other materials identified on Exhibit A (collectively, "Deposit
+Materials"), which is to be prepared and signed by Depositor and each
+Beneficiary, as follows: (a) Depositor shall deliver each of the items described
+in Section 1(a) of Exhibit A no later than five (5) business days after the date
+of this Agreement; and (b) Depositor shall deliver each of the items described
+in Sections 1(b) through Section 1(f) of Exhibit A no later than fourteen (14)
+days after the date of this Agreement. DSI shall have no obligation with respect
+to the preparation, signing or delivery of Exhibit A.
+
+1.2 Identification of Tangible Media. Prior to the delivery of the Deposit
+Materials to DSI, Depositor shall conspicuously label for identification each
+document, magnetic tape, disk, or other tangible media upon which the Deposit
+Materials are written or stored. Additionally, Depositor shall complete one copy
+of Exhibit B to this Agreement per deposit by listing each such tangible media
+by the item label description, the type of media and the quantity. Each copy of
+Exhibit B must be signed by Depositor and delivered to DSI with the Deposit
+Materials. Unless and until
+
+Page 1
+
+<PAGE>
+
+Depositor makes the initial deposit with DSI, DSI shall have no obligation with
+respect to this Agreement, except the obligation to notify the parties regarding
+the status of the deposit account as required in Section 2.2 below.
+
+1.3  Deposit Inspection. When DSI receives the Deposit Materials and the Exhibit
+B, DSI will conduct a deposit inspection by visually matching the labeling of
+the tangible media containing the Deposit Materials to the item descriptions and
+quantity listed on the Exhibit B. In addition to the deposit inspection, either
+Beneficiary may elect to cause a verification of the Deposit Materials in
+accordance with Section 1.6(b) below.
+
+1.4  Acceptance of Deposit. At completion of the deposit inspection, if DSI
+determines that the labeling of the tangible media matches the item descriptions
+and quantity on Exhibit B, DSI will date and sign the Exhibit B and mail a copy
+thereof to Depositor and each Beneficiary. If DSI determines that the labeling
+does not match the item descriptions or quantity on the Exhibit B, DSI will (a)
+note the discrepancies in writing on the Exhibit B; (b) date and sign the
+Exhibit B with the exceptions noted; and (c) mail a copy of the Exhibit B to
+Depositor and each Beneficiary. DSI's acceptance of the deposit occurs upon the
+signing of the Exhibit B by DSI. Delivery of the signed Exhibit B to each
+Beneficiary is such Beneficiary's notice that the Deposit Materials have been
+received and accepted by DSI.
+
+1.5  Depositor's Representations. Depositor represents as follows:
+
+     a.   Depositor lawfully possesses all of the Deposit Materials deposited
+          with DSI;
+
+     b.   With respect to all of the Deposit Materials, Depositor has the right
+          and authority to grant to DSI and Beneficiaries the rights as provided
+          in this Agreement;
+
+     c.   The Deposit Materials are subject only to the lien or other
+          encumbrance specified in the Collateral Agreement;
+
+     d.   The Deposit Materials consist of the proprietary technology and other
+          materials identified either in the Collateral Agreement or Exhibit A,
+          as the case may be; and
+
+     e.   The Deposit Materials are readable and useable in their current form
+          or, if any portion of the Deposit Materials is encrypted, the
+          decryption tools and decryption keys have also been deposited.
+
+1.6  Verification.
+
+     a. DSI shall perform a Level I verification of the Deposit Materials upon
+the initial deposit and for each update, meaning that DSI will cause a
+technically qualified DSI employee to evaluate the initial Deposit Materials and
+each update in order to ensure that all necessary information to run software
+code has been included in the Deposit Materials. Without limiting the generality
+of the foregoing, this means that DSI will identify: (i) the hardware and
+software configurations reasonably necessary to maintain the Deposit Materials;
+(b) the hardware and software configurations reasonably necessary to compile the
+Deposit Materials; and (c) the compilation instructions. DSI will then prepare
+and deliver to Depositor and each of the Beneficiaries a report describing the
+information so identified, plus media functionality and virus
+
+Page 2
+
+<PAGE>
+
+scanning results, program content confirmation, identification of third-party
+libraries, potential obstructions, and recommendations for ensuring a complete
+deposit. It shall be the responsibility of the Depositor, and not DSI, to ensure
+that the Deposit Materials contain the information so identified in DSI's
+report, as well as any other information that may be required in the Collateral
+Agreement.
+
+     b. In addition to the Level I verifications which are required by Section
+1.6(a), each of the Beneficiaries shall have the right, at such Beneficiary's
+expense, to cause higher level verifications of any Deposit Materials. Each
+requesting Beneficiary shall notify Depositor and DSI of such Beneficiary's
+request for verification. Depositor shall have the right to be present at the
+verification. A verification determines, in different levels of detail, the
+accuracy, completeness, sufficiency and quality of the Deposit Materials. If a
+verification is elected after the Deposit Materials have been delivered to DSI,
+then only DSI, or at DSI's election an independent person or company selected
+and supervised by DSI, may perform the verification.
+
+1.7  Deposit Updates. Unless otherwise provided by the Collateral Agreement,
+Depositor shall update the Deposit Materials within 60 days of each release or
+development of a new version of the product or technology which is subject to
+the Collateral Agreement. Such updates will be added to the existing deposit.
+All deposit updates shall be listed on a new Exhibit B and the new Exhibit B
+shall be signed by Depositor. Each Exhibit B will be held and maintained
+separately within the escrow account. An independent record will be created
+which will document the activity for each Exhibit B. The processing of all
+deposit updates shall be in accordance with Sections 1.2 through 1.6 above. All
+references in this Agreement to the Deposit Materials shall include the initial
+Deposit Materials and any updates.
+
+1.8  Removal of Deposit Materials. The Deposit Materials may be removed and/or
+exchanged only on written instructions signed by Depositor and each Beneficiary,
+or as otherwise provided in this Agreement.
+
+ARTICLE 2  -- CONFIDENTIALITY AND RECORD KEEPING
+
+2.1  Confidentiality. DSI shall maintain the Deposit Materials in a secure,
+environmentally safe, locked facility which is accessible only to authorized
+representatives of DSI. DSI shall have the obligation to reasonably protect the
+confidentiality of the Deposit Materials. Except as provided in this Agreement,
+DSI shall not disclose, transfer, make available, or use the Deposit Materials.
+DSI shall not disclose the content of this Agreement to any third party. If DSI
+receives a subpoena or other order of a court or other judicial tribunal
+pertaining to the disclosure or release of the Deposit Materials, DSI will
+immediately notify the parties to this Agreement unless prohibited by law. It
+shall be the responsibility of Depositor and/or Beneficiaries to challenge any
+such order; provided, however, that DSI does not waive its rights to present its
+position with respect to any such order. DSI will not be required to disobey any
+court or other judicial tribunal order. (See Section 7.5 below for notices of
+requested orders.)
+
+2.2  Status Reports. DSI will issue to Depositor and each Beneficiary a report
+profiling the account history at least semi-annually. DSI may provide copies of
+the account history pertaining to this Agreement upon the request of any party
+to this Agreement.
+
+Page 3
+
+<PAGE>
+
+2.3  Audit Rights. During the term of this Agreement, Depositor and each
+Beneficiary shall each have the right to inspect the written records of DSI
+pertaining to this Agreement. Any inspection shall be held during normal
+business hours and following reasonable prior notice.
+
+ARTICLE 3  --  GRANT OF RIGHTS TO DSI
+
+3.1  Title to Media. Depositor hereby transfers to DSI the title to the media
+upon which the proprietary technology and materials are written or stored.
+However, this transfer does not include the ownership of the proprietary
+technology and materials contained on the media such as any copyright, trade
+secret, patent or other intellectual property rights.
+
+3.2  Right to Make Copies. DSI shall have the right to make copies of the
+Deposit Materials as reasonably necessary to perform this Agreement. DSI shall
+copy all copyright, nondisclosure, and other proprietary notices and titles
+contained on the Deposit Materials onto any copies made by DSI. With all Deposit
+Materials submitted to DSI, Depositor shall provide any and all instructions as
+may be necessary to duplicate the Deposit Materials including but not limited to
+the hardware and/or software needed.
+
+3.3  Right to Transfer Upon Release. Depositor hereby grants to DSI the right to
+transfer the Deposit Materials to both Beneficiaries upon any release of the
+Deposit Materials for use by each Beneficiary in accordance with Section 4.3.
+Except upon such a release or as otherwise provided in this Agreement, DSI shall
+not transfer the Deposit Materials.
+
+ARTICLE 4  -- RELEASE OF DEPOSIT
+
+4.1  Release Conditions. As used in this Agreement, "Release Condition" shall
+mean the following:
+
+     a.   The occurrence of an Event of Default; or
+
+     b.   Depositor's failure to continue to do business in the ordinary course.
+
+4.2  Release. If either Beneficiary believes in good faith that a Release
+Condition has occurred, such Beneficiary may provide to DSI an affidavit, from
+an officer, certifying the occurrence of the Release Condition and a request for
+the release of the Deposit Materials. Upon receipt of such affidavit, DSI is
+authorized and shall release the Deposit Materials to each of the Beneficiaries.
+DSI shall not be required to inquire into the truth of the affidavit or evaluate
+the merit of the affidavit. DSI may not refuse to deliver the Deposit Material.
+DSI shall provide Depositor with a copy of the requesting Beneficiary's
+affidavit and notice of DSI's delivery of the Deposit Materials to each of the
+Beneficiaries. This Agreement will terminate upon the release of the Deposit
+Materials held by DSI.
+
+4.3  Right to Use Following Release. Unless otherwise provided in the Collateral
+Agreement, upon release of the Deposit Materials in accordance with this Article
+4, each of the Beneficiaries shall have the right to use the Deposit Materials,
+as provided in the Collateral Agreement, for the sole purpose of exercising the
+rights and benefits afforded to such Beneficiary by the Collateral Agreement.
+Subject to each Beneficiary's right to sell and/or license the Deposit Materials
+in
+
+Page 4
+
+<PAGE>
+
+order to satisfy Depositor's obligations to Beneficiaries under the Collateral
+Agreement, Beneficiaries shall be obligated to maintain the confidentiality of
+the released Deposit Materials.
+
+ARTICLE 5  --  TERM AND TERMINATION
+
+5.1  Term of Agreement. The initial term of this Agreement is for a period of
+one year. Thereafter, this Agreement shall automatically renew from year-to-year
+unless (a) Depositor and each of the Beneficiaries jointly instruct DSI in
+writing that the Agreement is terminated; or (b) the Agreement is terminated by
+DSI for nonpayment in accordance with Section 5.2.
+
+5.2  Termination for Nonpayment. In the event of the nonpayment of fees owed to
+DSI, DSI shall provide written notice of delinquency to all parties to this
+Agreement. Any party to this Agreement shall have the right to make the payment
+to DSI to cure the default. If the past due payment is not received in full by
+DSI within one month of the date of such notice, then DSI shall have the right
+to terminate this Agreement at any time thereafter by sending written notice of
+termination to all parties. DSI shall have no obligation to take any action
+under this Agreement so long as any payment due to DSI remains unpaid.
+
+5.3  Disposition of Deposit Materials Upon Termination. Upon termination of this
+Agreement, DSI shall destroy, return, or otherwise deliver the Deposit Materials
+in accordance with Depositor's instructions. If there are no instructions, DSI
+may, at its sole discretion, destroy the Deposit Materials or return them to
+Depositor. DSI shall have no obligation to return or destroy the Deposit
+Materials if the Deposit Materials are subject to another escrow agreement with
+DSI.
+
+5.4  Survival of Terms Following Termination. Upon termination of this
+Agreement, the following provisions of this Agreement shall survive:
+
+     a.   Depositor's Representations (Section 1.5);
+
+     b.   The obligations of confidentiality with respect to the Deposit
+          Materials;
+
+     c.   The rights granted in the sections entitled Right to Transfer Upon
+          Release (Section 3.3) and Right to Use Following Release (Section
+          4.5), if a release of the Deposit Materials has occurred prior to
+          termination;
+
+     d.   The obligation to pay DSI any fees and expenses due;
+
+     e.   The provisions of Article 7; and
+
+     f.   Any provisions in this Agreement which specifically state they survive
+          the termination or expiration of this Agreement.
+
+Page 5
+
+<PAGE>
+
+ARTICLE 6  --  DSI'S FEES
+
+6.1  Fee Schedule. DSI is entitled to be paid its standard fees and expenses
+applicable to the services provided. Depositor shall pay all such fees hereunder
+to DSI, and DSI shall notify Depositor of DSI's fees at least 60 days prior to
+any increase in fees. For any service not listed on DSI's standard fee schedule,
+DSI will provide a quote prior to rendering the service, if requested.
+
+6.2  Payment Terms. DSI shall not be required to perform any service unless the
+payment for such service and any outstanding balances owed to DSI are paid in
+full. Fees are due upon receipt of a signed contract or receipt of the Deposit
+Materials whichever is earliest. If invoiced fees are not paid, DSI may
+terminate this Agreement in accordance with Section 5.2. Late fees on past due
+amounts shall accrue interest at the rate of one and one-half percent per month
+(18% per annum) from the date of the invoice.
+
+ARTICLE 7  --  LIABILITY AND DISPUTES
+
+7.1  Right to Rely on Instructions. DSI may act in reliance upon any
+instruction, instrument, or signature reasonably believed by DSI to be genuine.
+DSI may assume that any employee of a party to this Agreement who gives any
+written notice, request, or instruction has the authority to do so. DSI shall
+not be responsible for failure to act as a result of causes beyond the
+reasonable control of DSI. DSI will not be required to inquire into the truth,
+or evaluate the merit, of any statement or representation contained in any
+notice or document.
+
+7.2  Indemnification. Depositor and Beneficiaries each agree to indemnify,
+defend and hold harmless DSI from any and all claims, actions, damages,
+arbitration fees and expenses, costs, attorney's fees and other liabilities
+("Liabilities") incurred by DSI relating in any way to this escrow arrangement
+except to the extent such Liabilities were caused by the negligence or willful
+conduct of DSI.
+
+7.3  Dispute Resolution. Any dispute relating to or arising from this Agreement
+shall be resolved by arbitration under the Commercial Rules of the American
+Arbitration Association. Three arbitrators shall be selected. The Depositor and
+each Beneficiary shall each select one arbitrator. However, if DSI is a party to
+the arbitration, the Beneficiaries shall jointly select one arbitrator, and DSI
+shall select the third arbitrator. Unless otherwise agreed by Depositor and
+Beneficiaries, arbitration will take place in Wilmington, Delaware, U.S.A. Any
+court having jurisdiction over the matter may enter judgment on the award of the
+arbitrator(s). Service of a petition to confirm the arbitration award may be
+made by First Class mail or by commercial express mail, to the attorney for the
+party or, if unrepresented, to the party at the last known business address.
+
+7.4  Controlling Law. This Agreement is to be governed and construed in
+accordance with the laws of the State of Delaware, without regard to its
+conflict of law provisions.
+
+7.5  Notice of Requested Order. If any party intends to obtain an order from the
+arbitrator or any court of competent jurisdiction which may direct DSI to take,
+or refrain from taking any action, that party shall:
+
+Page 6
+
+<PAGE>
+
+     a.   Give DSI at least two business days' prior notice of the hearing;
+
+     b.   Include in any such order that, as a precondition to DSI's obligation,
+          DSI be paid in full for any past due fees and be paid for the
+          reasonable value of the services to be rendered pursuant to such
+          order; and
+
+     c.   Ensure that DSI not be required to deliver the original (as opposed to
+          a copy) of the Deposit Materials if DSI may need to retain the
+          original in its possession to fulfill any of its other duties.
+
+ARTICLE 8  --  GENERAL PROVISIONS
+
+8.1  Entire Agreement. This Agreement, which includes the Exhibits described
+herein, embodies the entire understanding among the parties with respect to its
+subject matter and supersedes all previous communications, representations or
+understandings, either oral or written. DSI is not a party to any of the
+documents which constitute the Collateral Agreement between Depositor and
+Beneficiaries and has no knowledge of any of the terms or provisions of any such
+Collateral Agreement. DSI's only obligations to Depositor or Beneficiaries are
+as set forth in this Agreement. No amendment or modification of this Agreement
+shall be valid or binding unless signed by all the parties hereto, except that
+Exhibit A need not be signed by DSI, Exhibit B need not be signed by
+Beneficiaries and Exhibit C need not be signed.
+
+8.2  Notices. All notices, invoices, payments, deposits and other documents and
+communications shall be given to the parties at the addresses specified in the
+attached Exhibit C. It shall be the responsibility of the parties to notify each
+other as provided in this Section in the event of a change of address. The
+parties shall have the right to rely on the last known address of the other
+parties. Unless otherwise provided in this Agreement, all documents and
+communications may be delivered by First Class mail.
+
+8.3  Severability. In the event any provision of this Agreement is found to be
+invalid, voidable or unenforceable, the parties agree that unless it materially
+affects the entire intent and purpose of this Agreement, such invalidity,
+voidability or unenforceability shall affect neither the validity of this
+Agreement nor the remaining provisions herein, and the provision in question
+shall be deemed to be replaced with a valid and enforceable provision most
+closely reflecting the intent and purpose of the original provision.
+
+8.4  Successors. This Agreement shall be binding upon and shall inure to the
+benefit of the successors and assigns of the parties. However, DSI shall have no
+obligation in performing this Agreement to recognize any successor or assign of
+Depositor or of either Beneficiary unless DSI receives clear, authoritative and
+conclusive written evidence of the change of parties.
+
+8.5  Regulations. Depositor and Beneficiaries are responsible for and warrant
+compliance with all applicable laws, rules and regulations, including but not
+limited to customs laws, import, export, and re-export laws and government
+regulations of any country from or to which the Deposit Materials may be
+delivered in accordance with the provisions of this Agreement.
+
+Page 7
+
+<PAGE>
+
+AirNet Communications Corporation        TECORE, Inc.
+Depositor                                Beneficiary
+
+By: /s/ Glenn A. Ehley                   By: /s/ Jay Salkini
+   ---------------------------------        -----------------------------------
+Name: Glenn A. Ehley                     Name: Jay Salkini
+     -------------------------------          ---------------------------------
+Title: President and Chief Executive     Title: President and Chief Executive
+       Officer                                  Officer
+      ------------------------------           --------------------------------
+Date: January 24, 2003                   Date: January 24, 2003
+     -------------------------------          ---------------------------------
+
+
+DSI Technology Escrow Services, Inc.     SCP Private Equity Partners, II, LP
+                                         Beneficiary
+
+                                         By: SCP Private Equity II General
+                                             Partner, L.P., its general partners
+
+                                         By: SCP Private Equity II, LLC
+
+By:_________________________________     By: /s/ James W. Brown
+                                            -----------------------------------
+Name:_______________________________     Name: James W. Brown
+                                              ---------------------------------
+Title:______________________________     Title: a Manager
+                                               --------------------------------
+Date:_______________________________     Date: January 24, 2003
+                                              ---------------------------------
+
+Page 8
+
+<PAGE>
+
+                                    EXHIBIT A
+
+                            MATERIALS TO BE DEPOSITED
+
+                                 Account Number
+
+1.   Description of Deposit Materials. Depositor represents to Beneficiaries
+that, at a minimum, Deposit Materials delivered to DSI shall consist of the
+following:
+
+     a. Copies of the object code and source code for: (i) version 3.2.1 of
+AirNet BSS Software; (ii) the most current version of "Adaptive Array"; (iii)
+the most current version of "Wildfire II"; (iv) the most current version of
+AdaptaCell; (v) the most current version of AirSite Backhaul Free Base Station
+software; (vi) the most current version of GPRS software; (vii) the most current
+version of OMC-R software; (viii) the most current version of BSC software; and
+(ix) the most current version of TRAU software.
+
+     b. The name of each third-party software application and hardware
+application used with the software described above in subsection 1(a) of this
+Exhibit A. Each such third-party item shall be identified by version, supplier
+and purpose.
+
+     c. Copies of all pending, but unpublished, patent applications.
+
+     d. Designs for all versions of every hardware product offered for sale or
+license by AirNet, whether manufactured by AirNet or by a third party on behalf
+of AirNet.
+
+     e. Manufacturing instructions for every AirNet product.
+
+     f. All other information which would be necessary to enable a purchaser of
+all of Depositor's assets to carry on development, manufacturing, sales and
+support of Depositor's entire product line.
+
+2.   Definitions. As used in this Agreement, the following terms have the
+following meanings:
+
+     a. "Object Code" means the compiled, binary, machine-readable version of a
+software product
+
+     b. "Source Code" means the original, uncompiled, raw form of software, or
+any translation or modification of such software which substantially preserves
+its original identity, together with: (a) all existing documentation,
+proprietary information and technical documentation which will enable a
+reasonably skilled software engineer(s) to maintain and enhance the software
+product without the aid of the developer or any other person or reference to any
+other materials; (b) any and all maintenance tools (test programs and program
+specifications), toolkits and proprietary or third party systems utilities
+(compiler and assembler descriptions) and make files for the software product;
+(c) a description of the software product's system/program generation; and (d)
+specifications for all hardware and software required for use and/or support of
+the software product.
+
+Page 9
+
+<PAGE>
+
+AirNet Communications Corporation          TECORE, Inc.
+Depositor                                  Beneficiary
+By: /s/ Glenn A. Ehley                     By: /s/ Jay Salkini
+   -----------------------------------        ---------------------------------
+Name: Glenn A. Ehley                       Name: Jay Salkini
+     ---------------------------------          -------------------------------
+Title: President and Chief Executive       Title: President and Chief Executive
+       Officer                                    Officer
+      --------------------------------           ------------------------------
+Date: January 24, 2003                     Date: January 24, 2003
+     ---------------------------------          -------------------------------
+
+
+SCP Private Equity Partners, II, LP
+Beneficiary
+
+By: SCP Private Equity II General Partner,
+L.P., its general partner
+
+By: SCP Private Equity II, LLC
+
+By: /s/ James W. Brown
+   -----------------------------------
+Name: James W. Brown
+     ---------------------------------
+Title: a Manager
+      --------------------------------
+Date: January 24, 2003
+     ---------------------------------
+Page 10
+
+<PAGE>
+
+                                    EXHIBIT B
+
+                        DESCRIPTION OF DEPOSIT MATERIALS
+
+Depositor Company Name  AirNet Communications Corporation
+                        --------------------------------------------------------
+Account Number _________________________________________________________________
+
+Product Name _______________________________________ Version ___________________
+(Product Name will appear as the Exhibit B Name on Account History report)
+
+DEPOSIT MATERIAL DESCRIPTION:
+
+Quantity      Media Type & Size        Label Description of Each Separate Item
+
+______        Disk 3.5" or ____
+
+______        DAT tape ____mm
+
+______        CD-ROM
+
+______        Data cartridge tape ____
+
+______        TK 70 or ____ tape
+
+______        Magnetic tape ____
+
+______        Documentation
+
+______        Other ______________________
+
+PRODUCT DESCRIPTION:
+Environment ____________________________________________________________________
+
+DEPOSIT MATERIAL INFORMATION:
+Is the media encrypted? Yes / No If yes, please include any passwords and the
+decryption tools.
+Encryption tool name____________________________________Version_________________
+Hardware required_______________________________________________________________
+Software required_______________________________________________________________
+Other required information _____________________________________________________
+
+<TABLE>
+<S>                                                             <C>
+I certify for Depositor that the above described                DSI has inspected and accepted
+the above Deposit Materials have been transmitted to DSI:       materials (any exceptions are noted above):
+
+Signature ______________________                                Signature_________________________________
+Print Name______________________                                Print Name________________________________
+Date____________________________                                Date Accepted_____________________________
+                                                                Exhibit B#________________________________
+</TABLE>
+
+Send materials to: DSI, 9265 Sky Park Court, Suite 202, San Diego, CA 92123
+(858) 499-1600
+
+Page 11
+
+<PAGE>
+
+                                                                       EXHIBIT C
+
+                               DESIGNATED CONTACT
+
+                                 Account Number
+
+Notices, Deposit Material returns and
+communications to Depositor                     Invoices to Depositor should be
+should be addressed to:                         addressed to:
+
+Company Name: AirNet Communications             same as in left column
+              Corporation
+Address:   3950 Dow Road
+           Melbourne, Florida 32934
+Contact: Stuart P. Dawley, Vice President and General Counsel
+Telephone: 321-953-6780
+Facsimile: 321-676-9914
+
+Notices and communications to Beneficiaries     Invoices to Beneficiaries should
+should be addressed to:                         be addressed to:
+
+Beneficiary #1:
+
+Company Name: TECORE, Inc.                      same as in left column
+Address: 7165 Columbia Gateway Drive
+         Columbia, Maryland 21406
+Contact: Jay Salkini, President
+Telephone: 410.872.6001
+Facsimile: 410.872.6010
+
+Beneficiary #2:
+
+Company Name: SCP Private Equity                same as in left column
+              Partners II, L.P.
+Address: 300 Building, 435 Devon Park Drive
+         Wayne, PA 19087
+Contact:   James W. Brown
+           --------------------------------
+Telephone: 610-995-2900
+           --------------------------------
+Facsimile: 610-975-9546
+           --------------------------------
+
+Requests from Depositor or Beneficiaries to change the designated contact should
+be given in writing by the designated contact or an authorized employee of
+Depositor or Beneficiaries.
+
+Page 12
+
+<PAGE>
+
+<TABLE>
+<S>                                             <C>
+Contracts, Deposit Materials and notices to     Invoice inquiries and fee remittances
+DSI should be addressed to:                     to DSI should be addressed to:
+
+DSI Technology Escrow Services. Inc.            DSI Technology Escrow Services, Inc.
+Contract Administration                         Accounts Receivable
+9265 Sky Park Court, Suite 202                  PO Box 45156
+San Diego, CA  92123                            San Francisco, CA 94145-0156
+
+Telephone:  (858) 499-1600                      (858) 499-1636
+Facsimile:  (858) 694-1919                      (858) 499-1637
+</TABLE>
+
+Page 13
+
+
+
+</TEXT>
+</DOCUMENT>

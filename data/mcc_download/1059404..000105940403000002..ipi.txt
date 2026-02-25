@@ -1,0 +1,1889 @@
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>23
+<FILENAME>ipi.txt
+<DESCRIPTION>EXHIBIT 10.57
+<TEXT>
+                        CONFIDENTIAL TREATMENT REQUESTED
+
+
+
+                    PRODUCT DEVELOPMENT AND SUPPLY AGREEMENT
+
+                                 By and between
+
+                        PATH 1 NETWORK TECHNOLOGIES INC.
+
+                                       And
+
+                            INTERNET PHOTONICS, INC.
+
+                                SEPTEMBER 9, 2002
+
+
+<PAGE>
+
+
+1     DEFINITIONS..............................................................1
+1.1      ACCEPTANCE TEST.......................................................1
+1.2      ACCEPTANCE TEST PLAN OR ATP...........................................1
+1.3      ACCEPTANCE TEST PROCEDURES............................................2
+1.4      CUSTOMER READINESS....................................................2
+1.5      DEFECT................................................................2
+1.6      FIELD TRIAL UNIT......................................................2
+1.7      INTELLECTUAL PROPERTY RIGHTS..........................................2
+1.8      INTERNET PHOTONICS DELIVERABLES.......................................3
+1.9      PATH 1 DELIVERABLES...................................................3
+1.10     PATH 1 KNOW-HOW.......................................................3
+1.11     PATH 1 PATENTS........................................................3
+1.12     PATH 1 TECHNOLOGY.....................................................3
+1.13     PRODUCT MANAGEMENT INFORMATION BASE (MIB).............................4
+1.14     PRODUCT(S)............................................................4
+1.15     PRODUCTION UNIT.......................................................4
+1.16     SERVICES..............................................................4
+1.17     SEVERITY 1 DEFECT.....................................................4
+1.18     SEVERITY 2 DEFECT.....................................................4
+1.19     SEVERITY 3 DEFECT.....................................................5
+1.20     SEVERITY 4 DEFECT.....................................................5
+1.21     SPECIFICATIONS........................................................5
+1.22     TERM..................................................................5
+1.23     WORKAROUND SOLUTION...................................................5
+2     SCOPE OF WORK............................................................5
+2.1      SERVICES..............................................................5
+2.2      AGENCY APPROVALS......................................................6
+3     COMPENSATION; INTELLECTUAL PROPERTY RIGHTS...............................6
+3.1      COMPENSATION..........................................................6
+      3.1.1    Initial Payment.................................................6
+      3.1.2    Field Trial Delivery Payment....................................7
+      3.1.3    Extension of Exclusion Payment..................................7
+3.2      INTELLECTUAL PROPERTY RIGHTS; ROYALTIES...............................7
+3.3      EXCLUSIVE LICENSE.....................................................7
+      3.3.1    Exclusive License Grant.........................................7
+      3.3.2    Product Modifications and Derivatives...........................8
+      3.3.3    Exclusive Market and Exclusive Period...........................8
+3.4      MOST FAVORED NATIONS PRICING..........................................8
+3.5      TRADEMARK RIGHTS......................................................9
+3.6      INDEMNIFICATION.......................................................9
+4     PRICE PER UNIT..........................................................10
+5     PRODUCT FORECAST........................................................10
+6     MARKETING...............................................................10
+7     MILESTONES..............................................................11
+7.1      DELIVERY OF THE ACCEPTANCE TEST PLAN (ATP)...........................11
+7.2      DELIVERY OF THE INTERNET PHOTONICS PRODUCT MANAGEMENT INFORMATION
+         BASE (MIB)...........................................................11
+7.3      ACCEPTANCE TEST PROCEDURES...........................................11
+7.4      ACCEPTANCE TEST......................................................12
+7.5      AMENDMENT OF ACCEPTANCE TEST PLAN....................................12
+7.6      FIELD TRIAL UNITS SHIPMENT...........................................12
+7.7      PRODUCT RELEASE FOR FCC, CE AND UL CERTIFICATION.....................12
+7.8      COMPLETION OF UL APPROVAL............................................12
+7.9      PRODUCT REVIEWS AND MEETINGS.........................................12
+7.10     PERFORMANCE ASSURANCE................................................13
+8     SPECIFICATIONS..........................................................14
+9     ENHANCEMENTS TO PRODUCTS................................................15
+10    DELIVERABLES AND DELIVERY; ACCEPTANCE; AND REJECTION....................15
+10.1     PROGRAM MANAGERS.....................................................15
+10.2     DELIVERABLES.........................................................15
+10.3     ACCEPTANCE...........................................................15
+      10.3.1   Inspection and Testing.........................................15
+      10.3.2   Material Errors and Correction.................................16
+      10.3.3   Product Acceptance.............................................16
+      10.3.4   Disputed Deliverables..........................................16
+      10.3.5   Rejection......................................................17
+11    CONTINUITY OF SUPPLY....................................................17
+12    REPRESENTATIONS AND WARRANTIES..........................................18
+13    CONFIDENTIALITY.........................................................18
+13.1     CONFIDENTIAL INFORMATION.............................................18
+13.2     PERMITTED USE........................................................18
+13.3     EQUITABLE RELIEF.....................................................19
+13.4     RETURN AND USE OF CONFIDENTIAL INFORMATION...........................19
+14    TERMINATION.............................................................20
+14.1     ACCEPTANCE TEST FAILURE..............................................20
+14.2     ASSIGNMENT OR TRANSFER OF ASSETS.....................................20
+14.3     MATERIAL BREACH......................................................20
+14.4     COMPLETION OF RESELLER AGREEMENT.....................................20
+14.5     FULFILMENT OF OBLIGATIONS............................................21
+14.6     SURVIVAL.............................................................21
+15    WARRANTY ON PATH 1 TECHNOLOGY...........................................21
+16    MAINTENANCE AND SUPPORT.................................................21
+17    WARRANTIES/LIMITED LIABILITY............................................22
+18    GENERAL.................................................................22
+18.1     FORCE MAJEURE........................................................22
+18.2     NOTICES..............................................................22
+18.3     RELATIONSHIP OF PARTIES..............................................23
+18.4     USE OF NAME..........................................................23
+18.5     PERSONNEL............................................................23
+18.6     EMPLOYMENT TAXES AND BENEFITS........................................24
+18.7     OTHER TAX IMPLICATIONS...............................................24
+18.8     EXPORT CONTROLS......................................................24
+18.9     ASSIGNMENT...........................................................24
+18.10       NO WAIVER.........................................................24
+18.11       NO RIGHTS IN THIRD PARTIES........................................25
+18.12       COUNTERPARTS......................................................25
+18.13       HEADINGS AND REFERENCES...........................................25
+18.14       CONSTRUCTION......................................................25
+18.15       APPLICABLE LAW....................................................25
+18.16       SEVERABILITY......................................................25
+18.17       COMPLETE AGREEMENT................................................25
+18.18       ATTORNEY'S FEES...................................................26
+19    SIGNATURES..............................................................26
+
+<PAGE>
+
+
+
+                        CONFIDENTIAL TREATMENT REQUESTED
+
+                    PRODUCT DEVELOPMENT AND SUPPLY AGREEMENT
+
+         This Product  Development  and Supply  Agreement (the  "Agreement")  is
+entered into effective  September 6, 2002 (the "Effective  Date") between Path 1
+Network Technologies Inc. (hereinafter "Path 1"), a Delaware corporation located
+at 6215 Ferris Square,  Suite 140, San Diego, CA 92121, and Internet  Photonics,
+Inc. (hereinafter "Internet Photonics"),  a Delaware corporation located at 1030
+Broad  Street,   Shrewsbury,  New  Jersey  07702  (individually  a  "Party"  and
+collectively "the Parties").
+
+                                    RECITALS
+
+         WHEREAS,  Path 1 desires to develop a co-branded  set of products using
+certain of Path 1's  proprietary  technology  and to deliver  such  products  to
+Internet Photonics in exchange for the compensation set forth herein;
+
+         WHEREAS,   Internet   Photonics  desires  Path  1  to  perform  certain
+engineering services in connection with the development, testing and delivery of
+certain co-branded products for and to Internet Photonics; and
+
+         WHEREAS,  Internet Photonics desires to sell the products developed and
+delivered by Path 1 pursuant to this agreement.
+
+         NOW,  THEREFORE,  in  consideration  of the mutual  promises  contained
+herein the Parties agree as follows:
+
+                              TERMS AND CONDITIONS
+
+1        DEFINITIONS
+
+1.1      ACCEPTANCE TEST
+
+              Acceptance  Test means the test of the Products to be performed by
+              Path  1 and  witnessed  by  Internet  Photonics  pursuant  to  the
+              Acceptance Test Plan.
+
+1.2      ACCEPTANCE TEST PLAN OR ATP
+
+              Acceptance  Test Plan or "ATP"  means the test  criteria  and test
+              scenarios to be mutually  agreed upon by the Parties to ensure the
+              Products'   compliance  with  the  Product  and   Interoperability
+              Specifications. The Parties shall use reasonable efforts to ensure
+              that the ATP will be submitted to Internet  Photonics by Path 1 by
+              *** and be mutually agreed upon by the Parties on or before ***.
+
+1.3      ACCEPTANCE TEST PROCEDURES
+
+              Acceptance  Test Procedure  means the test procedure to be used to
+              measure the  criteria  spelled out by the ATP. It will include the
+              test  sequences  to be performed at Path 1's facility in San Diego
+              following a *** approach.
+
+1.4      CUSTOMER READINESS
+
+              Customer   Readiness  shall  mean  a  Product  that  can  be
+              installed at an IPI customer site.
+
+1.5      DEFECT
+
+              A Defect shall mean any  variance,  documented in writing by Path1
+              or  IPI,  in  performance  and   functionally   from  the  Product
+              performance and functionality described in the ASI Over IP Gateway
+              Product Specification called out in Appendix A.
+
+1.6      FIELD TRIAL UNIT
+
+              Field Trial Unit or "Unit"  means the Product as  delivered  after
+              Acceptance Test but before  Certification  Release.  A field trial
+              unit ***, but *** as mutually  agreed to by the parties,  however,
+              Field Trial Units shall ***.
+
+1.7      INTELLECTUAL PROPERTY RIGHTS
+
+              Intellectual  Property Rights means any  information,  inventions,
+              copyrights,  trademarks,  service marks,  maskwork rights,  logos,
+              trade  names,  innovations,   discoveries,   improvements,  ideas,
+              know-how,  show-how,  developments,   methods,  designs,  reports,
+              charts,   drawings,   diagrams,   designs,   analyses,   concepts,
+              technology,  records, brochures,  instructions,  manuals, software
+              (both  in  source  code and  object  code  format),  documentation
+              relating to all  software,  manufacturing  techniques,  expertise,
+              inventions (whether or not reduced to practice or the subject of a
+              patent application),  test protocols, test results,  descriptions,
+              parts lists, bills of materials,  documentation whether in written
+              or  electronic  format,  prototypes,  molds,  models,  assemblies,
+              processes and any similar  intellectual  property and information,
+              whether or not  protected  or  protectable  by patent or copyright
+              together  with all United  States and foreign  patents and pending
+              applications.
+
+1.8      INTERNET PHOTONICS DELIVERABLES
+
+              Internet   Photonics    Deliverables   means,    collectively   or
+              individually,   revisions  and  approval  of  the   Specifications
+              (Appendix A), preliminary operations manual,  acceptance test plan
+              and Product MIB.
+
+1.9      PATH 1 DELIVERABLES
+
+              Path 1  Deliverables  means,  collectively  or  individually,  the
+              Specifications, preliminary operations manual, an initial draft of
+              the Acceptance Test Plan, ***Field Trial units.
+
+1.10     PATH 1 KNOW-HOW
+
+              Path 1  Know-How  means  all of Path 1's  proprietary  information
+              techniques,   inventions,  data,  practices,  methods,  knowledge,
+              designs,  skill and experience including,  without any limitation,
+              any trade secret or other Intellectual  Property Right, whether or
+              not patentable or copyrightable, relating to the Path 1 Technology
+              or useful for the development,  production, assembly, manufacture,
+              or transport of the Products.
+
+1.11     PATH 1 PATENTS
+
+              Path  1  Patents   means  and  includes  all  patents  and  patent
+              applications  related to the  design,  manufacture,  or use of the
+              Products,  issued or filed as of the date  hereof,  or during  the
+              Term, including without limitation all foreign  counterparts,  all
+              substitutions,    extensions,   reissues,   renewals,   divisions,
+              continuations  and  continuations in part relating to such patents
+              and their foreign counterparts,  and which are owned or controlled
+              by Path 1 (where  "controlled"  means licensed-in by Path 1 with a
+              royalty-free right to grant sublicenses).
+
+1.12     PATH 1 TECHNOLOGY
+
+              Path 1 Technology means (i) the inventions,  designs,  discoveries
+              and  processes  claimed in the Path 1 Patents  and (ii) the Path 1
+              Know-How.
+
+1.13     PRODUCT MANAGEMENT INFORMATION BASE (MIB)
+
+              Product Management  Information Base (MIB) means the collection of
+              definitions,  which identify the properties of the managed objects
+              within the device to be  managed.  Every  managed  device  keeps a
+              database of values for each of the definitions written in the MIB.
+
+1.14     PRODUCT(S)
+
+              Product(s) means and includes the co-branded  Asynchronous  Serial
+              Interface  ("ASI") to Internet Protocol ("IP") gateway products to
+              be  developed  and  supplied by Path 1 using the Path 1 Technology
+              pursuant  to this  Agreement  as more  particularly  described  in
+              Appendix A attached hereto. Product(s) also means and includes the
+              Non  -   Exclusive   co-branded   Internet   Protocol   ("IP")  to
+              Asynchronous  Serial Interface ("ASI") to gateway products already
+              developed, or will be developed by Path 1
+
+1.15     PRODUCTION UNIT
+
+              Production   Unit  means  the  Product  as  delivered  after  full
+              Acceptance Test  compliance but before  Certification  Release.  A
+              production unit will fully satisfy the ATP.
+
+1.16     SERVICES
+
+              Services means the work and labor of each Party  necessary for the
+              performance  of such Party's  respective  obligations  pursuant to
+              this Agreement.
+
+1.17     SEVERITY 1 DEFECT
+
+              Severity 1 defect  shall mean any product  defect that  materially
+              affects the  functionality  and  performance of the product to the
+              extent that it does not meet the Product  Requirement  in Appendix
+              A.
+
+1.18     SEVERITY 2 DEFECT
+
+              Severity 2 defect  shall mean any  product  defect  that  severely
+              degrades the  functionality and performance of the product and for
+              which there is no workaround solution.
+
+1.19     SEVERITY 3 DEFECT
+
+              Severity 3 defect shall mean any product  defect that degrades the
+              functionality  and  performance of the product and for which there
+              is a workaround solution to restore functionality and performance.
+
+1.20     SEVERITY 4 DEFECT
+
+              Severity 4 defect  shall  mean any  product  defect  that does not
+              affect operational functionality or performance of the product.
+
+1.21     SPECIFICATIONS
+
+              Specifications  means  the  mechanical,  engineering,  operational
+              and/or functional  descriptions,  details and requirements for the
+              Products  as set forth in  Appendix A attached  hereto as the same
+              may be modified as provided herein. Included are any standards for
+              performance or operation of the item to which such  Specifications
+              pertain.
+
+1.22     TERM
+
+              Term means the period from the Effective Date until this Agreement
+              is terminated pursuant to Section 14 hereof.
+
+1.23     WORKAROUND SOLUTION
+
+              Workaround   solution   shall   mean  any   configuration   and/or
+              instructions  that  do  not  conform  to the  intended  use of the
+              Product but, when used, allows the Product to operate as intended.
+
+2        SCOPE OF WORK
+
+2.1      SERVICES
+
+              Subject to the terms and conditions  set forth in this  Agreement,
+              each  Party  will  be   responsible   for  obtaining  all  of  the
+              technology,  labor,  material,  tooling  and  facilities  (and all
+              related costs)  necessary for the completion of its portion of its
+              respective portion of the Services,  except as otherwise set forth
+              in this Agreement.
+
+2.2      AGENCY APPROVALS
+
+              Path 1 shall be responsible for (a) supporting all board level and
+              power supply changes required to meet Conformite  Europeene ("CE")
+              and  Underwriters  Laboratories  ("UL") approval and (b) obtaining
+              all necessary CE, UL and FCC approvals  required to distribute the
+              Products.  Path 1 and  Internet  Photonics  agree  to form a joint
+              certification  team to obtain any other  governmental or necessary
+              private  agency  approvals  or  certifications  necessary  for the
+              Products  to be  distributed  in North  America  and to use  their
+              respective   reasonable   efforts  to  obtain  such  approvals  or
+              certifications.
+
+              The Parties shall *** pay the actual costs and filing fees for the
+              submission for any such additional  approvals in the United States
+              and any  other  jurisdictions  as the  Parties  mutually  agree in
+              writing. In order for Path 1 to perform its obligations under this
+              Section  2.2,  Internet   Photonics  shall  provide  Path  1  with
+              customary English language summaries of the specifications of each
+              individual  jurisdiction's  requirements  where agency approval is
+              being sought.  Each Party shall provide all reasonable  assistance
+              to the other for obtaining  approvals and  certifications  for the
+              Products,  including  use of any relevant  testing,  test results,
+              documents, applications and approvals and certificates with regard
+              to the Products.
+
+              In the event other  governmental  or private  agency  approvals or
+              certifications   are   necessary   (other  than  CE,  UL  and  FCC
+              approvals), all costs for agency approvals for other jurisdictions
+              shall be mutually agreed upon.
+
+3        COMPENSATION; INTELLECTUAL PROPERTY RIGHTS
+
+3.1      COMPENSATION.
+
+              Internet  Photonics  agrees to pay Path 1 aggregate  fees of up to
+*** as follows:
+
+3.1.1    Initial Payment
+
+                      Two Hundred Fifty Thousand Dollars  (US$250,000)  shall be
+                      paid by Internet  Photonics  to Path 1 upon the signing of
+                      this   Agreement  for  completion  of  the  Milestones  in
+                      accordance with Section 7, Exclusive License in accordance
+                      with  Section  3 and all other  obligations  of Path 1 and
+                      rights to be received by Internet  Photonics in accordance
+                      with the terms and conditions of this Agreement.
+
+3.1.2    Field Trial Delivery Payment
+
+                      ***shall  be paid  by  Internet  Photonics  to Path 1 upon
+                      Internet  Photonics'  receipt and  acceptance of *** Field
+                      Trial  units,  in  accordance  with  Section  1.7 of  this
+                      agreement,  or upon  delivery  of one or more  units  to a
+                      customer  site, on or before ***. Field Trial Units may be
+                      for *** and any *** Path 1 products  desired  by  Internet
+                      Photonics to support customer trial configurations.
+
+3.1.3    Extension of Exclusion Payment
+
+                      *** shall be due and payable only by Internet Photonics to
+                      Path 1 at such  time  that  Internet  Photonics  elects to
+                      increase  the  Exclusivity  Period as set forth in Section
+                      3.3 of this  Agreement.  At the time of  exercise  of this
+                      option  to  increase  the  exclusivity  period,   Internet
+                      Photonics  will  place  an  order  for a  minimum  of  ***
+                      production  units.  This  order  may be for  ***  products
+                      desired  by  Internet  Photonics,  but must be for no less
+                      than *** units  per month  during  the  exclusive  period.
+                      Internet  Photonics  will have the  option to reduce  this
+                      order by ***% for every *** weeks delay in the delivery of
+                      the first *** Field  Trial  Units from the  delivery  date
+                      stated in Section 7.6 hereof.
+
+3.2      INTELLECTUAL PROPERTY RIGHTS; ROYALTIES
+
+              Path 1 shall own all  Intellectual  Property Rights related to the
+              Products,  the  application  program  interface  and  the  Path  1
+              Technology and retains all rights to manufacture  the Products and
+              the application program interface.
+
+3.3      EXCLUSIVE LICENSE
+
+3.3.1    Exclusive License Grant
+
+                    Subject to the terms and conditions of this Agreement,  Path
+                    1 hereby  grants  to  Internet  Photonics  for the  Term,  a
+                    fully-paid,   limited,   exclusive  (as  set  forth  below),
+                    nontransferable license to use, support, demonstrate, resell
+                    and distribute  the Products and all end user  documentation
+                    delivered  as part of, or  related  to, the  Products.  This
+                    license becomes a perpetual,  non-exclusive  license for all
+                    products purchased under this agreement after the expiration
+                    of the exclusivity period.
+
+3.3.2    Product Modifications and Derivatives
+
+                     The  foregoing  license grant does not extend to derivative
+                     works based on the Products.  The license does apply to any
+                     performance  improvements and/or maintenance updates of the
+                     Products  made by Path 1. Within the period  referenced  in
+                     Section 15 of this  agreement,  modifications  to Products,
+                     for performance,  interoperability  or other  improvements,
+                     which are  necessary for use of products on *** networks to
+                     support  service  offerings,  due  to  Internet  Photonics'
+                     customer  requirements  or to meet  agency  Certifications,
+                     shall  be   implemented  by  Path  1  in  good  faith  with
+                     commercially reasonable efforts.
+
+3.3.3    Exclusive Market and Exclusive Period
+
+                     The  foregoing  license  grant shall be restricted to other
+                     channel partners of Path 1 in the *** market,  selling into
+                     *** environments  only (the "Exclusive  Market"),  and will
+                     only be exclusive  for a period of *** months from the date
+                     that Path 1 delivers,  and IPI accepts,  in accordance with
+                     Section 10.3.3,  Production Units of Products and announces
+                     the immediate  availability  of its formal product  release
+                     (the "Exclusivity  Period").  The Exclusivity Period may be
+                     extended   by   Internet   Photonics   for  an   additional
+                     consecutive   ***  month   period   upon   payment  of  the
+                     exclusivity  payment  prior to the end of year  2002.  As a
+                     further condition of this exclusivity,  Internet  Photonics
+                     agrees that it will exclusively  distribute the Products as
+                     Internet  Photonics'  ASI to IP and IP to ASI  products (no
+                     third party  competitive  products)  during the Exclusivity
+                     Period.
+
+                     For  purposes  of   clarification,   not  withstanding  the
+                     foregoing, during the Exclusivity Period, Path 1 is free to
+                     sell its products and derivatives  thereof  directly to ***
+                     customers  in such  markets  as it  chooses  to sell  into,
+                     including,  but not  limited  to,  ***,  or any other  such
+                     market.  During the  exclusivity  period,  Path 1 agrees to
+                     only propose and inform Internet Photonics  products,  when
+                     any *** customer opportunities requiring *** are identified
+                     by Path 1 for *** transport  that are within the *** market
+                     selling into *** environments.
+
+3.4      MOST FAVORED NATIONS PRICING
+
+              Throughout  the Term,  in the event Path 1 sells a product that is
+              commercially  equivalent to a Product covered under this Agreement
+              to any other buyer in the metro cable/MSO  market at a price point
+              less than the price paid by  Internet  Photonics  (as  adjusted to
+              include  applicable  discounts),  when  taken  together  with  the
+              economic terms of such  arrangement,  Path 1 shall promptly notify
+              Internet  Photonics  and  either (a) offer such price and terms to
+              Internet Photonics or (b) where such lower prices are due to other
+              terms and  conditions in Path 1's agreement with such other party,
+              offer  such  prices to  Internet  Photonics  with  such  terms and
+              conditions.
+
+3.5      TRADEMARK RIGHTS
+
+              The Products shall contain certain  markings and  identifications,
+              which  include the  trademark(s)  and/or trade names of Path 1 and
+              Internet  Photonics,  on the Products sold by Internet  Photonics.
+              Such markings and  identification  shall be strictly in accordance
+              with the  requirements  of Path 1 and  Internet  Photonics  as set
+              forth in each Party's Trademark Guidelines, as may be updated from
+              time to time.  Neither Party is authorized to use the trademark(s)
+              and trade names of the other Party on any products, other than the
+              Products, or for any other purpose. Subject to compliance Path 1's
+              Trademark  Guidelines,  Internet  Photonics  is  hereby  granted a
+              limited  trademark  license  with respect to the Path 1 trademarks
+              solely for use on, and in connection with, the Products. All other
+              use is prohibited.  This license shall terminate on the earlier of
+              termination of this Agreement or failure of Internet  Photonics to
+              maintain the quality  requirements set out in this Agreement or in
+              any  subsequent  written  communication   received  from  Path  1.
+              Internet  Photonics  shall  obtain no rights to or interest of any
+              kind in any  Path 1  trademarks  or  trade  names  other  than the
+              limited right to use set out above.
+
+3.6      INDEMNIFICATION
+
+              Path 1 shall indemnify and hold Internet  Photonics  harmless from
+              and against any and all  damages,  costs and  expenses  (including
+              without limitation  reasonable attorneys' and expert witness fees)
+              incurred  by Internet  Photonics  in  connection  with any action,
+              suit, proceeding, demand, assessment or judgment arising out of or
+              related to any claims by third parties  based on any  infringement
+              by the Path 1 Intellectual  Property Rights,  the Path 1 Know-how,
+              the Path 1 Patents, the Path 1 Technology, any trademark,  service
+              mark, logo, trade name, trade secret,  copyright,  patent or other
+              intellectual  property  right of any  other  person  or  entity or
+              breaches of obligations  under this  Agreement;  provided that (i)
+              Internet Photonics promptly notifies Path 1 of such action,  claim
+              or  proceeding;   (ii)  Path  1  shall  have  the  sole  right  to
+              compromise, settle or defend any such action, claim or proceeding;
+              provided,  however, that Path 1 shall not compromise or settle any
+              such  action,  claim,  or  proceeding  in a manner  that  does not
+              unconditionally   release  Internet   Photonics  without  Internet
+              Photonics'  prior written  consent;  and (iii) Internet  Photonics
+              provides  Path 1  reasonable  assistance  at Path 1's  request and
+              expense in the defense of such action, claim or proceeding.
+
+              Internet  Photonics  shall indemnify and hold Path 1 harmless from
+              and against any and all  damages,  costs and  expenses  (including
+              without limitation  reasonable attorneys' and expert witness fees)
+              incurred  by  Path  1  in  connection   with  any  action,   suit,
+              proceeding,  demand,  assessment  or  judgment  arising  out of or
+              related to any claims by third parties  based on any  infringement
+              by the Internet Photonics trademarks,  logos or trade names of any
+              trademark,  logo or trade  name of any  other  person or entity or
+              breaches of Internet Photonics'  obligations under this Agreement;
+              provided that (i) Path 1 promptly notifies  Internet  Photonics of
+              such action,  claim or proceeding;  (ii) Internet  Photonics shall
+              have the sole  right to  compromise,  settle  or  defend  any such
+              action,  claim or  proceeding;  provided,  however,  that Internet
+              Photonics  shall not compromise or settle any such action,  claim,
+              or  proceeding in a manner that does not  unconditionally  release
+              Path 1 without Path 1's prior  written  consent;  and (iii) Path 1
+              provides  Internet  Photonics  reasonable  assistance  at Internet
+              Photonics'  request  and  expense in the  defense of such  action,
+              claim or proceeding.
+
+4        PRICE PER UNIT
+
+          Path 1 and  Internet  Photonics  will agree  upon an initial  purchase
+          price(s) for both the ASI to IP and IP to ASI gateway Products,  which
+          purchase price(s) will be reflected in the initial purchase order from
+          Internet  Photonics (in accordance  with Section  3.1.2).  The Parties
+          shall  meet at least  every  *** to  establish  a  mutually  agreeable
+          purchase  price going  forward that  approximates  a ***.  Path 1 will
+          share its *** information and Internet Photonics will share its *** in
+          order to adjust the purchase price for the next ***.
+
+5        PRODUCT FORECAST
+
+          Internet  Photonics  agrees to  provide  Path 1 with a rolling  90-day
+          product forecast for the purposes of manufacturing  planning, not as a
+          hard commitment or obligation on the part of IPI.
+
+6        MARKETING
+
+          Path 1 may disclose its  relationship  with Internet  Photonics in its
+          advertising,   press,   promotion   and/or  direct  sales   materials.
+          Notwithstanding  anything  in  this  Agreement  to the  contrary,  the
+          Parties  agree  that  each  Party  may make  such  disclosure  of this
+          Agreement,  exclusive of  proprietary  information  such as pricing as
+          required by either party pursuant to applicable securities regulations
+          or other laws.
+
+          Upon execution of this Agreement, the Parties shall mutually prepare a
+          press release regarding the formation of a strategic  alliance between
+          Path  1  and  Internet  Photonics,  which  release  will  be  mutually
+          agreeable to the Parties. Except as allowed above, neither Party shall
+          disclose the content of this Agreement,  including but not limited to,
+          the terms of funding and the product  development efforts to any third
+          parties.  During  the Term each  party must  review  and  approve  the
+          content of any press release of products before it is issued. Internet
+          Photonics  hereby agrees and covenants  that it will exercise its best
+          efforts to launch its end-to-end transport  initiative  (including and
+          integrating  the Products with Internet  Photonics  LightStack  family
+          related  to  this  Agreement  or the  relationships  of  the  Parties)
+          solution no later than the availability of Field Trial Units.
+
+          Path 1  shall  designate  an  expert  to  assist  Internet  Photonics'
+          marketing team with response to customer requests for network designs,
+          performance  of  acceptance  tests,   network   integration  and.  and
+          analyzing  all problems  occurring  during such tests.  Upon  Internet
+          Photonics'  request,  Path 1 shall  provide up to two days of training
+          for Internet Photonics Systems Engineers on the installation, testing,
+          operation  and  maintenance  of  Products.  Path 1  shall  provide  to
+          Internet Photonics a set of reproducible training materials, including
+          such materials as usually  utilized by Path 1 when instructing its own
+          customers. All reasonable travel and lodging expenses incurred by Path
+          1  in  connection  with  mutually   agreed   Marketing  and  Technical
+          assistance  provided  above  shall be paid or  reimbursed  by Internet
+          Photonics.
+
+7        MILESTONES
+
+          The Parties  agree to the following  milestones  for  development  and
+          testing of the Products:
+
+7.1      DELIVERY OF THE ACCEPTANCE TEST PLAN (ATP)
+
+              Delivery  of the ATP to  Internet  Photonics  by Path 1 and mutual
+              agreement of the content thereto by ***. Revisions and approval by
+              Internet Photonics by *** .
+
+7.2      DELIVERY OF THE INTERNET PHOTONICS PRODUCT MANAGEMENT INFORMATION BASE
+          (MIB)
+
+              Delivery  of the  Internet  Photonics  Product  MIB  by  Path 1 to
+              Internet  Photonics  and  mutual  agreement  there  to by *** with
+              revisions and approval by Internet Photonics by ***.
+
+7.3      ACCEPTANCE TEST PROCEDURES
+
+              Acceptance  test plan  procedures  are subject to change up to the
+              point of ATP execution.  A copy of the procedures and test results
+              will be provided upon delivery of Field Trial units.
+
+7.4      ACCEPTANCE TEST
+
+              Path 1's completion of an Acceptance Test with Internet  Photonics
+              present to witness  and accept  results by delivery of Field Trial
+              Units.
+
+7.5      AMENDMENT OF ACCEPTANCE TEST PLAN
+
+              The  Acceptance  Test Plan may be  amended  after it is  initially
+              agreed to by the Parties pursuant to Section 7.1 only by a written
+              amendment signed by both parties.
+
+7.6      FIELD TRIAL UNITS SHIPMENT
+
+              Path 1's  shipment of *** Field Trial Units to Internet  Photonics
+              by *** . in accordance with Section 3.1.2.
+
+7.7      PRODUCT RELEASE FOR FCC, CE AND UL CERTIFICATION
+
+              Product  release  for FCC,  CE and  preliminary  UL  testing  with
+              provisional clearance through an authorized testing center will be
+              no later than *** unless  otherwise  mutually agreed by Path 1 and
+              Internet Photonics.
+
+7.8      COMPLETION OF UL APPROVAL
+
+              The submission of  application  for final UL approval with respect
+              to the  Products  will occur when the  authorized  testing  center
+              completes  preliminary UL testing.  The final  application  review
+              process through the UL center may take up to 6 months.
+
+              The Parties agree to use their best reasonable  commercial efforts
+              to adhere to the schedule  set forth in this  Section 7.  However,
+              each of the above  milestones may be extended by mutual  agreement
+              of the Parties on a day-by-day slip basis until completed.
+
+7.9      PRODUCT REVIEWS AND MEETINGS
+
+              The Parties agree to meet from time to time at mutually  agreeable
+              times  and  locations  to review  and  discuss  the  status of the
+              development of the Products. The Parties further agree to promptly
+              meet at the request of either  Party with  respect to any material
+              issues a Party may have with the performance of the other Party of
+              its obligations under this Agreement.
+
+7.10     PERFORMANCE ASSURANCE
+
+              Should the Product  fail to meet the  conditions  of Section 10 by
+              ***,   IPI  shall  return  all  Products  and  Field  Trial  units
+              previously  delivered under this Agreement and Path 1 will release
+              from escrow the shares as defined below,  unless  otherwise agreed
+              to by Path 1 and Internet Photonics.
+
+              Upon receipt of the Section 3.1.1  payment,  Path1 shall issue ***
+              shares of its *** (the  "Shares"),  valued at $***  based on a per
+              share  price of $*** at close of  business  on ***, in the name of
+              Internet Photonics into escrow as collateral. Such Escrow shall be
+              deposited  with Chicago Title in Irvine,  California.  Path 1 will
+              prepare the collateral  agreement on behalf of the Parties to this
+              Agreement;  such  agreement  shall  be  reasonably  acceptable  to
+              Internet  Photonics and Chicago  Title.  Internet  Photonics  will
+              receive shares valued at up to $***, but in no event more than ***
+              shares,  based on the per  share  price at close of  market on ***
+              from escrow if a  successful  Acceptance  Test has not occurred by
+              *** (or such later date as mutually  agreed by Internet  Photonics
+              and Path 1). Internet  Photonics  shall  thereafter be entitled to
+              transfer or otherwise  dispose of the Shares in its  discretion in
+              accordance with applicable securities law restrictions.
+
+              In the  event  that  (1) a  successful  Acceptance  Test  has  not
+              occurred by *** (or such later date as mutually agreed by Internet
+              Photonics  and  Path  1) and (2)  Internet  Photonics  shall  have
+              determined  in good faith that it is  unlikely  that a  successful
+              Acceptance   Test  shall  have  occurred  by  ***,  then  Internet
+              Photonics  shall be entitled  to demand  that Path 1 register  the
+              Shares for resale on a Form S-3 registration statement.  Upon such
+              demand,  Path 1 shall promptly file a registration  statement with
+              the SEC on Form S-3 and shall use its best  efforts  to cause such
+              registration statement to be declared effective no later than ***,
+              or the first practicable date based on Internet  Photonics date of
+              such  demand.  Commencing  30 days after ***, or 30 days after the
+              first  practicable date above, or the first practicable date based
+              on Internet  Photonics  date of such  demand,  whichever is later.
+              Commencing  30  days  after  ***,  or  30  days  after  the  first
+              practicable date above,  Path 1 shall use commercially  reasonable
+              efforts  to assist  Internet  Photonics  in  locating  one or more
+              buyers for the Shares.
+
+              If the  registration  statement  referred  to above has not become
+              effective  at the time of such  release of the Shares,  the Shares
+              will be issued with the following restrictive legends:
+
+              THE  SHARES   REPRESENTED  BY  THIS  CERTIFICATE  ARE  SUBJECT  TO
+              SATISFACTION  OF CERTAIN TERMS SET FORTH IN A PRODUCT  DEVELOPMENT
+              AGREEMENT  BETWEEN THE COMPANY AND THE REGISTERED  HOLDER, OR SUCH
+              HOLDER'S  PREDECESSOR  IN INTEREST,  A COPY OF WHICH IS ON FILE AT
+              THE PRINCIPAL  OFFICE OF THIS  COMPANY.  ANY TRANSFER OR ATTEMPTED
+              TRANSFER  OF ANY  SHARES  IN  CONTRAVENTION  OF THE  TERMS  OF THE
+              PRODUCT  DEVELOPMENT  AGREEMENT IS VOID WITHOUT THE PRIOR  EXPRESS
+              WRITTEN   CONSENT  OF  THE   COMPANY  OR  THE   DECISION   OF  THE
+              ATTORNEY-ARBITRATOR REFERRED TO IN SECTION 3.1.3 HEREIN.
+
+              THE  SHARES   REPRESENTED  BY  THIS   CERTIFICATE  HAVE  NOT  BEEN
+              REGISTERED  UNDER THE  SECURITIES  ACT OF 1933 ("THE ACT") AND ARE
+              "RESTRICTED  SECURITIES" AS THAT TERM IS DEFINED IN RULE 144 UNDER
+              THE ACT. THE SHARES MAY NOT BE OFFERED FOR SALE, SOLD OR OTHERWISE
+              TRANSFERRED EXCEPT PURSUANT TO AN EFFECTIVE REGISTRATION STATEMENT
+              UNDER THE ACT OR PURSUANT TO AN EXEMPTION FROM REGISTRATION  UNDER
+              THE ACT, THE  AVAILABILITY  OF WHICH IS TO BE  ESTABLISHED  TO THE
+              SATISFACTION OF THE COMPANY.
+
+              If Internet  Photonics is unable to sell the Shares (either in the
+              open  market  or  through  one or more  private  sales)  for gross
+              proceeds of at least $ *** by ***, then Internet  Photonics  shall
+              have the right to transfer  the Shares to Path 1 in exchange for a
+              fully-paid  up,  non-exclusive,  perpetual  license  for  Internet
+              Photonics  (and  its  successors  in  interest)  to  use,  modify,
+              develop,   sell  and   sublicense  to  end-users,   resellers  and
+              distributors the products as described in Appendix A.
+
+              Notwithstanding  any  other  provisions  of  this  agreement,  the
+              remedies  under  this  Section  shall be the  sole  and  exclusive
+              remedies of IPI in the event of such failure of Acceptance.
+
+8        SPECIFICATIONS
+
+          Each Product is to be designed and manufactured in accordance with the
+          Specifications.   Each  Party  may   request   modifications   to  the
+          Specifications  at any time during the Term.  Such  requests  shall be
+          submitted  to the other Party in  writing,  and shall not be deemed or
+          considered  binding unless accepted by the other Party in writing.  If
+          any such modification of the  Specifications is agreed to, the Parties
+          will negotiate an equitable adjustment to the Agreement, including the
+          apportionment  between  the  Parties  of any  additional  development,
+          testing or tooling costs. Upon mutual agreement of any modification to
+          the Specifications,  both Parties will proceed with the implementation
+          of the  prescribed  modifications,  and the  Specifications  and other
+          Appendices and Exhibits to the Agreement shall be modified accordingly
+          to   reflect   such   agreed   upon   modifications   and   the   term
+          "Specifications"  as used  herein  shall  refer  in all  cases  to the
+          Specifications as so modified.
+
+9        ENHANCEMENTS TO PRODUCTS
+
+          During  the Term,  Path 1 will  make  available  for sale to  Internet
+          Photonics future enhancements to the Products. Internet Photonics will
+          provide  Path 1 with  customer  feedback  and Path 1 agrees to address
+          reasonable requests for future enhancements.
+
+10       DELIVERABLES AND DELIVERY; ACCEPTANCE; AND REJECTION
+
+10.1     PROGRAM MANAGERS
+
+              Each Party shall  within ten (10) days after the  Effective  Date,
+              designate  a Program  Manager in writing to the other  Party,  who
+              shall  have  the  authority  on  behalf  of its  Party to make and
+              communicate  all  decisions  respecting  such  Party's  rights and
+              obligations under this Agreement.
+
+10.2     DELIVERABLES
+
+              Path 1 and Internet Photonics agree to use their best commercially
+              reasonable  efforts  to  perform  their  respective  Services  and
+              deliver their respective Deliverables,  if any, in accordance with
+              the  schedule  set  forth  in  Section  8  hereof.   Each  Party's
+              obligations shall be contingent upon the other Party  successfully
+              providing  any  prerequisite  Deliverable  or  Service in a timely
+              fashion in accordance with the  Specifications and this Agreement.
+              All stated dates are date of delivery unless otherwise  specified.
+              Internet  Photonics  shall  use the Path 1  Deliverables  only for
+              testing,  acceptance and marketing  purposes and,  excluding Field
+              Trial  Units,  shall  not  sell,  lease  or  transfer  any  Path 1
+              Deliverables to any third party.
+
+10.3     ACCEPTANCE
+
+10.3.1   Inspection and Testing
+
+                      Internet Photonics, with the reasonable assistance of Path
+                      1 as necessary, will examine and test each respective Path
+                      1 Deliverable (and/or item thereof as specified in Section
+                      7) upon delivery.  Internet  Photonics  shall,  as soon as
+                      reasonably  practicable following the delivery of any Path
+                      1  Deliverable,  but in no event later than  fifteen  (15)
+                      business  days after  receipt of the notice of delivery of
+                      any Path 1  Deliverable  (i) accept the Path 1 Deliverable
+                      by providing Path 1 with written notice of such acceptance
+                      or (ii) if the  Path 1  Deliverable  materially  fails  to
+                      conform to the Specifications  ("Material Error"),  reject
+                      the   Deliverable  and  provide  Path  1  with  a  written
+                      statement of such Error(s) (the  "Rejection  Notice").  If
+                      Internet  Photonics' responds by rejecting the Deliverable
+                      after the fifteen (15) business day period, Path 1 may, at
+                      its  discretion,  extend the  milestone  schedule  for all
+                      subsequent Path 1 Product Deliverables to IPI on a day for
+                      day basis  equal to the time of the IPI's  rejection  less
+                      fifteen (15) business days.
+
+10.3.2   Material Errors and Correction
+
+                      Path 1 will promptly correct the Material Errors set forth
+                      in  the  Rejection  Notice  with  respect  to  any  Path 1
+                      Deliverable  and  redeliver  the  Path  1  Deliverable  to
+                      Internet  Photonics within such reasonable  period of time
+                      as may be mutually  agreed upon by the Parties with regard
+                      to all  circumstances  affecting  such Path 1 Deliverable.
+                      Internet   Photonics   shall,   as  soon   as   reasonably
+                      practicable  after such  redelivery  but in no event later
+                      than  fifteen (15)  business  days  thereafter,  accept or
+                      reject the redelivery in accordance with the procedure set
+                      forth in Section 10.3.1, which procedure shall be repeated
+                      until  all of the  Path 1  Deliverables  are  accepted  or
+                      Internet  Photonics  invokes the  provisions of subsection
+                      10.3.4 hereof.
+
+10.3.3   Product Acceptance
+
+                      "Product  Acceptance"  shall be deemed  to occur  upon the
+                      earlier of (i) acceptance by Internet Photonics,  pursuant
+                      to this  Section  10.3,  of all  Path 1  Deliverables  and
+                      successful  completion of the Acceptance  Test with regard
+                      to the Products as set forth in the  Acceptance  Test Plan
+                      or (ii) the  first  sale,  lease or  license  of a unit of
+                      Product by Internet Photonics to a customer or other third
+                      party. The date upon which such Product  Acceptance occurs
+                      shall  be  deemed  the  "Date  of   Product   Acceptance."
+                      Notwithstanding anything to the contrary contained herein,
+                      Product  Acceptance  shall  not be  conditioned  upon  any
+                      design or development  of the Path 1 Deliverables  meeting
+                      any agency's criteria for approval other than those of the
+                      United States.
+
+10.3.4   Disputed Deliverables
+
+                      The  Parties  further  agree  that in the  event a dispute
+                      arises as to whether any  Deliverable (or item thereof) is
+                      acceptable  under  the  procedure  set  forth in  Sections
+                      10.3.1 and 10.3.2 or as to whether the Acceptance Test has
+                      been successfully  completed  pursuant to Section 7.4, and
+                      the  Parties  are  unable  after  good  faith  negotiation
+                      (between their respective Program Managers, and if needed,
+                      between  their  respective  CEO's  assisted by their legal
+                      counsels) to resolve such  dispute,  the dispute  shall be
+                      settled under the Rules of Conciliation and Arbitration of
+                      the  International  Chamber of Commerce by a United States
+                      attorney-engineer   of  a   Chicago   law   firm,   former
+                      attorney-engineer of a Chicago law firm or a retired judge
+                      with relevant  engineering  experience  acceptable to both
+                      parties but not related to either  party,  whose  decision
+                      shall be final and binding. Such  attorney-engineer  shall
+                      be appointed  upon first request of either Party and shall
+                      render his decision  within  thirty (30) days after having
+                      accepted such appointment.
+
+10.3.5   Rejection
+
+                      Should any Path 1  Deliverable  fail to be accepted  after
+                      the third delivery of that Path 1 Deliverable  pursuant to
+                      Section 10.3.2 above, then the Parties shall promptly meet
+                      to resolve the problem.  Any  subsequent  rejection of the
+                      same  Path  1  Deliverable   (unless  otherwise   resolved
+                      pursuant to Section  10.3.3),  shall be deemed grounds for
+                      Internet Photonics to terminate this Agreement pursuant to
+                      Section  14 hereof;  provided  that,  in the  alternative,
+                      Internet   Photonics   may   elect   to   accept   further
+                      resubmission  of  the  applicable  Path 1  Deliverable  in
+                      accordance with this Section 10.3.
+
+11       CONTINUITY OF SUPPLY
+
+          During the term of this Agreement,  in the event that Path 1 is unable
+          to provide a supply of Products to satisfy Internet  Photonics' actual
+          demand for the  Products for reasons  attributable  to Path 1, such as
+          acquisition,  bankruptcy,  or other  reasons,  Path 1 will make timely
+          arrangements   and  provide  all  necessary   information,   drawings,
+          software, etc. for Internet Photonics to source the manufacture of the
+          Products  from a  contract  manufacturer  of its  choice  until Path 1
+          either:  (i) resolves the supply  issues or (ii)  determines it cannot
+          resolve the issue(s).
+
+          Should Path 1 determine  it cannot  resolve the  issue(s)  relating to
+          supply of Products,  Internet Photonics will be authorized to continue
+          to source the Product from their selected contract  manufacturer until
+          it no longer  wishes to sell the Product,  or until the  expiration of
+          this agreement,  whichever is sooner. Path 1 and its successor(s) will
+          retain  all   Intellectual   Property   Rights   associated  with  the
+          Product(s).
+
+12       REPRESENTATIONS AND WARRANTIES
+
+          Each  Party  represents  and  warrants  that  it has  full  right  and
+          authority to enter into this Agreement and to perform its  obligations
+          hereunder. Each Party further represents and warrants that it has full
+          right and  authority  to grant the rights  granted to the other  Party
+          herein.
+
+13       CONFIDENTIALITY
+
+13.1     CONFIDENTIAL INFORMATION
+
+             "Confidential  Information"  means  (i) any and all  technical  and
+             non-technical information of a Party including inventions, works of
+             authorship,  technology, know-how, patent, copyright, trade secret,
+             mask  works and other  Intellectual  Property  Rights,  techniques,
+             algorithms, libraries, data, software, including without limitation
+             the Path 1 Technology,  the Products and associated  documentation,
+             in source  code,  physical  or any other  form,  and any  financial
+             information,  personnel  information,  business or marketing plans,
+             (ii) any  information  received in written form  designated  by the
+             Disclosing  Party  as  confidential   prominently  thereon  or,  if
+             disclosed  orally,  designated  as  confidential  at  the  time  of
+             disclosure  and reduced to writing and delivered to the other Party
+             ("Receiving  Party") within thirty (30) days after such disclosure;
+             and  (iii) the term and  conditions  of this  Agreement;  provided,
+             however   that   "Confidential   Information"   shall  not  include
+             information  that  the  Receiving  Party  can  demonstrate  through
+             documentary  evidence that (A) was public  knowledge at the time of
+             such disclosure to the Receiving Party, or thereafter became public
+             knowledge, other than as a result of actions of the Receiving Party
+             in violation  hereof;  (B) was  rightfully  known by the  Receiving
+             Party  (as  shown  by its  written  records)  prior  to the date of
+             disclosure to the  Receiving  Party by  Disclosing  Party;  (C) was
+             disclosed to the Receiving  Party on an  unrestricted  basis from a
+             source   unrelated   to  any   Party   and  not  under  a  duty  of
+             confidentiality  to the Disclosing  Party; or (D) was independently
+             developed by the Receiving  Party  without use of the  Confidential
+             Information  disclosed  by the  Disclosing  Party  (as shown by its
+             written records).
+
+13.2     PERMITTED USE
+
+              The Receiving party shall maintain in confidence all  Confidential
+              Information of the Disclosing  Party, and shall not use,  disclose
+              or  grant  the use of the  Confidential  Information  except  on a
+              need-to-know  basis  to  those  directors,   officers,  employees,
+              permitted   sub   licensees,   permitted   assignees  and  agents,
+              consultants,  or  foundries,  to the  extent  such  disclosure  is
+              reasonably  necessary in  connection  with the  Receiving  Party's
+              activities as expressly  authorized by this Agreement or to comply
+              with an  order  of a court or  other  governmental  authority,  or
+              otherwise  required to be disclosed under applicable law, provided
+              that the Receiving  Party  provides  written notice thereof to the
+              Disclosing Party and sufficient  opportunity to object to any such
+              disclosure or to request confidential treatment thereof.
+
+              Such disclosure  shall not deprive the information so disclosed of
+              its  character  as  Confidential  Information.  To the extent that
+              disclosure is authorized by this  Agreement,  prior to disclosure,
+              the Receiving  Party shall obtain  agreement of any such person to
+              hold  in  confidence   and  not  make  use  of  the   Confidential
+              Information  for any purpose  other than those  permitted  by this
+              Agreement.  The Receiving Party shall notify the Disclosing  Party
+              promptly upon discovery of any  unauthorized  use or disclosure of
+              the Disclosing  Party's  Confidential  Information.  The Receiving
+              Party shall take all reasonable  steps,  both during and after the
+              Term,  to insure that no  person(s)  (other than those  authorized
+              under  this  Agreement)  shall  have  access  to the  Confidential
+              Information of the Disclosing Party. Any permitted reproduction of
+              Confidential Information shall contain any and all confidential or
+              proprietary  notices  or  legends,  which  appear on the  original
+              unless  otherwise  authorized in writing by the Disclosing  Party.
+              Each  party's  obligation  under this  section  shall  survive any
+              termination of this Agreement for a period of five years.
+
+13.3     EQUITABLE RELIEF
+
+              Each  Party  agrees  that the  provisions  of this  Section 14 are
+              reasonable and necessary for the protection of the other party and
+              that such  provisions may not be adequately  enforced by an action
+              for  damages.  Therefore,  in the event of a breach or  threatened
+              breach of this  Section  14 by the  Receiving  Party or any person
+              controlled by the Receiving  Party,  the Disclosing Party shall be
+              entitled,  in addition  to all other  remedies,  to an  injunction
+              and/or restraining order enjoining the breach or threatened breach
+              of  the   provisions   of  Section  14  or  otherwise  to  enforce
+              specifically  such  provisions  against  violation,   without  the
+              necessity of posting any bond or other  security by the Disclosing
+              Party. The Receiving Party further agrees that if it shall violate
+              any of the  covenants  and  agreements  under this Section 14, the
+              Disclosing  Party shall be entitled to an accounting and repayment
+              of all profits,  commissions  or other  benefits  realized  and/or
+              which may be  realize  as a result of or  arising  out of any such
+              violation. Such remedies shall be cumulative and are not exclusive
+              and in  addition  to any  injunctive  relief  or  other  legal  or
+              equitable  remedy  to  which  the  Disclosing  Party  is or may be
+              entitled. In addition, the prevailing party shall also be entitled
+              to its reasonable attorneys' fees and costs incurred in any action
+              in which it is successful in establishing or defending  against an
+              alleged violation of Section 14.
+
+13.4     RETURN AND USE OF CONFIDENTIAL INFORMATION
+
+              Upon  termination  of this  Agreement,  the Receiving  Party shall
+              return to the Disclosing Party all Confidential Information of the
+              Disclosing  Party and shall make no other or  further  use of such
+              Confidential Information.
+
+14       TERMINATION
+
+          This Agreement may be terminated as follows:
+
+14.1     ACCEPTANCE TEST FAILURE
+
+              In the event a Product  is unable to pass the  Acceptance  Test to
+              Internet   Photonics'   reasonable   satisfaction   by  ***   (the
+              "Acceptance  Test  Deadline");   provided  however,   if  Internet
+              Photonics  fails to timely perform the Acceptance Test pursuant to
+              the ATP or  unreasonably  does not accept the Path 1  Deliverables
+              and/or the  Acceptance  Test,  the Deadline shall be extended on a
+              day by day slip for each  day  said  Internet  Photonics  fails to
+              adhere  to the ATP or  unreasonably  does  not  accept  the Path 1
+              Deliverables.
+
+              The results of termination under this paragraph shall be in
+              accordance with paragraph 7.10
+
+14.2     ASSIGNMENT OR TRANSFER OF ASSETS
+
+              By either  Party,  immediately  upon  written  notice to the other
+              Party,  if (a) all or a  substantial  portion of the assets of the
+              other  Party are  transferred  to an  assignee  for the benefit of
+              creditors,  or to a  receiver  or a trustee in  bankruptcy,  (b) a
+              proceeding  is  commenced by or against the other Party for relief
+              under  bankruptcy  or  similar  laws  and such  proceeding  is not
+              dismissed  within  sixty  (60)  days,  or (c) the  other  Party is
+              adjudged bankrupt.
+
+14.3     MATERIAL BREACH
+
+              By either Party, in the event the other Party materially  breaches
+              any of its  obligations  hereunder  and fails to cure same  within
+              sixty  (60)  days  after  receipt  of the  written  notice of such
+              breach.
+
+14.4     COMPLETION OF RESELLER AGREEMENT
+
+              If the Product Supply and Reseller Agreement has not been executed
+              on  or  before  ***,  which  date  may  be  extended  upon  mutual
+              agreement, the provisions of Section 7.10 herein would apply.
+
+14.5     FULFILMENT OF OBLIGATIONS
+
+              Upon Path 1's fulfilment of its obligations  under this agreement,
+              or upon incorporation of any remaining obligations in a subsequent
+              agreement between Path 1 and Internet Photonics
+
+14.6     SURVIVAL
+
+              The provisions of Sections 1 (Definitions), 3.1 (Compensation) (to
+              the extent that any fees have been earned as of the  termination),
+              3.2 (Intellectual  Property Rights), 3.6  (Indemnification),  7.10
+              (Performance     Assurance),     13     (Confidentiality),      17
+              (Warranties/Limited  Liability) and 18 (General) shall survive the
+              expiration or termination of this Agreement.
+
+15       WARRANTY ON PATH 1 TECHNOLOGY
+
+          Path 1 agrees to provide a warranty  against  any  Internet  Photonics
+          reported hardware design firmware/software defects for a period of ***
+          after the delivery of the first Production Unit by Path 1 to IPI. Path
+          1 will resolve all defects  reported,  in writing,  by IPI within this
+          warranty period within *** after this warranty period has completed.
+
+16       MAINTENANCE AND SUPPORT
+
+          Path  1  agrees  to  provide  maintenance  and  support  for  Products
+          described  in  Appendix  A  attached  hereto for a period of *** after
+          acceptance  of  a  Product  by  Internet  Photonics.   Any  additional
+          maintenance and support of the Products  required after the expiration
+          of this *** period will be provided at Path 1's  discretion  on a time
+          and materials basis.  PATH 1'S SOLE LIABILITY AND INTERNET  PHOTONICS'
+          EXCLUSIVE  REMEDY WITH RESPECT TO BREACH OF THE  FOREGOING  OBLIGATION
+          WILL BE LIMITED TO ERROR CORRECTION OR PRODUCT REPLACEMENT.
+
+17       WARRANTIES/LIMITED LIABILITY
+
+          EXCEPT AS  SPECIFICALLY  PROVIDED  HEREIN,  PATH 1 MAKES NO  WARRANTY,
+          EXPRESS OR IMPLIED,  AND DISCLAIMS ANY WARRANTIES  WITH RESPECT TO THE
+          TECHNOLOGY, PRODUCTS OR DOCUMENTATION,  INCLUDING, WITHOUT LIMITATION,
+          ANY WARRANTY OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY,  OR
+          NON-INFRINGEMENT.
+
+          NEITHER  PARTY  SHALL BE  LIABLE  FOR ANY  CONSEQUENTIAL,  INCIDENTAL,
+          INDIRECT,  EXEMPLARY,  SPECIAL  OR  PUNITIVE  DAMAGES,  REGARDLESS  OF
+          WHETHER THE CLAIM  GIVING RISE TO SUCH DAMAGES IS BASED UPON BREACH OF
+          WARRANTY,  BREACH OF CONTRACT,  STRICT LIABILITY,  NEGLIGENCE OR OTHER
+          THEORY, EVEN IF A PARTY HAS BEEN ADVISED OF SUCH POSSIBILITY THEREOF.
+
+          EXCEPT IN RESPECT TO PATH 1  OBLIGATIONS  IN  ACCORDANCE  WITH SECTION
+          3.6,  IN NO EVENT  SHALL PATH 1 BE LIABLE TO  INTERNET  PHOTONICS  FOR
+          DAMAGES UNDER THIS  AGREEMENT IN EXCESS OF THE FEES AND OTHER PAYMENTS
+          ACTUALLY PAID TO PATH 1 FROM INTERNET  PHOTONICS  DURING THE PRECEDING
+          TWELVE (12) MONTH PERIOD FROM THE DATE OF THE EVENT GIVING RISE TO THE
+          CLAIM OCCURRED.
+
+18       GENERAL
+
+18.1     FORCE MAJEURE
+
+              Neither  Party  shall be liable  for any  failure  or delay in its
+              performance  under this  Agreement  due to causes which are beyond
+              its  reasonable  control,  including,  but not limited to, acts of
+              God,  acts of  civil  or  military  authority,  fires,  epidemics,
+              floods,  earthquakes,  riots, wars,  sabotage,  labor shortages or
+              disputes, and governmental actions;  provided that (a) the delayed
+              Party:  (i) gives the other  Party  written  notice of such  cause
+              promptly,  and in any event within  fifteen (15) days of discovery
+              thereof;  and (ii) uses its  reasonable  efforts to  correct  such
+              failure or delay in its  performance,  and (b) the delayed Party's
+              time  for  performance  or cure  under  this  Agreement  shall  be
+              extended  for a period equal to the duration of the cause or sixty
+              (60) days, whichever is less.
+
+18.2     NOTICES
+
+          Any  consent,  notice or report  required or  permitted to be given or
+          made under this Agreement by one Party hereto to the other Party shall
+          be in writing,  delivered  by Federal  Express or  comparable  express
+          service, addressed to such other Party at its address indicated below,
+          or to such other address as the addressee shall have last furnished in
+          writing to the  addressor  and (except as  otherwise  provided in this
+          Agreement) shall be effective upon receipt by the addressee.
+
+If to Path 1:
+
+Path 1 Network Technologies, Inc.
+6215 Ferris Square, Suite 140
+San Diego, California 92121
+Attention: Mr. David Carnevale
+
+If to Internet Photonics:
+
+Internet Photonics, Inc.
+1030 Broad Street
+Shrewsbury, NJ 07702-4330
+Attention: Mr. Steven Waszak
+
+18.3     RELATIONSHIP OF PARTIES
+
+              The Parties are independent  contractors.  Neither company nor its
+              respective  employees,  consultants,  contractors  or  agents  are
+              agents,  employees or joint  venturers  of the other,  nor do they
+              have any  authority  to bind the other by contract or otherwise to
+              any  obligation.  Each Party will not  represent to the  contrary,
+              either  expressly,  implicitly,  by appearance or otherwise.  Each
+              Party will determine, in its sole discretion, the manner and means
+              by which it performs  its  obligations  hereunder,  subject to the
+              express  condition  that each Party will at all times  comply with
+              applicable law.
+
+18.4     USE OF NAME
+
+              Except as  provided  in Sections  3.5 and 7,  neither  Party will,
+              without first  obtaining the other Party's prior written  consent,
+              be  entitled  to use the name of the other  Party in  promotional,
+              advertising and other materials.
+
+18.5     PERSONNEL
+
+              The respective employees,  consultants,  contractors and agents of
+              each Party will  observe  the  working  hours,  working  rules and
+              holiday  schedule of the other while  working on the other Party's
+              premises.  Notwithstanding  the  foregoing,  employees  of a Party
+              shall be and  remain  employees  of that  Party  and  shall not be
+              deemed  or claim to be  employees  of the  other  Party  even when
+              working on such other Party's premises.  Additionally,  each Party
+              warrants  that it  will  not  seek to  employ,  hire,  retain,  or
+              otherwise  seek the services of any of the  employees of the other
+              Party  during  the Term and for a  period  of one year  thereafter
+              unless agreed in writing by both Parties.
+
+18.6     EMPLOYMENT TAXES AND BENEFITS
+
+              Each Party shall be responsible  for any and all employment  taxes
+              and   benefits   payable   to  its   employees,   representatives,
+              contractors, subcontractors and other engaged by it to perform its
+              obligations  hereunder  and in no event shall either Party look to
+              the other Party for such payments.
+
+18.7     OTHER TAX IMPLICATIONS
+
+              The purpose of development  of the Path 1 Deliverables  under this
+              Agreement is to demonstrate that the Products developed  hereunder
+              will conform to the  Specifications.  The Path 1 Deliverables have
+              no intrinsic value as an item. As such, no value added,  sales, or
+              use taxes have been assessed or are  anticipated to be required as
+              a result of the  Services  to be  performed  by Path 1 under  this
+              Agreement.
+
+18.8     EXPORT CONTROLS
+
+              Each Party shall comply with all applicable United States laws and
+              regulations  respecting  the  export  or  re-export,  directly  or
+              indirectly,  of any  technical  data acquired from the other Party
+              under  this  Agreement  or any  Product  or  Path  1  Deliverables
+              utilizing any such data.
+
+18.9     ASSIGNMENT
+
+              Except as expressly  provided herein,  neither Party may assign or
+              delegate  this  Agreement,  or  any of its  respective  rights  or
+              obligations  hereunder  without the prior  written  consent of the
+              other Party hereto.  Notwithstanding  the foregoing,  both Parties
+              shall have the right to transfer their respective rights hereunder
+              to any  purchaser  of all or  substantially  all of  assets of the
+              business of such Party to which this Agreement relates (whether by
+              sale, merger or otherwise) subject to confirmation that all rights
+              and obligations of this Agreement remain in force.
+
+18.10    NO WAIVER
+
+              Failure by either party to enforce any provision of this Agreement
+              shall not be deemed a waiver of future  enforcement of that or any
+              other provision.
+
+18.11    NO RIGHTS IN THIRD PARTIES
+
+              This  Agreement is made for the benefit of Internet  Photonics and
+              Path 1 and not for the benefit of any third parties.
+
+18.12    COUNTERPARTS
+
+              This Agreement may be executed in one or more counterpart, each of
+              which  shall  be  deemed  an  original,   but  collectively  shall
+              constitute but one and the same instrument.
+
+18.13    HEADINGS AND REFERENCES
+
+              The  headings  and captions  used in this  Agreement  are used for
+              convenience  only and are not to be  considered  in  construing or
+              interpreting this Agreement.
+
+18.14    CONSTRUCTION
+
+              The Parties and their  respective  counsel  have  negotiated  this
+              Agreement. This Agreement will be fairly interpreted in accordance
+              with its terms and without any strict  construction in favor of or
+              against either party.
+
+18.15    APPLICABLE LAW
+
+              This  Agreement  shall be governed by and  construed in accordance
+              with the laws of the  State of  Delaware,  U.S.A.  without  giving
+              effect to any conflict of laws principles thereunder.
+
+18.16    SEVERABILITY
+
+              If for any  reason an  arbitration  forum or a court of  competent
+              jurisdiction  finds any  provision of this  Agreement,  or portion
+              thereof,  to be  unenforceable,  that  provision of the  Agreement
+              shall be  enforced  to the  maximum  extent  permissible  so as to
+              effect  the  intent  of the  Parties,  and the  remainder  of this
+              Agreement shall continue in full force and effect.
+
+18.17    COMPLETE AGREEMENT
+
+              This Agreement, including all Appendices and Exhibits, constitutes
+              the entire  agreement  between  the  Parties  with  respect to the
+              subject  matter  hereof,  and supersedes and replaces all prior or
+              contemporaneous  understandings  or  agreements,  written or oral,
+              regarding such subject matter.  No amendment to or modification of
+              this  Agreement  shall be binding  unless in writing and signed by
+              duly authorized representatives of both Parties. To the extent any
+              terms and conditions of this Agreement conflict with the terms and
+              conditions  of any  invoice,  purchase  order  or  purchase  order
+              acknowledgement placed hereunder, the terms and conditions of this
+              Agreement shall govern and control.
+
+18.18    ATTORNEY'S FEES
+
+              The prevailing  Party in any dispute under this Agreement shall be
+              entitled to all of its reasonable attorneys' fees.
+
+19       SIGNATURES
+
+IN WITNESS  WHEREOF,  the Parties  have caused this  Agreement to be executed by
+their duly authorized representatives.
+
+     PATH 1 NETWORK TECHNOLOGIES INC:      INTERNET PHOTONICS, INC. :
+
+     BY: /s/ David A. Carnevale            BY:      /s/ Steven M. Waszak
+         --------------------------------      -------------------------------
+
+     NAME: David A. Carnevale              NAME: Steven M. Waszak
+
+     TITLE: Vice President, Marketing      TITLE: Chief Financial Officer
+            and Sales
+
+     DATE: September 9, 2002               DATE:    September 9, 2002
+
+
+<PAGE>
+
+
+
+
+                                   APPENDIX A
+
+                       PRODUCT REQUIREMENTS SPECIFICATIONS
+
+                                       By
+
+                        PATH 1 NETWORK TECHNOLOGIES INC.
+
+                                       For
+
+                            INTERNET PHOTONICS, INC.
+
+                                   Version 6.0
+
+                                September 9, 2002
+
+
+<PAGE>
+
+
+
+
+
+
+1        PRODUCTS SUMMARY
+
+      Path 1's goal is to develop and sell  products  that address the ASI to IP
+      and IP to ASI gateway  needs of the cable  marketplace.  Four (4) products
+      have been identified for development.
+
+      Internet  Photonics Inc. (IPI) has specified a product,  (Path 1 code name
+      IPIP-101) Product 1) the ASI DE-MUX TO IP GATEWAY,  which is identified in
+      the PRODUCT DEVELOPMENT AND SUPPLY AGREEMENT.
+
+      In Addition, Path 1 plans to develop the following products, which will be
+      offered to IPI under a non-exclusive agreement:
+
+          2) An ASI  over IP  bridging  Product,  called  here  the IP TO ASI RX
+GATEWAY
+
+          3) An IP to ASI Product  including IP SPTS  multiplexing,  called here
+the IP TO ASI MUX  GATEWAY 4) An ASI to IP  bridging  Product  without  ASI MPTS
+de-multiplexing Product into component SPTSs, called here
+
+               the ASI TO IP TX GATEWAY
+
+      The four  product  names  identified  above and used in this  document are
+      understood  to be for the purpose of contract  and product  specifications
+      only,  and not to be the final product name.  IPI and Path 1 will mutually
+      agree product naming as soon as possible.
+
+      The  exclusive  agreement  covers only the ASI DE-MUX TO IP GATEWAY.  This
+      product  inputs up to 8 ASI MPTSs and  outputs  SPTSs  over IP on the GigE
+      network interface.
+
+      The IP TO ASI  MUX  GATEWAY  inputs  SPTSs  over  IP on the  GigE  network
+      interface, and outputs multiplexed MPTSs on up to 8 ASI output ports.
+
+      The ASI  DE-MUX TO IP  GATEWAY  inputs  ASI video  while the IP TO ASI MUX
+      GATEWAY outputs ASI video.  The two products serve  different  directions.
+      Note that the exact  definition for ASI DE-MUX TO IP GATEWAY and THE IP TO
+      ASI  MUX  GATEWAY  is  spelled  out  in  detail  within  the  body  of the
+      requirements section.
+
+      IPI's target  market will be the *** as defined in the Product  Supply and
+      Development Agreement contract. This Marketing Requirements  Specification
+      document must be accepted by IPI and used as the basis for the  Acceptance
+      Test Plan and private Simple Network Management Protocol (SNMP) Management
+      Information Base (MIB), documents that Path 1 will create.
+
+      Four products  will be specified,  as noted above.  These  products  offer
+      unique  capabilities  within a common  architecture.  It is informative to
+      compare these  requirements  so that a clear  understanding  of the unique
+      capabilities of each product can be gained.
+
+      This specification will identify  requirements  unique to each in addition
+      to identifying requirements that are common to each.
+
+1.1      REVISION HISTORY
+
+-------- ------------- ---------------------------------------------------------
+Date     By Whom       Comments
+-------- ------------- ---------------------------------------------------------
+***      Bart Schade   Proper definition of Unicast and Multicast processing for
+                       the IP to ASI Product.  Added default ***  and ***.
+-------- ------------- ---------------------------------------------------------
+***      Yendo Hu      Update and correct Product description
+-------- ------------- ---------------------------------------------------------
+***      Bart Schade   Chassis and Product Description
+-------- ------------- ---------------------------------------------------------
+
+2        HARDWARE REQUIREMENTS
+
+      The products all use common  hardware  interfaces,  which are described in
+      this section.  In addition,  requirements for the front panel,  rear panel
+      and chassis are described.
+
+2.1      ASI VIDEO PORTS
+
+         Factory order hardware with 4 or 8 ASI ports  configured all for either
+input or output.
+
+         Licensed  operation of ASI ports,  up to the number of factory  ordered
+         hardware ports.  Port base licensing allows for the capability of using
+         fewer ASI ports than the hardware  supports which may result in a lower
+         cost per port, with built in upgrade for more ports.
+
+         For  example,  if the product is ordered  with 8 ASI ports and licenses
+         for only 6 ASI ports,  then later purchasing the license can enable the
+         additional 2 ASI ports.  In general,  the license is issued to the user
+         as a key, which enables from 1 to 8 ports.
+
+         One Activity LED per factory ordered  hardware ASI port will blink at a
+         rate proportional to the detected Transport Stream bitrate.
+
+         For each port a maximum bit rate of 5Mbps, if SPTS, is supported.
+
+         For each port a maximum bit rate of 156Mbps, if MPTS, is supported.
+
+         The total input  Transport  Stream (TS) packet  bitrate  cannot  exceed
+936Mbps.
+
+2.2      GIGABIT ETHERNET IP PORT
+
+         The GigE port is the exclusive interface for transmission of video over
+         IP data. In addition, management protocols will run on this interface.
+
+         The product can be ordered with either SFP connectors  (Optical Gigabit
+         Ethernet)  and/or Copper Gigabit Ethernet  connectors.  If ordered with
+         SFP, then the choice for:
+
+|X|      MT-RJ Gigabit Ethernet
+|X|      SFP LC Gigabit Ethernet
+
+         When  ordered  with  both  connectors,   configuration  settings  allow
+         prioritizing one connector over the other.
+
+         Activity   and  link  LEDs  will  operate  as  is  normal  for  network
+interfaces.
+
+         When  product is  hardware  factory  configured  for ASI to IP then the
+         maximum IP output  Transport  Stream  bitrate will be *** measured over
+         ***  milliseconds and the maximum IP input bitrate of *** measured over
+         *** milliseconds.
+
+         When  product is  hardware  factory  configured  for IP to ASI then the
+         maximum IP input Transport Stream bitrate will be *** measured over ***
+         milliseconds and the maximum IP output bitrate of *** measured over ***
+         milliseconds.
+
+2.3      10/100 FAST ETHERNET PORT
+
+         This IP network interface port is used only for *** and never used as a
+         *** interface.  The *** interface will be enabled at all times, however
+         if not connected  then ***  protocols  will still be enabled on the ***
+         interface.
+
+         Activity  and link LEDs will  operate as is normal for PCs with network
+interfaces adapters.
+
+2.4      RS-232 SERIAL PORT
+
+         The  RS-232  port is used for  initial  configuration  of the  networks
+         settings and for Path 1 support and diagnostics.
+
+         Port settings are:    ***.
+
+         Initial setup parameters are    ***.
+
+2.5      FRONT PANEL
+
+         The front panel will have 4 LEDs;  power,  activity (video input on ASI
+or IP), event log, and error.
+
+2.6      REAR PANEL
+
+                  All labeled  inputs and outputs will be accessible on the rear
+panel.
+
+2.7      CHASSIS
+
+         Requirements of the chassis are as follows:
+|X|      Front panel LEDs
+|X|      Front to rear airflow
+|X|      Rugged rack mount capable 1 RU
+|X|      Top sides bottom and rear are either brushed aluminum or painted
+         exterior
+|X|      Provide rear panel 120/240VAC to the internal PSU (option alternative
+         supply voltages for example; for single or dual-48VDC supply)
+|X|      Protect against EMI sufficient for FCC and CE  certifications.
+|X|      Safe for operating sufficient for UL certification.
+
+|X|      ***
+
+|X|      Rear Panel labeled Inputs, Outputs, and LEDs
+
+|X|      Top side warning, certifications, and MAC address labeling
+|X|      External fans
+|X|      Removable ears
+
+2.8       INPUT AND OUTPUT PROTOCOLS REQUIREMENTS
+
+         Each  interface  port  will run  protocols  specific  to  enabling  the
+         application. This section discusses these protocols.
+
+2.9      ASI MPEG-2 PROTOCOL
+
+          Only  ***  byte  fixed  size  ***  Transport  Stream  packets  will be
+          recognized.
+
+         ASI input *** streams must be *** compliant with a measured maximum PCR
+         jitter not to exceed ***. This insures that end-to-end  accumulated PCR
+         errors in the transport  system from Encoder  source to the Set Top Box
+         remains within *** PCR jitter tolerance of ***.
+
+         All ASI outputs will uniformly  distribute data signals across the full
+         ASI signal bandwidth of ***,  measured over *** milliseconds  (commonly
+         called ***).
+
+2.10     GIGABIT ETHERNET PROTOCOLS
+
+         The Video over IP encapsulation, transmit or receive, will interoperate
+         with raw ***. This  de-facto  protocol is specified as: *** with 1 to 7
+         *** packets per Ethernet frame,  where *** packets are never fragmented
+         across Ethernet packet boundaries.
+
+          This  interface  is  also  used  for  in-band  management   protocols.
+          Specifically this interface will support:
+
+|X|      ***
+|X|      ***
+|X|      ***
+
+|X|      *** (***)
+
+2.11     10/100 FAST ETHERNET PROTOCOLS
+
+          This interface is used  exclusively  for ***  protocols.  Specifically
+          this interface will support:
+
+|X|      ***
+|X|      ***
+|X|      ***
+
+|X|      *** (***)
+
+2.12     RS-232 SERIAL PROTOCOLS
+
+          This  interface  will be configured  to run the *** program.  This ***
+          program has be enabled with special  commands,  which make it possible
+          for the user to configure  both the *** and *** network  settings.  In
+          addition, the *** is used for authorized factory troubleshooting.
+
+3        PROCESSING REQUIREMENTS
+
+         The processing requirements are not identical across all four products.
+         This section  clearly  identifies  the unique  characteristics  of each
+         product.
+
+3.1      ASI DE-MUX TO IP GATEWAY PROCESSING
+
+         The ASI De-Mux to IP Gateway is enabled with processing defined in this
+         is section,  in addition to the processing  defined in the ASI to IP Tx
+         Gateway processing above.
+
+         *** Transport  Streams (***) can be  de-multiplexed  into the component
+         *** (***) before  encapsulation.  Each *** can contain no more than ***
+         component ***. Specifically *** de-mux processing will:
+
+                    1) ***
+
+                    2) ***
+
+                    3) ***
+
+3.2      IP TO ASI RX GATEWAY PROCESSING
+
+                  ***Transport   Streams,   either  ***  or  ***,  are  received
+                  encapsulated  within  ***  for  processing.  ***  packets  are
+                  de-encapsulated  from the *** and output  directly  to the ***
+                  according  to the ***.  The *** assigns to each *** the proper
+                  *** and includes either the *** or the *** number.
+
+                  The *** is defined in Provisioning Management and Monitoring
+                  Requirements.
+
+3.3      IP TO ASI MUX RX GATEWAY PROCESSING
+
+         The IP to ASI Mux Rx Gateway is enabled with processing defined in this
+         is section,  in addition to the processing  defined in the IP to ASI Rx
+         Gateway processing above.
+
+          Received *** can be multiplexed  before output to the ***. Each output
+         *** contains no more than *** component ***. The *** is used to control
+         the ***  multiplexing  process and  contains the *** output *** Program
+         Number and *** number.
+
+      4.4        ASI TO IP TX GATEWAY PROCESSING
+
+                  ASI to IP Tx  Gateway  will  be  enabled  with  the  ASI to IP
+                  processing.  This  processing  allows  up to 8 ASI ports to be
+                  continuously  monitored for valid ***,  individual *** packets
+                  collected  into  groups  of  ***,   encapsulated  in  ***  and
+                  immediately transmitted as multiplexed *** over *** on the ***
+                  interface according to the mapping assignment in the ***.
+
+                  The *** is defined in  Provisioning  Management and Monitoring
+Requirements.
+
+         .
+4        PROVISIONING, MANAGEMENT, AND MONITORING REQUIREMENTS
+
+      The processing  requirements  are not identical  across all four products.
+      This  section  clearly  identifies  the  unique  characteristics  of  each
+      product.
+
+4.1      COMMON IP NETWORK INTERFACES PROVISIONING
+
+          Network   configuration   settings  for  both  the  ***  and  the  ***
+          interfaces. This includes assignment of ***.
+
+          *** maximum  bitrate  assignment,  which  limits the maximum  input or
+          output bitrate. This will have a default value of ***.
+
+          *** minimum  bitrate  assignment,  which  limits the maximum  input or
+          output bitrate. This will have a default value of ***.
+
+          Optionally,  network  provisioning  is available  from the front panel
+          using the LCD and keypads.
+
+4.2      COMMON ASI INTERFACE AND IP INTERFACE MONITORING
+
+         The product will raise events,  set conditions and increment  counters;
+         which are captured for presentation to the user in various formats. The
+         presentation formats are:
+
+          |X| Front Panel LED;  power,  activity,  log, and fault
+
+          |X| SNMP using MIB  browser
+
+          |X| Option for Front Panel using LCD
+
+          |X| Option for Web User Interface
+
+          The front panel power LED will be illuminated  when connected to a VAC
+          supply.
+
+         The front panel activity LED will be blink bitrate relative when:
+
+          |X| For the ASI to IP  configuration,  ASI traffic is detected
+
+          |X| For the IP to ASI configuration, IP traffic is detected.
+
+         The front  panel log LED will be  illuminated  as long as the Event Log
+         Not Empty condition is set. This must be manually unset.
+
+         The front panel fault LED will be  illuminated as long as any event has
+         been raised  within the last *** or any or  condition is set. The fault
+         LED will be illuminated for no less than *** at a time.
+
+         Optionally,  monitoring of event log, counters, and faults is available
+         from the front panel LCD or a Web User Interface.
+
+4.3      SPECIFIC ASI TO IP TX GATEWAY MONITORING
+
+         Monitoring includes events, conditions, counters, gauges, event logs,
+         and ***.
+
+4.3.1    Events
+
+                 Events include:
+
+          |X| Event Log Not Empty Condition - indicates that events are archived
+          in the event log. Event Log must be cleared to unset this condition.
+
+          |X| GigE  Link Down  Condition  - auto  unset
+
+          |X|  10/100 FE Link  Down  Condition  - auto  unset
+
+          |X| Gateway Not  Detected  Condition - auto unset
+
+          |X| ***
+
+          |X| ***.
+
+          |X| ***.
+
+          |X| Over Temperature Condition
+
+          Events  will raise *** at  intervals  of no greater  that *** for each
+          type of event,  and then only at transition  between the states of the
+          event.  Events that may occur at high frequency will be bound to event
+          counters.  These event  counters re: ASI sync loss *** that are raised
+          for these events will be bound to the associated counter.
+
+4.3.2    Conditions
+
+          Conditions  are either *** or ***.  ***  conditions  must be  manually
+          unset and *** conditions are automatically unset. Unless specified all
+          conditions are ***.
+
+          Conditions include:
+
+          |X| Event Log Not Empty Latched  Condition - *** by clearing the event
+          log
+
+          |X| GigE Link Down  Condition
+
+          |X| 10/100 FE Link Down Condition
+
+          |X| Gateway Not Detected Condition
+
+          |X| ***
+
+          |X| ***
+
+          |X| ***
+
+          |X| Over Temperature Condition
+
+4.3.3    Counters
+
+                  Events are  counted by event type and the event  counters  are
+                  available for  monitoring.  Event counters may be reset.  When
+                  event counters  increment (during a *** sampler time) then the
+                  associated  condition will be set for at least ***. When event
+                  counters doe not  increment  (over a *** sample time) then the
+                  associated condition is automatically unset.
+
+                  Events Counters include:
+
+          |X| ***.
+
+          |X| ***.
+
+          |X| ***.
+
+4.3.4    Gauges
+
+                  Gauges report the status of internal variables, which rise and
+                  fall  under  operation  the  product;   for  example  internal
+                  temperature, IP bitrate, and ASI bitrate. Some gauges are used
+                  to set Conditions when parametric  bounds are exceeded.  Gauge
+                  conditions remain set until the bonds are no longer exceeded.
+
+                  Some  gauges  do not  correspond  to  Conditions  and are only
+                  monitored variables.
+
+                  Gauges include:
+
+                    |X| Over  Temperature
+
+                    |X| Input IP bitrate
+
+                    |X| Output IP bitrate
+
+                    |X| Input ASI port  bitrate
+
+                    |X|  Output ASI port  bitrate
+
+                    |X| Input Program count
+
+                    |X| Output Program count
+
+4.3.5    Event Logs
+
+                  Event logs are archived in  non-volatile  memory for review by
+                  the user.  In other words  event logs  persist  across  system
+                  reset. Event logs are manually cleared. Event logs are updated
+                  for every  condition that is set or unset  including the bound
+                  counters if  appropriate.  At least *** date and time  stamped
+                  entries will be archived.
+
+4.3.6    Traps
+
+                  *** will be raised for every  condition that is *** or ***. If
+                  appropriate  the *** will include the bound  counter.  All ***
+                  can be filtered by type.
+
+4.4      SPECIFIC IP TO ASI RX GATEWAY MONITORING
+
+         These features are very similar to the ASI to IP Tx Gateway  monitoring
+         requirements. The following is a list of differences:
+
+                    |X| ***
+
+                    |X| ***
+
+4.5      SPECIFIC ASI DE-MUX TO IP GATEWAY PROVISIONING
+
+         The ASI De-Mux to IP Gateway is enabled  with  provisioning  defined in
+         this is section, in addition to the provisioning  defined in the ASI to
+         IP Gateway processing above.
+
+         Provisioning  includes *** assignment of de-mux  enable,  which further
+         requires assignment of component *** address assignment.
+
+         De-mux  enable is part of the *** and *** address is stored in the ***.
+         This  table  data  is  referenced  during  ASI  De-Mux  to  IP  Gateway
+         processing for proper assignment of *** address generation.
+
+         The ASI De-Mux to IP Program  Map Table is loaded  initially  using the
+***. The default *** is ***.
+
+4.6      SPECIFIC ASI TO IP TX GATEWAY PROVISIONING
+
+          Provisioning  includes *** assignment of destination  being either ***
+          or *** address.
+
+          For *** assigned as ***, there are the additional requirements for ***
+          and ***.
+
+          For ***  assigned  as ***,  there is the  additional  requirement  for
+          assignment of ***.
+
+          This  information  is stored in the ASI to IP ***, which is referenced
+          during ASI to IP processing for  generation of the proper  destination
+          address assignment.
+
+          The ASI to IP *** is loaded  initially  using a ***.  The default Port
+          *** identifies the ***  destination  ***  incrementing by one for each
+          *** and starting at: ***.
+
+4.7      SPECIFIC IP TO ASI MUX GATEWAY PROVISIONING
+
+          In  addition  to what is  defined  here is  included  the IP to ASI Rx
+          Gateway provisioning described above.
+
+          Provisioning  includes ***  assignment  of mux enable,  which  further
+          requires  assignments to entries in the ***. Mux enable is part of the
+          *** and the *** is configured to assign input IP  encapsulated  *** to
+          output  programs in the ***  multiplex.  This table data is referenced
+          during IP to ASI Mux Gateway  processing for proper  assignment of ***
+          source address assignment.
+
+--------
+***  Portions of this document have  been  omitted  pursuant  to a  request  for
+Confidential Treatment and filed separately with the Commission. *** Portions of
+this page have been omitted pursuant to a request for Confidential Treatment and
+filed separately with the Commission.
+
+
+</TEXT>
+</DOCUMENT>

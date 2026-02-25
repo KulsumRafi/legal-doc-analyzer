@@ -1,0 +1,2599 @@
+<DOCUMENT>
+<TYPE>EX-99.2
+<SEQUENCE>4
+<FILENAME>g80720exv99w2.txt
+<DESCRIPTION>APPENDIX A TO DISCLOSURE AGREEMENT
+<TEXT>
+<PAGE>
+                                                                    EXHIBIT 99.2
+
+                      IN THE UNITED STATES BANKRUPTCY COURT
+                          FOR THE DISTRICT OF DELAWARE
+
+----------------------------------------------X
+IN RE:                                        :     Chapter 11
+                                              :
+NUTRITIONAL SOURCING CORPORATION              :     Case No. 02-12550 (PJW)
+                                              :
+                                  DEBTOR.     :
+----------------------------------------------X
+
+
+
+
+
+
+
+
+
+
+             REORGANIZATION PLAN OF NUTRITIONAL SOURCING CORPORATION
+
+
+
+                               Michael B. Solow
+                               Harold D. Israel
+                               KAYE SCHOLER LLC
+                               Three First National Plaza
+                               70 West Madison Street, Suite 4100
+                               Chicago, Illinois  60602
+                               Telephone: (312) 583-2300
+                               Facsimile: (312) 583-2360
+
+                               Richard W. Riley
+                               William K. Harrington
+                               DUANE MORRIS LLP
+                               1100 North Mark Street
+                               Suite 1200
+                               Wilmington, DE  19801
+                               Telephone: (302) 657-4900
+                               Facsimile: (302) 657-4901
+
+                               Attorneys for Nutritional Sourcing Corporation
+
+
+
+
+
+Dated:     Wilmington, Delaware
+           January 31, 2003
+
+<PAGE>
+
+
+                                TABLE OF CONTENTS
+
+
+<TABLE>
+
+<S>                                                                                                              <C>
+ARTICLE I. DEFINITIONS, RULES OF INTERPRETATION, AND COMPUTATION OF TIME..........................................1
+         A.       SCOPE OF DEFINITIONS; RULES OF CONSTRUCTION.....................................................1
+         B.       DEFINITIONS.....................................................................................2
+                           1.1      "ADDITIONAL CASH CONSIDERATION"...............................................2
+                           1.2      "ADMINISTRATIVE CLAIM"........................................................2
+                           1.3      "ALLOWED CLAIM"...............................................................2
+                           1.4      "ALLOWED".....................................................................2
+                           1.5      "ALLOWED CLASS . . . CLAIM"...................................................2
+                           1.6      "ALLOWED CLASS . . . INTEREST"................................................2
+                           1.7      "ALTERNATIVE PLAN"............................................................2
+                           1.8      "ALTERNATIVE PLAN CONSIDERATION"..............................................2
+                           1.9      "ALTERNATIVE PLAN NOTES"......................................................3
+                           1.10     "AMENDED CERTIFICATE OF INCORPORATION AND BYLAWS OF NSC"......................3
+                           1.11     "BALLOT"......................................................................3
+                           1.12     "BANKRUPTCY CODE".............................................................3
+                           1.13     "BANKRUPTCY COURT"............................................................3
+                           1.14     "BANKRUPTCY RULES"............................................................3
+                           1.15     "BAR DATE(S)".................................................................3
+                           1.16     "BENCHMARKS"..................................................................3
+                           1.17     "BENCHMARK DEFAULT"...........................................................3
+                           1.18     "BUDGET"......................................................................3
+                           1.19     "BUSINESS DAY"................................................................3
+                           1.20     "CASH"........................................................................4
+                           1.21     "CASH CONSIDERATION"..........................................................4
+                           1.22     "CASH USAGE EVENT"............................................................4
+                           1.23     "CHAPTER 11 CASE".............................................................4
+                           1.24     "CLAIM".......................................................................4
+                           1.25     "CLASS".......................................................................4
+                           1.26     "COLLATERAL"..................................................................4
+                           1.27     "COMMITTEE"...................................................................4
+                           1.28     "COMMON STOCK"................................................................4
+                           1.29     "CONFIRMATION"................................................................4
+                           1.30     "CONFIRMATION DATE"...........................................................4
+                           1.31     "CONFIRMATION ORDER"..........................................................4
+                           1.32     "CONSUMMATION DATE"...........................................................4
+                           1.33     "CONSUMMATION DEADLINE".......................................................4
+                           1.34     "CREDIT DOCUMENTS"............................................................4
+                           1.35     "CREDIT PARTIES"..............................................................5
+                           1.36     "CREDITOR"....................................................................5
+                           1.37     "DEBTOR"......................................................................5
+                           1.38     "DEPOSIT ACCOUNT".............................................................5
+                           1.39     "DEPOSIT DATE"................................................................5
+                           1.40     "DIRECTION LETTER"............................................................5
+                           1.41     "DISBURSING AGENT"............................................................5
+                           1.42     "DISCLOSURE STATEMENT"........................................................5
+
+</TABLE>
+
+                                        i
+
+<PAGE>
+<TABLE>
+
+<S>                                                                                                              <C>
+
+                           1.43     "DISPUTED CLAIM"..............................................................5
+                           1.44     "DISTRIBUTION DATE"...........................................................6
+                           1.45     "DISTRIBUTION RECORD DATE"....................................................6
+                           1.46     "DISTRIBUTION RESERVE"........................................................6
+                           1.47     "EQUITY CONTRIBUTION".........................................................6
+                           1.48     "EQUITY SECURITIES"...........................................................6
+                           1.49     "ESTATE"......................................................................6
+                           1.50     "EXCESS PREPAYMENT PENALTY"...................................................6
+                           1.51     "EXCESS PREPAYMENT PENALTY EXCEPTIONS"........................................6
+                           1.52     "EXISTING EQUITY".............................................................7
+                           1.53     "EXCLUSIVITY ORDER"...........................................................7
+                           1.54     "EXTENSION AGREEMENT".........................................................7
+                           1.55     "EXTENSION DOCUMENTS".........................................................7
+                           1.56     "FACE AMOUNT".................................................................7
+                           1.57     "FINAL ORDER".................................................................7
+                           1.58     "IMPAIRED"....................................................................7
+                           1.59     "INDENTURE TRUSTEE"...........................................................7
+                           1.60     "INSIDER".....................................................................8
+                           1.61     "INSIDER CLAIMS"..............................................................8
+                           1.62     "INITIAL LENDERS".............................................................8
+                           1.63     "INTERCOMPANY CLAIMS".........................................................8
+                           1.64     "INTERCOMPANY LIENS"..........................................................8
+                           1.65     "INTERCREDITOR AGREEMENT".....................................................8
+                           1.66     "INTEREST"....................................................................8
+                           1.67     "LENDER SECURED CLAIMS".......................................................8
+                           1.68     "LENDER"......................................................................8
+                           1.69     "LIEN"........................................................................8
+                           1.70     "LITIGATION CLAIMS"...........................................................8
+                           1.71     "LOAN AND SECURITY AGREEMENT".................................................8
+                           1.72     "NEW COMMON STOCK"............................................................9
+                           1.73     "NEW INDENTURE TRUSTEE".......................................................9
+                           1.74     "NEW LENDER"..................................................................9
+                           1.75     "NEW LOAN FACILITY"...........................................................9
+                           1.76     "NEW SECURITIES"..............................................................9
+                           1.77     "NEW SENIOR NOTE INDENTURE"...................................................9
+                           1.78     "NEW SENIOR NOTES"............................................................9
+                           1.79     "NSC".........................................................................9
+                           1.80     "OPERATING SUBSIDIARIES".....................................................10
+                           1.81     "PEI"........................................................................10
+                           1.82     "PERSON".....................................................................10
+                           1.83     "PETITION DATE"..............................................................10
+                           1.84     "PLAN".......................................................................10
+                           1.85     "PLAN SUPPLEMENT"............................................................10
+                           1.86     "PRIMARY PLAN"...............................................................10
+                           1.87     "PRIMARY PLAN CONSIDERATION".................................................10
+                           1.88     "PRIORITY TAX CLAIM".........................................................10
+
+
+</TABLE>
+
+
+                                       ii
+<PAGE>
+<TABLE>
+
+<S>                                                                                                              <C>
+                           1.89     "PROFESSIONAL"...............................................................10
+                           1.90     "PROFESSIONAL FEE CLAIM".....................................................10
+                           1.91     "PRO RATA"...................................................................10
+                           1.92     "PUEBLO".....................................................................10
+                           1.93     "REGISTRATION RIGHTS AGREEMENT"..............................................10
+                           1.94     "REINSTATED" OR "REINSTATEMENT"..............................................11
+                           1.95     "RELEASED PARTIES"...........................................................11
+                           1.96     "REORGANIZED DEBTOR".........................................................11
+                           1.97     "REQUIRED PROCEDURES"........................................................11
+                           1.98     "RESTRUCTURING"..............................................................11
+                           1.99     "SCHEDULES"..................................................................11
+                           1.100    "SECURED CLAIM"..............................................................12
+                           1.101    "SECURITIES ACT".............................................................12
+                           1.102    "SENIOR NOTE CLAIM"..........................................................12
+                           1.103    "SENIOR NOTE HOLDER".........................................................12
+                           1.104    "SENIOR NOTE INDENTURE"......................................................12
+                           1.105    "SENIOR NOTES"...............................................................12
+                           1.106    "SETOFF CLAIM"...............................................................12
+                           1.107    "STOCK OPTIONS"..............................................................12
+                           1.108    "SUBORDINATED LIEN"..........................................................12
+                           1.109    "SUBORDINATED STOCK PLEDGE"..................................................12
+                           1.110    "SUBSTANTIAL CONTRIBUTION CLAIM".............................................12
+                           1.111    "SUCCESSOR LENDER"...........................................................12
+                           1.112    "TOTAL CASH CONSIDERATION"...................................................12
+                           1.113    "UNIMPAIRED CLAIM"...........................................................13
+                           1.114    "UPDATE CALLS"...............................................................13
+                           1.115    "WARRANTS"...................................................................13
+         C.       RULES OF INTERPRETATION........................................................................13
+                  1.       GENERAL...............................................................................13
+                  2.       RULE OF "CONTRA PROFERENTUM" NOT APPLICABLE...........................................13
+         D.       COMPUTATION OF TIME............................................................................13
+
+ARTICLE II. CLASSIFICATION OF CLAIMS AND INTERESTS...............................................................14
+         A.       INTRODUCTION...................................................................................14
+         B.       UNCLASSIFIED CLAIMS (NOT ENTITLED TO VOTE ON THE PLAN).........................................14
+                  1.       ADMINISTRATIVE CLAIMS.................................................................14
+                  2.       PRIORITY TAX CLAIMS...................................................................14
+         C.       UNIMPAIRED CLASSES OF CLAIMS (DEEMED TO HAVE ACCEPTED THE PLAN AND, THEREFORE, NOT ENTITLED TO
+                  VOTE)..........................................................................................14
+                  1.       CLASS 1:  LENDER SECURED CLAIMS.......................................................14
+                  2.       CLASS 3 INTERCOMPANY CLAIMS...........................................................14
+                  3.       CLASS 5:  EQUITY SECURITIES INTERESTS.................................................14
+         D.       IMPAIRED CLASSES OF  CLAIMS AND INTERESTS (CLASS 2 IS ENTITLED TO VOTE ON THE PLAN)............14
+                  1.       CLASS 2:  SENIOR NOTE CLAIMS..........................................................14
+                  2.       CLASS 4 INSIDER CLAIMS................................................................15
+                  3.       CLASS 5:  EQUITY SECURITIES INTERESTS.................................................15
+
+
+</TABLE>
+
+                                      iii
+<PAGE>
+<TABLE>
+
+<S>                                                                                                              <C>
+
+ARTICLE III. TREATMENT OF CLAIMS AND INTERESTS...................................................................15
+         A.       UNCLASSIFIED CLAIMS............................................................................15
+                  1.       ADMINISTRATIVE CLAIMS.................................................................15
+                  2.       PRIORITY TAX CLAIMS...................................................................15
+         B.       UNIMPAIRED CLASSES OF CLAIMS...................................................................16
+                  1.       CLASS 1:  LENDER SECURED CLAIMS.......................................................16
+                  2.       CLASS 3:  INTERCOMPANY CLAIMS.........................................................16
+                  3.       CLASS 5:  EQUITY SECURITIES INTEREST..................................................16
+         C.       IMPAIRED CLASSES OF CLAIMS.....................................................................16
+                  1.       CLASS 2:  SENIOR NOTE CLAIMS..........................................................16
+                  2.       CLASS 4: INSIDER CLAIMS...............................................................17
+                  3.       CLASS 5:  EQUITY SECURITIES INTEREST..................................................17
+         D.       SPECIAL PROVISION REGARDING UNIMPAIRED CLAIMS..................................................17
+
+ARTICLE IV. MEANS FOR IMPLEMENTATION OF THE PLAN.................................................................17
+         A.       CONTINUED CORPORATE EXISTENCE..................................................................17
+         B.       CORPORATE ACTION...............................................................................17
+                  1.       CANCELLATION OF SENIOR NOTES AND SENIOR NOTE INDENTURE................................17
+                  2.       AMENDED CERTIFICATE OF INCORPORATION AND BY-LAWS......................................18
+                  3.       OTHER GENERAL CORPORATE MATTERS.......................................................18
+         C.       RESTRUCTURING TRANSACTIONS.....................................................................19
+                  1.       NEW SECURITIES........................................................................19
+         D.       DIRECTORS AND OFFICERS.........................................................................19
+         E.       REVESTING OF ASSETS............................................................................19
+         F.       PRESERVATION OF RIGHTS OF ACTION; SETTLEMENT OF LITIGATION CLAIMS..............................20
+         G.       EXCLUSIVITY PERIOD.............................................................................20
+         H.       EFFECTUATING DOCUMENTS; FURTHER TRANSACTIONS...................................................20
+         I.       EXEMPTION FROM CERTAIN TRANSFER TAXES..........................................................20
+
+ARTICLE V. ACCEPTANCE OR REJECTION OF THE PLAN...................................................................21
+         A.       CLASSES ENTITLED TO VOTE.......................................................................21
+         B.       ACCEPTANCE BY IMPAIRED CLASSES.................................................................21
+
+ARTICLE VI. SECURITIES TO BE ISSUED IN CONNECTION WITH THE PLAN..................................................21
+
+ARTICLE VII. PROVISIONS GOVERNING DISTRIBUTIONS..................................................................21
+         A.       DISTRIBUTIONS FOR CLAIMS ALLOWED AS OF THE CONSUMMATION DATE...................................21
+         B.       INTEREST ON CLAIMS.............................................................................22
+         C.       DISBURSING AGENT...............................................................................22
+         D.       SURRENDER OF SECURITIES OR INSTRUMENTS.........................................................22
+         E.       INSTRUCTIONS TO DISBURSING AGENT...............................................................23
+         F.       SERVICES OF INDENTURE TRUSTEES, AGENTS, AND SERVICERS..........................................23
+         G.       RECORD DATE FOR DISTRIBUTIONS TO HOLDERS OF DEBT SECURITIES....................................23
+         H.       MEANS OF CASH PAYMENT..........................................................................23
+         I.       DELIVERY OF DISTRIBUTIONS......................................................................23
+         J.       FRACTIONAL DOLLARS; DE MINIMIS DISTRIBUTIONS...................................................24
+         K.       WITHHOLDING AND REPORTING REQUIREMENTS.........................................................24
+
+</TABLE>
+
+                                       iv
+<PAGE>
+<TABLE>
+
+<S>                                                                                                              <C>
+
+         L.       CALCULATION OF DISTRIBUTION AMOUNTS OF NEW COMMON STOCK........................................24
+         M.       SETOFFS........................................................................................24
+
+ARTICLE VIII. PROCEDURES FOR RESOLVING DISPUTED, CONTINGENT, AND UNLIQUIDATED CLAIMS.............................25
+         A.       OBJECTION DEADLINE; PROSECUTION OF OBJECTIONS..................................................25
+         B.       NO DISTRIBUTIONS PENDING ALLOWANCE.............................................................25
+         C.       DISTRIBUTION RESERVE...........................................................................25
+         D.       DISTRIBUTIONS AFTER ALLOWANCE..................................................................25
+
+ARTICLE IX. CONDITIONS PRECEDENT TO CONFIRMATION AND CONSUMMATION OF THE PLAN....................................26
+         A.       CONDITIONS TO CONFIRMATION.....................................................................26
+         B.       CONDITIONS TO CONSUMMATION.....................................................................26
+         C.       WAIVER OF CONDITIONS...........................................................................29
+
+ARTICLE X. MODIFICATIONS AND AMENDMENTS..........................................................................29
+
+ARTICLE XI. RETENTION OF JURISDICTION............................................................................29
+
+ARTICLE XII. COMPROMISES AND SETTLEMENTS.........................................................................31
+
+ARTICLE XIII. MISCELLANEOUS PROVISIONS...........................................................................31
+         A.       BAR DATES FOR CERTAIN CLAIMS...................................................................31
+                  1.       ADMINISTRATIVE CLAIMS:  SUBSTANTIAL CONTRIBUTION CLAIMS...............................31
+                  2.       PROFESSIONAL FEE CLAIMS...............................................................31
+         B.       PAYMENT OF STATUTORY FEES......................................................................32
+         C.       SEVERABILITY OF PLAN PROVISIONS................................................................32
+         D.       SUCCESSORS AND ASSIGNS.........................................................................32
+         E.       RELEASES AND SATISFACTION OF SUBORDINATION RIGHTS..............................................32
+         F.       DISCHARGE OF THE DEBTOR........................................................................33
+         G.       COMMITTEE......................................................................................33
+         H.       EXCULPATION AND LIMITATION OF LIABILITY........................................................33
+         I.       PERMANENT INJUNCTION...........................................................................34
+         J.       RELEASES.......................................................................................34
+         K.       BINDING EFFECT.................................................................................34
+         L.       REVOCATION, WITHDRAWAL, OR NON-CONSUMMATION....................................................34
+         M.       PLAN SUPPLEMENT................................................................................35
+         N.       NOTICES........................................................................................35
+         O.       INDEMNIFICATION OBLIGATIONS....................................................................36
+         P.       PREPAYMENT.....................................................................................36
+         Q.       TERM OF INJUNCTIONS OR STAY....................................................................36
+         R.       REGISTRATION RIGHTS AGREEMENT..................................................................37
+         S.       HART-SCOTT-RODINO COMPLIANCE...................................................................37
+         T.       ALLOCATION OF PLAN DISTRIBUTIONS BETWEEN PRINCIPAL AND INTEREST................................37
+         U.       GOVERNING LAW..................................................................................38
+</TABLE>
+
+
+                                       v
+
+
+<PAGE>
+
+
+
+
+                                  INTRODUCTION
+
+         Nutritional Sourcing Corporation ("NSC" or the "Debtor") hereby
+proposes the following reorganization plan (the "Plan") for the resolution of
+its outstanding creditor Claims (as that term is defined herein) and equity
+Interests. Reference is made to the Disclosure Statement (as that term is
+defined herein), distributed contemporaneously herewith, for a discussion of the
+Debtor's history, business, properties, results of operations, projections for
+future operations, risk factors, a summary and analysis of the Plan, and certain
+related matters, including the New Securities to be issued under the Plan. The
+Debtor is the proponent of this Plan within the meaning of Section 1129 of the
+Bankruptcy Code (as that term is defined herein).
+
+         This Plan is comprised of two plans. Under the first plan, referred to
+in the Plan as the Primary Plan, holders of unsecured Claims against the Debtor
+will receive consideration consisting of cash and notes, and the existing equity
+holder will retain its stock in the Debtor. Under the second plan, referred to
+in the Plan as the Alternative Plan, the holders of unsecured Claims against the
+Debtor will receive consideration consisting of alternative notes and 100% of
+the newly issued common stock in the Debtor. The Alternative Plan can only be
+implemented if the Debtor fails to achieve any of the Benchmarks and the
+Committee issues the Direction Letter. A vote on the Plan is a vote on both the
+Primary Plan and the Alternative Plan. Each term that is capitalized in this
+paragraph is defined in the Plan.
+
+         All holders of Claims and Interests are encouraged to read this Plan
+and the Disclosure Statement in their entirety before voting to accept or reject
+this Plan. Subject to certain restrictions and requirements set forth in Section
+1127 of the Bankruptcy Code and Fed. R. Bankr. P. 3019 and those restrictions on
+modifications set forth in Article X of this Plan, the Debtor reserves the right
+to alter, amend, modify, revoke or withdraw this Plan prior to its substantial
+consummation.
+
+                                   ARTICLE I.
+
+                      DEFINITIONS, RULES OF INTERPRETATION,
+                             AND COMPUTATION OF TIME
+
+A. SCOPE OF DEFINITIONS; RULES OF CONSTRUCTION
+
+         For purposes of this Plan, except as expressly provided or unless the
+context otherwise requires, all capitalized terms not otherwise defined shall
+have the meanings ascribed to them in Article 1 of this Plan. Any term used in
+this Plan that is not defined herein, but is defined in the Bankruptcy Code or
+the Bankruptcy Rules, shall have the meaning ascribed to that term in the
+Bankruptcy Code or the Bankruptcy Rules. Whenever the context requires, such
+terms shall include the plural as well as the singular number. The masculine
+gender shall include the feminine, and the feminine gender shall include the
+masculine.
+
+
+
+                                       1
+<PAGE>
+
+B. DEFINITIONS
+
+         1.1 "Additional Cash Consideration" means $1.5 million deposited by one
+of the Operating Subsidiaries into the Deposit Account on each Deposit Date,
+proof of such deposit shall be provided by the Debtor to the Committee within
+two (2) Business Days after each deposit is made.
+
+         1.2 "Administrative Claim" means a Claim for payment of an
+administrative expense of a kind specified in Section 503(b) of the Bankruptcy
+Code and entitled to priority pursuant to Section 507(a)(1) of the Bankruptcy
+Code, including, but not limited to, (a) the actual, necessary costs and
+expenses, incurred after the Petition Date, of preserving the Estate and
+operating the business of the Debtor, (b) Professional Fee Claims, (c) all fees
+and charges assessed against the Estate under chapter 123 of title 28, United
+States Code.
+
+         1.3 "Allowed Claim" means a Claim or any portion thereof (a) as to
+which no objection to allowance or request for estimation has been interposed on
+or before the Consummation Date or the expiration of such other applicable
+period of limitation fixed by the Bankruptcy Code, Bankruptcy Rules, or the
+Bankruptcy Court, (b) as to which any objection to its allowance has been
+settled, waived through payment, or withdrawn, or has been denied by a Final
+Order, (c) that has been allowed by a Final Order, (d) as to which the liability
+of the Debtor, and the amount thereof are determined by final order of a court
+of competent jurisdiction other than the Bankruptcy Court, or (e) that is
+expressly allowed in a liquidated amount in the Plan; PROVIDED, HOWEVER, that
+with respect to an Administrative Claim, "Allowed Claim" means an Administrative
+Claim as to which a timely request for payment has been made in accordance with
+Article XIII.A.1 of this Plan (if such written request is required) or other
+Administrative Claim, in each case as to which the Debtor (1) has not interposed
+a timely objection or (2) has interposed a timely objection and such objection
+has been settled, waived through payment. or withdrawn, or has been denied by a
+Final Order.
+
+         1.4 "Allowed" means when used in reference to a Claim or Interest
+within a particular Class, an Allowed Claim or Allowed Interest of the type
+described in such Class.
+
+         1.5 "Allowed Class . . . Claim" means an Allowed Claim in the
+particular Class described.
+
+         1.6 "Allowed Class . . . Interest" means an Interest in the particular
+Class described (a) that has been allowed by a Final Order, (b) for which (i) no
+objection to its allowance has been filed within the periods of limitation fixed
+by the Bankruptcy Code or by any Final Order of the Bankruptcy Court or (ii) any
+objection to its allowance has been settled or withdrawn, or (c) that is
+expressly allowed in the Plan.
+
+         1.7 "Alternative Plan" means, in the event the Committee issues the
+Direction Letter, an alternative plan that will result in the holders of Class 2
+Claims receiving the Alternative Plan Consideration, and the holder of the Class
+5 Interest receiving nothing on account of its Equity Interests.
+
+         1.8 "Alternative Plan Consideration" means (i) the Alternative Plan
+Notes and (ii) 100% of the New Common Stock.
+
+
+
+
+                                       2
+<PAGE>
+
+         1.9 "Alternative Plan Notes" means the 12% Alternative Plan Notes due
+2009 of the Reorganized Debtor, in the aggregate principal amount not to exceed
+$125 million, secured by the Subordinated Lien and the Subordinated Stock
+Pledge, to be issued and distributed pursuant to the Alternative Plan on the
+Distribution Date and governed by the terms of the New Senior Note Indenture, as
+more fully described in Article VI hereof; provided that the drawn amount on the
+effective date of the Alternative Plan under the new loan facility for the
+Operating Subsidiaries shall not exceed $35 million (net of excess cash).
+
+         1.10 "Amended Certificate of Incorporation and Bylaws of NSC" means the
+Reorganized Debtor's certificate of incorporation and bylaws in effect under the
+laws of the State of Delaware, as amended by the Plan, substantially in the form
+of Exhibit A to the Plan.
+
+         1.11 "Ballot" means each of the ballot forms distributed to each holder
+of an Impaired Claim or Interest on which the holder is to indicate acceptance
+or rejection of this Plan.
+
+         1.12 "Bankruptcy Code" means the Bankruptcy Reform Act of 1978, as
+codified in title 11 of the United States Code, 11 U.S.C. ss.ss. 101-1330, as
+now in effect or hereafter amended.
+
+         1.13 "Bankruptcy Court" means the United States Bankruptcy Court for
+the District of Delaware or such other court as may have jurisdiction over the
+Chapter 11 Case.
+
+         1.14 "Bankruptcy Rules" means, collectively, the Federal Rules of
+Bankruptcy Procedure and the Official Bankruptcy Forms, as amended, the Federal
+Rules of Civil Procedure, as amended, as applicable to the Chapter 11 Case or
+proceedings therein, and the Local Rules of the Bankruptcy Court, as applicable
+to the Chapter 11 Case or proceedings therein, as the case may be.
+
+         1.15 "Bar Date(s)" means the date(s), if any, designated by the
+Bankruptcy Court as the last dates for filing proofs of Claim against the
+Debtor.
+
+         1.16 "Benchmarks" means the requirement that the Debtor (i) obtain an
+order approving the Disclosure Statement on or before April 14, 2003, (ii)
+obtain the Confirmation Order on or before May 30, 2003, (iii) obtain a
+commitment letter for a New Loan Facility on or before July 31, 2003, (iv)
+replenish the Deposit Account if a Cash Usage Event has occurred on or before
+the Consummation Date, and (v) consummate the Plan on or before the Consummation
+Deadline.
+
+         1.17 "Benchmark Default" means (i) the Debtor's failure to achieve any
+one of the Benchmarks or (ii) the Debtor's or Existing Equity's breach of any
+material obligation under the Exclusivity Order.
+
+         1.18 "Budget" means the budget provided to the Committee dated December
+27, 2003, as such budget may be supplemented from time to time, after providing
+three Business Days notice to the Committee of such supplemental budget and the
+rationale therefore.
+
+         1.19 "Business Day" means any day, excluding Saturdays, Sundays or
+"legal holidays" (as defined in Fed. R. Bankr. P. 9006(a)), on which commercial
+banks are open for business in New York, New York.
+
+
+
+                                       3
+<PAGE>
+
+         1.20 "Cash" means legal tender of the United States or equivalents
+thereof.
+
+         1.21 "Cash Consideration" means $51 million, a portion of which shall
+consist of the Equity Contribution.
+
+         1.22 "Cash Usage Event" means, after the Debtor has complied with the
+Required Procedures, the Operating Subsidiaries, in their business judgment, use
+some or all of the cash in the Deposit Account prior to the Consummation Date
+for an unanticipated expense that is not included in the Budget but is required
+for the operation of such subsidiary's business.
+
+         1.23 "Chapter 11 Case" means the Chapter 11 case of NSC.
+
+         1.24 "Claim" means a claim against the Debtor, whether or not asserted,
+as defined in Section 101(5) of the Bankruptcy Code.
+
+         1.25 "Class" means a category of holders of Claims or Interests, as
+described in Article II below.
+
+         1.26 "Collateral" means any property or interest in property of the
+Debtor's Estate subject to a Lien to secure the payment or performance of a
+Claim, which Lien is not subject to avoidance under the Bankruptcy Code or
+otherwise invalid under the Bankruptcy Code or applicable state law.
+
+         1.27 "Committee" means the committee of unsecured Creditors appointed
+pursuant to Section 1102(a) of the Bankruptcy Code in the Chapter 11 Case.
+
+         1.28 "Common Stock" means NSC common stock, par value $.01 per share,
+together with any options, warrants, or rights, contractual or otherwise, to
+acquire or receive any such stock, including, but not limited to, the Stock
+Options and Warrants.
+
+         1.29 "Confirmation" means entry by the Bankruptcy Court of the
+Confirmation Order.
+
+         1.30 "Confirmation Date" means the date of entry by the clerk of the
+Bankruptcy Court of the Confirmation Order.
+
+         1.31 "Confirmation Order" means the order entered by the Bankruptcy
+Court confirming the Plan.
+
+         1.32 "Consummation Date" means the Business Day on which all conditions
+to the consummation of the Plan as set forth in Article IX.B hereof have been
+satisfied or waived as provided in Article IX.C hereof and is the effective date
+of the Plan.
+
+         1.33 "Consummation Deadline" means the earlier of the Consummation Date
+and September 30, 2003.
+
+         1.34 "Credit Documents" means, collectively (a) the Loan and Security
+Agreement; (b) the Extension Documents; (c) each other security agreement or
+pledge agreement entered into pursuant to the Loan and Security Agreement or
+
+
+
+
+                                       4
+<PAGE>
+
+other documents designated as a "Credit Document" in the Loan and Security
+Agreement, and (d) each other agreement that creates or purports to create or
+perfect a Lien in favor of the Lender.
+
+         1.35 "Credit Parties" means Debtor, Pueblo, PEI, Xtra Super Foods
+Centers, Inc., Xtra Merger Corporation, Caribad, Inc., and All Truck, Inc.
+
+         1.36 "Creditor" means any Person who holds a Claim against the Debtor.
+
+         1.37 "Debtor" means NSC, including in its capacity as
+debtor-in-possession pursuant to Sections 1107 and 1108 of the Bankruptcy Code,
+and as reorganized hereunder.
+
+         1.38 "Deposit Account" means a segregated bank account established by
+one of the Operating Subsidiaries into which each payment of Additional Cash
+Consideration shall be deposited. If the Alternative Plan is consummated, the
+Deposit Account shall remain property of the Operating Subsidiaries.
+
+         1.39 "Deposit Date" means the fifth Business Day following the last day
+of each four (4) week accounting period commencing with the accounting period
+ending on January 25, 2003 and terminating on the date the Plan is consummated;
+PROVIDED that if the Plan is to be consummated prior to the Deposit Date in any
+four (4) week accounting period, the Debtor shall cause a pro rata deposit with
+respect to such period to be made into the Deposit Account immediately prior to
+the date on which the Plan is consummated.
+
+         1.40 "Direction Letter" means a letter dated on or after the date of a
+Benchmark Default addressed to counsel to the Debtor from counsel to the
+Committee informing the Debtor that the Committee has determined to proceed with
+the Alternative Plan.
+
+         1.41 "Disbursing Agent" means the Reorganized Debtor or any party
+designated by the Reorganized Debtor, in its sole discretion, to serve as a
+disbursing agent under the Plan.
+
+         1.42 "Disclosure Statement" means the written disclosure statement that
+relates to the Plan, dated January 31, 2003, as amended, supplemented, or
+modified from time to time, and that is prepared and distributed in accordance
+with Sections 1125 and 1126(b) of the Bankruptcy Code and Fed. R. Bankr. P.
+3018.
+
+         1.43 "Disputed Claim" means any Claim not otherwise Allowed or paid
+pursuant to the Plan or an order of the Bankruptcy Court (a) which has been or
+hereafter is listed on the Schedules as unliquidated, contingent, or disputed,
+and which has not been resolved by written agreement of the parties or an order
+of the Bankruptcy Court, (b) proof of which was required to be filed by order of
+the Bankruptcy Court but as to which a proof of Claim was not timely or properly
+filed, (c) proof of which was timely and properly filed and which has been or
+hereafter is listed on the Schedules as unliquidated, disputed or contingent,
+(d) that is disputed in accordance with the provisions of this Plan, or (e) as
+to which the Debtor has interposed a timely objection or request for estimation
+in accordance with the Bankruptcy Code, the Bankruptcy Rules, and any orders of
+the Bankruptcy Court, or is otherwise disputed by the Debtor in accordance with
+applicable law, which objection, request for estimation, or dispute has not been
+withdrawn or determined by a Final Order; PROVIDED, HOWEVER, that for purposes
+of determining whether a particular Claim is a Disputed Claim prior to the
+expiration of any period of limitation fixed for the interposition by the Debtor
+
+
+
+                                       5
+<PAGE>
+
+of objections to the allowance of Claims, any Claim that is not identified by
+the Debtor as an Allowed Claim shall be deemed a Disputed Claim.
+
+         1.44 "Distribution Date" means the date, occurring as soon as
+practicable after the Consummation Date, upon which distributions are made by
+the Reorganized Debtor to holders of Administrative, Priority Tax, and Classes 1
+and 2 Claims; PROVIDED, HOWEVER, that in no event shall the Distribution Date
+occur later than twenty (20) Business Days after the Consummation Date.
+
+         1.45 "Distribution Record Date" means the record date for purposes of
+making distributions under the Plan on account of Allowed Claims, which date
+shall be the fifth (5th) Business Day following the Confirmation Date.
+
+         1.46 "Distribution Reserve" means the reserve, if any, established and
+maintained by the Reorganized Debtor, into which the Reorganized Debtor shall
+deposit the amount of Cash or other property that would have been distributed by
+the Reorganized Debtor on the Distribution Date to holders of (a) Disputed
+Claims, (b) contingent liquidated Claims, if such Claims had been undisputed or
+noncontingent Claims on the Distribution Date, pending (i) the allowance of such
+Claims, (ii) the estimation of such Claims for purposes of allowance or (iii)
+the realization of the contingencies, and (c) unliquidated Claims, if such
+Claims had been liquidated on the Distribution Date, such amount to be estimated
+by the Bankruptcy Court or agreed upon by the Debtor or Reorganized Debtor, as
+the case may be, and the holders thereof as sufficient to satisfy such
+unliquidated Claim upon such Claim's (x) allowance, (y) estimation for purposes
+of allowance, or (z) liquidation, pending the occurrence of such estimation or
+liquidation.
+
+         1.47 "Equity Contribution" means Existing Equity's contribution to the
+Cash Consideration in amount not to be less than $15 million.
+
+         1.48 "Equity Securities" means, collectively, the Common Stock, Stock
+Options, and Warrants, together with any options, warrants, or rights,
+contractual or otherwise, to acquire or receive any such stock or ownership
+interests, including, but not limited to, the Options, the Warrants and any
+contracts or agreements pursuant to which the non-debtor party was or could have
+been entitled to receive shares of stock or other ownership interests in NSC.
+
+         1.49 "Estate" means the estate of NSC in the Chapter 11 Case, created
+pursuant to Section 541 of the Bankruptcy Code.
+
+         1.50 "Excess Prepayment Penalty" means Existing Equity's obligation to
+pay any prepayment penalty on account of a change of control owed to Successor
+Lender in excess of $2.4 million if the Excess Prepayment Penalty becomes due
+and owing on account of (A) Existing Equity's decision not to make the Equity
+Contribution or (B) the Debtor's failure to achieve any Benchmark. Existing
+Equity's obligation to pay the Excess Prepayment Penalty terminates on July 30,
+2003.
+
+         1.51 "Excess Prepayment Penalty Exceptions" means the following
+exceptions, upon the occurrence of which Existing Equity shall have no
+obligation to pay the Excess Prepayment Penalty: (i) the Committee's failure to
+issue a Direction Letter by July 30, 2003, (ii) the Successor Lender's waiver of
+
+
+
+                                       6
+<PAGE>
+
+its right to receive the Excess Prepayment Penalty or otherwise declines to
+enforce the prepayment penalty provision related to a change of control; or
+(iii) the Debtor's failure to achieve any Benchmark; provided that such failure
+is caused by, or is the result of, (1) an objection filed by any creditor to the
+Disclosure Statement, the Plan, or any other motion or document related thereto;
+or (2) the incapacitation or unavailability of the bankruptcy judge, or a
+natural disaster, terrorist attack or any other act of a similar type or nature
+that renders it impossible for the Bankruptcy Court to timely rule on the
+Disclosure Statement or the Plan.
+
+         1.52 "Existing Equity" means the holder of the Equity Securities as of
+the Petition Date.
+
+         1.53 "Exclusivity Order" means that certain order entered by the
+Bankruptcy Court on January 28, 2003 granting the Debtor's motion pursuant to
+section 1121(d) of the Bankruptcy Code for an order extending the Debtor's
+exclusive periods to file a plan and submit acceptances thereof.
+
+         1.54 "Extension Agreement" means that certain Extension and
+Modification Agreement by and between the Credit Parties and Successor Lender
+dated January 31, 2003, as such agreement may be amended and supplemented from
+time to time thereafter.
+
+         1.55 "Extension Documents" means the Extension Agreement, that certain
+Guarantee executed by the Debtor in favor of Successor Lender, that certain
+Guarantor General Security Agreement executed by Debtor in favor of the
+Successor Lender and all other documents required by Successor Lender to secure
+the Credit Parties' payment of their obligations under the Extension Agreement
+and perfect Successor Lender's security interest in the Collateral granted to it
+in the Extension Documents.
+
+         1.56 "Face Amount" means (a) when used in reference to a Disputed
+Claim, the full stated amount claimed by the holder of such Claim in any proof
+of Claim timely filed with the Bankruptcy Court or otherwise deemed timely filed
+by any Final Order of the Bankruptcy Court or other applicable bankruptcy law,
+and (b) when used in reference to an Allowed Claim, the allowed amount of such
+Claim.
+
+         1.57 "Final Order" means an order or judgment of the Bankruptcy Court,
+or other court of competent jurisdiction, as entered on the docket in the
+Chapter 11 Case, the operation or effect of which has not been stayed, reversed,
+or amended and as to which order or judgment (or any revision, modification, or
+amendment thereof) the time to appeal or seek review or rehearing has expired
+and as to which no appeal or petition for review or rehearing was filed or, if
+filed, remains pending.
+
+         1.58 "Impaired" means, when used with reference to a Claim or Interest,
+a Claim or Interest that is impaired within the meaning of Section 1124 of the
+Bankruptcy Code.
+
+         1.59 "Indenture Trustee" means The Bank of New York or its successor,
+in either case in its capacity as indenture trustee pursuant to the Senior Note
+Indenture.
+
+
+
+
+                                       7
+<PAGE>
+
+         1.60 "Insider" means any (i) director, officer, or person in control of
+the Debtor or Existing Equity or (ii) relative of a director, officer, or person
+in control of the Debtor or Existing Equity.
+
+         1.61 "Insider Claims" means any Claim by any Insider against the
+Debtor.
+
+         1.62 "Initial Lenders" means Bank of Nova Scotia and Bank of America,
+N.A. f/k/a Nationsbank, N.A. South.
+
+         1.63 "Intercompany Claims" means any Claim by any of the Operating
+Subsidiaries against the Debtor.
+
+         1.64 "Intercompany Liens" means those liens granted by Pueblo to the
+Debtor (i) pursuant that certain Pledge Agreement dated July 28, 1993, as
+amended by that certain Amendment to Pledge Agreement dated April 29, 1997 on
+certain real estate to secure certain subordinated intercompany real estate
+notes and (ii) that certain Personal Property Mortgage and Affidavit dated July
+28, 1993, as amended by that certain Amendment to Personal Property Mortgage
+dated April 19, 1997 to secure certain intercompany notes.
+
+         1.65 "Intercreditor Agreement" means that certain intercreditor
+agreement dated as of the Consummation Date by and among the Reorganized Debtor,
+the Operating Subsidiaries, the New Indenture Trustee and the New Lender, which
+intercreditor agreement shall be in the form of the intercreditor agreement to
+be included as Exhibit C to the Plan.
+
+         1.66 "Interest" means (a) the legal, equitable, contractual and other
+rights of any Person with respect to Common Stock, Stock Options, Warrants, or
+any other Equity Securities of NSC and (b) the legal, equitable, contractual or
+other rights of any Person to acquire or receive any of the foregoing.
+
+         1.67 "Lender Secured Claims" means the Secured Claims of the Lender
+under the Loan and Security Agreement and the Extension Documents.
+
+         1.68 "Lender" means Successor Lender as successor to the Initial
+Lenders.
+
+         1.69 "Lien" means a charge against or interest in property to secure
+payment of a debt or performance of an obligation.
+
+         1.70 "Litigation Claims" means the claims, rights of action, suits, or
+proceedings, whether in law or in equity, whether known or unknown, that the
+Debtor or the Estate may hold against any Person, which are to be retained by
+the Reorganized Debtor pursuant to Article IV.F of this Plan.
+
+         1.71 "Loan and Security Agreement" means the Loan and Security
+Agreement, dated as of April 27, 1997, among NSC, as borrower, and the Initial
+Lenders as amended and supplemented from time to time thereafter and as amended
+and supplemented by the Extension Agreement.
+
+
+
+
+                                       8
+<PAGE>
+
+         1.72 "New Common Stock" means 1,000,000 shares of common shares of the
+Reorganized Debtor authorized under ARTICLE IV of the Plan.
+
+         1.73 "New Indenture Trustee" means the indenture trustee under the New
+Senior Note Indenture.
+
+         1.74 "New Lender" means the lender(s) under the New Loan Facility.
+
+         1.75 "New Loan Facility" means a new loan facility to replace the Loan
+and Security Agreement, pursuant to which the New Lender shall have agreed to
+provide the Operating Subsidiaries binding commitments for approximately $70
+million (including a $5 million letter of credit sub-limit)(but in no event
+shall such facility exceed $80 million without the prior written consent of the
+Committee) in working capital and term loans, which loans shall be secured by
+the granting on the Effective Date of a perfected security interest in all
+personal, mixed and real property of each borrower and guarantor a party to the
+New Loan Facility (subject to certain permitted liens and other exceptions
+reasonably satisfactory to the New Lender).
+
+         1.76 "New Securities" means either (A) the New Senior Notes or (B) if
+the Direction Letter has been issued, the Alternative Plan Consideration, in
+either case to be issued to the Indenture Trustee, for the ratable benefit of
+all holders of Allowed Class 2 Senior Note Claims pursuant to Article III.C.1 of
+the Plan.
+
+         1.77 "New Senior Note Indenture" means the indenture to be entered into
+between the Reorganized Debtor and the New Indenture Trustee, under which the
+New Senior Notes or the Alternative Notes, as the case may be, shall be issued
+which indenture shall (i) contain, with respect to the New Senior Notes, certain
+covenants and events of default similar to the existing covenants and events of
+default in the Senior Note Indenture, subject to adjustment on account of the
+Debtor's projections with a reasonable cushion; PROVIDED that no such covenant
+or event of default shall conflict or be more onerous then those covenants or
+events of default set forth in the New Loan Facility and PROVIDED FURTHER that
+an event of default under the New Loan Facility shall be an event of default
+under the New Senior Note Indenture, (ii) contain, with respect to the New
+Senior Notes, certain call premium provisions requiring that the Reorganized
+Debtor pay the holders of the New Senior Notes (a) 102% of the original
+principal amount of the New Senior Notes if the New Senior Notes are redeemed on
+or before the first anniversary of the Consummation Date and (b) 101% of the
+original principal amount of the New Senior Notes if such notes are redeemed
+during the period after the first anniversary of the Consummation Date and on or
+before the second anniversary of the Consummation Date, and (iii) be
+substantially in the form of the indenture to be included as Exhibit B to the
+Plan.
+
+         1.78 "New Senior Notes" means the 10.125% Senior Notes due 2009 of the
+Reorganized Debtor, in the aggregate principal amount of $90 million, secured by
+the Subordinated Lien and the Subordinated Stock Pledge, to be issued and
+distributed pursuant to the Plan on the Distribution Date and governed by the
+terms of the New Senior Note Indenture, as more fully described in Article VI
+hereof.
+
+         1.79 "NSC" means Nutritional Sourcing Corporation.
+
+
+
+
+                                       9
+<PAGE>
+
+         1.80 "Operating Subsidiaries" means Pueblo, PEI and each of their
+subsidiaries and affiliates.
+
+         1.81 "PEI" means Pueblo Entertainment, Inc., a Delaware corporation.
+
+         1.82 "Person" means an individual, partnership, limited liability
+company, trust, incorporated or unincorporated association, joint venture, joint
+stock company, government (or an agreed or political subdivision thereof) or
+other entity of any kind.
+
+         1.83 "Petition Date" means the date on which an involuntary petition
+for relief commencing the Chapter 11 Case was filed against NSC.
+
+         1.84 "Plan" means this Chapter 11 reorganization plan for NSC
+(including the Primary Plan and the Alternative Plan) and all exhibits annexed
+hereto or referenced herein, as the same may be amended, modified or
+supplemented from time to time.
+
+         1.85 "Plan Supplement" means the compilation of documents and forms of
+documents specified in the Plan which will be filed with the Bankruptcy Court
+not later than ten (10) days prior to (a) the Confirmation Date or (b) if the
+Direction Letter was issued, the Consummation Date.
+
+         1.86 "Primary Plan"means a plan that will result in the holders of
+Class 2 Claims receiving the Primary Plan Consideration, and the holder of the
+Class 5 Interest retaining its Equity Interests in exchange for the Equity
+Contribution.
+
+         1.87 "Primary Plan Consideration"means (i) Total Cash Consideration and
+(ii) the New Senior Notes.
+
+         1.88 "Priority Tax Claim" means a Claim that is entitled to priority
+pursuant to Section 507(a)(8) of the Bankruptcy Code.
+
+         1.89 "Professional" means any professional employed in the Chapter 11
+Case pursuant to Sections 327 or 1103 of the Bankruptcy Code or otherwise and
+the professionals seeking compensation or reimbursement of expenses in
+connection with the Chapter 11 Case pursuant to Section 503(b)(4) of the
+Bankruptcy Code.
+
+         1.90 "Professional Fee Claim" means a Claim of a Professional for
+compensation or reimbursement of costs and expenses relating to services
+incurred after the Petition Date and prior to and including the Consummation
+Date.
+
+         1.91 "Pro Rata" means, at any time, the proportion that the Face Amount
+of a Claim in a particular Class bears to the aggregate Face Amount of all
+Claims (including Disputed Claims) in such Class, unless the Plan provides
+otherwise.
+
+         1.92 "Pueblo" means Pueblo International LLC, a Delaware corporation.
+
+         1.93 "Registration Rights Agreement" means an agreement to be entered
+into, if the Alternative Plan is consummated, by the Reorganized Debtor and
+
+
+
+                                       10
+<PAGE>
+
+certain holders of Senior Note Claims with respect to the New Common Stock,
+substantially in the form of Exhibit D to the Plan.
+
+         1.94 "Reinstated" or "Reinstatement" means (i) leaving unaltered the
+legal, equitable, and contractual rights to which a Claim entitles the holder of
+such Claim so as to leave such Claim unimpaired in accordance with Section 1124
+of the Bankruptcy Code or (ii) notwithstanding any contractual provision or
+applicable law that entitles the holder of such Claim to demand or receive
+accelerated payment of such Claim after the occurrence of a default (a) curing
+any such default that occurred before or after the Petition Date, other than a
+default of a kind specified in Section 365(b)(2) of the Bankruptcy Code; (b)
+reinstating the maturity of such Claim as such maturity existed before such
+default; (c) compensating the holder of such Claim for any damages incurred as a
+result of any reasonable reliance by such holder on such contractual provision
+or such applicable law; and (d) not otherwise altering the legal, equitable, or
+contractual rights to which such Claim entitles the holder of such Claim;
+PROVIDED, HOWEVER, that any contractual right that does not pertain to the
+payment when due of principal and interest on the obligation on which such Claim
+is based, including, but not limited to, financial covenant ratios, negative
+pledge covenants, covenants or restrictions on merger or consolidation, and
+affirmative covenants regarding corporate existence prohibiting certain
+transactions or actions contemplated by the Plan, or conditioning such
+transactions or actions on certain factors, shall not be required to be
+reinstated in order to accomplish Reinstatement.
+
+         1.95 "Released Parties"means the Debtor, the Reorganized Debtor, the
+Committee, the Lender, holders of Claims and Interests, the Indenture Trustee
+and their respective current and former members, officers, directors, partners,
+limited partners, common shareholders, controlling persons, employees, agents,
+advisors, representatives, attorneys, accountants, financial advisors,
+professionals and affiliates and any and all current and former members,
+officers, directors, partners, limited partners, common shareholders,
+controlling persons, employees, agents, advisors, representatives, attorneys,
+accountants, financial advisors, professionals and affiliates of the foregoing.
+
+         1.96 "Reorganized Debtor" means reorganized NSC, on and after the
+Consummation Date.
+
+         1.97 "Required Procedures" means that the Debtor shall (i) provide the
+Committee with three (3) Business Days notice prior to using funds in the
+Deposit Account (ii) replenish the Deposit Account as soon as possible after a
+Cash Usage Event, but in no event later than the Consummation Date; (iii) update
+the Committee as to the status of the Deposit Account upon the earlier of (a)
+the Committee's reasonable request and (b) the Update Calls.
+
+         1.98 "Restructuring" means, collectively, the transactions and
+transfers described in Article IV of this Plan.
+
+         1.99 "Schedules" means the schedules of assets and liabilities and the
+statements of financial affairs, if any, filed in the Bankruptcy Court by NSC as
+such schedules or statements may be amended or supplemented from time to time in
+accordance with Fed. R. Bankr. P. 1009 or orders of the Bankruptcy Court.
+
+
+
+
+                                       11
+<PAGE>
+
+         1.100 "Secured Claim" means a Claim that is secured by a security
+interest in or lien upon property, or the proceeds of the sale of such property,
+in which the Debtor has an interest, to the extent of the value, as of the
+Consummation Date or such later date as is established by the Bankruptcy Court,
+of such interest or lien as determined by a Final Order of the Bankruptcy Court
+pursuant to Section 506 of the Bankruptcy Code or as otherwise agreed upon in
+writing by the Debtor or Reorganized Debtor and the holder of such Claim.
+
+         1.101 "Securities Act" means the Securities Act of 1933, 15
+U.S.C.ss.ss. 77a-77aa, as now in effect or hereafter amended.
+
+         1.102 "Senior Note Claim" means a Claim of a Senior Note Holder arising
+under or on an account of the Senior Notes.
+
+         1.103 "Senior Note Holder" means a holder of Senior Notes.
+
+         1.104 "Senior Note Indenture" means collectively (i) the indenture,
+dated July 18, 1993, between NSC and the Indenture Trustee, and (ii) the
+indenture, dated April 29, 1997, between NSC and the Indenture Trustee, pursuant
+to which the Senior Notes were issued.
+
+         1.105 "Senior Notes" means the 9.5% Senior Notes Due August 1, 2003 of
+NSC, issued and outstanding under the Senior Note Indenture.
+
+         1.106 "Setoff Claim" means a Claim, against the Debtor, of a holder
+that has a valid right of setoff with respect to such Claim, which right is
+enforceable under Section 553 of the Bankruptcy Code as determined by a Final
+Order or as otherwise agreed in writing by the Debtor, to the extent of the
+amount subject to such right of setoff.
+
+         1.107 "Stock Options" means the outstanding options to purchase Common
+Stock, as of the Petition Date, if any.
+
+         1.108 "Subordinated Lien" means a lien on the Intercompany Lien, which
+lien shall be subordinate to the secured claims of the New Lender to the extent
+provided in the Intercreditor Agreement and the unsecured claims of the
+Operating Subsidiaries' trade creditors.
+
+         1.109 "Subordinated Stock Pledge" means a pledge of the stock of Pueblo
+and PEI, which stock pledge shall be junior in priority to the pledge of such
+stock to the New Lender to the extent provided in the Intercreditor Agreement.
+
+         1.110 "Substantial Contribution Claim" means a claim for compensation
+or reimbursement of expenses incurred in making a substantial contribution in
+the Chapter 11 Case pursuant to Section 503(b)(3), (4), or (5) of the Bankruptcy
+Code.
+
+         1.111 "Successor Lender" means Westernbank Puerto Rico or its
+successors and assigns.
+
+         1.112 "Total Cash Consideration" means an amount of cash equal to the
+sum of the Cash Consideration and the Additional Cash Consideration.
+
+
+
+                                       12
+<PAGE>
+
+
+         1.113 "Unimpaired Claim" means a Claim that is not an Impaired Claim.
+
+         1.114 "Update Calls" means a call at least once every fourteen (14)
+days by the Debtor to the Committee or its professionals whereby the Debtor will
+(i) update the Committee on the status of the negotiations with respect to the
+New Loan Facility and (ii) if a Cash Usage Event has occurred, when the Debtor
+anticipates that the Deposit Account will be replenished.
+
+         1.115 "Warrants" means the outstanding warrants to purchase Common
+Stock, as of the Petition Date, if any.
+
+C. RULES OF INTERPRETATION
+
+         1. GENERAL
+
+         For purposes of the Plan (a) any reference in the Plan to a contract,
+instrument, release, indenture, or other agreement or document's being in a
+particular form or on particular terms and conditions means that such document
+shall be substantially in such form or substantially on such terms and
+conditions, (b) any reference in the Plan to an existing document or exhibit
+filed or to be filed means such document or exhibit as it may have been or may
+be amended, modified, or supplemented, (c) unless otherwise specified, all
+references in the Plan to Sections, Articles, Schedules, and Exhibits are
+references to Sections, Articles, Schedules, and Exhibits of or to the Plan, (d)
+the words "herein" and "hereto" refer to the Plan in its entirety rather than to
+a particular portion of the Plan, (e) captions and headings to Articles and
+Sections are inserted for convenience of reference only and are not intended to
+be a part of or to affect the interpretation of the Plan, and (f) the rules of
+construction set forth in Section 102 of the Bankruptcy Code and in the
+Bankruptcy Rules shall apply.
+
+         2. RULE OF "CONTRA PROFERENTUM" NOT APPLICABLE
+
+         This Plan is the product of extensive discussions and negotiations
+between and among, INTER ALIA, the Debtor, the Committee, and certain other
+creditors and constituencies. Each of the foregoing was represented by counsel
+who either (a) participated in the formulation and documentation of or (b) was
+afforded the opportunity to review and provide comments on, the Plan, the
+Disclosure Statement, and the documents ancillary thereto. Accordingly, unless
+explicitly indicated otherwise, the general rule of contract construction known
+as "CONTRA PROFERENTUM" shall not apply to the construction or interpretation of
+any provision of this Plan, the Disclosure Statement, or any contract,
+instrument, release, indenture, or other agreement or document generated in
+connection therewith.
+
+D. COMPUTATION OF TIME
+
+         In computing any period of time prescribed or allowed by the Plan, the
+provisions of Fed. R. Bankr. P. 9006(a) shall apply.
+
+
+
+
+                                       13
+<PAGE>
+
+                                  ARTICLE II.
+
+                     CLASSIFICATION OF CLAIMS AND INTERESTS
+
+A. INTRODUCTION
+
+         All Claims and Interests, Administrative Claims and Priority Tax
+Claims, are placed in the Classes set forth below. In accordance with Section
+1123(a)(1) of the Bankruptcy Code, Administrative Claims and Priority Tax
+Claims, as described below, have not been classified.
+
+         A Claim or Interest is placed in a particular Class only to the extent
+that a Claim or Interest falls within the description of that Class, and is
+classified in other Classes to the extent that any portion of the Claim or
+Interest falls within the description of such other Classes. A Claim is also
+placed in a particular Class for the purpose of receiving distributions pursuant
+to the Plan only to the extent that such Claim is an Allowed Claim in that Class
+and such Claim has not been paid, released, or otherwise settled prior to the
+Consummation Date.
+
+B. UNCLASSIFIED CLAIMS (NOT ENTITLED TO VOTE ON THE PLAN)
+
+         1. ADMINISTRATIVE CLAIMS
+
+         2. PRIORITY TAX CLAIMS
+
+C. UNIMPAIRED CLASSES OF CLAIMS (DEEMED TO HAVE ACCEPTED THE PLAN AND,
+   THEREFORE, NOT ENTITLED TO VOTE)
+
+         1. CLASS 1: LENDER SECURED CLAIMS
+
+         Class 1 consists of all Claims against NSC, secured by and to the
+extent of the value (as of the Petition Date), if any, of the Collateral
+securing such Claims directly or indirectly arising from or under, or relating
+in any way to, the Credit Documents.
+
+         2. CLASS 3 INTERCOMPANY CLAIMS
+
+         Class 3 consists of all Intercompany Claims.
+
+         3. CLASS 5: EQUITY SECURITIES INTERESTS
+
+         Class 5 consists of, with respect to the Primary Plan, all Interests in
+NSC directly or indirectly arising from or under, or relating in any way to, any
+of the Equity Securities of NSC.
+
+D. IMPAIRED CLASSES OF CLAIMS AND INTERESTS (CLASS 2 IS ENTITLED TO
+   VOTE ON THE PLAN)
+
+         1. CLASS 2: SENIOR NOTE CLAIMS
+
+         Class 2 consists of all Senior Note Claims against NSC. Notwithstanding
+anything contained in this Plan to the contrary, the Class 2 Senior Note Claims
+shall be deemed Allowed Class 2 Senior Note Claims in the aggregate amount of
+$187.3 million.
+
+
+
+                                       14
+<PAGE>
+
+         2. CLASS 4 INSIDER CLAIMS
+
+         Class 4 consists of all Insider Claims.
+
+         3. CLASS 5: EQUITY SECURITIES INTERESTS
+
+         Class 5 consists of, with respect to the Alternative Plan, all
+Interests in NSC directly or indirectly arising from or under, or relating in
+any way to, any of the Equity Securities of NSC.
+
+                                  ARTICLE III.
+
+                        TREATMENT OF CLAIMS AND INTERESTS
+
+A. UNCLASSIFIED CLAIMS
+
+         1. ADMINISTRATIVE CLAIMS
+
+         Except as otherwise provided for herein, and subject to the
+requirements of Article XIII.A.1 hereof, on, or as soon as reasonably
+practicable after, the latest of (i) the Distribution Date, (ii) the date such
+Administrative Claim becomes an Allowed Administrative Claim, or (iii) the date
+such Administrative Claim becomes payable pursuant to any agreement between the
+Debtor and the holder of such Administrative Claim, each holder of an Allowed
+Administrative Claim shall receive in full satisfaction, settlement, release,
+and discharge of and in exchange for such Allowed Administrative Claim (a) Cash
+equal to the unpaid portion of such Allowed Administrative Claim or (b) such
+other treatment as to which the Debtor and such holder shall have agreed upon in
+writing.
+
+         2. PRIORITY TAX CLAIMS
+
+         On, or as soon as reasonably practicable after, the later of (i) the
+Distribution Date or (ii) the date such Priority Tax Claim becomes an Allowed
+Priority Tax Claim, each holder of an Allowed Priority Tax Claim shall receive
+in full satisfaction, settlement, release, and discharge of and in exchange for
+such Allowed Priority Tax Claim (a) Cash equal to the unpaid portion of such
+Allowed Priority Tax Claim, (b) Cash payments over time in an aggregate
+principal amount equal to the amount of such Allowed Priority Tax Claim plus
+interest on the unpaid portion thereof at the interest rate available on ninety
+(90) day United States Treasuries from the Consummation Date through the date of
+payment thereof, or (c) such other treatment as to which NSC and such holder
+shall have agreed upon in writing. Cash payments of principal shall be made in
+annual installments, each such installment amount being equal to ten percent
+(10%) of such Allowed Priority Tax Claim plus accrued and unpaid interest, with
+the first payment to be due on or before the first anniversary of the
+Consummation Date, or as soon thereafter as is practicable, and subsequent
+payments to be due on the anniversary of the first payment date or as soon
+thereafter as is practicable; PROVIDED, HOWEVER, that any installments remaining
+unpaid on the date that is six years after the date of assessment of the tax
+that is the basis for the Allowed Priority Tax Claim shall be paid on the first
+Business Day following such date, or as soon thereafter as is practicable
+
+
+
+                                       15
+<PAGE>
+
+together with any accrued and unpaid interest to the date of payment; and
+PROVIDED FURTHER, that that Debtor reserves the right to pay any Allowed
+Priority Tax Claim, or any remaining balance of any Allowed Priority Tax Claim,
+in full at any time on or after the Distribution Date without premium or
+penalty; and PROVIDED FURTHER, that no holder of an Allowed Priority Tax Claim
+shall be entitled to any payments on account of any pre-Consummation Date
+interest accrued on or penalty arising after the Petition Date with respect to
+or in connection with such Allowed Priority Tax Claim.
+
+B. UNIMPAIRED CLASSES OF CLAIMS
+
+         1. CLASS 1: LENDER SECURED CLAIMS
+
+         On, or as soon as reasonably practicable after, the latest of (i) the
+Distribution Date, (ii) the date such Class 1 Lender Secured Claim becomes an
+Allowed Class 1 Lender Secured Claim, or (iii) the date such Class 1 Lender
+Secured Claim becomes payable pursuant to any agreement between NSC or the
+Operating Subsidiaries and the holder of such Class 1 Lender Secured Claim, each
+holder of an Allowed Class 1 Lender Secured Claim shall receive in full
+satisfaction, settlement, release, and discharge of and in exchange for such
+Allowed Class 1 Lender Secured Claim (a) cash from the Operating Subsidiaries
+equal to the unpaid portion of such Allowed 1 Lender Secured Claim, including
+accrued but unpaid interest at the contract rate through the date of payment, or
+(b) such other treatment as to which NSC and such holder shall have agreed upon
+in writing.
+
+         2. CLASS 3: INTERCOMPANY CLAIMS
+
+         On the Effective Date, each holder of an Allowed Class 3 Intercompany
+Claim shall have its Claim Reinstated.
+
+         3. CLASS 5: EQUITY SECURITIES INTEREST
+
+         Pursuant to the Primary Plan, each holder of an Allowed Equity
+Securities Interest shall retain such Equity Securities Interest.
+
+C. IMPAIRED CLASSES OF CLAIMS
+
+         1. CLASS 2: SENIOR NOTE CLAIMS
+
+         (a) On, or as soon as reasonably practicable after, the Distribution
+Date, the Debtor or the Reorganized Debtor, as the case may be, shall distribute
+to the Indenture Trustee, for the ratable benefit of the holders of Allowed
+Class 2 Senior Note Claims, and in full satisfaction, settlement, release, and
+discharge of and in exchange for all such Allowed Class 2 Senior Note Claims,
+either (A) Primary Plan Consideration or (B) if the Direction Letter has been
+issued, the Alternative Plan Consideration. The Indenture Trustee shall, in
+accordance with the terms of the Senior Note Indenture, promptly distribute to
+each holder of an Allowed Class 2 Senior Note Claim, as of the Distribution
+Record Date, such holder's Pro Rata share of the Total Cash Consideration and
+the New Senior Notes or the Alternative Plan Consideration, as the case may be.
+
+         (b) Any holder of an Allowed Class 2 Senior Note Claim that casts a
+vote in favor of the Plan shall be deemed to have consented to the Committee
+exercising its right to issue or withdraw any Direction Letter.
+
+
+
+
+                                       16
+<PAGE>
+
+         2. CLASS 4: INSIDER CLAIMS
+
+         Each holder of Class 4 Insider Claim shall not receive a distribution
+on account of such Insider Claim and all such Insider Claims, if any, shall be
+deemed to be disallowed. Each holder of a Class 4 Insider Claim is deemed to
+reject the Plan.
+
+         3. CLASS 5: EQUITY SECURITIES INTEREST
+
+         Pursuant to the Alternative Plan, each holder of an Allowed Equity
+Securities Interest shall not receive a distribution on or account of such
+Equity Securities Interest and all such Equity Securities Interests shall be
+cancelled. Each holder of a Class 5 Equity Securities Claim is deemed to reject
+the Alternative Plan.
+
+D. SPECIAL PROVISION REGARDING UNIMPAIRED CLAIMS
+
+         Except as otherwise provided in the Plan, nothing shall affect the
+Debtor's or Reorganized Debtor's rights and defenses, both legal and equitable,
+with respect to any Unimpaired Claims, including, but not limited to, all rights
+with respect to legal and equitable defenses to Setoff Claims or recoupments
+against Unimpaired Claims.
+
+                                  ARTICLE IV.
+
+                      MEANS FOR IMPLEMENTATION OF THE PLAN
+
+A. CONTINUED CORPORATE EXISTENCE
+
+         NSC shall continue to exist after the Consummation Date as a separate
+corporate entity, in accordance with the laws of the State of Delaware, and
+pursuant to its certificate of incorporation and bylaws in effect prior to the
+Consummation Date, except to the extent such certificate of incorporation and by
+laws are amended by this Plan.
+
+B. CORPORATE ACTION
+
+         1. CANCELLATION OF SENIOR NOTES AND SENIOR NOTE INDENTURE
+
+         On the Consummation Date, except as otherwise provided for herein, (i)
+the Senior Notes and any other note, bond, indenture, or other instrument or
+document evidencing or creating any indebtedness or obligation of the Debtor,
+shall be canceled, and (ii) the obligations of the Debtor under any agreements,
+indentures or certificates of designations governing the Senior Notes and any
+other note, bond, indenture or other instrument or document evidencing or
+creating any indebtedness or obligation of the Debtor, shall be discharged;
+PROVIDED, HOWEVER, that each indenture or other agreement that governs the
+rights of the holder of a Claim and that is administered by an indenture
+trustee, an agent, or a servicer shall continue in effect solely for the
+purposes of (i) allowing such indenture trustee, agent, or servicer to make the
+distributions be made on account of such Claims under the Plan as provided in
+Article III hereof and (ii) permitting such indenture trustee, agent, or
+servicer to maintain any rights or liens it may have for fees, costs and
+
+
+
+
+                                       17
+<PAGE>
+
+expenses under such indenture or other agreement; PROVIDED, FURTHER, that the
+provisions of clause (ii) of this paragraph shall not affect the discharge of
+the Debtor's liabilities under the Bankruptcy Code and the Confirmation Order or
+result in any expense or liability to the Reorganized Debtor. The Reorganized
+Debtor shall not have any obligations to any indenture trustee, agent or
+servicer (or to any Disbursing Agent replacing such indenture trustee, agent or
+servicer) for any fees, costs or expenses; PROVIDED, HOWEVER, that nothing
+herein shall preclude such indenture trustee, agent or servicer (or any
+Disbursing Agent replacing such indenture trustee, agent or servicer) from being
+paid or reimbursed for pre-petition and post-petition fees, costs and expenses
+from the distributions until payment in full of such fees, costs or expenses
+that are governed by the respective indenture or other agreement in accordance
+with the provisions set forth therein.
+
+         Any actions taken by an indenture trustee, an agent, or a servicer that
+are not for the purposes authorized in this Article IV.B.1 of the Plan shall not
+be binding upon the Debtor. Notwithstanding the foregoing, the Debtor may
+terminate any indenture or other governing agreement and the authority of any
+indenture trustee, agent, or servicer to act thereunder at any time, with or
+without cause, by giving five (5) days written notice of termination to the
+indenture trustee, agent, or servicer. If distributions under the Plan have not
+been completed at the time of termination of the indenture or other governing
+agreement, the Debtor shall designate a Disbursing Agent to act in place of the
+indenture trustee, agent, or servicer, and the provisions of this Article IV.B.1
+shall be deemed to apply to the new distribution agent.
+
+         2. AMENDED CERTIFICATE OF INCORPORATION AND BY-LAWS
+
+         The certificate of incorporation and by-laws of the Debtor shall be
+amended as necessary to satisfy the provisions of the Plan and the Bankruptcy
+Code and shall include, among other things, pursuant to Section 1123(a)(6) of
+the Bankruptcy Code, (x) a provision prohibiting the issuance of non-voting
+equity securities, and if applicable (y) a provision as to the classes of
+securities issued pursuant to the Plan or thereafter possessing voting power,
+for an appropriate distribution of such power among such classes, including, in
+the case of any class of equity securities having a preference over another
+class of equity securities with respect to dividends, adequate provisions for
+the election of directors representing such preferred class in the event of
+default in the payment of such dividends. On the Effective Date or as soon
+thereafter as is practicable, the Reorganized Debtor shall file with the
+Secretary of the State of Delaware in accordance with Sections 103 and 303 of
+the Delaware General Corporate Law, the applicable amended certificate of
+incorporation.
+
+         3. OTHER GENERAL CORPORATE MATTERS
+
+         On or after the Effective Date, the Reorganized Debtor will be
+authorized to take such action as is necessary under the laws of the State of
+Delaware, federal law and other applicable law to effect the terms and
+provisions of the Plan. Without limiting the foregoing, the issuance of the New
+Common Stock, the election and the appointment of directors or officers, and any
+other matter involving the corporate structure of the Reorganized Debtor shall
+be deemed to have occurred and shall be in effect from and after the Effective
+Date pursuant to Section 303 of the Delaware General Corporate Law without any
+requirement of further action by the stockholders or directors of the Debtor or
+the Reorganized Debtor.
+
+
+
+
+                                       18
+<PAGE>
+
+C. RESTRUCTURING TRANSACTIONS
+
+         1. NEW SECURITIES
+
+                  (a) Authorization
+
+         As of the Consummation Date, the issuance by the Reorganized Debtor of
+(i) $90 million in principal amount of New Senior Notes or, (ii) if the
+Direction Letter has been issued, up to $125 million in principal amount of
+Alternative Plan Notes and 1,000,000 shares of New Common Stock, in each case
+are hereby authorized without further act or action under applicable law,
+regulation, order or rule.
+
+                  (b) Issuance
+
+         The New Senior Notes or the Alternative Plan Notes and the New Common
+Stock, as the case may be, authorized pursuant to Article IV.C.1 hereof shall be
+issued by the Reorganized Debtor pursuant to the Plan without further act or
+action under applicable law, regulation, order or rule.
+
+D. DIRECTORS AND OFFICERS
+
+         Under the Primary Plan, the directors and officers of the Debtor before
+the Consummation Date will serve as the initial directors and officers after the
+Consummation Date. If the Alternative Plan is consummated, the initial directors
+and officers of the Reorganized Debtor shall be determined by the Committee on
+or before the Consummation Date of the Alternative Plan. Those directors and
+officers of the Debtor, if any, who continue to serve after the Consummation
+Date shall not be liable to any Person for any Claim that arose prior to the
+Consummation Date in connection with such directors service to the Debtor, in
+their capacity as director. If the Alternative Plan is consummated, the Debtor's
+officers agree to cooperate with, and provide reasonable assistance to, the
+Committee and its designated senior management team. The board of directors of
+the Reorganized Debtor shall have the responsibility for the management,
+control, and operation of the Reorganized Debtor on and after the Consummation
+Date.
+
+E. REVESTING OF ASSETS
+
+         The property of the Estate, together with any property of the Debtor
+that is not property of the Estate and that is not specifically disposed of
+pursuant to the Plan, including, but not limited to, the Intercompany Liens,
+shall revest in the Reorganized Debtor on the Consummation Date and hereafter,
+the Debtor may operate its business and may use, acquire, and dispose of
+property free of any restrictions of the Bankruptcy Code, the Bankruptcy Rules,
+and the Bankruptcy Court.
+
+         The Reorganized Debtor, the Operating Subsidiaries, the New Indenture
+Trustee and the New Lender agree to enter into the Intercreditor Agreement which
+shall provide INTER ALIA, that any claims of the Reorganized Debtor and the New
+Indenture Trustee on account of the intercompany notes secured by the
+Intercompany Liens shall be subordinate to the secured claims of the New Lender
+and the unsecured claims of the Operating Subsidiaries' trade creditors.
+
+
+
+                                       19
+<PAGE>
+
+Further, the Reorganized Debtor shall grant to the New Indenture Trustee, for
+the benefit of the New Senior Note holders, the Subordinated Lien.
+
+         As of the Consummation Date, all property of the Debtor shall be free
+and clear of all Claims and Interests, except as specifically provided in the
+Plan or the Confirmation Order. Without limiting the generality of the
+foregoing, the Debtor may, without application to or approval by the Bankruptcy
+Court, pay fees that it incurs after the Consummation Date for professional fees
+and expenses.
+
+F. PRESERVATION OF RIGHTS OF ACTION; SETTLEMENT OF LITIGATION CLAIMS
+
+         Except as otherwise provided in this Plan or the Confirmation Order, or
+in any contract, instrument, release, indenture or other agreement entered into
+in connection with the Plan, in accordance with Section 1123(b) of the
+Bankruptcy Code, the Reorganized Debtor shall retain and may enforce, sue on,
+settle, or compromise (or decline to do any of the foregoing) all claims, rights
+or causes of action, suits, and proceedings, whether in law or in equity,
+whether known or unknown, that the Debtor or the Estate may hold against any
+Person or entity. The Reorganized Debtor or its successor(s) may pursue such
+retained claims, rights or causes of action, suits, or proceedings as
+appropriate, in accordance with the best interests of the Reorganized Debtor or
+its successor(s)who hold such rights.
+
+G. EXCLUSIVITY PERIOD
+
+         Except as set forth in the Exclusivity Order, the Debtor shall retain
+the exclusive right to amend or modify the Plan, and to solicit acceptances of
+any amendments to or modifications of the Plan, through and until the
+Consummation Date.
+
+H. EFFECTUATING DOCUMENTS; FURTHER TRANSACTIONS
+
+         The chairman of the board of directors, president, chief financial
+officer, or any other appropriate officer of NSC shall be authorized to execute,
+deliver, file, or record such contracts, instruments, releases, indentures, and
+other agreements or documents, and take such actions as may be necessary or
+appropriate to effectuate and further evidence the terms and conditions of the
+Plan. The secretary or assistant secretary of NSC shall be authorized to certify
+or attest to any of the foregoing actions.
+
+I. EXEMPTION FROM CERTAIN TRANSFER TAXES
+
+         Pursuant to Section 1146(c) of the Bankruptcy Code, the issuance,
+transfer, or exchange of a security, or the making of delivery of an instrument
+of transfer from the Debtor to the Reorganized Debtor or any other Person or
+entity pursuant to the Plan may not be taxed under any law imposing a stamp tax
+or similar tax, and the Confirmation Order shall direct the appropriate state or
+local governmental officials or agents to forego the collection of any such tax
+or governmental assessment and to accept for filing and recordation any of the
+foregoing instruments or other documents without the payment of any such tax or
+governmental assessment.
+
+
+
+
+                                       20
+<PAGE>
+
+                                   ARTICLE V.
+
+                       ACCEPTANCE OR REJECTION OF THE PLAN
+
+A. CLASSES ENTITLED TO VOTE
+
+         Each Impaired Class of Claims that will (or may) receive or retain
+property or any interest in property under the Plan, shall be entitled to vote
+to accept or reject the Plan. By operation of law, each Unimpaired Class of
+Claims is deemed to have accepted the Plan and, therefore, is not entitled to
+vote to accept or reject the Plan.
+
+B. ACCEPTANCE BY IMPAIRED CLASSES
+
+         An Impaired Class of Claims shall have accepted the Plan if (i) the
+holders (other than any holder designated under Section 1126(e) of the
+Bankruptcy Code) of at least two-thirds in amount of the Allowed Claims actually
+voting in such Class have voted to accept the Plan and (ii) the holders (other
+than any holder designated under Section 1126(e) of the Bankruptcy Code) of more
+than one-half in number of the Allowed Claims actually voting in such Class have
+voted to accept the Plan. An Impaired Class of Interests shall have accepted the
+Plan if (i) the holders (other than any holder designated under Section 1126(e)
+of the Bankruptcy Code) of at least two-thirds in amount of the Allowed
+Interests actually voting in such Class have voted to accept the Plan.
+
+                                  ARTICLE VI.
+
+                             SECURITIES TO BE ISSUED
+                           IN CONNECTION WITH THE PLAN
+
+         On or before the Distribution Date, the Reorganized Debtor shall issue
+for distribution in accordance with the provisions of the Plan (A) the New
+Senior Notes or (B) if the Direction Letter is issued, the Alternative Plan
+Consideration, each for distribution pursuant to the provisions of the Plan or
+the Alternative Plan, as the case may be, and the New Senior Note Indenture. All
+securities to be issued will be deemed issued as of the Distribution Date
+regardless of the date on which they are actually distributed. The form of
+indenture governing the New Senior Notes shall be attached as an exhibit to the
+Plan.
+
+                                  ARTICLE VII.
+
+                       PROVISIONS GOVERNING DISTRIBUTIONS
+
+A. DISTRIBUTIONS FOR CLAIMS ALLOWED AS OF THE CONSUMMATION DATE
+
+         Except as otherwise provided herein or as ordered by the Bankruptcy
+Court, distributions to be made on account of Claims that are Allowed Claims as
+of the Consummation Date shall be made on the Distribution Date, or as soon
+thereafter as practicable. The New Securities to be issued under this Plan shall
+be deemed issued as of the Distribution Date regardless of the date on which
+they are actually distributed. Distributions on account of Claims that first
+
+
+
+                                       21
+<PAGE>
+
+become Allowed Claims after the Consummation Date shall be made pursuant to
+Articles III, VII, and VIII of this Plan.
+
+B. INTEREST ON CLAIMS
+
+         Except for interest, fees and expenses owed and owing to the Lender
+pursuant to the Credit Documents, unless otherwise specifically provided by this
+Plan or the Confirmation Order, or by applicable bankruptcy law, post-petition
+interest shall not accrue and not be paid on Allowed Claims when due under the
+contract, agreement, or other instrument governing the terms and conditions of
+the obligation comprising such Allowed Claim. Post-petition interest shall
+accrue and be paid upon any Disputed Claim in respect of the period from the
+Consummation Date to the date a final distribution is made thereon, if and after
+such Disputed Claim becomes an Allowed Claim.
+
+C. DISBURSING AGENT
+
+         The Disbursing Agent shall make all distributions required under this
+Plan (subject to the provisions of Articles III and VIII hereof) except
+distributions to the holders of Allowed Class 2 Senior Note Claims, which
+distributions shall be deposited with the Indenture Trustee, who shall deliver
+such distributions to the holders of such Claims in accordance with the
+provisions of this Plan and the terms of the Senior Note Indenture.
+
+         If the Disbursing Agent is an independent third party designated by the
+Reorganized Debtor to serve in such capacity, such Disbursing Agent shall
+receive, without further Bankruptcy Court approval, reasonable compensation for
+distribution services rendered pursuant to the Plan and reimbursement of
+reasonable out-of-pocket expenses incurred in connection with such services from
+the Reorganized Debtor on terms acceptable to the Reorganized Debtor. No
+Disbursing Agent shall be required to give any bond or surety or other security
+for the performance of its duties unless otherwise ordered by the Bankruptcy
+Court. If otherwise so ordered, all costs and expenses of procuring any such
+bond shall be paid by the Reorganized Debtor.
+
+D. SURRENDER OF SECURITIES OR INSTRUMENTS
+
+         On or before the Distribution Date, or as soon as practicable
+thereafter, each holder of an instrument evidencing a Claim on account of Senior
+Notes (a "Certificate") shall surrender such Certificate to the Indenture
+Trustee and such Certificate shall be cancelled. No distribution of property
+hereunder shall be made by the Indenture Trustee to any such holder unless and
+until such Certificate is received by the Indenture Trustee, or the
+unavailability of such Certificate is reasonably established to the satisfaction
+of the Indenture Trustee. Any such holder who fails to surrender or cause to be
+surrendered such Certificate or fails to execute and deliver an affidavit of
+loss and indemnity reasonably satisfactory to the Indenture Trustee prior to the
+second (2nd) anniversary of the Consummation Date, shall be deemed to have
+forfeited all rights and Claims in respect of such Certificate and shall not
+participate in any distribution hereunder, and all property in respect of such
+forfeited distribution, including interest accrued thereon, shall revert to the
+Reorganized Debtor notwithstanding any federal or state escheat laws to the
+contrary.
+
+
+
+                                       22
+<PAGE>
+
+E. INSTRUCTIONS TO DISBURSING AGENT
+
+         Prior to any distribution on account of an Allowed Class 2 Senior Note
+Claim, the Indenture Trustee shall instruct the Disbursing Agent, in a form and
+manner that the Disbursing Agent reasonably determines to be acceptable, of the
+names of the holders of Allowed Class 2 Senior Note Claims, and the face amount
+of New Senior Notes or, if the Direction Letter is issued, the Alternative Plan
+Notes, to be issued and distributed to or on behalf of such holders of Allowed
+Class 2 Senior Note Claims in exchange for properly surrendered Senior Notes.
+
+F. SERVICES OF INDENTURE TRUSTEES, AGENTS, AND SERVICERS
+
+         The services, with respect to consummation of the Plan, of indenture
+trustees, agents, and servicers under indentures and other agreements that
+govern the rights of holders of Claims, shall be as set forth in Article IV.B.1
+and elsewhere in the Plan.
+
+G. RECORD DATE FOR DISTRIBUTIONS TO HOLDERS OF DEBT SECURITIES
+
+         At the close of business on the Distribution Record Date, the transfer
+ledgers for the Senior Notes shall be closed, and there shall be no further
+changes in the record holders of the Senior Notes. The Reorganized Debtor and
+the Disbursing Agent, if any, shall have no obligation to recognize any transfer
+of such Senior Notes occurring after the Distribution Record Date and shall be
+entitled instead to recognize and deal for all purposes hereunder with only
+those record holders stated on the transfer ledgers as of the close of business
+on the Distribution Record Date.
+
+H. MEANS OF CASH PAYMENT
+
+         Cash payments made pursuant to this Plan shall be in U.S. funds, by the
+means agreed to by the payor and the payee, including by check or wire transfer,
+or, in the absence of an agreement, such commercially reasonable manner as the
+payor shall determine in its sole discretion.
+
+I. DELIVERY OF DISTRIBUTIONS
+
+         Distributions to holders of Allowed Claims shall be made by the
+Disbursing Agent or Indenture Trustee, as the case may be, (a) at the addresses
+set forth on the proofs of Claim filed by such holders (or at the last known
+addresses of such holders if no proof of Claim is filed or if the Debtor has
+been notified of a change of address), (b) at the addresses set forth in any
+written notices of address changes delivered to the Disbursing Agent after the
+date of any related proof of Claim, (c) at the addresses reflected in the
+Schedules if no proof of Claim has been filed and the Disbursing Agent has not
+received a written notice of a change of address, or (d) in the case of the
+holder of a Claim that is governed by an indenture or other agreement and is
+administered by an indenture trustee, agent, or servicer, at the addresses
+contained in the official records of such indenture trustee, agent, or servicer,
+or (e) at the addresses set forth in a properly completed letter of transmittal
+accompanying securities properly remitted to the Debtors. If any holder's
+distribution is returned as undeliverable, no further distributions to such
+holder shall be made unless and until the Disbursing Agent or the appropriate
+indenture trustee, agent, or servicer is notified of such holder's then current
+
+
+
+
+                                       23
+<PAGE>
+
+address, at which time all missed distributions shall be made to such holder
+without interest. Amounts in respect of undeliverable distributions made through
+the Disbursing Agent or the indenture trustee, agent, or servicer, shall be
+returned to the Reorganized Debtor until such distributions are claimed. All
+claims for undeliverable distributions must be made on or before the second
+(2nd) anniversary of the Consummation Date, after which date all unclaimed
+property shall revert to the Reorganized Debtor free of any restrictions thereon
+and the claim of any holder or successor to such holder with respect to such
+property shall be discharged and forever barred, notwithstanding any federal or
+state escheat laws to the contrary.
+
+J. FRACTIONAL DOLLARS; DE MINIMIS DISTRIBUTIONS
+
+         Any other provision of the Plan notwithstanding, payments of fractions
+of dollars shall not be made. Whenever any payment of a fraction of a dollar
+under the Plan would otherwise be called for, the actual payment made shall
+reflect a rounding of such fraction to the nearest whole dollar (up or down),
+with half dollars being rounded down. The Disbursing Agent, or any indenture
+trustee, agent, or servicer, as the case may be, shall not make any payment of
+less than twenty-five dollars ($25.00) with respect to any Claim unless a
+request therefor is made in writing to such Disbursing Agent, indenture trustee,
+agent, or servicer, as the case may be.
+
+K. WITHHOLDING AND REPORTING REQUIREMENTS
+
+         In connection with this Plan and all distributions hereunder, the
+Disbursing Agent shall, to the extent applicable, comply with all tax
+withholding and reporting requirements imposed by any federal, state, local, or
+foreign taxing authority, and all distributions hereunder shall be subject to
+any such withholding and reporting requirements. The Disbursing Agent shall be
+authorized to take any and all actions that may be necessary or appropriate to
+comply with such withholding and reporting requirements.
+
+L. CALCULATION OF DISTRIBUTION AMOUNTS OF NEW COMMON STOCK
+
+         Under the Alternative Plan, no fractional shares of New Common Stock
+shall be issued or distributed under the Plan by Reorganized Debtor, or the
+Disbursing Agent. Each Person entitled to receive New Common Stock will receive
+the total number of whole shares of New Common Stock to which such Person is
+entitled. Whenever any distribution to a particular Person would otherwise call
+for distribution of a fraction of a share of New Common Stock, the actual
+distribution of shares of such New Common Stock shall be rounded to the next
+higher or lower whole number as follows: (a) fractions 1/2 or greater shall be
+rounded to the next higher whole number, and (b) fractions of less than 1/2
+shall be rounded to the next lower whole number. The total number of shares of
+New Common Stock to be distributed to the holder of a Class 2 Senior Note Claim
+shall be adjusted as necessary to account for the rounding provided for in this
+Article VIII.K. No consideration shall be provided in lieu of fractional shares
+that are rounded down.
+
+M. SETOFFS
+
+         The Reorganized Debtor may, but shall not be required to, set off
+against any Claim, and the payments or other distributions to be made pursuant
+to the Plan in respect of such Claim, claims of any nature whatsoever that the
+Debtor or Reorganized Debtor may have against the holder of such Claim;
+PROVIDED, HOWEVER, that neither the failure to do so nor the allowance of any
+Claim hereunder shall constitute a waiver or release by the Reorganized Debtor
+
+
+                                       24
+<PAGE>
+
+
+of any such claim that the Debtor or Reorganized Debtor may have against such
+holder.
+
+                                 ARTICLE VIII.
+
+                       PROCEDURES FOR RESOLVING DISPUTED,
+                      CONTINGENT, AND UNLIQUIDATED CLAIMS
+
+A. OBJECTION DEADLINE; PROSECUTION OF OBJECTIONS
+
+         As soon as practicable, but in no event later than sixty (60) days
+after the Consummation Date (unless extended by an order of the Bankruptcy
+Court), the Reorganized Debtor shall file objections to Claims with the
+Bankruptcy Court and serve such objections upon the holders of each of the
+Claims to which objections are made. Nothing contained herein, however, shall
+limit the Reorganized Debtor's right to object to Claims, if any, filed or
+amended more than sixty (60) days after the Consummation Date.
+
+B. NO DISTRIBUTIONS PENDING ALLOWANCE
+
+         Notwithstanding any other provision of the Plan, no payments or
+distributions shall be made with respect to all or any portion of a Disputed
+Claim unless and until all objections to such Disputed Claim have been settled
+or withdrawn or have been determined by Final Order, and the Disputed Claim, or
+some portion thereof, has become an Allowed Claim.
+
+C. DISTRIBUTION RESERVE
+
+         1. The Disbursing Agent shall withhold the Distribution Reserve from
+the Cash or other property (other than the New Senior Notes and Total Cash
+Consideration, or, if the Direction Letter is issued, the Alternative Plan
+Consideration, to be distributed to the Indenture Trustee for the ratable
+benefit of the holders of Allowed Class 2 Senior Notes Claims) to be distributed
+under the Plan. As to any Disputed Claim, upon a request for estimation by the
+Debtor, the Bankruptcy Court shall determine what amount is sufficient to
+withhold as the Distribution Reserve. The Debtor may request estimation for
+every Disputed Claim that is unliquidated and the Disbursing Agent shall
+withhold the Distribution Reserve based upon the estimated amount of such Claim
+as set forth in a Final Order. If the Debtor elects not to request such an
+estimation from the Bankruptcy Court with respect to a Disputed Claim that is
+liquidated, the Disbursing Agent shall withhold the Distribution Reserve based
+upon the Face Amount of such Claim.
+
+         2. If practicable, the Disbursing Agent shall invest any Cash that is
+withheld as the Distribution Reserve in a manner that shall yield a reasonable
+net return, taking into account the safety of the investment.
+
+D. DISTRIBUTIONS AFTER ALLOWANCE
+
+         The Reorganized Debtor or the Disbursing Agent, as the case may be,
+shall make payments and distributions from the Distribution Reserve to each
+holder of a Disputed Claim that has become an Allowed Claim in accordance with
+the provisions of the Plan governing the class of Claims to which such holder
+belongs. On the next succeeding interim distribution date after the date that
+
+
+
+
+                                       25
+<PAGE>
+
+the order or judgment of the Bankruptcy Court allowing all or part of such Claim
+becomes a Final Order, the Disbursing Agent shall distribute to the holder of
+such Claim any Cash or other property in the Distribution Reserve that would
+have been distributed on the Distribution Date had such Allowed Claim been
+allowed on the Distribution Date. After a Final Order has been entered, or other
+final resolution has been reached, with respect to each Disputed Claim, any Cash
+or other property remaining in the Distribution Reserve shall become property of
+the Reorganized Debtor. All distributions made under Article VIII.D of the Plan
+on account of an Allowed Claim shall be made together with any dividends,
+payments, or other distributions made on account of, as well as any obligations
+arising from, the distributed property, as if such Allowed Claim had been an
+Allowed Claim on the Distribution Date. Notwithstanding the foregoing, the
+Disbursing Agent shall not be required to make distributions under Article
+VIII.D more frequently than once every 180 days or to make any individual
+payments in an amount less than $25.00.
+
+                                  ARTICLE IX.
+
+                    CONDITIONS PRECEDENT TO CONFIRMATION AND
+                            CONSUMMATION OF THE PLAN
+
+A. CONDITIONS TO CONFIRMATION
+
+         The Bankruptcy Court shall not enter the Confirmation Order unless and
+until (i) the Confirmation Order shall be reasonably acceptable in form and
+substance to the Debtor, the Lender and the Committee and (ii) the Confirmation
+Order includes a finding of fact that the Debtor, the Reorganized Debtor, the
+Committee, and their respective present and former members, officers, directors,
+employees, advisors, attorneys, and agents acted in good faith within the
+meaning of and with respect to all of the actions described in Section 1125(e)
+of the Bankruptcy Code and are therefore not liable for the violation of any
+applicable law, rule, or regulation governing such actions.
+
+B. CONDITIONS TO CONSUMMATION
+
+         The following are conditions precedent to the occurrence of the
+Consummation Date, each of which must be (i) satisfied or (ii) waived in
+accordance with Article IX.C. below:
+
+         1. The Confirmation Order, in form and substance reasonably acceptable
+to the Debtor, the Lender and the Committee, confirming the Plan, as the same
+may have been modified, must have become a Final Order and must, among other
+things, provide that:
+
+                  (a) the Debtor and Reorganized Debtor are authorized and
+directed to take all actions necessary or appropriate to enter into, implement
+and consummate the contracts, instruments, releases, indentures and other
+agreements or documents created in connection with the Plan or the Restructuring
+or, if the Direction Letter is issued, the Alternative Plan;
+
+                  (b) the provisions of the Confirmation Order are nonseverable
+and mutually dependent;
+
+
+
+                                       26
+<PAGE>
+
+                  (c) the transfers of property by the Debtor (a) to the
+Reorganized Debtor (i) are or will be legal, valid, and effective transfers of
+property, (ii) vest or will vest the Reorganized Debtor with good title to such
+property free and clear of all Liens, charges, Claims, encumbrances, or
+Interests, except as expressly provided in the Plan or Confirmation Order, (iii)
+do not and will not constitute avoidable transfers under the Bankruptcy Code or
+under applicable bankruptcy or nonbankruptcy law, and (iv) do not and will not
+subject the Reorganized Debtor to any liability by reason of such transfer under
+the Bankruptcy Code or under applicable nonbankruptcy law, including, without
+limitation, any laws affecting successor or transferee liability, and (b) to
+holders of Claims under the Plan are for good consideration and value and are in
+the ordinary course of the Debtor's business;
+
+                  (d) except as expressly provided in the Plan, the Debtor is
+discharged effective upon the Confirmation Date from any "debt" (as that team is
+defined in Section 101(12) of the Bankruptcy Code), and the Debtor's liability
+in respect thereof is extinguished completely, whether reduced to judgment or
+not, liquidated or unliquidated, contingent or noncontingent, asserted or
+unasserted, fixed or unfixed, matured or unmatured, disputed or undisputed,
+legal or equitable, or known or unknown, or obligation of the Debtor incurred
+before the Confirmation Date, or from any conduct of the Debtor prior to the
+Confirmation Date, or that otherwise arose before the Confirmation Date,
+including, without limitation, all interest, if any, on any such debts, whether
+such interest accrued before or after the Petition Date;
+
+                  (e) the Plan does not provide for the liquidation of all or
+substantially all of the property of the Debtor and its confirmation is not
+likely to be followed by the liquidation of the Reorganized Debtor or the need
+for further financial reorganization; and
+
+                  (f) the New Senior Notes or, if the Direction Letter is
+issued, the Alternative Plan Consideration, issued under the Plan, or the
+Alternative Plan as the case may be, in exchange for Claims against NSC are
+exempt from registration under the Securities Act pursuant to Section 1145 of
+the Bankruptcy Code, except to the extent that holders of New Senior Notes, or
+the Alternative Plan Consideration as the case may be, are "underwriters," as
+that term is defined in Section 1145 of the Bankruptcy Code.
+
+         2. The Credit Parties shall have entered into the New Loan Facility,
+PROVIDED that this shall not be a condition under the Alternative Plan.
+
+         3. Under the Primary Plan, the amount drawn under the New Loan Facility
+shall be less than or equal to $61.5 million plus letters of credit, PROVIDED
+that this shall not be a condition under the Alternative Plan.
+
+         4. Under the Alternative Plan, the drawn amount under the new loan
+facility for the Operating Subsidiaries shall not exceed $35 million (net of
+excess cash), PROVIDED that this shall not be a condition under the Primary
+Plan.
+
+         5. The Debtor shall not have entered into, and shall not have permitted
+any of its Operating Subsidiaries to enter into, any agreement containing change
+in control or employee severance provisions with any employees or otherwise
+
+
+
+                                       27
+<PAGE>
+
+except as disclosed to the Committee prior to the January 17, 2003 or as
+otherwise consented to by the Committee, which consent shall not be unreasonably
+withheld.
+
+         6. The Debtor shall not have taken any action to increase the amount of
+the prepayment penalty on account of a change of control in the Extension
+Agreement that would come due after the 180th day after the effective date of
+the Extension Agreement to exceed $2.4 million without obtaining the prior
+consent of the Committee.
+
+         7. The Consummation Date shall have occurred on or before September 30,
+2003.
+
+         8. The following agreements, in form reasonably satisfactory to the
+Debtor or Reorganized Debtor and the Committee, as the case may be, shall have
+been executed and delivered, and all conditions precedent thereto shall have
+been satisfied:
+
+                  (a) Amended Certificate of Incorporation and Bylaws of NSC;
+
+                  (b) Intercreditor Agreement;
+
+                  (c) New Senior Note Indenture; and
+
+                  (d) the Registration Rights Agreement, if the Alternative Plan
+is consummated.
+
+         9. The Cash Consideration shall be $51 million, of which $15 million
+shall be contributed by Existing Equity, provided that this shall not be a
+condition under the Alternative Plan.
+
+         10. The New Senior Notes, or the Alternative Plan Notes, as the case
+may be, shall be secured by the Subordinated Lien and the Subordinated Stock
+Pledge.
+
+         11. Existing Equity shall have paid the Excess Prepayment Penalty, if
+payable and barring the occurrence of any of the Excess Prepayment Penalty
+Exceptions.
+
+         12. The Operating Subsidiaries shall have deposited into the Deposit
+Account the Additional Cash Consideration on or before each Deposit Date and the
+Deposit Account shall have been replenished in full should any portion of the
+cash contained in the Deposit Account have been used for a Cash Usage Event or
+any other event, provided that this shall not be a condition under the
+Alternative Plan.
+
+         13. The Deposit Account shall remain property of the Operating
+Subsidiaries, provided that this only shall be a condition under the Alternative
+Plan.
+
+         14. All actions, documents and agreements necessary to implement the
+Plan shall have been effected or executed.
+
+
+
+                                       28
+<PAGE>
+
+C. WAIVER OF CONDITIONS
+
+         Each of the conditions set forth in Article IX. may be waived in whole
+or in part by the joint written consent of the Debtor or Reorganized Debtor, the
+Committee, and with respect to Articles IX.B.1(a)-(e) and IX.B.7, the Lender in
+their sole and absolute discretion, without any notice to parties in interest or
+the Bankruptcy Court and without a hearing. The failure to satisfy or waive any
+condition to the Consummation Date may be asserted by the Debtor, Reorganized
+Debtor, the Committee or, with respect to Articles IXB.1 (a)-(e) and IX.B.7, the
+Lender regardless of the circumstances giving rise to the failure of such
+condition to be satisfied (including any action or inaction by the Debtor or
+Reorganized Debtor). The failure of the Debtor, Reorganized Debtor, the
+Committee, or the Lender to exercise any of the foregoing rights shall not be
+deemed a waiver of any other rights, and each such right shall be deemed an
+ongoing right that may be asserted at any time.
+
+                                   ARTICLE X.
+
+                          MODIFICATIONS AND AMENDMENTS
+
+         The Debtor, upon the consent of the Committee, may alter, amend, or
+modify the Plan or any Exhibits thereto under Section 1127(a) of the Bankruptcy
+Code at any time prior to the Confirmation Date. After the Confirmation Date and
+prior to substantial consummation of the Plan, as defined in Section 1l0l(2) of
+the Bankruptcy Code, the Debtor may, under Section 1127(b) of the Bankruptcy
+Code, institute proceedings in the Bankruptcy Court to remedy any defect or
+omission or reconcile any inconsistencies in the Plan, the Disclosure Statement,
+or the Confirmation Order, and such matters as may be necessary to carry out the
+purposes and effects of the Plan so long as such Proceedings do not materially
+adversely affect the treatment of holders of Claims or Interests under the Plan;
+PROVIDED, HOWEVER, that prior notice of such proceedings shall be served in
+accordance with the Bankruptcy Rules or order of the Bankruptcy Court.
+
+                                  ARTICLE XI.
+
+                            RETENTION OF JURISDICTION
+
+         Under Sections 105(a) and 1142 of the Bankruptcy Code, and
+notwithstanding entry of the Confirmation Order and occurrence of the
+Consummation Date, the Bankruptcy Court shall retain exclusive jurisdiction over
+all matters arising out of, and related to, the Chapter 11 Case and the Plan to
+the fullest extent permitted by law, including, among other things, jurisdiction
+to:
+
+         A. Allow, disallow, determine, liquidate, classify, estimate or
+establish the priority or secured or unsecured status of any Claim or Interest,
+including the resolution of any request for payment of any Administrative Claim
+and the resolution of any objections to the allowance or of priority Claims or
+Interests;
+
+         B. Hear and determine all applications for compensation and
+reimbursement of expenses of Professionals under the Plan or under Sections 330,
+331, 503(b), 1103 and 1129(a)(4) of the Bankruptcy Code; PROVIDED, HOWEVER, that
+from and after the Consummation Date, the payment of the fees and expenses of
+
+
+
+
+                                       29
+<PAGE>
+
+the retained professionals of the Reorganized Debtor shall be made in the
+ordinary course of business and shall not be subject to the approval of the
+Bankruptcy Court;
+
+         C. Hear and determine any and all adversary proceedings, motions,
+applications, and contested or litigated matters arising out of, under, or
+related to, the Chapter 11 Case, including, but not limited to, any and all
+motions for approval of asset sales by the Debtor filed by the Debtor on or
+before the Consummation Date;
+
+         D. Enter such orders as may be necessary or appropriate to execute,
+implement, or consummate the provisions of the Plan and all contracts,
+instruments, releases, and other agreements or documents created in connection
+with the Plan, the Disclosure Statement or the Confirmation Order;
+
+         E. Hear and determine disputes arising in connection with the
+interpretation, implementation, consummation, or enforcement of the Plan,
+including disputes arising under agreements, documents or instruments executed
+in connection with the Plan;
+
+         F. Consider any modifications of the Plan, cure any defect or omission,
+or reconcile any inconsistency in any order of the Bankruptcy Court, including,
+without limitation, the Confirmation Order;
+
+         G. Issue injunctions, enter and implement other orders, or take such
+other actions as may be necessary or appropriate to restrain interference by any
+entity with implementation, consummation, or enforcement of the Plan or the
+Confirmation Order;
+
+         H. Enter and implement such orders as may be necessary or appropriate
+if the Confirmation Order is for any reason reversed, stayed, revoked, modified,
+or vacated;
+
+         I. Hear and determine any matters arising in connection with or
+relating to the Plan, the Disclosure Statement, the Confirmation Order, or any
+contract, instrument, release, or other agreement or document created in
+connection with the Plan, the Disclosure Statement or the Confirmation Order;
+
+         J. Enforce all orders, judgments, injunctions, releases, exculpations,
+indemnifications and rulings entered in connection with the Chapter 11 Case;
+
+         K. Recover all assets of the Debtor and property of the Debtor's
+Estate, wherever located;
+
+         L. Hear and determine matters concerning state, local, and federal
+taxes in accordance with Sections 346, 505, and 1146 of the Bankruptcy Code;
+
+         M. Hear and determine all disputes involving the existence, nature, or
+scope of the Debtor's discharge;
+
+
+
+
+                                       30
+<PAGE>
+
+
+         N. Hear and determine such other matters as may be provided in the
+Confirmation Order or as may be authorized under, or not inconsistent with,
+provisions of the Bankruptcy Code;
+
+         O. Enter a final decree closing the Chapter 11 Case.
+
+                                  ARTICLE XII.
+
+                           COMPROMISES AND SETTLEMENTS
+
+         Pursuant to Fed. R. Bankr. P. 9019(a), the Debtor may compromise and
+settle various Claims against it and/or claims that it may have against other
+Persons. The Debtor expressly reserves the right (with Bankruptcy Court
+approval, following appropriate notice and opportunity for a hearing) to
+compromise and settle Claims against it and claims that it may have against
+other Persons up to and including the Consummation Date. After the Consummation
+Date, such right shall pass to the Reorganized Debtor or the Estate pursuant to
+Articles IV.E and IV.F of the Plan.
+
+                                 ARTICLE XIII.
+
+                            MISCELLANEOUS PROVISIONS
+
+A. BAR DATES FOR CERTAIN CLAIMS
+
+         1. ADMINISTRATIVE CLAIMS: SUBSTANTIAL CONTRIBUTION CLAIMS
+
+         The Confirmation Order will establish an Administrative Claims Bar Date
+for filing of all Administrative Claims, including Substantial Contribution
+Claims (but not including claims for Professional Fees or the expenses of the
+members of the Committee (if one has been appointed)), which date will be 45
+days after the Consummation Date. Holders of asserted Administrative Claims,
+other than claims for Professional Fees or the expenses of the members of the
+Committee not paid prior to the Consummation Date, must submit proofs of
+Administrative Claim on or before such Administrative Claims Bar Date or forever
+be barred from doing so. A notice prepared by the Reorganized Debtor will set
+forth such date and constitute notice of this Administrative Claims Bar Date.
+The Debtor or Reorganized Debtor, as the case may be, shal1 have 45 days (or
+such longer period as may be allowed by order of the Bankruptcy Court) following
+the Administrative Claims Bar Date to review and object to such Administrative
+Claims before a hearing for determination of allowance of such Administrative
+Claims.
+
+         2. PROFESSIONAL FEE CLAIMS
+
+         All final requests for compensation or reimbursement of Professional
+Fees pursuant to Sections 327, 328, 330, 331, 503(b) or 1103 of the Bankruptcy
+Code for services rendered to the Debtor or the Committee (if one has been
+appointed) prior to the Consummation Date (other than Substantial Contribution
+Claims under Section 503(b)(4) of the Bankruptcy Code) must be filed and served
+on the Reorganized Debtor and its counsel no later than 45 days after the
+Consummation Date, unless otherwise ordered by the Bankruptcy Court. Objections
+to applications of such Professionals or other entities for compensation or
+
+
+                                       31
+<PAGE>
+
+reimbursement of expenses must be filed and served on the Reorganized Debtor and
+its counsel and the requesting Professional or other entity no later than 45
+days (or such longer period as may be allowed by order of the Bankruptcy Court)
+after the date on which the applicable application for compensation or
+reimbursement was served.
+
+B. PAYMENT OF STATUTORY FEES
+
+         All fees payable pursuant to Section 1930 of title 28 of the United
+States Code, as determined by the Bankruptcy Court at the Confirmation shall be
+paid on or before the Consummation Date.
+
+C. SEVERABILITY OF PLAN PROVISIONS
+
+         If, prior to Confirmation, any term or provision of the Plan is held by
+the Bankruptcy Court to be invalid, void or unenforceable, the Bankruptcy Court,
+at the request of the Debtor, shall have the power to alter and interpret such
+term or provision to make it valid or enforceable to the maximum extent
+practicable, consistent with the original purpose of the term or provision held
+to be invalid, void or unenforceable, and such term or provision shall then be
+applicable as altered or interpreted. Notwithstanding any such holding,
+alteration or interpretation, the remainder of the terms and provisions of the
+Plan shall remain in full force and effect and shall in no way be affected,
+impaired or invalidated by such holding, alteration or interpretation. The
+Confirmation Order shall constitute a judicial determination and shall provide
+that each term and provision of the Plan, as it may have been altered or
+interpreted in accordance with the foregoing, is valid and enforceable pursuant
+to its terms.
+
+D. SUCCESSORS AND ASSIGNS
+
+         The rights, benefits and obligations of any entity named or referred to
+in the Plan shall be binding on, and shall inure to the benefit of, any heir,
+executor, administrator, successor or assign of such entity.
+
+E. RELEASES AND SATISFACTION OF SUBORDINATION RIGHTS
+
+         All Claims of the holders of the Senior Notes against the Debtor and
+all rights and claims between or among such holder relating in any manner
+whatsoever to any claimed subordination rights (if any), shall be deemed
+satisfied by the distributions under, described in, contemplated by, and/or
+implemented by this Plan to holders of Claims having such subordination rights,
+and such subordination rights shall be deemed waived, released, discharged, and
+terminated as of the Consummation Date, and all actions related to the
+enforcement of such subordination rights shall be permanently enjoined.
+Distributions under, described in, contemplated by, and/or implemented by this
+Plan to the various Classes of Claims hereunder shall not be subject to levy,
+garnishment, attachment, or like legal process by any holder of a Claim,
+including, but not limited to, holders of Senior Note Claims, by reason of my
+claimed subordination rights or otherwise, so that each holder of a Claim shall
+have and receive the benefit of the distributions in the manner set forth in the
+Plan.
+
+
+
+
+                                       32
+<PAGE>
+
+F. DISCHARGE OF THE DEBTOR
+
+         All consideration distributed under the Plan shall be in exchange for,
+and in complete satisfaction, settlement, discharge, and release of, all Claims
+of any nature whatsoever against the Debtor or any of its assets or properties,
+and, except as otherwise provided herein or in the Confirmation Order, and
+regardless of whether any property shall have been distributed or retained
+pursuant to the Plan on account of such Claims, upon the Consummation Date, the
+Debtor, shall be deemed discharged and released under Section 1141(d)(l)(A) of
+the Bankruptcy Code from any and all Claims, including, but not limited to,
+demands and liabilities that arose before the Confirmation Date, and all debts
+of the kind specified in Sections 502(g), 502(h) or 502(i) of the Bankruptcy
+Code, whether or not (a) a proof of Claim based upon such debt is filed or
+deemed filed under Section 501 of the Bankruptcy Code, (b) a Claim based upon
+such debt is Allowed under Section 502 of the Bankruptcy Code, or (c) the holder
+of a Claim based upon such debt accepted the Plan. The Confirmation Order shall
+be a judicial determination of discharge of all liabilities of the Debtor,
+subject to the Consummation Date occurring.
+
+G. COMMITTEE
+
+         Effective on the Consummation Date, the duties of the Committee shall
+terminate, except with respect to any appeal of an order in the Chapter 11 Case
+and applications for Professional Fees.
+
+H. EXCULPATION AND LIMITATION OF LIABILITY
+
+         Neither the Reorganized Debtor, the Lender, nor the Committee, or any
+of their respective present or former members, officers, directors, employees,
+advisors, attorneys, or agents, shall have or incur any liability to any holder
+of a Claim or an Interest, or any other party in interest, or any of their
+respective agents, employees, representatives, financial advisors, attorneys, or
+affiliates, or any of their successors or assigns, for any act or omission in
+connection with, relating to, or arising out of, the Chapter 11 Case,
+negotiation of the Plan, the solicitation of acceptances of the Plan, the
+pursuit of confirmation of the Plan, the consummation of the Plan, or the
+administration of the Plan or the property to be distributed under the Plan,
+except for their willful misconduct, and in all respects shall be entitled to
+reasonably rely upon the advice of counsel with respect to their duties and
+responsibilities under the Plan. Without limiting any of the foregoing, the
+Committee and its members and advisors shall not incur any liability to any
+holder of a Claim or an Interest, or any other party in interest, or any of
+their respective agents, employees, representatives, financial advisors,
+attorneys, or affiliates, or any of their successors or assigns, for any act or
+omission in connection with, relating to, or arising out of, any issuance or
+withdrawal of the Direction Letter.
+
+         Notwithstanding any other provision of this Plan, no holder of a Claim
+or Interest, no other party in interest, none of their respective agents,
+employees, representatives, financial advisors, attorneys, or affiliates, and no
+successors or assigns of the foregoing, shall have any right of action against
+the Reorganized Debtor, or any statutory committee, or any of their respective
+present or former members, officers, directors, employees, advisors, attorneys,
+or agents, for any act or omission in connection with, relating to, or arising
+
+
+
+                                       33
+<PAGE>
+
+out of, the Chapter 11 Case, the solicitation of acceptances of the Plan, the
+pursuit of confirmation of the Plan, the consummation of the Plan, or the
+administration of the Plan or the property to be distributed under the Plan,
+except for their willful misconduct.
+
+         The foregoing exculpation and limitation on liability shall not,
+however, limit, abridge, or otherwise affect the rights, if any, of the
+Reorganized Debtor to enforce, sue on, settle, or compromise the Litigation
+Claims retained pursuant to Article IV.F hereof.
+
+I. PERMANENT INJUNCTION
+
+         Except as otherwise expressly provided in the Plan or the Confirmation
+Order, all entities who have held, hold or may hold Claims against, or Interests
+in, the Debtor will be permanently enjoined, on and after the Consummation Date,
+from (i) commencing or continuing in any manner any action or other proceeding
+of any kind with respect to any such Claim or Interest, (ii) the enforcement,
+attachment, collection, or recovery by any manner or means of judgment, award,
+decree or order against the Debtor on account of any such Claim or Interest,
+(iii) creating, perfecting, or enforcing any encumbrance of any kind against the
+Debtor or against the property or interests in property of the Debtor on account
+of any such Claim or Interest, and (iv) asserting any right of setoff,
+subrogation, or recoupment of any kind against any obligation due from the
+Debtor or against the property or interests in property of the Debtor on account
+of any such Claim or Interest. The foregoing the injunction will extend to
+successors of the Debtor (including, without limitation, the Reorganized Debtor)
+and their respective properties and interests in property.
+
+J. RELEASES
+
+         The distributions provided for in this Plan are in full satisfaction,
+settlement, release and discharge of all Claims against and Interests in the
+Debtor and its Estate. Effective as of the Confirmation Date, but subject to the
+occurrence of the Consummation Date, and except as otherwise provided in this
+Plan or the Confirmation Order, each Released Party shall be deemed to have
+released the other Released Parties from all Claims, obligations, rights, causes
+of action or liabilities which any such Person is, or may be, entitled to
+assert, whether known or unknown, foreseen or unforeseen, existing or hereafter
+arising, based in whole or in part upon any act or omission, transaction, or
+occurrence taking place on or before the Consummation Date in any way relating
+to the Debtor, this Chapter 11 Case, or this Plan.
+
+K. BINDING EFFECT
+
+         The Plan shall be binding upon and inure to the benefit of the Debtor,
+all present and former holders of Claims against and Interests in the Debtor,
+their respective successors and assigns, including, but not limited to, the
+Reorganized Debtor, and all other parties-in-interest in this Chapter 11 Case.
+
+L. REVOCATION, WITHDRAWAL, OR NON-CONSUMMATION
+
+         The Debtor reserves the right to revoke or withdraw the Plan at any
+time prior to the Confirmation Date and to file subsequent plans of
+reorganization. If the Debtor revokes or withdraws the Plan, or if Confirmation
+or Consummation does not occur, then (i) the Plan shall be null and void in all
+
+
+
+                                       34
+<PAGE>
+
+respects, (ii) any settlement or compromise embodied in the Plan (including the
+fixing or limiting to an amount certain any Claim or Class of Claims), and any
+document or agreement executed pursuant to the Plan shall be deemed null and
+void, and (iii) nothing contained in the Plan, and no acts taken in preparation
+for consummation of the Plan, shall (a) constitute or be deemed to constitute a
+waiver or release of any Claims by or against, or any Interests in, the Debtor
+or any other Person, (b) prejudice in any manner the rights of the Debtor or any
+Person in any further proceedings involving a Debtor, or (iii) constitute an
+admission of any sort by the Debtor or any other Person.
+
+M. PLAN SUPPLEMENT
+
+         Any and all exhibits, lists, or schedules not filed with the Plan shall
+be contained in the Plan Supplement and filed with the Clerk of the Bankruptcy
+Court not later than the tenth (10th) day prior to the Consummation Date. Upon
+its filing with the Bankruptcy Court, the Plan Supplement may be inspected in
+the office of the Clerk of the Bankruptcy Court during normal court hours.
+Holders of Claims or Interests may obtain a copy of the Plan Supplement upon
+written request to the Debtor in accordance with Article XIII.N of the Plan.
+
+N. NOTICES
+
+         Any notice, request, or demand required or permitted to be made or
+provided to or upon a Debtor, Reorganized Debtor or Committee under the Plan
+shall be (i) in writing, (ii) served by (a) certified mail, return receipt
+requested, (b) hand delivery, (c) overnight delivery service, (d) first class
+mail, or (e) facsimile transmission, and (iii) deemed to have been duly given or
+made when actually delivered or, in the case of notice by facsimile
+transmission, when received and telephonically confirmed, addressed as follows:
+
+         William T. Keon, III
+         NUTRITIONAL SOURCING CORPORATION
+         550 Biltmore Way
+         Suite 900
+         Coral Gables, Florida  33134
+         Telephone: (305) 442-3407
+         Facsimile: (305) 447-1389
+
+         with a copy to:
+
+         Michael B. Solow
+         Harold D. Israel
+         KAYE SCHOLER LLC
+         Three First National Plaza
+         70 West Madison Street, Suite 4100
+         Chicago, Illinois  60602
+         Telephone: (312) 583-2300
+         Facsimile: (312) 583-2360
+
+                           and
+
+
+
+                                       35
+<PAGE>
+
+         Michael J. Sage
+         Edward O. Sassower
+         STROOCK & STROOCK & LAVAN LLP
+         180 Maiden Lane
+         New York, New York 10038
+         Telephone: (212) 806-5400
+         Facsimile: (212) 806-6006
+
+
+O. INDEMNIFICATION OBLIGATIONS
+
+         Except as otherwise specifically limited in this Plan, any obligations
+or rights of the Debtor to indemnify its present and former directors, officers,
+or employees pursuant to the Debtor's certificate of incorporation, by-laws,
+policy of providing employee indemnification, applicable state law, or specific
+agreement in respect of any claims, demands, suits, causes of action, or
+proceedings against such directors, officers, or employees based upon any act or
+omission related to such present and former directors', officers', or employees'
+service with, for, or on behalf of the Debtor, shall survive confirmation of
+this Plan and remain unaffected thereby, irrespective of whether indemnification
+is owed in connection with an occurrence before or after the Petition Date.
+
+         If the Direction Letter is issued, none of the indemnification
+provisions currently in place for directors, officers and each of the Debtor's
+advisors (whether in the Debtor's bylaws, contracts or otherwise) shall survive
+confirmation of the Plan except to the extent that (i) any related claims are
+covered by insurance policies in respect of the Debtor and (ii) the
+indemnification is part of the retention of an advisor approved by the
+Bankruptcy Court. The Debtor may obtain sufficient tail coverage under its
+existing directors and officers insurance policy for current officers and
+directors provided that the terms are reasonably acceptable to the Debtor and
+the Committee.
+
+P. PREPAYMENT
+
+         Except as otherwise provided in this Plan or the Confirmation Order,
+the Debtor shall have the right to prepay, without penalty, all or any portion
+of an Allowed Claim at any time; PROVIDED, HOWEVER, that any such prepayment
+shall not be violative of, or otherwise prejudice, the relative priorities and
+parties among the classes of Claims.
+
+Q. TERM OF INJUNCTIONS OR STAY
+
+         Unless otherwise provided herein or in the Confirmation Order, all
+injunctions or stays provided for in the Chapter 11 Case under Sections 105 or
+362 of the Bankruptcy Code or otherwise, and extant on the Confirmation Date
+(excluding any injunctions or stays contained in this Plan or the Confirmation
+Order), shall remain in full force and effect until the Consummation Date.
+
+
+
+                                       36
+<PAGE>
+
+R. REGISTRATION RIGHTS AGREEMENT
+
+         Without limiting the effect of Section 1145 of the Bankruptcy Code, on
+the Effective Date, under the Alternative Plan, the Reorganized Debtor will be
+deemed to have entered into a Registration Rights Agreement with each holder of
+a Claim entitled to a distribution of New Common Stock (i) who by virtue of
+holding New Common Stock to be distributed under the Plan and/or its
+relationship with Reorganized Debtor could reasonably be deemed to be an
+"affiliate" (as such term is used within the meaning of applicable securities
+laws) of Reorganized Debtor, and (b) who requests in writing that New Common
+Stock execute such agreement. The Registration Rights Agreement shall contain
+certain shelf, demand and piggyback registration rights for the benefit of the
+signatories thereto.
+
+S. HART-SCOTT-RODINO COMPLIANCE
+
+         Any shares of New Common Stock distributed under the Alternative Plan
+to any entity required to file a Premerger Notification and Report Form under
+the Hart-Scott-Rodino Antitrust Improvements Act of 1976, as amended, shall not
+be distributed until the notification and waiting periods applicable under such
+Act to such entity shall have expired or been terminated. Any filing fees
+associated with any such filing shall be paid by the Reorganized Debtor.
+
+T. ALLOCATION OF PLAN DISTRIBUTIONS BETWEEN PRINCIPAL AND INTEREST
+
+         To the extent that any Allowed Claim entitled to a distribution under
+the Plan is comprised of indebtedness and accrued but unpaid interest thereon,
+the value of such distribution shall be allocated to the principal amount of the
+Claim first and then, to the extent consideration exceeds the principal amount
+of the Claim, to accrued but unpaid interest.
+
+
+
+                  [REMAINDER OF PAGE INTENTIONALLY LEFT BLANK]
+
+
+                                       37
+<PAGE>
+
+
+U. GOVERNING LAW
+
+         Unless a rule of law or procedure is supplied by federal law (including
+the Bankruptcy Code and Bankruptcy Rules), the laws of (i) the State of Delaware
+shall govern the construction and implementation of the Plan and any agreements,
+documents, and instruments executed in connection with the Plan and (ii) the
+laws of the state of incorporation of the Debtor shall govern corporate
+governance matters with respect to such Debtor, in either case without giving
+effect to the principles of conflicts of law thereof.
+
+Dated: Wilmington, Delaware
+       January 31, 2003
+
+                                        NUTRITIONAL SOURCING CORPORATION
+
+
+                                        By:      /s/ Daniel J.O'Leary
+                                              --------------------------------
+                                              Name:  Daniel J. O'Leary
+                                              Title: Chief Financial Officer
+
+
+
+
+Michael B. Solow
+Harold D. Israel
+KAYE SCHOLER LLC
+Three First National Plaza
+70 West Madison Street, Suite 4100
+Chicago, Illinois  60602
+Telephone: (312) 583-2300
+Facsimile: (312) 583-2360
+
+            -and-
+
+Richard W. Riley
+DUANE MORRIS LLP
+1100 North Mark Street
+Suite 1200
+Wilmington, DE  19801
+Telephone: (302) 657-4900
+Facsimile: (302) 657-4901
+
+ATTORNEYS FOR NUTRITIONAL SOURCING CORPORATION
+
+
+
+                                       38
+<PAGE>
+
+
+
+                                TABLE OF EXHIBITS
+
+                                                                          PAGE
+                                                                          ----
+
+
+
+EXHIBIT      NAME
+
+A            Amended Certificate of Incorporation and Bylaws of NSC
+B            New Senior Note Indenture
+C            Intercreditor Agreement
+D            Registration Rights Agreement
+
+
+
+
+                                       39
+
+</TEXT>
+</DOCUMENT>
